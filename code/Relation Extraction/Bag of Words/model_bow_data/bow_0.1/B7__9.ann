@@ -1,0 +1,87 @@
+T1	Environment 132 141	sediments
+T2	Environment 171 180	sediments
+T3	Environment 156 180	uncontaminated sediments
+T4	Environment 156 180	uncontaminated sediments
+T5	Environment 119 141	contaminated sediments
+T6	Environment 436 445	sediments
+T7	Environment 421 445	uncontaminated sediments
+T8	Environment 421 445	uncontaminated sediments
+T9	Substrate 298 302	BTEX
+T10	Property 303 315	contaminants
+T11	Substrate 518 522	BTEX
+T12	Substrate 546 550	BTEX
+T13	ReactionOrProcess 551 562	degradation
+T14	Substrate 604 608	BTEX
+T15	Property 609 618	degraders
+T16	Microbes 714 727	Geobacter spp
+T17	ReactionOrProcess 700 710	Enrichment
+R1	CarriedOn Arg1:T17 Arg2:T16
+T18	Substrate 744 751	benzene
+T19	ReactionOrProcess 752 763	degradation
+T20	Microbes 805 819	Geobacteraceae
+T21	Microbes 983 997	Geobacteraceae
+T22	Environment 854 863	sediments
+T23	Environment 915 924	sediments
+T24	Substrate 934 941	benzene
+T25	ReactionOrProcess 955 963	degraded
+T26	ReactionOrProcess 833 837	DGGE
+T27	ReactionOrProcess 879 882	PCR
+T28	ReactionOrProcess 833 846	DGGE analysis
+R2	CarriedOn Arg1:T26 Arg2:T24
+R3	CarriedOn Arg1:T28 Arg2:T24
+T29	Microbes 1007 1021	Geobacteraceae
+T30	Environment 1198 1207	sediments
+T31	Environment 1235 1253	methanogenic sites
+T32	Property 1235 1247	methanogenic
+T33	Property 1235 1247	methanogenic
+T34	Microbes 1366 1380	Geobacteraceae
+T35	Microbes 1438 1452	Geobacteraceae
+T36	Microbes 1597 1616	enrichment cultures
+T37	Property 1564 1581	benzene-oxidizing
+T38	ReactionOrProcess 1597 1607	enrichment
+T39	Environment 2217 2226	sediments
+T40	Environment 2202 2226	uncontaminated sediments
+T41	Environment 2202 2226	uncontaminated sediments
+T42	ReactionOrProcess 2094 2104	enrichment
+T43	Microbes 2372 2386	Geobacteraceae
+T44	Environment 2291 2300	sediments
+T45	Environment 2276 2300	uncontaminated sediments
+T46	Environment 2276 2300	uncontaminated sediments
+T47	Microbes 2443 2456	Geobacter spp
+T48	ReactionOrProcess 2429 2439	enrichment
+R4	CarriedOn Arg1:T48 Arg2:T47
+T49	Microbes 2516 2529	Geobacter spp
+T50	Substrate 2473 2480	benzene
+T51	ReactionOrProcess 2481 2492	degradation
+R5	CarriedOn Arg1:T51 Arg2:T49
+T52	Substrate 2605 2623	aromatic compounds
+T53	Substrate 2597 2623	oxidize aromatic compounds
+T54	Substrate 2605 2623	aromatic compounds
+T55	Property 2605 2613	aromatic
+T56	ReactionOrProcess 2597 2604	oxidize
+T57	Nutrient 2627 2633	carbon
+T58	Microbes 2730 2742	Geobacter sp
+T59	Substrate 2701 2708	benzene
+T60	ReactionOrProcess 2693 2700	degrade
+T61	Microbes 2893 2911	enrichment culture
+T62	Substrate 2802 2809	benzene
+T63	ReactionOrProcess 2893 2903	enrichment
+T64	ReactionOrProcess 2810 2821	degradation
+T65	Microbes 2943 2961	enrichment culture
+T66	Microbes 3098 3111	Geobacter spp
+T67	Environment 2993 3002	sediments
+T68	Environment 3072 3081	sediments
+T69	Environment 3057 3081	uncontaminated sediments
+T70	Environment 3057 3081	uncontaminated sediments
+T71	Substrate 3020 3027	benzene
+T72	ReactionOrProcess 2943 2953	enrichment
+T73	ReactionOrProcess 3028 3039	degradation
+R6	CarriedOn Arg1:T72 Arg2:T66
+R7	CarriedOn Arg1:T73 Arg2:T66
+R8	CarriedOn Arg1:T72 Arg2:T71
+T74	Substrate 3145 3152	benzene
+T75	ReactionOrProcess 3153 3164	degradation
+T76	Microbes 3266 3285	enrichment cultures
+T77	Environment 3303 3312	sediments
+T78	ReactionOrProcess 3266 3276	enrichment
+T79	Microbes 3365 3379	Geobacteraceae

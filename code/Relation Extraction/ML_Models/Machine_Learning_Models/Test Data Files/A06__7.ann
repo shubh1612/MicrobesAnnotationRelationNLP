@@ -1,0 +1,13 @@
+T1 Substrate 132 139 toluene
+T2 Enzyme 418 441 naphthalene dioxygenase
+T3 Substrate 336 343 toluene
+T4 Property 683 691 residues
+T5 Enzyme 1212 1235 naphthalene dioxygenase
+T6 Property 997 1005 residues
+T7 Nutrient 1093 1097 iron
+T8 Substrate 2224 2231 toluene
+T9 Substrate 2331 2338 toluene
+T10 Substrate 2349 2360 naphthalene
+T11 Nutrient 2292 2296 iron
+T12 Property 3105 3111 stable
+T13 ReactionOrProcess 3975 3978 PCR

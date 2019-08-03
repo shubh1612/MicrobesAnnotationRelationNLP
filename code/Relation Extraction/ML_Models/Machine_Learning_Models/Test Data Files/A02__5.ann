@@ -1,0 +1,72 @@
+T1 Microbes 146 161 Syntrophobacter
+T2 Microbes 73 88 Desulfohalobium
+T3 Property 109 125 sulfate-reducing
+T4 Property 304 320 sulfate-reducing
+T5 ReactionOrProcess 440 451 degradation
+T6 ReactionOrProcess 383 400 sulfate reduction
+T7 Environment 600 606 marine
+T8 ReactionOrProcess 528 546 oil bioremediation
+T9 ReactionOrProcess 473 482 reduction
+T10 Nutrient 468 472 iron
+T11 Nutrient 486 496 phosphorus
+T12 Nutrient 578 588 phosphorus
+T13 Nutrient 453 463 Phosphorus
+T14 Environment 825 830 plume
+T15 ReactionOrProcess 663 698 inorganic polyphosphate degradation
+T16 ReactionOrProcess 723 734 degradation
+T17 Substrate 945 948 oil
+T18 Nutrient 903 913 phosphorus
+T19 Environment 1063 1068 plume
+T20 Environment 1183 1193 deep water
+T21 ReactionOrProcess 1154 1163 reduction
+T22 ReactionOrProcess 1123 1134 degradation
+T23 Environment 1375 1380 plume
+T24 Environment 1702 1707 plume
+T25 Environment 2010 2015 plume
+T26 ReactionOrProcess 2158 2182 intrinsic bioremediation
+T27 ReactionOrProcess 2535 2545 replicates
+T28 Substrate 2731 2734 oil
+T29 Environment 2912 2918 marine
+T30 Substrate 2854 2857 oil
+T31 Environment 3351 3360 oil plume
+T32 ReactionOrProcess 3157 3168 degradation
+T33 ReactionOrProcess 3189 3203 methanogenesis
+T34 ReactionOrProcess 3228 3245 sulfate reduction
+T35 Nutrient 3170 3176 carbon
+T36 Nutrient 3205 3213 nitrogen
+T37 Nutrient 3247 3257 phosphorus
+T38 Substrate 3528 3531 oil
+T39 Environment 3726 3732 marine
+T40 Substrate 3801 3804 oil
+T41 Substrate 3918 3927 petroleum
+T42 Substrate 3904 3907 oil
+T43 Substrate 4273 4282 petroleum
+T44 Substrate 4175 4178 oil
+T45 Substrate 4465 4478 dispersed oil
+T46 Property 4318 4336 deep-sea oil plume
+T47 Substrate 4656 4659 oil
+T48 ReactionOrProcess 4583 4592 degrading
+T49 Environment 4849 4858 oil plume
+T50 Substrate 4790 4801 various oil
+T51 Substrate 4949 4952 oil
+T52 ReactionOrProcess 4753 4786 aerobic and anaerobic degradation
+T53 Environment 5236 5241 plume
+T54 Environment 5206 5215 oil plume
+T55 Substrate 5124 5128 BTEX
+T56 Substrate 4982 4989 alkanes
+T57 Substrate 5361 5372 various oil
+T58 Property 5343 5357 concentrations
+T59 Property 5373 5385 contaminants
+R5 OccursIn Arg1:T8 Arg2:T7
+R6 OccursIn Arg1:T9 Arg2:T7
+R7 OccursIn Arg1:T15 Arg2:T14
+R8 OccursIn Arg1:T16 Arg2:T14
+R10 OccursIn Arg1:T21 Arg2:T20
+R12 OccursIn Arg1:T22 Arg2:T20
+R14 OccursIn Arg1:T32 Arg2:T31
+R15 OccursIn Arg1:T33 Arg2:T31
+R16 OccursIn Arg1:T34 Arg2:T31
+R17 CarriedOn Arg1:T48 Arg2:T47
+R18 CarriedOn Arg1:T52 Arg2:T50
+R19 CarriedOn Arg1:T52 Arg2:T51
+R20 OccursIn Arg1:T52 Arg2:T49

@@ -1,0 +1,72 @@
+T1	Property 65 77	methanogenic
+T2	Property 58 64	stable
+T3	Nutrient 95 102	glucose
+T4	Property 306 325	pollutant-degrading
+T5	Property 344 349	speed
+T6	ReactionOrProcess 255 269	Bioremediation	
+T7	Environment 549 559	microcosms
+T8	Substrate 616 619	oil
+T9	Substrate 621 624	Oil	
+T10	ReactionOrProcess 643 657	bioremediation
+T11	ReactionOrProcess 986 999	DGGE analysis
+T12	Microbes 1047 1063	α-proteobacteria
+T13	Substrate 1124 1127	oil
+T14	ReactionOrProcess 1031 1045	bioremediation
+T15	Microbes 1219 1235	α-proteobacteria
+T16	ReactionOrProcess 1396 1406	metabolize
+T17	Nutrient 1562 1568	carbon
+T18	Environment 1775 1801	intertidal beach sediments
+T19	Environment 1938 1964	intertidal beach sediments
+T20	Environment 2158 2167	sediments
+T21	Environment 2152 2157	beach
+T22	Substrate 2176 2179	oil
+T23	ReactionOrProcess 2186 2200	bioremediation
+T24	Microbes 2349 2365	γ-proteobacteria
+T25	Environment 2381 2391	microcosms
+T26	Microbes 2533 2549	α-proteobacteria
+T27	Microbes 2397 2413	γ-proteobacteria
+T28	Environment 2448 2456	sediment
+T29	Environment 2553 2563	microcosms
+T30	Substrate 2478 2481	oil
+T31	Substrate 2577 2580	oil
+T32	Environment 2662 2672	microcosms
+T33	Environment 2832 2842	microcosms
+T34	Substrate 2757 2760	PAH
+T35	Property 2748 2756	residual
+T36	ReactionOrProcess 2787 2810	hydrocarbon degradation
+T37	ReactionOrProcess 2628 2654	ongoing alkane degradation
+T38	Microbes 2939 2955	γ-proteobacteria
+T39	Microbes 3121 3137	γ-proteobacteria
+T40	Environment 2876 2885	sediments
+T41	Environment 3095 3098	Sea
+T42	Environment 2959 2991	oil-contaminated beach sediments
+T43	Substrate 3034 3037	oil
+T44	Substrate 3063 3066	oil
+T45	Microbes 3219 3235	γ-proteobacteria
+T46	Substrate 3320 3331	spilled oil
+T47	Microbes 3425 3448	Alcanivorax borkumensis	
+T48	Substrate 3576 3583	alkanes
+T49	Substrate 3662 3669	Alkanes	
+T50	Substrate 3680 3683	oil
+T51	ReactionOrProcess 3882 3905	hydrocarbon degradation
+T52	ReactionOrProcess 3826 3840	bioremediation
+T53	ReactionOrProcess 3956 3959	PCR
+T54	ReactionOrProcess 3964 3971	cloning
+T55	Environment 4497 4505	seawater
+T56	Substrate 4524 4527	oil
+T57	Property 4336 4348	fluorescence
+T58	ReactionOrProcess 4482 4493	incubations
+T59	ReactionOrProcess 4357 4370	hybridization
+R1	CarriedOn Arg1:T10 Arg2:T9
+R3	CarriedOn Arg1:T14 Arg2:T12
+R5	CarriedOn Arg1:T23 Arg2:T22
+R6	OccursIn Arg1:T23 Arg2:T20
+R7	OccursIn Arg1:T23 Arg2:T21
+R8	FoundIn Arg1:T24 Arg2:T25
+R10	FoundIn Arg1:T26 Arg2:T29
+R17	CarriedOn Arg1:T36 Arg2:T34
+R21	OccursIn Arg1:T37 Arg2:T32
+R25	FoundIn Arg1:T38 Arg2:T42
+R38	CarriedOn Arg1:T58 Arg2:T56
+R40	OccursIn Arg1:T58 Arg2:T55
+T60	Microbes 2112 2130	Erythrobacter spp.

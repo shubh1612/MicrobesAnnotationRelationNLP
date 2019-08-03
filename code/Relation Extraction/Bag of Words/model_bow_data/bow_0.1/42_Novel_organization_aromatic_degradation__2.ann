@@ -1,0 +1,25 @@
+T1	ReactionOrProcess 213 216	PCR
+T2	Microbes 521 537	Escherichia coli
+T3	Environment 424 434	wastewater
+T4	Substrate 454 472	aromatic compounds
+T5	Substrate 454 472	aromatic compounds
+T6	Property 454 462	aromatic
+T7	ReactionOrProcess 1296 1307	degradation
+T8	ReactionOrProcess 2491 2494	PCR
+T9	ReactionOrProcess 2545 2556	degradation
+T10	ReactionOrProcess 2648 2651	PCR
+T11	ReactionOrProcess 2765 2771	cloned
+T12	Microbes 2954 2961	E. coli
+T13	Substrate 3817 3835	aromatic compounds
+T14	Substrate 3817 3835	aromatic compounds
+T15	Property 3644 3652	aromatic
+T16	Property 3817 3825	aromatic
+T17	ReactionOrProcess 3801 3808	degrade
+T18	ReactionOrProcess 3644 3664	aromatic degradation
+T19	ReactionOrProcess 3653 3664	degradation
+T20	ReactionOrProcess 3789 3800	aerobically
+T21	Substrate 3862 3877	catabolic genes
+T22	Substrate 3862 3877	catabolic genes
+T23	ReactionOrProcess 3967 3987	complete degradation
+T24	ReactionOrProcess 3953 3987	efficient and complete degradation
+T25	ReactionOrProcess 3976 3987	degradation

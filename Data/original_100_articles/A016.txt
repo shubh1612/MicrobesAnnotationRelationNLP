@@ -1,0 +1,1598 @@
+Bacterial Community Dynamics and Polycyclic Aromatic Hydrocarbon Degradation during Bioremediation of Heavily Creosote-Contaminated Soil
+APPLIED AND ENVIRONMENTAL MICROBIOLOGY, Nov. 2005, p. 7008–7018
+0099-2240/05/$08.00⫹0 doi:10.1128/AEM.71.11.7008–7018.2005
+Copyright © 2005, American Society for Microbiology. All Rights Reserved.
+
+Vol. 71, No. 11
+
+Marc Viñas,1 Jordi Sabaté,1 Marı́a José Espuny,2 and Anna M. Solanas1*
+Department of Microbiology, University of Barcelona, Diagonal 645, E-08028 Barcelona, Spain,1 and Department of
+Microbiology and Parasitology, University of Barcelona, Joan XXIII, s/n, E-08028 Barcelona, Spain2
+Received 27 December 2004/Accepted 19 July 2005
+
+Bacterial community dynamics and biodegradation processes were examined in a highly creosote-contaminated soil undergoing a range of laboratory-based bioremediation treatments. The dynamics of the eubacterial
+community, the number of heterotrophs and polycyclic aromatic hydrocarbon (PAH) degraders, and the total
+petroleum hydrocarbon (TPH) and PAH concentrations were monitored during the bioremediation process.
+TPH and PAHs were significantly degraded in all treatments (72 to 79% and 83 to 87%, respectively), and the
+biodegradation values were higher when nutrients were not added, especially for benzo(a)anthracene and
+chrysene. The moisture content and aeration were determined to be the key factors associated with PAH
+bioremediation. Neither biosurfactant addition, bioaugmentation, nor ferric octate addition led to differences
+in PAH or TPH biodegradation compared to biodegradation with nutrient treatment. All treatments resulted
+in a high first-order degradation rate during the first 45 days, which was markedly reduced after 90 days. A
+sharp increase in the size of the heterotrophic and PAH-degrading microbial populations was observed, which
+coincided with the highest rates of TPH and PAH biodegradation. At the end of the incubation period, PAH
+degraders were more prevalent in samples to which nutrients had not been added. Denaturing gradient gel
+electrophoresis analysis and principal-component analysis confirmed that there was a remarkable shift in the
+composition of the bacterial community due to both the biodegradation process and the addition of nutrients.
+At early stages of biodegradation, the ␣-Proteobacteria group (genera Sphingomonas and Azospirillum) was the
+dominant group in all treatments. At later stages, the ␥-Proteobacteria group (genus Xanthomonas), the
+␣-Proteobacteria group (genus Sphingomonas), and the Cytophaga-Flexibacter-Bacteroides group (Bacteroidetes)
+were the dominant groups in the nonnutrient treatment, while the ␥-Proteobacteria group (genus Xathomonas),
+the ␤-Proteobacteria group (genera Alcaligenes and Achromobacter), and the ␣-Proteobacteria group (genus
+Sphingomonas) were the dominant groups in the nutrient treatment. This study shows that specific bacterial
+phylotypes are associated both with different phases of PAH degradation and with nutrient addition in a
+preadapted PAH-contaminated soil. Our findings also suggest that there are complex interactions between
+bacterial species and medium conditions that influence the biodegradation capacity of the microbial communities involved in bioremediation processes.
+phosphorus, which allows the necessary increase in the size of
+the hydrocarbon-degrading microbial populations.
+Taking into account the fact that each contaminated site can
+respond in a different way to distinct parameters that affect
+microbial biodegradation, laboratory-scale bioremediation
+protocols have been developed in order to determine the effects of different conditions (30). In such feasibility studies,
+addition of nutrients, biosurfactants, exogenous inocula, or
+other additives can be assayed. Nevertheless, in almost all of
+these studies monitoring of the process is based on chemical
+analysis of contaminants. A better understanding of the diversity of the microbial communities inhabiting PAH-contaminated soils and their response to different biostimulation or
+bioaugmentation strategies could provide clues about the type
+of bacteria that are able to adapt to and exploit such habitats.
+It is well known that the majority of microbes in environmental samples cannot be cultured at present in laboratory
+media, which are biased for the growth of specific microorganisms (5, 34). In light of this, molecular biological techniques
+offer new opportunities. For example, denaturing gradient gel
+electrophoresis (DGGE) allows us to directly determine the
+presence and relative levels of different 16S rRNA gene am-
+
+Polycyclic aromatic hydrocarbons (PAHs) are a class of
+fused-ring aromatic compounds that are ubiquitous environmental pollutants (13). Microorganisms play an important role
+in the degradation of PAHs in terrestrial and aquatic ecosystems, and microbial degradation is the main process in natural
+decontamination. Enhancement of this phenomenon is the
+basis of bioremediation technologies (2).
+Microbial degradation of PAHs in soil is restricted by various factors that often result in a lower-than-expected bioremediation efficiency. One of these factors is the low bioavailability
+of the compounds. In a recent study (1) we described significant enhancement of the biodegradation of high-molecularweight PAHs and alkylated derivatives of these compounds
+from Casablanca crude oil caused by a microbial consortium in
+the presence of a biosurfactant produced by Pseudomonas
+aeruginosa strain AT10. Another important factor in bioremediation of contaminated soils is the availability of nitrogen and
+* Corresponding author. Mailing address: Department of Microbiology, University of Barcelona, Diagonal 645, E-08028 Barcelona,
+Spain. Phone: (34) 93 4034623. Fax: (34) 93 4034629. E-mail: asolanas
+@ub.edu.
+7008
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+Bacterial Community Dynamics and Polycyclic Aromatic Hydrocarbon
+Degradation during Bioremediation of Heavily
+Creosote-Contaminated Soil
+
+VOL. 71, 2005
+
+BIOREMEDIATION OF CREOSOTE-CONTAMINATED SOIL
+
+7009
+
+TABLE 1. Soil treatments
+Code
+
+Treatment
+
+a
+
+Untreated “dry” soil
+Basic
+Autoclaved soil
+Nutrientb
+
+5M
+
+Nutrient ⫹ biosurfactantb
+
+6M
+
+Nutrient ⫹ inoculumb,c
+
+7M
+
+Nutrient ⫹ iron octoateb
+
+Soil with 1.63% water content corresponding to 5.8% WHC
+Aerated soil at 40% WHC
+Autoclaved three times at 121°C for 21 min
+Aerated soil at 40% WHC; KNO3 and K2HPO4 added to give a final concentration equivalent
+to a C/N/P molar ratio of 300:10:1 from the total organic carbon
+Aerated soil at 40% WHC; nutrients; biosurfactant MAT10 added twice (days 0 and 130) at
+a final water interstitial concentration of 150 mg liter⫺1d
+Aerated soil at 40% WHC; nutrients; polycyclic aromatic hydrocarbon-degrading consortium
+AM added five times (days 14, 26, 57, 120, and 165) so that there were 108 microorganisms g of soil⫺1
+at each additione
+Aerated soil at 40% WHC; nutrients; ferric ion added as ferric octoate twice (days 0 and 145)
+as an oleophilic source of iron at a final interstitial water concentration of 250 ␮M f
+
+a
+All treatments were carried out in triplicate in 1-liter sterile glass jars containing 600 g of sieved soil (⬍6 mm) and were aerated and moisture corrected by mixing
+twice a week.
+b
+Nutrient amendment was carried out as follows: one-third of the total nutrient addition was performed at time zero, and the remaining two-thirds was added on
+days 45 and 90.
+c
+Cells from consortium AM on day 6 of incubation were grown overnight in Erlenmeyer flasks containing 500 ml of tryptone soy broth to obtain an optical density
+at 600 nm of 0.8 (5 ⫻ 1010 total cells). Then the cells were harvested and washed in 0.85 M NaCl. The pellet was resuspended in 0.85 M NaCl and added to correct
+the water content in treatment 6M (approximately 30 ml).
+d
+See reference 1 for a description of biosurfactant MAT10.
+e
+See references 1 and 36 for a description of consortium AM.
+f
+See reference 33.
+
+plicons both qualitatively and semiquantitatively in order to
+perform a community analysis (15).
+Although there has been much research on the bacterial
+community structure associated with bioremediation of different kinds of environmental pollutants (18, 23, 26), little is
+known about bioremediation of PAH-contaminated soils. The
+few studies that have been described to date have been performed either with soils with low levels of PAH contamination
+(6, 41, 28) or with spiked soils (32), and there has not been
+accurate monitoring of the microbial population dynamics
+throughout the biodegradation process.
+To assess both the potential of bioremediation in a heavily
+PAH-contaminated soil and the effects of different treatments
+on the bacterial community structure, we used a series of
+bioremediation treatments in microcosm experiments. An old,
+loamy clay soil that was heavily contaminated with PAH-creosote (⬃8,000 mg total petroleum hydrocarbon [TPH] kg of
+soil⫺1, including 2,700 mg resolved PAH kg of soil⫺1) was
+subjected to different treatments. Degradation of the PAHs
+and TPH of creosote was monitored. The bacterial community
+was studied by culture-independent analysis of 16S rRNA
+genes by means of DGGE (25) and determination of the most
+probable number (MPN) of heterotrophs and PAH degraders
+in the microbial population (39).
+MATERIALS AND METHODS
+Soil analysis. A composite sample of creosote-contaminated soil (50 kg) from
+a wood treatment plant near Barcelona, Spain, was obtained from the top 20 cm
+and sieved (⬍6 mm). The soil texture was determined by sedimentation analysis
+(16). The primary dissolved inorganic constituents of a saturated paste extract
+(nitrate, nitrite, ammonia, phosphorus) were determined using ion chromatography (30). The soil moisture content, water-holding capacity (WHC), electrical
+conductivity, total organic carbon content, total nitrogen content, and pH were
+determined as described previously (30).
+Seven different treatments in microcosms experiments designated 1M to 7M
+were used in the study, as shown in Table 1. To determine the best soil water
+content for use in the microcosm experiments, five different water contents (5%,
+20%, 40%, 60%, and 75% WHC) and autoclaved soil as an abiotic control were
+assayed for 15 days in triplicate in miniaturized microcosms with the nutrient
+
+additions described in Table 1. The best results (P ⬍ 0.05) were observed with
+40% and 60% WHC (22 to 27% biodegradation of TPH), while with 20% and
+75% WHC only slight biodegradation was observed (14%). Untreated soil (5%
+WHC) did not show significant biodegradation (P ⬎ 0.05). Thus, water content
+was established as a key factor for biodegradation activity, and 40% WHC was
+defined as the optimal water content for soil microcosm experiments.
+Chemical, microbial, and molecular analyses were carried out on sampling
+days 0, 21, 45, 90, 135, and 200. At each sampling time, 30 g of soil was extracted
+as a composite sample from five points in each microcosm and stored at ⫺20°C
+prior to most analyses; the only exception was microbial counting, which was
+performed immediately after sampling.
+Monitoring the concentrations of total petroleum hydrocarbon and polycyclic
+aromatic hydrocarbons. Samples were dried for 16 h at room temperature and
+sieved (⬍2 mm). Before extraction, an orthoterphenyl acetone solution was
+added to 2 g of sieved, dried soil as a surrogate internal standard. The spiked
+sample was extracted five times in an ultrasonic bath (15 min for each extraction)
+with 10 ml of dichloromethane-acetone (1:1, vol/vol), and the extracts were
+combined to obtain the total organic extract. The extracts were dried over
+Na2SO4 and concentrated in a rotary evaporator to dryness. The TPH fraction
+was obtained with an alumina chromatographic column using the EPA3611
+method (U.S. Environmental Agency). The TPH fraction and the PAHs were
+analyzed by gas chromatography with flame ionization detection using a Trace
+2000 gas chromatograph (Thermo Quest, Milan, Italy) as described previously
+(1). Before this, a set of samples was analyzed by gas chromatography with a mass
+detector to verify the purity of the peaks analyzed by gas chromatography with
+flame ionization detection (data not shown). Final TPH and PAH concentrations
+were calculated using standard calibration curves for TPH and each PAH.
+Monitoring of heterotrophic and hydrocarbon-degrading microbial populations. Total heterotrophic and PAH-degrading microbial population counts were
+determined on days 0, 21, 45, 90, 135, and 200 using a miniaturized mostprobable-number (MPN) technique as described previously (39).
+DNA extraction. Soil samples for DNA extraction were collected from each
+microcosm on days 0, 21, 45, 90, 135, and 200 in sterile Eppendorf tubes and
+stored at ⫺20°C prior to analysis.
+Total community DNA was extracted from all soil microcosms following a
+bead beating protocol using an Ultraclean DNA soil extraction kit (MoBio
+Laboratories, Inc., Solano Beach, CA). Suitable yields of high-molecular-weight
+DNA (5 to 20 ␮g g of soil⫺1) were obtained. An additional purification step with
+a Clean DNA Wizard kit (Promega, Madison, WI) was employed to avoid PCR
+inhibition.
+Preliminary data for independent triplicate microcosms showed that the Pearson correlation moment vector (r) calculated from the relative band intensities of
+DGGE profiles for treatments 1M, 2M, and 4M (after 0 and 200 days of incubation) was more than 0.85. These data indicated that there was homogeneity in
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+1M
+2M
+3M
+4M
+
+Description
+
+7010
+
+VIÑAS ET AL.
+
+APPL. ENVIRON. MICROBIOL.
+
+TABLE 2. Concentrations and removal of TPH and target PAHs in bioremediation treatments
+Concn (mg kg [dry wt] of soil⫺1)
+Compound
+
+c
+
+Soil, day 0
+
+Dry soil, day
+200 (1M)
+
+Autoclaved, day
+200 (3M)
+
+40% WHC
+(2M)
+
+Nutrients
+(4M)
+
+Biosurfactant
+(5M)
+
+Inoculated
+(6M)
+
+Fe octoate
+(7M)
+
+8,196 ⫾ 480 Aa
+151 ⫾ 4 C
+182 ⫾ 2 D
+496 ⫾ 24 A
+114 ⫾ 15 A
+72 ⫾ 6 A
+78 ⫾ 4 A
+25 ⫾ 5 A
+131 ⫾ 7 A
+40 ⫾ 1 A
+693 ⫾ 48 A
+387 ⫾ 30 A
+108 ⫾ 10 A
+144 ⫾ 10 A
+82 ⫾ 7 A
+21 ⫾ 2 A
+2,724 ⫾ 134 C
+
+8,120 ⫾ 285 A
+80 ⫾ 7 A
+137 ⫾ 10 A
+510 ⫾ 23 A
+85 ⫾ 8 A
+75 ⫾ 1 A
+81 ⫾ 2 A
+20 ⫾ 1 A
+128 ⫾ 4 A
+41 ⫾ 2 A
+728 ⫾ 38 A
+403 ⫾ 9 A
+115 ⫾ 3 A
+153 ⫾ 8 A
+71 ⫾ 12 A
+22 ⫾ 1 A
+2,649 ⫾ 130 C
+
+7,570 ⫾ 39 B
+74 ⫾ 2 A
+117 ⫾ 3 B
+465 ⫾ 10 B
+95 ⫾ 2 A
+71 ⫾ 2 A
+78 ⫾ 3 A
+21 ⫾ 1 A
+116 ⫾ 3 B
+40 ⫾ 2 A
+707 ⫾ 33 A
+386 ⫾ 8 A
+112 ⫾ 4 A
+147 ⫾ 5 A
+80 ⫾ 16 A
+19 ⫾ 1 A
+2,518 ⫾ 148 C
+
+79 C
+100 B
+100 C
+96 C
+84 B
+100 B
+100 B
+100 B
+97 C
+100 B
+92 B
+87 C
+72 B
+62 B
+0A
+11 A
+87 A
+
+74 D
+100 B
+100 C
+96 C
+81 B
+100 B
+100 B
+47 C
+89 C
+100 B
+92 B
+90 C
+43 C
+39 C
+0A
+9A
+84 B
+
+73 D
+100 B
+100 C
+97 C
+79 B
+100 B
+88 C
+44 C
+89 C
+89 B
+94 B
+90 C
+40 C
+35 C
+0A
+0A
+83 B
+
+73 D
+100 B
+100 C
+96 C
+80 B
+100 B
+83 C
+48 C
+89 C
+100 C
+92 B
+89 C
+41 C
+34 C
+0A
+4A
+83 B
+
+72 D
+100 B
+100 C
+96 C
+87 B
+94 B
+82 C
+46 C
+88 C
+100 B
+91 B
+88 C
+39 C
+33 C
+0A
+4A
+83 B
+
+Different letters indicate significant differences between treatments (P ⬍ 0.05).
+Total PAHs determined from the total target PAHs analyzed.
+c
+3C1Phe, 3-methyl-phenanthrene; 2C1Phe, 2-methyl-phenanthrene, C1A, methylanthracene; CYP4/9C1Phe, 4-cyclopentaphenanthrene or 9-methyl-phenanthrene;
+1C1Phe, 1-methyl-phenanthrene.
+a
+b
+
+each treatment. Hence, DNA was extracted from a composite 0.75-g sample
+containing 0.25 g of each microcosm replicate.
+PCR. The V3 to V5 variable regions of the 16S rRNA gene were amplified
+using primers 16F341-GC and 16R907 (40). Primer F341-GC included a GC
+clamp at the 5⬘ end (5⬘-CGCCCGCCGCGCCCCGCGCCCGTCCCG CCGCCC
+CCGCCCG-3⬘). All PCRs were performed with a personal Mastercycler (Eppendorf, Hamburg, Germany). Fifty microliters of the PCR mixture contained
+2.5 U of TaqGold (PE Applied Biosystems, Foster City, CA), 10 mM Tris-HCl
+(pH 9.0), 50 mM KCl, 1.5 mM MgCl2, each deoxynucleoside triphosphate at a
+concentration of 200 ␮M, each primer at a concentration of 0.5 ␮M, and 100 ng
+of template DNA quantified by means of the Low DNA Mass Ladder (Gibco
+BRL, Rockville, MD). After 9 min of initial denaturation at 95°C, a touchdown
+thermal profile protocol was used, and the annealing temperature was decreased
+by 1°C per cycle from 65°C to 55°C; then 20 additional cycles at 55°C were
+performed. Amplification was carried out with 1 min of denaturation at 94°C, 1
+min of primer annealing, and 1.5 min of primer extension at 72°C, followed by 10
+min of final primer extension. PCRs were done in duplicate using template DNA
+from soil microcosm composite samples, and then the mixtures were combined
+prior to DGGE analysis.
+DGGE. Approximately 800 ng of purified PCR product quantified by using the
+Low DNA Mass Ladder (Gibco BRL, Rockville, MD) was loaded onto a 6%
+(wt/vol) polyacrylamide gel that was 0.75 mm thick (to obtain better resolution),
+and the denaturing gradients used ranged from 35 to 70% denaturant (100%
+denaturant contained 7 M urea and 40% formamide). DGGE was performed in
+1⫻ TAE buffer (40 mM Tris, 20 mM sodium acetate, 1 mM EDTA; pH 7.4) using
+a DGGE-2001 system (CBS Scientific Company, Del Mar, CA) at 100 V and
+60°C for 16 h.
+The gels were stained for 45 min in 1⫻ TAE buffer containing SybrGold
+(Molecular Probes, Inc., Eugene, OR), viewed under UV light, and analyzed
+using Image Master (Amersham Pharmacia Biotech, Freiburg, Germany).
+Analysis of DGGE images. Images of DGGE gels were digitized, and DGGE
+bands were processed using the Quantity-one image analysis software (version
+4.1; Bio-Rad Laboratories, Hercules, CA) and manually corrected. After normalization of the gels, bands with relative peak area intensities greater than 2%
+were included in further analyses. Bacterial diversity was assessed using the
+Shannon-Weaver diversity index (H⬘), calculated as follows (15): H⬘ ⫽ ⫺⌺ Pi log
+Pi, where Pi is the relative peak area intensity of a DGGE band, calculated from
+ni/N, where ni is the peak area of the band and N is the sum of all peak areas in
+the densitometry curve. Furthermore, a covariance principal-component analysis
+(PCA) of band types and peak heights was carried out for treatments 1M, 2M,
+and 4M to consider possible shifts in the composition of the microbial populations. The effect of bioaugmentation (treatment 6M) on the microbial diversity of
+the soil was assessed by comparing the DGGE profiles for treatments 1M (un-
+
+treated), 4M (nutrients added), and 6M (nutrients and inoculum added) by a
+similarity cluster analysis. A dendrogram was constructed using the unweighted
+pair group method with the Pearson product-moment correlation coefficient
+calculated from the complete densitometric curves for fingerprints of soil bacterial community microcosms. The PCA and similarity cluster analysis were
+performed using the Excel application StatistiXL, version 1.4.
+Sequencing and phylogenetic analysis of denaturing gradient gel electrophoresis bands. Predominant DGGE bands were excised with a sterile razor
+blade, resuspended in 50 ␮l sterilized MilliQ water, stored at 4°C overnight,
+reamplified, cloned in the pGEM-T Easy vector (Promega, Madison, WI), and
+sequenced by using an ABI Prism Big Dye terminator cycle sequencing reaction
+kit, version 3.1 (Perkin-Elmer Applied Biosystems, Foster City, CA), and an ABI
+3700 DNA sequencer (Perkin-Elmer Applied Biosystems, Foster City, CA) and
+following the manufacturer’s instructions.
+Sequences were edited and assembled using version 4.8.7 of the BioEdit
+software (17), inspected for the presence of ambiguous base assignments, and
+subjected to the Check Chimera program of the Ribosomal Database Project
+(24) before the sequences were examined with the BLAST and RDP search
+alignment tool comparison software (4, 24).
+Statistical analysis. Data were subjected to analysis of variance using the
+Statgraphics Plus package (version 5.1; Statistical Graphics Corp., Manguistics
+Inc., United States). Duncan’s multiple-range test of means, with a significance
+level of 0.05, was applied to the results to determine their statistical significance.
+Nucleotide sequence accession numbers. The 38 nucleotide sequences identified in this study have been deposited in the GenBank database under accession
+numbers AY58562 to AY758599.
+
+RESULTS
+Soil properties. The soil was a loamy clay soil containing
+40% clay, 28% silt, and 32% sand. The total organic carbon
+and total nitrogen contents were 4.2% and 0.15%, respectively;
+the inorganic nitrogen content was 20 mg kg⫺1 nitrate and
+2.8 mg kg⫺1 ammonium, and the phosphate content was low
+(less than 1 mg kg⫺1). The soil had low conductivity (228 ␮S
+cm⫺2), the pH was 7,5, and the water content was extremely
+low (1.6%). Conversely, the soil had a high WHC (27.7%),
+possibly due to the high clay content. The PAH degraders
+accounted for up to 12% of the total heterotrophic microbial
+population, with 1.8 ⫻ 105 cells g (dry weight) of soil⫺1.
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+TPH
+Acenaphthene
+Fluorene
+Phenanthrene
+Anthracene
+3C1Phe
+2C1Phe
+C1A3
+CYP4/9C1Phe
+1C1Phe
+Fluoranthene
+Pyrene
+Benzo(a)anthracene
+Crysene
+Benzo(b⫹k)fluoranthene
+Benzo(a)pyrene
+Total PAHsb
+
+% Removal from bioremediation treatments at day 200 of incubation
+
+VOL. 71, 2005
+
+BIOREMEDIATION OF CREOSOTE-CONTAMINATED SOIL
+2M
+4M
+5M
+6M
+7M
+k2
+
+⫺0.0133 A
+⫺0.0113 A
+⫺0.0157 A
+⫺0.0124 A
+⫺0.0124 A
+
+Acenaphthene
+k
+
+⫺0.1240 A
+⫺0.1412 A
+⫺0.1406 A
+⫺0.1373 A
+⫺0.0965 A
+
+Fluorene
+k
+k2
+
+⫺0.0089 A
+⫺0.0223 B
+⫺0.0265 B
+⫺0.0252 B
+⫺0.0217 B
+
+k1
+
+⫺0.0067 A
+⫺0.0041 A
+⫺0.0062 A
+⫺0.0059 A
+⫺0.0063 A
+
+k2
+
+⫺0.0111 A
+⫺0.0103 A
+⫺0.0117 A
+⫺0.0092 A
+⫺0.0093 A
+
+k1
+
+⫺0.0043 A
+⫺0.0002 B
+⫺0.0008 B
+⫺0.0008 B
+⫺0.0008 B
+
+k2
+
+⫺0.0062 A
+⫺0.0102 B
+⫺0.0111 B
+⫺0.0100 B
+⫺0.0092 B
+
+k1
+
+⫺0.0041 A
+⫺0.0017 B
+⫺0.0004 B
+⫺0.0016 B
+⫺0.0007 B
+
+k2
+
+Pyrene
+
+k1
+
+⫺0.0067 A
+⫺0.0048 A
+⫺0.0048 A
+⫺0.0068 A
+⫺0.0057 A
+
+Fluoranthene
+
+⫺0.0258 A
+⫺0.0283 A
+⫺0.0339 B
+⫺0.0334 B
+⫺0.0297 A
+
+Biodegradation rates (day⫺1)b
+
+⫺0.0264 A
+⫺0.0265 A
+⫺0.0265 A
+⫺0.0236 A
+⫺0.0254 A
+
+Phenanthrene Anthracene
+k
+k
+
+⫺0.1107 A
+⫺0.1269 A
+⫺0.1261 A
+⫺0.1252 A
+⫺0.0923 A
+
+Benzo(a)anthracene
+
+TABLE 3. First-order biodegradation rates of TPH and target PAHs during the bioremediation experiment
+
+k1
+
+⫺0.0039 A
+⫺0.0019 B
+⫺0.0008 B
+⫺0.0010 B
+⫺0.0006 B
+
+TPH
+
+⫺0.0200 Ac
+⫺0.0245 B
+⫺0.0269 C
+⫺0.0244 B
+⫺0.0237 B
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+Treatment a
+
+(no nutrients)
+(nutrients)
+(nutrients ⫹ biosurfactant)
+(nutrients ⫹ inoculum)
+(nutrients ⫹ Fe octoate)
+
+Chrysene
+
+a
+All treatments were carried out with triplicate independent samples at 40% water holding capacity.
+b
+Acenaphthene, fluorene, and phenanthrene were highly degraded during the first 21 days. Their k values are values for the entire incubation time (r ⬎ 0.95). k, 0 to 200 days of incubation; k1, 0 to 45 days of incubation;
+k2, 90 to 200 days of incubation.
+c
+Different letters within columns indicate that there are significant differences in biodegradation rates between treatments (P ⬍ 0.05).
+
+Total petroleum hydrocarbon and polycyclic aromatic hydrocarbon biodegradation. The contaminated soil had a high
+initial TPH concentration (around 8,000 mg kg [dry weight] of
+soil⫺1) (Table 2). When aromatic compounds were examined,
+no phenol derivatives, naphthalene, or alkyl derivatives of
+naphthalene were detected (the detection limit was more than
+0.5 ␮g g [dry weight] of soil⫺1). Consequently, we presumed
+that a limited amount of PAHs and TPH was lost by evaporation and/or biodegradation prior to soil sampling. PAHs
+with three and four rings were the most abundant components, and their concentrations were between 100 and 700 mg
+kg⫺1. The polyaromatic fraction accounted for 90% of the
+TPH fraction (as determined by gravimetric measurement),
+while the TPH accounted for 85% of the total organic extract.
+The TPH concentration did not decrease significantly (P ⬎
+0.05) in the untreated soil (treatment 1M) over the course of
+the 200-day experiment, whereas there was a slight decrease in
+autoclaved soil (treatment 3M). The same behavior was observed for the target PAHs. Hence, untreated dry soil (treatment 1M) was used as a control with which to calculate hydrocarbon biodegradation for the different treatments and to
+compare changes in microbial diversity.
+By the end of the experiment (200 days), significant TPH
+biodegradation was observed for all treatments (treatments
+2M and 4M to 7M) (Table 2). Biostimulation without nutrient
+addition (treatment 2M) resulted in slightly greater TPH depletion (P ⬍ 0.05) than the treatments in which nutrients were
+added (treatments 4M to 7M).
+To study the rates of biodegradation of TPH and target
+PAHs, biphasic TPH degradation kinetics were assessed because a single first-order decay curve fitted to the entire data
+set did not adequately explain (r 2 ⬍ 0.8) the changes in TPH
+concentration observed during the course of the experiment.
+Thus, two degradation rates (k1 and k2) were defined according
+to the breakpoints that best fit the data for all treatments; k1
+was used for the early-stage group (from 0 to 45 days of
+incubation), and k2 was used for the late-stage group (from 90
+to 200 days of incubation) (Table 3). It is important to note
+that k2 was 1 order of magnitude lower than k1 for all treatments, with values near zero for treatments with nutrients.
+During the first 45 days, the first-order TPH degradation rate
+constant (k1) was slightly lower for the treatment without nutrients (treatment 2M) than for the other treatments. In contrast, the rate constant (k2) for the late stage (90 to 200 days)
+was higher (P ⬍ 0.05). These rate constants are similar to those
+reported in other studies of bioremediation in hydrocarboncontaminated soils (18, 35).
+Two- and three-ring PAHs were highly degraded (80 to
+100%) during the first 45 days, and the biodegradation rate (k)
+was the same for all treatments (P ⬎ 0.05) (Tables 2 and 3). An
+exception was 1-methyl-anthracene, for which the biodegradation rate was higher (P ⬍ 0.05) in treatments without nutrient
+amendment. Interestingly, phenanthrene and anthracene were
+not completely degraded (Table 2). One possible explanation
+for this could be the low bioavailability of the residual quantities of these compounds present after day 45 (31). The biodegradation kinetics of fluoranthene were not affected by nutrient addition (Table 3), whereas the early-stage
+biodegradation kinetics (k1) of pyrene were slower in the absence of nutrient addition (P ⬍ 0.05).
+
+7011
+
+7012
+
+VIÑAS ET AL.
+
+The degree of benzo(a)anthracene and chrysene degradation
+was significantly different when biostimulation without addition of
+nutrients (treatment 2M) was compared with treatments in which
+nutrients were added (treatments 4M to 7M). Both compounds
+were degraded more (P ⬍ 0.05) under biostimulation conditions
+without nutrient addition than in treatments with nutrient addition (Table 2). Furthermore, the late-stage biodegradation rates
+were significantly higher (P ⬍ 0.05) without nutrient addition
+[10-fold higher for benzo(a)anthracene biodegradation and
+threefold higher for chrysene biodegradation] (Table 3). Benzo(a)pyrene and benzo(b⫹k)fluoranthene were not significantly degraded (P ⬎ 0.05). The percentages of PAH biodegradation and
+the kinetics are similar to those reported in other studies (7, 12).
+Monitoring of the heterotrophic and polycyclic aromatic
+hydrocarbon-degrading microbial populations. As shown in
+Fig. 1, the sizes of both the heterotrophic and PAH-degrading
+microbial populations increased 2 to 3 orders of magnitude
+between day 0 and day 21 for treatments in which there was
+nutrient addition (treatments 4M to 7M), whereas the population subjected to the biostimulation treatment without nutrient addition (treatment 2M) increased more slowly (1 to 2
+orders of magnitude at 21 to 45 days). After 90 days of incubation, the sizes of both populations returned to the initial
+values for treatments in which there was nutrient addition
+
+(treatments 4M to 7M), whereas for treatment 2M the PAHdegrading population remained 1 order of magnitude larger
+than the population at the initial stage. In untreated dry soil
+(treatment 1M), the size of the heterotrophic population remained constant until day 135 and the size of the PAH-degrading population remained constant until day 90. Between
+days 135 and 200 the sizes of the two populations decreased by
+approximately 1 order of magnitude.
+Aeration and the optimal humidity (treatment 2M) resulted
+in a remarkable shift in the proportion of the PAH-degrading
+population (Fig. 1).
+No differences in microbial population counts were observed
+when the results for addition of biosurfactant (treatment 5M),
+addition of ferric octoate (treatment 7M), or bioaugmentation
+(treatment 6M) were compared with the results for treatment 4M.
+Analysis of treatments by denaturing gradient gel electrophoresis. The biodegradation results and microbial counts revealed three different treatment groups: (i) untreated soil, (ii)
+treated soil without nutrient addition, and (iii) treated soil with
+nutrient addition. Thus, the effects of different biostimulation
+conditions on the structure and dynamics of the bacterial community were analyzed by DGGE by using samples from treatments 1M (untreated soil), 2M (aerated soil at 40% waterholding capacity without nutrient addition), and 4M (like
+treatment 2M but with nutrient addition) taken during the
+200-day experiment. In addition, the effect of bioaugmentation
+(treatment 6M) was monitored by DGGE, and this treatment
+was compared with treatments 4M and 1M.
+The bacterial community in untreated soil (treatment 1M)
+was complex (27 or 28 DGGE bands) and did not change over
+the course of the 200-day experiment (Fig. 2). However, biostimulation treatments with (treatment 4M) and without
+(treatment 2M) nutrient addition resulted in shifts in the composition of the microbial community. In particular, the initial
+profiles (21 and 45 days) were clearly different; the 2M and 4M
+treatments produced 22 to 24 and 19 to 22 DGGE bands,
+respectively (Fig. 2).
+The microbial diversity decreased during the maximum biodegradation period for all treatments, from 1.28 on day 0 to
+1.18 after 90 days, and remained low until the end of the
+incubation. Other authors have described both increases and
+reductions in diversity during biodegradation. Our results are
+similar to those reported by Andreoni et al. (6) obtained with
+a PAH-contaminated soil, whereas Kaplan and Kitts (18) and
+Zucchi et al. (41) reported increases in diversity during bioremediation of crude oil-contaminated soil.
+Principal-component analysis of the bacterial community.
+Temporal changes in the bacterial community were monitored
+using principal-component analysis (Fig. 3). Based on visual
+inspection of the raw data, there was a clear difference in the
+DGGE profiles between microcosms that depended on the
+time and type of biostimulation treatment. PCA revealed three
+different groups; the first group consisted of untreated soil (at
+0 and 200 days), and the second and third groups consisted of
+biostimulated soil with and without nutrient addition, respectively. Both biostimulation treatments (treatments 2M and
+4M) exhibited a noticeable and regular separation from untreated soil (treatment 1M) in the first principal component
+(PC1), which explained 35.9% of the variation in the data
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+FIG. 1. Heterotrophic (A) and PAH-degrading (B) populations in
+soil treatments over the course of 200 days of incubation. Autoclaved
+soil (treatment 3M) presented a microbial population only after 135
+days of incubation (10 to 100 MPN g [dry weight] of soil⫺1) (data not
+shown). The values in boldface type are percentages for the PAHdegrading population for the basic treatment (treatment 2M), whereas
+the other values are values for the PAH-degrading populations for the
+nutrient treatments and untreated soil.
+
+APPL. ENVIRON. MICROBIOL.
+
+VOL. 71, 2005
+
+BIOREMEDIATION OF CREOSOTE-CONTAMINATED SOIL
+
+7013
+
+during the 200 days of incubation (Fig. 3). Furthermore, for
+each treatment the PC1 value was increasingly far from the
+initial point as incubation time increased. The highest second
+principal component (PC2) for the 2M treatment corresponded to positive values, while for the 4M treatment the
+values were negative (Table 4). This could explain the distance
+in PC2 observed between the biostimulation treatments. Analysis of variance of the PC2 scores, which represented 24.0% of
+the variation in the data, showed that there was a significant
+difference between biostimulation groups (P ⬍ 0.05) over the
+course of the experiment. Coincidentally, the greatest change
+in PC2 occurred during the first 45 days of incubation, during
+which the TPH biodegradation rates were more significant
+(Table 2).
+It is interesting that only two bands were shared by different
+treatments. Bands B2-11 and B2-20 were identical to bands
+B4-12 and B4-24, respectively. Furthermore, these DGGE
+bands displayed similar dynamics for the two treatments and
+exhibited the most negative PC1 loading values (0.909 and
+0.961, respectively). Their dynamics could explain the migration along PC1 observed for both treatments. The treatment
+2M bands with the highest PC2 loading values were B2-3 and
+B2-16, while for the 4M treatment B4-17 had the most negative
+
+FIG. 3. Principal-component analysis scatter plot of denaturing
+gradient gel electrophoresis profiles (Fig. 2) over the course of the
+incubation period. 1M, 2M, and 4M indicate untreated soil (dry soil),
+aerated soil at 40% WHC without nutrient addition, and aerated soil
+at 40% WHC with nutrient addition, respectively. The numbers of days
+after treatment are also indicated; for example, 4M 135d indicates
+biostimulated soil with nutrient addition on day 135.
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+FIG. 2. Denaturing gradient gel electrophoresis (35 to 70% denaturant) of PCR-amplified 16S rRNA gene fragments from treatments 4M
+(with nutrient addition), 1M (untreated dry soil), and 2M (without nutrient addition) over the course of a of 200-day incubation. Lane M
+contained a DNA soil sample (treatment 1M) obtained at 200 days that was used as a marker. The asterisks indicate comigration with bands
+from untreated soil.
+
+7014
+
+VIÑAS ET AL.
+
+APPL. ENVIRON. MICROBIOL.
+
+TABLE 4. Properties of bands from DGGE: designations and accession numbers for the band sequences and
+levels of similarity to related organisms
+DGGE
+bande
+
+PCA loading
+PC1
+
+PC2
+
+%
+Similarity a
+
+Closest organism in GenBank
+database (accession no.)
+
+No nutrients (2M)c
+B2-1 (135–200 days)d
+B2-3 (90–200 days)
+B2-5
+B2-7
+B2-8 (21–45 days)
+
+AY758563
+AY758564
+AY758565
+AY758566
+AY758567
+
+0.490
+0.390
+⫺0.012
+0.565
+0.399
+
+0.248
+0.826
+0.596
+⫺0.458
+⫺0.297
+
+98.4
+97.7
+95.4
+96.7
+98.5
+
+B2-9* (21–90 days)
+B2-11* (21–90 days)
+B2-12* (21–90 days)
+B2-13
+B2-14*
+B2-15* (45–200 days)
+B2-16* (45–200 days)
+B2-17*
+B2-18*
+B2-19 (90–200 days)
+B2-20* (21–45 days)
+B2-22
+
+AY758568
+AY758569
+AY758570
+AY758571
+AY758572
+AY758573
+AY758574
+AY758575
+AY758576
+AY758577
+AY758578
+AY758579
+
+⫺0.407
+⫺0.909
+⫺0.477
+0.189
+0.189
+0.882
+0.646
+⫺0.813
+⫺0.058
+0.630
+⫺0.961
+⫺0.166
+
+0.299
+0.337
+0.643
+0.531
+0.531
+⫺0.186
+0.644
+⫺0.064
+⫺0.657
+⫺0.199
+0.100
+0.547
+
+97.1
+96.7
+98.4
+96.4
+98.6
+94.5
+99.6
+99.8
+96.3
+97.2
+99.8
+97.3
+
+Sphingomonas yanoikuyae Q1 (SY37525)
+Enyironmental CEB clone (AY038771)
+Cytophaga sp. strain MDA2507 (AY238333)
+Uncultured bacterium (AF465658)
+Acidovorax sp. strain UFZ-B517
+(AF235010)
+Xanthomonas axonopodis (AF442742)
+Environmental clone (AJ318120)
+Sphingomonas sp. strain CFO6 (SC52146)
+Sphingomonas sp. strain JSI (SSP427917)
+Environmental clone AP-16 (AY145553)
+Environmental clone (AB074615)
+Environmental clone (AB074615)
+Environmental clone (AY133099)
+Sphingomonas sp. (X72723)
+Environmental clone C5-K12 (UBA421218)
+Azospirillum clone GCPF30 (AY129799)
+Roseomonas genomospecies (AY150048)
+
+AY758580
+AY758581
+AY758582
+AY758583
+AY758584
+AY758585
+
+0.097
+0.643
+⫺0.675
+0.565
+0.399
+⫺0.407
+
+⫺0.278
+⫺0.538
+0.337
+⫺0.458
+⫺0.297
+0.299
+
+100
+94.7
+99.4
+98.5
+97.5
+98.9
+
+B4-10 (45–135 days)
+B4-11* (21–45 days)
+
+AY758586
+AY758587
+
+0.342
+⫺0.597
+
+⫺0.667
+⫺0.559
+
+93.9
+99.8
+99.2
+
+B4-12* (21–45 days)
+B4-13 (45–90 days)
+B4-14* (135–200 days)
+
+AY758588
+AY758589
+AY758590
+
+⫺0.909
+0.435
+0.263
+
+0.337
+0.003
+⫺0.669
+
+95.3
+92.7
+95.1
+
+B4-16 (90 days)
+B4-17 (90–200 days)
+
+AY758591
+AY758592
+
+0.189
+0.519
+
+0.531
+⫺0.787
+
+99.8
+95.0
+
+B4-20 (21–200 days)
+
+AY758593
+
+0.882
+
+⫺0.186
+
+98.8
+
+B4-21 (90–135 days)
+
+AY758594
+
+0.646
+
+0.644
+
+96.3
+
+B4-23 (135–200 days)
+B4-24* (21–45 days)
+B4-25
+B4-27
+
+AY758595
+AY758596
+AY758597
+AY758598
+
+0.630
+⫺0.961
+0.514
+0.586
+
+⫺0.199
+0.100
+⫺0.679
+⫺0.666
+
+97.8
+99.8
+90.1
+93.2
+
+B4-28 (135–200 days)
+
+AY758599
+
+⫺0.612
+
+⫺0.340
+
+96.6
+
+Nutrient addition (4M)
+B4-3 (45 days)
+B4-4
+B4-5
+B4-6 (21–45 days)
+B4-7 (21 days, 90–200 days)
+B4-8* (21–45 days)
+
+Sphingomonas sp. strain S37 (AF367204)
+Brevandimonas alba H12C5 (AF296688)
+Trojanella thessalonices (AF069496)
+Agrobacterium tumefaciens (ATU295683)
+Alcaligenes sp. (ASP16SRRN)
+Xanthomonas sp. strain V4.BO.41
+(AJ244722)
+Environmental clone (AJ532712)
+Sphingomonas herbicidovorans (AB022428)
+Sphingomonas paucimobilis
+EPA505(X94100)
+Sphingomonas adhaesiva (SA16SRD3)
+Erythrobacter sp. (AB011075)
+Xanthomonas sp. strain V4.BO.41
+(AJ244722)
+Achromobacter xylosoxidans (AF225979)
+Xanthomonas sp. strain V4.BO.41
+(AJ244722)
+Achromobacter sp. strain LMG5911
+(AY170848)
+Xanthomonas sp. strain V4.BO.41
+(AJ244722)
+Sinorhizobium frediii USDA257 (AY260150)
+Azospirillum clone GCPF30 (AY129799)
+Erytrobacter sp. strain AS-45 (ESP391206)
+Roseomonas genomospecies strain ATCC
+49961 (AY150050)
+Rhodococus sp. strain RHA6 (RS16316)
+
+Phylogenetic
+groupb
+
+Sphingomonadaceae (␣)
+Sphingobacteriales (CFB group)
+Flavobacteriaceae (CFB group)
+Unclassified ␥-Proteobacteria
+Comamonadaceae (␤)
+Xanthomonadaceae (␥)
+Sphingomonadaceae (␣)
+Sphingomonadaceae (␣)
+Sphingomonadaceae (␣)
+Rhizobiales (␣)
+Xanthomonadaceae (␥)
+Xanthomonadaceae (␥)
+Rhodospirillaceae (␣)
+Sphingomonadaceae (␣)
+Unclassified ␥-Proteobacteria
+Rhodospirillaceae (␣)
+Rhodospirillales (␣)
+
+Sphingomonodaceae (␣)
+Unclassified ␣-Proteobacteria
+Rhodospirillaceae (␣)
+Rhizobiaceae (␣)
+Alcaligenaceae (␤)
+Xanthomonadaceae (␥)
+Unclassified ␥-Proteobacteria
+Sphingomonadaceae (␣)
+Sphingomonadaceae (␣)
+Sphingomonadaceae (␣)
+Xanthomonadaceae (␥)
+Alcaligenaceae (␤)
+Xanthomonadaceae (␥)
+Alcaligenaceae (␤)
+Xanthomonadaceae (␥)
+Rhizobiaceae (␣)
+Rhodospirillaceae (␣)
+Sphingomonadaceae (␣)
+Rhodospirillaceae (␣)
+Nocardiaceae (high-G⫹C-content
+gram-positive bacteria)
+
+a
+
+Sequences were matched with the closest relative from the GenBank database.
+Sequences were matched with the closest relative from the Ribosomal Database Project (40). ␣, ␤, and ␥, ␣-, ␤-, and ␥-Proteobacteria, respectively.
+c
+Treatments without nutrients (2M) and with nutrient addition (4M) were carried out at 40% water-holding capacity in aerated soils by mixing twice a week.
+d
+The incubation days with relative area intensity greater than 5% are indicated in parentheses. The relative intensity was calculated by avoiding background noise
+from the DGGE gel (Fig. 3) with Quantity-one 4.4.1 software (Bio-Rad, Hercules, CA).
+e
+Asterisks indicate comigrating bands with untreated soil (treatment 1M).
+b
+
+PC2 loading value. Band B4-3, which was the most abundant
+band in the early biodegradation stage at 0 to 45 days for the
+4M treatment, disappeared after 90 days and did not have a
+high PCA loading value (Table 4). Nevertheless, this band
+could be important in the biodegradation of three-ring PAHs
+because at this time these compounds exhibited maximum
+depletion.
+Phylogenetic and dynamic analysis of excised bands. Taxonomic assignments of the prominent DGGE bands were determined for biostimulation treatments 2M and 4M. Bands
+from untreated soil (treatment 1M) were not excised because
+
+they were weak, but they were assigned to comigrating bands
+of treatments 2M and 4M which exhibited higher intensity
+(Fig. 2 and Table 4). Table 4 shows the closest relatives of
+DGGE bands excised for biostimulation treatments 2M and
+4M. Most of the sequences derived from DGGE bands exhibited levels of similarity greater than 95%.
+Taking into account the assignment to comigrating bands,
+the original soil contained five ␣-Proteobacteria (Sphingomonas, Rhizobium-Agrobacterium, and Azospirillum groups) and
+eight ␥-Proteobacteria (Xanthomonas group), according to
+RDP classification (24). Biostimulated soil from treatment 2M
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+Accession
+no.
+
+VOL. 71, 2005
+
+BIOREMEDIATION OF CREOSOTE-CONTAMINATED SOIL
+
+7015
+
+contained 53% ␣-Proteobacteria (9/17 DGGE bands), 6%
+␤-Proteobacteria (1/17 DGGE bands), and 23% ␥-Proteobacteria (4/17 DGGE bands) (Table 4). No rhodococci were found,
+but the closest relatives to the Cytophaga-Flavobacterium-Bacteroides (CFB) group, which accounted for 12% of the sample
+(2/17 DGGE bands), were found after 45 days. Soil subjected
+to the 4M treatment contained 55% ␣-Proteobacteria (11/20
+DGGE bands), 15% ␤-Proteobacteria (3/20 DGGE bands),
+25% ␥-Proteobacteria (5/20 DGGE bands), and 5% high-G⫹Ccontent gram-positive bacteria (1/20 DGGE bands). No close
+relatives belonging to the CFB group were found in the 4M
+treatment soil.
+At early stages (0 to 90 days), for treatment 2M soil five dominant bands (relative intensity greater than 5%) were observed
+(B2-11, B2-12, B2-20, B2-8, and B2-9) (Table 4). Three of these
+bands (B2-11, B2-12, and B2-20) belonged to ␣-Proteobacteria
+(Sphingomonadaceae and Rhodospirillaceae), whereas B2-8 belonged to ␤-Proteobacteria (Comamonadaceae) and B2-9 belonged to ␥-Proteobacteria (Xanthomonadaceae). Neither CFB
+bacteria nor high-G⫹C-content gram-positive bacteria were
+found at early stages of biodegradation.
+At late stages (90 to 200 days), for treatment 2M soil five
+dominant bands (relative intensity greater than 5%) were observed (B2-1, B2-3, B2-15, B2-16, and B2-19) (Table 4). Three
+of these bands (B2-15, B2-16, and B2-19) belonged to the
+␥-Proteobacteria (Comamonadaceae and Xanthomonadaceae).
+B2-1 belonged to the ␣-Proteobacteria (Sphingomonadaceae),
+and B2-3 belonged to the CFB group (Crenotrichaceae). Neither ␤-Proteobacteria nor high-G⫹C-content gram-positive
+bacteria were found.
+At early stages (0 to 90 days), for treatment 4M soil nine
+dominant bands (relative intensity greater than 5%) were observed (B4-3, B4-6, B4-8, B4-10, B4-11, B4-12, B4-13, B4-20,
+and B4-24) (Table 4). Six of these bands (B4-3, B4-6, B4-11,
+B4-12, B4-13, and B4-24) belonged to ␣-Proteobacteria (Sphingomonadaceae, Rhizobiaceae, and Rhodospirillaceae), one band
+(B4-20) belonged to ␤-Proteobacteria (Alcaligenaceae), and two
+bands (B4-8 and B4-10) belonged to ␥-Proteobacteria (Xanthomonadaceae). Neither CFB bacteria nor high-G⫹C-content
+gram-positive bacteria were found.
+
+At late stages (90 to 200 days), for treatment 4M soil nine
+dominant bands (relative intensity greater than 5%) were observed (B4-7, B4-10, B4-14, B4-17, B4-20, B4-21, B4-23, and
+B4-28). Four of these bands (B4-10, B4-14, B4-17, and B4-21)
+belonged to ␥-Proteobacteria (Xanthomonadaceae and unclassified group), two bands (B4-20 and B4-7) belonged to ␤-Proteobacteria (Alcaligenaceae), and one band (B4-23) belonged to
+␣-Proteobacteria (Rhizobiaceae), whereas band B4-28 belonged
+to the high-G⫹C-content gram-positive bacteria (Nocardiaceae). No CFB bacteria were found.
+Phylogenetic groups during bioremediation. At the beginning of the experiment, ␣-Proteobacteria (78%), dominated by
+Sphingomonadaceae, were predominant in contaminated soil, followed by ␥-Proteobacteria (16%), dominated by Xanthomonadaceae, whereas the other groups were scarce. During biodegradation, the microbial population shifted dramatically, and after
+200 days of incubation of the 2M treatment, ␥-Proteobacteria were
+dominant (50%), followed by ␣-Proteobacteria (25%) and the
+CFB group (22%), while for the 4M treatment, ␣-Proteobacteria
+and ␥-Proteobacteria were the dominant groups (36% each), followed by ␤-Proteobacteria and high-G⫹C-content gram-positive
+bacteria (19% and 8%, respectively) (Fig. 4).
+A correlation analysis of the phylogenetic groups and evolution of the TPH concentration showed that the ␣- and ␥-Proteobacteria exhibited the highest positive and inverse correlations with the TPH concentration, respectively (r 2 ⫽ 0.92 to
+0.93) for the 2M treatment; for the 4M treatment the ␣-Proteobacteria exhibited the highest positive correlation (r 2 ⫽
+0.78), whereas the ␤-Proteobacteria exhibited the highest inverse correlation (r 2 ⫽ 0.85), followed by the ␥-Proteobacteria
+(r 2 ⫽ 0.78). For target PAH concentrations in the 2M treatment, the CFB group exhibited the highest inverse correlation
+(r 2 ⫽ 0.81 to 0.85) with the pyrene, benzo(a)anthracene, and
+chrysene concentrations, whereas ␣-Proteobacteria and ␥-Proteobacteria exhibited the highest positive and inverse correlations with fluoranthene (r 2 ⫽ 0.92 to 0.94), phenanthrene (r 2 ⫽
+0.76), and anthracene (r 2 ⫽ 0.84). ␤-Proteobacteria did not
+exhibit good correlations with target PAHs (r 2 ⫽ 0 to 0.4). In
+contrast, for nutrient treatment 4M, ␣-Proteobacteria and
+␤-Proteobacteria exhibited the highest positive and inverse cor-
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+FIG. 4. Phylogenetic groups during the bioremediation experiment. (A) Treatment 2M (biostimulation without nutrient amendment).
+(B) Treatment 4M (biostimulation with nutrient amendment). Excised bands from treatment 2M accounted for 73 to 84% of the total lane
+intensity, whereas for treatment 4M excised bands accounted for 81 to 91% of the total band intensity. On day 0, the bands studied account for
+70% of the total signal of the lane. Alpha, ␣-Proteobacteria; Beta, ␤-Proteobacteria; Gamma, ␥-Proteobacteria; CFB, Cytophaga-FlexibacterBacteroides group; High G⫹C, high-G⫹C-content gram-positive bacteria.
+
+7016
+
+VIÑAS ET AL.
+
+APPL. ENVIRON. MICROBIOL.
+
+relations, respectively, with fluoranthene and pyrene (r 2 ⫽ 0.83
+to 0.89). Also, ␤-Proteobacteria exhibited a good inverse correlation with phenanthrene, anthracene, benzo(a)anthracene,
+and chrysene (r 2 ⫽ 0.84 to 0.92). ␥-Proteobacteria exhibited
+lower correlations with PAH concentrations (r 2 ⫽ 0.5 to 0.7)
+for the 4M treatment.
+Monitoring bioaugmentation by denaturing gradient gel
+electrophoresis. At the beginning of the experiment, the profiles for biostimulation and bioaugmentation were very similar,
+forming two clusters (21 and 45 days) in each of the two
+treatments (Fig. 5). Only one of the DGGE bands from the
+inoculum was shared in inoculated soil during the 200 days of
+the experiment. Taking into account the fact that inoculation
+was performed five times (days 14, 26, 57, 120, and 165) in
+order to have 108 microorganisms g (dry weight) of soil⫺1 at
+each time of addition, this result implies that the inoculum did
+not compete favorably with the indigenous bacterial community during the first stages of PAH biodegradation. However,
+at 200 days the DGGE profiles for biostimulation and bioaugmentation were quite different. Hence, it seems that at early
+stages, when the biodegradation process was dominant, an
+exogenous inoculum did not affect the distribution of the indigenous microbial population, while at late stages, when the
+biodegradation of PAHs and TPH was very slow, it could have
+an effect (Table 2).
+DISCUSSION
+A creosote-contaminated soil from a wood treatment facility
+that had been operating for at least 30 years was the subject of
+the present study. A high proportion of PAH-degrading bacteria at the beginning of the experiment (Fig. 1) and the absence of a lag phase at the beginning of TPH degradation (data
+
+not shown) revealed the presence of a preadapted PAH-degrading microbial population in the original soil.
+Effects of different treatments on the degradation of polycyclic aromatic hydrocarbons. The kinetics of TPH degradation
+displayed a biphasic pattern for all bioremediation treatments.
+This behavior may have been due to a number of factors, such
+as a decrease in PAH bioavailability (3), accumulation of toxic
+PAH metabolites (11), or enrichment of more recalcitrant
+compounds (30). In a parallel study, a decrease in bioavailability was demonstrated (31). The accumulation of metabolites
+resulting from oxidation of PAHs can reduce the viability of
+several PAH degraders in addition to inhibiting the degradation of PAH (11, 20, 21). Nevertheless, this probably was not
+the case in this study, because polar metabolites determined by
+gas chromatography-mass spectrometry of the derivatized polar fraction did not accumulate in the soil (31). In addition,
+leachates from the soil after the different treatments showed
+that there was a reduction in soil toxicity, as determined by
+Microtox (31).
+Taking into account the finding that in the original dry soil
+(water content, 1.6%) the TPH concentration was not reduced
+during the experiment, water content and aeration became the
+key factors for soil bioremediation. The quantities of nutrients
+added in our treatments, taking into account only the inorganic
+nitrogen forms, were established in order to obtain a molar
+C/N/P ratio of 300:10:1. The required quantities were added at
+three times during the experiment in order to avoid inhibition
+caused by a drastic osmotic change, as has been described
+elsewhere (38). Recently, Atagana (7) described the ratio used
+in this study as optimal for a creosote-contaminated soil.
+As shown in Table 3, our results suggest that nutrient addition had a negative effect on late-stage biodegradation of fourring PAHs and TPHs. The presence of an excess of nutrients
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+FIG. 5. Denaturing gradient gel electrophoresis profile and cluster analysis (Pearson product moment, unweighted pair group method) for the
+bioaugmentation treatment (treatment 6M), the nutrient addition treatment (treatment 4M), and untreated dry soil (treatment 1M) over the
+course of 200 days of incubation. The codes on the left indicate the treatment and the number of days of incubation; for example, 6M 21D indicates
+treatment 6M and incubation for 21 days. The cross-hatched area in the inoculum lane shows major bands that did not comigrate. The arrows
+indicate the only band that comigrated for the inoculum and the bioaugmented soil.
+
+VOL. 71, 2005
+
+BIOREMEDIATION OF CREOSOTE-CONTAMINATED SOIL
+
+hodka and in oil-spiked intertidal sediments after 6 days,
+respectively.
+During data analysis, a high abundance of gram-negative
+bacteria was observed that could have been due to the extraction bias. However, the extraction method used in this study
+was able to extract DNA from gram-positive bacteria, such as
+Rhodococcus (this study), Mycobacterium, and Bacillus laboratory strains, suggesting that gram-negative bacteria dominated
+the creosote-contaminated soil during the bioremediation
+process.
+Bioaugmentation assay. For the bioaugmentation treatment
+(treatment 6M), no differences in the rates of biodegradation
+of TPH and PAHs or in community structure determined by
+PCR-DGGE and MPN analysis were detected. In a previous
+study (36) we observed that the PAH-degrading capability of
+consortium AM (used as the inoculum in the present study)
+was not affected after growth in rich media. Also, this consortium contained 19 microbial components identified as Sphingomonas, Pseudomonas, Stenotrophomonas, Ochrobactrum, Alcaligenes, Pandorea, Labrys, and Fusarium (37). As shown in
+Fig. 5, none of the visible bands from consortium AM comigrated with bands from inoculated soil (treatment 6M), indicating that the inoculated microorganisms did not compete
+favorably with the indigenous bacterial community, even
+though they were originally from a PAH-contaminated soil
+(36) and the inoculum size was at least equal to (108 MPN g of
+soil⫺1), if not larger than, the indigenous population and organisms were periodically inoculated throughout the experiment (Table 1). Moreover, the microbial population structure
+of inoculated soil was very similar to that of the soil biostimulated with nutrients during the first 45 days, in which the
+maximum biodegradation rates were observed. Therefore, the
+indigenous population changed independent of the inoculum,
+indicating that the biodegradation process was probably the strongest selection factor for the shifts in the microbial population.
+Conclusions. This study showed that specific phylotypes of
+bacteria are related both to inorganic nutrient addition to the
+soil and to different phases of PAH degradation in a nonspiked
+PAH-contaminated soil, and it highlighted the importance of
+understanding how interspecies interactions, nutrient effects,
+and changes in PAH bioavailability and recalcitrance influence
+the degradation capability and structure of a microbial community.
+ACKNOWLEDGMENTS
+This research was funded by grants from the Spanish Government’s
+National Plan for Research (REN2001-3425/TECNO; PPQ-20000105-P4 and 2001SGR 00143) and CIRIT 2001SGR 00143. M.V.
+received a postgraduate fellowship from the Comissionat de Recerca
+i Innovació Tecnològica (CIRIT) of the Generalitat de Catalunya.
+We declare that the experiments discussed in this paper complied
+with current Spanish law.
+REFERENCES
+1. Abalos, A., M. Viñas, J. Sabaté, M. A. Manresa, and A. M. Solanas. 2004.
+Enhanced biodegradation of Casablanca crude oil by a microbial consortium
+in presence of a rhamnolipid produced by Pseudomonas aeruginosa AT10.
+Biodegradation 15:249–260.
+2. Alexander, M. 1999. Biodegradation and bioremediation, 2nd ed. Academic
+Press, Inc., San Diego, Calif.
+3. Alexander, M. 2000. Aging, bioavailability, and overestimation of risk from
+environmental pollutants. Environ. Sci. Technol. 34:4259–4265.
+4. Altschul, S. F., W. Gish, W., Miller, E. W. Meyers, and D. J. Lipman. 1990.
+Basic local alignment search tool. J. Microbiol. Methods 215:403–410.
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+could have inhibited the biodegradation of high-molecularweight PAHs. In fact, Rhykerd et al. (27) described a reduction
+in bioremediation of a motor oil due to an increase in the
+salinity produced by NaCl, and Braddock et al. (10) attributed
+a reduction in the microbial activity of an Arctic hydrocarboncontaminated soil to the salinity produced by an excess of
+nutrients.
+In a recent study, Roling-Wilfred et al. (29) suggested that
+the addition of nutrients implies that there are differences in
+hydrocarbon biodegradation rates and variations in the microbial population. Therefore, for the present study, the differential microbial population shifts due to different inorganic nutrient contents may also explain the different biodegradation
+capabilities observed for biostimulation treatments with and
+without nutrient addition.
+Response of the microbial population to bioremediation of
+polycyclic aromatic hydrocarbons. At early stages (0 to 45
+days) of the bioremediation process, the addition of nutrients
+caused significant increases in both the heterotrophic and
+PAH-degrading microbial populations, while soil stimulated
+only by aeration and optimum humidity exhibited smaller increases in the sizes of both populations and a marked delay in
+the increase in microbial PAH degraders (Fig. 1). This difference in behavior is consistent with the kinetics of TPH depletion observed during the early stage (Table 2). As shown in
+Table 2, a higher TPH degradation rate was observed for
+treatments to which nutrients were added. In contrast, the
+proportion of the PAH-degrading microbial population compared to the heterotrophic population for the treatment without nutrients increased noticeably at 21 and 45 days and
+reached 100% at 135 days, while lower proportions were observed for treatments with nutrients (Fig. 1). In addition, at the
+end of the experiment a larger PAH-degrading microbial population was observed for the treatment without nutrients.
+Thus, the majority presence of microbial PAH degraders during the late stage could be linked to the higher TPH degradation rates observed, especially with more recalcitrant PAHs.
+Both changes in PAH bioavailability and enrichment of more
+recalcitrant PAHs could change the microbial population and
+the multisubstrate interactions (8, 9, 14, 22).
+We found 13 different genera that were related to DGGE
+excised bands during biostimulation of a heavily PAH-contaminated soil: Sphingomonas, Azospirillum, Roseomonas, Brevundimonas, Trojanella, Agrobacterium, Alcaligenes, Xanthomonas, Achromobacter, Sinorhizobium, Erytrobacter, Cytophaga,
+and Rhodococcus.
+During the first stage of biodegradation in the 2M treatment
+and the 4M treatment, the Sphingomonas and Azospirillum
+phylotypes (␣-Proteoabacteria) were the dominant taxa (Table
+4). Furthermore, the only two coincident DGGE bands for the
+two treatments belong to these phylotypes (B2-11 ⫽ B4-12 and
+B2-20 ⫽ B4-24). Therefore, taking into account that with both
+treatments high levels of TPH and PAH biodegradation were
+observed during the first 90 days, these phylotypes may be
+linked to the fast biodegradation observed for acenaphthene, fluorene, phenanthrene, anthracene, alkyl-phenanthrenes, fluoranthene, and pyrene. These results are consistent with those of Roling-Wilfred et al. (29) and Kasai et al.
+(19), who observed strong dominance of ␣-Proteobacteria in
+bacterial communities found in recently spilled oil in Nak-
+
+7017
+
+7018
+
+VIÑAS ET AL.
+
+25.
+
+26.
+
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+J. M. Stredwick, G. M. Garrity, B. Li, G. J. Olsen, S. Pramanik, T. M.
+Schmidt, and J. M. Tiedje. 2000. The RDP (Ribosomal Database Project)
+continues. Nucleic Acid Res. 28:173–174.
+Muyzer, G., E. D. De Waal, and A. G. Uitterlinden. 1993. Profiling of
+complex microbial populations by denaturing gradient gel electrophoresis
+analysis of polymerase chain reaction-amplified genes coding for 16S rRNA.
+Appl. Environ. Microbiol. 59:695–700.
+Nogales, B., E. R. B. Moore, E. Llobet-Brossa, R. Rossello-Mora, R. Amann,
+and K. N. Timmis. 2001. Combined use of 16S ribosomal DNA and 16S
+rRNA to study the bacterial community of polychlorinated biphenyl-polluted
+soil. Appl. Environ. Microbiol. 67:1874–1884.
+Rhykerd, R. L., R. W. Weaver, and K. J. McInnes. 1995. Influence of salinity
+on bioremediation of oil in soil. Environ. Pollut. 90:127–130.
+Ringelberg, D. B., J. W. Talley, E. J. Perkins, S. G. Tucker, R. G. Luthy, E. J.
+Bouwer, and H. L. Fredrickson. 2001. Succession of phenotypic, genotypic,
+and metabolic community characteristics during in vitro bioslurry treatment
+of polycyclic aromatic hydrocarbon-contaminated sediments. Appl. Environ.
+Microbiol. 67:1542–1550.
+Roling-Wilfred, F. M., M. G. Milner, D. M. Jones, K. Lee, F. Daniel, J. P.
+Swannell-Richard, and I. M. Head. 2002. Robust hydrocarbon degradation
+and dynamics of bacterial communities during nutrient-enhanced oil spill
+bioremediation. Appl. Environ. Microbiol. 68:5537–5548.
+Sabaté, J., M. Viñas, and A. M. Solanas. 2004. Laboratory-scale bioremediation experiments on hydrocarbon-contaminated soils. Int. Biodeterior.
+Biodegrad. 54:19–25.
+Sabaté, J., M. Viñas, and A. M. Solanas. Bioavailability assessment and
+environmental fate of PAHs in biostimulated creosote-contaminated soil.
+Chemosphere, in press.
+Siciliano, S. D., J. J. Germida, K. Banks, and C. W. Greer. 2003. Changes in
+microbial community composition and function during a polyaromatic
+hydrocarbon phytoremediation field trial. Appl. Environ. Microbiol. 69:
+483–489.
+Solanas, A. M. 1988. Contaminación y biodegradación de hidrocarburos en
+las aguas superficiales del Barcelonés. Thesis. Department of Microbiology,
+University of Barcelona, Barcelona, Spain.
+Torsvik, V., L. Ovreas, and T. F. Thingstad. 2002. Prokaryotic diversitymagnitude dynamics, and controlling factors. Science 296:1064–1066.
+Venosa, A. D., M. T. Suidan, B. A. Wrenn, K. L. Strohmeier, J. R. Haines,
+B. L. Eberhart, D. King, and E. Holder. 1996. Bioremediation of an experimental oil spill on the shoreline of Delaware Bay. Environ. Sci. Technol.
+30:1764–1775.
+Viñas, M., M. Grifoll, J. Sabate, and A. M. Solanas. 2002. Biodegradation of
+a crude oil by three microbial consortia of different origins and metabolic
+capabilities. J. Ind. Microbiol. Biotechnol. 28:252–260.
+Viñas, M., J. Sabaté, C. Guasp, J. Lalucat, and A. M. Solanas. Culturedependent and -independent approaches establish the complexity of a PAHdegrading microbial consortium. Can. J. Microbiol., in press.
+Walworth, J. L., and C. M. Reynolds. 1995. Bioremediation of a petroleumcontaminated cryic soil: effects of phosphorus, nitrogen, and temperature.
+J. Soil Contam. 4:299–310.
+Wrenn, B. A., and A. D. Venosa. 1996. Selective enumeration of aromatic and
+aliphatic hydrocarbon-degrading bacteria by a most-probable-number procedure. Can. J. Microbiol. 42:252–258.
+Yu, Z., and M. Morrison. 2004. Comparisons of different hypervariable
+regions of rrs genes for use in fingerprinting of microbial communities by
+PCR-denaturing gradient gel electrophoresis. Appl. Environ. Microbiol. 70:
+4800–4806.
+Zucchi, M., L. Angiolini, S. Borin, L. Brusetti, N. Dietrich, C. Gigliotti, P.
+Barbieri, C. Sorlini, and D. Daffonchio. 2003. Response of bacterial community during bioremediation of an oil-polluted soil. J. Appl. Microbiol.
+94:248–257.
+
+Downloaded from http://aem.asm.org/ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI
+
+5. Amann, R. I., W. Ludwig, and K. H. Schleifer. 1995. Phylogenetic identification and in situ detection of individual microbial cells without cultivation.
+Microbiol. Rev. 59:143–169.
+6. Andreoni, V., L. Cavalca, M. A. Rao, G. Nocerino, S. Bernasconi, E.
+Dell’Amico, M. Colombo, and L. Gianfreda. 2004. Bacterial communities
+and enzyme activities of PAHs polluted soils. Chemosphere 57:401–412.
+7. Atagana, H. I. 2004. Bioremediation of creosote-contaminated soil in South
+Africa by landfarming. J. Appl. Microbiol. 96:510–520.
+8. Bastiaens, L., D. Springael, P. Wattiau, H. Harms, R. Dewachter, H. Verachtert, and L. Diels. 2000. Isolation of adherent polycyclic aromatic hydrocarbon (PAH)-degrading bacteria using PAH-sorbing carriers. Appl. Environ. Microbiol. 66:1834–1843.
+9. Bodour, A. A., J. M. Wang, M. L. Brusseau, and R. M. Maier. 2003. Temporal change in culturable phenanthrene degraders in response to long-term
+exposure to phenanthrene in a soil column system. Environ. Microbiol.
+5:888–895.
+10. Braddock, J. F., M. L. Ruth, P. H. Catterall, J. L. Walworth, and K. A.
+McCarthynd. 1997. Enhancement and inhibition of microbial activity in
+hydrocarbon-contaminated arctic soils: implications for nutrient-amended
+bioremediation. Environ. Sci. Technol. 31:2078–2084.
+11. Casellas, M., M. Grifoll, J. M. Bayona, and A. M. Solanas. 1997. New
+metabolites in the degradation of fluorene by Arthrobacter sp. strain F101.
+Appl. Environ. Microbiol. 63:819–826.
+12. Eriksson, M., G. Dalhammar, and A. K. Borg-Karlson. 2000. Biological
+degradation of selected hydrocarbons in an old PAH/creosote contaminated
+soil from a gas work site. Appl. Microbiol. Biotechnol. 53:619–626.
+13. Fernandez, P., M. Grifoll, A. M. Solanas, J. M. Bayona, and J. Albaigés.
+1992. Bioassay-directed chemical analysis of genotoxic components in coastal
+sediments. Environ. Sci. Technol. 26:817–829.
+14. Friedrich, M., R. J. Grosser, E. A. Kern, W. P. Inskeep, and D. M. Ward.
+2000. Effect of model sorptive phases on phenanthrene biodegradation:
+molecular analysis of enrichments and isolates suggests selection based on
+bioavailability. Appl. Environ. Microbiol. 66:2703–2710.
+15. Fromin, N., J. Hamelin, S. Tarnawski, D. Roesti, K. Jourdain-Miserez, N.
+Forestier, S. Teyssier-Cuvelle, F. Gillet, M. Aragno, and P. Rossi. 2002.
+Statistical analysis of denaturing gel electrophoresis (DGE) fingerprinting
+patterns. Environ. Microbiol. 4:634–643.
+16. Gee, G. W., and J. W. Bauder. 1986. Particle-size analysis. Methods of soil
+analysis. Part 1. Physical and mineralogical methods, p. 383–411. American
+Society of Agronomy, Inc., and Soil Science Society of America, Inc., Madison, Wis.
+17. Hall, T. A. 1999. BioEdit: a user-friendly biological sequence alignment
+editor and analysis program for Windows 95/98/NT. Nucleic Acids Symp.
+41:95–98.
+18. Kaplan, C. W., and C. L. Kitts. 2004. Bacterial succession in a petroleum
+land treatment unit. Appl. Environ. Microbiol. 70:1777–1786.
+19. Kasai, Y., H. Kishira, K. Syutsubo, and S. Harayama. 2001. Molecular
+detection of marine bacterial populations on beaches contaminated by the
+Nakhodka tanker oil-spill accident. Environ. Microbiol. 3:246–255.
+20. Kazunga, C., and M. D. Aitken. 2000. Products from the incomplete metabolism of pyrene by polycyclic aromatic hydrocarbon-degrading bacteria.
+Appl. Environ. Microbiol. 66:1917–1922.
+21. Kazunga, C., M. D. Aitken, A. Gold, and R. Sangaiah. 2001. Fluoranthene2,3- and -1,5-diones are novel products from the bacterial transformation of
+fluoranthene. Environ. Sci. Technol. 35:917–922.
+22. Lotfabad, S. K., and M. R. Gray. 2002. Kinetics of biodegradation of mixtures of polycyclic aromatic hydrocarbons. Appl. Microbiol. Biotechnol. 60:
+361–366.
+23. Macnaughton, S. J., J. R. Stephen, A. D. Venosa, G. A. Davis, Y. J. Chang,
+and D. C. White. 1999. Microbial population changes during bioremediation
+of an experimental oil spill. Appl. Environ. Microbiol. 65:3566–3574.
+24. Maidak, B. L., J. R. Cole, T. G. Lilburn, C. T. Parker, Jr., P. R. Saxman,
+
+APPL. ENVIRON. MICROBIOL.
+
+

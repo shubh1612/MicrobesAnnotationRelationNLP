@@ -1,0 +1,78 @@
+T1	Substrate 103 110	benzene
+T3	Environment 521 537	nitrate-reducing
+T5	ReactionOrProcess 406 435	anaerobic benzene degradation
+T6	ReactionOrProcess 268 281	fractionation
+T7	ReactionOrProcess 311 324	fractionation
+T9	Microbes 835 876	methanogenic or sulfate-reducing cultures
+T10	Environment 739 755	nitrate-reducing
+T11	Environment 1036 1052	nitrate-reducing
+T12	Substrate 1011 1018	benzene
+T13	Substrate 1082 1089	benzene
+T14	Property 1128 1140	methanogenic
+T15	Property 1107 1123	sulfate-reducing
+T16	Substrate 1522 1529	toluene
+T17	ReactionOrProcess 1459 1472	fractionation
+T18	Environment 1712 1728	nitrate-reducing
+T19	Substrate 1680 1687	benzene
+T20	Substrate 1937 1944	benzene
+T21	Substrate 1823 1830	toluene
+T22	Substrate 1953 1960	toluene
+T24	ReactionOrProcess 1815 1822	degrade
+T26	Substrate 2060 2067	benzene
+T27	Substrate 2051 2058	benzene
+T28	Substrate 1986 1993	Benzene	
+T30	ReactionOrProcess 2019 2032	hydroxylation
+T31	Substrate 2295 2329	non-substituted aromatic compounds
+T32	Substrate 2336 2347	naphthalene	
+T33	Substrate 2418 2430	phenanthrene
+T34	Substrate 2635 2669	non-substituted aromatic compounds
+T35	ReactionOrProcess 2620 2631	degradation
+T37	Environment 2923 2939	nitrate-reducing
+T38	Substrate 3189 3196	toluene
+T39	Substrate 3086 3092	phenol
+T40	Property 2965 2977	methanogenic
+T42	ReactionOrProcess 2735 2764	anaerobic benzene degradation
+T43	Environment 3365 3371	marine
+T44	Substrate 3315 3322	benzene
+T45	Property 3372 3388	sulfate-reducing
+T46	ReactionOrProcess 3328 3339	degradation
+T48	ReactionOrProcess 3413 3423	incubation
+T50	Property 3760 3776	sulfate-reducing
+T51	Substrate 3900 3907	benzene
+T53	ReactionOrProcess 4218 4228	incubation
+T54	Substrate 4396 4403	benzene
+T55	ReactionOrProcess 4349 4358	incubated
+T56	Substrate 4776 4783	toluene
+T57	Substrate 4788 4794	phenol
+T58	Substrate 4747 4765	aromatic compounds
+T59	ReactionOrProcess 4705 4726	anaerobic degradation
+T60	Substrate 4931 4937	phenol
+T61	Property 4956 4968	methanogenic
+T62	ReactionOrProcess 4938 4949	degradation
+T63	Substrate 5136 5143	benzene
+T64	ReactionOrProcess 5219 5248	anaerobic benzene degradation
+T65	ReactionOrProcess 5295 5308	hydroxylation
+T66	Substrate 5515 5522	benzene
+T67	Substrate 5567 5574	peptide
+T68	Substrate 5524 5530	phenol
+T69	Microbes 5749 5773	Azoarcus sp. strain EbN1
+T70	Enzyme 5695 5722	phenylphosphate carboxylase
+T72	ReactionOrProcess 5869 5898	anaerobic benzene degradation
+T73	Enzyme 6016 6027	carboxylase
+T74	Substrate 5951 5958	benzene
+T75	Substrate 5989 6015	putative anaerobic benzene
+T76	Enzyme 6185 6196	carboxylase
+T77	Substrate 6158 6184	putative anaerobic benzene
+R11	CarriedOn Arg1:T24 Arg2:T20
+R12	CarriedOn Arg1:T24 Arg2:T21
+R13	CarriedOn_No Arg1:T24 Arg2:T22
+R20	CarriedOn Arg1:T30 Arg2:T27
+R21	CarriedOn Arg1:T30 Arg2:T28
+R24	CarriedOn Arg1:T35 Arg2:T34
+R33	OccursIn Arg1:T42 Arg2:T37
+R34	CarriedOn Arg1:T46 Arg2:T44
+R37	CarriedOn Arg1:T55 Arg2:T54
+R38	CarriedOn Arg1:T59 Arg2:T56
+R40	CarriedOn Arg1:T59 Arg2:T58
+R41	CarriedOn Arg1:T62 Arg2:T60
+R43	Produce Arg1:T69 Arg2:T70

@@ -1,0 +1,57 @@
+T1	Environment 124 134	oily soils
+T2	Property 71 82	luminescent
+T3	Environment 268 287	bioremediated soils
+T4	Environment 435 445	oily soils
+T5	ReactionOrProcess 521 535	bioremediation
+T6	ReactionOrProcess 494 503	bioassays
+T7	Environment 577 592	untreated soils
+T8	Substrate 754 770	light crude oils
+T9	Substrate 721 724	TPH
+T10	Environment 866 879	control soils
+T11	Environment 809 828	bioremediated soils
+T12	Substrate 898 907	crude oil
+T13	Environment 1141 1151	oily soils
+T14	Environment 1013 1032	bioremediated soils
+T15	Substrate 963 966	TPH
+T16	Property 954 962	residual
+T17	Environment 1193 1203	oily soils
+T18	Environment 1401 1414	oil-free soil
+T19	Substrate 1278 1295	medium crude oils
+T20	Environment 1472 1491	bioremediated soils
+T21	Substrate 1517 1539	crude oil hydrocarbons
+T22	Environment 1694 1709	sandy peat soil
+T23	Substrate 1726 1729	oil
+T24	Environment 1798 1802	soil
+T25	Substrate 1785 1794	crude oil
+T26	Property 1767 1781	Concentrations
+T27	Environment 1950 1955	soils
+T28	Substrate 2111 2120	polar oil
+T29	Substrate 2019 2022	oil
+T30	Environment 2272 2287	untreated soils
+T31	Substrate 2310 2320	light oils
+T32	Environment 2451 2464	oil-free soil
+T33	ReactionOrProcess 2340 2354	bioremediation
+T34	Environment 2531 2535	soil
+T35	Substrate 2570 2580	light oils
+T36	ReactionOrProcess 2493 2503	inhibition
+T37	Environment 2699 2704	soils
+T38	Substrate 2694 2697	oil
+T39	ReactionOrProcess 2587 2596	reduction
+T40	Substrate 2777 2781	BTEX
+T41	Substrate 2734 2754	undegraded petroleum
+T42	Substrate 2850 2872	petroleum hydrocarbons
+T43	Substrate 3028 3046	light hydrocarbons
+T44	Property 3010 3024	concentrations
+T45	Property 3065 3074	aromatics
+T46	Environment 3364 3368	soil
+T47	Substrate 3426 3437	diesel fuel
+T48	Substrate 3418 3421	oil
+T49	Substrate 3558 3574	heavy crude oils
+T50	Substrate 3793 3814	residual hydrocarbons
+T51	ReactionOrProcess 3679 3687	degraded
+T52	Environment 3940 3945	soils
+T53	Substrate 3982 4003	residual hydrocarbons
+T54	Environment 4189 4193	soil
+T55	Substrate 4112 4123	hydrocarbon
+T56	Substrate 4181 4184	oil
+T57	Property 4200 4213	concentration

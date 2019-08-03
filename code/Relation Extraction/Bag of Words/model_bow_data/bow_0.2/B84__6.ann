@@ -1,0 +1,118 @@
+T1	Microbes 4 29	carbazoleenriched culture
+T2	Substrate 43 59	alkyl carbazoles
+T3	Substrate 49 59	carbazoles
+T4	Substrate 49 59	carbazoles
+T5	Substrate 82 88	sulfur
+T6	Substrate 218 236	sulfur heterocycle
+T7	Substrate 218 224	sulfur
+T8	ReactionOrProcess 172 180	degraded
+T9	ReactionOrProcess 118 128	incubation
+R1	CarriedOn Arg1:T9 Arg2:T6
+R2	CarriedOn Arg1:T9 Arg2:T7
+T10	Substrate 293 309	dibenzothiophene
+T11	Substrate 332 341	carbazole
+T12	Substrate 399 402	oil
+T13	Substrate 315 321	sulfur
+T14	ReactionOrProcess 465 473	degraded
+T15	Nutrient 438 459	C2- and C3-carbazoles
+T16	Substrate 575 592	dibenzothiophenes
+T17	Substrate 619 635	alkyl carbazoles
+T18	Substrate 625 635	carbazoles
+T19	Substrate 625 635	carbazoles
+T20	ReactionOrProcess 652 662	incubation
+T21	ReactionOrProcess 537 548	degradation
+R3	CarriedOn Arg1:T21 Arg2:T16
+R4	CarriedOn Arg1:T21 Arg2:T17
+R5	CarriedOn Arg1:T21 Arg2:T18
+R6	CarriedOn Arg1:T21 Arg2:T19
+T22	ReactionOrProcess 821 829	degraded
+T23	Substrate 916 935	sulfur heterocycles
+T24	Substrate 849 858	carbazole
+T25	Substrate 916 922	sulfur
+T26	ReactionOrProcess 904 911	degrade
+T27	ReactionOrProcess 835 845	enrichment
+T28	Microbes 1151 1169	enrichment culture
+T29	Microbes 1028 1053	carbazoleenriched culture
+T30	Environment 1137 1169	oil-degrading enrichment culture
+T31	Substrate 1201 1210	carbazole
+T32	Substrate 1008 1011	oil
+T33	Substrate 1124 1127	oil
+T34	Property 1115 1123	residual
+T35	ReactionOrProcess 1151 1161	enrichment
+T36	Substrate 1274 1284	carbazoles
+T37	Substrate 1274 1284	carbazoles
+T38	Substrate 1319 1335	alkyl carbazoles
+T39	Substrate 1325 1335	carbazoles
+T40	Substrate 1325 1335	carbazoles
+T41	Substrate 1419 1422	oil
+T42	Substrate 1376 1379	oil
+T43	Property 1514 1527	water-soluble
+T44	Substrate 1624 1646	Norman Wells crude oil
+T45	Substrate 1580 1596	alkyl carbazoles
+T46	Substrate 1631 1646	Wells crude oil
+T47	Substrate 1601 1620	sulfur heterocycles
+T48	Substrate 1724 1743	Sulfur heterocycles
+T49	Substrate 1586 1596	carbazoles
+T50	Substrate 1703 1713	Carbazoles
+T51	Substrate 1637 1646	crude oil
+T52	Substrate 1805 1814	carbazole
+T53	Substrate 1586 1596	carbazoles
+T54	Substrate 1703 1713	Carbazoles
+T55	Substrate 1643 1646	oil
+T56	Substrate 1601 1607	sulfur
+T57	Substrate 1724 1730	Sulfur
+T58	Property 1666 1684	carbazole-enriched
+T59	ReactionOrProcess 1744 1752	degraded
+T60	ReactionOrProcess 1647 1656	incubated
+T61	ReactionOrProcess 1565 1576	Degradation
+R7	CarriedOn Arg1:T61 Arg2:T44
+R8	CarriedOn Arg1:T61 Arg2:T45
+R9	CarriedOn Arg1:T61 Arg2:T46
+R10	CarriedOn Arg1:T61 Arg2:T47
+R11	CarriedOn Arg1:T61 Arg2:T48
+R12	CarriedOn Arg1:T61 Arg2:T49
+R13	CarriedOn Arg1:T61 Arg2:T50
+R14	CarriedOn Arg1:T61 Arg2:T51
+R15	CarriedOn Arg1:T61 Arg2:T52
+R16	CarriedOn Arg1:T61 Arg2:T53
+R17	CarriedOn Arg1:T61 Arg2:T54
+R18	CarriedOn Arg1:T61 Arg2:T55
+R19	CarriedOn Arg1:T61 Arg2:T56
+R20	CarriedOn Arg1:T61 Arg2:T57
+T62	Substrate 1826 1842	dibenzothiophene
+T63	Substrate 1865 1874	carbazole
+T64	Substrate 1946 1960	benzothiophene
+T65	Substrate 1848 1854	sulfur
+T66	Substrate 2060 2067	pyrrole
+T67	Substrate 2008 2028	nitrogen heterocycle
+T68	Substrate 2099 2108	carbazole
+T69	Property 2109 2118	degraders
+T70	Nutrient 2008 2016	nitrogen
+T71	Nutrient 2179 2187	nitrogen
+T72	Substrate 2310 2326	alkyl carbazoles
+T73	Substrate 2316 2326	carbazoles
+T74	Substrate 2332 2341	crude oil
+T75	Substrate 2316 2326	carbazoles
+T76	Substrate 2338 2341	oil
+T77	ReactionOrProcess 2282 2291	degrading
+R21	CarriedOn Arg1:T77 Arg2:T72
+R22	CarriedOn Arg1:T77 Arg2:T73
+R23	CarriedOn Arg1:T77 Arg2:T74
+R24	CarriedOn Arg1:T77 Arg2:T75
+R25	CarriedOn Arg1:T77 Arg2:T76
+T78	Substrate 2407 2417	crude oils
+T79	Substrate 2407 2417	crude oils
+T80	Substrate 2413 2417	oils
+T81	Substrate 2632 2641	crude oil
+T82	Substrate 2638 2641	oil
+T83	ReactionOrProcess 2528 2539	degradation
+T84	Environment 2696 2714	petroleum refinery
+T85	Substrate 2696 2705	petroleum
+T86	Substrate 2802 2811	petroleum
+T87	Nutrient 2674 2682	nitrogen
+T88	Substrate 2883 2892	carbazole
+T89	Substrate 2898 2902	oils
+T90	Substrate 2968 2984	alkyl carbazoles
+T91	Substrate 2974 2984	carbazoles
+T92	Substrate 2974 2984	carbazoles
+T93	ReactionOrProcess 3029 3044	denitrogenation

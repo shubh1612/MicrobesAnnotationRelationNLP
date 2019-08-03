@@ -1,0 +1,157 @@
+T1	Substrate 28 63	saturated and aromatic hydrocarbons
+T2	Substrate 73 108	Saturated and aromatic hydrocarbons
+T3	Substrate 42 63	aromatic hydrocarbons
+T4	Substrate 87 108	aromatic hydrocarbons
+T5	Substrate 28 63	saturated and aromatic hydrocarbons
+T6	Substrate 73 108	Saturated and aromatic hydrocarbons
+T7	Substrate 42 63	aromatic hydrocarbons
+T8	Substrate 87 108	aromatic hydrocarbons
+T9	Substrate 51 63	hydrocarbons
+T10	Substrate 96 108	hydrocarbons
+T11	Substrate 51 63	hydrocarbons
+T12	Substrate 96 108	hydrocarbons
+T13	Property 28 37	saturated
+T14	Property 73 82	Saturated
+T15	Property 42 50	aromatic
+T16	Property 87 95	aromatic
+T17	ReactionOrProcess 0 24	Anaerobic biodegradation
+T18	ReactionOrProcess 10 24	biodegradation
+R1	CarriedOn Arg1:T17 Arg2:T1
+R2	CarriedOn Arg1:T17 Arg2:T2
+R3	CarriedOn Arg1:T17 Arg2:T3
+R4	CarriedOn Arg1:T17 Arg2:T4
+R5	CarriedOn Arg1:T17 Arg2:T5
+R6	CarriedOn Arg1:T17 Arg2:T6
+R7	CarriedOn Arg1:T17 Arg2:T7
+R8	CarriedOn Arg1:T17 Arg2:T8
+R9	CarriedOn Arg1:T17 Arg2:T9
+R10	CarriedOn Arg1:T17 Arg2:T10
+R11	CarriedOn Arg1:T17 Arg2:T11
+R12	CarriedOn Arg1:T17 Arg2:T12
+R13	CarriedOn Arg1:T18 Arg2:T1
+R14	CarriedOn Arg1:T18 Arg2:T2
+R15	CarriedOn Arg1:T18 Arg2:T3
+R16	CarriedOn Arg1:T18 Arg2:T4
+R17	CarriedOn Arg1:T18 Arg2:T5
+R18	CarriedOn Arg1:T18 Arg2:T6
+R19	CarriedOn Arg1:T18 Arg2:T7
+R20	CarriedOn Arg1:T18 Arg2:T8
+R21	CarriedOn Arg1:T18 Arg2:T9
+R22	CarriedOn Arg1:T18 Arg2:T10
+R23	CarriedOn Arg1:T18 Arg2:T11
+R24	CarriedOn Arg1:T18 Arg2:T12
+T19	ReactionOrProcess 238 252	biodegradation
+T20	Nutrient 282 288	oxygen
+T21	Substrate 394 406	hydrocarbons
+T22	Substrate 394 406	hydrocarbons
+T23	Property 422 439	anoxic conditions
+T24	ReactionOrProcess 386 393	degrade
+T25	Substrate 523 535	hydrocarbons
+T26	Substrate 523 535	hydrocarbons
+T27	Nutrient 492 498	carbon
+T28	Substrate 579 591	hydrocarbons
+T29	Substrate 579 591	hydrocarbons
+T30	Property 655 666	temperature
+T31	Substrate 963 984	aromatic hydrocarbons
+T32	Substrate 963 984	aromatic hydrocarbons
+T33	Substrate 907 914	alkanes
+T34	Substrate 836 848	hydrocarbons
+T35	Substrate 926 938	hydrocarbons
+T36	Substrate 972 984	hydrocarbons
+T37	Substrate 836 848	hydrocarbons
+T38	Substrate 926 938	hydrocarbons
+T39	Substrate 972 984	hydrocarbons
+T40	Property 963 971	aromatic
+T41	Substrate 1110 1119	n-alkanes
+T42	Substrate 1040 1052	hydrocarbons
+T43	Substrate 1040 1052	hydrocarbons
+T44	Substrate 1171 1192	Aromatic hydrocarbons
+T45	Substrate 1171 1191	Aromatic hydrocarbon
+T46	Substrate 1171 1192	Aromatic hydrocarbons
+T47	Substrate 1180 1192	hydrocarbons
+T48	Substrate 1277 1298	aliphatic hydrocarbon
+T49	Substrate 1287 1298	hydrocarbon
+T50	Substrate 1180 1192	hydrocarbons
+T51	Substrate 1313 1326	alkylbenzenes
+T52	Property 1209 1219	polycyclic
+T53	Property 1171 1179	Aromatic
+T54	Substrate 1349 1361	hydrocarbons
+T55	Substrate 1349 1361	hydrocarbons
+T56	Substrate 1519 1531	hydrocarbons
+T57	Substrate 1602 1614	hydrocarbons
+T58	Substrate 1594 1614	natural hydrocarbons
+T59	Substrate 1519 1531	hydrocarbons
+T60	Substrate 1602 1614	hydrocarbons
+T61	Substrate 1594 1614	natural hydrocarbons
+T62	Substrate 1616 1628	Hydrocarbons
+T63	Substrate 1616 1627	Hydrocarbon
+T64	Substrate 1616 1628	Hydrocarbons
+T65	Substrate 1791 1803	hydrocarbons
+T66	Substrate 1791 1803	hydrocarbons
+T67	Substrate 1951 1954	oil
+T68	ReactionOrProcess 1895 1907	accumulation
+R25	CarriedOn Arg1:T68 Arg2:T67
+T69	Substrate 1987 1999	hydrocarbons
+T70	Substrate 1987 1999	hydrocarbons
+T71	Substrate 2323 2335	hydrocarbons
+T72	Substrate 2323 2335	hydrocarbons
+T73	Nutrient 2355 2361	oxygen
+T74	Environment 2517 2526	sediments
+T75	Environment 2512 2526	deep sediments
+T76	Environment 2512 2526	deep sediments
+T77	Substrate 2483 2495	hydrocarbons
+T78	Substrate 2628 2640	hydrocarbons
+T79	Substrate 2483 2495	hydrocarbons
+T80	Substrate 2628 2640	hydrocarbons
+T81	Substrate 2534 2537	oil
+T82	Property 2659 2676	anoxic conditions
+T83	ReactionOrProcess 2610 2624	biodegradation
+T84	Nutrient 2433 2439	oxygen
+T85	Substrate 2806 2818	hydrocarbons
+T86	Substrate 2806 2818	hydrocarbons
+T87	Property 2834 2851	anoxic conditions
+T88	ReactionOrProcess 2798 2805	degrade
+T89	Substrate 3023 3042	aerobic hydrocarbon
+T90	Substrate 2924 2936	hydrocarbons
+T91	Substrate 3031 3042	hydrocarbon
+T92	Substrate 2924 2936	hydrocarbons
+T93	Substrate 3086 3121	saturated and aromatic hydrocarbons
+T94	Substrate 3100 3121	aromatic hydrocarbons
+T95	Substrate 3086 3121	saturated and aromatic hydrocarbons
+T96	Substrate 3100 3121	aromatic hydrocarbons
+T97	Substrate 3109 3121	hydrocarbons
+T98	Substrate 3109 3121	hydrocarbons
+T99	Substrate 3166 3169	oil
+T100	Property 3086 3095	saturated
+T101	Property 3100 3108	aromatic
+T102	ReactionOrProcess 3207 3218	degradation
+T103	ReactionOrProcess 3197 3218	anaerobic degradation
+T104	Substrate 3323 3344	aromatic hydrocarbons
+T105	Substrate 3323 3344	aromatic hydrocarbons
+T106	Substrate 3309 3344	aliphatic and aromatic hydrocarbons
+T107	Substrate 3332 3344	hydrocarbons
+T108	Substrate 3372 3384	hydrocarbons
+T109	Substrate 3332 3344	hydrocarbons
+T110	Substrate 3372 3384	hydrocarbons
+T111	Substrate 3309 3344	aliphatic and aromatic hydrocarbons
+T112	Property 3323 3331	aromatic
+T113	ReactionOrProcess 3513 3524	degradation
+T114	Substrate 3617 3629	hydrocarbons
+T115	Substrate 3608 3629	biogenic hydrocarbons
+T116	Substrate 3617 3629	hydrocarbons
+T117	Substrate 3608 3629	biogenic hydrocarbons
+T118	Substrate 3868 3902	Saturated and aromatic hydrocarbon
+T119	Substrate 3868 3903	Saturated and aromatic hydrocarbons
+T120	Substrate 3882 3903	aromatic hydrocarbons
+T121	Substrate 3868 3903	Saturated and aromatic hydrocarbons
+T122	Substrate 3882 3903	aromatic hydrocarbons
+T123	Substrate 3891 3903	hydrocarbons
+T124	Substrate 3891 3903	hydrocarbons
+T125	Property 3868 3877	Saturated
+T126	Property 3868 3876	Saturate
+T127	Property 3882 3890	aromatic
+T128	Substrate 3972 3981	n-alkanes
+T129	Substrate 4008 4015	alkanes
+T130	Microbes 4146 4153	archaea
+T131	Substrate 4096 4103	alkanes
+T132	Substrate 4190 4197	alkanes

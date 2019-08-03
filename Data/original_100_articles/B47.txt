@@ -1,0 +1,446 @@
+B47
+OCCURRENCE OF CRUDE OIL DEGRADING BACTERIA IN GASOLINE
+AND DIESEL STATION SOILS
+Pattanathu K.S.M. Rahman*1, Thahira-Rahman1
+, Perumal Lakshmanaperumalsamy2
+,
+and Ibrahim M. Banat1
+1. Biotechnology Group, School of Biological and Environmental Sciences,
+ University of Ulster, Coleraine, County Londonderry, Northern Ireland - BT52 1SA.
+2. Department of Environmental Sciences, Bharathiar University,
+ Coimbatore – 641 046, Tamilnadu, India.
+* Corresponding Author Present address:
+Dr Pattanathu K.S.M. Rahman
+Chemical and Bioprocess Engineering Group
+School of Science and Engineering
+Teesside University, Middlesbrough - TS1 3BA
+Teesvalley, United Kingdom.
+Tel: +44-1642-384669
+Email: p.rahman@tees.ac.uk
+Running title: Biodegradation of petroleum hydrocarbons 
+2
+SUMMARY
+Microbial enumeration and identification were carried out on several oil contaminated
+soil samples collected from gasoline and diesel stations. Bacteria were the most dominant
+microbiota and were therefore classified to generic level. Eleven main genera were
+detected and Corynebacterium was the predominant genus in all the samples.
+Biochemical characterisation and substrate utilisation showed high percentage of lipolytic
+ability combined with high inorganic nitrogen utilisers. The ability of these cultures to
+degrade crude oil was tested individually and in mixed bacterial consortium at different
+temperatures and pH values. Maximum crude oil biodegradation of 78% was achieved
+using a bacterial consortium containing five cultures (Micrococcus sp. GS2-22,
+Corynebacterium sp. GS5-66, Flavobacterium sp. DS5-73, Bacillus sp. DS6-86 and
+Pseudomonas sp. DS10-129) with 1% crude oil at 30oC and pH 7.5. Such a consortium
+may be useful for bioaugmentation of oil contaminated environments. 
+3
+INTRODUCTION
+Petroleum continues to serve as the principle source of energy. Wide scale production,
+transport, use and disposal of petroleum globally has made it a lead contaminant in both
+prevalence and quantity in the environment. As a result of the increase in automobiles, the
+number of gasoline/diesel stations and automobile service stations is ever increasing. In
+gasoline, diesel stations and service stations, oil is spilled during transfer and servicing
+operations. During accidental spills, action will be taken to remove or remediate or recover
+the contaminant immediately, whereas in the gasoline and diesel stations the spills due to
+leakage may be small but continuous and prolonged. Because of its persistence, the chance
+for groundwater contamination is greater.
+The addition of hydrocarbons to an ecosystem may result in a selective increase in
+microorganisms capable of utilising the hydrocarbons and those that are capable of
+utilising metabolites produced by the hydrocarbon-utilisers (Venkateswaran et al. 1995;
+Ferrari et al. 1996). The enhancement or reduction will depend upon the chemical
+composition of the contaminating hydrocarbons and on the species of microorganisms
+present within the microbial community of the particular ecosystem (Atlas 1995).
+The Gulf War and an increasing trend in tanker accidents have focussed attention on the
+problem of hydrocarbon contamination in the environment. The traditional methods to cope
+with oil spills are mainly through physical containment and collection using floating
+booms, applications of adsorbents such as straw, shredded polyurethane or porous volcanic
+glasses and/or dispersal by detergents (Ollis 1992). Biological methods have an edge over
+the physico-chemical treatment regimes in removing spills as they offer in situ biodegradation
+of oil fractions by the microorganisms (Ferrari et al.1996) 
+4
+The fate of petroleum hydrocarbons in the environment, including biodegradation, is
+largely determined by abiotic factors, which influence the extent of weathering. This paper
+describes the microbial population and microbial diversity of samples from gasoline and
+diesel stations and explores the possibility of using selected bacterial cultures and bacterial
+consortium to degrade Bombay high crude oil at various environmental conditions.
+MATERIALS AND METHODS
+Screening of samples
+The soil samples (100g each) were collected from ten Gasoline spilled (GS) and diesel
+spilled (DS) stations for the isolation of oil degrading microorganisms. The samples were
+collected in pre-sterilised glass bottles and transported to the laboratory for analysis.
+Enumeration and isolation of heterotrophic bacteria, actinomycetes and fungi was carried
+out through serial dilution-agar plating technique using Nutrient agar, Kuster’s agar and
+Rose Bengal agar medium (HIMEDIA) respectively.
+Characterisation of bacteria
+The isolates were grouped to various genera as per Bergey's Manual of Determinative
+Bacteriology (Holt et al., 1994). These cultures were characterised depending on their
+morphology, gram staining, spore staining, motility, oxidase, catalase, oxidation
+fermentation, gas production, ammonia formation, nitrate and nitrite reduction, indole
+production test, methyl-red and Voges-Proskauer test, citrate and mannitol utilisation test,
+hydrolysis of casein, gelatin, starch, urea and lipid (Aaranson 1970). 
+5
+Growth of bacteria on crude oil
+The bacterial cultures isolated from oil spilled environment were inoculated in Mineral
+salts medium (Kennedy et al., 1975) with 1% Bombay High crude oil as carbon source. It
+was kept in the shaker at 200 rpm at 30°C for a period of seven days. The growth was
+recorded and categorized spectrophotometrically as low growth with optical density (OD)
+in the range 0.21-0.4, moderate growth (OD 0.41-0.6), high growth (OD 0.61-0.8) and
+excellent growth (OD 0.81-1.0) all measured at 620nm.
+Preparation of inoculum
+The bacterial isolates that exhibited excellent growth on crude oil, Micrococcus sp. GS2-
+22, Bacillus sp. DS6-86, Corynebacterium sp. GS5-66, Flavobacterium sp. DS5-73 and
+Pseudomonas sp. DS10-129, were selected. A loopful of culture was inoculated into 100ml
+sterile nutrient broth. The flasks were incubated and shaken at 200 rpm, for 12h at 30°C.
+One ml volumes of the culture broth from each of the above five isolates were mixed to
+prepare mixed bacterial consortium.
+Degradation of crude oil
+Individual bacterial cultures and bacterial consortium (1.0 %) were transferred to 250 ml
+conical flasks, each containing 100 ml of sterile defined mineral salts medium with 1%
+Bombay High (BH) crude oil. An uninoculated control was also studied concurrently. The
+flasks were incubated at 30°C and shaken at 200 rpm for 20 days. At 2-day intervals, a set of
+flasks was used for the enumeration of microbial population and estimation of crude oil content 
+6
+spectrophotometrically as described in Rahman et al. (2002). Degradation was estimated as
+difference between the initial and final concentration of the oil content in the medium.
+Effect of environmental factors on the growth and degradation of BH crude oil
+The effect of pH (6.5, 7.5 and 8.5), temperature (15°C, 20°C and 30°C) on the bacterial
+growth and degradation of 1% crude oil were studied by using mineral salts medium with
+BH crude oil.
+RESULTS
+Microbiology of oil spilled samples
+The highest microbial population was observed for the sample GS-5. The bacterial, fungal
+and actinomycetes populations were recorded as 3.0 x 106
+ CFU g-1, 8.9 x 104
+ and 4.3 x 104
+CFU g-1 respectively (Table 1). In gasoline station soil, the maximum (2.98 mg g-1) and
+minimum (0.56 mg g-1) oil contents were recorded for samples GS-5 and GS-7. The
+bacterial count in diesel station soil samples ranged between 3.0 x 105
+ CFU g-1 for sample
+DS-1 and 2.1 x 108
+ CFU g-1 for sample DS-9. Among the diesel station soil samples the
+maximum fungal and actinomycetes populations were observed for sample DS-9 with 7.0 x
+104
+ CFU g-1 and 4.7 x 104
+ CFU g-1 respectively. In diesel station soil, the maximum of 5.21
+mg g
+-1 oil content was noticed in sample DS-9 and minimum of 1.65 mg g-1 in sample
+DS-7. 
+7
+Table 1. Microbial distribution and hydrocarbon content in gasoline and diesel
+station soil samples
+Sample Bacteria
+(CFU/g)
+Fungi
+(CFU/g)
+Actinomycetes
+(CFU/g)
+Hydrocarbon
+content (mg/g)
+Gasoline station soil samples
+GS-1 8.9 x 105
+ 1.1 x 103
+ 2.7 x 104
+ 0.89
+GS-2 1.5 x 106
+ 3.2 x 104
+ 1.7 x 102
+ 1.50
+GS-3 1.1 x 106
+ 6.8 x 103
+ 2.0 x 102
+ 1.06
+GS-4 1.4 x 106
+ 6.1 x 103
+ 1.1 x 104
+ 1.43
+GS-5 3.0 x 106
+ 8.9 x 104
+ 4.3 x 104
+2.98
+GS-6 6.8 x 105
+ 1.3 x 103
+ 9.5 x 102
+ 0.68
+GS-7 5.6 x 105
+ 4.4 x 103
+ 6.2 x 103
+ 0.56
+GS-8 1.2 x 106
+ 4.5 x 102
+ 1.0 x 102
+ 1.20
+GS-9 2.0 x 106
+ 1.2 x 104
+ 3.9 x 102
+ 2.01
+GS-10 8.6 x 105
+ 8.1 x 103
+ 1.1 x 102
+ 0.86
+Diesel station soil samples
+DS-1 3.0 x 105
+ 1.2 x 103
+ 8.9 x 102
+ 3.83
+DS-2 4.3 x 105
+ 4.8 x 103
+ 5.4 x 102
+ 4.61
+DS-3 8.8 x 106
+ 1.2 x 103
+ 2.0 x 103
+ 5.14
+DS-4 7.4 x 107
+ 1.5 x 103
+ 6.3 x 102
+ 1.91
+DS-5 8.6 x 107
+ 6.8 x 102
+ 3.8 x 102
+ 2.42
+DS-6 6.0 x 106
+ 3.8 x 102
+ 7.6 x 102
+ 2.06
+DS-7 3.7 x 107
+ 5.7 x 102
+ 1.8 x 103
+ 1.65
+DS-8 4.3 x 107
+ 4.1 x 103
+ 4.4 x 102
+ 3.56
+DS-9 2.1 x 108
+ 7.0 x 104
+ 4.7 x 104
+ 5.21
+DS-10 3.2 x 107
+ 7.6 x 102
+ 8.1 x 102
+ 3.11
+Generic wise distribution of bacteria in oil spilled environment
+The percentage distribution of different genera of bacteria in gasoline and diesel station soil
+is presented in figure 1. In gasoline station soil, members of genus Corynebacterium (23.4%)
+was at a higher level followed by Micrococcus (14.9%), Pseudomonas (12.8%), Alcaligenes
+and Flavobacterium (10.7% each), Moraxella and Bacillus (6.4% each), Enterobacter,
+Aeromonas and Vibrio (4.2% each). In diesel station soil, Corynebacterium (36.5%) was
+dominant followed by Pseudomonas (14.4%), Micrococcus and Bacillus (11.1% each), 
+8
+Enterobacter, Flavobacterium and Moraxella (6.3% each), Alcaligenes (3.2%),
+Aeromonas, Acinetobacter and Vibrio (1.6% each).
+Figure 1. Generic wise distribution of bacteria in oil spilled environment.
+Biochemical characteristics of bacteria
+The bacterial colonies identified from oil spilled environment were analysed by different
+biochemical tests and the results are given in figure 2. For gasoline station soil, nitrite
+reducers (70%) were the predominant forms. This was followed by nitrate reducers
+(65.5%), ammonia formers (52%) and catalase producers (50.5%). Indole producers,
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Distribution (%)
+Micrococcus
+Corynebacterium
+Bacillus
+Enterobacter
+Pseudomonas
+Alcaligenes
+Flavobacterium
+Moraxella
+Aeromonas
+Acinetobacter
+Vibrio
+Genera
+Gasoline station soil
+Diesel station soil
+9
+Figure 2. Biochemical Characterisation of bacterial isolates
+methyl red and Vogus-Proskauer test positive cultures and citrate utilisers were found at a
+lesser proportion. In diesel station soil, ammonia producers were at a higher (68.2%)
+proportion than nitrite (60.3%), catalase (51.1%) and nitrate reducers (44.3%) respectively.
+Indole, Methyl red, Vogus-Proskauer and citrate utilisers were at a lower proportion.
+0
+20
+40
+60
+80
+Bacteria showing
+positive result (%)
+1 2 3 4 5 6 7 8
+Biochemical test
+1-Citrate utilisation test ; 2-Vogus Proskauer test ; 3-Methyl red test ; 4-Indole
+production test ; 5-Catalase test ; 6-Nitrite reduction test ; 7-Ammonium
+production test ; 8-Nitrate reduction test
+Gasoline station soil
+Diesel station soil
+10
+Bacterial Substrate utilisation
+The physiological activities of the bacterial isolates were studied and the results were
+presented as percentage of bacterial isolates exhibiting the enzymatic activity (Figure 3).
+For gasoline station soil, very high number of amylolytic bacteria were found (66.4%)
+followed by lipolytic (49.4%), caseinolytic (47.8%), gelatinolytic (35.6%) and the least
+were urea hydrolysers (19.3%). Lipolytic bacteria were more (72.4%) followed by
+caseinolytic (54.2%), amylolytic (49.6%), gelatinolytic (25.1%) and the least were
+ureolytic (11.1%) for diesel station soil.
+Figure 3. Percentage of bacteria degrading various substrates.
+0
+20
+40
+60
+80
+100
+Bacteria showing
+hydrolytic activity (%)
+1 2 3 4 5
+S ubstra te
+1-Cas ein; 2-Gelatin; 3-S tarc h; 4-Lipid; 5-Urea
+Gasoline s tation s oil
+Diesel station soil
+11
+Crude oil degradation
+The bacterial isolates (130) were tested for their ability to grow in mineral salts medium
+(MSM) with crude oil as carbon source. Out of 130 isolates, 50.8%, 24.6%, 20.8% and
+3.8% showed low, moderate, high, and excellent growth respectively (Table 2).
+Micrococcus sp. GS2-22, Corynebacterium sp. GS5-66, Flavobacterium sp. DS5-73,
+Bacillus sp. DS6-86, and Pseudomonas sp. DS10-129, all had excellent growth.
+Table 2. Distribution of bacterial genera showing different levels of growth on crude oil
+Genera
+Growth of bacteria on crude oil
+Total No. Optical Density at 620nm*
+0.21-0.4 0.41 – 0.6 0.61 – 0.8 0.81 – 1.0
+Micrococcus sp. 17 10 6 - 1
+Corynebacterium sp. 45 17 17 10 1
+Bacillus sp. 13 8 1 3 1
+Enterobacter sp. 6 4 2 - -
+Pseudomonas sp. 16 4 2 9 1
+Alcaligenes sp. 8 7 - 1 -
+Flavobacterium sp. 9 7 - 1 1
+Moraxella sp. 7 5 1 1 -
+Aeromonas sp. 4 2 1 1 -
+Acinetobacter sp. 2 1 - 1 -
+Vibrio sp. 3 1 2 - -
+Total 130 66 32 27 5
+Percentage 100 50.8 24.6 20.8 3.8
+* 0.21 - 0.4 = Low growth , 0.41 - 0.6 = Moderate growth, 0.61 - 0.8 = High growth
+0.81 - 1.0 = Excellent growth 
+12
+Among the four pH (6.5, 7.5 and 8.5) tested, pH 7.5 was found optimum for all the
+bacterial isolates and bacterial consortium (data not shown). Hence the pH 7.5 was selected
+for further experiments. All the five individual isolates and bacterial consortium showed
+maximum activity and crude oil degradation at 30°C and population also correspondingly
+increased (Fig. 4). Bacterial consortium showed maximum (78%) degradation and reached
+a population size of about 9 x 108
+CFU ml-1 while using 1% BH crude oil as substrate.
+Figure 4. Percentage degradation and bacterial growth at 1% BH crude oil by selected oil
+degraders and bacterial consortium in mineral salts medium at pH 7.5 and temperature
+30oC.
+0 2 4 6 8 10 12 14 16 18 20
+101
+102
+103
+104
+105
+106
+107
+108
+109
+Uninoculated Control ( ), Micrococcus sp. GS2-22 ( ), Bacillus sp. DS6-86( ),
+Corynebacterium sp. GS5-66 ( ), Flavobacterium sp. DS5-73 ( ),
+Pseudomonas sp. DS1O-129 ( ) and Bacterial Consortium ( ). Bacteria (CFU g-1
+)
+ Incubation (days)
+0 2 4 6 8 10 12 14 16 18 20
+0
+10
+20
+30
+40
+50
+60
+70
+80
+ Oil degradation (%)
+ Incubation (days)
+13
+DISCUSSION
+Bacteria, actinomycetes and fungal populations were high in samples GS-5 and DS-9,
+where higher quantities of oil contents were noticed. Similarly large population of bacteria,
+actinomycetes and fungi were recorded from oil-spilled environment (Venkateswaran et al.
+1993; Wrenn and Venosa 1996; Cabello 1997). Population levels of hydrocarbon utilisers
+and their population within the microbial community appear to be a sensitive index of
+environmental exposure to hydrocarbons. In unpolluted ecosystem, hydrocarbon utilisers
+generally constitute less than 0.1% of the microbial community and in oil polluted
+ecosystems they can constitute upto 100% of the viable microorganisms. The microbial
+populations quantitatively reflect the degree or extent of exposure of that ecosystem to
+hydrocarbon contamination (Atlas 1981; Al-gounaim et al. 1995).
+ In general, gasoline and diesel station soil samples contained Corynebacterium species
+at higher proportion. The dominance of the genus Corynebacterium revealed that it might
+have developed the ability to acclimatize to the oil environment. We observed bacteria
+belonged to diversified groups, which may be due to the oil enrichment. The changes in the
+dynamic equilibrium state of soil or aquatic environment leads to a corresponding change
+in microbial population and composition. The added oil enriched for the species that have
+inherent petroleum hydrocarbon assimilating potential (Bossert and Bartha 1984),
+whereas the less adapted species among the total heterotrophic population are gradually
+eliminated, resulting in qualitative shifts in species composition (Amadi 1990).
+ The biochemical characteristics of the bacteria varied. Austin et al. (1977) reported that the
+biochemical reactions of the petroleum degraders, as a whole, were not uniform and no
+pattern of relatedness were discernible based on the reactions. In oil-spilled soil, lipolytic 
+14
+forms were present in high numbers, which may be due to richness of lipid source available
+in the area. Walker et al. (1975) also found an increase in absolute numbers of proteolytic
+bacteria, as well as lipolytic, chitinolytic and cellulolytic bacteria in oil contaminated subestuary
+of Chesapeake Bay.
+ Microorganisms are known to attack specific compounds present in crude oil that is a
+complex mixture of saturates, aromatics and polar compounds (Bharathi and Vasudevan
+2001). An effective degradation of crude oil would require simultaneous action of several
+metabolically versatile microorganisms with faourable environmental conditions such as pH,
+temperature and availability of nutrients (Venkateswaran and Harayama 1995). An oil spill in
+the environment leads to an adaptive process and if metabolically active hydrocarbon
+utilising microorganisms could be added quickly, the long period before the indigenous
+population could respond would be reduced considerably. The necessity for seeding with
+complementary hydrocarbon degrading bacteria arises from the rationale that indigenous
+microbial populations may not be capable of degrading a wide range of potential substrates
+in a complex mixture such as crude oil (Chhatre et al. 1996).
+ It seems that a natural microbial community includes a variety of microorganisms that can
+degrade, alone or together, most crude oil components, but that some of their degrading ability
+would not be expressed in a single batch culture owing to unfavorable physiological conditions
+(Venkateswaran et al., 1995). When mixed cultures are grown in crude oil medium, some
+organic acids, which prevent the growth of the bacteria, are formed. However, in a mixed
+culture system, the growth of the organism cannot be regulated because of nutrient stress and
+competition. The ability of the designed bacterial consortium and individual bacteria with wide
+crude oil degrading capacity has been employed for the degradation of crude oil. 
+15
+ The isolated crude oil degraders belong to the genera Micrococcus, Corynebacterium,
+Bacillus, Enterobacter, Pseudomonas, Alcaligenes, Flavobacterium, Moraxella,
+Aeromonas, Acinetobacter and Vibrio. The flora reflects the normal heterotrophic bacteria
+present in soil and native genera seem to be crude oil utilisers. Several other workers also
+reported on the above genera as hydrocarbon degrading microorganisms (Atlas 1981;
+Leahy and Colwell 1990; Banat et al. 2000).
+ In general, bacterial consortium showed maximum percentage (78%) of degradation of
+crude oil after 20 days of incubation. Chhatre et al. (1996) reported about 60% of
+degradation of crude oil using a semicontinuous crude oil fed reactor using a four
+member consortium. Several other workers (Venkateswaran and Harayama 1995; Lal and
+Khanna 1996; Sugiura et al. 1997) showed that a bacterial consortium was able to
+degrade 28-51% of saturates and 0-18% of aromatics present in crude oil or up to 60%
+crude oil by mixed consortia. The percentage of biodegradation was significantly higher
+than that achieved by individual isolates. Among the four different pH tested, the
+bacterial growth and percentage degradation of crude oil were maximum at pH 7.5. Most
+of the heterotrophic bacteria favor a pH near neutrality (Atlas 1981). Temperature
+influences petroleum biodegradation by its effect on the physical nature and chemical
+composition of the oil, rate of hydrocarbon metabolism by microorganisms, and composition
+of the microbial community (Atlas 1981). Our studies showed maximum
+biodegradation activity at 30°C.
+ Our research work clearly shows that oil contaminated soil can be a principle source for
+potent oil degrading bacteria. Genus Corynebacterium was dominant in all the samples 
+16
+analyzed. It was observed that bacterial consortium degraded Bombay high crude oil
+efficiently when compared to the individual bacterial cultures tested.
+ACKNOWLEDGEMENTS
+KSM Rahman wishes to thank the Council of Scientific and Industrial Research, New
+Delhi, India for the award of Senior Research Fellowship. Thanks also to Environment and
+Heritage Service, DOE for FRDF financial support under the Northern Ireland Single
+Programme (Ref. WM 47/99). 

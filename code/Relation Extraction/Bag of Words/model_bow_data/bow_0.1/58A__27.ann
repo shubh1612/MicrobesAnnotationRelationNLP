@@ -1,0 +1,21 @@
+T1	Substrate 341 360	aromatic pollutants
+T2	Substrate 204 211	phenols
+T3	Property 242 250	aromatic
+T4	Property 341 349	aromatic
+T5	Property 350 360	pollutants
+T6	ReactionOrProcess 486 509	complete biodegradation
+T7	ReactionOrProcess 495 509	biodegradation
+T8	Environment 617 639	anaerobic environments
+T9	ReactionOrProcess 662 671	reduction
+T10	Substrate 887 906	aromatic pollutants
+T11	Substrate 848 867	aromatic pollutants
+T12	Property 848 856	aromatic
+T13	Property 887 895	aromatic
+T14	Property 896 906	pollutants
+T15	Property 857 867	pollutants
+T16	ReactionOrProcess 999 1008	oxidation
+T17	Property 1061 1071	pollutants
+T18	ReactionOrProcess 1029 1043	mineralization
+T19	Microbes 1231 1247	aerobic bacteria
+T20	Property 1130 1139	Pollutant
+T21	Property 1130 1140	Pollutants

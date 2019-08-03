@@ -1,0 +1,58 @@
+T1	Microbes 11 52	obligate anaerobic fermentative bacterium
+T2	Substrate 347 354	ethanol
+T3	Nutrient 336 343	glucose
+T4	Environment 552 577	granular anaerobic sludge
+T5	Substrate 619 626	ethanol
+T6	Substrate 640 647	methane
+T7	Property 691 700	dissolved
+T8	Nutrient 701 707	oxygen
+T9	Nutrient 536 542	Oxygen
+T10	Substrate 753 760	Methane
+T11	ReactionOrProcess 917 932	microaerophilic
+T12	Nutrient 1073 1079	oxygen
+T13	Substrate 1086 1093	Ethanol
+T14	Property 1098 1106	volatile
+T15	Nutrient 1266 1272	oxygen
+T16	Property 1410 1424	concentrations
+T17	Nutrient 1347 1353	oxygen
+T18	Substrate 1454 1465	methanogens
+T19	Property 1550 1562	methanogenic
+T20	Property 1550 1562	methanogenic
+T21	ReactionOrProcess 1583 1592	incubated
+T22	Substrate 1730 1737	methane
+T23	Property 1759 1768	dissolved
+T24	Property 1776 1789	concentration
+T25	Nutrient 1769 1775	oxygen
+T26	Substrate 1893 1900	methane
+T27	Property 2051 2063	methanogenic
+T28	Property 2051 2063	methanogenic
+T29	ReactionOrProcess 2043 2072	healthy methanogenic activity
+T30	Environment 2441 2451	wastewater
+T31	Environment 2431 2451	municipal wastewater
+T32	ReactionOrProcess 2304 2319	Denitrification
+T33	Property 2522 2531	dissolved
+T34	Nutrient 2532 2538	oxygen
+T35	ReactionOrProcess 2629 2644	denitrification
+T36	ReactionOrProcess 2725 2740	denitrification
+T37	ReactionOrProcess 2707 2716	reduction
+T38	Property 3042 3051	dissolved
+T39	ReactionOrProcess 2842 2857	denitrification
+T40	ReactionOrProcess 3004 3019	denitrification
+T41	Nutrient 3052 3058	oxygen
+T42	Substrate 3367 3385	aromatic compounds
+T43	Substrate 3343 3385	recalcitrant xenobiotic aromatic compounds
+T44	Substrate 3356 3385	xenobiotic aromatic compounds
+T45	Substrate 3367 3385	aromatic compounds
+T46	Property 3367 3375	aromatic
+T47	ReactionOrProcess 3308 3331	complete biodegradation
+T48	ReactionOrProcess 3317 3331	biodegradation
+R1	CarriedOn Arg1:T47 Arg2:T42
+R2	CarriedOn Arg1:T47 Arg2:T43
+R3	CarriedOn Arg1:T47 Arg2:T44
+R4	CarriedOn Arg1:T47 Arg2:T45
+R5	CarriedOn Arg1:T48 Arg2:T42
+R6	CarriedOn Arg1:T48 Arg2:T43
+R7	CarriedOn Arg1:T48 Arg2:T44
+R8	CarriedOn Arg1:T48 Arg2:T45
+T49	ReactionOrProcess 3534 3552	anaerobic activity
+T50	ReactionOrProcess 3565 3574	reduction

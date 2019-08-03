@@ -1,0 +1,65 @@
+T1	Substrate 22 25	oil
+T2	Substrate 111 114	oil
+T3	ReactionOrProcess 0 11	Degradation
+T4	Nutrient 53 59	carbon
+R1	CarriedOn Arg1:T3 Arg2:T1
+R2	CarriedOn Arg1:T3 Arg2:T2
+T5	Property 266 285	denaturing gradient
+T6	ReactionOrProcess 266 305	denaturing gradient gel electrophoresis
+T7	ReactionOrProcess 290 305	electrophoresis
+T8	ReactionOrProcess 266 276	denaturing
+T9	ReactionOrProcess 514 528	bioremediation
+T10	ReactionOrProcess 391 395	DGGE
+T11	Environment 737 746	fine sand
+T12	Environment 742 746	sand
+T13	Environment 898 906	sediment
+T14	Environment 959 968	fine sand
+T15	Environment 964 968	sand
+T16	Environment 1093 1111	previous oil spill
+T17	Substrate 1064 1067	oil
+T18	Substrate 1102 1105	oil
+T19	Environment 1194 1199	sandy
+T20	Environment 1140 1145	beach
+T21	Property 1194 1199	sandy
+T22	Substrate 1777 1780	oil
+T23	Substrate 1910 1913	oil
+T24	Substrate 1969 1972	oil
+T25	Substrate 1785 1788	oil
+T26	Substrate 1858 1861	oil
+T27	ReactionOrProcess 1793 1807	bioremediation
+T28	ReactionOrProcess 1866 1880	bioremediation
+T29	Nutrient 1989 2009	inorganic fertilizer
+T30	Environment 2329 2334	beach
+T31	Environment 2646 2651	beach
+T32	Environment 2805 2813	sediment
+T33	Environment 2799 2804	beach
+T34	Substrate 2742 2751	crude oil
+T35	Substrate 2748 2751	oil
+T36	Substrate 2785 2788	oil
+T37	Substrate 2734 2751	Forties crude oil
+T38	Substrate 2953 2956	oil
+T39	Property 3001 3012	temperature
+T40	Substrate 3083 3086	oil
+T41	Environment 3142 3150	seawater
+T42	Environment 3131 3150	artificial seawater
+T43	Substrate 3102 3105	oil
+T44	Environment 3344 3347	sea
+T45	Substrate 3329 3332	oil
+T46	ReactionOrProcess 3277 3287	weathering
+T47	ReactionOrProcess 3352 3358	washed
+T48	ReactionOrProcess 3292 3306	emulsification
+R3	CarriedOn Arg1:T46 Arg2:T45
+T49	Environment 3486 3494	sediment
+T50	Environment 3526 3534	sediment
+T51	Substrate 3429 3432	oil
+T52	Substrate 3749 3752	oil
+T53	Nutrient 3675 3683	nitrogen
+T54	Nutrient 3690 3700	phosphorus
+T55	Environment 4159 4167	sediment
+T56	Environment 4218 4226	sediment
+T57	Environment 4153 4158	beach
+T58	Environment 4206 4226	oil-treated sediment
+T59	Nutrient 4265 4271	carbon
+T60	Nutrient 4339 4345	Carbon
+T61	Environment 4656 4661	beach
+T62	Environment 4744 4749	beach

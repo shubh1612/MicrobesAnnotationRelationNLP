@@ -1,0 +1,98 @@
+T1	Substrate 66 75	petroleum
+T2	Substrate 111 120	petroleum
+T3	Substrate 241 250	petroleum
+T4	Substrate 164 167	Oil
+T5	Substrate 158 167	Motor Oil
+T6	ReactionOrProcess 48 62	bioremediation
+T7	ReactionOrProcess 93 107	bioremediation
+R1	CarriedOn Arg1:T6 Arg2:T1
+R2	CarriedOn Arg1:T6 Arg2:T2
+R3	CarriedOn Arg1:T6 Arg2:T3
+R4	CarriedOn Arg1:T6 Arg2:T4
+R5	CarriedOn Arg1:T6 Arg2:T5
+R6	CarriedOn Arg1:T7 Arg2:T1
+R7	CarriedOn Arg1:T7 Arg2:T2
+R8	CarriedOn Arg1:T7 Arg2:T3
+R9	CarriedOn Arg1:T7 Arg2:T4
+R10	CarriedOn Arg1:T7 Arg2:T5
+T8	Substrate 438 447	petroleum
+T9	Substrate 448 460	hydrocarbons
+T10	Substrate 448 460	hydrocarbons
+T11	Substrate 438 460	petroleum hydrocarbons
+T12	ReactionOrProcess 419 430	degradation
+R11	CarriedOn Arg1:T12 Arg2:T8
+R12	CarriedOn Arg1:T12 Arg2:T9
+R13	CarriedOn Arg1:T12 Arg2:T10
+R14	CarriedOn Arg1:T12 Arg2:T11
+T13	Substrate 502 511	n-alkanes
+T14	ReactionOrProcess 489 498	depletion
+R15	CarriedOn Arg1:T14 Arg2:T13
+T15	Substrate 663 672	petroleum
+T16	Substrate 673 685	hydrocarbons
+T17	Substrate 673 685	hydrocarbons
+T18	Substrate 663 685	petroleum hydrocarbons
+T19	ReactionOrProcess 644 655	degradation
+R16	CarriedOn Arg1:T19 Arg2:T15
+R17	CarriedOn Arg1:T19 Arg2:T16
+R18	CarriedOn Arg1:T19 Arg2:T17
+R19	CarriedOn Arg1:T19 Arg2:T18
+T20	Environment 953 957	soil
+T21	ReactionOrProcess 713 762	terminal restriction fragment length polymorphism
+T22	ReactionOrProcess 1011 1022	degradation
+T23	Substrate 1131 1140	petroleum
+T24	Substrate 1141 1153	hydrocarbons
+T25	Substrate 1141 1153	hydrocarbons
+T26	Substrate 1131 1153	petroleum hydrocarbons
+T27	ReactionOrProcess 1112 1123	degradation
+R20	CarriedOn Arg1:T27 Arg2:T23
+R21	CarriedOn Arg1:T27 Arg2:T24
+R22	CarriedOn Arg1:T27 Arg2:T25
+R23	CarriedOn Arg1:T27 Arg2:T26
+T28	Microbes 1228 1240	Enterobacter
+T29	Environment 1279 1294	landfarmed soil
+T30	Environment 1290 1294	soil
+T31	ReactionOrProcess 1182 1188	T-RFLP
+R24	CarriedOn Arg1:T31 Arg2:T28
+T32	Microbes 1365 1376	Alcaligenes
+T33	Environment 1438 1453	landfarmed soil
+T34	Environment 1449 1453	soil
+T35	Enzyme 1470 1494	catechol 2,3-dioxygenase
+T36	Enzyme 1634 1652	alkane hydroxylase
+T37	Enzyme 1659 1683	catechol 2,3-dioxygenase
+T38	Enzyme 1706 1729	naphthalene dioxygenase
+T39	Environment 1768 1784	landfarmed soils
+T40	Environment 1768 1784	landfarmed soils
+T41	Environment 1779 1784	soils
+T42	Substrate 1706 1717	naphthalene
+T43	Property 2017 2027	pollutants
+T44	ReactionOrProcess 1879 1928	Terminal restriction fragment length polymorphism
+T45	ReactionOrProcess 1870 1876	T-RFLP
+T46	ReactionOrProcess 1837 1840	PCR
+T47	ReactionOrProcess 1989 2000	degradation
+T48	ReactionOrProcess 2249 2263	Biodegradation
+T49	Environment 2462 2480	contaminated soils
+T50	Environment 2599 2604	soils
+T51	Environment 2475 2480	soils
+T52	Environment 2462 2480	contaminated soils
+T53	Substrate 2436 2445	petroleum
+T54	Substrate 2446 2458	hydrocarbons
+T55	Substrate 2446 2458	hydrocarbons
+T56	Substrate 2436 2458	petroleum hydrocarbons
+T57	ReactionOrProcess 2421 2432	degradation
+R25	CarriedOn Arg1:T57 Arg2:T53
+R26	CarriedOn Arg1:T57 Arg2:T54
+R27	CarriedOn Arg1:T57 Arg2:T55
+R28	CarriedOn Arg1:T57 Arg2:T56
+T58	ReactionOrProcess 2986 2992	T-RFLP
+T59	ReactionOrProcess 3189 3195	T-RFLP
+T60	ReactionOrProcess 3329 3335	T-RFLP
+T61	Property 3680 3699	denaturing gradient
+T62	ReactionOrProcess 3680 3719	denaturing gradient gel electrophoresis
+T63	ReactionOrProcess 3704 3719	electrophoresis
+T64	ReactionOrProcess 3680 3690	denaturing
+T65	Property 3749 3760	temperature
+T66	ReactionOrProcess 3774 3789	electrophoresis
+T67	Environment 4289 4301	soil samples
+T68	Environment 4289 4293	soil
+T69	ReactionOrProcess 4264 4275	degradation
+T70	Microbes 4436 4447	Alcaligenes

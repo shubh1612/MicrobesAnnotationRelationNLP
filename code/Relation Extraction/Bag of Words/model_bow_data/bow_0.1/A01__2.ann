@@ -1,0 +1,45 @@
+T1	Substrate 142 145	oil
+T2	Substrate 453 474	anaerobic hydrocarbon
+T3	Substrate 463 474	hydrocarbon
+T4	ReactionOrProcess 463 486	hydrocarbon degradation
+T5	ReactionOrProcess 453 486	anaerobic hydrocarbon degradation
+T6	ReactionOrProcess 475 486	degradation
+T7	Environment 527 535	sediment
+T8	Environment 518 535	Deep-sea sediment
+T9	Substrate 599 602	oil
+T10	Environment 817 825	sediment
+T11	Environment 808 825	deep-sea sediment
+T12	Environment 847 852	water
+T13	Environment 916 924	sediment
+T14	Environment 909 924	capped sediment
+T15	Environment 1530 1536	Marine
+T16	ReactionOrProcess 1703 1713	extraction
+T17	ReactionOrProcess 1699 1713	DNA extraction
+T18	ReactionOrProcess 2092 2102	EXTRACTION
+T19	ReactionOrProcess 2088 2102	DNA EXTRACTION
+T20	Environment 2307 2311	Soil
+T21	ReactionOrProcess 2264 2273	extracted
+T22	ReactionOrProcess 2316 2325	Isolation
+T23	Substrate 2501 2508	ethanol
+T24	ReactionOrProcess 2471 2479	purified
+R1	CarriedOn Arg1:T24 Arg2:T23
+T25	ReactionOrProcess 2582 2597	electrophoresis
+T26	Nutrient 2606 2610	agar
+T27	Microbes 4507 4530	Alcanivorax borkumensis
+T28	Microbes 4874 4891	Desulfatibacillum
+T29	Microbes 4874 4910	Desulfatibacillum alkenivorans AK-01
+T30	Microbes 5127 5146	Deltaproteobacteria
+T31	Environment 4773 4779	marine
+T32	Substrate 5086 5106	aromatic hydrocarbon
+T33	Substrate 4932 4940	n-alkane
+T34	Substrate 4658 4670	hydrocarbons
+T35	Substrate 5095 5106	hydrocarbon
+T36	Substrate 4658 4670	hydrocarbons
+T37	Substrate 4654 4657	oil
+T38	Substrate 4945 4953	n-alkene
+T39	Property 4914 4930	sulfate-reducing
+T40	Property 5086 5094	aromatic
+T41	Nutrient 4698 4704	carbon
+T42	Environment 5191 5216	FUNCTIONAL GENES Sediment
+T43	Environment 5208 5216	Sediment
+T44	ReactionOrProcess 5170 5173	PCR

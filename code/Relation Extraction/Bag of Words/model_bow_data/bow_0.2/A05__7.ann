@@ -1,0 +1,137 @@
+T1	Substrate 103 110	benzene
+T2	Microbes 538 556	enrichment culture
+T3	Environment 521 537	nitrate-reducing
+T4	Substrate 416 423	benzene
+T5	Substrate 406 423	anaerobic benzene
+T6	Property 469 481	methanogenic
+T7	Property 469 481	methanogenic
+T8	ReactionOrProcess 538 548	enrichment
+T9	ReactionOrProcess 406 435	anaerobic benzene degradation
+T10	ReactionOrProcess 268 281	fractionation
+T11	ReactionOrProcess 311 324	fractionation
+T12	ReactionOrProcess 424 435	degradation
+T13	Nutrient 296 302	carbon
+T14	Microbes 835 876	methanogenic or sulfate-reducing cultures
+T15	Environment 739 755	nitrate-reducing
+T16	Property 835 847	methanogenic
+T17	Property 835 847	methanogenic
+T18	Property 851 867	sulfate-reducing
+T19	Environment 1036 1052	nitrate-reducing
+T20	Substrate 1011 1018	benzene
+T21	Substrate 1082 1089	benzene
+T22	Property 1128 1140	methanogenic
+T23	Property 1128 1140	methanogenic
+T24	Property 1107 1123	sulfate-reducing
+T25	Substrate 1522 1529	toluene
+T26	ReactionOrProcess 1459 1472	fractionation
+T27	Environment 1712 1728	nitrate-reducing
+T28	Substrate 1680 1687	benzene
+T29	Substrate 1937 1944	benzene
+T30	Substrate 1823 1830	toluene
+T31	Substrate 1953 1960	toluene
+T32	Property 1762 1780	strictly anaerobic
+T33	ReactionOrProcess 1815 1822	degrade
+R1	CarriedOn Arg1:T33 Arg2:T29
+T34	Microbes 2224 2245	methanogenic cultures
+T35	Substrate 2060 2067	benzene
+T36	Substrate 2051 2058	benzene
+T37	Substrate 1986 1993	Benzene
+T38	Property 2224 2236	methanogenic
+T39	Property 2224 2236	methanogenic
+T40	Property 2204 2220	sulfate-reducing
+T41	ReactionOrProcess 2019 2032	hydroxylation
+R2	CarriedOn Arg1:T41 Arg2:T34
+R3	CarriedOn Arg1:T41 Arg2:T35
+R4	CarriedOn Arg1:T41 Arg2:T36
+T42	Substrate 2311 2329	aromatic compounds
+T43	Substrate 2295 2329	non-substituted aromatic compounds
+T44	Substrate 2311 2329	aromatic compounds
+T45	Property 2311 2319	aromatic
+T46	Substrate 2336 2347	naphthalene
+T47	Substrate 2418 2430	phenanthrene
+T48	Substrate 2651 2669	aromatic compounds
+T49	Substrate 2635 2669	non-substituted aromatic compounds
+T50	Substrate 2651 2669	aromatic compounds
+T51	Property 2651 2659	aromatic
+T52	ReactionOrProcess 2620 2631	degradation
+R5	CarriedOn Arg1:T52 Arg2:T48
+R6	CarriedOn Arg1:T52 Arg2:T49
+R7	CarriedOn Arg1:T52 Arg2:T50
+T53	Microbes 3028 3047	enrichment cultures
+T54	Environment 2923 2939	nitrate-reducing
+T55	Substrate 2745 2752	benzene
+T56	Substrate 3189 3196	toluene
+T57	Substrate 3086 3092	phenol
+T58	Substrate 2735 2752	anaerobic benzene
+T59	Property 2965 2977	methanogenic
+T60	Property 2965 2977	methanogenic
+T61	Property 2768 2784	sulfate-reducing
+T62	ReactionOrProcess 3028 3038	enrichment
+T63	ReactionOrProcess 2735 2764	anaerobic benzene degradation
+T64	ReactionOrProcess 2753 2764	degradation
+R8	CarriedOn Arg1:T63 Arg2:T53
+R9	CarriedOn Arg1:T64 Arg2:T53
+R10	CarriedOn Arg1:T62 Arg2:T56
+R11	CarriedOn Arg1:T63 Arg2:T56
+R12	CarriedOn Arg1:T63 Arg2:T57
+R13	CarriedOn Arg1:T64 Arg2:T56
+R14	CarriedOn Arg1:T64 Arg2:T57
+T65	Environment 3365 3371	marine
+T66	Substrate 3315 3322	benzene
+T67	Property 3372 3388	sulfate-reducing
+T68	ReactionOrProcess 3328 3339	degradation
+T69	ReactionOrProcess 3504 3517	incorporation
+T70	ReactionOrProcess 3413 3423	incubation
+T71	Nutrient 3639 3645	carbon
+T72	Property 3760 3776	sulfate-reducing
+T73	Substrate 3900 3907	benzene
+T74	Microbes 4192 4210	enrichment culture
+T75	ReactionOrProcess 4192 4202	enrichment
+T76	ReactionOrProcess 4218 4228	incubation
+T77	Substrate 4396 4403	benzene
+T78	ReactionOrProcess 4349 4358	incubated
+T79	Substrate 4776 4783	toluene
+T80	Substrate 4747 4765	aromatic compounds
+T81	Substrate 4788 4794	phenol
+T82	Substrate 4747 4765	aromatic compounds
+T83	Property 4747 4755	aromatic
+T84	ReactionOrProcess 4715 4726	degradation
+T85	ReactionOrProcess 4705 4726	anaerobic degradation
+R15	CarriedOn Arg1:T84 Arg2:T79
+R16	CarriedOn Arg1:T84 Arg2:T80
+R17	CarriedOn Arg1:T84 Arg2:T81
+R18	CarriedOn Arg1:T84 Arg2:T82
+R19	CarriedOn Arg1:T85 Arg2:T79
+R20	CarriedOn Arg1:T85 Arg2:T80
+R21	CarriedOn Arg1:T85 Arg2:T81
+R22	CarriedOn Arg1:T85 Arg2:T82
+T86	Substrate 4931 4937	phenol
+T87	Property 4956 4968	methanogenic
+T88	Property 4956 4968	methanogenic
+T89	ReactionOrProcess 4938 4949	degradation
+T90	Substrate 5136 5143	benzene
+T91	Substrate 5229 5236	benzene
+T92	Substrate 5219 5236	anaerobic benzene
+T93	ReactionOrProcess 5219 5248	anaerobic benzene degradation
+T94	ReactionOrProcess 5237 5248	degradation
+T95	ReactionOrProcess 5295 5308	hydroxylation
+T96	Substrate 5515 5522	benzene
+T97	Substrate 5567 5574	peptide
+T98	Substrate 5524 5530	phenol
+T99	Microbes 5749 5757	Azoarcus
+T100	Enzyme 5711 5722	carboxylase
+T101	Microbes 5769 5773	EbN1
+T102	Microbes 5762 5773	strain EbN1
+T103	Substrate 5879 5886	benzene
+T104	Substrate 5869 5886	anaerobic benzene
+T105	ReactionOrProcess 5869 5898	anaerobic benzene degradation
+T106	ReactionOrProcess 5887 5898	degradation
+T107	Enzyme 6016 6027	carboxylase
+T108	Substrate 5951 5958	benzene
+T109	Substrate 6008 6015	benzene
+T110	Substrate 5989 6015	putative anaerobic benzene
+T111	Substrate 5998 6015	anaerobic benzene
+T112	Enzyme 6185 6196	carboxylase
+T113	Substrate 6177 6184	benzene
+T114	Substrate 6158 6184	putative anaerobic benzene
+T115	Substrate 6167 6184	anaerobic benzene

@@ -1,0 +1,57 @@
+T1	Environment 236 242	porous
+T2	Substrate 61 68	ethanol
+T3	Substrate 280 287	ethanol
+T4	Substrate 84 92	gasoline
+T5	Substrate 255 263	gasoline
+T6	Substrate 216 220	BTEX
+T7	ReactionOrProcess 177 186	retention
+T8	ReactionOrProcess 201 212	degradation
+T9	Environment 371 381	inert soil
+T10	Environment 428 444	undisturbed soil
+T11	Environment 571 595	ethanol-containing soils
+T12	Substrate 323 330	ethanol
+T13	Substrate 294 302	gasoline
+T14	Substrate 406 414	gasoline
+T15	Substrate 337 341	BTEX
+T16	Property 491 499	residues
+T17	Property 391 402	attenuation
+T18	Property 669 681	contaminants
+T19	ReactionOrProcess 511 520	degrading
+T20	Environment 875 879	soil
+T21	Environment 821 826	water
+T22	Substrate 778 785	ethanol
+T23	Substrate 789 793	BTEX
+T24	Substrate 863 867	BTEX
+T25	Property 807 817	solubility
+T26	ReactionOrProcess 850 859	retention
+T27	Environment 946 950	soil
+T28	Substrate 917 933	gasoline–ethanol
+T29	Substrate 904 912	gasoline
+T30	Environment 1163 1167	soil
+T31	Property 1168 1176	toxicity
+T32	ReactionOrProcess 1150 1159	reduction
+T33	Environment 1260 1264	soil
+T34	Environment 1338 1342	soil
+T35	Substrate 1307 1323	gasoline–ethanol
+T36	Substrate 1443 1450	ethanol
+T37	ReactionOrProcess 1415 1439	preferential degradation
+T38	Environment 1492 1497	soils
+T39	Substrate 1516 1528	BTEX–ethanol
+T40	ReactionOrProcess 1462 1471	degrading
+T41	ReactionOrProcess 1571 1585	biodegradation
+T42	Environment 1775 1779	soil
+T43	Property 1780 1788	toxicity
+T44	Environment 1844 1860	unsaturated soil
+T45	Substrate 1885 1892	ethanol
+T46	Environment 2004 2008	soil
+T47	Property 1993 2000	residue
+T48	Property 1981 1992	contaminant
+T49	Substrate 2142 2149	ethanol
+T50	Substrate 2224 2232	gasoline
+T51	Substrate 2160 2164	BTEX
+T52	ReactionOrProcess 2233 2243	oxygenated
+T53	ReactionOrProcess 2278 2299	atmospheric pollution
+T54	ReactionOrProcess 2165 2176	degradation
+T55	Substrate 2493 2509	gasoline–ethanol
+T56	Substrate 2566 2573	ethanol
+T57	ReactionOrProcess 2397 2408	degradation

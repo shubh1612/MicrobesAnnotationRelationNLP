@@ -1,0 +1,19 @@
+T1	Property 149 162	heterotrophic
+T2	Environment 379 399	anaerobic conditions
+T3	Property 308 321	heterotrophic
+T4	Property 838 851	heterotrophic
+T5	Nutrient 1220 1226	carbon
+T6	Environment 1758 1768	wastewater
+T8	ReactionOrProcess 1730 1742	denitrifying
+T9	Nutrient 1801 1807	carbon
+T10	ReactionOrProcess 3619 3632	hybridization
+T11	ReactionOrProcess 3696 3705	extracted
+T12	Property 3832 3844	fluorescence
+T13	ReactionOrProcess 4139 4152	incorporation
+T14	ReactionOrProcess 4988 4998	incubation
+T15	Substrate 5522 5535	phenylalanine
+T16	ReactionOrProcess 5590 5603	incorporation
+T17	ReactionOrProcess 5804 5817	incorporation
+R2	OccursIn Arg1:T8 Arg2:T6
+T7	Nutrient 1790 1797	acetate
+T18	Nutrient 1778 1786	methanol

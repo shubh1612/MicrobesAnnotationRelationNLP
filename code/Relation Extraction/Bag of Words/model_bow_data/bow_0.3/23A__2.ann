@@ -1,0 +1,120 @@
+T1	Environment 24 34	microcosms
+T2	Environment 232 240	sediment
+T3	Environment 186 191	beach
+T4	Environment 281 289	Sediment
+T5	Environment 382 391	microcosm
+T6	Property 349 360	temperature
+T7	Environment 451 460	fine sand
+T8	Environment 436 444	sediment
+T9	Environment 456 460	sand
+T10	Environment 738 746	sediment
+T11	Environment 790 795	beach
+T12	Environment 1006 1014	sediment
+T13	Environment 1185 1193	sediment
+T14	Environment 961 969	seawater
+T15	Environment 1100 1108	seawater
+T16	Environment 1181 1193	wet sediment
+T17	Environment 1038 1047	Microcosm
+T18	Environment 1212 1221	microcosm
+T19	Environment 910 920	microcosms
+T20	Environment 1090 1108	synthetic seawater
+T21	ReactionOrProcess 1073 1084	homogenized
+T22	Environment 1269 1277	seawater
+T23	Environment 1363 1371	seawater
+T24	Environment 1298 1307	microcosm
+T25	Environment 1427 1436	microcosm
+T26	Environment 1292 1297	beach
+T27	Environment 1402 1408	waters
+T28	Environment 1259 1277	synthetic seawater
+T29	Property 1409 1416	drained
+T30	Environment 1544 1554	microcosms
+T31	Substrate 1613 1616	oil
+T32	Environment 1633 1636	sea
+T33	Environment 1655 1660	beach
+T34	Substrate 1826 1833	toluene
+T35	Substrate 1811 1815	BTEX
+T36	Substrate 1697 1706	crude oil
+T37	Substrate 1781 1793	hydrocarbons
+T38	Substrate 1772 1793	volatile hydrocarbons
+T39	Substrate 1835 1847	ethylbenzene
+T40	Substrate 1849 1855	xylene
+T41	Substrate 1781 1793	hydrocarbons
+T42	Substrate 1703 1706	oil
+T43	Substrate 1618 1621	Oil
+T44	Substrate 1772 1793	volatile hydrocarbons
+T45	Substrate 1689 1706	forties crude oil
+T46	Property 1772 1780	volatile
+T47	ReactionOrProcess 1678 1688	weathering
+T48	ReactionOrProcess 1641 1647	washed
+R1	CarriedOn Arg1:T47 Arg2:T34
+R2	CarriedOn Arg1:T47 Arg2:T35
+R3	CarriedOn Arg1:T47 Arg2:T39
+R4	CarriedOn Arg1:T47 Arg2:T40
+R5	CarriedOn Arg1:T48 Arg2:T34
+R6	CarriedOn Arg1:T48 Arg2:T35
+R7	CarriedOn Arg1:T48 Arg2:T39
+R8	CarriedOn Arg1:T48 Arg2:T40
+T49	Substrate 1865 1888	resolvable hydrocarbons
+T50	Substrate 1922 1943	aromatic hydrocarbons
+T51	Substrate 2028 2037	petroleum
+T52	Substrate 1922 1943	aromatic hydrocarbons
+T53	Substrate 2022 2050	total petroleum hydrocarbons
+T54	Substrate 1909 1916	alkanes
+T55	Substrate 1876 1888	hydrocarbons
+T56	Substrate 1931 1943	hydrocarbons
+T57	Substrate 2038 2050	hydrocarbons
+T58	Substrate 2022 2050	total petroleum hydrocarbons
+T59	Substrate 1865 1888	resolvable hydrocarbons
+T60	Substrate 1876 1888	hydrocarbons
+T61	Substrate 1931 1943	hydrocarbons
+T62	Substrate 2038 2050	hydrocarbons
+T63	Substrate 2074 2077	oil
+T64	Substrate 2064 2077	weathered oil
+T65	Substrate 2028 2050	petroleum hydrocarbons
+T66	Property 1922 1930	aromatic
+T67	Environment 2133 2141	seawater
+T68	Environment 2123 2141	synthetic seawater
+T69	Substrate 2093 2096	oil
+T70	Substrate 2083 2096	weathered oil
+T71	Property 2168 2174	stable
+T72	Environment 2299 2307	seawater
+T73	Environment 2228 2238	microcosms
+T74	Substrate 2360 2363	oil
+T75	Environment 2445 2450	water
+T76	Substrate 2515 2522	nitrate
+T77	Substrate 2588 2591	oil
+T78	Nutrient 2534 2543	potassium
+T79	Environment 2656 2666	microcosms
+T80	Environment 2699 2709	microcosms
+T81	Environment 2810 2818	sediment
+T82	Environment 2893 2902	sediments
+T83	Environment 2970 2979	sediments
+T84	Environment 3041 3050	sediments
+T85	Environment 2883 2902	untreated sediments
+T86	Environment 2947 2969	nutrient-amended beach
+T87	Environment 2947 2979	nutrient-amended beach sediments
+T88	Environment 3025 3040	untreated beach
+T89	Environment 2964 2969	beach
+T90	Environment 3035 3040	beach
+T91	Environment 2804 2809	Beach
+T92	Environment 2883 2902	untreated sediments
+T93	Environment 3025 3050	untreated beach sediments
+T94	Property 3087 3093	stable
+T95	ReactionOrProcess 2989 2993	DGGE
+T96	Environment 3273 3281	sediment
+T97	Environment 3170 3180	microcosms
+T98	Environment 3145 3155	microcosms
+T99	Substrate 3237 3240	oil
+T100	Environment 3313 3321	sediment
+T101	Environment 3419 3429	microcosms
+T102	Environment 3590 3598	sediment
+T103	Environment 3699 3708	microcosm
+T104	Substrate 3726 3729	oil
+T105	Environment 3824 3832	seawater
+T106	Environment 3845 3855	microcosms
+T107	Environment 3818 3832	tidal seawater
+T108	Environment 4022 4031	microcosm
+T109	Substrate 4054 4057	oil
+T110	Nutrient 3997 4003	carbon
+T111	Nutrient 3947 3953	Carbon
+T112	Environment 4153 4162	microcosm

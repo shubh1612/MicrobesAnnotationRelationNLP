@@ -1,0 +1,41 @@
+T1 ReactionOrProcess 34 37 PCR
+T2 ReactionOrProcess 42 49 cloning
+T3 Environment 575 583 seawater
+T4 Substrate 602 605 oil
+T5 Property 414 426 fluorescence
+T6 ReactionOrProcess 560 571 incubations
+T7 ReactionOrProcess 435 448 hybridization
+T8 Environment 641 651 microcosms
+T9 ReactionOrProcess 743 753 incubation
+T10 ReactionOrProcess 690 717 significant oil degradation
+T11 Substrate 1024 1027 oil
+T12 ReactionOrProcess 1040 1071 limited hydrocarbon degradation
+T13 Nutrient 973 981 nitrogen
+T14 Nutrient 986 996 phosphorus
+T15 Substrate 1088 1099 hydrocarbon
+T16 Property 1100 1110 pollutants
+T17 ReactionOrProcess 1279 1304 extensive oil degradation
+T18 Environment 1543 1552 microcosm
+T19 ReactionOrProcess 1329 1364 significant hydrocarbon degradation
+T20 ReactionOrProcess 1621 1644 hydrocarbon degradation
+T21 ReactionOrProcess 1825 1839 biodegradation
+T22 Environment 1978 1984 waters
+T23 Environment 2347 2355 seawater
+T24 Environment 2411 2414 Sea
+T25 Substrate 2260 2263 oil
+T26 Substrate 2333 2336 oil
+T27 Substrate 2388 2391 oil
+T28 ReactionOrProcess 2243 2254 enrichments
+T29 ReactionOrProcess 2534 2564 marine hydrocarbon degradation
+R1 CarriedOn Arg1:T6 Arg2:T4
+R2 CarriedOn Arg1:T7 Arg2:T4
+R3 OccursIn Arg1:T6 Arg2:T3
+R4 OccursIn Arg1:T7 Arg2:T3
+R7 CarriedOn Arg1:T12 Arg2:T11
+R8 CarriedOn Arg1:T17 Arg2:T15
+R9 OccursIn Arg1:T19 Arg2:T18
+R10 CarriedOn Arg1:T28 Arg2:T25
+R11 CarriedOn Arg1:T28 Arg2:T26
+R12 CarriedOn Arg1:T28 Arg2:T27
+R13 OccursIn Arg1:T28 Arg2:T23
+R14 OccursIn Arg1:T28 Arg2:T24

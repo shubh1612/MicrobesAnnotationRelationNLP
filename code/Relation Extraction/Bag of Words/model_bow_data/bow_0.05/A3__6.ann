@@ -1,0 +1,69 @@
+T1	Microbes 149 163	Geobacteraceae
+T2	Environment 82 101	uncontaminated site
+T3	ReactionOrProcess 37 41	DGGE
+R1	CarriedOn Arg1:T3 Arg2:T1
+T4	Microbes 248 262	proteobacteria
+T5	Microbes 214 233	Geothrix fermentans
+T6	Microbes 322 338	Azoarcus evansii
+T7	Microbes 322 330	Azoarcus
+T8	Substrate 394 401	toluene
+T9	Property 402 410	degrader
+T10	Environment 709 728	uncontaminated site
+T11	Substrate 594 603	petroleum
+T12	Property 833 845	methanogenic
+T13	Property 833 845	methanogenic
+T14	Property 604 615	contaminant
+T15	ReactionOrProcess 550 554	DGGE
+T16	ReactionOrProcess 907 911	DGGE
+T17	Microbes 1299 1307	Gthrx-84
+T18	Microbes 1393 1407	Geobacteraceae
+T19	Environment 1411 1419	sediment
+T20	Microbes 1469 1483	Geobacteraceae
+T21	Microbes 1585 1599	Geobacteraceae
+T22	Microbes 1681 1695	Geobacteraceae
+T23	Environment 1508 1517	sediments
+T24	Substrate 1543 1550	benzene
+T25	ReactionOrProcess 1455 1465	enrichment
+T26	ReactionOrProcess 1551 1562	degradation
+R2	CarriedOn Arg1:T25 Arg2:T20
+R3	CarriedOn Arg1:T25 Arg2:T21
+R4	CarriedOn Arg1:T25 Arg2:T22
+R5	CarriedOn Arg1:T25 Arg2:T24
+T27	Microbes 1808 1822	Geobacteraceae
+T28	Environment 1724 1770	uncontaminated and benzene-oxidizing sediments
+T29	Environment 1761 1770	sediments
+T30	Environment 1743 1770	benzene-oxidizing sediments
+T31	Environment 1743 1770	benzene-oxidizing sediments
+T32	Property 1743 1760	benzene-oxidizing
+T33	ReactionOrProcess 1701 1705	DGGE
+R6	CarriedOn Arg1:T33 Arg2:T27
+T34	Environment 1981 1990	sediments
+T35	Environment 1963 1990	benzene-oxidizing sediments
+T36	Environment 1963 1990	benzene-oxidizing sediments
+T37	Property 1963 1980	benzene-oxidizing
+T38	ReactionOrProcess 1941 1944	PCR
+T39	Microbes 2217 2239	Pelobacter propionicus
+T40	Microbes 2200 2212	G. chapellei
+T41	ReactionOrProcess 2345 2355	extraction
+T42	ReactionOrProcess 2277 2280	PCR
+T43	ReactionOrProcess 2446 2449	PCR
+T44	Microbes 2935 2949	proteobacteria
+T45	Environment 3343 3351	sediment
+T46	Environment 3277 3296	uncontaminated zone
+T47	ReactionOrProcess 3254 3258	DGGE
+T48	Microbes 3601 3615	Geobacteraceae
+T49	Environment 3439 3458	uncontaminated site
+T50	Microbes 3740 3754	proteobacteria
+T51	Microbes 3783 3801	enrichment culture
+T52	Substrate 3765 3772	Benzene
+T53	Property 3765 3782	Benzene-oxidizing
+T54	ReactionOrProcess 3783 3793	enrichment
+T55	Microbes 3819 3837	enrichment culture
+T56	Environment 4000 4009	sediments
+T57	Substrate 3877 3884	benzene
+T58	Property 3923 3934	crystalline
+T59	ReactionOrProcess 3819 3829	enrichment
+T60	Nutrient 3961 3978	electron acceptor
+T61	Environment 4134 4141	aquifer
+T62	Substrate 4166 4173	benzene
+T63	ReactionOrProcess 4158 4165	degrade

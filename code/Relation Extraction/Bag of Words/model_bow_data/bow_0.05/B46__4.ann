@@ -1,0 +1,39 @@
+T1	Microbes 120 131	alcaligenes
+T2	Microbes 69 77	inoculum
+T3	Microbes 105 115	B. cepacia
+T4	Microbes 136 145	P. putida
+T5	Microbes 117 131	P. alcaligenes
+T6	Substrate 205 213	gasoline
+T7	Substrate 244 255	n-tridecane
+T8	Substrate 230 240	n-undecane
+T9	Property 278 290	cell density
+T10	ReactionOrProcess 171 182	degradation
+R1	CarriedOn Arg1:T10 Arg2:T6
+R2	CarriedOn Arg1:T10 Arg2:T7
+R3	CarriedOn Arg1:T10 Arg2:T8
+T11	Property 376 398	syntrophicaly utilized
+T12	Property 359 372	cometabolized
+T13	Environment 577 582	water
+T14	ReactionOrProcess 584 592	reducing
+T15	ReactionOrProcess 679 693	biodegradation
+T16	Microbes 744 752	inoculum
+T17	Microbes 778 786	inoculum
+T18	ReactionOrProcess 848 858	inoculated
+T19	Microbes 908 916	inoculum
+T20	ReactionOrProcess 1029 1044	bioaugmentation
+T21	Microbes 1226 1237	alcaligenes
+T22	Microbes 1252 1260	inoculum
+T23	Microbes 1211 1221	B. cepacia
+T24	Microbes 1242 1251	P. putida
+T25	Microbes 1223 1237	P. alcaligenes
+T26	Environment 1137 1148	native soil
+T27	Environment 1137 1159	native soil microflora
+T28	Environment 1144 1148	soil
+T29	Environment 1336 1340	soil
+T30	Environment 1439 1444	soils
+T31	Substrate 1397 1405	gasoline
+T32	Property 1306 1319	concentration
+T33	ReactionOrProcess 1389 1396	degrade
+T34	Nutrient 1355 1359	H2O2
+T35	Nutrient 1292 1298	NH4NO3
+T36	ReactionOrProcess 1671 1682	remediation

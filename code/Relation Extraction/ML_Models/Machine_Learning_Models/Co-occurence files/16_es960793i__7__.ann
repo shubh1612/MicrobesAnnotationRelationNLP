@@ -1,0 +1,108 @@
+T1	Substrate 86 96	light oils
+T2	Environment 135 140	soils
+T3	Environment 257 262	soils
+T4	Property 204 218	concentrations
+T5	Environment 432 436	soil
+T6	Substrate 375 385	light oils
+T7	Substrate 459 471	hydrocarbons
+T8	Property 342 350	residual
+T9	Environment 575 585	oily soils
+T10	Environment 702 720	bioremediated soil
+T11	Property 613 620	Soluble
+T12	ReactionOrProcess 737 747	extraction
+T13	ReactionOrProcess 662 673	extractions
+T14	ReactionOrProcess 781 792	extractions
+T15	Substrate 834 838	BTEX
+T16	Environment 914 918	Soil
+T17	Environment 1049 1054	soils
+T18	Environment 1108 1113	soils
+T19	Substrate 1077 1093	light crude oils
+T20	Property 1002 1016	concentrations
+T21	Environment 1142 1158	Biotreated soils
+T22	Substrate 1195 1199	BTEX
+T23	Environment 1408 1417	oily soil
+T24	Environment 1482 1506	bioremediated oily soils
+T25	Substrate 1539 1570	leachable aromatic hydrocarbons
+T26	Environment 1725 1736	groundwater
+T27	Environment 1845 1869	naturally-occurring soil
+T28	Environment 1572 1582	Oily soils
+T29	Substrate 1688 1692	BTEX
+T30	Substrate 1782 1786	BTEX
+T31	Property 1787 1801	concentrations
+T32	ReactionOrProcess 1693 1705	infiltration
+T33	ReactionOrProcess 1830 1841	biodegraded
+T34	ReactionOrProcess 1641 1652	remediation
+T35	Environment 1974 1978	soil
+T36	Property 2034 2047	water-soluble
+T37	Environment 2265 2274	oily soil
+T38	Environment 2367 2371	soil
+T39	Substrate 2295 2299	BTEX
+T40	ReactionOrProcess 2341 2352	extractions
+T41	ReactionOrProcess 2185 2199	Bioremediation
+T42	Environment 2462 2474	oily sludges
+T43	Property 2506 2511	sandy
+T44	Environment 2788 2799	groundwater
+T45	Environment 2940 2951	groundwater
+T46	Environment 2911 2915	soil
+T47	Environment 2839 2843	soil
+T48	Property 2879 2893	concentrations
+T49	Property 2867 2878	contaminant
+T50	Environment 3113 3133	untreated oily soils
+T51	Substrate 3092 3096	BTEX
+T52	Substrate 3063 3084	residual hydrocarbons
+T53	Environment 3264 3274	oily soils
+T54	ReactionOrProcess 3238 3252	bioremediation
+T55	Environment 3464 3468	soil
+T56	Environment 3531 3541	oily soils
+T57	Property 3555 3560	toxic
+T58	ReactionOrProcess 3602 3616	bioremediation
+T59	Environment 3641 3646	soils
+T60	Substrate 3671 3681	light oils
+T61	Property 3687 3692	toxic
+T62	Environment 3792 3802	oily soils
+T63	Environment 3959 3963	soil
+T64	Substrate 3902 3914	hydrocarbons
+T65	Substrate 3898 3901	oil
+T66	ReactionOrProcess 3885 3894	reduction
+T67	Environment 4102 4122	organic Norwood soil
+T68	Substrate 4037 4056	optimum hydrocarbon
+T69	Property 4001 4009	toxicity
+T70	ReactionOrProcess 4045 4071	hydrocarbon biodegradation
+T71	Environment 4178 4183	soils
+T72	Substrate 4214 4251	residual or uncharacterized petroleum
+T73	Property 4144 4152	toxicity
+T74	Environment 4467 4494	organic Norwood/Baccto soil
+T75	Substrate 4370 4382	hydrocarbons
+T76	ReactionOrProcess 4392 4400	degraded
+R1	OccursIn Arg1:T12 Arg2:T10
+R2	OccursIn Arg1:T13 Arg2:T10
+R3	CarriedOn Arg1:T32 Arg2:T29
+R4	CarriedOn Arg1:T32 Arg2:T30
+R5	CarriedOn Arg1:T33 Arg2:T29
+R6	CarriedOn Arg1:T33 Arg2:T30
+R7	CarriedOn Arg1:T34 Arg2:T29
+R8	CarriedOn Arg1:T34 Arg2:T30
+R9	OccursIn Arg1:T32 Arg2:T26
+R10	OccursIn Arg1:T32 Arg2:T27
+R11	OccursIn Arg1:T32 Arg2:T28
+R12	OccursIn Arg1:T33 Arg2:T26
+R13	OccursIn Arg1:T33 Arg2:T27
+R14	OccursIn Arg1:T33 Arg2:T28
+R15	OccursIn Arg1:T34 Arg2:T26
+R16	OccursIn Arg1:T34 Arg2:T27
+R17	OccursIn Arg1:T34 Arg2:T28
+R18	CarriedOn Arg1:T40 Arg2:T39
+R19	CarriedOn Arg1:T41 Arg2:T39
+R20	OccursIn Arg1:T40 Arg2:T37
+R21	OccursIn Arg1:T40 Arg2:T38
+R22	OccursIn Arg1:T41 Arg2:T37
+R23	OccursIn Arg1:T41 Arg2:T38
+R24	OccursIn Arg1:T54 Arg2:T53
+R25	OccursIn Arg1:T58 Arg2:T56
+R26	CarriedOn Arg1:T66 Arg2:T64
+R27	CarriedOn Arg1:T66 Arg2:T65
+R28	OccursIn Arg1:T66 Arg2:T63
+R29	CarriedOn Arg1:T70 Arg2:T68
+R30	OccursIn Arg1:T70 Arg2:T67
+R31	CarriedOn Arg1:T76 Arg2:T75
+R32	OccursIn Arg1:T76 Arg2:T74

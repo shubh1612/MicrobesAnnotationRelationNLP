@@ -1,0 +1,113 @@
+T1	Environment 63 74	groundwater
+T2	Environment 111 118	aquifer
+T3	Environment 178 189	groundwater
+T4	Environment 307 316	microcosm
+T5	Environment 366 376	microcosms
+T6	Substrate 276 283	benzene
+T7	Property 211 220	dissolved
+T8	Property 228 242	concentrations
+T9	ReactionOrProcess 284 295	degradation
+T10	ReactionOrProcess 341 352	degradation
+T11	Nutrient 221 227	oxygen
+T12	Environment 440 449	microcosm
+T13	ReactionOrProcess 403 422	aerobic degradation
+T14	ReactionOrProcess 411 422	degradation
+T15	Microbes 702 713	Polaromonas
+T16	Microbes 717 727	Acidovorax
+T17	Environment 493 505	groundwaters
+T18	Substrate 598 605	benzene
+T19	Property 574 588	concentrations
+T20	Property 656 668	denitrifying
+T21	ReactionOrProcess 656 668	denitrifying
+T22	Nutrient 567 573	oxygen
+T23	Environment 743 755	groundwaters
+T24	Substrate 804 815	methanogens
+T25	Microbes 917 931	Hydrogenophaga
+T26	Environment 859 870	groundwater
+T27	Property 850 858	alkaline
+T28	Environment 1036 1048	groundwaters
+T29	Environment 1023 1048	contaminated groundwaters
+T30	Substrate 1141 1148	benzene
+T31	ReactionOrProcess 1149 1160	degradation
+T32	Substrate 1162 1169	Benzene
+T33	Substrate 1213 1222	petroleum
+T34	Substrate 1256 1263	alkanes
+T35	Property 1388 1400	carcinogenic
+T36	Property 1423 1432	pollutant
+T37	Property 1378 1383	toxic
+T38	ReactionOrProcess 1292 1302	combustion
+T39	ReactionOrProcess 1281 1302	incomplete combustion
+T40	Environment 1567 1579	groundwaters
+T41	Environment 1524 1529	water
+T42	Environment 1685 1690	water
+T43	Environment 1624 1629	water
+T44	Environment 1739 1745	waters
+T45	Property 1549 1560	temperature
+T46	Property 1513 1520	soluble
+T47	Property 1452 1460	volatile
+T48	Environment 1960 1964	soil
+T49	Environment 1950 1955	water
+T50	Substrate 1916 1923	benzene
+T51	ReactionOrProcess 1908 1915	degrade
+T52	Environment 1969 1981	subterranean
+T53	Substrate 2049 2056	benzene
+T54	Property 2057 2068	attenuation
+T55	ReactionOrProcess 2072 2096	microbial biodegradation
+T56	ReactionOrProcess 2001 2015	volatilization
+T57	ReactionOrProcess 2082 2096	biodegradation
+R1	CarriedOn Arg1:T56 Arg2:T53
+T58	Environment 2363 2381	contaminated sites
+T59	Substrate 2164 2171	benzene
+T60	Property 2348 2357	pollutant
+T61	Property 2182 2187	toxic
+T62	ReactionOrProcess 2313 2324	degradation
+T63	ReactionOrProcess 2303 2324	microbial degradation
+T64	Nutrient 2131 2137	carbon
+T65	Environment 2403 2414	groundwater
+T66	Substrate 2590 2597	benzene
+T67	Substrate 2553 2564	hydrocarbon
+T68	Property 2467 2478	Attenuation
+T69	Property 2565 2575	pollutants
+T70	ReactionOrProcess 2508 2518	processing
+R2	CarriedOn Arg1:T70 Arg2:T66
+R3	CarriedOn Arg1:T70 Arg2:T67
+T71	Environment 2665 2676	groundwater
+T72	Environment 2781 2793	groundwaters
+T73	Environment 2760 2793	benzene-contaminated groundwaters
+T74	Environment 2760 2793	benzene-contaminated groundwaters
+T75	Environment 3217 3229	groundwaters
+T76	Environment 3196 3229	benzene-contaminated groundwaters
+T77	Environment 3196 3229	benzene-contaminated groundwaters
+T78	Substrate 3060 3067	benzene
+T79	Substrate 3091 3098	benzene
+T80	ReactionOrProcess 3068 3077	oxidation
+T81	ReactionOrProcess 3033 3038	redox
+T82	Environment 3344 3356	groundwaters
+T83	Environment 3331 3356	contaminated groundwaters
+T84	Property 3386 3400	concentrations
+T85	ReactionOrProcess 3406 3412	T-RFLP
+T86	Nutrient 3379 3385	oxygen
+T87	Environment 3641 3653	groundwaters
+T88	Environment 3620 3653	benzene-contaminated groundwaters
+T89	Environment 3620 3653	benzene-contaminated groundwaters
+T90	Substrate 3770 3777	benzene
+T91	ReactionOrProcess 3762 3789	aerobic benzene degradation
+T92	ReactionOrProcess 3778 3789	degradation
+T93	Environment 3882 3894	groundwaters
+T94	Environment 3869 3894	contaminated groundwaters
+T95	Substrate 4023 4030	benzene
+T96	Property 3934 3948	concentrations
+T97	Property 3989 4000	attenuation
+T98	Property 3930 3948	low concentrations
+T99	ReactionOrProcess 4090 4101	degradation
+T100	ReactionOrProcess 4031 4045	biodegradation
+T101	Nutrient 4137 4155	electron acceptors
+T102	Nutrient 3914 3920	oxygen
+T103	Substrate 4196 4203	benzene
+T104	ReactionOrProcess 4204 4215	degradation
+T105	Property 4354 4365	attenuation
+T106	Environment 4440 4451	groundwater
+T107	Environment 4415 4451	hydrocarbon-contaminated groundwater
+T108	Property 4415 4439	hydrocarbon-contaminated
+T109	Environment 4750 4761	groundwater
+T110	Environment 4794 4805	Groundwater

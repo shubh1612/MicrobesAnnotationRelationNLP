@@ -1,0 +1,74 @@
+T1	Microbes 31 42	Alcaligenes
+T2	Microbes 66 77	Micrococcus
+T3	Microbes 134 147	P. aeruginosa
+T4	Microbes 137 147	aeruginosa
+T5	Substrate 203 214	hydrocarbon
+T6	Microbes 365 378	P. aeruginosa
+T7	Microbes 368 378	aeruginosa
+T8	Microbes 721 734	P. aeruginosa
+T9	Microbes 606 619	P. aeruginosa
+T10	Microbes 609 619	aeruginosa
+T11	Microbes 724 734	aeruginosa
+T12	Substrate 771 778	alkanes
+T13	Substrate 790 796	hexane
+T14	Substrate 897 906	aromatics
+T15	Property 897 906	aromatics
+T16	ReactionOrProcess 672 700	unusual catabolic activities
+R1	CarriedOn Arg1:T16 Arg2:T14
+T17	Microbes 962 975	P. aeruginosa
+T18	Microbes 965 975	aeruginosa
+T19	Microbes 1032 1043	Micrococcus
+T20	Microbes 1000 1009	P. putida
+T21	Substrate 1083 1090	alkanes
+T22	Substrate 1446 1457	hydrocarbon
+T23	Property 1203 1221	vapor-phase growth
+T24	Substrate 1547 1558	hydrocarbon
+T25	Substrate 1608 1619	hydrocarbon
+T26	Property 1559 1572	concentration
+T27	Property 1664 1678	concentrations
+T28	Substrate 1859 1870	hydrocarbon
+T29	Property 1836 1849	concentration
+T30	Property 1881 1887	purity
+T31	ReactionOrProcess 1963 1973	incubation
+T32	Nutrient 1895 1901	carbon
+T33	Substrate 2141 2153	hydrocarbons
+T34	Substrate 2256 2268	hydrocarbons
+T35	Substrate 2141 2153	hydrocarbons
+T36	Substrate 2256 2268	hydrocarbons
+T37	Property 2244 2255	contaminant
+T38	ReactionOrProcess 2229 2240	utilization
+T39	Substrate 2352 2359	toluene
+T40	Substrate 2467 2479	ethylbenzene
+T41	Property 2365 2383	sole carbon source
+T42	Property 2452 2463	contaminant
+T43	Nutrient 2370 2376	carbon
+T44	Substrate 2717 2729	hydrocarbons
+T45	Substrate 2717 2729	hydrocarbons
+T46	ReactionOrProcess 2730 2738	degraded
+T47	Substrate 2980 2987	toluene
+T48	Substrate 3016 3024	o-xylene
+T49	Substrate 2873 2885	hydrocarbons
+T50	Substrate 2873 2885	hydrocarbons
+T51	Property 3072 3085	concentration
+T52	Property 3001 3012	contaminant
+T53	Substrate 3169 3181	hydrocarbons
+T54	Substrate 3169 3181	hydrocarbons
+T55	Property 3139 3153	concentrations
+T56	Property 3157 3168	contaminant
+T57	Property 3555 3566	biotoxicity
+T58	Property 3474 3487	concentration
+T59	ReactionOrProcess 3406 3434	functional catabolic pathway
+T60	ReactionOrProcess 3555 3566	biotoxicity
+T61	ReactionOrProcess 3417 3434	catabolic pathway
+T62	Property 3649 3662	cometabolized
+T63	Substrate 3940 3964	single test hydrocarbons
+T64	Substrate 3830 3838	gasoline
+T65	Substrate 3952 3964	hydrocarbons
+T66	Substrate 3888 3899	hydrocarbon
+T67	Substrate 3952 3964	hydrocarbons
+T68	Property 3859 3873	concentrations
+T69	Substrate 4006 4018	hydrocarbons
+T70	Substrate 4006 4018	hydrocarbons
+T71	Property 4068 4082	concentrations
+T72	ReactionOrProcess 4136 4146	incubation
+T73	Nutrient 4106 4110	agar

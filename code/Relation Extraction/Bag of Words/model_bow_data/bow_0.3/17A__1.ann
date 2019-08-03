@@ -1,0 +1,170 @@
+T1	Environment 114 140	Creosote-Contaminated Soil
+T2	Environment 225 251	creosote-contaminated soil
+T3	Environment 106 140	Heavily Creosote-Contaminated Soil
+T4	Environment 136 140	Soil
+T5	Environment 247 251	soil
+T6	Substrate 37 68	Polycyclic Aromatic Hydrocarbon
+T7	Substrate 48 68	Aromatic Hydrocarbon
+T8	Substrate 57 68	Hydrocarbon
+T9	Property 37 47	Polycyclic
+T10	Property 48 56	Aromatic
+T11	ReactionOrProcess 57 80	Hydrocarbon Degradation
+T12	ReactionOrProcess 274 305	laboratory-based bioremediation
+T13	ReactionOrProcess 88 102	Bioremediation
+T14	ReactionOrProcess 291 305	bioremediation
+T15	ReactionOrProcess 48 80	Aromatic Hydrocarbon Degradation
+T16	ReactionOrProcess 69 80	Degradation
+T17	ReactionOrProcess 174 188	biodegradation
+T18	Substrate 392 423	polycyclic aromatic hydrocarbon
+T19	Substrate 455 464	petroleum
+T20	Substrate 403 423	aromatic hydrocarbon
+T21	Substrate 487 490	PAH
+T22	Substrate 449 476	total petroleum hydrocarbon
+T23	Substrate 412 423	hydrocarbon
+T24	Substrate 465 476	hydrocarbon
+T25	Property 392 402	polycyclic
+T26	Property 430 439	degraders
+T27	Property 491 505	concentrations
+T28	Property 403 411	aromatic
+T29	ReactionOrProcess 532 546	bioremediation
+T30	Substrate 564 568	PAHs
+T31	Substrate 556 559	TPH
+T32	Substrate 767 775	chrysene
+T33	ReactionOrProcess 588 596	degraded
+T34	ReactionOrProcess 664 678	biodegradation
+R1	CarriedOn Arg1:T33 Arg2:T32
+R2	CarriedOn Arg1:T34 Arg2:T32
+T35	Substrate 865 868	PAH
+T36	ReactionOrProcess 869 883	bioremediation
+T37	Substrate 983 986	PAH
+T38	Substrate 990 993	TPH
+T39	Property 893 906	biosurfactant
+T40	ReactionOrProcess 917 932	bioaugmentation
+T41	ReactionOrProcess 938 960	ferric octate addition
+T42	ReactionOrProcess 893 915	biosurfactant addition
+T43	ReactionOrProcess 994 1008	biodegradation
+T44	ReactionOrProcess 1021 1035	biodegradation
+T45	ReactionOrProcess 1095 1118	first-order degradation
+T46	ReactionOrProcess 1107 1118	degradation
+T47	Microbes 1228 1281	heterotrophic and PAH-degrading microbial populations
+T48	Substrate 1346 1349	PAH
+T49	Substrate 1338 1341	TPH
+T50	Property 1228 1241	heterotrophic
+T51	ReactionOrProcess 1346 1364	PAH biodegradation
+T52	ReactionOrProcess 1350 1364	biodegradation
+T53	Substrate 1403 1406	PAH
+T54	Property 1407 1416	degraders
+T55	ReactionOrProcess 1384 1394	incubation
+T56	Property 1487 1506	Denaturing gradient
+T57	ReactionOrProcess 1540 1568	principal-component analysis
+T58	ReactionOrProcess 1487 1526	Denaturing gradient gel electrophoresis
+T59	ReactionOrProcess 1511 1526	electrophoresis
+T60	ReactionOrProcess 1487 1497	Denaturing
+T61	ReactionOrProcess 1675 1689	biodegradation
+T62	Microbes 1816 1828	Azospirillum
+T63	Microbes 1799 1811	Sphingomonas
+T64	Microbes 1768 1784	α-Proteobacteria
+T65	ReactionOrProcess 1748 1762	biodegradation
+R3	CarriedOn Arg1:T65 Arg2:T62
+T66	Microbes 2193 2204	Alcaligenes
+T67	Microbes 2209 2222	Achromobacter
+T68	Microbes 1971 1983	Sphingomonas
+T69	Microbes 2263 2275	Sphingomonas
+T70	Microbes 1923 1934	Xanthomonas
+T71	Microbes 1941 1957	α-Proteobacteria
+T72	Microbes 2233 2249	α-Proteobacteria
+T73	Microbes 1994 2033	Cytophaga-Flexibacter-Bacteroides group
+T74	Microbes 1893 1909	γ-Proteobacteria
+T75	Microbes 2115 2131	γ-Proteobacteria
+T76	Environment 2485 2506	PAH-contaminated soil
+T77	Environment 2502 2506	soil
+T78	Substrate 2426 2429	PAH
+T79	ReactionOrProcess 2430 2441	degradation
+T80	ReactionOrProcess 2702 2716	bioremediation
+T81	ReactionOrProcess 2637 2651	biodegradation
+T82	Substrate 2728 2759	Polycyclic aromatic hydrocarbon
+T83	Substrate 2728 2760	Polycyclic aromatic hydrocarbons
+T84	Substrate 2739 2760	aromatic hydrocarbons
+T85	Substrate 2783 2812	fused-ring aromatic compounds
+T86	Substrate 2739 2760	aromatic hydrocarbons
+T87	Substrate 2794 2812	aromatic compounds
+T88	Substrate 2748 2760	hydrocarbons
+T89	Substrate 2748 2760	hydrocarbons
+T90	Substrate 2728 2760	Polycyclic aromatic hydrocarbons
+T91	Substrate 2794 2812	aromatic compounds
+T92	Property 2728 2738	Polycyclic
+T93	Property 2739 2747	aromatic
+T94	Property 2794 2802	aromatic
+T95	Property 2847 2857	pollutants
+T96	Environment 2932 2943	terrestrial
+T97	Environment 2948 2955	aquatic
+T98	Substrate 2924 2928	PAHs
+T99	ReactionOrProcess 3017 3040	natural decontamination
+T100	ReactionOrProcess 2909 2920	degradation
+T101	ReactionOrProcess 2982 2993	degradation
+T102	ReactionOrProcess 3025 3040	decontamination
+T103	ReactionOrProcess 2972 2993	microbial degradation
+R4	CarriedOn Arg1:T100 Arg2:T98
+R5	CarriedOn Arg1:T101 Arg2:T98
+R6	CarriedOn Arg1:T103 Arg2:T98
+T104	ReactionOrProcess 3089 3103	bioremediation
+T105	Environment 3155 3159	soil
+T106	Substrate 3147 3151	PAHs
+T107	ReactionOrProcess 3216 3250	lower-than-expected bioremediation
+T108	ReactionOrProcess 3236 3250	bioremediation
+T109	ReactionOrProcess 3132 3143	degradation
+T110	ReactionOrProcess 3122 3143	Microbial degradation
+R7	CarriedOn Arg1:T109 Arg2:T106
+R8	CarriedOn Arg1:T110 Arg2:T106
+T111	Microbes 3591 3613	Pseudomonas aeruginosa
+T112	Microbes 3603 3613	aeruginosa
+T113	Microbes 3533 3543	consortium
+T114	Substrate 3490 3510	Casablanca crude oil
+T115	Substrate 3413 3439	high-molecular-weight PAHs
+T116	Substrate 3435 3439	PAHs
+T117	Substrate 3501 3510	crude oil
+T118	Substrate 3507 3510	oil
+T119	Property 3565 3578	biosurfactant
+T120	ReactionOrProcess 3395 3409	biodegradation
+R9	CarriedOn Arg1:T120 Arg2:T111
+R10	CarriedOn Arg1:T120 Arg2:T112
+R11	CarriedOn Arg1:T120 Arg2:T113
+R12	CarriedOn Arg1:T120 Arg2:T114
+R13	CarriedOn Arg1:T120 Arg2:T115
+R14	CarriedOn Arg1:T120 Arg2:T116
+R15	CarriedOn Arg1:T120 Arg2:T117
+R16	CarriedOn Arg1:T120 Arg2:T118
+T121	Environment 3673 3691	contaminated soils
+T122	Environment 3686 3691	soils
+T123	Environment 3673 3691	contaminated soils
+T124	ReactionOrProcess 3655 3669	bioremediation
+T125	Nutrient 3715 3723	nitrogen
+T126	Nutrient 3728 3738	phosphorus
+T127	Environment 3879 3896	contaminated site
+T128	ReactionOrProcess 4006 4020	bioremediation
+T129	ReactionOrProcess 3963 3987	microbial biodegradation
+T130	ReactionOrProcess 3989 4020	laboratory-scale bioremediation
+T131	ReactionOrProcess 3973 3987	biodegradation
+T132	Property 4167 4181	biosurfactants
+T133	Property 4341 4353	contaminants
+T134	Environment 4435 4457	PAH-contaminated soils
+T135	Environment 4435 4457	PAH-contaminated soils
+T136	Environment 4452 4457	soils
+T137	ReactionOrProcess 4508 4523	bioaugmentation
+T138	ReactionOrProcess 4490 4504	biostimulation
+T139	Property 4914 4933	denaturing gradient
+T140	ReactionOrProcess 4914 4953	denaturing gradient gel electrophoresis
+T141	ReactionOrProcess 4938 4953	electrophoresis
+T142	ReactionOrProcess 4914 4924	denaturing
+T143	Environment 5359 5381	PAH-contaminated soils
+T144	Environment 5359 5381	PAH-contaminated soils
+T145	Environment 5376 5381	soils
+T146	Property 5294 5304	pollutants
+T147	ReactionOrProcess 5243 5257	bioremediation
+T148	ReactionOrProcess 5341 5355	bioremediation
+T149	Environment 5527 5539	spiked soils
+T150	Environment 5527 5539	spiked soils
+T151	Environment 5464 5469	soils
+T152	Environment 5534 5539	soils
+T153	Substrate 5489 5492	PAH
+T154	ReactionOrProcess 5641 5655	biodegradation

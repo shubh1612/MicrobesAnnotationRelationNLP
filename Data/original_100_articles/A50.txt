@@ -1,0 +1,677 @@
+In Situ Analysis of Denitrifying Toluene- and m-Xylene-Degrading Bacteria in a Diesel Fuel-Contaminated Laboratory Aquifer Column
+A diesel fuel-contaminated aquifer was bioremediated in situ by the injection of oxidants (O2 and NO3
+2) and
+nutrients in order to stimulate microbial activity. After 3.5 years of remediation, an aquifer sample was
+excavated and the material was used (i) to isolate bacterial strains able to grow on selected hydrocarbons under
+denitrifying conditions and (ii) to construct a laboratory aquifer column in order to simulate the aerobic and
+denitrifying remediation processes. Five bacterial strains isolated from the aquifer sample were able to grow
+on toluene (strains T2 to T4, T6, and T10), and nine bacterial strains grew on toluene and m-xylene (strains M3
+to M7 and M9 to M12). Strains T2 to T4, T6, and T10 were cocci, and strains M3 to M7 and M9 to M12 were rods.
+The morphological and physiological differences were also reflected in small sequence variabilities in domain
+III of the 23S rRNA and in the 16S rRNA. Comparative sequence analyses of the 16S rRNA of one isolate (T3
+and M3) of each group revealed a close phylogenetic relationship for both groups of isolates to organisms of
+the genus Azoarcus. Two 16S rRNA-targeted oligonucleotide probes (Azo644 and Azo1251) targeting the
+experimental isolates, bacteria of the Azoarcus tolulyticus group, and Azoarcus evansii were used to investigate
+the significance of hydrocarbon-degrading Azoarcus spp. in the laboratory aquifer column. The number of
+bacteria in the column determined after DAPI (4*,6-diamidino-2-phenylindole) staining was 5.8 3 108 to 1.1 3
+109 cells g of aquifer material21
+. About 1% (in the anaerobic zone of the column) to 2% (in the aerobic zone
+of the column) of these bacteria were detectable by using a combination of probes Azo644 and Azo1251,
+demonstrating that hydrocarbon-degrading Azoarcus spp. are significant members of the indigenous microbiota.
+More than 90% of the total number of bacteria were detectable by using probes targeting higher
+phylogenetic groups. Approximately 80% of these bacteria belonged to the b subdivision of the class Proteobacteria
+(b-Proteobacteria), and 10 to 16% belonged to the g-Proteobacteria. Bacteria of the a-Proteobacteria were
+present in high numbers (10%) only in the aerobic zone of the column.
+Diesel fuel-contaminated soils and aquifers can be partially
+remediated by pumping hydrocarbons occurring in free phase
+back to the soil surface or by stripping the subsurface with air
+(7). Residual hydrocarbons, however, are often trapped in
+cracks and pores of the subsurface, and they may be removed
+by in situ bioremediation. This technique is usually based on
+the infiltration of water supplemented with oxidants (e.g., O2
+and NO3
+2) and/or nutrients (e.g., NH4
+1 and PO4
+32) to stimulate
+the catabolic activity of microorganisms in the subsurface
+and thereby the biodegradation of the hydrocarbons (18, 23–
+25, 32).
+An in situ bioremediation process was applied in a diesel
+fuel-contaminated aquifer in Menziken, Switzerland (23).
+Groundwater supplemented with O2 (329 mM) and NO3
+2
+(1,020 mM) as electron acceptors and NH4H2PO4 (75 to 125
+mM) as the nutrient was infiltrated into the contaminated zone.
+At a monitoring well 20 m downstream of the infiltration point,
+the oxidants were found to be almost completely depleted (23).
+However, under field conditions the hydrocarbon mineralization
+and oxidant consumption could be analyzed only with
+poor spatial resolution, and the carbon mass, nitrogen, and
+electron balances could not be established accurately. Therefore,
+after the in situ bioremediation had been carried out for
+3.5 years it was decided to excavate some of the contaminated
+aquifer material and simulate the processes in laboratory aquifer
+columns (20). These columns had lengths of 40.5 cm, and
+they were operated under continuous-flow conditions with artificial
+groundwater containing O2 (4.4 mg liter21
+) and NO3
+2
+(1,610 mM). After a few days of operation, distinct redox zones
+were established. Within 24 cm, the concentration of O2 decreased
+from 4.4 mg liter21 to a value below the detection limit
+of 0.1 mg liter21
+. Denitrification was found to occur over the
+entire length of the column, regardless of the presence of O2.
+Data on the evolution of dissolved inorganic carbon and the
+ratio of n-alkanes to i-alkanes suggested that biodegradation of
+hydrocarbons (initial hydrocarbon concentration, 1,100 mg
+g21
+) occurred over the entire column length (20).
+Diesel fuel consists of a large variety of hydrocarbons that
+can be degraded under aerobic conditions and partially degraded
+under anaerobic conditions (8). As groundwater pollutants,
+aromatic hydrocarbons such as benzene, toluene, ethylbenzene,
+and xylene are of major concern since they are
+highly soluble in water and rather toxic. Diesel fuel contains on
+average 1.35 mg of toluene g21 and 1.43 mg of m- plus p-xylene
+g21 (30). During the last few years, many pure cultures of
+bacteria that are able to degrade toluene under aerobic and
+anaerobic—that is, denitrifying (12, 14, 17, 35, 40), iron-reducing
+(26), and sulfate-reducing (34)—conditions have been obtained.
+However, the significance of these isolates in their
+natural habitat, i.e., contaminated soil and aquifer material, is
+not known.
+The aim of our study was to investigate the significance of
+the bacterial isolates in the diesel fuel-contaminated laboratory
+* Corresponding author. Mailing address: Soil Biology, Institute of
+Terrestrial Ecology, ETH Zu¨rich, Grabenstrasse 3, CH-8952
+Schlieren, Switzerland. Phone: 41-1-633 61 24. Fax: 41-1-633 11 22.
+E-mail: hess@ito.umnw.ethz.ch.
+2136
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+aquifer column. These isolates were obtained from the excavated
+aquifer material from Menziken and had the capacity to
+degrade toluene and/or m-xylene under denitrifying conditions.
+The studies included (i) the molecular characterization
+of the isolates by comparative sequence analysis of the 16S
+rRNA, and (ii) the use of specific rRNA-targeted oligonucleotide
+probes to enumerate the isolates by in situ hybridization.
+MATERIALS AND METHODS
+Isolation and growth conditions. Toluene- and m-xylene-degrading isolates
+were obtained from denitrifying enrichment cultures inoculated with excavated
+material from a diesel fuel-contaminated aquifer (Menziken, Switzerland) (23).
+Samples of the aquifer material (10 g) were added to 50 ml of oxygen-free basal
+medium (46) supplemented with 1.4 mM Na2SO4, 5 mM KNO3, 1 ml of nonchelated
+trace element mixture SL10 (46) liter21
+, 1 ml of selenite-tungstate
+liter21
+, 0.5 ml of vitamin solution (41) liter21
+, 15 ml of NaHCO3 solution liter21
+,
+and either 0.19 mM toluene or 0.16 mM m-xylene at pH 7.2. The cultures were
+incubated at 28°C for 10 weeks. Isolates were obtained after aerobic incubation
+of serial dilutions of the enrichment cultures on agar plates containing basal
+medium supplemented with 0.1% pyruvate and 0.05% KH2PO4. They were
+subsequently grown and maintained in liquid culture under denitrifying conditions
+with either 0.19 mM toluene or 0.16 mM m-xylene. The cultures were
+incubated at 25°C on a rotary shaker (100 rpm). Growth of all isolates on both
+substrates was also tested under aerobic conditions.
+Molecular characterization of isolates. Cells of well-grown cultures of the
+isolates (3 ml) were harvested by centrifugation at 14,000 3 g for 1 min. Cells
+were resuspended in 100 ml of distilled water and lysed by the addition of 50 ml
+of proteinase K (6 mg ml21
+; Appligene, Basel, Switzerland) and 1.5 ml of 10%
+sodium dodecyl sulfate (SDS) and incubation for 30 min at 37°C. Nucleic acids
+were extracted with phenol-chloroform, precipitated with ethanol, dried, and
+resuspended in distilled water (39).
+Phylogenetic characterization was based on sequence comparison of approximately
+1,450 bp of the 16S rRNA of two isolates, T3 and M3, and of a 240-bp
+fragment of the 23S rRNA of all 14 strains obtained. The 16S rRNA was
+amplified by PCR with oligonucleotide primer FGPS6 (59GGAGAGTTAGAT
+CTTGGCTCAG), containing an internal BglII site (6), and primer 1510 (59GT
+GCTGCAGGGTTACCTTGTTACGACT), extended with a PstI site (13). The
+23S rRNA fragment was amplified with primers 23InsV (59CACAGATCTMA
+DGCGTAGNCGAWGG), extended with a BglII site (37), and 23InsR (59CAC
+AAGCTTGTGWCGGTTTNBGGTA), extended with a HindIII site (37). Amplification
+by PCR was performed in a total volume of 100 ml containing 10 ml of
+103 PCR buffer (500 mM KCl, 25 mM MgCl2, 200 mM Tris-HCl [pH 8.4], 0.1%
+Triton X-100), 2 ml of deoxynucleoside triphosphates (each at 10 mM in 10 mM
+Tris-HCl, pH 7.5), 0.2 ml of Taq polymerase (5 U ml
+21
+; Appligene), 3 ml of both
+primers (100 ng each), and DNA (approximately 100 ng). Thirty rounds of
+temperature cycling (Crocodile II Thermocycler; Appligene) at 95°C, 50°C, and
+70°C for 30 s each were followed by a final 7-min incubation at 70°C.
+The amplification products were treated with proteinase K (final concentration,
+60 ng per 100 ml; Appligene) at 37°C for 15 min (11), extracted with
+phenol-chloroform, and precipitated with ethanol (39). Subsequently, the DNA
+was cleaved with the restriction enzymes PstI (Appligene) and BglII (Catalys;
+Promega, Wallisellen, Switzerland) for 16S rRNA and BglII and HindIII (Promega)
+for 23S rRNA fragments and cloned into pGEM-3zf (Promega) by standard
+methods (39). The DNA was transformed into E. coli DH5a, and plasmid
+preparation was performed by using the alkaline lysis method (39).
+Cloned amplification products were sequenced with the Thermo Sequenase
+fluorescence-labeled primer cycle sequencing kit (Amersham, Zurich, Switzerland)
+according to the manufacturer’s instructions. The sequences of the isolates
+were compared to published 16S rRNA sequences in the EMBL Nucleotide
+Sequence Database by FASTA analysis of the GCG sequence analysis package
+(17a).
+Probes and stains. Oligonucleotide probes targeting rRNA of Bacteria
+(Eub338) (3), the a-, b-, and g-Proteobacteria (Alf1b, Bet42a, and Gam42a) (27),
+gram-positive bacteria with high G1C DNA contents (HGC69a) (38), and
+probes Azo644 (59GCCGTACTCTAGCCGTGC; positions 644 to 661 on the
+16S rRNA according to Escherichia coli numbering [9]) and Azo1251 (59CGCG
+CTTTGGCAGCCCT; positions 1251 to 1267 on the 16S rRNA according to E.
+coli numbering) were synthesized with a primary amino group at the 59 end
+(MWG Biotech, Ebersberg, Germany). The fluorescent Cy3 Reactive Dye (Amersham)
+was covalently bound to the amino group of the oligonucleotide probe,
+and the dye-oligonucleotide conjugate (1:1) was purified from unreacted components
+and stored at 220°C at concentrations of 25 to 30 ng ml
+21 (2).
+The DNA intercalating dye 49,6-diamidino-2-phenylindole (DAPI; Sigma,
+Buchs, Switzerland) was stored in a 1-mg ml21 solution at 220°C (33). Staining
+was performed by the addition of DAPI to the hybridization reaction mixture
+(final concentration, 20 ng ml
+21
+) and was always used as a control stain to detect
+all bacteria present in the preparation.
+Column operation and analytical procedures. A detailed description of the
+column operation and analytic protocols is given in reference 20. After 96 days
+of operation the column was disconnected and the aquifer material was frozen
+and stored at 220°C until further use.
+Cell fixation and pretreatment. For whole-cell hybridization, the frozen aquifer
+core was cut into pieces 2.5 or 5 cm in length (see Fig. 3). This material and
+cells of pure cultures were fixed in 3 volumes of 4% paraformaldehyde in
+phosphate-buffered saline (PBS; 0.13 M NaCl, 7 mM Na2HPO4 and 3 mM
+NaH2PO4 [pH 7.2] in water) (19) for 3 h at 4°C. Fixed samples were washed with
+50% ethanol in PBS and stored in 50% ethanol in PBS at 220°C (15).
+Before being applied to slides, 40 ml of the aquifer homogenate was mixed with
+960 ml of 0.1% sodium pyrophosphate and the material was dispersed with a
+2-mm-diameter ultrasonic treatment probe (Sonifier B-12; Branson, Danbury,
+Conn.) at 20% for 1 min. Twenty microliters was subsequently applied to each
+well (8 mm in diameter) on gelatin-coated slides [0.1% gelatin, 0.01%
+KCr(SO4)2] and allowed to air dry (2). After dehydration in 50, 80, and 96%
+ethanol for 3 min each, the preparations were treated with lysozyme (Fluka,
+Buchs, Switzerland) (1 mg, corresponding to 37,320 U dissolved in 1 ml of
+distilled water) at 37°C for 10 min (16, 22), followed by a final dehydration in 50,
+80, and 96% ethanol.
+Whole-cell hybridization. Hybridizations were carried out in 8 ml of hybridization
+buffer (0.9 M NaCl, 20 mM Tris-HCl, 10 mM EDTA, 0.01% SDS [pH
+7.2]) in the presence of 10 to 30% formamide (for Alf1b, 10%; for HGC69a,
+Azo644, and Azo1251, 20%; for Eub338, Bet42a, and Gam42a, 30%), 1 ml of the
+probe (25 to 30 ng ml
+21
+), and 1 ml of the DAPI solution (200 ng ml
+21
+) at 40°C
+for 2 h. After hybridization, the slides were washed in buffer containing 20 mM
+Tris-HCl, 10 mM EDTA, 0.01% SDS, and either 440, 308, or 102 mM NaCl,
+depending on the formamide concentration during hybridization (10, 20, and
+30%, respectively), for 15 min at 48°C and subsequently rinsed with distilled
+water and air dried.
+Samples were mounted with Citifluor (Canterbury, United Kingdom) solution
+and examined with a Zeiss (Oberkochen, Germany) Axiophot microscope fitted
+for epifluorescence detection with a high-pressure mercury bulb and filter sets 02
+(DAPI) and HQ Cy3 (AHF Analysen Technik, Tu¨bingen, Germany) (Cy3).
+Microorganisms were counted at a magnification of 31,000 in 20 fields covering
+an area of 0.01 mm2 each (15).
+RESULTS AND DISCUSSION
+Characterization of isolates. Five toluene-degrading isolates
+(T2 to T4, T6, and T10) and nine m-xylene-degrading isolates
+(M3 to M7 and M9 to M12) were obtained under denitrifying
+conditions from the excavated aquifer material from Menziken.
+Under denitrifying conditions, isolates M3 to M7 and M9
+to M12 grew on both toluene and m-xylene, while isolates T2 to
+T4, T6, and T10 were able to grow only on toluene. Under
+aerobic conditions, all isolates were able to grow on toluene,
+but none of the isolates grew on m-xylene. The toluene-degrading
+isolates grew as cocci, while the m-xylene-degrading
+isolates grew as rods. The morphological and physiological
+differentiation between the two types of isolates was also re-
+flected at the rRNA level. Sequence comparisons of domain III
+of the 23S rRNA of all isolates revealed identical sequences
+within the respective groups, which may indicate multiple isolations
+of the same organisms. Between the isolates of each
+group, however, similarity values of only 93% were found (Fig.
+1). Large differences were also obtained by comparative sequence
+analyses of the complete 16S rRNA of representative
+isolates (T3 and M3) of each group, for which a similarity value
+of only 96.2% was obtained (Table 1).
+Comparative 16S rRNA analysis revealed a close phylogenetic
+relationship of isolates T3 and M3 to organisms of the
+genus Azoarcus (Table 1). The sequences of the 16S rRNA
+showed 97 to 98% similarity to sequences of the Azoarcus
+tolulyticus group, which had been isolated from a petroleumcontaminated
+site and which had the capacity to degrade toluene
+under aerobic and denitrifying conditions (10, 17, 47).
+One of these organisms, A. tolulyticus Td-15, was also able to
+grow on m-xylene under denitrifying conditions. High levels of
+similarity to the toluene-, ethylbenzene-, and propylbenzenedegrading
+isolates ToN1, EbN1, and PbN1, respectively, which
+were phylogenetically classified as members of the b-Proteobacteria
+(35), were also obtained. Similarity values of about
+98%, however, were also obtained with the 16S rRNA sequences
+of Azoarcus evansii KB740, which can use benzoate
+VOL. 63, 1997 BACTERIAL POPULATIONS IN CONTAMINATED AQUIFER MATERIAL 2137
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+and 4-hydroxybenzoate but not toluene as a carbon source
+under denitrifying conditions (5). Another Azoarcus species,
+Azoarcus indigens VB32 (36), a nitrogen-fixing bacterium living
+in close association with Kallar grass (Leptochloa fusca (L.)
+Kunth), showed about 95% similarity to isolate T3 and 98%
+similarity to isolate M3. Though these results support an assignment
+of isolates T3 and M3 to the genus Azoarcus, a more
+detailed characterization of both isolates is required in order to
+resolve their definite taxonomic position within this genus.
+Probe design. Based on the 16S rRNA sequences of isolates
+T3 and M3, 16S rRNA-targeted oligonucleotide probes
+(Azo644 and Azo1251, respectively) were designed with a database
+containing the 16S rRNA sequences of about 4,000
+bacteria and the ARB probe design program (kindly provided
+by W. Ludwig, Technische Universita¨t, Munich, Germany).
+Probe Azo644 was designed to detect both toluene-degrading
+and toluene- and m-xylene-degrading isolates, whereas probe
+Azo1251 was designed to differentiate between the isolates. A
+search for target sequences for both probes in the EMBL
+database showed identical sequences in the 16S rRNA of A.
+tolulyticus (strains Tol-4, Td-1, Td-15, Td-17, Td-19, and Td-
+21), A. evansii KB740, and Azoarcus sp. strain pF6. A sequence
+identical to the target sequence of probe Azo644 was also
+detected in the 16S rRNA of b-Proteobacteria strain PbN1,
+while the identical target sequence of probe 1251 was found in
+the 16S rRNA of b-Proteobacteria strain ToN1. Several strains
+showed target sequences with one mismatch to those of the
+probes. For A. tolulyticus Td-2 and Td-3, as well as for Azoarcus
+denitrificans, this mismatch represented a weak change which
+allowed detection of a sequence similar to the target sequences
+without a mismatch. In contrast, the mismatches in Azoarcus
+sp. strain BH72, Thauera aromatica K172, and b-Proteobacteria
+strains EbN1 and mXylN1 represented strong changes allowing
+a differentiation between these sequences and the target
+sequence under high-stringency hybridization conditions (31).
+The applicability of both probes to whole-cell hybridization
+and their specificity were demonstrated by whole-cell hybridization
+on fixed cells of the isolates, A. tolulyticus Td-15, A.
+FIG. 1. Sequence comparison of domain III, beginning at primer 23InsV, of
+the 23S rRNA of isolates T2 to T4, T6, and T10 (T) and M3 to M7 and M9 to M12
+(M).
+TABLE 1. Percent similarity between the 16S rRNAs of toluene- and m-xylene-degrading isolates T3 and M3 and closely related organismsa
+Organism (GenBank accession no.)
+% Similarity to organism:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+1. T3 (Y11041) 100
+2. M3 (Y11040) 96.2 100
+3. A. tolulyticus Tol-4 (L33694) 97.7 97.9 100
+4. A. evansii KB740 (X77679) 97.9 98.4 98.8 100
+5. A. tolulyticus Td-1 (L33687) 98.1 97.9 99.9 98.8 100
+6. A. tolulyticus Td-2 (L33691) 97.9 97.7 99.7 98.6 99.7 100
+7. A. tolulyticus Td-15 (L33688) 97.4 98.1 98.8 99.6 98.8 98.6 100
+8. A. tolulyticus Td-17 (L33689) 97.7 98.2 98.4 99.2 98.4 98.2 99.4 100
+9. A. tolulyticus Td-19 (L33690) 97.2 97.7 98.1 99.2 98.1 97.9 98.9 98.4 100
+10. A. denitrificans (U82665) 97.4 97.2 98.8 97.8 98.9 98.5 97.6 97.6 97.2 100
+11. Azoarcus sp. strain pF6
+(U44853)
+97.9 98.4 98.8 100 98.8 98.6 99.6 99.2 99.2 97.8 100
+12. Azoarcus sp. strain BH72
+(L15530)
+95.9 95.4 96.4 95.6 96.4 96.2 96.1 95.9 95.5 95.7 95.9 100
+13. A. indigens VB32 (L15531) 94.9 98.1 95.5 94.9 95.3 95.2 95.1 94.4 94.8 94.2 95.3 97.5 100
+14. Azoarcus sp. strain S5B2
+(L15532)
+93.2 91.8 92.7 91.9 92.7 92.5 92.4 92.2 91.6 92.1 92.4 93.6 93.6 100
+15. T. aromatica K172 (X77118) 93.8 93.1 94.0 94.5 94.0 93.8 94.1 94.3 93.5 92.4 94.4 94.6 94.5 93.2 100
+16. b-Proteobacteria strain ToN1
+(X83534)
+97.8 98.5 98.8 99.8 98.8 98.6 99.4 99.0 99.1 98.1 99.8 96.0 95.3 92.1 94.4 100
+17. b-Proteobacteria strain PbN1
+(X83532)
+97.9 95.8 97.2 96.4 97.2 97.0 96.6 96.5 96.2 96.4 96.8 95.6 95.2 93.2 93.8 96.7 100
+18. b-Proteobacteria strain EbN1
+(X83531)
+97.5 95.4 97.1 96.2 96.4 96.9 96.5 96.4 95.8 96.3 96.6 95.6 95.2 93.2 94.5 96.3 98.3 100
+19. b-Proteobacteria strain mXyN1
+(X83533)
+94.1 93.4 94.3 94.7 94.3 94.1 94.4 94.6 93.9 92.7 94.7 95.0 94.7 93.3 99.7 94.6 94.0 94.7 100
+20. Zoogloea ramigera (X74913) 92.3 92.2 92.7 92.8 93.2 92.6 92.9 93.2 92.3 92.0 93.0 93.4 92.9 91.1 92.8 93.2 92.7 92.5 92.9 100
+21. Rhodocyclus tenuis (D16208) 90.8 90.1 90.8 90.6 90.7 90.5 90.7 90.7 90.2 90.9 90.7 91.3 91.3 93.1 90.8 90.8 90.5 90.5 90.9 91.3 100
+a Calculated from data obtained from the EMBL nucleotide sequence database by using the GAP program with creation penality 5.0 and extension penality 0.3.
+2138 HESS ET AL. APPL. ENVIRON. MICROBIOL.
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+indigens VB32, and T. aromatica K172, and several reference
+organisms which were shown by the ARB program to contain
+target sequences similar to those of the isolates (Alcaligenes sp.
+[GenBank accession no. L31650], Burkholderia cepacia DSM
+50181 [L28675], Comamonas testosteroni DSM 50251 [M11224],
+and Nitrosomonas europaea ATCC 25978 [M96399]). Under
+highly stringent hybridization conditions with 30% formamide,
+isolates T2 to T4, T6, T10, M3 to M7, and M9 to M12, as well as
+A. tolulyticus Td-15, were detected by whole-cell hybridization
+with Cy3-labeled probe Azo644 (Table 2). Probe Azo1251,
+however, hybridized only to isolates M3 to M7, M9 to M12, and
+A. tolulyticus Td-15 (Table 2; Fig. 2). Neither the reference
+organisms nor A. indigens VB32 or T. aromatica K172 showed
+hybridization signals to either of the probes under these conditions.
+These results demonstrate the applicability of wholecell
+hybridization with probes Azo644 and Azo1251 for the
+detection of isolates T2 to T4, T6, T10, M3 to M7, and M9 to
+M12. The specificity of the probes for these isolates, however,
+is restricted because hybridization results obtained with bacteria
+of the A. tolulyticus group as well as A. evansii suggest a
+more general specificity for hydrocarbon-degrading Azoarcus
+spp.
+Characterization of microbial populations in the column.
+Whole-cell hybridization with a combination of probes Azo644
+and Azo1251 was subsequently used to study the significance of
+populations of isolates T2 to T4, T6, T10, M3 to M7, and M9 to
+M12, as well as the closely related bacteria of the A. tolulyticus
+group and A. evansii, in the laboratory aquifer column simulating
+the processes at Menziken. Data on the O2, NO3
+2, and
+NO2
+2 concentrations in this column were reported in detail by
+Hess et al. (20). The first 12 cm of the column was aerobic, with
+an O2 concentration of .0.1 mg liter21
+, while the zone from 24
+to 40.5 cm was anaerobic, with an O2 concentration below the
+detection limit of 0.1 mg liter21
+. The zone between 12 and 24
+cm had an O2 concentration of approximately 0.1 mg liter21
+and was termed microaerobic. Total bacterial numbers determined
+after DAPI staining were highest in the aerobic (1.1 3
+109 cells g of aquifer material21 at 1.5 cm of column depth)
+and anaerobic (9.1 3 108 cells g of aquifer material21 at 32 cm
+of column depth) zones of the column (Fig. 3c). In the aerobic
+zone, the large numbers of cells may have been due to favorable
+environmental conditions, since O2 and NO3
+2 consumption
+and hydrocarbon mineralization were high (Fig. 3b). In
+the anaerobic zone, the increase in cell numbers could be
+correlated to the increase in NO3
+2 consumption. In the microaerobic
+zone of the column, bacterial numbers were low
+(5.8 3 108 cells g of aquifer material21
+). This result is also in
+FIG. 2. Epifluorescence micrographs of mixtures of isolates T3 (cocci) and M3 (rods) after whole-cell hybridization with Cy3-labeled probes Azo644 (a) and
+Azo1251 (b). Bar, 5 mm.
+TABLE 2. Whole-cell hybridization of isolates used in this study
+and some reference bacteria with probes Azo644 and Azo1251
+Organism(s)
+Azo644a Azo1251b
+Hybridization
+No. of
+mismatches
+Hybridization
+No. of
+mismatches
+T2 to T4, T6, and T10 1 0 2 3
+M3 to M7 and M9 to M12 1 0 1 0
+A. tolulyticus Td-15 1 0 1 0
+A. indigens VB32 2 3 2 3
+T. aromatica K172 2 1 2 3
+C. testosteroni 2 2 2 3
+Alcaligenes sp. 2 3 2 3
+N. europaea 2 4 2 3
+B. cepacia 2 4 2 4
+a 18 bp.
+b 17 bp.
+VOL. 63, 1997 BACTERIAL POPULATIONS IN CONTAMINATED AQUIFER MATERIAL 2139
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+agreement with the chemical data, which showed that O2 was
+almost depleted and that NO3
+2 consumption was low (Fig.
+3b).
+Whole-cell hybridization with probe Eub338, targeting all
+bacteria, revealed that between 86 and 99% of DAPI-stained
+bacteria were detected throughout the column (Fig. 3c). The
+highest percentage (99%) was obtained in the aerobic zone;
+the lowest percentage (86%) was obtained in the anaerobic
+zone. The large percentage of cells detectable by whole-cell
+hybridization revealed the presence of metabolically active
+cells containing sufficient amounts of rRNA for detection and,
+at the same time, sufficient permeability for in situ detection
+with oligonucleotide probes (4). Comparably high percentages
+of cells detected by whole-cell hybridization have been reported
+for nutrient-rich environments such as activated sludge,
+with up to 89% detection (42–44), or lake snow, with 55 to
+100% detection (45). In environments supplying less-eutrophic
+conditions, such as drinking water, 70% of surface-associated
+and 40% of planktonic cells were detected (28). In the winter
+cover and pelagic zones of a high mountain lake, the percentage
+of cells detected by whole-cell hybridization was 40 to 81%
+(1); in bacterioplankton, it was 35 to 67% (21); and in earthworm
+casts, it was up to 37% (15). Therefore, the large percentage
+of cells detected in our study by whole-cell hybridization
+also suggests that the aquifer column offered favorable
+growth conditions.
+In this laboratory aquifer column, bacteria of the b-Proteobacteria
+were numerically dominant (Fig. 3c), accounting for
+between 80 and 87% of the bacteria detected by whole-cell
+hybridization in the aerobic zone. These numbers decreased to
+42% in the middle of the column and then increased to 66% in
+the anaerobic zone (Fig. 3c). The remaining bacteria belonged
+mainly to the g-Proteobacteria, with numbers between 10% in
+the aerobic zone and 16% in the anaerobic zone of the column,
+while bacteria of the a-Proteobacteria were detected in large
+amounts (10%) only in the aerobic zone (Fig. 3d). Bacteria
+with high G1C DNA contents were detected only in low numbers.
+It was reported previously that the microbial communities in
+aquatic environments were also dominated by bacteria of the
+b-Proteobacteria, e.g., 27 to 42% of the cells in lake snow (45)
+or 6.5 to 116% in the winter cover and pelagic zones of a
+mountain lake (1). In earthworm casts, numbers of bacteria of
+the a- and g-Proteobacteria exceeded numbers of bacteria of
+the b-Proteobacteria by far (15).
+Our target organisms, i.e., the toluene- and m-xylene-degrading
+isolates, bacteria of the A. tolulyticus group, and A.
+evansii, were detected throughout the column (Fig. 3d) by
+whole-cell hybridization with a combination of probes Azo644
+and Azo1251. Their populations were higher in the aerobic
+zone of the column close to the inlet (2%) than in the rest of
+the column (1%). Compared to genus-specific detection of,
+e.g., Acinetobacter, which is present in numbers that constitute
+less than 8% of the total bacterial community in activated
+sludge with enhanced biological phosphate removal (42, 44),
+the detection of hydrocarbon-degrading Azoarcus spp. in numbers
+between 1 and 2% suggests that these Azoarcus spp. may
+play an important role during bioremediation in diesel fuelcontaminated
+aquifer material.
+Because of the extreme differences between column and
+field conditions, an extrapolation of the population data obtained
+in our laboratory aquifer column (scale, 40 cm, with very
+limited heterogeneity) to the field (scale, larger than 20 m, with
+considerable spatial heterogeneity) is difficult. More information
+on the catabolic activity of the hydrocarbon-degrading
+Azoarcus population in columns and the field will probably be
+obtained when recent advances in studies on the anaerobic
+toluene mineralization pathway (11, 29) lead to relevant genetic
+information. These sequences, we hope, will allow the
+design of probes directed against the mRNA of crucial catabolic
+enzymes and hence the determination of the in situ activity
+of microbial populations in the subsurface.
+ACKNOWLEDGMENTS
+We acknowledge J. M. Tiedje (Center for Microbial Ecology, Michigan
+State University, East Lansing) for providing A. tolulyticus Td-15
+and B. Reinhold-Hurek (Max Planck Institute for Terrestrial Ecology,
+Marburg, Germany) for providing A. indigens VB32.
+This work was supported by grants from the Swiss National Science
+Foundation (Priority Program Biotechnology), the Swiss Federal Of-
+fice of Environment, Forests and Landscape (BUWAL), and the EU
+(contract BIO2-CT94-3098).
+REFERENCES
+1. Alfreider, A., J. Pernthaler, R. Amann, B. Sattler, F.-O. Glo¨ckner, A. Wille,
+and R. Psenner. 1996. Community analysis of the bacterial assemblages in
+the winter cover and pelagic layers of a high mountain lake by in situ
+hybridization. Appl. Environ. Microbiol. 62:2138–2144.
+2. Amann, R. I., B. J. Binder, R. J. Olsen, S. W. Chisholm, R. Devereux, and
+FIG. 3. (a) Column set-up; (b) concentrations of O2, NO3
+2, and NO2
+2 in
+groundwater, averaged over 96 days, and concentration of residual hydrocarbons
+after 96 days in the column (initial concentration, 1,100 mg of hydrocarbons g21
+);
+(c and d) results of in situ hybridization.
+2140 HESS ET AL. APPL. ENVIRON. MICROBIOL.
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+D. A. Stahl. 1990. Combination of 16S rRNA-targeted oligonucleotide
+probes with flow cytometry for analyzing mixed microbial populations. Appl.
+Environ. Microbiol. 56:1919–1925.
+3. Amann, R. I., L. Krumholz, and D. A. Stahl. 1990. Fluorescent-oligonucleotide
+probing of whole cells for determinative, phylogenetic, and environmental
+studies in microbiology. J. Bacteriol. 172:762–770.
+4. Amann, R. I., W. Ludwig, and K.-H. Schleifer. 1995. Phylogenetic identifi-
+cation and in situ detection of individual microbial cells without cultivation.
+Microbiol. Rev. 59:143–169.
+5. Anders, H.-J., A. Kaetzke, P. Ka¨mpfer, W. Ludwig, and G. Fuchs. 1995.
+Taxonomic position of aromatic-degrading denitrifying pseudomonad strains
+K 172 and KB 740 and their description as new members of the genera
+Thauera, as Thauera aromatica sp. nov., and Azoarcus, as Azoarcus evansii sp.
+nov., respectively, members of the beta subclass of the Proteobacteria. Int. J.
+Syst. Bacteriol. 45:327–333.
+6. Bosco, M., M. P. Fernandez, P. Simonet, R. Materassi, and P. Normand.
+1992. Evidence that some Frankia sp. strains are able to cross boundaries
+between Alnus and Elaeagnus host specificity groups. Appl. Environ. Microbiol.
+58:1569–1576.
+7. Bouwer, E. J. 1992. Bioremediation of organic contaminants in the subsurface,
+p. 287–318. In R. Mitchell (ed.), Environmental microbiology. John
+Wiley & Sons, New York, N.Y.
+8. Bregnard, T., P. Ho¨hener, A. Ha¨ner, and J. Zeyer. 1996. Degradation of
+weathered diesel fuel by microorganisms from a contaminated aquifer in
+aerobic and anaerobic microcosms. Environ. Toxicol. Chem. 15:299–307.
+9. Brosius, J., T. J. Dull, D. Sleeter, and H. F. Noller. 1981. Gene organization
+and primary structure of a ribosomal RNA operon from Escherichia coli. J.
+Mol. Biol. 148:107–127.
+10. Chee-Sanford, J. C., J. W. Frost, M. R. Fries, J. Zhou, and J. M. Tiedje. 1996.
+Evidence for acetyl coenzyme A and cinnamoyl coenzyme A in the anaerobic
+toluene mineralization pathway in Azoarcus tolulyticus Tol-4. Appl. Environ.
+Microbiol. 62:964–973.
+11. Crowe, J. S., H. J. Cooper, M. A. Smith, M. J. Sims, D. Parker, and D.
+Gewert. 1991. Improved cloning efficiency of polymerase chain reaction
+(PCR) products after proteinase K digestion. Nucleic Acids Res. 19:184.
+12. Dolfing, J., J. Zeyer, P. Binder-Eicher, and R. P. Schwarzenbach. 1990.
+Isolation and characterisation of a bacterium that mineralizes toluene in the
+absence of molecular oxygen. Arch. Microbiol. 154:336–341.
+13. Embley, T. M., J. Smida, and E. Stackebrandt. 1988. Reverse transcriptase
+sequencing of 16S ribosomal RNA from Faenia rectivirgula, Pseudonocardia
+thermophila and Saccharopolyspora hirsuta, three wall type IV actinomycetes
+which lack mycolic acids. J. Gen. Microbiol. 134:961–966.
+14. Evans, P. J., D. T. Mang, K. S. Kim, and L. Y. Young. 1991. Anaerobic
+degradation of toluene by a denitrifying bacterium. Appl. Environ. Microbiol.
+57:1139–1145.
+15. Fischer, K., D. Hahn, R. I. Amann, O. Daniel, and J. Zeyer. 1995. In situ
+analysis of the bacterial community in the gut of the earthworm Lumbricus
+terrestris L. by whole-cell hybridization. Can. J. Microbiol. 41:666–673.
+16. Fischer, K., D. Hahn, W. Ho¨nerlage, F. Scho¨nholzer, and J. Zeyer. 1995. In
+situ detection of spores and vegetative cells of Bacillus megaterium in soil by
+whole cell hybridization. Syst. Appl. Microbiol. 18:265–273.
+17. Fries, M. R., J. Zhou, J. Chee-Sanford, and J. M. Tiedje. 1994. Isolation,
+characterization, and distribution of denitrifying toluene degraders from a
+variety of habitats. Appl. Environ. Microbiol. 60:2802–2810.
+17a.Genetics Computer Group. 1994. GCG program manual. Genetics Computer
+Group, Madison, Wis.
+18. Gersberg, R. M., W. J. Dawsey, and M. D. Bradley. 1993. Nitrate enhancement
+of in situ-bioremediation of monoaromatic compounds in groundwater.
+Remediation 3:233–245.
+19. Hahn, D., R. I. Amann, W. Ludwig, A. D. L. Akkermans, and K.-H. Schleifer.
+1992. Detection of microorganisms in soil after in situ hybridization with
+rRNA-targeted, fluorescently labelled oligonucleotides. J. Gen. Microbiol.
+138:879–887.
+20. Hess, A., P. Ho¨hener, D. Hunkeler, and J. Zeyer. 1996. Bioremediation of a
+diesel fuel contaminated aquifer: simulation studies in laboratory aquifer
+columns. J. Contam. Hydrol. 23:329–345.
+21. Hicks, R. E., R. I. Amann, and D. A. Stahl. 1992. Dual staining of natural
+bacterioplankton with 49,6-diamidino-2-phenylindole and fluorescent oligonucleotide
+probes targeting kingdom-level 16S rRNA sequences. Appl. Environ.
+Microbiol. 58:2158–2163.
+22. Ho¨nerlage, W., D. Hahn, and J. Zeyer. 1995. Detection of mRNA of nprM in
+Bacillus megaterium ATCC 14581 grown in soil by whole cell hybridization.
+Arch. Microbiol. 163:235–241.
+23. Hunkeler, D., P. Ho¨hener, A. Ha¨ner, T. Bregnard, and J. Zeyer. 1995.
+Quantification of hydrocarbon mineralization in a diesel fuel contaminated
+aquifer treated by in situ biorestoration, p. 421–430. In K. Kovar and J.
+Krasny (ed.), Ground water quality: remediation and protection. IAHS
+Press, Wallingford, United Kingdom.
+24. Hutchins, S. R., and J. T. Wilson. 1991. Laboratory and field studies on
+BTEX biodegradation in a fuel-contaminated aquifer under denitrifying
+conditions, p. 157–172. In R. E. Hinchee and R. F. Olfenbuttel (ed.), In situ
+bioreclamation. Butterworth-Heinemann, Stoneham, Mass.
+25. Ka¨mpfer, P., M. Steiof, P. M. Becker, and W. Dott. 1993. Characterization of
+chemoheterotrophic bacteria associated with the in situ bioremediation of a
+waste-oil contaminated site. Microb. Ecol. 26:161–188.
+26. Lovley, D. R., and D. J. Lonergan. 1990. Anaerobic oxidation of toluene,
+phenol, and p-cresol by the dissimilatory iron-reducing organism, GS-15.
+Appl. Environ. Microbiol. 56:1858–1864.
+27. Manz, W., R. Amann, W. Ludwig, M. Wagner, and K.-H. Schleifer. 1992.
+Phylogenetic oligodeoxynucleotide probes for the major subclasses of proteobacteria:
+problems and solutions. Syst. Appl. Microbiol. 15:593–600.
+28. Manz, W., U. Szewzyk, P. Ericsson, R. Amann, K.-H. Schleifer, and T.-A.
+Stenstro¨m. 1993. In situ identification of bacteria in drinking water and
+adjoining biofilms by hybridization with 16S and 23S rRNA-directed fluorescent
+oligonucleotide probes. Appl. Environ. Microbiol. 59:2293–2298.
+29. Migaud, M. E., J. C. Chee-Sanford, J. M. Tiedje, and J. W. Frost. 1996.
+Benzylfumaric, benzylmaleic, and Z- and E-phenylitaconic acids: synthesis,
+characterization, and correlation with a metabolite generated by Azoarcus
+tolulyticus Tol-4 during anaerobic toluene degradation. Appl. Environ. Microbiol.
+62:974–978.
+30. Millner, G. C., A. C. Nye, and R. C. James. 1992. Human health based soil
+cleanup guidelines for diesel fuel no. 2, p. 165–216. In P. T. Kostecki and
+E. J. Calabrese (ed.), Contaminated soils: diesel fuel contamination. Lewis
+Publishers, Chelsea, Mich.
+31. Neef, A., A. Zaglauer, H. Meier, R. Amann, H. Lemmer, and K.-H. Schleifer.
+1996. Population analysis in a denitrifying sand filter: conventional and in
+situ identification of Paracoccus spp. in methanol-fed biofilms. Appl. Environ.
+Microbiol. 62:4329–4339.
+32. Nelson, C. H., R. J. Hicks, and S. D. Andrews. 1994. An integrated system
+approach for in situ bioremediation of petroleum hydrocarbon-contaminated
+soil and groundwater, p. 429–456. In P. E. Flathman, D. E. Jerger, and J. H.
+Exner (ed.), Bioremediation—field experience. Lewis Publishers, Boca Raton,
+Fla.
+33. Porter, K. G., and Y. S. Feig. 1980. The use of DAPI for identifying and
+counting aquatic microflora. Limnol. Oceanogr. 25:943–948.
+34. Rabus, R., R. Nordhaus, W. Ludwig, and F. Widdel. 1993. Complete oxidation
+of toluene under strictly anoxic conditions by a new sulfate-reducing
+bacterium. Appl. Environ. Microbiol. 59:1444–1451.
+35. Rabus, R., and F. Widdel. 1995. Anaerobic degradation of ethylbenzene and
+other aromatic hydrocarbons by new denitrifying bacteria. Arch. Microbiol.
+163:96–103.
+36. Reinhold-Hurek, B., T. Hurek, M. Gillis, B. Hoste, M. Vancanneyt, K.
+Kersters, and J. De Ley. 1993. Azoarcus gen. nov., nitrogen-fixing proteobacteria
+associated with roots of Kallar grass (Leptochloa fusca (L.) Kunth), and
+description of two species, Azoarcus indigens sp. nov. and Azoarcus communis
+sp. nov. Int. J. Syst. Bacteriol. 43:574–584.
+37. Roller, C., W. Ludwig, and K.-H. Schleifer. 1992. Gram-positive bacteria
+with a high DNA G1C content are characterized by a common insertion
+within their 23S rRNA genes. J. Gen. Microbiol. 138:1167–1175.
+38. Roller, C., M. Wagner, R. Amann, W. Ludwig, and K.-H. Schleifer. 1994. In
+situ probing of Gram-positive bacteria with a high DNA G1C content using
+23S rRNA-targeted oligonucleotides. Microbiology 140:2849–2858.
+39. Sambrook, J., E. F. Fritsch, and T. Maniatis. 1989. Molecular cloning: a
+laboratory manual, 2nd ed. Cold Spring Harbor Laboratory Press, Cold
+Spring Harbor, N.Y.
+40. Schocher, R. J., B. Seyfried, F. Vasquez, and J. Zeyer. 1991. Anaerobic
+degradation of toluene by pure cultures of denitrifying bacteria. Arch. Microbiol.
+157:7–12.
+41. Tschech, A., and G. Fuchs. 1987. Anaerobic degradation of phenol by pure
+cultures of newly isolated denitrifying pseudomonads. Arch. Microbiol. 148:
+213–217.
+42. Wagner, M., R. Amann, H. Lemmer, W. Manz, and K.-H. Schleifer. 1994.
+Probing activated sludge with fluorescently labeled rRNA targeted oligonucleotides.
+Water Sci. Technol. 29:15–23.
+43. Wagner, M., R. Amann, H. Lemmer, and K.-H. Schleifer. 1993. Probing
+activated sludge with oligonucleotides specific for proteobacteria: inadequacy
+of culture-dependent methods for describing microbial community
+structure. Appl. Environ. Microbiol. 59:1520–1525.
+44. Wagner, M., R. Erhart, W. Manz, R. Amann, H. Lemmer, D. Wedi, and
+K.-H. Schleifer. 1994. Development of an rRNA-targeted oligonucleotide
+probe specific for the genus Acinetobacter and its application for in situ
+monitoring in activated sludge. Appl. Environ. Microbiol. 60:792–800.
+45. Weiss, P., B. Schweitzer, R. Amann, and M. Simon. 1996. Identification in
+situ and dynamics of bacteria on limnetic organic aggregates (lake snow).
+Appl. Environ. Microbiol. 62:1998–2005.
+46. Widdel, F., and F. Bak. 1992. Gram-negative mesophilic sulfate-reducing
+bacteria, p. 3352–3378. In A. Balows, H. G. Tru¨per, M. Dworking, W.
+Harder, and K.-H. Schleifer (ed.), The prokaryotes. Springer-Verlag, New
+York, N.Y.
+47. Zhou, J., M. R. Fries, J. C. Chee-Sanford, and J. M. Tiedje. 1995. Phylogenetic
+analyses of a new group of denitrifiers capable of anaerobic growth on
+toluene and description of Azoarcus tolulyticus sp. nov. Int. J. Syst. Bacteriol.
+45:500–506

@@ -1,0 +1,59 @@
+T1 Substrate 27 38 hydrocarbon
+T2 Environment 123 131 sediment
+T3 Environment 301 309 sediment
+T4 Environment 117 122 beach
+T5 Environment 295 300 beach
+T6 ReactionOrProcess 271 286 oil degradation
+T7 ReactionOrProcess 364 379 oil degradation
+T8 Substrate 518 527 n-alkanes
+T9 ReactionOrProcess 447 458 Degradation
+T10 ReactionOrProcess 578 593 oil degradation
+T11 Environment 651 661 microcosms
+T12 Substrate 681 698 dibenzothiophenes
+T13 Substrate 663 676 phenanthrenes
+T14 ReactionOrProcess 704 712 degraded
+T15 Property 1161 1172 temperature
+T16 Environment 1361 1369 sediment
+T17 Environment 1297 1306 microcosm
+T18 Environment 1330 1339 microcosm
+T19 Environment 1545 1555 microcosms
+T20 Environment 1278 1283 water
+T21 Property 1489 1503 concentrations
+T22 Property 1480 1488 residual
+T23 Property 1576 1589 water-soluble
+T24 Property 1639 1653 concentrations
+T25 Nutrient 1630 1638 nitrogen
+T26 Environment 2496 2501 water
+T27 Property 2453 2467 concentrations
+T28 Property 2532 2546 concentrations
+T29 Substrate 2876 2883 alkanes
+T30 Substrate 2992 3006 degradable oil
+T31 Substrate 2958 2965 Alkanes
+T32 ReactionOrProcess 3187 3210 hydrocarbon degradation
+T33 Environment 3285 3293 seawater
+T34 Environment 3326 3329 Sea
+T35 Environment 3265 3270 beach
+T36 Substrate 3271 3274 oil
+T37 Substrate 3303 3306 oil
+T38 Substrate 3598 3609 naphthalene
+T39 Property 3441 3451 pollutants
+T40 ReactionOrProcess 3590 3597 degrade
+T41 ReactionOrProcess 3413 3432 aerobic degradation
+T42 ReactionOrProcess 3616 3628 denitrifying
+T43 Environment 3761 3770 sediments
+T44 Environment 3780 3790 same beach
+T45 ReactionOrProcess 3881 3904 hydrocarbon degradation
+T46 ReactionOrProcess 4133 4156 significant degradation
+T47 Environment 4646 4657 groundwater
+T48 Substrate 4725 4737 hydrocarbons
+T49 Substrate 4854 4866 hydrocarbons
+R1 OccursIn Arg1:T6 Arg2:T2
+R2 OccursIn Arg1:T6 Arg2:T3
+R3 OccursIn Arg1:T6 Arg2:T4
+R4 OccursIn Arg1:T6 Arg2:T5
+R5 CarriedOn Arg1:T9 Arg2:T8
+R6 CarriedOn Arg1:T14 Arg2:T12
+R7 CarriedOn Arg1:T14 Arg2:T13
+R8 OccursIn Arg1:T14 Arg2:T11
+R9 CarriedOn Arg1:T40 Arg2:T38
+R11 CarriedOn Arg1:T42 Arg2:T38

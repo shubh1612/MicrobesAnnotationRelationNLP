@@ -1,0 +1,265 @@
+T1 Environment 58 83 unsaturated tropical soil
+T2 Substrate 10 17 ethanol
+T3 Substrate 43 51 gasoline
+T4 ReactionOrProcess 25 39 biodegradation
+T5 Environment 217 227 subsurface
+T6 Environment 102 127 underground storage tanks
+T7 Substrate 172 180 gasoline
+T8 ReactionOrProcess 181 192 degradation
+T9 Substrate 298 305 ethanol
+T10 Substrate 346 354 gasoline
+T11 ReactionOrProcess 324 333 oxygenate
+T12 Substrate 427 434 ethanol
+T13 Substrate 414 422 gasoline
+T14 Environment 589 596 aquifer
+T15 Substrate 647 654 ethanol
+T16 Substrate 674 682 gasoline
+T17 Substrate 556 564 gasoline
+T18 ReactionOrProcess 616 643 preferential biodegradation
+T19 ReactionOrProcess 570 581 degradation
+T20 ReactionOrProcess 683 694 degradation
+T21 Environment 868 881 tropical soil
+T22 Substrate 840 864 ethanol-amended gasoline
+T23 ReactionOrProcess 798 809 degradation
+T24 Substrate 979 986 ethanol
+T25 Substrate 1002 1010 gasoline
+T26 Environment 1024 1036 natural soil
+T27 Environment 1211 1217 porous
+T28 Substrate 1176 1184 gasoline
+T29 ReactionOrProcess 1132 1144 infiltration
+T30 ReactionOrProcess 1163 1172 retention
+T31 ReactionOrProcess 1058 1072 biodegradation
+T32 Environment 1321 1325 soil
+T33 Substrate 1286 1293 ethanol
+T34 Substrate 1303 1307 BTEX
+T35 Substrate 1364 1368 BTEX
+T36 ReactionOrProcess 1308 1317 retention
+T37 ReactionOrProcess 1369 1383 biodegradation
+T38 Substrate 1422 1430 gasoline
+T39 ReactionOrProcess 1431 1441 oxygenated
+T40 ReactionOrProcess 1593 1614 atmospheric pollution
+T41 Substrate 1738 1745 ethanol
+T42 Substrate 1630 1639 petroleum
+T43 ReactionOrProcess 1746 1755 extracted
+T44 Substrate 1866 1873 ethanol
+T45 Substrate 1886 1894 gasoline
+T46 ReactionOrProcess 1895 1904 oxygenate
+T47 Environment 2276 2281 water
+T48 Substrate 2164 2171 ethanol
+T49 Substrate 2108 2112 MTBE
+T50 Substrate 2209 2213 MTBE
+T51 ReactionOrProcess 2123 2132 oxygenate
+T52 Substrate 2390 2397 ethanol
+T53 Substrate 2562 2569 ethanol
+T54 Substrate 2616 2624 gasoline
+T55 Substrate 2402 2426 ethanol-blended gasoline
+T56 ReactionOrProcess 2601 2612 degradation
+T57 Environment 3020 3025 water
+T58 Substrate 2793 2800 ethanol
+T59 Substrate 2887 2894 ethanol
+T60 Substrate 2862 2870 gasoline
+T61 Substrate 2805 2812 gasohol
+T62 Substrate 3068 3092 ethanol-amended gasoline
+T63 ReactionOrProcess 2871 2881 oxygenates
+T64 ReactionOrProcess 2755 2769 energy balance
+T65 ReactionOrProcess 3048 3064 biodegradability
+T66 Substrate 3113 3120 Ethanol
+T67 Substrate 3211 3219 gasoline
+T68 ReactionOrProcess 3145 3157 infiltration
+T69 ReactionOrProcess 3173 3182 retention
+T70 ReactionOrProcess 3193 3207 biodegradation
+T71 Environment 3478 3483 water
+T72 Substrate 3355 3362 ethanol
+T73 Substrate 3466 3474 gasoline
+T74 Property 3452 3462 solubility
+T75 Property 3339 3353 hydrophilicity
+T76 Property 3546 3562 surface tensions
+T77 ReactionOrProcess 3522 3530 reducing
+T78 Environment 3666 3670 soil
+T79 Environment 3646 3651 water
+T80 Substrate 3653 3661 gasoline
+T81 Environment 4189 4194 plume
+T82 Environment 3710 3720 inert soil
+T83 Environment 3823 3827 soil
+T84 Environment 3837 3842 water
+T85 Environment 4065 4070 water
+T86 Environment 3787 3798 vadose zone
+T87 Substrate 3800 3807 ethanol
+T88 Substrate 4161 4168 ethanol
+T89 Substrate 3940 3948 gasoline
+T90 Substrate 3849 3856 benzene
+T91 Substrate 3858 3865 toluene
+T92 Substrate 3895 3899 BTEX
+T93 Substrate 4012 4017 LNAPL
+T94 Substrate 4183 4188 LNAPL
+T95 Substrate 3741 3765 ethanol-amended gasoline
+T96 Substrate 3885 3892 xylenes
+T97 Property 3984 3993 saturated
+T98 Property 3828 3836 residual
+T99 Environment 4299 4305 plumes
+T100 Environment 4224 4230 Plumes
+T101 Environment 4529 4533 soil
+T102 Substrate 4468 4475 ethanol
+T103 Substrate 4281 4298 standard gasoline
+T104 Substrate 4333 4340 benzene
+T105 Substrate 4349 4356 toluene
+T106 Substrate 4436 4440 BTEX
+T107 Substrate 4574 4578 BTEX
+T108 Substrate 4234 4258 ethanol-amended gasoline
+T109 ReactionOrProcess 4481 4505 preferential degradation
+T110 ReactionOrProcess 4421 4432 degradation
+T111 ReactionOrProcess 4579 4590 degradation
+T112 Nutrient 4551 4569 electron acceptors
+T113 Environment 4809 4814 water
+T114 Substrate 4793 4797 BTEX
+T115 Property 4680 4689 saturated
+T116 ReactionOrProcess 4760 4789 effective aerobic degradation
+T117 Nutrient 4702 4708 oxygen
+T118 Environment 4888 4908 inert or sandy soils
+T119 Environment 4954 4958 soil
+T120 Substrate 5013 5029 gasoline–ethanol
+T121 Substrate 5000 5008 gasoline
+T122 Environment 5086 5097 vadose zone
+T123 Substrate 5147 5154 ethanol
+T124 Substrate 5062 5066 BTEX
+T125 Substrate 5166 5170 BTEX
+T126 ReactionOrProcess 5067 5078 degradation
+T127 ReactionOrProcess 5171 5182 degradation
+T128 Environment 5336 5349 tropical soil
+T129 Environment 5459 5463 soil
+T130 Environment 5319 5330 vadose zone
+T131 Substrate 5289 5305 gasoline–ethanol
+T132 Substrate 5378 5385 ethanol
+T133 Substrate 5411 5419 gasoline
+T134 Property 5490 5502 contaminants
+T135 ReactionOrProcess 5393 5407 biodegradation
+T136 Environment 5541 5562 inert and sandy soils
+T137 Substrate 5665 5672 ethanol
+T138 Substrate 5707 5715 gasoline
+T139 ReactionOrProcess 5689 5703 biodegradation
+T140 Substrate 5923 5930 ethanol
+T141 Substrate 5875 5883 gasoline
+T142 Substrate 5792 5808 blended gasoline
+T143 Property 5816 5825 saturated
+T144 ReactionOrProcess 5884 5895 degradation
+T145 Environment 6099 6111 natural soil
+T146 Environment 5962 5966 soil
+T147 Substrate 5995 6019 ethanol-blended gasoline
+R1 CarriedOn Arg1:T4 Arg2:T2
+R2 CarriedOn Arg1:T4 Arg2:T3
+R3 OccursIn Arg1:T4 Arg2:T1
+R4 CarriedOn Arg1:T8 Arg2:T7
+R5 OccursIn Arg1:T8 Arg2:T5
+R6 OccursIn Arg1:T8 Arg2:T6
+R7 CarriedOn Arg1:T11 Arg2:T9
+R8 CarriedOn Arg1:T11 Arg2:T10
+R9 CarriedOn Arg1:T18 Arg2:T15
+R10 CarriedOn Arg1:T18 Arg2:T16
+R11 CarriedOn Arg1:T18 Arg2:T17
+R12 CarriedOn Arg1:T19 Arg2:T15
+R13 CarriedOn Arg1:T19 Arg2:T16
+R14 CarriedOn Arg1:T19 Arg2:T17
+R15 CarriedOn Arg1:T20 Arg2:T15
+R16 CarriedOn Arg1:T20 Arg2:T16
+R17 CarriedOn Arg1:T20 Arg2:T17
+R18 OccursIn Arg1:T18 Arg2:T14
+R19 OccursIn Arg1:T19 Arg2:T14
+R20 OccursIn Arg1:T20 Arg2:T14
+R21 CarriedOn Arg1:T23 Arg2:T22
+R22 OccursIn Arg1:T23 Arg2:T21
+R23 CarriedOn Arg1:T29 Arg2:T28
+R24 CarriedOn Arg1:T30 Arg2:T28
+R25 CarriedOn Arg1:T31 Arg2:T28
+R26 OccursIn Arg1:T29 Arg2:T26
+R27 OccursIn Arg1:T29 Arg2:T27
+R28 OccursIn Arg1:T30 Arg2:T26
+R29 OccursIn Arg1:T30 Arg2:T27
+R30 OccursIn Arg1:T31 Arg2:T26
+R31 OccursIn Arg1:T31 Arg2:T27
+R32 CarriedOn Arg1:T36 Arg2:T33
+R33 CarriedOn Arg1:T36 Arg2:T34
+R34 CarriedOn Arg1:T36 Arg2:T35
+R35 CarriedOn Arg1:T37 Arg2:T33
+R36 CarriedOn Arg1:T37 Arg2:T34
+R37 CarriedOn Arg1:T37 Arg2:T35
+R38 OccursIn Arg1:T36 Arg2:T32
+R39 OccursIn Arg1:T37 Arg2:T32
+R40 CarriedOn Arg1:T39 Arg2:T38
+R41 CarriedOn Arg1:T40 Arg2:T38
+R42 CarriedOn Arg1:T43 Arg2:T41
+R43 CarriedOn Arg1:T43 Arg2:T42
+R44 CarriedOn Arg1:T46 Arg2:T44
+R45 CarriedOn Arg1:T46 Arg2:T45
+R46 CarriedOn Arg1:T51 Arg2:T48
+R47 CarriedOn Arg1:T51 Arg2:T49
+R48 CarriedOn Arg1:T51 Arg2:T50
+R50 CarriedOn Arg1:T56 Arg2:T52
+R51 CarriedOn Arg1:T56 Arg2:T53
+R52 CarriedOn Arg1:T56 Arg2:T54
+R53 CarriedOn Arg1:T56 Arg2:T55
+R54 CarriedOn Arg1:T63 Arg2:T58
+R55 CarriedOn Arg1:T63 Arg2:T59
+R56 CarriedOn Arg1:T63 Arg2:T60
+R57 CarriedOn Arg1:T63 Arg2:T61
+R58 CarriedOn Arg1:T63 Arg2:T62
+R59 CarriedOn Arg1:T64 Arg2:T58
+R60 CarriedOn Arg1:T64 Arg2:T59
+R61 CarriedOn Arg1:T64 Arg2:T60
+R62 CarriedOn Arg1:T64 Arg2:T61
+R63 CarriedOn Arg1:T64 Arg2:T62
+R64 CarriedOn Arg1:T65 Arg2:T58
+R65 CarriedOn Arg1:T65 Arg2:T59
+R66 CarriedOn Arg1:T65 Arg2:T60
+R67 CarriedOn Arg1:T65 Arg2:T61
+R68 CarriedOn Arg1:T65 Arg2:T62
+R71 OccursIn Arg1:T65 Arg2:T57
+R72 CarriedOn Arg1:T68 Arg2:T66
+R73 CarriedOn Arg1:T68 Arg2:T67
+R74 CarriedOn Arg1:T69 Arg2:T66
+R75 CarriedOn Arg1:T69 Arg2:T67
+R76 CarriedOn Arg1:T70 Arg2:T66
+R77 CarriedOn Arg1:T70 Arg2:T67
+R78 CarriedOn Arg1:T77 Arg2:T72
+R79 CarriedOn Arg1:T77 Arg2:T73
+R81 CarriedOn Arg1:T109 Arg2:T102
+R84 CarriedOn Arg1:T109 Arg2:T105
+R85 CarriedOn Arg1:T109 Arg2:T106
+R86 CarriedOn Arg1:T109 Arg2:T107
+R88 CarriedOn Arg1:T110 Arg2:T102
+R91 CarriedOn Arg1:T110 Arg2:T105
+R92 CarriedOn Arg1:T110 Arg2:T106
+R93 CarriedOn Arg1:T110 Arg2:T107
+R95 CarriedOn Arg1:T111 Arg2:T102
+R98 CarriedOn Arg1:T111 Arg2:T105
+R99 CarriedOn Arg1:T111 Arg2:T106
+R100 CarriedOn Arg1:T111 Arg2:T107
+R102 OccursIn Arg1:T109 Arg2:T99
+R103 OccursIn Arg1:T109 Arg2:T100
+R104 OccursIn Arg1:T109 Arg2:T101
+R105 OccursIn Arg1:T110 Arg2:T99
+R106 OccursIn Arg1:T110 Arg2:T100
+R107 OccursIn Arg1:T110 Arg2:T101
+R108 OccursIn Arg1:T111 Arg2:T99
+R109 OccursIn Arg1:T111 Arg2:T100
+R110 OccursIn Arg1:T111 Arg2:T101
+R111 CarriedOn Arg1:T116 Arg2:T114
+R112 OccursIn Arg1:T116 Arg2:T113
+R113 CarriedOn Arg1:T126 Arg2:T123
+R114 CarriedOn Arg1:T126 Arg2:T124
+R115 CarriedOn Arg1:T126 Arg2:T125
+R116 CarriedOn Arg1:T127 Arg2:T123
+R117 CarriedOn Arg1:T127 Arg2:T124
+R118 CarriedOn Arg1:T127 Arg2:T125
+R119 OccursIn Arg1:T126 Arg2:T122
+R120 OccursIn Arg1:T127 Arg2:T122
+R121 CarriedOn Arg1:T135 Arg2:T131
+R122 CarriedOn Arg1:T135 Arg2:T132
+R123 CarriedOn Arg1:T135 Arg2:T133
+R124 OccursIn Arg1:T135 Arg2:T128
+R125 OccursIn Arg1:T135 Arg2:T129
+R126 OccursIn Arg1:T135 Arg2:T130
+R127 CarriedOn Arg1:T139 Arg2:T137
+R128 CarriedOn Arg1:T139 Arg2:T138
+R130 CarriedOn Arg1:T144 Arg2:T140
+R131 CarriedOn Arg1:T144 Arg2:T141
+R132 CarriedOn Arg1:T144 Arg2:T142

@@ -1,0 +1,260 @@
+B24
+Recovery of Pseudomonas spp. from chronically fuel oil-polluted soils in Jordan
+and the study of their capability to degrade short chain alkanes
+I. Saadoun
+Department of Applied Biology, Jordan University of Science and Technology, P.O. Box 3030, Irbid 22110, Jordan
+Tel.: +962-2-7201000 Ext: +23460, Fax: +962-2-7095014, E-mail: isaadoun@just.edu.jo
+Received 4 April 2003; accepted 2 August 2003
+Keywords: Alkanes, degradation, Pseudomonas, soil
+Summary
+Enumeration of bacteria and recovery of the dominant species have been conducted for soils contaminated with fuel
+spills for more than 10 years at seven gas stations in Jordan. Bacterial counts of these polluted soils ranged between
+0.68 · 108 and 32.8 · 108 c.f.u./g soil with two different bacterial colony types recovered on agar plates. Phenotypic
+examination of the recovered bacteria revealed that they belonged mainly to the genus Pseudomonas and was
+represented by the following species: P. acidovorans, P. putrefaciens, P. cepacia, P. vesicularis and P. fluorescens. The
+ability of these bacteria to grow on hexane or heptane was revealed by a colorimetric test. Action of five
+Pseudomonas spp.: Pseudomonas putrefaciens, P. cepacia, P. acidovorans, P. vesicularis and P. fluorescens and
+Rhodococcus erythropolis on 0.1% (v/v) hexane or heptane was followed at 1, 2, 6 and 12 h. Pseudomonas
+putrefaciens, P. cepacia and P. acidovorans were capable of degrading both hydrocarbons as indicated by the yellow
+colour formation (positive reaction); however, P. vesicularis and P. fluorescens showed no such capability.
+Introduction
+As a result of the increased use of automobiles, the
+demand on gasoline/diesel stations is increasing. In such
+stations, fuel oil, which is classified as hazardous waste
+(Bartha & Bossert 1984) is spilled during transfer and
+servicing operations. The accidental spillage of hydrocarbons
+on the soil may result in a selective increase in
+hydrocarbon-utilizing microorganisms (Venkateswaran
+et al. 1995; Ferrari et al. 1996). The enhancement or
+reduction will depend upon the chemical composition of
+the contaminating hydrocarbons and on the species of
+microorganism present within the microbial community
+of the particular ecosystem (Atlas 1995). The distribution
+of the type and the number of microorganisms at a
+site may help to characterize the site with respect to the
+concentration and age of the contaminant.
+Alkanes are usually the easiest hydrocarbons to be
+degraded by their conversion to alcohol via a mixed
+function oxygenase activity (Sanger & Finnarty 1984).
+Thus the detection of alcohol production would indicate
+the potential of microorganisms to transform hydrocarbons.
+Saadoun (2002) reported the ability of different
+bacterial strains to degrade diesel fuel by transforming
+the hydrocarbon to alcohol.
+This paper describes the enumeration of bacteria and
+recovery of the dominant species in soils polluted with
+fuel oil spills at gas stations in Jordan. The ability of
+different Pseudomonas spp. to transform short chain
+alkanes to alcohol was also investigated.
+Materials and methods
+Collection of samples
+Soil samples were collected from fuel oil-polluted soils
+of seven gas stations in Jordan with a historic exposure
+to fuel spills for more than 10 years. One sample of
+250 g from each station was taken from the 10 cm top
+soil, after discarding the upper 3 cm of the soil surface.
+Sample processing
+Each soil sample was crushed, thoroughly mixed then
+sieved through a 2 mm pore size sieve (Retsch, Germany)
+to get rid of large debris. Samples were placed in
+polyethylene bags, closed tightly and stored in a
+refrigerator prior to analysis. The sieved soil was then
+used for the isolation purposes.
+Isolation of bacteria
+Subsamples of 1 g were suspended in 100 ml of sterile
+distilled water, agitated in a water-bath shaker at
+100 rev/min for 30 min, then serially diluted up to
+10)6
+. Aliquots of 0.1 ml from each dilution were spread
+over the surface of nutrient agar (Himedia, India) plates.
+Plates were incubated at 28 C for 2 days then total
+bacterial count was detected.
+World Journal of Microbiology & Biotechnology 20: 43–46, 2004. 43  2004 Kluwer Academic Publishers. Printed in the Netherlands.
+Bacterial identification
+The morphological characterization of each isolate was
+first performed, including colour, size, and colony
+characteristics (form, margin, and elevation). Gram
+stain test was performed for each isolate and the ability
+of some isolates to grow at 42 C was also investigated.
+Bacterial strains were identified on the basis of Bergey’s
+Manual of Systematic Bacteriology (Holt et al. 1994).
+A culture of Rhodococcus erythropolis, was used as a
+control reference capable of degrading different hydrocarbons
+(Saadoun et al. 1999).
+Biochemical tests
+The following biochemical tests were used in the
+bacterial isolates identification process: gelatin liquefaction;
+citrate utilization; oxidase; catalase; growth at
+6.5% sodium chloride; fluorescent pigment production;
+indole formation and nitrate reduction (Cappuccino &
+Sherman 1996). To determine glucose fermentation as
+well as gas production, the isolates were placed in
+phenol red–glucose broth.
+Assay for hexane or heptane degradation
+The test of Jacobs et al. (1983) was conducted to detect
+the biodegradation of hexane or heptane by a monooxygenase
+biodegradation pathway. The test is based
+on the following reactions:
+Ethanol þ nicotinamide adenine dinucleotide ðNADþÞ
+"# alcohol dehydrogenase
+acetaldehyde þ NADþ þ Hþ
+NADþ þ Hþ þ 2; 6-dichlorophenolindophenol (DCPIP)
+[oxidized, blue]
+"# 5-methylphenazinium methylsulphate (MPMS)
+NADþ þ 2; 6-DCPIP [reduced, yellow]
+The test was performed in duplicate at 28 C in a small
+test tube containing the following components: 20 ll
+2,6-dichlorophenolindophenol (DCPIP) (ACROS organic,
+NJ, USA), 50 mM; 30 ll 5-methyl-phenazinium
+methylsulphate (5-MPMS) (ACROS organic, NJ,
+USA), 50 mM; 25 ll of 0.1% (v/v) alkane (hexane or
+heptane), 5 ll of 0.15 M NAD solution and 25 ll of
+washed bacterial cells. Colour change was compared
+visually with four controls. The first control contained
+no hexane or heptane (substrate), the second contained
+no NAD+ and the third contained no cells. A fourth
+control consisted of heat-killed cells (10 min at 90 C).
+The reaction was followed for 12 h and examined after
+1, 2, 6 and 12 h.
+Results
+Bacterial population of soil samples polluted with
+gasoline, diesel fuel and engine oils showed counts
+ranging between 0.68 · 108 and 32.8 · 108 c.f.u./g soil
+with two different colony types of bacterial strains which
+have been recovered on the agar plates (Table 1).
+The different bacterial genera (Pseudomonas, Micrococcus,
+Corynebacterium, and Achromobacter) identified
+in this study are shown in Table 1. There was higher
+prevalence of the genus Pseudomonas than the other
+genera. Table 2 shows five different Pseudomonas spp.
+(Pseudomonas acidovorans, P. putrefaciens, P. cepacia,
+P. vesicularis and P. fluorescens) that have been recovered
+from soils contaminated with fuel oil spills.
+The ability of the different Pseudomonas spp. to grow
+on hexane or heptane is indicated by the colour change
+at the end of the reaction time (Table 3). Action of five
+Pseudomonas spp., Pseudomonas putrefaciens, P. cepacia,
+P. acidovorans, P. vesicularis and P. fluorescens and
+Rhodococcus erythropolis on 0.1% (v/v) hexane or
+heptane was followed at 1, 2, 6 and 12 h. Pseudomonas
+putrefaciens, P. cepacia and P. acidovorans were capable
+of degrading both hydrocarbons as compared to the
+action of R. erythropolis and as indicated by the yellow
+colour formation (positive reaction); however, P. vesicularis
+and P. fluorescens showed no capability.
+Discussion
+Although microbial enumeration is not a direct measure
+of their activity in soils, it provides an indication of
+Table 1. Total bacterial count and diversity of bacteria in soils contaminated with fuel oil.
+Soil
+sample
+Colour of
+soil sample
+Site of
+collection
+Time of
+exposure
+(year)
+c.f.u. · 108
+/gm
+Isolates recovered as identified to genus level Colony
+types
+Pseudomonas Micrococcus Corynebacterium Achromobacter
+1B Black Zarka 20 18.80 2 1 – – 3
+2B Light Brown Jerash 25 32.80 2 1 – – 3
+3B Dark Brown Al-Hashmia 22 28.80 1 – – 1 2
+4B Dark Brown Ajlune 10 0.68 1 – – – 1
+9B Light Gray Industrial
+City/Irbid
+20 15.20 2 1 – – 3
+11B Light Brown Amman 15 21.60 2 1 – – 3
+14B Dark Brown Hebras 30 8.80 2 – 1 – 3
+Total 12 4 1 1 18
+44 I. Saadoun
+microbial vitality and/or biodegradative potential, in a
+crude petroleum oil-contaminated soil, by measuring
+how well the soil supports microbial growth (Bossert &
+Compeau 1995). Radwan et al. (1995) reported the
+predominance of members of the genus Pseudomonas in
+addition to Bacillus, Streptomyces and Rhodococcus in
+Table 2. Morphological and physiological properties of the different Peudomonas isolates.
+Isolate Physiological properties of the identified Pseudomonas spp.a
+Motility Gelatin Citrate Nitrate Fluorescent Pigment Glucose Bacteria identified
+1B1 + + ) ++ + P. putrefaciens
+1B2 + )))) ) P. acidovorans
+2B1 + + ) ++ + P. putrefaciens
+2B2 + )))) ) P. acidovorans
+3B2 ))) + ) + P. vesicularis
+4B2 + )))) ) P. acidovorans
+9B1 + + ) ++ + P. putrefaciens
+9B2 + + ) ++ + P. putrefaciens
+11B1 +++++ ) P. fluorescens
+11B2 + + ) ) + + P. putrefaciens
+14B2 + + ) ++ + P. putrefaciens
+14B3 + + ) + ) + P. cepacia
+a All of the isolates were able ferment glucose and were oxidase positive.
+Table 3. Action of different Pseudomonas spp. on hexane and heptane as indicated by colour changea according to a method of Jacobs et al.
+(1983).
+Reaction condition Time (h) 1b 23456
+Hexane
++NAD+/29 C 1 Bl Y Br Br Bl Bl
+2 Br Y Y Br Br Gr
+6 Y Y Y Y Br Gr
+12 Y Y Y Y Br Gr
+Result + + + + ) )
+)NAD+/29 C 1 Bl Bl Bl Br D-Gr Br
+(Control 2)c 2 Bl-Br Br Gr Br D-Gr Br
+6 Br Br Gr Br D-Gr D-Br
+12 Br Br Gr Br D-Gr D-Br
+24 Br Br Gr Br D-Gr D-Br
+Result ))))))
++NAD+/90 C 1 Br Bl Gr Bl Gr Br
+(Control 4) 2 Br Br Gr Br D-Gr Br
+6 Br Br Gr Br D-Gr Br
+12 Br Br Gr Br D-Gr Br
+Result ))))))
+Heptane
++NAD+/29 C 1 Bl Y Bl Bl Bl Bl
+2 Br Y Br Br Bl Gr
+6 Y Y Y Y Bl Gr
+12 Y Y Y Y Bl Gr
+Result + + + + ) )
+)NAD+/29 C 1 Bl Bl Gr Bl Br Br
+(Control 2) 2 Br D-Br Gr Gr Br Gr
+6 Br D-Br Gr Gr Br Gr
+12 Br D-Br Gr Gr Br Gr
+Result ))))))
++NAD+/90 C 1 Br Gr Bl Bl Bl Br
+(Control 4) 2 Br Gr Br Gr Gr D-Br
+6 Br Gr Br Gr Gr D-Br
+12 Br Gr Br Gr Gr D-Br
+Result ))))))
+a Colour change from dark blue to other colours at different time intervals by each Pseudomonas sps.: Bl = blue; Br = brown; Gr = green;
+Y = yellow; D = deep.
+b 1. Pseudomonas putrifaciens; 2. Rhodococcus erythropolis; 3. P. cepacia; 4. Pseudomonas acidovorans; 5. P. vesicularis; 6. P. fluorescens. c The first control contained no hexane or heptane (substrate), the third contained no cells.
+Bacteria in oil-polluted soils and their degradation capabilities 45
+the various oil-polluted Kuwaiti desert soil samples
+subjected to various types of management. Rahman
+et al. (2002) showed that bacteria are the most dominant
+flora in gasoline and diesel station soils and Corynebacterium
+was the predominant genus. However, the
+recovered bacteria from soils contaminated with crude
+petrolium oil as a result of transportation accidents
+along the highway connecting Iraq and Jordan mainly
+belonged to the genera Pseudomonas, Enterobacter and
+Acinetobacter (Saadoun 2002).
+The widespread distribution of members of the genus
+Pseudomonas in all hydrocarbon-polluted soils of this
+study as well as of the other investigations confirms their
+prevalence and reflects their potential in utilizing these
+hydrocarbon contaminants for growth and thus clean
+these polluted sites (Cork & Krueger 1991). Therefore,
+the different Pseudomonas spp. of this study were
+evaluated for such potential using the modified method
+of Jacobs et al. (1983) through transforming alkanes to
+their corresponding alcohols. Detection of alcohol
+formation by microorganisms may be an applicable
+approach for evaluating their activity on the simple
+alkanes. Saadoun (2002) reported that this technique
+can be applied for screening of organisms for their
+ability to degrade hydrocarbons.

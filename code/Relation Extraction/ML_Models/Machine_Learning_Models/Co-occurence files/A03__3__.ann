@@ -1,0 +1,73 @@
+T1	ReactionOrProcess 123 136	anaerobically
+T2	Environment 230 239	sediments
+T3	Environment 417 425	sediment
+T4	Property 307 318	crystalline
+T5	Substrate 503 511	ethylene
+T6	Property 566 579	concentration
+T7	Nutrient 427 434	Fe ( III )
+T8	Property 688 702	concentrations
+T9	Environment 734 742	sediment
+T10	Substrate 758 762	MTBE
+T11	Substrate 767 770	TBA
+T12	Substrate 857 861	MTBE
+T13	Substrate 866 869	TBA
+T14	Property 839 853	concentrations
+T15	Environment 939 956	aquatic sediments
+T16	Substrate 1039 1043	MTBE
+T17	Substrate 1048 1051	TBA
+T18	ReactionOrProcess 1015 1026	degradation
+T19	Property 1231 1237	purity
+T20	ReactionOrProcess 1446 1454	detector
+T21	Substrate 1520 1524	MTBE
+T22	Substrate 1529 1532	TBA
+T23	ReactionOrProcess 1649 1659	oxygenates
+T24	ReactionOrProcess 1505 1516	degradation
+T25	ReactionOrProcess 1754 1779	flame ionization detector
+T26	Environment 1841 1850	sediments
+T27	Property 1781 1795	Concentrations
+T28	Environment 2000 2009	sediments
+T29	Environment 1992 1999	aquifer
+T30	ReactionOrProcess 1938 1964	anaerobic MTBE degradation
+T31	Substrate 2060 2064	MTBE
+T32	Substrate 2116 2120	MTBE
+T33	ReactionOrProcess 2065 2076	degradation
+T34	Environment 2175 2184	sediments
+T35	Environment 2219 2228	sediments
+T36	Substrate 2153 2157	MTBE
+T37	Property 2259 2270	crystalline
+T38	Substrate 2408 2412	MTBE
+T39	Nutrient 2388 2390	HS
+T40	Substrate 2484 2488	MTBE
+T41	Environment 2525 2534	sediments
+T42	Substrate 2631 2635	MTBE
+T43	Substrate 2662 2666	MTBE
+T44	Substrate 2578 2582	MTBE
+T45	Substrate 2883 2887	MTBE
+T46	ReactionOrProcess 2906 2926	sediment degradation
+T47	Environment 3045 3053	sediment
+T48	Environment 3037 3044	aquifer
+T49	Substrate 2992 2996	MTBE
+T50	Substrate 3117 3121	MTBE
+T51	ReactionOrProcess 3013 3022	replicate
+T52	ReactionOrProcess 3054 3064	enrichment
+T53	Nutrient 3157 3173	humic substances
+R1	CarriedOn Arg1:T18 Arg2:T16
+R2	CarriedOn Arg1:T18 Arg2:T17
+R3	OccursIn Arg1:T18 Arg2:T15
+R4	CarriedOn Arg1:T23 Arg2:T21
+R5	CarriedOn Arg1:T23 Arg2:T22
+R6	CarriedOn Arg1:T24 Arg2:T21
+R7	CarriedOn Arg1:T24 Arg2:T22
+R8	OccursIn Arg1:T30 Arg2:T28
+R9	OccursIn Arg1:T30 Arg2:T29
+R10	CarriedOn Arg1:T33 Arg2:T31
+R11	CarriedOn Arg1:T33 Arg2:T32
+R12	CarriedOn Arg1:T46 Arg2:T45
+R13	CarriedOn Arg1:T51 Arg2:T49
+R14	CarriedOn Arg1:T51 Arg2:T50
+R15	CarriedOn Arg1:T52 Arg2:T49
+R16	CarriedOn Arg1:T52 Arg2:T50
+R17	OccursIn Arg1:T51 Arg2:T47
+R18	OccursIn Arg1:T51 Arg2:T48
+R19	OccursIn Arg1:T52 Arg2:T47
+R20	OccursIn Arg1:T52 Arg2:T48

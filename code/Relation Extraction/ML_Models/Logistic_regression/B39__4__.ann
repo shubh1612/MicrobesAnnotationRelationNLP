@@ -1,0 +1,63 @@
+T1	Substrate 204 210	resins
+T2	Substrate 124 146	aliphatic hydrocarbons
+T3	Substrate 54 66	hydrocarbons
+T4	Substrate 215 226	asphaltenes
+T5	Property 155 164	aromatics
+T6	ReactionOrProcess 187 195	degraded
+T7	Microbes 273 295	heterotrophic bacteria
+T8	Environment 352 369	contaminated soil
+T9	Substrate 316 319	PAH
+T10	Substrate 297 300	TPH
+T11	Property 320 329	degraders
+T12	Property 301 310	degraders
+T13	ReactionOrProcess 377 391	bioremediation
+T14	Environment 569 573	soil
+T15	Property 506 517	contaminant
+T16	ReactionOrProcess 575 589	bioremediation
+T17	ReactionOrProcess 485 494	degrading
+T18	Substrate 696 718	degrading hydrocarbons
+T19	Environment 782 811	oily sludge-contaminated soil
+T20	Environment 885 912	petroleum-contaminated soil
+T21	Property 963 972	degraders
+T22	Microbes 1121 1143	heterotrophic bacteria
+T23	Environment 1200 1204	soil
+T24	Environment 1296 1300	soil
+T25	Environment 1550 1554	soil
+T26	Substrate 1164 1167	PAH
+T27	Substrate 1529 1532	PAH
+T28	Substrate 1145 1148	TPH
+T29	Substrate 1521 1524	TPH
+T30	Property 1168 1177	degraders
+T31	Property 1533 1542	degraders
+T32	Property 1149 1158	degraders
+T33	ReactionOrProcess 1274 1292	addition of manure
+T34	Environment 1948 1966	autochthonous soil
+T35	ReactionOrProcess 1841 1852	utilization
+T36	Environment 2213 2225	treated soil
+T37	Environment 2161 2165	soil
+T38	ReactionOrProcess 2310 2321	remediation
+T39	Property 2378 2396	sole carbon source
+T40	ReactionOrProcess 2397 2408	utilization
+T41	ReactionOrProcess 2444 2462	addition of manure
+T42	Environment 2650 2661	oily sludge
+T43	ReactionOrProcess 2944 2958	bioremediation
+T44	ReactionOrProcess 3046 3057	utilization
+T45	Nutrient 3032 3038	carbon
+T46	Nutrient 3158 3164	carbon
+T47	Environment 3458 3462	soil
+T48	Substrate 3376 3379	TPH
+R1	FoundIn Arg1:T7 Arg2:T8
+R2	Of Arg1:T7 Arg2:T11
+R3	Of Arg1:T7 Arg2:T12
+R4	ActOn Arg1:T7 Arg2:T9
+R5	ActOn Arg1:T7 Arg2:T10
+R6	FoundIn Arg1:T22 Arg2:T23
+R7	FoundIn Arg1:T22 Arg2:T24
+R8	FoundIn Arg1:T22 Arg2:T25
+R9	Of Arg1:T22 Arg2:T30
+R10	Of Arg1:T22 Arg2:T31
+R11	Of Arg1:T22 Arg2:T32
+R12	ActOn Arg1:T22 Arg2:T26
+R13	ActOn Arg1:T22 Arg2:T27
+R14	ActOn Arg1:T22 Arg2:T28
+R15	ActOn Arg1:T22 Arg2:T29

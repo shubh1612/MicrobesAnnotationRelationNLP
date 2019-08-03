@@ -1,0 +1,112 @@
+T1	Substrate 0 9	Quinoline
+T2	Property 24 42	sole carbon source
+T3	Nutrient 29 35	carbon
+T4	Nutrient 74 82	nitrogen
+T5	Nutrient 0 9	Quinoline
+T6	Nutrient 48 56	ammonium
+T7	Substrate 224 233	carbazole
+T8	Nutrient 258 264	carbon
+T9	Nutrient 266 274	nitrogen
+T10	Environment 352 357	lakes
+T11	Environment 340 346	waters
+T12	Environment 427 432	water
+T13	Substrate 442 451	carbazole
+T14	Substrate 486 495	quinoline
+T15	ReactionOrProcess 456 467	biodegraded
+T16	Nutrient 486 495	quinoline
+R1	CarriedOn Arg1:T15 Arg2:T14
+T17	Environment 646 652	waters
+T18	Substrate 554 563	quinoline
+T19	ReactionOrProcess 575 611	benzoUWquinoline yielded degradation
+T20	ReactionOrProcess 600 611	degradation
+T21	Nutrient 554 563	quinoline
+T22	Substrate 759 770	naphthalene
+T23	ReactionOrProcess 691 699	degraded
+T24	Substrate 819 834	unweathered oil
+T25	Substrate 831 834	oil
+T26	Substrate 883 886	oil
+T27	Substrate 873 886	weathered oil
+T28	Substrate 924 944	nitrogen heterocycle
+T29	ReactionOrProcess 1001 1011	weathering
+T30	Nutrient 924 932	nitrogen
+T31	Substrate 1142 1164	Norman Wells crude oil
+T32	Substrate 1219 1235	alkyl carbazoles
+T33	Substrate 1149 1164	Wells crude oil
+T34	Substrate 1225 1235	carbazoles
+T35	Substrate 1155 1164	crude oil
+T36	Substrate 1225 1235	carbazoles
+T37	Substrate 1161 1164	oil
+T38	ReactionOrProcess 1316 1338	sequential degradation
+T39	ReactionOrProcess 1327 1338	degradation
+T40	Substrate 1384 1387	oil
+T41	Property 1375 1383	residual
+T42	ReactionOrProcess 1522 1542	GC-mass spectrometry
+T43	ReactionOrProcess 1613 1621	detector
+T44	Environment 1927 1931	Lake
+T45	Environment 1694 1699	beach
+T46	Substrate 1872 1888	ALKYL CARBAZOLES
+T47	Substrate 1878 1888	CARBAZOLES
+T48	Substrate 1878 1888	CARBAZOLES
+T49	ReactionOrProcess 1857 1868	DEGRADATION
+T50	Environment 2157 2162	water
+T51	Property 2194 2205	autoclaving
+T52	Nutrient 2078 2084	K2HPO4
+T53	Nutrient 2107 2111	KNO3
+T54	Substrate 2228 2241	Bay crude oil
+T55	Substrate 2232 2241	crude oil
+T56	Substrate 2228 2241	Bay crude oil
+T57	Substrate 2238 2241	oil
+T58	ReactionOrProcess 2273 2282	incubated
+T59	Microbes 2348 2366	enrichment culture
+T60	Substrate 2454 2457	oil
+T61	ReactionOrProcess 2348 2358	enrichment
+R2	CarriedOn Arg1:T61 Arg2:T60
+T62	Microbes 2512 2520	inoculum
+T63	Substrate 2580 2589	carbazole
+T64	Microbes 2600 2618	enrichment culture
+T65	Substrate 2719 2728	carbazole
+T66	Property 2736 2754	sole carbon source
+T67	ReactionOrProcess 2600 2610	enrichment
+T68	ReactionOrProcess 2623 2632	incubated
+T69	Nutrient 2741 2747	carbon
+R3	CarriedOn Arg1:T67 Arg2:T65
+R4	CarriedOn Arg1:T68 Arg2:T65
+T70	Microbes 2760 2786	carbazole-enriched culture
+T71	Microbes 2809 2817	inoculum
+T72	Property 2760 2778	carbazole-enriched
+T73	ReactionOrProcess 2836 2850	biodegradation
+T74	Substrate 2970 2992	Norman Wells crude oil
+T75	Substrate 2977 2992	Wells crude oil
+T76	Substrate 2983 2992	crude oil
+T77	Substrate 2989 2992	oil
+T78	Substrate 3082 3085	oil
+T79	Property 3073 3081	residual
+T80	ReactionOrProcess 3106 3115	extracted
+T81	ReactionOrProcess 3017 3027	incubation
+R5	CarriedOn Arg1:T81 Arg2:T78
+T82	Substrate 3163 3185	Norman Wells crude oil
+T83	Substrate 3170 3185	Wells crude oil
+T84	Substrate 3176 3185	crude oil
+T85	Substrate 3182 3185	oil
+T86	ReactionOrProcess 3242 3251	extracted
+T87	ReactionOrProcess 3228 3237	incubated
+T88	ReactionOrProcess 3306 3320	volatilization
+T89	Substrate 3488 3510	Norman Wells crude oil
+T90	Substrate 3495 3510	Wells crude oil
+T91	Substrate 3463 3484	nitrogen heterocycles
+T92	Substrate 3501 3510	crude oil
+T93	Substrate 3405 3414	carbazole
+T94	Substrate 3507 3510	oil
+T95	ReactionOrProcess 3451 3458	degrade
+T96	Nutrient 3463 3471	nitrogen
+T97	Substrate 3607 3610	oil
+T98	Substrate 3683 3686	oil
+T99	Property 3674 3682	residual
+T100	ReactionOrProcess 3691 3700	extracted
+T101	ReactionOrProcess 3623 3632	incubated
+R6	CarriedOn Arg1:T101 Arg2:T98
+T102	Substrate 3758 3761	oil
+T103	ReactionOrProcess 3715 3725	Extraction
+T104	ReactionOrProcess 3727 3740	fractionation
+R7	CarriedOn Arg1:T103 Arg2:T102
+R8	CarriedOn Arg1:T104 Arg2:T102

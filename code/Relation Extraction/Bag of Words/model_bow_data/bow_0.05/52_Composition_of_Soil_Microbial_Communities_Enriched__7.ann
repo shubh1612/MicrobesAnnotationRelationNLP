@@ -1,0 +1,41 @@
+T1	ReactionOrProcess 77 87	Enrichment
+T2	Environment 344 349	soils
+T3	Environment 395 400	soils
+T4	Substrate 361 368	toluene
+T5	Environment 434 438	soil
+T6	Environment 434 450	soil environment
+T7	Microbes 639 655	γ-proteobacteria
+T8	Substrate 549 570	aromatic hydrocarbons
+T9	Substrate 549 570	aromatic hydrocarbons
+T10	Substrate 558 570	hydrocarbons
+T11	Substrate 558 570	hydrocarbons
+T12	Property 549 557	aromatic
+T13	ReactionOrProcess 541 548	degrade
+R1	CarriedOn Arg1:T13 Arg2:T7
+T14	Microbes 715 731	α-proteobacteria
+T15	Microbes 803 817	actinobacteria
+T16	ReactionOrProcess 927 931	RSGP
+T17	ReactionOrProcess 1107 1120	hybridization
+T18	Microbes 1403 1422	enrichment cultures
+T19	ReactionOrProcess 1403 1413	enrichment
+T20	Environment 1712 1732	uncontaminated soils
+T21	Environment 1727 1732	soils
+T22	Environment 1712 1732	uncontaminated soils
+T23	ReactionOrProcess 1678 1689	enrichments
+T24	ReactionOrProcess 1648 1652	RSGP
+T25	Microbes 1868 1884	γ-proteobacteria
+T26	Property 2154 2167	concentration
+T27	Environment 2441 2445	soil
+T28	ReactionOrProcess 2455 2465	enrichment
+T29	Substrate 2515 2523	ethylene
+T30	Property 2657 2671	concentrations
+T31	Substrate 2873 2885	hydrocarbons
+T32	Substrate 2792 2800	ethylene
+T33	Substrate 2873 2885	hydrocarbons
+T34	ReactionOrProcess 2856 2863	degrade
+T35	Substrate 3002 3009	Benzene
+T36	Substrate 3011 3018	toluene
+T37	Substrate 3024 3030	xylene
+T38	Substrate 3089 3093	BTEX
+T39	ReactionOrProcess 3062 3073	Degradation
+R2	CarriedOn Arg1:T39 Arg2:T38

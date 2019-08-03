@@ -1,0 +1,92 @@
+T1 Substrate 124 145 aromatic hydrocarbons
+T2 Environment 288 293 soils
+T3 Environment 322 327 water
+T4 Substrate 231 238 benzene
+T5 Substrate 329 332 TPH
+T6 ReactionOrProcess 213 227 mineralisation
+T7 Environment 430 434 soil
+T8 Environment 406 411 water
+T9 Property 412 422 saturation
+T10 Nutrient 470 476 oxygen
+T11 Environment 604 609 water
+T12 Environment 564 575 vadose zone
+T13 Property 540 548 aromatic
+T14 ReactionOrProcess 525 536 remediation
+T15 Environment 728 732 soil
+T16 Substrate 734 737 TPH
+T17 Property 710 720 saturation
+T18 Environment 819 855 hydrocarbon-contaminated groundwater
+T19 Environment 881 885 soil
+T20 Substrate 886 911 gas aromatic hydrocarbons
+T21 ReactionOrProcess 865 877 accumulation
+T22 Substrate 1034 1041 benzene
+T23 Environment 1186 1210 contaminated groundwater
+T24 Environment 1167 1171 soil
+T25 Environment 1239 1243 soil
+T26 Environment 1351 1362 vadose zone
+T27 Substrate 1140 1151 hydrocarbon
+T28 ReactionOrProcess 1125 1136 remediation
+T29 ReactionOrProcess 1294 1308 biodegradation
+T30 Environment 1403 1414 groundwater
+T31 Environment 1543 1554 vadose zone
+T32 Environment 1528 1535 aquifer
+T33 Substrate 1392 1399 benzene
+T34 Substrate 1499 1520 aromatic hydrocarbons
+T35 ReactionOrProcess 1426 1437 remediation
+T36 Environment 1663 1671 aquifers
+T37 Environment 1705 1716 groundwater
+T38 Environment 1811 1816 plume
+T39 Substrate 1690 1697 benzene
+T40 Substrate 1803 1810 benzene
+T41 Substrate 1788 1795 nitrate
+T42 ReactionOrProcess 1848 1859 remediation
+T43 Nutrient 1778 1784 oxygen
+T44 Environment 1931 1958 sulfate-reducing conditions
+T45 Environment 1967 1975 aquifers
+T46 Substrate 1892 1899 benzene
+T47 ReactionOrProcess 1900 1914 mineralisation
+T48 Substrate 2017 2038 aromatic hydrocarbons
+T49 Property 2326 2336 pollutants
+T50 ReactionOrProcess 2086 2100 mineralisation
+T51 ReactionOrProcess 2304 2318 mineralisation
+T52 Environment 2512 2548 hydrocarbon-contaminated groundwater
+T53 Environment 2619 2624 plume
+T54 Environment 2594 2618 contaminated groundwater
+T55 Environment 2493 2497 soil
+T56 Microbes 2783 2800 Desulfosporosinus
+T57 Environment 2817 2828 groundwater
+T58 Environment 3127 3139 groundwaters
+R1 CarriedOn Arg1:T6 Arg2:T4
+R2 CarriedOn Arg1:T6 Arg2:T5
+R3 OccursIn Arg1:T6 Arg2:T2
+R4 OccursIn Arg1:T6 Arg2:T3
+R5 OccursIn Arg1:T14 Arg2:T11
+R6 OccursIn Arg1:T14 Arg2:T12
+R7 CarriedOn Arg1:T21 Arg2:T20
+R8 OccursIn Arg1:T21 Arg2:T18
+R9 OccursIn Arg1:T21 Arg2:T19
+R10 CarriedOn Arg1:T28 Arg2:T27
+R11 CarriedOn Arg1:T29 Arg2:T27
+R12 OccursIn Arg1:T28 Arg2:T23
+R13 OccursIn Arg1:T28 Arg2:T24
+R14 OccursIn Arg1:T28 Arg2:T25
+R15 OccursIn Arg1:T28 Arg2:T26
+R16 OccursIn Arg1:T29 Arg2:T23
+R17 OccursIn Arg1:T29 Arg2:T24
+R18 OccursIn Arg1:T29 Arg2:T25
+R19 OccursIn Arg1:T29 Arg2:T26
+R20 CarriedOn Arg1:T35 Arg2:T33
+R21 CarriedOn Arg1:T35 Arg2:T34
+R22 OccursIn Arg1:T35 Arg2:T30
+R23 OccursIn Arg1:T35 Arg2:T31
+R24 OccursIn Arg1:T35 Arg2:T32
+R25 CarriedOn Arg1:T42 Arg2:T39
+R26 CarriedOn Arg1:T42 Arg2:T40
+R27 CarriedOn Arg1:T42 Arg2:T41
+R28 OccursIn Arg1:T42 Arg2:T37
+R29 OccursIn Arg1:T42 Arg2:T38
+R30 CarriedOn Arg1:T47 Arg2:T46
+R31 OccursIn Arg1:T47 Arg2:T44
+R32 OccursIn Arg1:T47 Arg2:T45
+R33 CarriedOn Arg1:T50 Arg2:T48
+R34 CarriedOn Arg1:T51 Arg2:T48

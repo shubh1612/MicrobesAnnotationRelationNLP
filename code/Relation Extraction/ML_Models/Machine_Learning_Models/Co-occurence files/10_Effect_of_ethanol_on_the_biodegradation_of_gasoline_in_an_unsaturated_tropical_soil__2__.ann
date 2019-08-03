@@ -1,0 +1,87 @@
+T1	Environment 44 56	metropolitan
+T2	Environment 23 36	residual soil
+T3	Environment 151 165	tropical soils
+T4	Environment 207 212	soils
+T5	Substrate 131 147	blended gasoline
+T6	ReactionOrProcess 113 127	biodegradation
+T7	Environment 214 228	Residual soils
+T8	Environment 361 378	sedimentary soils
+T9	ReactionOrProcess 475 487	biodegrading
+T10	ReactionOrProcess 797 809	biodegrading
+T11	ReactionOrProcess 583 597	biodegradation
+T12	Substrate 1006 1026	xenobiotic compounds
+T13	ReactionOrProcess 917 926	degrading
+T14	ReactionOrProcess 988 1002	biodegradation
+T15	ReactionOrProcess 1268 1282	biodegradation
+T16	Environment 1567 1593	unsaturated tropical soils
+T17	Substrate 1539 1563	ethanol-blended gasoline
+T18	ReactionOrProcess 1504 1526	aerobic biodegradation
+T19	Environment 1775 1787	natural soil
+T20	Environment 1832 1836	soil
+T21	Environment 1730 1736	porous
+T22	Property 1717 1722	inert
+T23	Environment 2047 2072	unsaturated tropical soil
+T24	Substrate 1964 1971	ethanol
+T25	Substrate 2025 2033	gasoline
+T26	ReactionOrProcess 1993 2002	retention
+T27	ReactionOrProcess 2007 2021	biodegradation
+T28	ReactionOrProcess 1885 1899	Biodegradation
+T29	Environment 2141 2151	microcosms
+T30	Environment 2121 2137	undisturbed soil
+T31	Environment 2249 2258	microcosm
+T32	Environment 2522 2542	south-eastern Brazil
+T33	Environment 2485 2497	metropolitan
+T34	Environment 2444 2448	soil
+T35	Environment 2435 2439	Soil
+T36	Environment 2560 2576	unsaturated soil
+T37	Environment 2865 2869	soil
+T38	Environment 2710 2723	residual soil
+T39	ReactionOrProcess 2619 2629	weathering
+T40	Environment 3004 3008	soil
+T41	Property 3056 3061	sandy
+T42	ReactionOrProcess 3034 3044	weathering
+T43	Environment 3187 3197	silty sand
+T44	Environment 3361 3366	water
+T45	Environment 3450 3455	water
+T46	Environment 3334 3351	well-drained soil
+T47	ReactionOrProcess 3576 3588	fluctuations
+T48	Microbes 3677 3712	heterotrophic bacterial populations
+T49	Environment 3653 3657	soil
+T50	Substrate 3764 3783	culturable gasoline
+T51	Substrate 3671 3690	total heterotrophic
+T52	Property 3784 3793	degraders
+T53	ReactionOrProcess 3718 3727	degrading
+T54	Environment 3872 3876	soil
+T55	Property 3944 3949	sandy
+T56	Nutrient 3917 3923	carbon
+T57	Environment 4121 4149	Structured soil cubic blocks
+R1	CarriedOn Arg1:T6 Arg2:T5
+R2	OccursIn Arg1:T6 Arg2:T3
+R3	OccursIn Arg1:T6 Arg2:T4
+R4	OccursIn Arg1:T9 Arg2:T7
+R5	OccursIn Arg1:T9 Arg2:T8
+R6	CarriedOn Arg1:T13 Arg2:T12
+R7	CarriedOn Arg1:T14 Arg2:T12
+R8	CarriedOn Arg1:T18 Arg2:T17
+R9	OccursIn Arg1:T18 Arg2:T16
+R10	CarriedOn Arg1:T26 Arg2:T24
+R11	CarriedOn Arg1:T26 Arg2:T25
+R12	CarriedOn Arg1:T27 Arg2:T24
+R13	CarriedOn Arg1:T27 Arg2:T25
+R14	CarriedOn Arg1:T28 Arg2:T24
+R15	CarriedOn Arg1:T28 Arg2:T25
+R16	OccursIn Arg1:T26 Arg2:T23
+R17	OccursIn Arg1:T27 Arg2:T23
+R18	OccursIn Arg1:T28 Arg2:T23
+R19	OccursIn Arg1:T39 Arg2:T36
+R20	OccursIn Arg1:T39 Arg2:T37
+R21	OccursIn Arg1:T39 Arg2:T38
+R22	OccursIn Arg1:T42 Arg2:T40
+R23	FoundIn Arg1:T48 Arg2:T49
+R24	Of Arg1:T48 Arg2:T52
+R25	ActOn Arg1:T48 Arg2:T50
+R26	ActOn Arg1:T48 Arg2:T51
+R27	CarriedOn Arg1:T53 Arg2:T48
+R28	CarriedOn Arg1:T53 Arg2:T50
+R29	CarriedOn Arg1:T53 Arg2:T51
+R30	OccursIn Arg1:T53 Arg2:T49

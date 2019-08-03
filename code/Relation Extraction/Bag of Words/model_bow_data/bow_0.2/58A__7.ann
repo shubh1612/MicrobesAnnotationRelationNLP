@@ -1,0 +1,57 @@
+T1	Substrate 176 196	aromatic hydrocarbon
+T2	Substrate 185 196	hydrocarbon
+T3	Property 176 184	aromatic
+T4	ReactionOrProcess 234 248	biodegradation
+T5	Environment 348 353	soils
+T6	ReactionOrProcess 331 342	incubations
+T7	Microbes 569 580	Alcaligenes
+T8	ReactionOrProcess 532 543	biodegraded
+T9	Microbes 806 825	enrichment cultures
+T10	Substrate 742 763	aromatic hydrocarbons
+T11	Substrate 742 763	aromatic hydrocarbons
+T12	Substrate 751 763	hydrocarbons
+T13	Substrate 714 721	phenols
+T14	Substrate 751 763	hydrocarbons
+T15	Property 742 750	aromatic
+T16	ReactionOrProcess 779 787	degraded
+T17	ReactionOrProcess 806 816	enrichment
+T18	Environment 911 921	wastewater
+T19	Environment 903 921	complex wastewater
+T20	Substrate 990 997	phenols
+T21	Substrate 1057 1064	phenols
+T22	Environment 1230 1242	aerobic soil
+T23	Environment 1238 1242	soil
+T24	ReactionOrProcess 1243 1257	bioremediation
+T25	ReactionOrProcess 1158 1177	poor biodegradation
+T26	ReactionOrProcess 1163 1177	biodegradation
+T27	ReactionOrProcess 1403 1418	bioaugmentation
+T28	ReactionOrProcess 1442 1451	degrading
+T29	Environment 1653 1663	wastewater
+T30	Environment 1645 1663	aerobic wastewater
+T31	Substrate 1911 1932	aromatic hydrocarbons
+T32	Substrate 1911 1932	aromatic hydrocarbons
+T33	Substrate 1920 1932	hydrocarbons
+T34	Substrate 1920 1932	hydrocarbons
+T35	Property 1911 1919	aromatic
+T36	Microbes 2145 2164	enrichment cultures
+T37	ReactionOrProcess 2145 2155	enrichment
+T38	Substrate 2566 2587	aromatic hydrocarbons
+T39	Substrate 2566 2587	aromatic hydrocarbons
+T40	Substrate 2575 2587	hydrocarbons
+T41	Substrate 2575 2587	hydrocarbons
+T42	Property 2566 2574	aromatic
+T43	ReactionOrProcess 2611 2625	mineralization
+T44	ReactionOrProcess 2722 2735	anaerobically
+T45	Substrate 2808 2820	hydrocarbons
+T46	Substrate 2850 2857	phenols
+T47	Substrate 2935 2942	phenols
+T48	Substrate 2808 2820	hydrocarbons
+T49	Microbes 3145 3177	anaerobic methanogenic consortia
+T50	Environment 3213 3222	sediments
+T51	Environment 3198 3202	lake
+T52	Environment 3189 3196	aquifer
+T53	Property 3155 3167	methanogenic
+T54	Property 3155 3167	methanogenic
+T55	Environment 3281 3285	soil
+T56	ReactionOrProcess 3257 3270	anaerobically
+T57	ReactionOrProcess 3271 3280	incubated

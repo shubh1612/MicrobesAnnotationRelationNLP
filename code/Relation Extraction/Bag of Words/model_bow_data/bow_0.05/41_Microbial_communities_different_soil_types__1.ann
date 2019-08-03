@@ -1,0 +1,78 @@
+T1	Environment 37 42	soils
+T2	Environment 27 42	different soils
+T3	Substrate 61 67	diesel
+T4	ReactionOrProcess 72 86	bioremediation
+T5	ReactionOrProcess 149 163	bioremediation
+T6	Substrate 472 495	phospholipid fatty acid
+T7	Property 303 321	sole carbon source
+T8	ReactionOrProcess 322 333	utilization
+T9	Nutrient 308 314	carbon
+R1	CarriedOn Arg1:T8 Arg2:T6
+T10	Environment 760 773	control soils
+T11	Environment 633 637	soil
+T12	Environment 768 773	soils
+T13	Substrate 612 618	diesel
+T14	Property 688 706	sole carbon source
+T15	ReactionOrProcess 732 736	PLFA
+T16	ReactionOrProcess 707 718	utilization
+T17	Nutrient 693 699	carbon
+T18	Environment 956 960	soil
+T19	Environment 844 849	soils
+T20	ReactionOrProcess 856 860	PLFA
+T21	Property 1074 1092	sole carbon source
+T22	ReactionOrProcess 1207 1211	PLFA
+T23	ReactionOrProcess 1093 1104	utilization
+T24	Nutrient 1079 1085	carbon
+T25	Nutrient 1154 1160	carbon
+T26	Nutrient 1253 1259	carbon
+T27	Environment 1421 1426	soils
+T28	Environment 1411 1426	different soils
+T29	Substrate 1482 1494	hydrocarbons
+T30	Substrate 1482 1494	hydrocarbons
+T31	ReactionOrProcess 1474 1481	degrade
+T32	Environment 1713 1735	oil-contaminated soils
+T33	Environment 1713 1735	oil-contaminated soils
+T34	Environment 1730 1735	soils
+T35	Environment 1847 1864	contaminated site
+T36	Environment 1754 1758	soil
+T37	Substrate 1762 1765	oil
+T38	Environment 2013 2031	oil-polluted soils
+T39	Environment 2013 2031	oil-polluted soils
+T40	Environment 2026 2031	soils
+T41	Substrate 1921 1933	hydrocarbons
+T42	Substrate 1921 1933	hydrocarbons
+T43	ReactionOrProcess 1890 1904	Bioremediation
+T44	ReactionOrProcess 1952 1963	degradation
+T45	ReactionOrProcess 1942 1963	microbial degradation
+R2	CarriedOn Arg1:T43 Arg2:T41
+R3	CarriedOn Arg1:T43 Arg2:T42
+T46	Substrate 2136 2147	hydrocarbon
+T47	Property 2164 2186	stimulating the growth
+T48	ReactionOrProcess 2392 2406	biodegradation
+T49	Substrate 2541 2544	oil
+T50	Environment 2658 2662	soil
+T51	Substrate 2598 2601	oil
+T52	Environment 2900 2904	soil
+T53	Environment 2900 2916	soil environment
+T54	Substrate 2768 2780	hydrocarbons
+T55	Substrate 2826 2837	hydrocarbon
+T56	Substrate 2768 2780	hydrocarbons
+T57	Substrate 2813 2837	fast-growing hydrocarbon
+T58	Property 2838 2847	degraders
+T59	Environment 3088 3092	soil
+T60	Environment 3173 3182	microcosm
+T61	Environment 3281 3292	single soil
+T62	Environment 3236 3240	soil
+T63	Environment 3288 3292	soil
+T64	Substrate 3215 3218	oil
+T65	Environment 3425 3429	soil
+T66	Substrate 3382 3393	hydrocarbon
+T67	Environment 3536 3547	arable soil
+T68	Environment 3495 3499	soil
+T69	Environment 3596 3600	soil
+T70	Environment 3543 3547	soil
+T71	Substrate 3620 3623	oil
+T72	Environment 3792 3796	soil
+T73	Substrate 3705 3708	oil
+T74	Property 3734 3742	toxicity
+T75	Property 3734 3742	toxicity

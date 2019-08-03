@@ -1,0 +1,61 @@
+T1	Environment 25 29	soil
+T2	ReactionOrProcess 120 135	rRNA approaches
+T3	ReactionOrProcess 156 163	cloning
+T4	Microbes 267 281	Actinobacteria
+T5	Microbes 376 390	Actinobacteria
+T6	Microbes 246 262	α-Proteobacteria
+T7	Environment 337 360	metal-contaminated soil
+T8	ReactionOrProcess 490 504	detoxification
+T9	ReactionOrProcess 581 601	metal bioremediation
+T10	Microbes 750 768	Ralstonia eutropha
+T11	Property 813 828	metallothionein
+T12	Microbes 950 959	Ralstonia
+T13	Environment 913 917	soil
+T14	Property 988 993	toxic
+T15	ReactionOrProcess 884 895	inoculation
+T16	Nutrient 899 902	Cd2
+T17	Microbes 1070 1089	Microbial consortia
+T18	Environment 1102 1112	wastewater
+T19	Substrate 1343 1349	phenol
+T20	ReactionOrProcess 1350 1364	bioremediation
+T21	Environment 1713 1738	pharmaceutical wastewater
+T22	ReactionOrProcess 1784 1788	DGGE	
+T23	ReactionOrProcess 1808 1815	cloning
+T24	Environment 2310 2320	wastewater
+T25	ReactionOrProcess 2073 2086	hybridization
+T26	ReactionOrProcess 2064 2071	cloning
+T27	Nutrient 2396 2406	phosphorus
+T28	Nutrient 2563 2573	phosphorus
+T29	Property 2775 2786	Temperature	
+T30	ReactionOrProcess 2800 2815	electrophoresis
+T31	Substrate 3086 3092	phenol
+T32	Substrate 3237 3243	phenol
+T33	Microbes 3378 3397	microbial consortia
+T34	ReactionOrProcess 3402 3416	bioremediation
+T35	ReactionOrProcess 3557 3571	bioremediation
+T36	ReactionOrProcess 3418 3433	Bioaugmentation	
+T37	Property 3680 3689	pollutant
+T38	ReactionOrProcess 3690 3701	degradation
+T39	Environment 4174 4222	2,4-dichlorophenoxyacetic-acid-contaminated soil
+T40	Substrate 4140 4158	methylated phenols
+T41	ReactionOrProcess 3884 3899	bioaugmentation
+T42	ReactionOrProcess 3797 3801	DGGE	
+T43	Substrate 4255 4287	assays targeting catabolic genes
+T44	ReactionOrProcess 4251 4254	PCR
+T45	Environment 4514 4518	soil
+T46	Property 4732 4742	pollutants
+T47	ReactionOrProcess 4786 4796	inoculated
+T48	ReactionOrProcess 4588 4603	bioaugmentation
+T49	ReactionOrProcess 4718 4727	degrading
+T50	ReactionOrProcess 4830 4844	Bioremediation
+T51	ReactionOrProcess 4919 4933	bioremediation
+T52	Property 5032 5051	pollutant-degrading
+T53	ReactionOrProcess 5160 5174	bioremediation
+T54	Property 5336 5346	pollutants
+R6	Of Arg1:T10 Arg2:T11
+R7	FoundIn Arg1:T12 Arg2:T13
+R10	OccursIn Arg1:T15 Arg2:T13
+R11	FoundIn Arg1:T17 Arg2:T18
+R12	CarriedOn Arg1:T20 Arg2:T19
+R15	CarriedOn Arg1:T34 Arg2:T33
+R20	CarriedOn Arg1:T44 Arg2:T43

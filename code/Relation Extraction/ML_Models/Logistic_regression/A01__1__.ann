@@ -1,0 +1,76 @@
+T1	Environment 62 71	sediments
+T2	Environment 186 204	deep-sea sediments
+T3	Environment 154 164	subsurface
+T4	Environment 147 153	Marine
+T5	Substrate 128 131	oil
+T6	Substrate 389 407	numerous petroleum
+T7	ReactionOrProcess 371 385	mineralization
+T8	Substrate 538 547	crude oil
+T9	Substrate 588 591	oil
+T10	ReactionOrProcess 510 534	intrinsic bioremediation
+T11	Environment 777 795	deep-sea sediments
+T12	Substrate 605 616	hydrocarbon
+T13	Nutrient 807 813	oxygen
+T14	Environment 932 948	altered sediment
+T15	Substrate 897 908	hydrocarbon
+T16	ReactionOrProcess 1011 1029	oil biodegradation
+T17	Environment 1145 1162	deep-sea sediment
+T18	Substrate 1189 1192	oil
+T19	Microbes 1341 1360	Deltaproteobacteria
+T20	Environment 1406 1415	sediments
+T21	Environment 1528 1537	sediments
+T22	Substrate 1687 1702	alkylsuccinates
+T23	Nutrient 1786 1792	carbon
+T24	Microbes 1914 1933	Deltaproteobacteria
+T25	Substrate 1968 1989	anaerobic hydrocarbon
+T26	Substrate 1888 1900	hydrocarbons
+T27	Environment 2099 2117	deep-sea sediments
+T28	Substrate 2051 2095	community metabolizing aromatic hydrocarbons
+T29	Substrate 2201 2214	marine US oil
+T30	Substrate 2262 2271	crude oil
+T31	Substrate 2393 2396	oil
+T32	Environment 2685 2690	water
+T33	Substrate 2577 2580	oil
+T34	Substrate 2800 2821	residual hydrocarbons
+T35	ReactionOrProcess 2782 2796	biodegradation
+T36	Environment 2921 2939	deep-sea sediments
+T37	Substrate 2862 2888	anthropogenic hydrocarbons
+T38	Environment 3158 3176	deep-sea sediments
+T39	Environment 2980 2998	sub-sea oil spills
+T40	Substrate 2962 2974	hydrocarbons
+T41	Substrate 3095 3107	hydrocarbons
+T42	Substrate 3080 3083	oil
+T43	Property 3052 3065	water-soluble
+T44	Environment 3375 3378	sea
+T45	Substrate 3217 3220	oil
+T46	Substrate 3280 3283	oil
+T47	Substrate 3348 3351	oil
+T48	Environment 3448 3466	deep-sea sediments
+T49	Environment 3632 3657	deep-subsurface sediments
+T50	Environment 3911 3929	surficial sediment
+T51	Environment 4010 4027	deep-sea sediment
+T52	Substrate 4194 4216	cold water hydrocarbon
+T53	ReactionOrProcess 4129 4152	hydrocarbon degradation
+T54	Environment 4402 4426	Mexico deep-sea sediment
+T55	Substrate 4470 4484	persistent oil
+T56	ReactionOrProcess 4452 4466	biodegradation
+T57	Environment 4822 4839	deep-sea sediment
+T58	Substrate 4613 4624	hydrocarbon
+T59	Substrate 4957 4968	hydrocarbon
+T60	Substrate 4681 4700	natural hydrocarbon
+T61	Environment 5078 5095	deep-sea sediment
+T62	Substrate 5067 5070	oil
+T63	Substrate 5224 5227	oil
+T64	Substrate 5535 5556	aromatic hydrocarbons
+T65	Substrate 5381 5413	polycyclic aromatic hydrocarbons
+T66	Substrate 5689 5692	PAH
+T67	Substrate 5653 5656	oil
+T68	Substrate 6049 6058	petroleum
+T69	Substrate 5879 5890	hydrocarbon
+T70	Environment 6225 6256	Mexico deep-subsurface sediment
+T71	Environment 6125 6142	deep-sea sediment
+T72	Substrate 6304 6307	oil
+T73	ReactionOrProcess 6484 6520	anaerobic hydrocarbon biodegradation
+R1	FoundIn Arg1:T19 Arg2:T20
+R2	ActOn Arg1:T24 Arg2:T25
+R3	ActOn Arg1:T24 Arg2:T26

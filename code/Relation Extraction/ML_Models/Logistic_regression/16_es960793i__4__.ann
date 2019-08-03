@@ -1,0 +1,50 @@
+T1	Substrate 205 226	Aromatic Hydrocarbons
+T2	Environment 352 356	soil
+T3	Substrate 280 283	PAH
+T4	Substrate 321 339	methylene chloride
+T5	ReactionOrProcess 306 316	sonication
+T6	ReactionOrProcess 290 299	extracted
+T7	Environment 598 602	soil
+T8	Substrate 629 637	methanol
+T9	Substrate 498 502	BTEX
+T10	Property 472 480	Volatile
+T11	ReactionOrProcess 700 710	extraction
+T12	Environment 923 927	soil
+T13	Substrate 1107 1110	TPH
+T14	Substrate 1150 1162	cyclopentane
+T15	Substrate 1095 1105	whole oils
+T16	Property 1048 1056	saturate
+T17	Property 1058 1066	aromatic
+T18	Property 1218 1227	saturates
+T19	Property 1229 1238	aromatics
+T20	Property 1455 1462	residue
+T21	Substrate 1468 1479	Hydrocarbon
+T22	Environment 1703 1727	bioremediated oily soils
+T23	Substrate 1654 1672	methylene chloride
+T24	Substrate 1607 1619	hydrocarbons
+T25	ReactionOrProcess 1544 1563	gas chromatographic
+T26	Nutrient 1623 1629	carbon
+T27	Substrate 1782 1793	Hydrocarbon
+T28	Property 1819 1828	aromatics
+T29	ReactionOrProcess 1920 1929	retention
+T30	Nutrient 1940 1946	carbon
+T31	Environment 2113 2122	oily soil
+T32	Substrate 2065 2091	water-soluble hydrocarbons
+T33	ReactionOrProcess 2190 2200	extraction
+T34	ReactionOrProcess 2140 2154	bioremediation
+T35	Environment 2237 2241	soil
+T36	ReactionOrProcess 2259 2268	extracted
+T37	Environment 2543 2547	soil
+T38	Substrate 2504 2524	soluble hydrocarbons
+T39	ReactionOrProcess 2482 2496	biodegradation
+T40	Environment 2549 2553	Soil
+T41	Substrate 2658 2662	BTEX
+T42	Substrate 2653 2656	TPH
+T43	ReactionOrProcess 2710 2720	extraction
+T44	ReactionOrProcess 2769 2779	Extraction
+T45	Environment 2843 2847	soil
+T46	Environment 2926 2930	sand
+T47	Environment 3198 3202	soil
+T48	Environment 3165 3170	water
+T49	Substrate 3266 3270	BTEX
+T50	Substrate 3261 3264	TPH

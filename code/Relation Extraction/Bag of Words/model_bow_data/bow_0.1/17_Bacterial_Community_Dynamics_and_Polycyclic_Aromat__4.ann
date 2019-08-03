@@ -1,0 +1,122 @@
+T1	Environment 64 100	biodegradation.The contaminated soil
+T2	Environment 96 100	soil
+T3	Environment 83 100	contaminated soil
+T4	Substrate 32 63	polycyclic aromatic hydrocarbon
+T5	Substrate 6 15	petroleum
+T6	Substrate 43 63	aromatic hydrocarbon
+T7	Substrate 0 27	Total petroleum hydrocarbon
+T8	Substrate 120 123	TPH
+T9	Substrate 16 27	hydrocarbon
+T10	Substrate 52 63	hydrocarbon
+T11	Property 32 42	polycyclic
+T12	Property 124 137	concentration
+T13	Property 43 51	aromatic
+T14	ReactionOrProcess 52 78	hydrocarbon biodegradation
+T15	ReactionOrProcess 64 78	biodegradation
+T16	Substrate 292 303	naphthalene
+T17	Substrate 255 266	naphthalene
+T18	Substrate 198 216	aromatic compounds
+T19	Substrate 235 241	phenol
+T20	Substrate 198 216	aromatic compounds
+T21	Property 198 206	aromatic
+T22	Environment 506 510	soil
+T23	Substrate 438 442	PAHs
+T24	Substrate 447 450	TPH
+T25	ReactionOrProcess 463 474	evaporation
+T26	ReactionOrProcess 482 496	biodegradation
+T27	Substrate 521 524	PAH
+T28	Substrate 521 525	PAHs
+T29	Property 596 610	concentrations
+T30	Substrate 696 699	TPH
+T31	Substrate 763 766	TPH
+T32	Environment 886 900	untreated soil
+T33	Environment 896 900	soil
+T34	Environment 1009 1013	soil
+T35	Environment 998 1013	autoclaved soil
+T36	Substrate 819 822	TPH
+T37	Property 823 836	concentration
+T38	Substrate 1076 1080	PAHs
+T39	Environment 1099 1107	dry soil
+T40	Environment 1103 1107	soil
+T41	Substrate 1169 1180	hydrocarbon
+T42	ReactionOrProcess 1169 1195	hydrocarbon biodegradation
+T43	ReactionOrProcess 1181 1195	biodegradation
+T44	Substrate 1325 1328	TPH
+T45	ReactionOrProcess 1329 1343	biodegradation
+T46	Substrate 1501 1504	TPH
+T47	ReactionOrProcess 1505 1514	depletion
+T48	ReactionOrProcess 1416 1430	Biostimulation
+T49	Substrate 1654 1658	PAHs
+T50	Substrate 1639 1642	TPH
+T51	Substrate 1669 1672	TPH
+T52	Substrate 1832 1835	TPH
+T53	Property 1836 1849	concentration
+T54	ReactionOrProcess 1669 1684	TPH degradation
+T55	ReactionOrProcess 1660 1684	biphasic TPH degradation
+T56	ReactionOrProcess 1673 1684	degradation
+T57	ReactionOrProcess 1621 1635	biodegradation
+R1	CarriedOn Arg1:T57 Arg2:T49
+R2	CarriedOn Arg1:T57 Arg2:T50
+R3	CarriedOn Arg1:T57 Arg2:T51
+R4	CarriedOn Arg1:T57 Arg2:T52
+T58	ReactionOrProcess 2081 2091	incubation
+T59	ReactionOrProcess 2159 2169	incubation
+T60	ReactionOrProcess 1906 1917	degradation
+T61	Substrate 2368 2371	TPH
+T62	ReactionOrProcess 2368 2383	TPH degradation
+T63	ReactionOrProcess 2356 2383	first-order TPH degradation
+T64	ReactionOrProcess 2372 2383	degradation
+T65	Environment 2688 2718	hydrocarbon-contaminated soils
+T66	Environment 2713 2718	soils
+T67	Environment 2688 2718	hydrocarbon-contaminated soils
+T68	Property 2688 2712	hydrocarbon-contaminated
+T69	ReactionOrProcess 2670 2684	bioremediation
+T70	Substrate 2749 2753	PAHs
+T71	ReactionOrProcess 2766 2774	degraded
+T72	ReactionOrProcess 2822 2836	biodegradation
+T73	ReactionOrProcess 2959 2973	biodegradation
+T74	Substrate 3075 3085	anthracene
+T75	Substrate 3058 3070	phenanthrene
+T76	ReactionOrProcess 3106 3114	degraded
+T77	Property 3200 3208	residual
+T78	Substrate 3297 3309	fluoranthene
+T79	Substrate 3416 3422	pyrene
+T80	ReactionOrProcess 3372 3398	early-stage biodegradation
+T81	ReactionOrProcess 3270 3284	biodegradation
+T82	ReactionOrProcess 3384 3398	biodegradation
+R5	CarriedOn Arg1:T80 Arg2:T78
+R6	CarriedOn Arg1:T80 Arg2:T79
+R7	CarriedOn Arg1:T81 Arg2:T78
+R8	CarriedOn Arg1:T81 Arg2:T79
+R9	CarriedOn Arg1:T82 Arg2:T78
+R10	CarriedOn Arg1:T82 Arg2:T79
+T83	Substrate 3520 3528	chrysene
+T84	ReactionOrProcess 3574 3588	biostimulation
+T85	ReactionOrProcess 3529 3540	degradation
+T86	ReactionOrProcess 3736 3744	degraded
+T87	ReactionOrProcess 3767 3781	biostimulation
+T88	Substrate 4063 4071	chrysene
+T89	ReactionOrProcess 3889 3914	late-stage biodegradation
+T90	ReactionOrProcess 3900 3914	biodegradation
+T91	ReactionOrProcess 4023 4037	biodegradation
+T92	ReactionOrProcess 4072 4086	biodegradation
+R11	CarriedOn Arg1:T89 Arg2:T88
+R12	CarriedOn Arg1:T90 Arg2:T88
+R13	CarriedOn Arg1:T91 Arg2:T88
+R14	CarriedOn Arg1:T92 Arg2:T88
+T93	ReactionOrProcess 4164 4172	degraded
+T94	Substrate 4204 4207	PAH
+T95	ReactionOrProcess 4204 4222	PAH biodegradation
+T96	ReactionOrProcess 4208 4222	biodegradation
+T97	Microbes 4314 4398	heterotrophic and polycyclic aromatic hydrocarbon-degrading microbial populations.As
+T98	Microbes 4332 4398	polycyclic aromatic hydrocarbon-degrading microbial populations.As
+T99	Microbes 4314 4395	heterotrophic and polycyclic aromatic hydrocarbon-degrading microbial populations
+T100	Microbes 4332 4395	polycyclic aromatic hydrocarbon-degrading microbial populations
+T101	Property 4332 4373	polycyclic aromatic hydrocarbon-degrading
+T102	Property 4314 4327	heterotrophic
+T103	Property 4332 4342	polycyclic
+T104	Property 4343 4351	aromatic
+T105	Microbes 4438 4491	heterotrophic and PAH-degrading microbial populations
+T106	Property 4438 4451	heterotrophic
+T107	ReactionOrProcess 4669 4683	biostimulation
+T108	ReactionOrProcess 4821 4831	incubation

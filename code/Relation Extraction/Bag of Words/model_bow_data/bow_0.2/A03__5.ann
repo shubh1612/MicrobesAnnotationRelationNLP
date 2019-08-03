@@ -1,0 +1,78 @@
+T1	Environment 138 147	sediments
+T2	Substrate 103 107	MTBE
+T3	Property 86 99	concentration
+T4	ReactionOrProcess 190 200	incubation
+T5	Nutrient 245 247	HS
+T6	Environment 381 390	sediments
+T7	Substrate 495 499	MTBE
+T8	Substrate 353 357	MTBE
+T9	ReactionOrProcess 394 404	metabolize
+T10	ReactionOrProcess 500 511	degradation
+T11	Environment 546 555	sediments
+T12	Substrate 534 538	MTBE
+T13	Property 517 530	concentration
+T14	Environment 665 673	sediment
+T15	Environment 655 673	unamended sediment
+T16	Environment 644 673	triplicate unamended sediment
+T17	Environment 782 790	sediment
+T18	Environment 772 790	unamended sediment
+T19	Environment 961 970	sediments
+T20	Environment 997 1006	sediments
+T21	Environment 986 1006	triplicate sediments
+T22	Nutrient 1027 1029	HS
+T23	Environment 1139 1148	sediments
+T24	Environment 1485 1493	sediment
+T25	Environment 1518 1526	Sediment
+T26	Environment 1518 1527	Sediments
+T27	Property 1568 1579	crystalline
+T28	Property 1643 1654	crystalline
+T29	Nutrient 1598 1614	humic substances
+T30	ReactionOrProcess 1807 1818	incubations
+T31	Environment 1907 1915	sediment
+T32	Environment 1940 1948	Sediment
+T33	Environment 1940 1949	Sediments
+T34	Property 1975 1986	crystalline
+T35	ReactionOrProcess 2039 2050	incubations
+T36	Environment 2144 2153	sediments
+T37	Environment 2134 2153	anaerobic sediments
+T38	Environment 2134 2153	anaerobic sediments
+T39	Substrate 2102 2106	MTBE
+T40	Substrate 2111 2114	TBA
+T41	ReactionOrProcess 2122 2130	degraded
+T42	Environment 2221 2230	sediments
+T43	Environment 2213 2220	aquifer
+T44	Substrate 2183 2187	MTBE
+T45	ReactionOrProcess 2164 2174	adaptation
+T46	Nutrient 2324 2326	HS
+T47	Environment 2332 2349	aquatic sediments
+T48	Environment 2340 2349	sediments
+T49	Environment 2332 2339	aquatic
+T50	Environment 2332 2349	aquatic sediments
+T51	Substrate 2387 2391	MTBE
+T52	ReactionOrProcess 2379 2386	degrade
+T53	Environment 2581 2612	petroleum-contaminated aquifers
+T54	Environment 2604 2612	aquifers
+T55	Substrate 2454 2458	MTBE
+T56	Property 2437 2450	concentration
+T57	Property 2514 2528	concentrations
+T58	Environment 2747 2778	petroleum-contaminated aquifers
+T59	Environment 2770 2778	aquifers
+T60	Substrate 2701 2705	MTBE
+T61	ReactionOrProcess 2706 2720	bioremediation
+T62	Substrate 2805 2809	MTBE
+T63	ReactionOrProcess 2790 2801	Degradation
+T64	ReactionOrProcess 2780 2801	Anaerobic Degradation
+R1	CarriedOn Arg1:T63 Arg2:T62
+R2	CarriedOn Arg1:T64 Arg2:T62
+T65	Environment 2895 2912	aquatic sediments
+T66	Environment 2859 2867	sediment
+T67	Environment 2903 2912	sediments
+T68	Environment 2880 2885	soils
+T69	Environment 2895 2902	aquatic
+T70	Environment 2985 3005	anaerobic conditions
+T71	Environment 2851 2858	aquifer
+T72	Environment 2895 2912	aquatic sediments
+T73	Substrate 2831 2835	MTBE
+T74	Substrate 2941 2945	MTBE
+T75	ReactionOrProcess 2961 2969	degraded
+T76	ReactionOrProcess 2836 2847	degradation

@@ -1,0 +1,12 @@
+T1 Environment 322 327 soils
+T2 Environment 417 422 soils
+T3 Substrate 329 340 hydrocarbon
+T4 Microbes 567 582 Actinomycetales
+T5 Substrate 675 697 petroleum hydrocarbons
+T6 ReactionOrProcess 495 499 DGGE
+T7 ReactionOrProcess 657 671 biodegradation
+R1 ActOn Arg1:T4 Arg2:T5
+R2 CarriedOn Arg1:T6 Arg2:T4
+R3 CarriedOn Arg1:T7 Arg2:T4
+R4 CarriedOn Arg1:T6 Arg2:T5
+R5 CarriedOn Arg1:T7 Arg2:T5

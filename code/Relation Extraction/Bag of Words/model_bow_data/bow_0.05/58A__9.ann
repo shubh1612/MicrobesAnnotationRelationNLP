@@ -1,0 +1,35 @@
+T1	Environment 105 114	sediments
+T2	Environment 97 104	aquifer
+T3	Microbes 159 178	enrichment cultures
+T4	Substrate 146 156	Methanogen
+T5	Property 146 158	Methanogenic
+T6	Property 146 158	Methanogenic
+T7	ReactionOrProcess 159 169	enrichment
+T8	Environment 522 526	soil
+T9	ReactionOrProcess 490 501	incubations
+T10	Environment 678 698	anaerobic conditions
+T11	Substrate 604 625	aromatic hydrocarbons
+T12	Substrate 604 625	aromatic hydrocarbons
+T13	Substrate 613 625	hydrocarbons
+T14	Substrate 643 650	phenols
+T15	Substrate 613 625	hydrocarbons
+T16	Property 604 612	aromatic
+T17	ReactionOrProcess 663 674	biodegraded
+T18	Property 954 962	volatile
+T19	ReactionOrProcess 1570 1579	reduction
+T20	ReactionOrProcess 1695 1709	mineralization
+T21	ReactionOrProcess 2157 2182	subsequent mineralization
+T22	ReactionOrProcess 2028 2031	PCR
+T23	ReactionOrProcess 2168 2182	mineralization
+T24	ReactionOrProcess 2010 2024	biodegradation
+T25	ReactionOrProcess 2334 2346	accumulation
+T26	ReactionOrProcess 2305 2316	degradation
+T27	ReactionOrProcess 2297 2316	partial degradation
+T28	ReactionOrProcess 2754 2766	accumulation
+T29	ReactionOrProcess 2740 2748	degraded
+T30	Property 2984 2996	methanogenic
+T31	Property 2984 2996	methanogenic
+T32	ReactionOrProcess 3083 3092	reduction
+T33	ReactionOrProcess 3075 3092	Sulfate reduction
+T34	Environment 3308 3319	wastewaters
+T35	ReactionOrProcess 3497 3505	reducing

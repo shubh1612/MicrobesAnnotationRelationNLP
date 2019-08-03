@@ -1,0 +1,13 @@
+T1	Microbes 241 249	inoculum
+T2	ReactionOrProcess 173 183	incubation
+R1	CarriedOn Arg1:T2 Arg2:T1
+T3	ReactionOrProcess 791 801	replicates
+T4	ReactionOrProcess 732 740	degraded
+T5	Environment 1072 1076	soil
+T6	Substrate 1213 1225	hydrocarbons
+T7	Substrate 1042 1053	Hydrocarbon
+T8	Substrate 1213 1225	hydrocarbons
+T9	Property 1054 1068	concentrations
+T10	Substrate 1325 1336	hydrocarbon
+T11	Property 1896 1907	temperature
+T12	Nutrient 2181 2187	carbon

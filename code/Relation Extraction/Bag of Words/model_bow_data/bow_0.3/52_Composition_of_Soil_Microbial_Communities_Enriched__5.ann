@@ -1,0 +1,102 @@
+T1	ReactionOrProcess 36 47	enrichments
+T2	ReactionOrProcess 88 99	enrichments
+T3	Microbes 329 358	Pseudomonas syringaestrain Q5
+T4	Environment 550 561	soil sample
+T5	Environment 550 554	soil
+T6	Environment 537 554	contaminated soil
+T7	ReactionOrProcess 511 522	enrichments
+T8	ReactionOrProcess 648 658	enrichment
+T9	ReactionOrProcess 682 692	enrichment
+T10	Microbes 814 844	Pseudomonas syringae strain Q5
+T11	Microbes 750 782	Pseudomonas syringae strain LQ20
+T12	Microbes 932 943	Alcaligenes
+T13	Microbes 876 908	Rhodococcus globerulus strain Q6
+T14	Microbes 750 770	Pseudomonas syringae
+T15	Microbes 814 834	Pseudomonas syringae
+T16	ReactionOrProcess 1017 1028	enrichments
+T17	ReactionOrProcess 1074 1085	enrichments
+T18	ReactionOrProcess 1055 1066	degradation
+T19	ReactionOrProcess 985 996	Degradation
+T20	Microbes 1261 1271	consortium
+T21	ReactionOrProcess 1326 1337	aerobically
+T22	ReactionOrProcess 1385 1399	mineralization
+T23	Nutrient 1365 1371	oxygen
+T24	Substrate 1498 1510	hydrocarbons
+T25	Substrate 1498 1510	hydrocarbons
+T26	ReactionOrProcess 1525 1536	enrichments
+T27	ReactionOrProcess 1479 1490	degradation
+R1	CarriedOn Arg1:T27 Arg2:T24
+R2	CarriedOn Arg1:T27 Arg2:T25
+T28	Substrate 1592 1596	DCPD
+T29	ReactionOrProcess 1707 1717	incubation
+T30	Substrate 1719 1723	DCPD
+T31	Substrate 1815 1827	hydrocarbons
+T32	Substrate 1815 1827	hydrocarbons
+T33	Substrate 2084 2088	DCPD
+T34	ReactionOrProcess 2034 2045	degradation
+R3	CarriedOn Arg1:T34 Arg2:T33
+T35	Environment 2207 2211	soil
+T36	Substrate 2112 2119	Benzene
+T37	Substrate 2216 2223	toluene
+T38	ReactionOrProcess 2124 2132	degraded
+T39	ReactionOrProcess 2182 2192	enrichment
+T40	ReactionOrProcess 2159 2170	enrichments
+T41	ReactionOrProcess 2259 2270	enrichments
+T42	ReactionOrProcess 2216 2235	toluene degradation
+T43	ReactionOrProcess 2224 2235	degradation
+T44	ReactionOrProcess 2287 2298	Degradation
+T45	Substrate 2504 2515	naphthalene
+T46	Substrate 2461 2469	m-xylene
+T47	Substrate 2490 2498	m-xylene
+T48	ReactionOrProcess 2399 2410	enrichments
+R4	CarriedOn Arg1:T48 Arg2:T45
+R5	CarriedOn Arg1:T48 Arg2:T46
+R6	CarriedOn Arg1:T48 Arg2:T47
+T49	ReactionOrProcess 2569 2580	degradation
+T50	Environment 2768 2786	contaminated soils
+T51	Environment 2813 2833	uncontaminated soils
+T52	Environment 2781 2786	soils
+T53	Environment 2828 2833	soils
+T54	Environment 2768 2786	contaminated soils
+T55	Environment 2813 2833	uncontaminated soils
+T56	Substrate 2680 2687	benzene
+T57	Substrate 2689 2696	toluene
+T58	Substrate 2711 2722	naphthalene
+T59	Substrate 2698 2705	styrene
+T60	ReactionOrProcess 2751 2762	enrichments
+T61	ReactionOrProcess 2796 2807	enrichments
+T62	ReactionOrProcess 2665 2676	degradation
+R7	CarriedOn Arg1:T62 Arg2:T56
+R8	CarriedOn Arg1:T62 Arg2:T57
+R9	CarriedOn Arg1:T62 Arg2:T58
+R10	CarriedOn Arg1:T62 Arg2:T59
+T63	Environment 3044 3062	contaminated soils
+T64	Environment 3057 3062	soils
+T65	Environment 3044 3062	contaminated soils
+T66	Substrate 2860 2868	m-xylene
+T67	ReactionOrProcess 2901 2912	enrichments
+T68	ReactionOrProcess 3027 3038	enrichments
+T69	ReactionOrProcess 2948 2959	degradation
+T70	ReactionOrProcess 2845 2856	Degradation
+R11	CarriedOn Arg1:T70 Arg2:T66
+T71	Microbes 3159 3178	enrichment cultures
+T72	ReactionOrProcess 3159 3169	enrichment
+T73	Substrate 3301 3308	benzene
+T74	Substrate 3310 3317	toluene
+T75	Substrate 3340 3351	naphthalene
+T76	Substrate 3319 3325	xylene
+T77	Substrate 3327 3334	styrene
+T78	ReactionOrProcess 3227 3238	enrichments
+R12	CarriedOn Arg1:T78 Arg2:T73
+R13	CarriedOn Arg1:T78 Arg2:T74
+R14	CarriedOn Arg1:T78 Arg2:T75
+R15	CarriedOn Arg1:T78 Arg2:T76
+R16	CarriedOn Arg1:T78 Arg2:T77
+T79	Substrate 3531 3538	benzene
+T80	ReactionOrProcess 3516 3526	enrichment
+T81	ReactionOrProcess 3539 3550	degradation
+T82	ReactionOrProcess 3598 3609	degradation
+T83	Microbes 3871 3881	consortium
+T84	ReactionOrProcess 3822 3833	enrichments
+R17	CarriedOn Arg1:T84 Arg2:T83
+T85	ReactionOrProcess 3943 3954	degradation

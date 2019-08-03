@@ -1,0 +1,214 @@
+B87
+Microbial Abundance and Degradation of Polycyclic
+Aromatic Hydrocarbons in Soil
+S. K. Mahmood and P. Rama Rao
+Department of Botany, Osmania University, Hyderabad-500007, A.P., India
+Polycyclic aromatic hydrocarbons (PAHs) are a group of
+highly lipophilic chemicals that are generally formed
+during combustion, pyrolysis and pyrosynthesis of organic
+matter and are present ubiquitously in the urban
+environment as pollutants in very small quantities
+(IARC Monograph, 1983, 1984 and 1985). In industrialised
+countries, pollution by PAHs are primarily associated
+with the processing, combustion and disposal of
+fossil fuels (Bartha & Bossert, 1984). PAHs have also
+been found in pre-industrial sediments (LaFlame &
+Hires,1978) and are believed to be incomplete combustion
+products from spontaneous fires involving grass
+lands and forests, and some may be biogenic in origin
+(Blumer, 1976). The more highly condensed PAH show
+considerable persistence in the environment; the rates
+and mechanism of their recycling are only partially
+understood (Gibson & Subramanian,1984). There is little
+information about the fate of PAH in the soil environment
+and virtually nothing is known about mechanisms of
+its biodegradation.
+Of the many options available for the remediation of
+waste sites, the use of microorganisms to degrade organic
+chemicals offers many advantages in terms of speed,
+efficiency and cost (Lee & Ward, 1985). Bioremediation
+may involve the ability of the in situ microorganisms
+to utilise the waste or the application of microorganisms
+acclimated to degrade particular wastes or combinations
+of wastes. Bioremediation has been used with
+success to treat soils contaminated by hydrocarbon
+products (Dibble & Bartha, 1979; Bossert et al., 1984).
+In this study, the indigenous contaminated soil populations
+were effective in removing the hydrocarbons and
+returning the soil to productivity.
+The objective of the present study was to determine the
+activity of indigenous microbial (fungi and bacteria)
+population of hazardous waste site, their degree of
+Send reprint request to Mahmood,NRSH-22,OU,Hyd-7,1NDIA.
+486 
+adaptation, its ability to degrade toxic PAHs, and to
+study the potentials of different indigenous microbes
+to degrade the following selected PAHs from the polluted
+soil environment. PAHs selected for the study were
+1.Anthracene(An), 2.Phenanthrene(Ph), 3.Crysene(Cry),
+4.Pyrene(Pyr) and 5. Flouranthene(F]).
+MATERIALS AND
+All PAH compounds and 1-phenyldecane were purchased
+from Aldrich Chemical Co. with a purity of 98%. In
+order to ensure uniform distribution of the hydrocarbons
+in soil (Collected near the banks of the Musi
+river which contains automobile, industrial and municipal
+sewage waste), 25 mg of each PAH and 0.3 ml of ]-
+phenyl decane were ground with 5g acid washed sand.
+This mixture was thoroughly mixed with 30g fresh sandy
+loam soil (Bartha & Bordeleau, 1969) equal to 25g by
+dry wt. Replicate samples were prepared for each PAH
+and individually placed in 100 ml glass beakers. Nitrogen
+and phosphorus were adjusted in the samples to an
+optimal C:N:P ratio (Dibble & Bartha, 1979) by adding a
+NH4NO3/K2HPO 4 fertilization solution to provide
+340 n moIes of N and 26 n moles of P per sample.
+All samples were moistened to 50% of the soil water
+holding capacity and the beakers covered with thin
+polyethylene film to minimize evaporation. Samples were
+incubated maintained at 27•176 for a period of 15 mo.
+During incubation the beakers were opened for a period
+of 24 h. aeration in 3 day intervals and evaporated
+water was replenished as needed to maintain conditions
+favourable for biodegradation. Control samples for
+determining abiotic PAHs losses were prepared in an
+identical manner but contained 1% HgCl 2 on dry soil
+basis.
+After 5 mo. of incubation a second application of 0.3ml
+of 1-phenyldecane was made to ensure the continued
+availability of growth substrate for PAHs biodegradation.
+On day 0 and each subsequent sampling point (5,
+10 and 15 mo.) duplicate samples for each PAHs were
+analysed for residues. After air drying of samples at
+room temperature, they were exhaustively extracted by
+using dichloromethane in a soxhlet apparatus. The
+extracts were concentrated under pressure at 40~ and
+care was taken to protect the extracts from prolonged
+exposure to light.
+Analysis for residual PAHs was performed by gas chromotography
+with flame ionization detection (Hewlett
+Packard 5710 A), using 183x0.31 cm stainless steel
+column packed with 5% Dexsil on chromosorb W.(Applied
+Science, Inc ) Carrier gas (N 2) flow 40 ml/min. Column
+temperature for each PAH maintained (Anthracene-230~
+487 
+Phenanthrene-220~ Cyrsene-280~ Pyrene-250~ and
+Fluoranthene-280~ The detector temperature was 380~
+for all PAHs, for ppm recovery (0.5 ul sample, attentuation
+lx16).
+Soil microflora (Fungi and Bacteria) were isolated
+(0,5,10 and 15 mo), from the study samples, at different
+time intervals during 15 mo incubation period.
+Colony forming units (cfu) of soil microflora were
+estimated by Waksmans serial dilution plate method
+(Waksman, 1922) and soil plate method was used as a
+complementary method for the estimation of soil microflora
+(Warcup, 1957). Potato Sucrose Agar as well as
+CZapek (Dox) Agar medium used for fungi and Ericksons
+Agar medium (Clacium Nitrate-0.3g, Clacium sulphate-
+0.8g, Magnesium sulphate-0.7g, Potassium sulphate-
+0.025g K2HPO 4- 0.005g, NaHCO3-0 Ig, glucose-0.01g,
+yeast extract-0.0059g, distilled wafer 1000ml and pH=7)
+employed for the isolation of bacteria. Three replicates
+were maintained in each case. Fungi and bacteria
+which were dominant during the study were identified
+down to species level.
+RESULTS AND DISCUSSION
+The table-1 gives the details of biotic and abiotic
+losses of PAH in soil during 15 mo. incubation period.
+Anthracene and pyrene degradation enhanced as the
+incubation period increases and crysene degradation is
+almost nil.For the purpose of discussion biodegradation
+assessed in these studies was measured as the loss of
+parent PAH in the soil. This may include incorporation
+into the soil humus, as well as mineralisation to CO~.
+The table-2 summarises that cfu of fungi and bacterla
+were increased as incubation period increases. The
+dominant bacteria during the study were Pseudomonas
+spp, Agrobacterium spp and the species of Bacillus
+subtilis, whereas fungi dominated by Aspergillus
+niger, A. flavus, Penicillium tordum, Fusarium
+oxysporum, Sclerotium rolfsii, Trichoderma viride and
+Trichoderma harzianum. In a previous pesticidal
+treatment study (Mahmood et al 1989), Bacillus
+subtilis, Sclerotium rolfsii and Trichoderma harzianum
+were not reported. This may attribute to the PAH
+presence and other physico-chemical environment of the
+soils. Phenanthrene and anthracene were primarily lost
+by microbial degradative processes, though substantial
+aboitic losses contributed to their disappearance.
+Phenanthrene was biodegraded faster than anthracene.
+Although the angular ring arrangement of phenanthrene
+is considered thermodynamically more stable than the
+linear arrangement of anthracene (Blumer, 1976). The so
+called "bay region" due to angular arrangement might
+have favoured enzyme attack on PAH (Gibbson and Subramanian,
+1984). The water solubility of phenanthrene
+488 
+Table 1. ppm recovery of PAHs from soil.
+S. Name Rt. Formu- Conc -a Time in months
+No.of lae of Mo] entrPAH
+(min) PAIl wt. ation 0 5 10 15 b AL
+I. An 2.0 C14HI0 178 1000 986 721 430 92 552
+2. Ph 2.5 C14HI0 178 1000 992 602 234 nd 751
+3. Cry 5.4 C18H12 228 1000 973 1020 774 723 855
+4. Pyr 3.1 C16H10 202 1000 998 583 152 62 805
+5. FI 1.7 C16H10 202 1000 961 684 nd 155 936
+The recovery values are average of duplicate samples.
+AL (abiotic losses) samples were analysed after 15 mo.
+nd - not detected, a - actual concentrations of PAH
+before incubation, b - concentrations of PAH at the end
+of incubation. An-Anthracene, Ph-Phenanthrene, CryCrysene,
+Pyr-Pyrene, FI-Fluoranthene, Rt-Retention
+time.
+(1600 gL -I) as compared to anthracene (75 gL -I) might
+have been contributed for the faster biodegradation of
+phenanthrene. Here cfu of Sclerotium rolfsii and Trichoderma
+harzianum were increased dramatically from 5
+mo. onwards. On 15 mo. phenanthrene was not detected,
+might be due to the trace level or possibilities of
+experimental error. In the case of Pyrene Bacillus
+subtilis might be dominating the degradation process,
+because it was abundantly available during the process.
+Anthracene and Fluoranthene degradation was dominated
+by Agrobacterium spp. Pseudomonas spp, Aspergillus
+terrus, A. flavus and Penicillium tordum. Crysene degradation
+was not detected and the microbial numbers of
+fungi as well as bacteria were parallel. No individual
+microbe was dominated during the incubation period of
+Crysene. Our present findings and the results of Bossert
+and Bartha (1986) more or less confirm each other.
+In conclusion the biodegradation of PAH in the selected
+soil was due to PAH degrader present in the bacterial
+as well as fungal communities. No other general rule
+was applicable to all PAHs selected for the study.
+In brief, hazardous waste contaminated soils possess
+active population of soil micro-organisms, which in
+this particular study are more abundant and more active
+than adjacent non-contaminated soil. Abundance and
+activity of microbial populations varies considerably
+from site to site, and may be related to differences of
+nutrient status or the presence of inhibitory chemicals.
+It is proposed that PAH itself as well as other
+489 
+'Fable 2. Microbial cfu in thousand/g dry soil of PAHs
+during incubation period.
+S.No. PAH in Soil Time in months
+0 5 10 15
+1. Anthracene 1680 2100 3500 5400
+(59) (120) (135) (110)
+2. Phenanthrene 2100 2190 2080 2100
+(80) (90) (140) (160)
+3. Crysene 1800 1900 1750 1800
+(72) (82) (92) (80)
+4. Pyrene 3200 3950 4200 5190
+(77) (80) (93) (120)
+5. Fluoranthene 2500 3000 2700 2600
+(90) (130) (150) (180)
+Values which are not in parentheses are bacterial cfu
+and fungal cfu are in parentheses.
+contaminants at the site may be exerting inhibitory
+effects on microbes with PAH degrading capabilities.
+The observed heterogeneity will have to be taken into
+consideration in implementing bioremediation of contaminated
+soils. 

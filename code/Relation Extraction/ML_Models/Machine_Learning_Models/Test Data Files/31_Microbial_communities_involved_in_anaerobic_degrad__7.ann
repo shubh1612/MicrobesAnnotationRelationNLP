@@ -1,0 +1,118 @@
+T1 Microbes 65 77 T. sibiricus
+T2 Microbes 195 207 Thermococcus
+T3 Microbes 304 320 T. kodakaraensis
+T4 Substrate 358 365 alkanes
+T5 ReactionOrProcess 414 433 pyruvate metabolism
+T6 Microbes 538 550 T. sibiricus
+T7 Enzyme 588 611 alkylsuccinate synthase
+T8 Substrate 975 982 methane
+T9 Property 1006 1024 strictly anaerobic
+T10 ReactionOrProcess 914 928 Methanogenesis
+T11 ReactionOrProcess 899 913 Methanogenesis
+T12 Substrate 1098 1105 methane
+T13 Substrate 1356 1367 methanogens
+T14 Substrate 1557 1568 methanogens
+T15 Property 1454 1466 methanogenic
+T16 Property 1592 1606 concentrations
+T17 ReactionOrProcess 1381 1395 biodegradation
+T18 Substrate 1747 1754 nitrite
+T19 Substrate 1738 1745 nitrate
+T20 Nutrient 1775 1779 iron
+T21 Nutrient 1801 1818 electron acceptor
+T22 ReactionOrProcess 1913 1935 anaerobic respirations
+T23 ReactionOrProcess 1820 1844 Methanogenic degradation
+T24 Microbes 2040 2057 enriched cultures
+T25 Environment 2072 2081 ditch mud
+T26 Substrate 1969 1976 alkanes
+T27 Substrate 2126 2133 methane
+T28 Substrate 2110 2120 hexadecane
+T29 Property 1983 1995 methanogenic
+T30 ReactionOrProcess 1951 1965 biodegradation
+T31 ReactionOrProcess 2300 2322 syntrophic association
+T32 Environment 2394 2403 ditch mud
+T33 Substrate 2438 2448 hexadecane
+T34 Property 2404 2416 methanogenic
+T35 ReactionOrProcess 2417 2427 enrichment
+T36 ReactionOrProcess 2428 2437 degrading
+T37 Microbes 2644 2651 archaea
+T38 Microbes 2735 2742 archaea
+T39 Microbes 2764 2778 Methanoculleus
+T40 Substrate 2678 2685 methane
+T41 Substrate 2805 2812 methane
+T42 Substrate 2899 2906 methane
+T43 ReactionOrProcess 2844 2854 enrichment
+T44 Microbes 2988 3006 enrichment culture
+T45 Microbes 3214 3230 Methanosaeta spp
+T46 Environment 3022 3070 gas condensate contaminated subsurface sediments
+T47 Environment 3076 3094 archaeal sequences
+T48 Substrate 3153 3164 methanogens
+T49 Substrate 2974 2977 oil
+T50 Property 2952 2964 methanogenic
+T51 Property 2965 2973 residual
+T52 ReactionOrProcess 2978 2987 degrading
+T53 Microbes 3364 3374 Firmicutes
+T54 Microbes 3490 3503 Pelotomaculum
+T55 Property 3432 3448 sulfate-reducing
+T56 Microbes 3590 3606 Desulfotomaculum
+T57 Microbes 3841 3854 Bacteroidetes
+T58 Microbes 3749 3762 Desulfovibrio
+T59 Microbes 3859 3873 Actinobacteria
+T60 Microbes 3931 3950 enrichment cultures
+T61 Substrate 4089 4098 crude oil
+T62 Substrate 4076 4083 methane
+T63 Property 3918 3930 methanogenic
+T64 ReactionOrProcess 3993 4007 methanogenesis
+T65 Substrate 4219 4226 methane
+T66 Substrate 4194 4204 hexadecane
+T67 ReactionOrProcess 4268 4282 methanogenesis
+T68 Environment 4381 4400 estuarine sediments
+T69 Substrate 4323 4339 methanogenic oil
+T70 Substrate 4430 4444 Syntrophus spp
+T71 ReactionOrProcess 4357 4367 enrichment
+T72 Substrate 4463 4474 methanogens
+R1 ActOn Arg1:T3 Arg2:T4
+R2 CarriedOn Arg1:T5 Arg2:T3
+R3 CarriedOn Arg1:T5 Arg2:T4
+R4 Produce Arg1:T6 Arg2:T7
+R5 CarriedOn Arg1:T10 Arg2:T8
+R6 CarriedOn Arg1:T11 Arg2:T8
+R7 CarriedOn Arg1:T17 Arg2:T14
+R10 ActOn Arg1:T24 Arg2:T26
+R11 ActOn Arg1:T24 Arg2:T27
+R12 ActOn Arg1:T24 Arg2:T28
+R13 CarriedOn Arg1:T30 Arg2:T24
+R14 CarriedOn Arg1:T30 Arg2:T26
+R15 CarriedOn Arg1:T30 Arg2:T27
+R16 CarriedOn Arg1:T30 Arg2:T28
+R17 OccursIn Arg1:T30 Arg2:T25
+R18 CarriedOn Arg1:T35 Arg2:T33
+R19 CarriedOn Arg1:T36 Arg2:T33
+R20 OccursIn Arg1:T35 Arg2:T32
+R21 OccursIn Arg1:T36 Arg2:T32
+R23 ActOn Arg1:T37 Arg2:T41
+R24 ActOn Arg1:T38 Arg2:T40
+R26 ActOn Arg1:T39 Arg2:T40
+R27 ActOn Arg1:T39 Arg2:T41
+R28 CarriedOn Arg1:T43 Arg2:T42
+R37 ActOn Arg1:T44 Arg2:T48
+R38 ActOn Arg1:T44 Arg2:T49
+R39 ActOn Arg1:T45 Arg2:T48
+R40 ActOn Arg1:T45 Arg2:T49
+R41 CarriedOn Arg1:T52 Arg2:T44
+R42 CarriedOn Arg1:T52 Arg2:T45
+R43 CarriedOn Arg1:T52 Arg2:T48
+R44 CarriedOn Arg1:T52 Arg2:T49
+R45 OccursIn Arg1:T52 Arg2:T46
+R46 OccursIn Arg1:T52 Arg2:T47
+R47 Of Arg1:T53 Arg2:T55
+R49 Of Arg1:T60 Arg2:T63
+R50 ActOn Arg1:T60 Arg2:T61
+R51 ActOn Arg1:T60 Arg2:T62
+R52 CarriedOn Arg1:T64 Arg2:T60
+R53 CarriedOn Arg1:T64 Arg2:T61
+R54 CarriedOn Arg1:T64 Arg2:T62
+R55 CarriedOn Arg1:T67 Arg2:T65
+R56 CarriedOn Arg1:T67 Arg2:T66
+R57 CarriedOn Arg1:T71 Arg2:T69
+R58 CarriedOn Arg1:T71 Arg2:T70
+R59 OccursIn Arg1:T71 Arg2:T68

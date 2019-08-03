@@ -1,0 +1,36 @@
+T1	Environment 319 330	ambient sea
+T2	Environment 331 336	water
+T3	Environment 426 429	sea
+T4	Property 474 485	temperature
+T5	Environment 651 660	sediments
+T6	Environment 950 958	
+T7	Environment 1039 1047	sediment
+T8	Environment 1143 1151	sediment
+T9	Substrate 1314 1321	methane
+T10	Substrate 1357 1369	hydrocarbons
+T11	Environment 1397 1405	sediment
+T12	Property 1485 1499	concentrations
+T13	Environment 1731 1736	water
+T14	Substrate 1767 1778	hydrocarbon
+T15	Property 1898 1909	temperature
+T16	Substrate 1970 1991	authentic hydrocarbon
+T17	Environment 2113 2121	sediment
+T18	Substrate 2078 2089	hydrocarbon
+T19	Substrate 2171 2183	hydrocarbons
+T20	Property 2055 2069	
+T21	Substrate 2211 2222	hydrocarbon
+T22	Property 2472 2483	temperature
+T23	ReactionOrProcess 2386 2405	
+T24	Substrate 2538 2545	methane
+T25	ReactionOrProcess 2662 2681	
+T26	Environment 2882 2887	water
+T27	Environment 2836 2853	shallow sediments
+T28	Substrate 2799 2821	subsurface hydrocarbon
+T29	Substrate 2752 2775	thermogenic hydrocarbon
+T30	Property 3006 3017	temperature
+T31	Substrate 3198 3209	hydrocarbon
+T32	Environment 3363 3373	subsurface
+T33	Substrate 3332 3353	unaltered hydrocarbon
+T34	Substrate 3443 3450	
+T35	Substrate 3548 3560	hydrocarbons
+T36	Nutrient 3608 3614	carbon

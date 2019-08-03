@@ -1,0 +1,20 @@
+T1	ReactionOrProcess 4 7	PCR
+T2	ReactionOrProcess 281 290	extension
+T3	ReactionOrProcess 311 314	PCR	
+T4	ReactionOrProcess 534 544	Extraction
+T5	ReactionOrProcess 504 512	purified
+T6	ReactionOrProcess 454 457	PCR
+T7	ReactionOrProcess 596 599	PCR
+T8	Property 631 644	concentration
+T9	ReactionOrProcess 749 757	Purified	
+T10	ReactionOrProcess 758 761	PCR
+T11	ReactionOrProcess 3460 3463	PCR
+T12	Enzyme 3534 3543	oxygenase
+T13	Property 3588 3596	residues
+T14	Substrate 3792 3795	bph
+T15	ReactionOrProcess 4338 4341	PCR
+T16	Microbes 4519 4545	Sphingomonas wittichii RW1
+T17	ReactionOrProcess 4800 4803	PCR
+T18	Property 4902 4915	concentration
+T19	ReactionOrProcess 4933 4936	PCR
+T20	ReactionOrProcess 5108 5111	PCR

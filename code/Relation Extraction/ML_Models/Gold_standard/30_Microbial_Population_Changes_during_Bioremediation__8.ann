@@ -1,0 +1,25 @@
+T1	Substrate 266 277	hydrocarbon
+T2	ReactionOrProcess 242 253	degradation
+T3	Microbes 406 414	inoculum
+T4	Substrate 505 514	crude oil
+T5	ReactionOrProcess 487 501	bioremediation
+T6	ReactionOrProcess 562 566	PLFA
+T7	Microbes 711 719	inoculum
+T8	Microbes 850 858	inoculum
+T9	Environment 1093 1105	nearby beach
+T10	ReactionOrProcess 958 968	inoculated
+T11	ReactionOrProcess 919 930	inoculation
+T12	Microbes 1166 1174	inoculum
+T13	Microbes 1260 1268	inoculum
+T14	Property 1235 1244	degraders
+T15	Substrate 1317 1320	PAH
+T16	Property 1321 1330	degraders
+T17	Microbes 1512 1520	inoculum
+T18	ReactionOrProcess 1611 1622	inoculation
+T19	ReactionOrProcess 1481 1495	bioremediation
+T20	ReactionOrProcess 1450 1465	bioaugmentation
+R1	CarriedOn Arg1:T2 Arg2:T1
+R5	CarriedOn Arg1:T5 Arg2:T4
+R12	Of Arg1:T13 Arg2:T14
+R13	CarriedOn Arg1:T18 Arg2:T17
+R15	CarriedOn Arg1:T20 Arg2:T17

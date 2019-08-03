@@ -1,0 +1,52 @@
+T1	Substrate 27 34	alkanes
+T2	Substrate 58 65	alkanes
+T3	ReactionOrProcess 116 130	biodegradation
+T4	Environment 177 182	beach
+T5	Environment 177 188	beach sands
+T6	Environment 183 188	sands
+T7	Substrate 295 298	oil
+T8	Environment 438 448	oiled sand
+T9	Environment 779 801	oil-contaminated sands
+T10	Environment 502 507	Beach
+T11	Environment 444 448	sand
+T12	Environment 643 647	sand
+T13	Environment 796 801	sands
+T14	Environment 854 859	sands
+T15	Environment 779 801	oil-contaminated sands
+T16	Substrate 407 418	hydrocarbon
+T17	Substrate 527 530	oil
+T18	ReactionOrProcess 593 604	Enumeration
+T19	ReactionOrProcess 947 958	Enumeration
+T20	Environment 1162 1166	sand
+T21	Substrate 1186 1210	cultivatable hydrocarbon
+T22	Substrate 1199 1210	hydrocarbon
+T23	Property 1211 1220	degraders
+T24	Environment 1298 1309	oiled sands
+T25	Environment 1504 1508	sand
+T26	Environment 1304 1309	sands
+T27	Substrate 1333 1344	hydrocarbon
+T28	Environment 1568 1579	clean sands
+T29	Environment 1568 1579	clean sands
+T30	Environment 1636 1641	Beach
+T31	Environment 1636 1647	Beach sands
+T32	Environment 1574 1579	sands
+T33	Environment 1642 1647	sands
+T34	Substrate 1656 1667	visible oil
+T35	Substrate 1664 1667	oil
+T36	ReactionOrProcess 1593 1604	enumeration
+T37	Environment 1717 1721	sand
+T38	Environment 1807 1812	sands
+T39	Substrate 1735 1746	visible oil
+T40	Substrate 1821 1832	visible oil
+T41	Substrate 1743 1746	oil
+T42	Substrate 1829 1832	oil
+T43	Environment 1966 1980	nonoiled sands
+T44	Environment 1975 1980	sands
+T45	Environment 1966 1980	nonoiled sands
+T46	Substrate 2158 2169	visible oil
+T47	Substrate 2166 2169	oil
+T48	Substrate 2408 2419	visible oil
+T49	Substrate 2416 2419	oil
+T50	Substrate 2604 2607	oil
+T51	Substrate 2683 2686	oil
+T52	Substrate 2858 2861	oil

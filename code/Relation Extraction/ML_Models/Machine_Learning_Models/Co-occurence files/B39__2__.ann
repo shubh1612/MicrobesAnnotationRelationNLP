@@ -1,0 +1,52 @@
+T1	Environment 66 90	sludge-contaminated soil
+T2	Environment 185 214	oily sludge-contaminated soil
+T3	ReactionOrProcess 124 138	biostimulation
+T4	Environment 293 322	oily sludge-contaminated soil
+T5	Environment 386 394	oilfield
+T6	Property 471 482	temperature
+T7	ReactionOrProcess 266 280	bioremediation
+T8	Environment 903 908	soils
+T9	Environment 1012 1017	water
+T10	Environment 1026 1038	Soil samples
+T11	Environment 1399 1411	soil samples
+T12	Environment 1470 1499	Air-dried and pulverized soil
+T13	Substrate 1484 1507	pulverized soil samples
+T14	Property 1542 1564	water-holding capacity
+T15	Property 1576 1597	hydrolyzable nitrogen
+T16	Nutrient 1628 1637	potassium
+T17	Nutrient 1613 1623	phosphorus
+T18	Environment 1705 1734	air-dried and pulverized soil
+T19	Substrate 1839 1854	dichloromethane
+T20	ReactionOrProcess 1823 1833	extraction
+T21	Substrate 1987 2014	total petroleum hydrocarbon
+T22	Substrate 2154 2162	n-hexane
+T23	Substrate 2202 2210	n-hexane
+T24	Substrate 2166 2169	TPH
+T25	Property 2183 2192	dissolved
+T26	Substrate 2493 2500	ethanol
+T27	Substrate 2426 2434	n-hexane
+T28	Nutrient 2475 2478	DCM
+T29	Substrate 2556 2564	n-hexane
+T30	Substrate 2608 2615	alkanes
+T31	Property 2620 2629	aromatics
+T32	Substrate 2692 2699	ethanol
+T33	Substrate 2711 2717	resins
+T34	Nutrient 2678 2681	DCM
+T35	Substrate 2803 2814	asphaltenes
+T36	Substrate 2757 2767	chloroform
+T37	Substrate 2897 2900	oil
+T38	Property 2888 2896	residual
+T39	Microbes 3018 3040	heterotrophic bacteria
+T40	Nutrient 3069 3073	agar
+T41	Substrate 3084 3087	TPH
+T42	Substrate 3102 3126	polyaromatic hydrocarbon
+T43	Property 3088 3097	degraders
+T44	Property 3133 3142	degraders
+T45	Environment 3286 3290	soil
+T46	Property 3331 3344	Gram-negative
+T47	ReactionOrProcess 3417 3426	inoculate
+T48	ReactionOrProcess 3459 3468	incubated
+R1	OccursIn Arg1:T3 Arg2:T2
+R2	OccursIn Arg1:T7 Arg2:T4
+R3	OccursIn Arg1:T7 Arg2:T5
+R4	CarriedOn Arg1:T20 Arg2:T19

@@ -1,0 +1,129 @@
+T1	Substrate 52 59	alkanes
+T2	ReactionOrProcess 37 48	degradation
+T3	Substrate 121 142	aromatic hydrocarbons
+T4	ReactionOrProcess 103 117	biodegradation
+T5	Substrate 508 523	alkylsuccinates
+T6	Substrate 345 352	alkanes
+T7	Substrate 553 560	alkanes
+T8	Property 616 633	anoxic conditions
+T9	Property 596 609	biodegradable
+T10	ReactionOrProcess 528 549	Anaerobic degradation	
+T11	Substrate 840 847	alkanes
+T12	Substrate 910 920	hexadecane
+T13	ReactionOrProcess 812 836	anaerobic biodegradation
+T14	Nutrient 861 879	electron acceptors
+T15	Substrate 962 969	alkanes
+T16	ReactionOrProcess 944 958	Biodegradation	
+T17	Environment 1071 1087	nitrate-reducing
+T18	Environment 1206 1231	underground storage tanks
+T19	Environment 1193 1201	aquifers
+T20	Substrate 1164 1173	crude oil
+T21	Substrate 1052 1064	hydrocarbons
+T22	ReactionOrProcess 1146 1160	bioremediation
+T23	ReactionOrProcess 1027 1048	Anaerobic degradation	
+T24	Environment 1482 1487	water
+T25	Environment 1309 1334	contaminated environments
+T26	Substrate 1268 1275	nitrate
+T27	Substrate 1391 1398	nitrate
+T28	Substrate 1459 1466	nitrate
+T29	Property 1426 1442	water solubility
+T30	ReactionOrProcess 1280 1299	in situ remediation
+T31	ReactionOrProcess 1399 1408	reduction
+T32	Substrate 1566 1573	alkanes
+T33	Substrate 1499 1508	Crude oil	
+T34	Environment 1655 1660	water
+T35	Substrate 1673 1680	alkanes
+T36	Property 1641 1651	solubility
+T37	Property 1720 1725	toxic
+T38	Substrate 1804 1818	cyclic alkanes
+T39	Substrate 1771 1790	short-chain alkanes
+T40	Property 1744 1758	concentrations
+T41	Environment 2091 2107	nitrate-reducing
+T42	Substrate 1950 1957	alkanes
+T43	ReactionOrProcess 1983 1997	bioremediation
+T44	Microbes 2270 2274	PbN1
+T45	Microbes 2260 2264	EbN1
+T46	Microbes 2253 2258	mXyN1
+T47	Substrate 2312 2321	crude oil
+T48	Substrate 2147 2159	hydrocarbons
+T49	Substrate 2188 2195	nitrate
+T50	Substrate 2295 2308	alkylbenzenes
+T51	ReactionOrProcess 2124 2143	Anaerobic oxidation	
+T52	ReactionOrProcess 2175 2184	reduction
+T53	ReactionOrProcess 2280 2291	utilization
+T54	Microbes 2379 2397	enrichment culture
+T55	Environment 2362 2378	nitrate-reducing
+T56	Substrate 2455 2462	alkanes
+T57	Substrate 2413 2422	crude oil
+T58	Substrate 2481 2494	alkylbenzenes
+T59	ReactionOrProcess 2398 2407	incubated
+T60	ReactionOrProcess 2440 2451	degradation
+T61	Microbes 2556 2574	enrichment culture
+T62	Substrate 2665 2673	n-hexane
+T63	Substrate 2611 2618	alkanes
+T64	Microbes 2835 2849	Proteobacteria
+T65	ReactionOrProcess 2719 2732	hybridization
+T66	Substrate 2899 2921	anaerobic hydrocarbons
+T67	Property 2966 2990	hydrocarbon-contaminated
+T68	ReactionOrProcess 2922 2931	degrading
+T69	Microbes 3276 3290	Proteobacteria
+T70	Microbes 3194 3220	nitrate respiring bacteria
+T71	Microbes 3478 3497	enrichment cultures
+T72	Environment 3518 3527	sediments
+T73	Substrate 3449 3457	n-hexane
+T74	Microbes 3572 3586	Rhodocyclaceae
+T75	Microbes 3790 3801	strain HxN1
+T76	Substrate 3752 3759	nitrite
+T77	ReactionOrProcess 3677 3695	complete oxidation
+T78	Microbes 3869 3880	strain HxN1
+T79	Substrate 3858 3867	crude oil
+T80	Substrate 3937 3951	cyclic alkanes
+T81	ReactionOrProcess 3899 3912	co-metabolize
+T82	ReactionOrProcess 3833 3852	grown anaerobically
+T83	ReactionOrProcess 4010 4021	utilization
+R1	CarriedOn Arg1:T2 Arg2:T1
+R2	CarriedOn Arg1:T4 Arg2:T3
+R3	CarriedOn Arg1:T10 Arg2:T7
+R4	CarriedOn Arg1:T13 Arg2:T11
+R6	CarriedOn Arg1:T16 Arg2:T15
+R7	CarriedOn Arg1:T22 Arg2:T20
+R10	CarriedOn Arg1:T23 Arg2:T21
+R12	OccursIn Arg1:T22 Arg2:T18
+R13	OccursIn Arg1:T22 Arg2:T19
+R14	OccursIn Arg1:T23 Arg2:T17
+R17	CarriedOn Arg1:T30 Arg2:T26
+R21	CarriedOn Arg1:T31 Arg2:T27
+R24	OccursIn Arg1:T30 Arg2:T25
+R25	OccursIn_No Arg1:T31 Arg2:T24
+R27	CarriedOn Arg1:T43 Arg2:T42
+R47	CarriedOn_No Arg1:T53 Arg2:T44
+R48	CarriedOn_No Arg1:T53 Arg2:T45
+R49	CarriedOn_No Arg1:T53 Arg2:T46
+R51	CarriedOn Arg1:T51 Arg2:T48
+R55	CarriedOn Arg1:T52 Arg2:T48
+R56	CarriedOn Arg1:T52 Arg2:T49
+R58	CarriedOn Arg1:T53 Arg2:T47
+R61	CarriedOn Arg1:T53 Arg2:T50
+R62	FoundIn Arg1:T54 Arg2:T55
+R63	ActOn Arg1:T54 Arg2:T56
+R64	ActOn Arg1:T54 Arg2:T57
+R65	ActOn Arg1:T54 Arg2:T58
+R66	CarriedOn Arg1:T59 Arg2:T54
+R67	CarriedOn Arg1:T60 Arg2:T54
+R69	CarriedOn Arg1:T59 Arg2:T57
+R71	CarriedOn Arg1:T60 Arg2:T56
+R73	CarriedOn Arg1:T60 Arg2:T58
+R74	OccursIn Arg1:T59 Arg2:T55
+R75	OccursIn Arg1:T60 Arg2:T55
+R79	CarriedOn Arg1:T68 Arg2:T66
+R80	FoundIn Arg1:T71 Arg2:T72
+R81	ActOn Arg1:T71 Arg2:T73
+R82	ActOn Arg1:T75 Arg2:T76
+R85	ActOn Arg1:T78 Arg2:T79
+R87	CarriedOn_No Arg1:T81 Arg2:T78
+R88	CarriedOn Arg1:T82 Arg2:T78
+R90	CarriedOn_No Arg1:T81 Arg2:T79
+R91	CarriedOn Arg1:T81 Arg2:T80
+R92	CarriedOn Arg1:T82 Arg2:T79
+T84	Environment 66 90	iron-reducing conditions
+T85	Microbes 3600 3614	Proteobacteria

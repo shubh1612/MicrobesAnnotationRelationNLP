@@ -1,0 +1,85 @@
+T1	Property 195 207	fluorescence
+T2	ReactionOrProcess 123 137	biostimulation
+T3	ReactionOrProcess 372 382	enrichment
+T4	Property 401 420	pollutant-degrading
+T5	Environment 501 512	Groundwater
+T6	Environment 517 529	soil samples
+T7	Environment 517 521	soil
+T8	Environment 761 772	groundwater
+T9	Environment 777 789	soil samples
+T10	Environment 777 781	soil
+T11	Substrate 701 710	petroleum
+T12	Substrate 695 723	total petroleum hydrocarbons
+T13	Substrate 711 723	hydrocarbons
+T14	Substrate 695 723	total petroleum hydrocarbons
+T15	Substrate 656 671	dichloromethane
+T16	Substrate 639 650	hydrocarbon
+T17	Substrate 711 723	hydrocarbons
+T18	Substrate 701 723	petroleum hydrocarbons
+T19	ReactionOrProcess 829 837	detector
+T20	Property 876 886	pollutants
+T21	ReactionOrProcess 902 916	biodegradation
+T22	Substrate 1166 1181	dichloromethane
+T23	Substrate 1013 1024	hydrocarbon
+T24	ReactionOrProcess 1025 1035	extraction
+T25	ReactionOrProcess 1087 1097	extraction
+R1	CarriedOn Arg1:T24 Arg2:T22
+R2	CarriedOn Arg1:T25 Arg2:T22
+T26	Environment 1183 1194	Soil sample
+T27	Environment 1183 1195	Soil samples
+T28	Environment 1183 1187	Soil
+T29	ReactionOrProcess 1240 1250	extraction
+T30	ReactionOrProcess 1293 1314	liquid chromatography
+T31	ReactionOrProcess 1281 1289	purified
+T32	ReactionOrProcess 1348 1369	liquid chromatography
+T33	Property 1552 1563	temperature
+T34	Property 1625 1636	temperature
+T35	ReactionOrProcess 1692 1700	detector
+T36	ReactionOrProcess 1920 1934	biodegradation
+T37	Environment 1955 1966	Groundwater
+T38	Property 1988 1997	dissolved
+T39	ReactionOrProcess 2010 2015	redox
+T40	Nutrient 1998 2004	oxygen
+T41	Substrate 2164 2171	nitrate
+T42	Nutrient 2149 2157	Nitrogen
+T43	Nutrient 2176 2184	ammonium
+T44	Nutrient 2190 2200	phosphorus
+T45	ReactionOrProcess 2397 2411	bioremediation
+T46	ReactionOrProcess 2484 2498	bioremediation
+T47	Nutrient 2849 2853	agar
+T48	Substrate 3087 3109	culturable hydrocarbon
+T49	Substrate 3098 3109	hydrocarbon
+T50	Substrate 3014 3038	filter-sterilized diesel
+T51	Substrate 3032 3038	diesel
+T52	Property 3046 3064	sole carbon source
+T53	Property 3110 3119	degraders
+T54	ReactionOrProcess 2879 2896	solid degradation
+T55	ReactionOrProcess 2885 2896	degradation
+T56	Nutrient 2988 2992	agar
+T57	Nutrient 3051 3057	carbon
+T58	Nutrient 2963 2969	K2HPO4
+T59	Nutrient 2915 2921	NH4NO3
+T60	Environment 3194 3205	groundwater
+T61	Environment 3297 3305	sediment
+T62	Environment 3354 3359	water
+T63	ReactionOrProcess 3386 3396	enrichment
+T64	Nutrient 3532 3536	agar
+T65	ReactionOrProcess 3560 3569	incubated
+T66	Substrate 3861 3872	diesel fuel
+T67	Substrate 3828 3831	oil
+T68	Substrate 3846 3849	oil
+T69	Substrate 3861 3867	diesel
+T70	ReactionOrProcess 3728 3738	Enrichment
+T71	Nutrient 3804 3810	carbon
+R3	CarriedOn Arg1:T70 Arg2:T66
+R4	CarriedOn Arg1:T70 Arg2:T69
+T72	Environment 3966 3977	groundwater
+T73	Environment 3953 3977	concentrated groundwater
+T74	ReactionOrProcess 4025 4034	incubated
+T75	ReactionOrProcess 4128 4138	inoculated
+T76	ReactionOrProcess 4321 4331	extraction
+T77	ReactionOrProcess 4317 4331	DNA extraction
+T78	ReactionOrProcess 4416 4419	PCR
+T79	Substrate 4667 4672	MgCl2
+T80	Substrate 4786 4797	mineral oil
+T81	Substrate 4794 4797	oil

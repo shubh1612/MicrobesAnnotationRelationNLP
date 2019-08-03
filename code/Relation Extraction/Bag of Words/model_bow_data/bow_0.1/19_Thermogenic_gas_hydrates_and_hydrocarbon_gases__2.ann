@@ -1,0 +1,29 @@
+T1	Environment 220 230	subsurface
+T2	Substrate 220 234	subsurface oil
+T3	Substrate 163 166	oil
+T4	Substrate 231 234	oil
+T5	Substrate 351 362	hydrocarbon
+T6	Substrate 598 618	Mesozoic hydrocarbon
+T7	Substrate 607 618	hydrocarbon
+T8	Substrate 495 498	oil
+T9	Substrate 673 676	oil
+T10	ReactionOrProcess 685 698	accumulations
+T11	Environment 877 880	sea
+T12	Environment 1019 1024	water
+T13	Environment 1071 1081	subsurface
+T14	Substrate 1071 1093	subsurface hydrocarbon
+T15	Substrate 1082 1093	hydrocarbon
+T16	Environment 1189 1194	water
+T17	Property 1195 1206	temperature
+T18	Environment 1332 1337	water
+T19	Environment 1413 1416	Sea
+T20	Environment 1871 1874	sea
+T21	Environment 1958 1966	Sediment
+T22	Environment 1958 1967	Sediments
+T23	Substrate 2056 2065	crude oil
+T24	Substrate 2062 2065	oil
+T25	Substrate 2162 2168	sulfur
+T26	Property 2077 2086	dispersed
+T27	Environment 2280 2290	polychaete
+T28	Environment 2808 2813	water
+T29	Property 2835 2847	temperatures

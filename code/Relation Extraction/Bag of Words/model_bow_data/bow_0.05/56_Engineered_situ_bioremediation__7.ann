@@ -1,0 +1,46 @@
+T1	Substrate 168 177	crude oil
+T2	Substrate 174 177	oil
+T3	Nutrient 265 269	agar
+T4	Substrate 486 495	petroleum
+T5	Substrate 496 508	hydrocarbons
+T6	Substrate 496 508	hydrocarbons
+T7	Substrate 486 508	petroleum hydrocarbons
+T8	Property 449 469	chemical composition
+T9	Nutrient 418 424	carbon
+T10	Microbes 717 730	Acinetobacter
+T11	Microbes 694 712	Pseudomonas putida
+T12	Environment 889 903	tropical soils
+T13	Environment 889 903	tropical soils
+T14	Environment 889 897	tropical
+T15	Environment 866 903	petroleum-contaminated tropical soils
+T16	Environment 898 903	soils
+T17	Microbes 910 923	Achromobacter
+T18	Environment 963 985	oil-contaminated soils
+T19	Environment 963 985	oil-contaminated soils
+T20	Environment 1029 1057	toluidine-contaminated soils
+T21	Environment 1052 1057	soils
+T22	Environment 980 985	soils
+T23	Environment 1029 1057	toluidine-contaminated soils
+T24	Substrate 1020 1024	PAHs
+T25	Microbes 1079 1100	Ochrobactrum anthropi
+T26	Environment 1138 1160	oil-contaminated soils
+T27	Environment 1138 1160	oil-contaminated soils
+T28	Environment 1155 1160	soils
+T29	Environment 1326 1330	soil
+T30	Environment 1317 1330	pristine soil
+T31	Substrate 1336 1345	petroleum
+T32	Substrate 1555 1566	hydrocarbon
+T33	ReactionOrProcess 1614 1623	reduction
+T34	ReactionOrProcess 1773 1782	depletion
+T35	Nutrient 1759 1765	carbon
+T36	Property 1998 2008	surfactant
+T37	ReactionOrProcess 2052 2066	bioremediation
+T38	Substrate 2188 2200	hydrocarbons
+T39	Substrate 2188 2200	hydrocarbons
+T40	Property 2125 2134	dissolved
+T41	Nutrient 2135 2141	oxygen
+T42	ReactionOrProcess 2362 2376	bioremediation
+T43	ReactionOrProcess 2480 2490	adaptation
+T44	Property 2643 2655	contaminants
+T45	Environment 2823 2848	contaminated environments
+T46	ReactionOrProcess 2805 2819	bioremediation

@@ -1,0 +1,39 @@
+T1	Property 42 50	aromatic
+T2	Substrate 361 379	aromatic compounds
+T3	ReactionOrProcess 329 350	anaerobic degradation
+T4	ReactionOrProcess 866 899	anaerobic hydrocarbon degradation
+T5	Substrate 1427 1448	aromatic hydrocarbons
+T6	Substrate 1239 1248	n-alkanes
+T7	Substrate 1677 1711	aliphatic and aromatic hydrocarbon
+T8	ReactionOrProcess 1691 1723	aromatic hydrocarbon degradation
+T9	Environment 1951 1959	sediment
+T10	Environment 1989 1997	sediment
+T13	ReactionOrProcess 2367 2373	BlastN
+T14	ReactionOrProcess 2573 2579	BlastN
+T15	Environment 2786 2794	sediment
+T16	ReactionOrProcess 2849 2852	PCR
+T17	Substrate 2962 2976	alkylsuccinate
+T18	Substrate 3046 3057	hydrocarbon
+T19	Substrate 3309 3342	aromatic or n-alkane hydrocarbons
+T22	Substrate 3626 3642	branched alkanes
+T23	Substrate 3675 3683	n-Alkane	
+T24	Substrate 3697 3709	hydrocarbons
+T25	Substrate 3688 3696	n-alkene
+T26	Substrate 3919 3933	Alkylsuccinate	
+T27	Substrate 4021 4030	n-alkanes
+T28	ReactionOrProcess 3993 4017	anaerobic biodegradation
+T29	Substrate 4588 4621	aerobic and anaerobic hydrocarbon
+T30	Environment 5033 5065	oligotrophic subsurface sediment
+T31	Environment 4883 4907	deep-subsurface sediment
+R2	CarriedOn Arg1:T8 Arg2:T7
+R5	OccursIn_No Arg1:T16 Arg2:T15
+R6	CarriedOn_No Arg1:T28 Arg2:T26
+R7	CarriedOn Arg1:T28 Arg2:T27
+T11	Microbes 2473 2495	Thauera aromatica K172
+T12	Microbes 2500 2512	Azoarcus sp.
+T20	Substrate 3424 3446	Straight chain alkanes
+T21	Substrate 3647 3654	alkenes
+T32	Substrate 3937 3950	alkylmalonate
+T33	Substrate 4108 4133	putative benzylsuccinates
+T34	Substrate 4327 4343	benzylsuccinates
+T35	Substrate 4480 4496	benzylsuccinates

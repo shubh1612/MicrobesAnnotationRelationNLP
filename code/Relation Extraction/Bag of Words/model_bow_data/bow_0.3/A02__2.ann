@@ -1,0 +1,52 @@
+T1	Environment 121 125	Lake
+T2	ReactionOrProcess 83 96	hybridization
+T3	ReactionOrProcess 4 18	hybridizations
+T4	ReactionOrProcess 148 161	hybridization
+T5	Substrate 1361 1364	oil
+T6	Substrate 1441 1444	oil
+T7	Environment 1637 1642	plume
+T8	Environment 1633 1642	oil plume
+T9	Substrate 1633 1636	oil
+T10	Environment 1792 1797	plume
+T11	Environment 1962 1967	plume
+T12	Environment 2363 2368	plume
+T13	Environment 2359 2368	oil plume
+T14	Substrate 2359 2362	oil
+T15	ReactionOrProcess 2482 2493	remediation
+T16	ReactionOrProcess 2515 2530	denitrification
+T17	ReactionOrProcess 2540 2549	reduction
+T18	ReactionOrProcess 2502 2513	degradation
+T19	ReactionOrProcess 2532 2549	sulfate reduction
+T20	ReactionOrProcess 2474 2493	organic remediation
+T21	Nutrient 2495 2501	carbon
+T22	Environment 2736 2741	plume
+T23	Environment 2869 2874	plume
+T24	Environment 3658 3663	plume
+T25	Environment 3654 3663	oil plume
+T26	Substrate 3654 3657	oil
+T27	Substrate 3739 3742	Oil
+T28	Substrate 4077 4086	petroleum
+T29	Substrate 4065 4086	extractable petroleum
+T30	Substrate 4116 4119	oil
+T31	Property 4027 4038	temperature
+T32	Property 4009 4018	dissolved
+T33	Property 4046 4054	volatile
+T34	Nutrient 4135 4139	iron
+T35	Nutrient 4019 4025	oxygen
+T36	Environment 4345 4350	plume
+T37	Substrate 4237 4246	petroleum
+T38	Substrate 4225 4246	extractable petroleum
+T39	Substrate 4276 4279	oil
+T40	Property 4284 4293	dissolved
+T41	Property 4212 4220	volatile
+T42	Nutrient 4294 4300	oxygen
+T43	Environment 4398 4406	seawater
+T44	Substrate 4454 4457	oil
+T45	Environment 4608 4616	Seawater
+T46	Environment 4608 4611	Sea
+T47	Substrate 4640 4643	oil
+T48	Environment 4852 4860	seawater
+T49	Substrate 4774 4777	Oil
+T50	Environment 5181 5186	soils
+T51	Substrate 5261 5264	oil
+T52	Property 5265 5277	contaminants

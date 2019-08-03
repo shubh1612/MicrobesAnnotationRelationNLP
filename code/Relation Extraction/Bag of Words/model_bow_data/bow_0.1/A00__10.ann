@@ -1,0 +1,50 @@
+T1	Microbes 171 188	Oceanospirillales
+T2	Microbes 447 464	Oceanospirillales
+T3	Substrate 488 491	oil
+T4	Microbes 567 587	Oleispira antarctica
+T5	Microbes 629 654	Thalassolituus oleivorans
+T6	Substrate 692 714	aliphatic hydrocarbons
+T7	Substrate 702 714	hydrocarbons
+T8	Substrate 692 714	aliphatic hydrocarbons
+T9	Substrate 702 714	hydrocarbons
+T10	ReactionOrProcess 684 691	degrade
+T11	Microbes 883 900	Oceanospirillales
+T12	Microbes 995 1018	Alcanivorax borkumensis
+T13	Microbes 1092 1109	Oceanospirillales
+T14	Environment 1372 1378	marine
+T15	Microbes 1655 1672	Oceanospirillales
+T16	Microbes 1777 1796	Gammaproteobacteria
+T17	Environment 2349 2354	plume
+T18	Environment 2479 2484	plume
+T19	Substrate 2459 2462	oil
+T20	Substrate 2728 2731	oil
+T21	Environment 2942 2947	plume
+T22	Substrate 2930 2941	hydrocarbon
+T23	Substrate 2919 2922	oil
+T24	Microbes 3140 3157	Oceanospirillales
+T25	Substrate 3323 3334	hydrocarbon
+T26	ReactionOrProcess 3323 3346	hydrocarbon degradation
+T27	ReactionOrProcess 3335 3346	degradation
+T28	Environment 3629 3635	marine
+T29	ReactionOrProcess 3770 3778	motility
+T30	Microbes 4003 4020	Oceanospirillales
+T31	Environment 4249 4254	plume
+T32	Substrate 4563 4569	sulfur
+T33	Nutrient 4314 4322	nitrogen
+T34	Nutrient 4424 4428	iron
+T35	Microbes 4755 4772	Oceanospirillales
+T36	Substrate 4813 4824	hydrocarbon
+T37	ReactionOrProcess 4813 4836	hydrocarbon degradation
+T38	ReactionOrProcess 4825 4836	degradation
+T39	Microbes 5053 5070	Oceanospirillales
+T40	ReactionOrProcess 5156 5167	degradation
+T41	ReactionOrProcess 5192 5203	degradation
+T42	ReactionOrProcess 5182 5203	aliphatic degradation
+T43	Microbes 5450 5467	Oceanospirillales
+T44	Substrate 5338 5344	ethane
+T45	Substrate 5348 5355	propane
+T46	ReactionOrProcess 5356 5365	oxidation
+T47	ReactionOrProcess 5486 5501	SIP experiments
+R1	CarriedOn Arg1:T46 Arg2:T43
+T48	Microbes 5601 5618	Oceanospirillales
+T49	ReactionOrProcess 5691 5702	degradation

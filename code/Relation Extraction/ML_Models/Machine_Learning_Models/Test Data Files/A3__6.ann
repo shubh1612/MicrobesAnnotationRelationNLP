@@ -1,0 +1,74 @@
+T1 Microbes 149 163 Geobacteraceae
+T2 Environment 82 101 uncontaminated site
+T3 ReactionOrProcess 37 41 DGGE
+T4 Microbes 248 262 proteobacteria
+T5 Microbes 214 233 Geothrix fermentans
+T6 Microbes 322 338 Azoarcus evansii
+T7 Substrate 394 401 toluene
+T8 Property 402 410 degrader
+T9 Environment 709 728 uncontaminated site
+T10 Substrate 594 603 petroleum
+T11 Property 833 845 methanogenic
+T12 Property 604 615 contaminant
+T13 ReactionOrProcess 550 554 DGGE
+T14 ReactionOrProcess 907 911 DGGE
+T15 Microbes 1299 1307 Gthrx-84
+T16 Microbes 1393 1407 Geobacteraceae
+T17 Environment 1411 1419 sediment
+T18 Microbes 1469 1483 Geobacteraceae
+T19 Microbes 1585 1599 Geobacteraceae
+T20 Microbes 1681 1695 Geobacteraceae
+T21 Environment 1508 1517 sediments
+T22 Substrate 1543 1550 benzene
+T23 ReactionOrProcess 1455 1465 enrichment
+T24 ReactionOrProcess 1551 1562 degradation
+T25 Microbes 1808 1822 Geobacteraceae
+T26 Environment 1724 1770 uncontaminated and benzene-oxidizing sediments
+T27 ReactionOrProcess 1701 1705 DGGE
+T28 Environment 1963 1990 benzene-oxidizing sediments
+T29 ReactionOrProcess 1941 1944 PCR
+T30 Microbes 2217 2239 Pelobacter propionicus
+T31 Microbes 2200 2212 G. chapellei
+T32 ReactionOrProcess 2345 2355 extraction
+T33 ReactionOrProcess 2277 2280 PCR
+T34 ReactionOrProcess 2446 2449 PCR
+T35 Microbes 2935 2949 proteobacteria
+T36 Environment 3343 3351 sediment
+T37 Environment 3277 3296 uncontaminated zone
+T38 ReactionOrProcess 3254 3258 DGGE
+T39 Microbes 3601 3615 Geobacteraceae
+T40 Environment 3439 3458 uncontaminated site
+T41 Microbes 3740 3754 proteobacteria
+T42 Microbes 3783 3801 enrichment culture
+T43 Property 3765 3782 Benzene-oxidizing
+T44 Microbes 3819 3837 enrichment culture
+T45 Environment 4000 4009 sediments
+T46 Substrate 3877 3884 benzene
+T47 Property 3923 3934 crystalline
+T48 Nutrient 3961 3978 electron acceptor
+T49 Environment 4134 4141 aquifer
+T50 Substrate 4166 4173 benzene
+T51 ReactionOrProcess 4158 4165 degrade
+R2 CarriedOn Arg1:T3 Arg2:T1
+R3 OccursIn Arg1:T3 Arg2:T2
+R8 ActOn Arg1:T5 Arg2:T7
+R9 ActOn Arg1:T6 Arg2:T7
+R10 CarriedOn Arg1:T13 Arg2:T10
+R11 OccursIn Arg1:T13 Arg2:T9
+R17 ActOn Arg1:T19 Arg2:T22
+R18 ActOn Arg1:T20 Arg2:T22
+R19 CarriedOn Arg1:T23 Arg2:T18
+R23 CarriedOn Arg1:T24 Arg2:T19
+R24 CarriedOn Arg1:T24 Arg2:T20
+R26 CarriedOn Arg1:T24 Arg2:T22
+R27 OccursIn Arg1:T23 Arg2:T21
+R28 OccursIn Arg1:T24 Arg2:T21
+R30 CarriedOn Arg1:T27 Arg2:T25
+R31 OccursIn Arg1:T27 Arg2:T26
+R32 OccursIn Arg1:T29 Arg2:T28
+R33 OccursIn Arg1:T38 Arg2:T36
+R34 OccursIn Arg1:T38 Arg2:T37
+R36 Of Arg1:T42 Arg2:T43
+R38 Of Arg1:T44 Arg2:T47
+R40 CarriedOn Arg1:T51 Arg2:T50
+R41 OccursIn Arg1:T51 Arg2:T49

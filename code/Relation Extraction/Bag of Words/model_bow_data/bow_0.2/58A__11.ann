@@ -1,0 +1,28 @@
+T1	ReactionOrProcess 10 26	deep degradation
+T2	ReactionOrProcess 15 26	degradation
+T3	Microbes 109 127	Enrichment culture
+T4	Microbes 109 128	Enrichment cultures
+T5	Environment 150 170	anaerobic conditions
+T6	ReactionOrProcess 109 119	Enrichment
+T7	Environment 287 291	soil
+T8	Environment 277 291	anaerobic soil
+T9	ReactionOrProcess 292 306	bioremediation
+T10	ReactionOrProcess 472 481	reduction
+T11	Substrate 621 630	aromatics
+T12	Property 719 727	aromatic
+T13	Property 621 630	aromatics
+T14	ReactionOrProcess 758 771	anaerobically
+T15	ReactionOrProcess 772 781	incubated
+T16	Property 889 905	strict anaerobes
+T17	Substrate 968 979	methanogens
+T18	ReactionOrProcess 1013 1022	reduction
+T19	Property 1092 1104	methanogenic
+T20	Property 1092 1104	methanogenic
+T21	ReactionOrProcess 1396 1418	aerobic biodegradation
+T22	ReactionOrProcess 1404 1418	biodegradation
+T23	Environment 1561 1585	aerobic activated sludge
+T24	ReactionOrProcess 1687 1698	biodegraded
+T25	Microbes 1709 1725	aerobic bacteria
+T26	ReactionOrProcess 1748 1755	degrade
+T27	ReactionOrProcess 1770 1779	incubated
+T28	ReactionOrProcess 1780 1791	aerobically

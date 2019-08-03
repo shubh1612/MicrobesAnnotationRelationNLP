@@ -1,0 +1,87 @@
+T1	ReactionOrProcess 1312 1323	inoculation
+T2	ReactionOrProcess 1439 1448	incubated
+T3	Substrate 1458 1469	Hydrocarbon
+T4	ReactionOrProcess 1458 1481	Hydrocarbon degradation
+T5	ReactionOrProcess 1470 1481	degradation
+T6	Substrate 1614 1625	hydrocarbon
+T7	Substrate 1754 1765	hydrocarbon
+T8	ReactionOrProcess 1735 1744	degrading
+T9	Environment 2133 2144	groundwater
+T10	Substrate 2101 2119	aromatic compounds
+T11	Substrate 1911 1923	hydrocarbons
+T12	Substrate 1911 1923	hydrocarbons
+T13	Substrate 2101 2119	aromatic compounds
+T14	Property 2101 2109	aromatic
+T15	ReactionOrProcess 2087 2097	adaptation
+T16	Substrate 2246 2261	branched alkane
+T17	Substrate 2322 2335	cyclic alkane
+T18	ReactionOrProcess 2300 2308	degraded
+T19	ReactionOrProcess 2218 2229	degradation
+R1	CarriedOn Arg1:T19 Arg2:T16
+R2	CarriedOn Arg1:T19 Arg2:T17
+T20	Substrate 2499 2507	gasoline
+T21	Substrate 2499 2520	gasoline hydrocarbons
+T22	Substrate 2508 2520	hydrocarbons
+T23	Substrate 2433 2445	hydrocarbons
+T24	Substrate 2499 2520	gasoline hydrocarbons
+T25	Substrate 2508 2520	hydrocarbons
+T26	Substrate 2433 2445	hydrocarbons
+T27	Substrate 2690 2698	gasoline
+T28	Substrate 2656 2675	primary hydrocarbon
+T29	Substrate 2570 2582	hydrocarbons
+T30	Substrate 2664 2675	hydrocarbon
+T31	Substrate 2570 2582	hydrocarbons
+T32	ReactionOrProcess 2587 2598	biodegraded
+T33	ReactionOrProcess 2720 2731	biodegraded
+T34	ReactionOrProcess 2708 2719	aerobically
+R3	CarriedOn Arg1:T32 Arg2:T27
+R4	CarriedOn Arg1:T32 Arg2:T28
+R5	CarriedOn Arg1:T32 Arg2:T30
+R6	CarriedOn Arg1:T33 Arg2:T27
+R7	CarriedOn Arg1:T33 Arg2:T28
+R8	CarriedOn Arg1:T33 Arg2:T30
+T35	Substrate 2876 2887	hydrocarbon
+T36	ReactionOrProcess 2847 2858	degradation
+R9	CarriedOn Arg1:T36 Arg2:T35
+T37	Substrate 3156 3168	hydrocarbons
+T38	Substrate 3156 3168	hydrocarbons
+T39	ReactionOrProcess 3123 3134	degradation
+R10	CarriedOn Arg1:T39 Arg2:T37
+R11	CarriedOn Arg1:T39 Arg2:T38
+T40	Substrate 3332 3344	hydrocarbons
+T41	Substrate 3317 3344	different test hydrocarbons
+T42	Substrate 3332 3344	hydrocarbons
+T43	Property 3362 3371	retention
+T44	ReactionOrProcess 3362 3371	retention
+T45	Substrate 3537 3563	specific test hydrocarbons
+T46	Substrate 3551 3563	hydrocarbons
+T47	Substrate 3537 3563	specific test hydrocarbons
+T48	Substrate 3551 3563	hydrocarbons
+T49	Environment 3663 3668	Beach
+T50	Substrate 3619 3630	hydrocarbon
+T51	ReactionOrProcess 3619 3642	hydrocarbon degradation
+T52	ReactionOrProcess 3631 3642	degradation
+T53	ReactionOrProcess 3610 3642	specific hydrocarbon degradation
+T54	Substrate 3713 3734	aromatic hydrocarbons
+T55	Substrate 3744 3751	toluene
+T56	Substrate 3713 3734	aromatic hydrocarbons
+T57	Substrate 3781 3803	1,2,4-trimethylbenzene
+T58	Substrate 3722 3734	hydrocarbons
+T59	Substrate 3763 3775	ethylbenzene
+T60	Substrate 3753 3761	p-xylene
+T61	Substrate 3722 3734	hydrocarbons
+T62	Property 3713 3721	aromatic
+T63	Substrate 3891 3898	toluene
+T64	Nutrient 3916 3922	carbon
+T65	Substrate 3942 3949	Benzene
+T66	Substrate 4050 4058	o-xylene
+T67	Substrate 3954 3965	naphthalene
+T68	Substrate 4150 4158	p-xylene
+T69	Substrate 4018 4027	aromatics
+T70	Property 4018 4027	aromatics
+T71	ReactionOrProcess 3987 3995	degraded
+T72	ReactionOrProcess 4070 4078	degraded
+R12	CarriedOn Arg1:T71 Arg2:T66
+R13	CarriedOn Arg1:T71 Arg2:T68
+R14	CarriedOn Arg1:T72 Arg2:T66
+R15	CarriedOn Arg1:T72 Arg2:T68

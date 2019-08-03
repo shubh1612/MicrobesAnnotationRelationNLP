@@ -1,0 +1,81 @@
+T1	Environment 359 371	soil samples
+T2	Environment 359 363	soil
+T3	ReactionOrProcess 323 329	T-RFLP
+T4	Environment 428 443	landfarmed soil
+T5	Environment 439 443	soil
+T6	ReactionOrProcess 404 410	T-RFLP
+T7	ReactionOrProcess 544 555	degradation
+T8	Environment 653 668	landfarmed soil
+T9	Environment 664 668	soil
+T10	ReactionOrProcess 619 625	T-RFLP
+T11	Environment 883 899	landfarmed soils
+T12	Environment 883 899	landfarmed soils
+T13	Environment 894 899	soils
+T14	ReactionOrProcess 805 811	T-RFLP
+T15	Environment 1118 1133	landfarmed soil
+T16	Environment 1057 1061	soil
+T17	Environment 1129 1133	soil
+T18	Environment 1401 1413	soil samples
+T19	Environment 1401 1405	soil
+T20	Nutrient 1422 1428	carbon
+T21	ReactionOrProcess 1503 1514	degradation
+T22	Substrate 1739 1748	petroleum
+T23	Substrate 1837 1846	petroleum
+T24	Substrate 1831 1859	total petroleum hydrocarbons
+T25	Substrate 1847 1859	hydrocarbons
+T26	Substrate 1831 1859	total petroleum hydrocarbons
+T27	Substrate 1847 1859	hydrocarbons
+T28	Substrate 1837 1859	petroleum hydrocarbons
+T29	ReactionOrProcess 1860 1871	degradation
+T30	Environment 2000 2012	soil samples
+T31	Environment 1933 1949	landfarmed soils
+T32	Environment 1989 2004	landfarmed soil
+T33	Environment 1933 1949	landfarmed soils
+T34	Environment 2000 2004	soil
+T35	Environment 1944 1949	soils
+T36	ReactionOrProcess 1903 1909	T-RFLP
+T37	ReactionOrProcess 2085 2095	incubation
+T38	Environment 2207 2219	control soil
+T39	Environment 2215 2219	soil
+T40	Environment 2522 2538	landfarmed soils
+T41	Environment 2566 2578	control soil
+T42	Environment 2522 2538	landfarmed soils
+T43	Environment 2673 2677	soil
+T44	Environment 2574 2578	soil
+T45	Environment 2533 2538	soils
+T46	ReactionOrProcess 2758 2764	T-RFLP
+T47	Environment 2841 2845	soil
+T48	Environment 2832 2845	pristine soil
+T49	Environment 2942 2954	control soil
+T50	Environment 2929 2954	non-polluted control soil
+T51	Environment 2950 2954	soil
+T52	Environment 3574 3589	landfarmed soil
+T53	Environment 3585 3589	soil
+T54	Substrate 3545 3554	petroleum
+T55	ReactionOrProcess 3555 3566	degradation
+T56	Environment 3688 3700	soil samples
+T57	Environment 3677 3692	landfarmed soil
+T58	Environment 3688 3692	soil
+T59	Environment 3799 3811	control soil
+T60	Environment 3807 3811	soil
+T61	Environment 4104 4116	control soil
+T62	Environment 4091 4116	non-polluted control soil
+T63	Environment 4112 4116	soil
+T64	Property 4197 4203	stable
+T65	ReactionOrProcess 4760 4766	T-RFLP
+T66	ReactionOrProcess 4805 4816	degradation
+T67	Microbes 5090 5101	Alcaligenes
+T68	Environment 5041 5058	landfarming soils
+T69	Environment 5053 5058	soils
+T70	Substrate 5013 5022	petroleum
+T71	Substrate 5023 5035	hydrocarbons
+T72	Substrate 5023 5035	hydrocarbons
+T73	Substrate 5013 5035	petroleum hydrocarbons
+T74	ReactionOrProcess 4980 4991	degradation
+T75	ReactionOrProcess 4939 4948	isolation
+R1	CarriedOn Arg1:T75 Arg2:T67
+R2	CarriedOn Arg1:T75 Arg2:T70
+R3	CarriedOn Arg1:T75 Arg2:T71
+R4	CarriedOn Arg1:T75 Arg2:T72
+R5	CarriedOn Arg1:T75 Arg2:T73
+T76	Microbes 5111 5123	Enterobacter

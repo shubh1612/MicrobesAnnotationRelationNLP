@@ -1,0 +1,89 @@
+T1	Property 127 138	temperature
+T2	ReactionOrProcess 77 80	PCR
+T3	ReactionOrProcess 123 126	PCR
+T4	ReactionOrProcess 0 3	PCR
+T5	Microbes 279 293	Geobacteraceae
+T6	Property 418 432	heteroduplexes
+T7	ReactionOrProcess 434 445	reamplified
+T8	ReactionOrProcess 397 404	excised
+T9	ReactionOrProcess 330 334	DGGE
+T10	Environment 595 603	sediment
+T11	Environment 584 603	triplicate sediment
+T12	Environment 790 798	sediment
+T13	ReactionOrProcess 729 733	DGGE
+T14	ReactionOrProcess 830 844	lyophilization
+T15	ReactionOrProcess 768 771	PCR
+T16	ReactionOrProcess 903 914	reamplified
+T17	ReactionOrProcess 894 898	DGGE
+T18	ReactionOrProcess 859 862	PCR
+T19	Microbes 1062 1076	Geobacteraceae
+T20	Environment 1053 1061	sediment
+T21	ReactionOrProcess 1033 1049	MPN-PCR analysis
+R1	CarriedOn Arg1:T21 Arg2:T19
+T22	Microbes 1098 1112	Geobacteraceae
+T23	Environment 1129 1146	methanogenic site
+T24	Property 1129 1141	methanogenic
+T25	Property 1129 1141	methanogenic
+T26	ReactionOrProcess 1078 1094	MPN-PCR analysis
+R2	CarriedOn Arg1:T26 Arg2:T22
+T27	Property 1351 1370	secondary structure
+T28	ReactionOrProcess 1658 1662	PLFA
+T29	Environment 1699 1707	sediment
+T30	Environment 1838 1846	sediment
+T31	Property 1912 1923	temperature
+T32	ReactionOrProcess 1860 1870	sonication
+T33	ReactionOrProcess 1684 1693	extracted
+T34	ReactionOrProcess 1885 1895	incubation
+T35	ReactionOrProcess 1673 1677	PLFA
+T36	ReactionOrProcess 1673 1678	PLFAs
+T37	Environment 1968 1976	sediment
+T38	ReactionOrProcess 1980 1994	centrifugation
+T39	Environment 2042 2050	sediment
+T40	Substrate 2078 2096	methylene chloride
+T41	ReactionOrProcess 2055 2061	washed
+R3	CarriedOn Arg1:T41 Arg2:T40
+T42	Environment 2203 2208	water
+T43	ReactionOrProcess 2314 2328	centrifugation
+T44	ReactionOrProcess 2371 2380	pipetting
+T45	ReactionOrProcess 2453 2465	fractionated
+T46	ReactionOrProcess 2503 2507	PLFA
+T47	Microbes 2833 2847	Geobacteraceae
+T48	Substrate 2786 2793	benzene
+T49	ReactionOrProcess 2794 2808	mineralization
+R4	CarriedOn Arg1:T49 Arg2:T47
+T50	Environment 2929 2948	uncontaminated site
+T51	Environment 2960 2982	methanogenic sediments
+T52	Environment 2973 2982	sediments
+T53	Environment 2960 2982	methanogenic sediments
+T54	Substrate 2859 2866	benzene
+T55	Substrate 2849 2866	Anaerobic benzene
+T56	Property 2960 2972	methanogenic
+T57	Property 2960 2972	methanogenic
+T58	ReactionOrProcess 2849 2881	Anaerobic benzene mineralization
+T59	ReactionOrProcess 2867 2881	mineralization
+T60	Environment 3150 3159	sediments
+T61	Substrate 3139 3146	benzene
+T62	Substrate 3208 3215	benzene
+T63	ReactionOrProcess 3201 3230	slight benzene mineralization
+T64	ReactionOrProcess 3094 3108	mineralization
+T65	ReactionOrProcess 3216 3230	mineralization
+R5	CarriedOn Arg1:T63 Arg2:T61
+R6	CarriedOn Arg1:T63 Arg2:T62
+R7	CarriedOn Arg1:T64 Arg2:T61
+R8	CarriedOn Arg1:T64 Arg2:T62
+R9	CarriedOn Arg1:T65 Arg2:T61
+R10	CarriedOn Arg1:T65 Arg2:T62
+T66	Microbes 3383 3397	Geobacteraceae
+T67	Environment 3418 3440	methanogenic sediments
+T68	Environment 3431 3440	sediments
+T69	Environment 3418 3440	methanogenic sediments
+T70	Property 3418 3430	methanogenic
+T71	Property 3418 3430	methanogenic
+T72	ReactionOrProcess 3276 3292	MPN-PCR analysis
+R11	CarriedOn Arg1:T72 Arg2:T66
+T73	Microbes 3502 3516	Geobacteraceae
+T74	Microbes 3832 3846	Geobacteraceae
+T75	ReactionOrProcess 3882 3886	PLFA
+T76	Environment 4075 4094	uncontaminated site
+T77	Property 3925 3939	concentrations
+T78	ReactionOrProcess 3920 3924	PLFA

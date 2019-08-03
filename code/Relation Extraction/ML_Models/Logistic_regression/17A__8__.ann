@@ -1,0 +1,89 @@
+T1	ReactionOrProcess 126 140	bioremediation
+T2	ReactionOrProcess 384 391	excised
+T3	ReactionOrProcess 274 281	Excised
+T4	Microbes 535 551	α-Proteobacteria
+T5	Microbes 607 646	Cytophaga-Flexibacter-Bacteroides group
+T6	Microbes 584 600	γ-Proteobacteria
+T7	Microbes 992 1008	α-Proteobacteria
+T8	Microbes 811 827	γ-Proteobacteria
+T9	Microbes 1165 1181	γ-Proteobacteria
+T10	Substrate 770 773	TPH
+T11	Substrate 893 896	TPH
+T12	Property 774 787	concentration
+T13	Property 897 910	concentration
+T14	Microbes 1396 1412	α-Proteobacteria
+T15	Microbes 1417 1433	γ-Proteobacteria
+T16	Substrate 1559 1569	anthracene
+T17	Substrate 1206 1209	PAH
+T18	Substrate 1529 1541	phenanthrene
+T19	Substrate 1495 1507	fluoranthene
+T20	Substrate 1363 1371	chrysene
+T21	Substrate 1331 1337	pyrene
+T22	Property 1210 1224	concentrations
+T23	Property 1372 1386	concentrations
+T24	Substrate 1646 1650	PAHs
+T25	Microbes 1708 1724	α-Proteobacteria
+T26	Substrate 1822 1834	fluoranthene
+T27	Substrate 1839 1845	pyrene
+T28	Substrate 1946 1956	anthracene
+T29	Substrate 1932 1944	phenanthrene
+T30	Substrate 1982 1990	chrysene
+T31	Microbes 2012 2028	γ-Proteobacteria
+T32	Substrate 2063 2066	PAH
+T33	Property 2067 2081	concentrations
+T34	ReactionOrProcess 2133 2148	bioaugmentation
+T35	ReactionOrProcess 2264 2279	bioaugmentation
+T36	ReactionOrProcess 2152 2191	denaturing gradient gel electrophoresis
+T37	ReactionOrProcess 2245 2259	biostimulation
+T38	Microbes 2413 2421	inoculum
+T39	Environment 2436 2451	inoculated soil
+T40	ReactionOrProcess 2393 2397	DGGE
+T41	Microbes 2710 2718	inoculum
+T42	ReactionOrProcess 2812 2830	PAH biodegradation
+T43	ReactionOrProcess 2525 2536	inoculation
+T44	ReactionOrProcess 2894 2909	bioaugmentation
+T45	ReactionOrProcess 2857 2861	DGGE
+T46	ReactionOrProcess 2875 2889	biostimulation
+T47	Microbes 3029 3037	inoculum
+T48	Substrate 3159 3163	PAHs
+T49	Substrate 3168 3171	TPH
+T50	ReactionOrProcess 2979 2993	biodegradation
+T51	ReactionOrProcess 3141 3155	biodegradation
+T52	Environment 3553 3561	dry soil
+T53	ReactionOrProcess 3449 3464	bioaugmentation
+T54	ReactionOrProcess 3608 3618	incubation
+T55	ReactionOrProcess 3317 3356	Denaturing gradient gel electrophoresis
+T56	ReactionOrProcess 3750 3760	incubation
+T57	ReactionOrProcess 3691 3701	incubation
+T58	Microbes 3804 3812	inoculum
+R1	Of Arg1:T7 Arg2:T12
+R2	Of Arg1:T7 Arg2:T13
+R3	Of Arg1:T8 Arg2:T12
+R4	Of Arg1:T8 Arg2:T13
+R5	ActOn Arg1:T7 Arg2:T10
+R6	ActOn Arg1:T7 Arg2:T11
+R7	ActOn Arg1:T8 Arg2:T10
+R8	ActOn Arg1:T8 Arg2:T11
+R9	ActOn Arg1:T9 Arg2:T10
+R10	ActOn Arg1:T9 Arg2:T11
+R11	Of Arg1:T14 Arg2:T23
+R12	Of Arg1:T15 Arg2:T23
+R13	ActOn Arg1:T14 Arg2:T16
+R14	ActOn Arg1:T14 Arg2:T17
+R15	ActOn Arg1:T14 Arg2:T18
+R16	ActOn Arg1:T14 Arg2:T19
+R17	ActOn Arg1:T14 Arg2:T20
+R18	ActOn Arg1:T14 Arg2:T21
+R19	ActOn Arg1:T15 Arg2:T16
+R20	ActOn Arg1:T15 Arg2:T17
+R21	ActOn Arg1:T15 Arg2:T18
+R22	ActOn Arg1:T15 Arg2:T19
+R23	ActOn Arg1:T15 Arg2:T20
+R24	ActOn Arg1:T15 Arg2:T21
+R25	ActOn Arg1:T25 Arg2:T26
+R26	ActOn Arg1:T25 Arg2:T27
+R27	Of Arg1:T31 Arg2:T33
+R28	ActOn Arg1:T31 Arg2:T32
+R29	FoundIn Arg1:T38 Arg2:T39
+R30	ActOn Arg1:T47 Arg2:T48
+R31	ActOn Arg1:T47 Arg2:T49

@@ -1,0 +1,77 @@
+T1	Substrate 12 19	alkanes
+T2	Substrate 82 89	alkanes
+T3	Substrate 258 261	oil
+T4	Substrate 284 287	oil
+T5	ReactionOrProcess 69 78	oxidation
+T6	ReactionOrProcess 59 78	anaerobic oxidation
+T7	ReactionOrProcess 245 254	reduction
+R1	CarriedOn Arg1:T5 Arg2:T3
+R2	CarriedOn Arg1:T5 Arg2:T4
+R3	CarriedOn Arg1:T6 Arg2:T3
+R4	CarriedOn Arg1:T6 Arg2:T4
+T8	Substrate 300 307	Alkanes
+T9	Substrate 318 321	oil
+T10	Nutrient 383 389	carbon
+T11	Substrate 452 459	alkanes
+T12	Enzyme 574 587	monooxygenase
+T13	ReactionOrProcess 643 669	aerobic alkane degradation
+T14	ReactionOrProcess 651 669	alkane degradation
+T15	ReactionOrProcess 658 669	degradation
+T16	ReactionOrProcess 919 930	utilization
+R5	Inhibit_Catalyse Arg1:T12 Arg2:T16
+T17	Substrate 1116 1123	alkanes
+T18	Substrate 1141 1148	nitrate
+T19	ReactionOrProcess 1101 1112	degradation
+T20	ReactionOrProcess 1091 1112	anaerobic degradation
+R6	CarriedOn Arg1:T19 Arg2:T17
+R7	CarriedOn Arg1:T19 Arg2:T18
+R8	CarriedOn Arg1:T20 Arg2:T17
+R9	CarriedOn Arg1:T20 Arg2:T18
+T21	Property 1322 1334	methanogenic
+T22	Property 1322 1334	methanogenic
+T23	ReactionOrProcess 1300 1318	alkane degradation
+T24	ReactionOrProcess 1307 1318	degradation
+T25	ReactionOrProcess 1400 1411	degradation
+T26	ReactionOrProcess 1390 1411	anaerobic degradation
+T27	Nutrient 1701 1707	carbon
+T28	Substrate 2011 2020	n-alkanes
+T29	Nutrient 2050 2056	carbon
+T30	Microbes 2355 2376	denitrifying bacteria
+T31	Substrate 2211 2219	n-hexane
+T32	Property 2080 2092	denitrifying
+T33	Property 2355 2367	denitrifying
+T34	ReactionOrProcess 2125 2143	alkane degradation
+T35	ReactionOrProcess 2080 2092	denitrifying
+T36	ReactionOrProcess 2355 2367	denitrifying
+T37	ReactionOrProcess 2132 2143	degradation
+R10	CarriedOn Arg1:T34 Arg2:T31
+R11	CarriedOn Arg1:T35 Arg2:T31
+R12	CarriedOn Arg1:T36 Arg2:T31
+R13	CarriedOn Arg1:T37 Arg2:T31
+T38	Substrate 2554 2561	toluene
+T39	Microbes 2754 2772	enrichment culture
+T40	Substrate 2826 2834	n-hexane
+T41	Substrate 2812 2822	n-dodecane
+T42	Property 2779 2791	denitrifying
+T43	ReactionOrProcess 2754 2764	enrichment
+T44	ReactionOrProcess 2779 2791	denitrifying
+R14	CarriedOn Arg1:T43 Arg2:T40
+R15	CarriedOn Arg1:T43 Arg2:T41
+T45	Substrate 2932 2940	n-hexane
+T46	Substrate 3185 3200	alkylsuccinates
+T47	Substrate 3372 3379	toluene
+T48	Nutrient 3493 3499	carbon
+T49	Substrate 3836 3843	toluene
+T50	Substrate 4091 4098	toluene
+T51	Nutrient 4039 4045	carbon
+T52	Nutrient 4161 4167	carbon
+T53	Substrate 4239 4250	hydrocarbon
+T54	Substrate 4356 4371	alkylsuccinates
+T55	ReactionOrProcess 4341 4352	degradation
+R16	CarriedOn Arg1:T55 Arg2:T54
+T56	Substrate 4466 4481	alkylsuccinates
+T57	Substrate 4557 4564	alkanes
+T58	Substrate 4650 4657	alkanes
+T59	ReactionOrProcess 4494 4502	degraded
+T60	Nutrient 4608 4614	carbon
+T61	ReactionOrProcess 4886 4906	anaerobic activation

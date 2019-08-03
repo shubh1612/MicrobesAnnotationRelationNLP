@@ -1,0 +1,43 @@
+T1	Environment 964 981	methanogenic soil
+T2	Environment 977 981	soil
+T3	Property 964 976	methanogenic
+T4	Property 964 976	methanogenic
+T5	ReactionOrProcess 1547 1556	reduction
+T6	ReactionOrProcess 1539 1556	sulfate reduction
+T7	Microbes 2270 2286	Methanosaeta spp
+T8	Microbes 2212 2224	Methanosaeta
+T9	Microbes 2270 2282	Methanosaeta
+T10	Environment 2155 2177	methanogenic zone soil
+T11	Environment 2173 2177	soil
+T12	Property 2155 2167	methanogenic
+T13	Property 2155 2167	methanogenic
+T14	ReactionOrProcess 2375 2389	methanogenesis
+T15	ReactionOrProcess 2491 2505	methanogenesis
+T16	Environment 2580 2602	methanogenic zone soil
+T17	Environment 2598 2602	soil
+T18	Property 2580 2592	methanogenic
+T19	Property 2580 2592	methanogenic
+T20	Microbes 2756 2766	Syntrophus
+T21	Substrate 2756 2770	Syntrophus spp
+T22	ReactionOrProcess 2805 2814	oxidation
+T23	ReactionOrProcess 2795 2814	anaerobic oxidation
+T24	Microbes 3094 3107	Desulfovibrio
+T25	Microbes 3065 3081	Methanospirillum
+T26	ReactionOrProcess 3150 3161	utilization
+T27	Property 3332 3354	syntrophic association
+T28	ReactionOrProcess 3332 3354	syntrophic association
+T29	Substrate 3667 3691	methanogenic hydrocarbon
+T30	Substrate 3680 3691	hydrocarbon
+T31	Property 3557 3569	methanogenic
+T32	Property 3667 3679	methanogenic
+T33	Property 3557 3569	methanogenic
+T34	Property 3667 3679	methanogenic
+T35	ReactionOrProcess 3680 3703	hydrocarbon degradation
+T36	ReactionOrProcess 3667 3703	methanogenic hydrocarbon degradation
+T37	ReactionOrProcess 3692 3703	degradation
+T38	ReactionOrProcess 3875 3885	extraction
+T39	ReactionOrProcess 3887 3890	PCR
+T40	ReactionOrProcess 3896 3903	cloning
+T41	ReactionOrProcess 3871 3885	DNA extraction
+T42	ReactionOrProcess 4086 4095	extracted
+T43	ReactionOrProcess 4069 4082	hybridization

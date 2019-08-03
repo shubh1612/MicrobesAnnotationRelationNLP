@@ -1,0 +1,52 @@
+T1	Microbes 86 100	Geobacteraceae
+T2	ReactionOrProcess 32 35	PCR
+T3	Environment 240 259	uncontaminated site
+T4	ReactionOrProcess 185 189	DGGE
+T5	ReactionOrProcess 185 198	DGGE analysis
+T6	Property 274 291	benzene-oxidizing
+T7	Microbes 561 580	enrichment cultures
+T8	Microbes 441 455	Geobacteraceae
+T9	Environment 501 520	uncontaminated site
+T10	ReactionOrProcess 561 571	enrichment
+T11	Microbes 1212 1226	Geobacteraceae
+T12	Environment 1246 1255	sediments
+T13	Microbes 1322 1336	Geobacteraceae
+T14	ReactionOrProcess 1308 1318	enrichment
+T15	ReactionOrProcess 1261 1265	PLFA
+R1	CarriedOn Arg1:T14 Arg2:T13
+R2	CarriedOn Arg1:T15 Arg2:T13
+T16	Microbes 1500 1514	Geobacteraceae
+T17	ReactionOrProcess 1364 1368	PLFA
+T18	Substrate 1664 1671	benzene
+T19	ReactionOrProcess 1742 1746	DGGE
+T20	ReactionOrProcess 1672 1683	degradation
+T21	ReactionOrProcess 1795 1799	DGGE
+T22	Environment 1986 1993	aquifer
+T23	Property 2116 2128	temperatures
+T24	Environment 2220 2228	sediment
+T25	Environment 2209 2228	triplicate sediment
+T26	ReactionOrProcess 2233 2244	extractions
+T27	ReactionOrProcess 2347 2351	DGGE
+T28	ReactionOrProcess 2254 2257	PCR
+T29	ReactionOrProcess 2229 2244	DNA extractions
+T30	Environment 2619 2638	uncontaminated site
+T31	ReactionOrProcess 2476 2480	DGGE
+T32	Environment 2755 2770	surficial soils
+T33	Environment 2765 2770	soils
+T34	Environment 2755 2770	surficial soils
+T35	ReactionOrProcess 2687 2691	PLFA
+T36	Environment 2945 2954	sediments
+T37	Environment 2934 2954	subsurface sediments
+T38	Environment 2805 2815	subsurface
+T39	Environment 2934 2944	subsurface
+T40	Environment 2934 2954	subsurface sediments
+T41	Nutrient 2894 2900	carbon
+T42	Environment 3010 3020	subsurface
+T43	Environment 3128 3132	soil
+T44	Environment 3118 3132	surficial soil
+T45	Environment 3287 3305	methanogenic zones
+T46	Environment 3313 3320	aquifer
+T47	Property 3287 3299	methanogenic
+T48	Property 3287 3299	methanogenic
+T49	ReactionOrProcess 3162 3166	DGGE
+T50	ReactionOrProcess 3273 3281	reducing

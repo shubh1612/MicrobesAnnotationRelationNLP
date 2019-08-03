@@ -1,0 +1,60 @@
+T1	Microbes 87 100	Sinorhizobium
+T2	Substrate 264 267	DBT
+T3	Substrate 256 259	BTH
+T4	Property 328 350	thermophilic bacterium
+T5	ReactionOrProcess 232 247	desulfurization
+T6	Property 390 410	mesophilic bacterium
+T7	Microbes 465 478	M. goodii X7B
+T8	Substrate 551 554	DBT
+T9	Substrate 544 547	BTH
+T10	Substrate 567 573	sulfur
+T11	Property 482 516	facultative thermophilic bacterium
+T12	Microbes 613 626	Sinorhizobium
+T13	ReactionOrProcess 586 601	desulfurization
+T14	ReactionOrProcess 806 821	BTH degradation
+T15	Substrate 942 945	BTH
+T16	Substrate 1058 1061	BTH
+T17	ReactionOrProcess 1062 1077	desulfurization
+T18	Microbes 1192 1195	X7B
+T19	Substrate 1166 1169	BTH
+T20	Microbes 1359 1372	Sinorhizobium
+T21	Microbes 1302 1315	M. goodii X7B
+T22	ReactionOrProcess 1332 1355	BTH degradation pathway
+T23	ReactionOrProcess 1551 1566	BTH degradation
+T24	Microbes 1767 1770	X7B
+T25	Substrate 1717 1720	BTH
+T26	Substrate 1836 1865	sulfur-containing xenobiotics
+T27	Substrate 1731 1737	sulfur
+T28	ReactionOrProcess 1804 1819	desulfurization
+T29	Microbes 1962 1965	X7B
+T30	Substrate 2059 2062	DBT
+T31	Substrate 2051 2054	BTH
+T32	ReactionOrProcess 1897 1905	purified
+T33	ReactionOrProcess 1936 1951	BTH degradation
+T34	ReactionOrProcess 2024 2042	biodesulfurization
+T35	Substrate 2123 2131	gasoline
+T36	Substrate 2180 2184	oils
+T37	Substrate 2235 2241	sulfur
+T38	Property 2105 2119	sulfur species
+T39	ReactionOrProcess 2148 2172	fluid catalytic cracking
+T40	Substrate 2302 2312	thiophenes
+T41	Substrate 2314 2318	BTHs
+R1	CarriedOn Arg1:T5 Arg2:T2
+R2	CarriedOn Arg1:T5 Arg2:T3
+R3	Of Arg1:T7 Arg2:T11
+R4	ActOn Arg1:T7 Arg2:T8
+R5	ActOn Arg1:T7 Arg2:T9
+R6	ActOn Arg1:T7 Arg2:T10
+R7	CarriedOn Arg1:T13 Arg2:T12
+R9	CarriedOn Arg1:T17 Arg2:T16
+R10	ActOn Arg1:T18 Arg2:T19
+R11	CarriedOn Arg1:T22 Arg2:T20
+R12	CarriedOn Arg1:T22 Arg2:T21
+R16	CarriedOn Arg1:T28 Arg2:T24
+R18	CarriedOn Arg1:T28 Arg2:T26
+R22	CarriedOn Arg1:T32 Arg2:T29
+R23	CarriedOn Arg1:T33 Arg2:T29
+R29	CarriedOn Arg1:T34 Arg2:T30
+R30	CarriedOn Arg1:T34 Arg2:T31
+R32	CarriedOn Arg1:T39 Arg2:T36
+R33	CarriedOn Arg1:T39 Arg2:T37

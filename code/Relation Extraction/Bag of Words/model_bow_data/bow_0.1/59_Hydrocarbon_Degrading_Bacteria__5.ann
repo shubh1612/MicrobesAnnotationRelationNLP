@@ -1,0 +1,57 @@
+T1	Environment 186 208	oil-contaminated sands
+T2	Environment 50 54	sand
+T3	Environment 203 208	sands
+T4	Environment 261 266	sands
+T5	Environment 186 208	oil-contaminated sands
+T6	ReactionOrProcess 0 11	Enumeration
+T7	ReactionOrProcess 354 365	Enumeration
+T8	Environment 569 573	sand
+T9	Substrate 593 617	cultivatable hydrocarbon
+T10	Substrate 606 617	hydrocarbon
+T11	Property 618 627	degraders
+T12	Environment 705 716	oiled sands
+T13	Environment 911 915	sand
+T14	Environment 711 716	sands
+T15	Substrate 740 751	hydrocarbon
+T16	Environment 975 986	clean sands
+T17	Environment 975 986	clean sands
+T18	Environment 1043 1048	Beach
+T19	Environment 1043 1054	Beach sands
+T20	Environment 981 986	sands
+T21	Environment 1049 1054	sands
+T22	Substrate 1063 1074	visible oil
+T23	Substrate 1071 1074	oil
+T24	ReactionOrProcess 1000 1011	enumeration
+T25	Environment 1124 1128	sand
+T26	Environment 1214 1219	sands
+T27	Substrate 1142 1153	visible oil
+T28	Substrate 1228 1239	visible oil
+T29	Substrate 1150 1153	oil
+T30	Substrate 1236 1239	oil
+T31	Environment 1373 1387	nonoiled sands
+T32	Environment 1382 1387	sands
+T33	Environment 1373 1387	nonoiled sands
+T34	Substrate 1565 1576	visible oil
+T35	Substrate 1573 1576	oil
+T36	Substrate 1815 1826	visible oil
+T37	Substrate 1823 1826	oil
+T38	Substrate 2011 2014	oil
+T39	Substrate 2090 2093	oil
+T40	Substrate 2265 2268	oil
+T41	Environment 3120 3125	beach
+T42	Environment 3120 3131	beach sands
+T43	Environment 3126 3131	sands
+T44	Environment 3150 3170	anaerobic conditions
+T45	Substrate 3054 3057	oil
+T46	ReactionOrProcess 2970 2980	Enrichment
+T47	ReactionOrProcess 2985 2994	isolation
+T48	Nutrient 3070 3076	carbon
+R1	CarriedOn Arg1:T46 Arg2:T45
+R2	CarriedOn Arg1:T47 Arg2:T45
+T49	Microbes 3360 3370	Firmicutes
+T50	Microbes 3376 3390	Actinobacteria
+T51	Microbes 3552 3571	Gammaproteobacteria
+T52	Microbes 3484 3499	Alteromonadales
+T53	Microbes 3614 3633	Alphaproteobacteria
+T54	Microbes 3692 3702	Firmicutes
+T55	Microbes 3707 3721	Actinobacteria

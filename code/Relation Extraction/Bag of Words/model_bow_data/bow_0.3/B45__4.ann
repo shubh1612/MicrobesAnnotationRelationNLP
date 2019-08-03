@@ -1,0 +1,81 @@
+T1	ReactionOrProcess 98 123	flame ionization detector
+T2	ReactionOrProcess 115 123	detector
+T3	ReactionOrProcess 98 114	flame ionization
+T4	Substrate 229 236	Nitrate
+T5	ReactionOrProcess 376 384	detector
+T6	Substrate 599 606	methane
+T7	Environment 959 967	sediment
+T8	Environment 1040 1045	water
+T9	ReactionOrProcess 1005 1013	degraded
+T10	ReactionOrProcess 897 908	Degradation
+T11	Property 1190 1204	concentrations
+T12	Environment 1350 1354	Lake
+T13	Substrate 1229 1233	BTEX
+T14	Substrate 1399 1406	nitrate
+T15	Substrate 1460 1467	Toluene
+T16	Substrate 1482 1494	ethylbenzene
+T17	Substrate 1469 1477	m-xylene
+T18	ReactionOrProcess 1548 1559	enrichments
+T19	Substrate 1666 1674	p-xylene
+T20	Environment 1783 1792	sediments
+T21	ReactionOrProcess 1750 1761	degradation
+T22	Substrate 1794 1801	Toluene
+T23	Substrate 1807 1815	m-xylene
+T24	ReactionOrProcess 1862 1872	incubation
+T25	Substrate 1905 1917	ethylbenzene
+T26	Substrate 1985 1993	o-xylene
+T27	Property 1968 1981	concentration
+T28	Substrate 2105 2109	BTEX
+T29	ReactionOrProcess 2077 2088	enrichments
+T30	ReactionOrProcess 2090 2101	degradation
+R1	CarriedOn Arg1:T29 Arg2:T28
+R2	CarriedOn Arg1:T30 Arg2:T28
+T31	Environment 2257 2262	water
+T32	Substrate 2421 2428	benzene
+T33	Substrate 2320 2327	Toluene
+T34	Substrate 2393 2405	ethylbenzene
+T35	Substrate 2380 2388	p-xylene
+T36	Substrate 2365 2373	m-xylene
+T37	ReactionOrProcess 2332 2340	degraded
+R3	CarriedOn Arg1:T37 Arg2:T32
+R4	CarriedOn Arg1:T37 Arg2:T34
+T38	Substrate 2487 2494	toluene
+T39	Substrate 2499 2507	m-xylene
+T40	Property 2437 2453	sulfate-reducing
+T41	ReactionOrProcess 2513 2521	degraded
+T42	ReactionOrProcess 2457 2468	enrichments
+R5	CarriedOn Arg1:T42 Arg2:T39
+T43	Microbes 2581 2602	methanogenic cultures
+T44	Environment 2679 2687	sediment
+T45	Environment 2724 2729	water
+T46	Substrate 2634 2638	BTEX
+T47	Property 2581 2593	methanogenic
+T48	Property 2581 2593	methanogenic
+T49	ReactionOrProcess 2730 2740	enrichment
+T50	ReactionOrProcess 2624 2633	degrading
+T51	Substrate 2742 2749	toluene
+T52	Substrate 2754 2766	ethylbenzene
+T53	ReactionOrProcess 2796 2806	incubation
+T54	Substrate 2862 2870	o-xylene
+T55	Substrate 2979 2986	toluene
+T56	Substrate 3032 3040	o-xylene
+T57	Substrate 3019 3027	m-xylene
+T58	ReactionOrProcess 2971 2978	degrade
+T59	Nutrient 2908 2912	Iron
+R6	CarriedOn Arg1:T58 Arg2:T56
+R7	CarriedOn Arg1:T58 Arg2:T57
+T60	Substrate 3102 3110	o-xylene
+T61	Substrate 3075 3087	ethylbenzene
+T62	Substrate 3089 3097	m-xylene
+T63	ReactionOrProcess 3121 3131	enrichment
+T64	Environment 3279 3284	water
+T65	Substrate 3189 3196	nitrate
+T66	Property 3171 3185	concentrations
+T67	Property 3230 3242	denitrifying
+T68	Property 3247 3259	sulfidogenic
+T69	ReactionOrProcess 3327 3337	incubation
+T70	ReactionOrProcess 3230 3242	denitrifying
+T71	Substrate 3363 3367	BTEX
+T72	Substrate 3552 3556	BTEX
+T73	ReactionOrProcess 3368 3379	degradation
+T74	Nutrient 3411 3428	electron acceptor

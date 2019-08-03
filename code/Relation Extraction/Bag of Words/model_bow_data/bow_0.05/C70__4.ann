@@ -1,0 +1,69 @@
+T1	ReactionOrProcess 30 40	replicates
+T2	Substrate 97 103	hexane
+T3	ReactionOrProcess 116 126	extraction
+T4	ReactionOrProcess 164 179	chromatographic
+T5	Substrate 190 202	Phenanthrene
+T6	Substrate 348 371	significant hydrocarbon
+T7	Substrate 360 371	hydrocarbon
+T8	ReactionOrProcess 360 383	hydrocarbon degradation
+T9	ReactionOrProcess 372 383	degradation
+T10	ReactionOrProcess 348 383	significant hydrocarbon degradation
+T11	Substrate 627 636	petroleum
+T12	Substrate 700 709	petroleum
+T13	ReactionOrProcess 498 509	enrichments
+T14	ReactionOrProcess 553 564	enrichments
+R1	CarriedOn Arg1:T13 Arg2:T11
+R2	CarriedOn Arg1:T13 Arg2:T12
+R3	CarriedOn Arg1:T14 Arg2:T11
+R4	CarriedOn Arg1:T14 Arg2:T12
+T15	Substrate 1043 1052	petroleum
+T16	Substrate 1027 1052	non-biodegraded petroleum
+T17	Substrate 1011 1021	hexadecane
+T18	Substrate 1152 1163	hydrocarbon
+T19	ReactionOrProcess 978 989	enrichments
+T20	ReactionOrProcess 1152 1178	hydrocarbon biodegradation
+T21	ReactionOrProcess 1164 1178	biodegradation
+T22	Nutrient 1068 1074	carbon
+R5	CarriedOn Arg1:T19 Arg2:T18
+T23	ReactionOrProcess 1281 1291	enrichment
+T24	Property 1664 1680	sulfate-reducing
+T25	ReactionOrProcess 1589 1600	enrichments
+T26	ReactionOrProcess 1698 1709	enrichments
+T27	ReactionOrProcess 1626 1635	reduction
+T28	ReactionOrProcess 1618 1635	sulfate reduction
+T29	ReactionOrProcess 1720 1730	extraction
+T30	ReactionOrProcess 1741 1751	extraction
+T31	ReactionOrProcess 1890 1900	enrichment
+T32	ReactionOrProcess 1934 1944	enrichment
+T33	ReactionOrProcess 1798 1809	enrichments
+T34	ReactionOrProcess 1737 1751	DNA extraction
+T35	ReactionOrProcess 1716 1730	DNA extraction
+T36	Substrate 1990 1999	petroleum
+T37	ReactionOrProcess 1965 1975	extraction
+T38	ReactionOrProcess 2010 2021	enrichments
+T39	ReactionOrProcess 1961 1975	DNA extraction
+T40	Substrate 2090 2099	petroleum
+T41	ReactionOrProcess 2065 2075	extraction
+T42	ReactionOrProcess 2110 2121	enrichments
+T43	ReactionOrProcess 2061 2075	DNA extraction
+T44	Substrate 2283 2293	hexadecane
+T45	Substrate 2359 2362	oil
+T46	ReactionOrProcess 2266 2276	enrichment
+T47	ReactionOrProcess 2339 2349	enrichment
+T48	ReactionOrProcess 2231 2241	enrichment
+T49	Nutrient 2297 2303	carbon
+T50	Nutrient 2366 2372	carbon
+R6	CarriedOn Arg1:T46 Arg2:T45
+R7	CarriedOn Arg1:T47 Arg2:T45
+R8	CarriedOn Arg1:T48 Arg2:T45
+T51	Substrate 2392 2402	hexadecane
+T52	Substrate 2548 2551	oil
+T53	ReactionOrProcess 2435 2445	enrichment
+T54	ReactionOrProcess 2528 2538	enrichment
+R9	CarriedOn Arg1:T53 Arg2:T52
+R10	CarriedOn Arg1:T54 Arg2:T52
+T55	Substrate 2696 2706	hexadecane
+T56	Substrate 2713 2716	oil
+T57	ReactionOrProcess 2679 2689	enrichment
+T58	Nutrient 2750 2756	carbon
+T59	ReactionOrProcess 2907 2918	enrichments

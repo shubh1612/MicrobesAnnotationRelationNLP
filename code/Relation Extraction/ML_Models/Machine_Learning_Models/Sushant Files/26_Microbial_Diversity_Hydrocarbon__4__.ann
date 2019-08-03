@@ -1,0 +1,12 @@
+T1	Environment 137 157	contaminated aquifer
+T2	Environment 273 280	aquifer
+T3	ReactionOrProcess 258 267	extracted
+T4	ReactionOrProcess 118 123	redox
+T5	ReactionOrProcess 240 243	PCR
+T6	ReactionOrProcess 462 467	redox
+T7	Property 701 717	sulfate-reducing
+T8	ReactionOrProcess 1122 1127	redox
+T9	Environment 2344 2351	aquifer
+T10	Microbes 4337 4352	Verrucomicrobia
+T11	Substrate 4376 4382	sulfur
+R1	ActOn Arg1:T10 Arg2:T11

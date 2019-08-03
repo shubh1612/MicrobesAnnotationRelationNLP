@@ -1,0 +1,130 @@
+T1	Microbes 132 143	strain HxN1
+T2	Substrate 72 79	alkanes
+T3	Substrate 65 79	cyclic alkanes
+T4	Microbes 652 656	PbN1
+T5	Microbes 661 665	EbN1
+T6	Microbes 557 568	strain HxN1
+T7	Substrate 603 616	alkylbenzenes
+T8	ReactionOrProcess 617 626	degrading
+R1	CarriedOn Arg1:T8 Arg2:T5
+T9	Microbes 728 736	Azoarcus
+T10	Microbes 932 943	Strain OcN1
+T11	Microbes 1058 1071	Dechloromonas
+T12	Substrate 1031 1038	benzene
+T13	Substrate 1021 1038	anaerobic benzene
+T14	ReactionOrProcess 1021 1050	anaerobic benzene degradation
+T15	ReactionOrProcess 1039 1050	degradation
+T16	Microbes 1240 1256	γ-Proteobacteria
+T17	Substrate 1144 1153	n-alkanes
+T18	Substrate 1189 1196	nitrate
+T19	ReactionOrProcess 1120 1129	oxidation
+T20	ReactionOrProcess 1110 1129	Anaerobic oxidation
+T21	ReactionOrProcess 1176 1185	reduction
+T22	ReactionOrProcess 1110 1152	Anaerobic oxidation of long-chain n-alkane
+T23	ReactionOrProcess 1110 1153	Anaerobic oxidation of long-chain n-alkanes
+R2	CarriedOn Arg1:T19 Arg2:T16
+R3	CarriedOn Arg1:T20 Arg2:T16
+R4	CarriedOn Arg1:T21 Arg2:T16
+R5	CarriedOn Arg1:T23 Arg2:T16
+R6	CarriedOn Arg1:T19 Arg2:T17
+R7	CarriedOn Arg1:T19 Arg2:T18
+R8	CarriedOn Arg1:T20 Arg2:T17
+R9	CarriedOn Arg1:T20 Arg2:T18
+R10	CarriedOn Arg1:T21 Arg2:T18
+R11	CarriedOn Arg1:T23 Arg2:T18
+T24	Microbes 1282 1293	strain HdN1
+T25	Microbes 1343 1355	Marinobacter
+T26	Property 1455 1467	denitrifying
+T27	ReactionOrProcess 1455 1467	denitrifying
+T28	Microbes 1589 1605	γ-Proteobacteria
+T29	Substrate 1626 1635	n-alkanes
+T30	ReactionOrProcess 1618 1625	oxidize
+T31	Microbes 1729 1740	strain HdN1
+T32	Microbes 1811 1827	γ-Proteobacteria
+T33	Microbes 2040 2054	Proteobacteria
+T34	Environment 1889 1905	nitrate-reducing
+T35	ReactionOrProcess 1906 1916	enrichment
+T36	Nutrient 1965 1971	carbon
+R12	CarriedOn Arg1:T35 Arg2:T33
+T37	Microbes 2165 2176	strain HdN1
+T38	Substrate 2149 2156	nitrate
+T39	Property 2157 2164	reducer
+T40	ReactionOrProcess 2086 2090	DGGE
+T41	ReactionOrProcess 2149 2164	nitrate reducer
+T42	ReactionOrProcess 2122 2164	anaerobic alkane-degrading nitrate reducer
+T43	Environment 2296 2312	nitrate-reducing
+T44	Substrate 2246 2253	alkanes
+T45	Substrate 2239 2253	cyclic alkanes
+T46	ReactionOrProcess 2213 2222	oxidation
+T47	ReactionOrProcess 2203 2222	Anaerobic oxidation
+R13	CarriedOn Arg1:T46 Arg2:T44
+R14	CarriedOn Arg1:T46 Arg2:T45
+R15	CarriedOn Arg1:T47 Arg2:T44
+R16	CarriedOn Arg1:T47 Arg2:T45
+T48	Microbes 2510 2529	enrichment cultures
+T49	Environment 2571 2580	sediments
+T50	Environment 2553 2580	fuel-contaminated sediments
+T51	Environment 2479 2495	nitrate-reducing
+T52	Environment 2546 2580	diesel fuel-contaminated sediments
+T53	Environment 2418 2438	anaerobic conditions
+T54	Environment 2553 2580	fuel-contaminated sediments
+T55	Substrate 2546 2552	diesel
+T56	ReactionOrProcess 2461 2472	biodegraded
+T57	ReactionOrProcess 2510 2520	enrichment
+T58	Substrate 2616 2628	cycloalkanes
+T59	ReactionOrProcess 2689 2703	biodegradation
+T60	Microbes 2972 2983	strain HxN1
+T61	Environment 2955 2971	nitrate-reducing
+T62	Environment 3125 3141	nitrate-reducing
+T63	Substrate 3009 3018	n-alkanes
+T64	Substrate 3024 3033	crude oil
+T65	Substrate 3106 3118	cycloalkanes
+T66	Substrate 2905 2917	cycloalkanes
+T67	Substrate 3030 3033	oil
+T68	Substrate 2925 2937	cyclopentane
+T69	ReactionOrProcess 2990 3003	anaerobically
+T70	ReactionOrProcess 2892 2901	oxidation
+T71	ReactionOrProcess 2984 3003	grown anaerobically
+T72	ReactionOrProcess 2882 2901	anaerobic oxidation
+T73	ReactionOrProcess 3091 3102	degradation
+T74	ReactionOrProcess 3081 3102	anaerobic degradation
+R17	CarriedOn Arg1:T70 Arg2:T60
+R18	CarriedOn Arg1:T72 Arg2:T60
+R19	CarriedOn Arg1:T70 Arg2:T63
+R20	CarriedOn Arg1:T70 Arg2:T64
+R21	CarriedOn Arg1:T70 Arg2:T65
+R22	CarriedOn Arg1:T70 Arg2:T66
+R23	CarriedOn Arg1:T70 Arg2:T67
+R24	CarriedOn Arg1:T70 Arg2:T68
+R25	CarriedOn Arg1:T72 Arg2:T63
+R26	CarriedOn Arg1:T72 Arg2:T64
+R27	CarriedOn Arg1:T72 Arg2:T65
+R28	CarriedOn Arg1:T72 Arg2:T66
+R29	CarriedOn Arg1:T72 Arg2:T67
+R30	CarriedOn Arg1:T72 Arg2:T68
+T75	Microbes 3329 3345	Planctomycetales
+T76	Environment 3232 3248	nitrate-reducing
+T77	ReactionOrProcess 3199 3210	degradation
+T78	ReactionOrProcess 3189 3210	anaerobic degradation
+R31	CarriedOn Arg1:T77 Arg2:T75
+R32	CarriedOn Arg1:T78 Arg2:T75
+T79	Microbes 3352 3368	enriched culture
+T80	Microbes 3383 3404	denitrifying bacteria
+T81	Microbes 3530 3543	Geobacter spp
+T82	Property 3383 3395	denitrifying
+T83	ReactionOrProcess 3411 3424	anaerobically
+T84	ReactionOrProcess 3405 3424	grown anaerobically
+T85	ReactionOrProcess 3383 3395	denitrifying
+T86	Nutrient 3454 3460	carbon
+R33	CarriedOn Arg1:T83 Arg2:T81
+R34	CarriedOn Arg1:T84 Arg2:T81
+R35	CarriedOn Arg1:T85 Arg2:T81
+T87	ReactionOrProcess 3628 3641	hybridization
+T88	Microbes 3752 3762	consortium
+T89	Substrate 3714 3721	nitrite
+T90	Nutrient 3793 3801	ammonium
+T91	Microbes 3865 3881	Planctomycetales
+T92	Substrate 3961 3968	nitrite
+T93	ReactionOrProcess 3992 4001	oxidation
+T94	ReactionOrProcess 3973 4001	anaerobic ammonium oxidation
+T95	Nutrient 3983 3991	ammonium

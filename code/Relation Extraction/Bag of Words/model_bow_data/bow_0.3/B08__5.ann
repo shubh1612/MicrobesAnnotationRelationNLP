@@ -1,0 +1,87 @@
+T1	Microbes 37 54	Desulfosporosinus
+T2	Microbes 79 87	inoculum
+T3	ReactionOrProcess 0 10	Enrichment
+T4	ReactionOrProcess 0 11	Enrichments
+R1	CarriedOn Arg1:T4 Arg2:T1
+R2	CarriedOn Arg1:T4 Arg2:T2
+T5	Environment 208 219	groundwater
+T6	Environment 235 240	plume
+T7	Environment 198 219	anaerobic groundwater
+T8	Substrate 143 166	toluene-in-paraffin oil
+T9	Substrate 163 166	oil
+T10	ReactionOrProcess 110 118	reducing
+T11	Property 324 340	sulfate-reducing
+T12	Microbes 483 500	Desulfosporosinus
+T13	Microbes 611 628	Desulfosporosinus
+T14	ReactionOrProcess 667 677	extraction
+T15	ReactionOrProcess 689 692	PCR
+T16	Microbes 913 930	Desulfosporosinus
+T17	Environment 1033 1050	contaminated site
+T18	ReactionOrProcess 1153 1161	reducing
+T19	Property 1353 1369	sulfate-reducing
+T20	ReactionOrProcess 1273 1286	hybridization
+T21	Microbes 1454 1471	Desulfosporosinus
+T22	Environment 1380 1389	Microcosm
+T23	ReactionOrProcess 1498 1510	mineralizing
+T24	Microbes 1583 1600	Desulfosporosinus
+T25	Microbes 1824 1841	Desulfosporosinus
+T26	Environment 1765 1776	groundwater
+T27	Environment 1741 1751	microcosms
+T28	Substrate 1622 1629	benzene
+T29	Substrate 1633 1640	toluene
+T30	ReactionOrProcess 1666 1680	mineralisation
+T31	ReactionOrProcess 1633 1652	toluene degradation
+T32	ReactionOrProcess 1891 1900	reduction
+T33	ReactionOrProcess 1641 1652	degradation
+T34	ReactionOrProcess 1883 1900	sulfate reduction
+T35	Microbes 2088 2105	Desulfosporosinus
+T36	Environment 1964 1975	groundwater
+T37	Environment 1952 1975	non-amended groundwater
+T38	Substrate 1914 1921	toluene
+T39	ReactionOrProcess 1922 1936	mineralisation
+R3	CarriedOn Arg1:T39 Arg2:T35
+T40	Environment 2270 2281	groundwater
+T41	Environment 2258 2281	non-amended groundwater
+T42	Environment 2168 2177	microcosm
+T43	Substrate 2138 2145	toluene
+T44	ReactionOrProcess 2146 2160	mineralisation
+T45	ReactionOrProcess 2235 2249	mineralisation
+T46	Microbes 2431 2448	Desulfosporosinus
+T47	Environment 2333 2344	groundwater
+T48	Environment 2321 2344	non-amended groundwater
+T49	Substrate 2295 2302	benzene
+T50	ReactionOrProcess 2303 2317	mineralisation
+R4	CarriedOn Arg1:T50 Arg2:T46
+T51	Environment 2484 2495	groundwater
+T52	Environment 2601 2612	groundwater
+T53	Environment 2537 2542	plume
+T54	Environment 2653 2658	plume
+T55	Substrate 2573 2580	toluene
+T56	ReactionOrProcess 2581 2595	mineralisation
+T57	Microbes 2728 2736	inoculum
+T58	Environment 2815 2825	microcosms
+T59	Substrate 2785 2792	toluene
+T60	Substrate 2908 2915	toluene
+T61	Property 2740 2756	sulfate-reducing
+T62	Property 2847 2863	sulfate-reducing
+T63	ReactionOrProcess 2793 2807	mineralisation
+T64	Microbes 2942 2959	Desulfosporosinus
+T65	Environment 2998 3003	plume
+T66	Substrate 3016 3027	methanogens
+T67	Substrate 3282 3289	toluene
+T68	Substrate 3162 3169	toluene
+T69	ReactionOrProcess 3207 3219	fermentation
+T70	ReactionOrProcess 3191 3203	accumulation
+T71	ReactionOrProcess 3267 3278	degradation
+T72	Environment 3388 3399	groundwater
+T73	Environment 3400 3410	microcosms
+T74	Substrate 3373 3380	toluene
+T75	ReactionOrProcess 3348 3362	mineralisation
+T76	ReactionOrProcess 3441 3452	degradation
+T77	Environment 3502 3511	Microcosm
+T78	Environment 3502 3512	Microcosms
+T79	Environment 3845 3850	plume
+T80	Substrate 3826 3830	BTEX
+T81	Property 3794 3810	sulfate-reducing
+T82	ReactionOrProcess 3629 3633	PLFA
+R5	CarriedOn Arg1:T82 Arg2:T80

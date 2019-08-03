@@ -1,0 +1,122 @@
+T1	Environment 144 156	spiked soils
+T2	Environment 144 156	spiked soils
+T3	Environment 81 86	soils
+T4	Environment 151 156	soils
+T5	Substrate 106 109	PAH
+T6	ReactionOrProcess 258 272	biodegradation
+T7	Environment 342 363	PAH-contaminated soil
+T8	Environment 491 500	microcosm
+T9	Environment 359 363	soil
+T10	ReactionOrProcess 314 328	bioremediation
+T11	ReactionOrProcess 462 476	bioremediation
+T12	Environment 522 537	loamy clay soil
+T13	Environment 533 537	soil
+T14	Substrate 603 612	petroleum
+T15	Substrate 673 676	PAH
+T16	Substrate 597 624	total petroleum hydrocarbon
+T17	Substrate 613 624	hydrocarbon
+T18	Substrate 594 612	mg total petroleum
+T19	Substrate 749 753	PAHs
+T20	Substrate 758 761	TPH
+T21	ReactionOrProcess 730 741	Degradation
+R1	CarriedOn Arg1:T21 Arg2:T19
+R2	CarriedOn Arg1:T21 Arg2:T20
+T22	Substrate 969 972	PAH
+T23	Property 973 982	degraders
+T24	ReactionOrProcess 887 891	DGGE
+R3	CarriedOn Arg1:T24 Arg2:T22
+T25	Environment 1105 1131	creosote-contaminated soil
+T26	Environment 1069 1073	Soil
+T27	Environment 1127 1131	soil
+T28	ReactionOrProcess 1227 1233	sieved
+T29	Environment 1247 1251	soil
+T30	Substrate 1391 1398	nitrite
+T31	Substrate 1400 1407	ammonia
+T32	Property 1357 1366	saturated
+T33	Property 1319 1328	dissolved
+T34	Nutrient 1409 1419	phosphorus
+T35	Environment 1472 1476	soil
+T36	Property 1495 1517	water-holding capacity
+T37	Nutrient 1564 1570	carbon
+T38	Nutrient 1586 1594	nitrogen
+T39	Environment 1687 1697	microcosms
+T40	Environment 1831 1840	microcosm
+T41	Environment 2014 2024	microcosms
+T42	Environment 1797 1801	soil
+T43	Environment 1932 1936	soil
+T44	Environment 1802 1807	water
+T45	Environment 1869 1874	water
+T46	Environment 1921 1936	autoclaved soil
+T47	Substrate 2167 2170	TPH
+T48	ReactionOrProcess 2149 2163	biodegradation
+T49	ReactionOrProcess 2212 2226	biodegradation
+R4	CarriedOn Arg1:T48 Arg2:T47
+R5	CarriedOn Arg1:T49 Arg2:T47
+T50	Environment 2247 2261	Untreated soil
+T51	Environment 2257 2261	soil
+T52	ReactionOrProcess 2296 2310	biodegradation
+T53	Environment 2461 2475	soil microcosm
+T54	Environment 2466 2475	microcosm
+T55	Environment 2461 2465	soil
+T56	Environment 2329 2334	water
+T57	Environment 2443 2448	water
+T58	ReactionOrProcess 2379 2393	biodegradation
+T59	Environment 2693 2702	microcosm
+T60	Environment 2627 2631	soil
+T61	ReactionOrProcess 2636 2645	extracted
+T62	Substrate 2903 2935	polycyclic aromatic hydrocarbons
+T63	Substrate 2914 2935	aromatic hydrocarbons
+T64	Substrate 2877 2886	petroleum
+T65	Substrate 2914 2935	aromatic hydrocarbons
+T66	Substrate 2923 2935	hydrocarbons
+T67	Substrate 2871 2898	total petroleum hydrocarbon
+T68	Substrate 2887 2898	hydrocarbon
+T69	Substrate 2923 2935	hydrocarbons
+T70	Substrate 2903 2935	polycyclic aromatic hydrocarbons
+T71	Property 2972 2983	temperature
+T72	Property 2903 2913	polycyclic
+T73	Property 2853 2867	concentrations
+T74	Property 2914 2922	aromatic
+T75	ReactionOrProcess 2988 2994	sieved
+T76	Environment 3092 3096	soil
+T77	Environment 3086 3096	dried soil
+T78	Substrate 3041 3048	acetone
+T79	Substrate 3026 3048	orthoterphenyl acetone
+T80	ReactionOrProcess 3011 3021	extraction
+T81	ReactionOrProcess 3078 3084	sieved
+T82	ReactionOrProcess 3153 3162	extracted
+T83	ReactionOrProcess 3213 3223	extraction
+T84	Substrate 3439 3442	TPH
+T85	ReactionOrProcess 3481 3496	chromatographic
+T86	Substrate 3583 3587	PAHs
+T87	Substrate 3562 3565	TPH
+T88	ReactionOrProcess 3629 3655	flame ionization detection
+T89	ReactionOrProcess 3629 3645	flame ionization
+T90	Property 3851 3857	purity
+T91	ReactionOrProcess 3907 3933	flame ionization detection
+T92	ReactionOrProcess 3828 3836	detector
+T93	ReactionOrProcess 3907 3923	flame ionization
+T94	Substrate 3966 3969	PAH
+T95	Substrate 4052 4055	PAH
+T96	Substrate 3958 3961	TPH
+T97	Substrate 4039 4042	TPH
+T98	Property 3970 3984	concentrations
+T99	Microbes 4139 4191	heterotrophic and PAH-degrading microbial population
+T100	Property 4071 4084	heterotrophic
+T101	Property 4139 4152	heterotrophic
+T102	Environment 4411 4420	microcosm
+T103	ReactionOrProcess 4375 4385	extraction
+T104	ReactionOrProcess 4343 4353	extraction
+T105	ReactionOrProcess 4371 4385	DNA extraction
+T106	ReactionOrProcess 4339 4353	DNA extraction
+T107	Environment 4625 4644	Ultraclean DNA soil
+T108	Environment 4625 4644	Ultraclean DNA soil
+T109	Environment 4566 4581	soil microcosms
+T110	Environment 4571 4581	microcosms
+T111	Environment 4694 4699	Beach
+T112	Environment 4566 4570	soil
+T113	Environment 4640 4644	soil
+T114	ReactionOrProcess 4547 4556	extracted
+T115	ReactionOrProcess 4645 4655	extraction
+T116	ReactionOrProcess 4896 4899	PCR
+T117	ReactionOrProcess 4900 4910	inhibition

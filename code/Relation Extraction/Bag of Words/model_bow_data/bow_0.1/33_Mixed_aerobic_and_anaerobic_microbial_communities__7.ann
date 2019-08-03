@@ -1,0 +1,106 @@
+T1	Substrate 55 66	methanogens
+T2	Microbes 272 282	Rhodoferax
+T3	Environment 359 396	hydrocarbon-contaminated environments
+T4	Property 359 383	hydrocarbon-contaminated
+T5	Microbes 443 453	Rhodoferax
+T6	Environment 482 493	groundwater
+T7	ReactionOrProcess 527 537	incubation
+T8	ReactionOrProcess 620 635	microaerophilic
+T9	Environment 665 676	groundwater
+T10	Environment 712 723	groundwater
+T11	Environment 761 768	aquifer
+T12	Property 751 760	sandstone
+T13	Substrate 824 831	methane
+T14	Property 780 792	methanogenic
+T15	Property 780 792	methanogenic
+T16	Microbes 918 930	pseudomonads
+T17	Environment 1027 1043	nitrate-reducing
+T18	Substrate 970 991	aromatic hydrocarbons
+T19	Substrate 970 991	aromatic hydrocarbons
+T20	Substrate 979 991	hydrocarbons
+T21	Substrate 979 991	hydrocarbons
+T22	Property 970 978	aromatic
+T23	ReactionOrProcess 962 969	degrade
+T24	ReactionOrProcess 1007 1022	microaerophilic
+T25	Microbes 1134 1144	Acidovorax
+T26	Substrate 1193 1211	aromatic compounds
+T27	Substrate 1255 1262	nitrate
+T28	Substrate 1193 1211	aromatic compounds
+T29	Property 1193 1201	aromatic
+T30	ReactionOrProcess 1263 1272	reduction
+T31	ReactionOrProcess 1178 1189	degradation
+R1	CarriedOn Arg1:T31 Arg2:T26
+R2	CarriedOn Arg1:T31 Arg2:T27
+R3	CarriedOn Arg1:T31 Arg2:T28
+T32	Microbes 1311 1321	Acidovorax
+T33	Environment 1525 1536	groundwater
+T34	Environment 1362 1371	microcosm
+T35	Substrate 1554 1561	benzene
+T36	Substrate 1439 1450	13C-benzene
+T37	ReactionOrProcess 1546 1553	degrade
+T38	ReactionOrProcess 1562 1573	aerobically
+T39	Nutrient 1427 1433	carbon
+T40	Substrate 1700 1717	aromatic compound
+T41	Substrate 1602 1609	nitrate
+T42	Substrate 1745 1752	nitrate
+T43	Property 1700 1708	aromatic
+T44	Nutrient 1760 1777	electron acceptor
+T45	Nutrient 1591 1597	oxygen
+T46	Nutrient 1646 1652	oxygen
+T47	Substrate 1806 1813	benzene
+T48	Substrate 1864 1871	nitrate
+T49	Substrate 1892 1899	nitrate
+T50	ReactionOrProcess 1814 1828	biodegradation
+T51	Nutrient 1853 1859	oxygen
+T52	Nutrient 1882 1888	oxygen
+R4	CarriedOn Arg1:T50 Arg2:T48
+R5	CarriedOn Arg1:T50 Arg2:T49
+T53	Substrate 2011 2018	nitrate
+T54	Property 2019 2032	concentration
+T55	Nutrient 2111 2117	oxygen
+T56	Substrate 2223 2230	nitrate
+T57	Property 2242 2255	concentration
+T58	Property 2171 2179	alkaline
+T59	Nutrient 2235 2241	oxygen
+T60	Substrate 2376 2383	nitrate
+T61	Property 2395 2408	concentration
+T62	Nutrient 2388 2394	oxygen
+T63	Environment 2667 2678	groundwater
+T64	Environment 2484 2489	plume
+T65	Substrate 2476 2483	benzene
+T66	Property 2644 2658	concentrations
+T67	Property 2640 2658	low concentrations
+T68	Nutrient 2572 2590	electron acceptors
+T69	Nutrient 2621 2627	oxygen
+T70	Environment 2714 2725	groundwater
+T71	Environment 2743 2748	plume
+T72	Substrate 2735 2742	benzene
+T73	Substrate 2850 2857	benzene
+T74	ReactionOrProcess 2858 2869	degradation
+T75	Nutrient 2823 2829	oxygen
+T76	Environment 2891 2902	groundwater
+T77	Substrate 3026 3033	benzene
+T78	Property 2959 2968	dissolved
+T79	Property 2882 2890	alkaline
+T80	ReactionOrProcess 3034 3045	degradation
+T81	Nutrient 2969 2975	oxygen
+T82	Substrate 3128 3135	benzene
+T83	Substrate 3178 3185	benzene
+T84	ReactionOrProcess 3217 3226	depletion
+T85	ReactionOrProcess 3165 3174	oxidation
+T86	ReactionOrProcess 3136 3147	degradation
+T87	Nutrient 3230 3236	oxygen
+T88	Microbes 3317 3331	Hydrogenophaga
+T89	Environment 3436 3443	aquifer
+T90	Property 3472 3480	alkaline
+T91	Substrate 3659 3666	benzene
+T92	Substrate 3561 3568	benzene
+T93	Microbes 3724 3738	Hydrogenophaga
+T94	Substrate 3778 3785	benzene
+T95	ReactionOrProcess 3770 3777	degrade
+T96	Substrate 3905 3912	benzene
+T97	Property 3830 3844	concentrations
+T98	Property 3826 3844	low concentrations
+T99	ReactionOrProcess 3887 3901	biodegradation
+T100	Nutrient 3848 3854	oxygen
+R6	CarriedOn Arg1:T99 Arg2:T96

@@ -1,0 +1,110 @@
+T1	Environment 181 197	undisturbed soil
+T2	Environment 193 197	soil
+T3	Substrate 50 58	gasoline
+T4	Substrate 124 136	BTEX–ethanol
+T5	Substrate 115 119	BTEX
+T6	Substrate 34 58	ethanol-blended gasoline
+T7	Substrate 21 58	Standard and ethanol-blended gasoline
+T8	Substrate 355 363	gasoline
+T9	Substrate 261 273	BTEX–ethanol
+T10	Substrate 252 256	BTEX
+T11	Substrate 345 363	Brazilian gasoline
+T12	Environment 457 469	soil samples
+T13	Environment 447 461	composite soil
+T14	Environment 457 461	soil
+T15	Substrate 492 500	methanol
+T16	Property 414 426	Contaminants
+T17	ReactionOrProcess 432 441	extracted
+T18	Environment 542 546	soil
+T19	Substrate 502 510	Gasoline
+T20	Substrate 525 529	BTEX
+T21	Property 707 718	temperature
+T22	ReactionOrProcess 649 657	detector
+T23	Environment 1063 1075	soil samples
+T24	Environment 1053 1067	composite soil
+T25	Environment 1063 1067	soil
+T26	ReactionOrProcess 1081 1090	incubated
+T27	ReactionOrProcess 894 903	degrading
+T28	Microbes 1400 1446	culturable heterotrophic bacterial populations
+T29	Microbes 1411 1446	heterotrophic bacterial populations
+T30	Microbes 1265 1301	culturable heterotrophic populations
+T31	Microbes 1276 1301	heterotrophic populations
+T32	Environment 1331 1343	soil samples
+T33	Environment 1321 1335	composite soil
+T34	Environment 1331 1335	soil
+T35	Environment 1387 1392	water
+T36	Property 1276 1289	heterotrophic
+T37	Property 1411 1424	heterotrophic
+T38	Property 1478 1484	colony
+T39	Nutrient 1521 1525	agar
+T40	Environment 1681 1701	uncontaminated soils
+T41	Environment 1597 1601	Soil
+T42	Environment 1696 1701	soils
+T43	Environment 1783 1788	soils
+T44	Environment 1672 1677	water
+T45	Environment 1681 1701	uncontaminated soils
+T46	Environment 1777 1788	dried soils
+T47	Property 1738 1752	volatilisation
+T48	Property 1722 1734	contaminants
+T49	Environment 2145 2161	undisturbed soil
+T50	Environment 2020 2032	natural soil
+T51	Environment 2028 2032	soil
+T52	Environment 2157 2161	soil
+T53	Environment 2196 2200	soil
+T54	Environment 2068 2073	water
+T55	Environment 2201 2206	water
+T56	Substrate 2235 2243	gasoline
+T57	Substrate 2081 2089	gasoline
+T58	Property 2000 2014	volatilisation
+T59	Property 2124 2138	volatilisation
+T60	Property 2222 2231	retention
+T61	ReactionOrProcess 2222 2231	retention
+T62	Environment 2255 2271	Undisturbed soil
+T63	Environment 2267 2271	soil
+T64	Environment 2365 2370	water
+T65	Environment 2401 2406	water
+T66	Environment 2525 2530	water
+T67	Property 2525 2547	water holding capacity
+T68	Environment 2549 2553	Soil
+T69	Environment 2761 2766	water
+T70	Substrate 2601 2609	gasoline
+T71	Substrate 2567 2609	contaminated with ethanol-blended gasoline
+T72	Substrate 2585 2609	ethanol-blended gasoline
+T73	Property 2634 2645	temperature
+T74	Property 2726 2740	volatilisation
+T75	Property 2744 2756	contaminants
+T76	Environment 2774 2790	undisturbed soil
+T77	Environment 2786 2790	soil
+T78	Environment 2838 2843	water
+T79	Substrate 2905 2913	gasoline
+T80	Substrate 2889 2913	ethanol-blended gasoline
+T81	Substrate 2876 2913	standard and ethanol-blended gasoline
+T82	Substrate 3002 3018	gasoline–ethanol
+T83	Substrate 2989 2997	gasoline
+T84	Property 3035 3049	volatilisation
+T85	Environment 3299 3314	artificial soil
+T86	Environment 3310 3314	soil
+T87	Environment 3231 3242	vadose zone
+T88	Substrate 3215 3223	gasoline
+T89	Substrate 3358 3366	gasoline
+T90	Substrate 3387 3395	gasoline
+T91	Substrate 3371 3395	ethanol-amended gasoline
+T92	Property 3078 3089	contaminant
+T93	Property 3107 3116	retention
+T94	ReactionOrProcess 3271 3283	infiltration
+T95	ReactionOrProcess 3107 3116	retention
+R1	CarriedOn Arg1:T94 Arg2:T91
+R2	CarriedOn Arg1:T95 Arg2:T88
+R3	CarriedOn Arg1:T95 Arg2:T89
+R4	CarriedOn Arg1:T95 Arg2:T90
+R5	CarriedOn Arg1:T95 Arg2:T91
+T96	Property 3397 3408	Contaminant
+T97	Property 3397 3409	Contaminants
+T98	Environment 3666 3670	soil
+T99	Environment 3549 3555	porous
+T100	Substrate 3703 3710	ethanol
+T101	Substrate 3629 3636	benzene
+T102	Substrate 3641 3648	toluene
+T103	Property 3649 3658	retention
+T104	ReactionOrProcess 3649 3658	retention
+T105	Environment 3775 3784	microcosm

@@ -1,0 +1,53 @@
+T1	Enzyme 114 127	monooxygenase
+T2	Environment 223 232	Antarctic
+T3	Environment 223 237	Antarctic soil
+T4	Environment 233 237	soil
+T5	ReactionOrProcess 247 261	bioremediation
+T6	ReactionOrProcess 465 468	PCR
+T7	Environment 659 688	hydrocarbon-contaminated soil
+T8	Environment 684 688	soil
+T9	Property 659 683	hydrocarbon-contaminated
+T10	Environment 867 871	soil
+T11	Substrate 850 859	n-alkanes
+T12	Property 833 846	concentration
+T13	Environment 917 921	soil
+T14	Substrate 900 909	n-alkanes
+T15	Property 883 896	concentration
+T16	ReactionOrProcess 1136 1158	ongoing biodegradation
+T17	ReactionOrProcess 1144 1158	biodegradation
+T18	ReactionOrProcess 1439 1442	PCR
+T19	ReactionOrProcess 1475 1478	PCR
+T20	ReactionOrProcess 1324 1337	hybridization
+T21	ReactionOrProcess 1583 1586	PCR
+T22	ReactionOrProcess 1515 1528	hybridization
+T23	ReactionOrProcess 1706 1709	PCR
+T24	Substrate 2031 2046	catabolic genes
+T25	Substrate 2173 2180	ammonia
+T26	Substrate 2031 2046	catabolic genes
+T27	ReactionOrProcess 2181 2190	oxidation
+T28	ReactionOrProcess 2148 2163	denitrification
+R1	CarriedOn Arg1:T28 Arg2:T25
+T29	Property 2246 2251	speed
+T30	ReactionOrProcess 2227 2230	PCR
+T31	ReactionOrProcess 2539 2542	PCR
+T32	Property 2975 2988	concentration
+T33	ReactionOrProcess 2945 2954	isolation
+T34	Property 3497 3510	concentration
+T35	Property 3608 3621	concentration
+T36	ReactionOrProcess 3374 3377	PCR
+T37	Property 3770 3784	concentrations
+T38	ReactionOrProcess 3793 3803	replicates
+T39	ReactionOrProcess 3979 3989	replicates
+T40	Environment 4414 4426	soil samples
+T41	Environment 4414 4418	soil
+T42	Substrate 4319 4325	diesel
+T43	ReactionOrProcess 4301 4315	biodegradation
+R2	CarriedOn Arg1:T43 Arg2:T42
+T44	Enzyme 4439 4453	monooxygenases
+T45	Substrate 4536 4543	alkanes
+T46	ReactionOrProcess 4513 4532	aerobic degradation
+T47	ReactionOrProcess 4521 4532	degradation
+R3	CarriedOn Arg1:T46 Arg2:T45
+R4	CarriedOn Arg1:T47 Arg2:T45
+R5	Inhibit_Catalyse Arg1:T44 Arg2:T46
+R6	Inhibit_Catalyse Arg1:T44 Arg2:T47

@@ -1,0 +1,1459 @@
+Microbial communities in different soil typesdo not converge after diesel contamination
+Journal of Applied Microbiology 2002, 92, 276±288
+
+Microbial communities in different soil types
+do not converge after diesel contamination
+J.G. Bundy1,2, G.I. Paton1 and C.D. Campbell2
+1
+
+University of Aberdeen, Department of Plant and Soil Science, and
+The Macaulay Institute, Aberdeen, UK
+
+2
+
+Soil Quality and Protection,
+
+2001/135: received 13 June 2001, revised 9 August 2001 and accepted 15 August 2001
+
+J . G . B U N D Y , G . I . P A T O N A N D C . D . C A M P B E L L . 2002.
+
+Aims: To study the comparative effect of diesel addition and simulated bioremediation on the
+microbial community in three different soil types.
+Methods and Results: Three different soils were amended with diesel and bioremediation
+treatment simulated by addition of nutrients. The progress of bioremediation, and the effect on
+the indigenous microbial communities, was monitored using microbiological techniques. These
+included basal respiration, sole carbon source utilization patterns using both a commerciallyavailable substrate set and a set designed to highlight changes in hydrocarbon-utilizing bacteria,
+and phospholipid fatty acid (PLFA) pro®ling. The development of active hydrocarbondegrading communities was indicated by the disappearance of diesel, increases in soil
+respiration and biomass, and large changes in the sole carbon source utilization patterns and
+PLFA pro®les compared with control soils. However, comparison of the relative community
+structure of the three soils using PLFA pro®ling showed that there was no tendency for the
+community structure of the three different soil types to converge as a result of contamination.
+In fact, they became more dissimilar as a result. Changes in the sole carbon source utilization
+patterns using the commercially-available set of carbon sources indicated the same result as
+shown by PLFA pro®ling. The specially selected set of carbon sources yielded no additional
+information compared with the commercially-available set.
+Conclusions: Diesel contamination does not result in the development of similar community
+pro®les in different soil types.
+Signi®cance and Impact of the Study: The results suggest that different soils have different
+inherent microbial potential to degrade hydrocarbons, a ®nding that should be taken into
+account in impact and risk assessments. Following the development of the microbial
+community and its recovery is a useful and sensitive way of monitoring the impact and recovery
+of oil-contaminated soils.
+INTRODUCTION
+Contamination of soil by oil spills is a widespread environmental problem that often requires clean-up of the
+contaminated site (Whittaker et al. 1995). Bioremediation,
+the removal of hydrocarbons through microbial degradation,
+is a commonly used approach for decontaminating oilCorrespondence to: J.G. Bundy, Imperial College of Science, Technology
+and Medicine, Biological Chemistry, Biomedical Sciences Division,
+Sir Alexander Fleming Building, South Kensington, London SW7 2AZ, UK
+(e-mail: j.bundy@ic.ac.uk).
+
+polluted soils. It has often been recorded that the addition of
+hydrocarbon-degrading microbes is no more effective at
+hydrocarbon removal than is stimulating the growth of the
+indigenous microbiota (Atlas and Atlas 1991; Atlas and
+Cerniglia 1995), and may even be less effective (Radwan
+et al. 1997). Consequently, understanding the microbial
+ecology and the constraints on biodegradation of an oilcontaminated site is extremely important (Holden and
+Firestone 1997). A central question is therefore what is the
+impact of oil pollution on microbial populations?
+Contamination by oil is generally expected to reduce the
+biodiversity of the soil microbiota (Atlas et al. 1991).
+ã 2002 The Society for Applied Microbiology
+
+EFFECTS OF DIESEL ON SOIL COMMUNITIES
+
+A probable explanation for this is that the addition of
+large amounts of hydrocarbons selects for a limited
+number of fast-growing hydrocarbon degraders, which
+are enriched in the (typically oligotrophic) soil environment under these conditions. However, there is a lack of
+information on how this may be modulated by differing
+complex environmental matrices, and in particular, how
+different soil types may affect the development of
+hydrocarbon-degrading populations. Previous microcosm
+studies examining the effect of oil contamination on soil
+microbial communities have focused on a single soil type
+(e.g. Engelen et al. 1998; Macnaughton et al. 1999).
+WuÈnsche et al. (1995) compared hydrocarbon contamination in two different soil types. However, as one was an
+historically contaminated re®nery soil and one was a
+contaminated pristine arable soil, it was not possible to
+separate the effects of soil type and differing oil
+treatment. It has been shown that even a simple measure
+of microbial response to oil contamination, such as a
+toxicity bioassay, gives different responses in different soil
+types (Marwood et al. 1998) and hence, it is important to
+determine how soil type affects community-level response.
+Three different soils were chosen to represent three
+different environmental matrices and initial microbial
+communities. The soils were all of similar texture (sandy
+loam or loamy sand) and pH, so there were no gross effects
+caused by large differences in particle size distribution or
+pH. Two community-level techniques were selected to
+monitor the progress of bioremediation. Biolog plates are
+designed for identi®cation of isolates of bacteria of clinical
+importance. Each well of a microtitre plate contains a
+different carbon source, together with a redox dye for
+indicating bacterial activity. A bacterial suspension is
+inoculated into every well on the plate, incubated, and the
+absorbance in each well read, giving a metabolic pro®le of
+the organism under test (Bochner 1989). Biolog plates were
+®rst employed to produce community-level physiological
+pro®les (CLPPs) by Garland and Mills (1991), who
+inoculated an entire bacterial community, rather than single
+isolates, and analysed the resulting data using multivariate
+methods. Sole carbon source utilization pro®ling of microbial communities using the Biolog system is likely to be
+particularly sensitive to changes caused by addition of
+carbon, such as diesel oil, as this will result in the
+enrichment of fast-growing culturable bacteria (KozdroÂj
+and Van Elsas 2000). In addition to the standard GN plates,
+a set of carbon sources relevant to hydrocarbon degradation
+was used in order to determine whether this would improve
+the sensitivity or selectivity of the sole carbon source
+utilization pro®ling. Previous work has shown that addition
+of ecologically-relevant carbon sources to Biolog GN
+sources can improve the discrimination between microbial
+communities (Campbell et al. 1997). Secondly, phospholi-
+
+277
+
+pid fatty acid (PLFA) pro®ling of the microbial community
+using phospholipids extracted directly from the soil is a well
+characterized technique for providing information on the
+microbial community structure that is not based on
+culturing of microbes (Tunlid and White 1992; Zelles
+1999).
+The aim of the experiment was to test the hypothesis that
+diesel contamination would alter the microbial community
+of three different soils, such that they would become more
+similar by selecting for a limited community of fast-growing
+hydrocarbon degraders. A secondary hypothesis was that
+sole carbon source utilization pro®ling using Biolog plates
+would be particularly sensitive to oil contamination, and that
+the use of ecologically-relevant carbon sources would
+improve the performance of the Biolog approach.
+MATERIALS AND METHODS
+Experimental design
+Approximately 60 g wet weight of soil was placed without
+packing into a 250 ml soil jar and the jar sealed with
+stretched Para®lm. The jars were incubated at 25°C in the
+dark. Triplicate microcosms were destructively sampled at
+each time point. There were four sampling dates, hence
+72 microcosms in total were used. Microcosms were
+arranged in a random order, and rearranged every 2±3 weeks
+throughout the duration of the experiment. Sampling dates
+were after 1, 27, 62 and 103 days. Upon sampling, the soil
+within each jar was mixed and portions of soil were then
+used for: Biolog CLPP (10 g soil), PLFA analysis (10 g),
+respiration and water content (20 g), pH (5 g), and TPH
+(total petroleum hydrocarbons; 10 g).
+Diesel and soil properties
+Standard commercial-grade diesel was purchased from a
+local supplier and used without modi®cation. All soil
+samples were taken from grassland sites with no known
+history of petroleum product contamination. A single large
+core was collected for each soil type from the A horizon, not
+including the surface litter layer. Field-moist soil was sieved
+to a diameter of 5 mm through a stainless steel sieve and
+stored at 4°C until use. Soils and soil characteristics are
+listed in Table 1 and were measured using standard
+techniques.
+Spiking and nutrient addition
+Moist soil, at approximately 40% of water holding capacity
+(WHC), was contaminated by manual mixing with the
+diesel. The soil was spread evenly and thinly in a large glass
+dish; the oil was poured evenly over the surface, then mixed
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+278 J . G . B U N D Y ET AL.
+
+Soil
+
+Soil type
+
+Texture
+
+pH*
+
+WHC (g g)1)
+
+OC 
+
+Insch (IN)
+Countesswells (CW)
+Boyndie (BY)
+
+Cambisol
+Podsol
+Fluvisol
+
+Sandy loam
+Sandy loam
+Loamy sand
+
+5á97
+5á10
+6á57
+
+0á64
+0á51
+0á38
+
+2á1
+2á5
+1á7
+
+Table 1 List of soil properties
+
+*Measured in 10 mM CaCl2 at the beginning of the experiment.
+ Percentage of organic carbon.
+
+with a stainless steel spatula for 5 min. Oil was added at a
+level of 20 g kg±1 dry weight of soil (2%). This is of a similar
+level to concentrations used in many microcosm studies
+(e.g. WuÈnsche et al. 1995), and it is common for authentically-contaminated soils to have similar or higher oil
+concentrations (e.g. Saterbak et al. 1999). Nutrient solution
+was then poured evenly over the soil; additional water was
+added to bring the ®nal moisture content of each soil to 55%
+of WHC. The soil was then mixed for a further 5 min. The
+nutrient solution contained NH4NO3 as the nitrogen source
+and phosphorus as a K2HPO4/KH2PO4 buffer solution with
+a pH of 6á4. The ®nal solution contained 28á0 g N l±1 and
+3á10 g P l±1, resulting in a ®nal oil : N : P ratio of
+100 : 10 : 1 (approximate C : N : P ratio 100 : 12 : 1á25).
+These are typical values for nutrient-amended bioremediation (Crawford and Crawford 1999).
+Respiration
+Soil respiration was measured by monitoring CO2 evolution
+over a 6 h period using a GC equipped with a packed
+column and thermal conductivity detector (Perkin Elmer,
+Beacons®eld, UK). Respiration was expressed as evolved
+CO2 in units of nmol h±1 g±1 (soil dry weight basis; see BaÊaÊth
+et al. (1998) for full details).
+Commuity-level physiological pro®ling
+Standard Biolog GN plates were used (Biolog Inc.,
+Hayward, CA, US). A specially-selected set of carbon
+sources was also tested using MT plates which contain redox
+dye and micronutrients but no carbon source. Carboxylic
+acids rather than hydrocarbons were chosen as additional
+carbon sources because they are less volatile and more watersoluble than the parent hydrocarbons. MT plates were made
+up containing the following carbon sources: caproic acid,
+capric acid, myristic acid, stearic acid, behenic acid, benzoic
+acid, salicylic acid, protocatechuic acid, 4-hydroxybenzoic
+acid, 4-toluic acid, 1-naphthoic acid, 2-naphthoic acid,
+2,3-dihydroxynaphthalene, 1,10-dicarboxylic acid decane,
+cyclohexane carboxylic acid, ()2-ethylhexanoic acid, sodium
+caprylate, sodium laurate and sodium salicylate. Glucose was
+also included as a positive control. Compounds were made
+
+up as 15 mmol l±1 solutions in either ethanol or 70% ethanol.
+A 3 lg aliquot of compound was added to a well. The plates
+were then left to dry in a sterile environment, and stored at
+4°C until use. Each plate contained four ´ (20 substrates + four blank wells), i.e. four replicates per MT plate.
+Inoculating plates
+Extraction of soil bacteria was based upon published
+procedures which have been shown to be effective (Faegri
+et al. 1977; BaÊaÊth 1992). A 10 g soil sample (wet weight)
+was added to 100 ml deionized water in 250 ml conical
+¯asks and shaken for 10 min on a wrist-action shaker.
+Two tenfold serial dilutions were then made (5 ml+
+45 ml) of the aqueous extract. The second dilution
+(50 ml; 10±4 concentration) was then centrifuged at
+100 g for 10 min. This low-speed centrifugation was
+recommended by Riis et al. (1998), who compared
+different methods of extracting micro-organisms from
+soil. The supernatant ¯uid (150 ll) was added to each
+well of a Biolog GN and MT plate. Absorbance of the
+wells at 590 nm was read using an automated plate reader
+(VMAX Molecular Devices, Crawley, UK). The plates
+were then sealed inside a plastic bag, incubated at 25°C in
+the dark, and read every 24 h over a period of 7 days.
+The 0 h data were subtracted from each subsequent time
+point in order to remove the background absorbance of
+the soil extract plus carbon source; the background was
+particularly high for the MT carbon sources. The average
+absorbance (average well colour development, AWCD)
+was then calculated for each plate and plotted against time
+to give AWCD curves. The incubation time data with
+AWCD closest to 1á00 were chosen for ®nal data analysis,
+and normalized by dividing the absorbance of each well
+on a plate by the AWCD of that plate. The values for
+wells with no C source were removed and the data
+analysed by principal components analysis (PCA) using
+the covariance matrix.
+PLFA analysis
+Soil samples (approximately 10 g wet weight) were frozen
+and stored at ±20°C. All samples were then analysed
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+EFFECTS OF DIESEL ON SOIL COMMUNITIES
+
+TPH determination
+Approximately 10 g soil (wet weight) were ground over
+anhydrous Na2SO4 using a mortar and pestle until the soil
+¯owed freely. The sample was transferred to a 250 ml
+conical ¯ask equipped with a PTFE-lined screw cap, and an
+internal standard (squalane) was added. Extraction was by
+sonication in 50 ml DCM for 10 min; the extract was then
+®ltered (Whatman no. 4). The extraction was repeated with
+25 ml DCM, ®ltered, and the two extracts combined. A 5 ml
+sample of extract was stored at ±20°C in a foil-capped
+scintillation vial; the remainder was evaporated under
+nitrogen at 40°C to a volume of 1 ml. The extract was then
+Ê,
+cleaned by liquid chromatography over 2 g silica (60 A
+< 200 lm) pre-conditioned with 10 ml DCM. The sample
+was loaded onto the column and eluted with 2 ´ 10 ml
+DCM. TPH was then measured by GC-FID. A 1 ll volume
+of extract was injected using a Fisons AS800 autosampler
+(ThermoQuest Ltd, Wythenshawe, UK) onto a Carlo-Erba
+8000 series GC (ThermoQuest Ltd) equipped with a
+Phenomenex ZB-1 capillary column (30 m ´ 0á32 mm,
+d  0á5 lm) (Phenomenex, Maccles®eld, UK), split injector
+with a split ratio of 20 : 1, and ¯ame ionization detector. GC
+conditions were as follows. Column gas ¯ow (N2):
+1 ml min±1; split ¯ow: 20 ml min±1; injector temperature:
+250°C; detector temperature: 320°C. The temperature
+programme used was 80°C, held for 2 min, then increased
+at 10°C min±1 to 320°C and held for 10 min.
+Data analysis
+Data (total PLFAs, respiration, TPH) were analysed for
+statistically signi®cant differences using two-way ANOVA
+in randomized blocks, considering sample date and soil type
+as treatments, and experimental replication as blocking
+structure. Principal components analysis (PCA) was carried
+out for both PLFA and Biolog pro®les on normalized data,
+i.e. data expressed as a percentage of the average value of the
+set. Further details of manipulation of data from sole carbon
+source utilization tests prior to PCA are given above.
+
+RESULTS
+Hydrocarbon removal
+Diesel was readily degraded in all three soils, with around
+60% having been removed by day 103 (Fig. 1). Biodegradation and abiotic losses were not discriminated. There were
+no signi®cant differences in the total amount of diesel
+removed by the end of the experiment, but the initial rate of
+loss in the Boyndie soil (BY) was slower than for the other
+two soil types.
+Respiration and biomass
+Changes in microbial parameters con®rmed that biodegradation was taking place. Respiration increased after addition
+of diesel for all three soils (Fig. 2). Maximum respiration for
+both Insch (IN) and Countesswells (CW) diesel-contaminated soil had occurred by day 27, and had decreased to
+control or near-control levels by the end of the experiment.
+The maximum respiration for BY was observed on day 62,
+and was still signi®cantly elevated over control levels by the
+end of the experiment. All three uncontaminated soils had
+an elevated rate of respiration at day 1 compared with the
+rest of the experiment, possibly because of the disturbance
+involved in mixing the soils and placing them into the
+microcosms.
+Microbial biomass (as measured by total PLFA concentrations; Fig. 3) was also stimulated by diesel addition. IN
+and CW diesel-contaminated soil reached a maximum of
+biomass by day 27, at which point the levels were
+signi®cantly elevated over the equivalent control soil. After
+day 27, the biomass decreased in the diesel-contaminated
+
+120
+
+TPH (as % of initial value)
+
+simultaneously at the end of the experiment. PLFAs were
+extracted and analysed as described previously, using a
+modi®ed Bligh and Dyer extraction protocol (Bligh and
+Dyer 1959; Tunlid and White 1992). Brie¯y, the soil
+lipids were extracted in a one-phase chloroform/methanol/citrate buffer mixture, and the phospholipids separated by liquid chromatography over octadecyl-bonded
+silica columns. The phospholipids were then derivatized
+to their corresponding methyl esters, and analysed using
+GC-FID (BaÊaÊth et al. 1998). Individual PLFAs are named
+in the text according to standard conventions (Tunlid and
+White 1992).
+
+279
+
+100
+80
+60
+40
+20
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Time (d)
+
+Fig. 1 Reduction in gravimetric TPH (oil and grease parameter)
+over time. Soil type: (d) Insch; (j), Boyndie; (m), Countesswells.
+Error bars represent S.E. and are shown when larger than the symbol
+size
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+Respiration (nmol CO2 g–1 h–1)
+
+280 J . G . B U N D Y ET AL.
+
+(c)
+
+(b)
+
+(a)
+
+800
+
+600
+
+400
+
+200
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+20
+
+60
+
+40
+
+80
+
+100
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Time (d)
+
+Fig. 2 Effects of diesel addition on soil respiration. Soil type: (a) Insch, (b) Countesswells, (c) Boyndie. Treatment: (d), control soils; (s), dieselcontaminated soils. Error bars represent S.E. and are shown when larger than the symbol size
+
+(c)
+
+(b)
+
+(a)
+
+60
+
+Biomass (µg g–1 soil)
+
+50
+40
+30
+20
+10
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Time (d)
+
+Fig. 3 Changes in soil microbial biomass (measured as total extracted PLFAs). Soil type: (a) Insch, (b) Countesswells, (c) Boyndie. Treatment:
+(d), control soils; (s), diesel-contaminated soils. Error bars represent S.E. and are shown when larger than the symbol size
+
+soils, and for IN was below the control biomass by the
+conclusion of the experiment. Microbial biomass was also
+stimulated in BY soil by the addition of diesel, and reached
+its maximum value by day 103. BY had a lower biomass than
+for IN and CW, both at the start and for the entire duration
+of the experiment; concentrations were signi®cantly lower
+than for IN and CW at all times for both control and dieselcontaminated soils.
+Changes in soil pH
+Trends in the soil pH were also affected by diesel
+contamination. For IN and BY, the pH in the dieselcontaminated soils remained at a constant level, but the pH
+in the control soils showed a signi®cant decrease of 0á8±1á0
+
+pH units during the course of the experiment (Fig. 4). CW
+did not show the same pattern.
+Sole carbon source utilization pro®les
+MT carbon sources. A green colour appeared after a short
+time in wells containing 2,3-dihydroxynaphthalene; it was
+presumed that this was caused by an abiotic reaction, and
+the results from these wells were not included in further
+multivariate analysis. All straight-chain carboxylic acids
+caused colour development for all of the samples, and none
+of the aromatic or cyclic carboxylic acids did so. The carbon
+sources added to the MT plates, when analysed in
+combination with the GN data (i.e. as a dataset of 115
+carbon sources), did not improve the discrimination in
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+EFFECTS OF DIESEL ON SOIL COMMUNITIES
+
+(c)
+
+(b)
+
+(a)
+
+7.0
+
+281
+
+pH (CaCl2, 10 mM)
+
+6.5
+6.0
+5.5
+5.0
+4.5
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Time (d)
+
+Fig. 4 Changes in soil pH (10 mM CaCl2). Soil type: (a) IN, (b) CW, (c) BY. Treatment: (d), control soils; (s), diesel-contaminated soils. Error
+bars represent S.E. and are shown when larger than the symbol size
+
+multivariate space of the different samples when compared
+with the discrimination given by the GN data alone (results
+not shown). Analysis of the MT data alone showed no, or
+only poor discrimination between samples. Consequently,
+only the GN data were used for further data analysis, and all
+further results presented in this paper are those from GN
+data only.
+GN carbon sources. PCA of the GN carbon source data
+shows a clear separation of samples with respect to time, soil
+type and treatment (Fig. 5). The most important factor with
+respect to grouping the data would appear to be incubation
+time. The non-incubated (day 1) samples are separated from
+the other samples along a composite axis based on principal
+components 1 and 2. The incubated diesel-contaminated
+samples are also separated from the incubated control
+samples along this same axis (approximately equivalent to
+x  ±y). Finally, samples are separated according to soil
+type for the diesel-contaminated samples only along a
+second composite axis perpendicular to the ®rst (approximately equivalent to x  y).
+The data were re-analysed by PCA for each sampling
+date, separately, in order to clarify the effect of diesel on the
+sole carbon source utilization pro®les, i.e. without including
+incubation time as an extra potential source of variation
+within the data, which might mask the effects of experimental treatment. The results from these separate analyses
+are shown in Fig. 6(a±d).
+No obvious differences were observed between soil types
+at day one, although CW tended to have higher PC1 scores.
+Biolog CLPPs at all other sampling times showed clear
+separation according to both soil type and treatment with
+diesel. It is arguable which time showed the greatest effect of
+oil addition. Day 27 showed a complete separation of control
+
+and treated soils for BY and IN along PC 1, although not for
+CW (Fig. 6b). In comparison, by day 103, the separation
+caused by diesel treatment was at its most obvious; all the
+control soils clustered together, and were totally separated
+from all the treated soils. However, the separation was along
+PC2, and therefore did not account for as great a proportion
+of the variance as if it had been on PC1.
+The trend of similarity between different soil types is
+clearer to follow. There was little difference between soil
+types at day one. By day 27, there was a developing effect of
+soil type along PC2; it is clear that diesel-treated soils are
+more variable along PC 2 than the control soils. By day 62,
+the control soils, with the exception of one outlying point,
+were more similar than the diesel-treated soils, lying close
+together in multivariate space. The effects were clearest at
+day 103; the control soils were now separated from the
+contaminated soils along PC2, and soil types were completely separated along PC1 for the contaminated soils only.
+PLFA pro®les
+PCA of the PLFA concentration data shows that there is
+complete separation along PC 1 (Fig. 7) between control and
+diesel-treated soils for the incubated samples, i.e. dieselcontaminated soils clustered with controls at day 1 but were
+separated on all subsequent dates. There was some separation according to soil type along PC 2 for the incubated
+contaminated soils only; BY soils were distinct from CW,
+and IN soils were intermediate, overlapping with both BY
+and CW. As for the Biolog data, PCA was carried out for
+each sampling date separately.
+The day 1 data (Fig. 8a) were separated by soil type on a
+composite axis made up of PC 3 and PC 4. There was no
+discernible effect of treatment within the ®rst four PCs.
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+282 J . G . B U N D Y ET AL.
+
+4
+
+2
+
+PC2 scores
+
+0
+
+–2
+
+–4
+
+–6
+–6
+
+–4
+
+–2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+PC1 scores
+
+The day 27 data (Fig. 8b) show that diesel treatment is
+the major source of variation, with contaminated soils
+completely separated from control soils along PC 1. PC 1
+has a high R2 value of 0á67. Samples separated according to
+soil type, for the contaminated soils only, along PC 2. There
+is no separation of soil type in the control soils.
+The day 62 data (Fig. 8c) follow the same pattern as for
+the day 27 data. Diesel treatment is again the major source of
+variation, with contaminated soils separated from control
+soils along PC 1. Contaminated samples only were separated
+with respect to soil type along PC 2; BY was completely
+separated from the other soil types, but IN and CW were
+not separated. The control soils formed a tight cluster and
+were not separated at all by soil type, as for the day 27 data.
+The day 102 data (Fig. 8d) were separated by treatment
+along a combination of PC 1 and PC 2. The amount of
+spread between individual data points was similar for the
+control and contaminated soils.
+The individual PLFAs that caused the most variation along
+each axis were also determined by PCA. At day 27, the PLFAs
+most signi®cant in causing separation along PC 1 (i.e. separation according to diesel addition) were 18 : 1x9, 18 : 2x6
+and 17 : 1x8 (associated with the contaminated soils), and
+19 : 0cy (associated with the control soils). Examining the
+
+Fig. 5 PCA of Biolog GN data: plot of
+scores on PC1 against scores on PC2. Closed
+symbols represent control soils, open symbols
+represent diesel-contaminated soils: (d, s)
+Insch, (j, h) Boyndie, (m, n) Countesswells.
+Sample time is represented by the size of the
+symbols: smallest symbols correspond to
+beginning of experiment (day 1), the secondsmallest symbols to day 27, the second-largest
+symbols to day 63, and the largest symbols
+correspond to the end of the experiment
+(day 103)
+
+PCA for the day 63 and day 102 data shows that 18 : 1x9
+remains the lipid with the highest loading associated with the
+contaminated soils. The PLFAs 15 : 0 and 16 : 0 also appear
+associated with the contaminated soils for days 63 and 102.
+DISCUSSION
+Ef®ciency of bioremediation
+The duration of the experiment was clearly suf®cient for the
+initial, rapid phase of bioremediation to be completed for IN
+and CW; the rate of removal of oil had dropped almost to
+zero by the end of the experiment (Fig. 1). It can be seen
+that diesel was not degraded as quickly in BY soil; BY has a
+sandier texture than the other two soils, and contains a lower
+proportion of organic carbon and microbial biomass. The
+lower degradation rate of diesel is presumably caused by the
+lower microbial biomass at the start of the experiment. One
+consequence is that degradation had not ®nished in BY by
+the conclusion of the bioremediation treatment; evidence for
+this is given both by the rate of loss of oil (Fig. 1), and by
+the continuing elevation of soil respiration over background
+(control) levels (Fig. 2). This is useful insofar as it allows the
+comparison of the two soils in which bioremediation appears
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+EFFECTS OF DIESEL ON SOIL COMMUNITIES
+
+283
+
+(b)
+
+(a)
+
+3
+
+6
+
+2
+
+4
+
+1
+2
+
+PC2 scores
+
+PC2 scores
+
+0
+
+–1
+
+0
+
+–2
+
+–2
+–4
+
+–3
+
+–4
+
+–6
+
+–3
+
+–2
+
+–1
+
+1
+
+0
+
+2
+
+3
+
+5
+
+4
+
+–8
+
+–6
+
+–4
+
+–2
+
+0
+
+2
+
+4
+
+6
+
+2
+
+4
+
+6
+
+PC1scores
+
+PC1 scores
+(c)
+
+(d)
+
+4
+
+6
+
+2
+4
+
+PC2 scores
+
+PC2 scores
+
+0
+
+–2
+
+2
+
+0
+
+–4
+–2
+
+–6
+
+–8
+
+–4
+–6
+
+–4
+
+–2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+–8
+
+–6
+
+PC1 scores
+
+–4
+
+–2
+
+0
+
+PC1 scores
+
+Fig. 6 PCA of Biolog GN data, each individual time point analysed separately: (a) day 1; (b) day 27; (c) day 62; (d) day 103. Plots show data for PC1
+against PC2. Filled symbols represent control soils, empty symbols represent diesel-contaminated soils: (d, s) Insch, (j, h) Boyndie, (m, n)
+Countesswells
+
+to have been completed to one in which oil degradation is
+still occurring, although at a lower rate than at the beginning
+of the experiment.
+It should be noted that the total proportion of oil
+removed (up to about 60%) is not especially high. A more
+
+active bioremediation treatment (for example, enhancing
+oxygen availability) might have resulted in degradation of
+a greater percentage of diesel (Ritter and Scarborough
+1995). However, maximizing the extent of bioremediation
+was not one of the aims of this study.
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+284 J . G . B U N D Y ET AL.
+
+600
+
+400
+
+PC2 scores
+
+200
+
+0
+
+–200
+
+– 400
+
+–600
+–400
+
+–200
+
+0
+
+200
+PC1 scores
+
+Selection of MT carbon sources
+The MT carbon sources were selected on the basis of their
+expected occurrence as intermediates in hydrocarbon
+degradation pathways (Singer and Finnerty 1984). Carboxylic
+acids were chosen, rather than the parent hydrocarbons, as
+they possess greater water solubility and lower volatility than
+the equivalent hydrocarbons. Carboxylic acids have been
+shown to accumulate and then degrade in oil-contaminated
+microcosms (Watson et al. 1999). Mesarch and Nies (1997)
+showed that TPH in contaminated soil samples was
+correlated with the numbers of bacteria culturable on
+benzoate as a carbon source.
+Lack of response to MT carbon sources
+It is not known why there was no effect of oil contamination
+on the ability of the soil culturable communities in this study
+to utilize hydrocarbon-based carboxylic acids as carbon
+sources. One possibility is that the amount of carboxylic acid
+added to the microtitre wells was inhibitory for the aromatic
+compounds, and that a lower concentration would have
+permitted growth and hence, potentially differing responses
+(Fulthorpe and Allen 1994). A second possibility is that
+there was no enrichment of aromatic hydrocarbon degraders
+
+400
+
+600
+
+Fig. 7 PCA of PLFA data: plot of scores on
+PC1 against scores on PC2. Filled symbols
+represent control soils, empty symbols represent diesel-contaminated soils: (d, s) Insch,
+(j, h) Boyndie, (m, n) Countesswells. Sample
+time is represented by the size of the symbols:
+smallest symbols correspond to beginning of
+experiment (day 1), the second-smallest symbols to day 27, the second-largest symbols to
+day 63, and the largest symbols correspond to
+the end of the experiment (day 103)
+
+during the course of the experiment, i.e. that only the
+aliphatic portion of the diesel oil was being degraded, and
+that the capability of the indigenous population to grow on
+straight-chain aliphatic carboxylic acids was already so high
+that it was not enhanced by diesel addition. All of the soils
+showed the ability to degrade all of the straight-chain
+aliphatic carboxylic acids tested from the beginning of the
+experiment.
+Biolog GN pro®les: community response
+to oil pollution
+The ®rst impression that is received on examining the PCA
+scores plot of the entire Biolog GN dataset (Fig. 5) is that
+the major shift in community pro®les has occurred as a
+result of incubation, and outweighs the effects of oil
+addition. Other studies using Biolog plates have also
+reported large incubation effects (WuÈnsche et al. 1995).
+Further information on the effects of diesel contamination
+on the similarity of different community pro®les is therefore
+easier to see when the data from each sampling point are
+analysed separately (Fig. 6).
+There is no obvious clustering at day 1. The only clear
+effect is that CW tends to have higher PC1 scores, but
+there is by no means complete separation from the other
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+EFFECTS OF DIESEL ON SOIL COMMUNITIES
+
+(a)
+
+285
+
+(b)
+
+150
+
+300
+100
+
+200
+100
+PC2 scores
+
+PC2 scores
+
+50
+
+0
+
+0
+– 100
+
+–50
+
+– 200
+–100
+
+– 300
+– 400
+
+–150
+–150 –100
+
+–50
+
+0
+
+50
+
+100
+
+150
+
+200
+
+–600
+
+250
+
+0
+
+200
+
+400
+
+600
+
+400
+
+600
+
+(d)
+
+(c)
+
+400
+
+300
+
+300
+
+200
+
+200
+
+100
+
+100
+
+PC2 scores
+
+PC2 scores
+
+– 200
+
+PC1 scores
+
+PC1 scores
+
+0
+
+0
+–100
+
+–100
+
+–200
+
+–200
+
+–300
+– 400
+
+–300
+– 400
+
+–400
+
+–200
+
+0
+
+200
+
+400
+
+600
+
+– 800 – 600 – 400 – 200
+
+0
+
+200
+
+PC1 scores
+
+PC1 scores
+
+Fig. 8 PCA of PLFA data, each individual time point analysed separately: (a) day 1; (b) day 27; (c) day 62; (d) day 103. Plots show data for PC1
+against PC2. Filled symbols represent control soils, empty symbols represent diesel-contaminated soils: (d, s) Insch, (j, h) Boyndie, (m, n)
+Countesswells
+
+two soil types. This lack of differentiation of soil types
+was unexpected; possibly, the disturbance of the soils
+entailed by mixing and transferring to microcosms tended
+to reduce differences between the soil types. Certainly the
+soil respiration was increased over the levels that then
+prevailed for the remainder of the experiment (Fig. 2),
+
+which would imply that microbial activity had been
+disturbed. As very little is known about the dynamics and
+short-term effects of disturbance on Biolog community
+pro®les, this must remain a conjectural point until further
+work is done.
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+286 J . G . B U N D Y ET AL.
+
+The day 1 data do show that there was no acute effect of
+diesel addition on soil bacteria, as might have occurred for
+example if the applied diesel had had a toxic effect.
+It is clear that diesel addition did not increase the
+similarity between different soil types, as measured by
+Biolog CLPPs. In fact, the opposite effect occurred; the
+difference between soil types increased. There was little
+differentiation between soil types at the beginning of the
+experiment. It may be argued that this could have been
+caused by the initial disturbance of the soil, but throughout the course of the experiment, the control soils tended
+to cluster together in principal component space. CW is a
+partial exception to this; the CW controls are separated
+from the other two soil types at day 27, and one out of the
+three CW controls is separated at day 62. Conversely, the
+diesel-contaminated soil types become more dissimilar
+during the course of the experiment and by day 62, the
+contaminated samples are completely separated on PC1
+according to soil type, with the effect continuing by
+day 103.
+It must be borne in mind that the increasing dissimilarity of the diesel-contaminated soil communities in
+multivariate space does not enable any conclusions to be
+drawn about absolute diversity of the soils as measured,
+for example, by species richness or evenness. Atlas et al.
+(1991) found that petrol contamination increased the
+ability of a microbial community to utilize a range of
+substrates but decreased the overall bacterial diversity.
+They concluded that hydrocarbon contamination selected
+for a reduced number of generalist, catabolically-versatile
+species. Lindstrom et al. (1999) studied the effects of
+long-term oil contamination in an Arctic soil; they
+inoculated Biolog plates at a range of serial dilutions,
+and found that increasing dilution reduced the number of
+substrates utilized by control soils to a much greater
+extent than for oil-affected soils. They similarly concluded
+that this showed that oil contamination selected for a less
+diverse, but catabolically-versatile bacterial community.
+Juck et al. (2000) found that, at two oil-contaminated
+Arctic sites investigated by DGGE and Biolog analysis,
+absolute diversity was decreased at one site and remained
+the same or increased at the other. Thus, it seems likely,
+on the basis of comparison with previous ®ndings, that
+the absolute diversity in each one of the different soil
+types tested in this study would have been decreased as a
+result of diesel contamination. What this study demonstrates is that oil contamination and bioremediation does
+not lead to increasing similarity of different soil types; it
+seems likely that each diesel-contaminated soil converged
+on a different generalist bacterial community.
+The results obtained from the Biolog CLPPs are
+dependent on culturing of bacteria (Garland and Mills
+1991) and therefore, subject to biases (Haack et al. 1995;
+
+Konopka et al. 1998). This does not necessarily mean that
+CLPPs are meaningless for the study of soil microbial
+ecology, but it does require that they be interpreted with
+care and, ideally, compared with a non-culture-based
+technique (Garland 1997). Extraction and analysis of PLFAs
+is one such technique.
+PLFA pro®les: community response
+to oil pollution
+Community PLFA pro®ling has previously been shown to
+respond to hydrocarbon-induced changes in soil populations
+(Macnaughton et al. 1999; White et al. 1999; Venosa et al.
+2000).
+The effect of diesel addition on soil community PLFA
+pro®les is clear (Fig. 7). Diesel treatment is the major source
+of variation within the dataset, with much more of an effect
+than either incubation time or soil type. The PCA of
+individual date PLFA data con®rms this (Fig. 8); soil types
+are separated on day 1, but only on a combination of PCs
+3 and 4. For all the remaining time points, diesel treatment
+has a greater effect than soil type.
+The PLFA pro®les con®rm the information obtained
+from the Biolog CLPPs about the relative similarity of the
+soil types and the effect of diesel addition. Diesel treatment
+increases the disparity in community structure of the
+different soil types as measured by PLFA pro®les. It can
+be seen particularly clearly for the day 27 data (Fig. 8b),
+when biodegradative activity was at a maximum (as shown
+by diesel removal, respiration and biomass levels), that the
+three soil types are completely separated along PC 2 for the
+contaminated soils, yet the control soils form a single
+group. This pattern is also continued for the day 63
+results.
+Individual PLFAs affected by diesel addition
+The speci®c PLFAs that change between samples in PLFA
+pro®ling for microbial ecology are often interpreted to give
+some idea as to which taxonomic groups are changing, and
+also the nutritional status of the microbiota. However, in
+general, this is not valuable for studies of oil bioremediation
+as usually, all that can be deduced is that oil contamination
+leads to a relative increase in the proportion of Gramnegative bacteria within the community (Venosa et al. 2000).
+In this study, the PLFAs 18 : 1x9 and 17 : 1x8 were
+increased by diesel bioremediation; the x9 series of
+monounsaturated PLFAs have been ascribed to Grampositive bacteria. This indicates the dif®culty of unambiguously explaining changes in PLFAs, when the PLFAs are
+not found solely in a single taxonomic group. A possible
+complicating effect is that growth on hydrocarbons may
+change the lipid pro®les of individual strains (Doumenq
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+EFFECTS OF DIESEL ON SOIL COMMUNITIES
+
+et al. 1999). It has been suggested that sphingolipids may be
+genuine biomarkers for hydrocarbon-degrading populations
+(White et al. 1998; Zelles 1999), but sphingolipids were not
+measured in this study. The PLFA 18 : 2x6 can be reliably
+assigned to the soil fungal community, and the changes in
+18 : 2x6 observed at day 27 indicates that there was an
+increase in the fungal community caused by diesel addition.
+Direct comparison of Biolog and PLFA
+It is instructive to compare directly the performance of the
+two community-level techniques. Several previous studies
+have done this for soil microbial communities (e.g. BaÊaÊth
+et al. 1998; Bossio and Scow 1998; Yao et al. 2000), but
+none directly for the assessment of oil contamination and
+bioremediation. The clearest difference is that the Biolog
+CLPPs were much more affected by incubation than were
+the PLFA pro®les. Thus, in one sense, the CLPPs were
+more `sensitive' than PLFA pro®ling and may suggest
+important changes in the properties of the culturable microorganisms. This sensitivity to incubation, however, is not
+useful in the context of assessing changes caused by an
+external treatment, in this case diesel addition and bioremediation. The effects of diesel addition are much more clearly
+observed in the PLFA pro®les than the Biolog CLPPs,
+particularly when data from all the time points are analysed
+simultaneously.
+White et al. (1998) suggested that the multivariate
+response of the microbial community, i.e. the community
+pro®le, could be used to evaluate the success of bioremediation; a perturbation observed in multivariate space,
+followed by a return to control levels, would indicate that
+bioremediation had successfully mitigated the impact on the
+microbial community. In this study, there was no evidence
+of a return to control pro®les for the Biolog CLPPs. There
+was some indication that the microbial community structure
+may have returned to control pro®les for the PLFA data.
+The IN diesel-contaminated soil shows the greatest deviation from uncontaminated soils at day 27, and is progressively closer to the control soils at day 63 and day 102
+(Fig. 7). Furthermore, the control and diesel-contaminated
+soils are separated along PC 1 for the days 27 and 63 data,
+but along a combination of PCs 1 and 2 for the day 102 data
+(Fig. 8), i.e. the amount of variation in the dataset
+attributable to diesel contamination had decreased.
+In conclusion, this study has con®rmed the null hypothesis: diesel contamination of different soil types did not
+lead to increasing similarity of the microbial communities.
+In fact, the effect of diesel on both PLFA and Biolog pro®les
+was to make much more distinct the separation between soil
+types. It appears that soil types, representing differing
+environmental matrices and different initial microbial communities, have different inherent microbial responses to
+
+287
+
+hydrocarbon contamination and thus, possibly, degradation
+potential. The largest changes seen in the Biolog CLPPs
+were caused by incubation rather than diesel contamination.
+It is likely that soil microcosm studies, which, of necessity,
+use disturbed soils under arti®cial conditions, are not
+representative of in situ effects. Future work using Biolog
+CLPPs to investigate oil remediation would be best carried
+out with contaminated ®eld sites.
+REFERENCES
+Atlas, R.M. and Atlas, M.C. (1991) Biodegradation of oil and
+bioremediation of oil spills. Current Opinion in Biotechnology 2, 440±
+443.
+Atlas, R.M. and Cerniglia, C.E. (1995) Bioremediation of petroleum
+pollutants. Bioscience 45, 332±338.
+Atlas, R.M., Horowitz, A. and Krichevsky, M. (1991) Response of
+microbial populations to environmental disturbance. Microbial
+Ecology 22, 287±338.
+BaÊaÊth, E. (1992) Thymidine incorporation into macromolecules of
+bacteria extracted from soil by homogenization±centrifugation. Soil
+Biology and Biochemistry 24, 1157±1165.
+BaÊaÊth, E., DõÂaz-RavinÄa, M., FrostegaÊrd, A. and Campbell, C.D. (1998)
+Effects of metal-rich sludge amendments on the soil microbial
+community. Applied and Environmental Microbiology 64, 238±245.
+Bligh, E.G. and Dyer, W.J. (1959) A rapid method of total lipid
+extraction and puri®cation. Canadian Journal of Biochemistry and
+Physiology 37, 911±917.
+Bochner, B.R. (1989) Sleuthing out bacterial identities. Nature 339,
+157±158.
+Bossio, D.A. and Scow, K.M. (1998) Impacts of carbon and ¯ooding on
+soil microbial communities: phospholipid fatty acid pro®les and
+substrate utilization patterns. Microbial Ecology 35, 265±278.
+Campbell, C.D., Grayston, S.J. and Hirst, D.J. (1997) Use of
+rhizosphere carbon sources in sole carbon source tests to discriminate soil microbial communities. Journal of Microbiological Methods
+30, 3±11.
+Crawford, R.L. and Crawford, D.L. (1999) Bioremediation: Principles
+and Application. Cambridge: Cambridge University Press.
+Doumenq, P., Acquaviva, M., Asia, L., Durbee, J.P., Bertrand, J.C.
+and Mille, G. (1999) Changes in fatty acids of Pseudomonas nautica, a
+marine denitrifying bacterium, in response to n-eicosane as carbon
+source and various culture conditions. FEMS Microbiology Ecology
+28, 151±161.
+Engelen, B., Meinken, K., von Wintzengerode, F., Heuer, H.,
+Malkomes, H.P. and Backhaus, T. (1998) Monitoring impact on
+bacterial soil communities by metabolic and genetic ®ngerprinting in
+addition to conventional testing procedures. Applied and Environmental Microbiology 64, 2814±2821.
+Faegri, A., Torsvik, V.L. and GoksoÈyr, J. (1977) Bacterial and fungal
+activities of soil: separation of bacteria and fungi by a rapid
+fractionated centrifugation technique. Soil Biology and Biochemistry
+9, 105±112.
+Fulthorpe, R.R. and Allen, D.G. (1994) Evaluation of Biolog-MT
+plates for aromatic and chloroaromatic substrate utilization tests.
+Canadian Journal of Microbiology 40, 1067±1071.
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+288 J . G . B U N D Y ET AL.
+
+Garland, J.L. (1997) Analysis and interpretation of community-level
+physiological pro®ling in microbial ecology. FEMS Microbiology
+Ecology 24, 289±300.
+Garland, J.L. and Mills, A.L. (1991) Classi®cation and characterization
+of heterotrophic microbial communities on the basis of patterns of
+community-level sole-carbon-source utilization. Applied and Environmental Microbiology 57, 2351±2359.
+Haack, S.K., Garchow, H., Klug, M.J. and Forney, L.J. (1995)
+Analysis of factors affecting the accuracy, reproducibility, and
+interpretation of microbial community carbon source utilization
+patterns. Applied and Environmental Microbiology 61, 1458±1468.
+Holden, P.A. and Firestone, M.K. (1997) Soil microorganisms in soil
+cleanup: how can we improve our understanding? Journal of
+Environmental Quality 26, 32±40.
+Juck, D., Charles, T., Whyte, L.G. and Greer, C.W. (2000) Polyphasic
+microbial community analysis of petroleum hydrocarbon-contaminated soils from two northern Canadian communities. FEMS
+Microbial Ecology 33, 241±249.
+Konopka, A., Oliver, L. and Turco, R.F. (1998) The use of carbon
+substrate utilization patterns in environmental and ecological
+microbiology. Microbial Ecology 35, 103±115.
+KozdroÂj, J. and van Elsas, J.D. (2000) Response of the bacterial
+community to root exudates in soil polluted with heavy metals
+assessed by molecular and cultural approaches. Soil Biology and
+Biochemistry 32, 1405±1417.
+Lindstrom, J.E., Barry, R.P. and Braddock, J.P. (1999) Long-term
+effects on microbial communities after a subarctic oil spill. Soil
+Biology and Biochemistry 31, 1677±1689.
+Macnaughton, S.J., Stephen, J.R., Venosa, A.D., Davis, G.A., Chang,
+Y.Y. and White, D.C. (1999) Microbial population changes during
+bioremediation of an experimental oil spill. Applied and Environmental Microbiology 65, 3566±3574.
+Marwood, T.M., Knoke, K., Yau, K. et al. (1998) Comparison of toxicity
+detected by ®ve bioassays during bioremediation of diesel fuel-spiked
+soils. Environmental Toxicology and Water Quality 13, 117±126.
+Mesarch, M.B. and Nies, L. (1997) Modi®cation of heterotrophic plate
+counts for assessing the bioremediation potential of petroleumcontaminated soils. Environmental Technology 18, 639±646.
+Radwan, S.S., Sorkoh, N.A., El-Nemr, I.M. and El-Desouky, A.F.
+(1997) A feasibility study on seeding as a bioremediation practice for
+the oil Kuwaiti desert. Journal of Applied Microbiology 83, 353±358.
+Riis, V., Lorbeer, H. and Babel, W. (1998) Extraction of microorganisms from soil: evaluation of the ef®ciency by counting
+methods and activity measurements. Soil Biology and Biochemistry
+30, 1573±1581.
+Ritter, W.F. and Scarborough, R.W. (1995) A review of bioremediation
+of contaminated soils and groundwater. Journal of Environmental
+Science and Health A 30, 333±357.
+
+Saterbak, A., Toy, R.J., Wong, D.C.L. et al. (1999) Ecotoxicological
+and analytical assessment of hydrocarbon-contaminated soils and
+application to ecological risk assessment. Environmental Toxicology
+and Chemistry 19, 1591±1607.
+Singer, J.T. and Finnerty, W.R. (1984) Genetics of hydrocarbonutilizing microorganisms. In Petroleum Microbiology ed. Atlas, R.M.
+pp. 299±353. New York: Macmillan.
+Tunlid, A. and White, D.C. (1992) Biochemical analysis of biomass,
+community structure, nutritional status, and metabolic activity of
+microbial communities in soil. In Soil Biochemistry ed. Stotzky, G.
+and Bollag, J.M. pp. 229±262. New York: Marcel Dekker.
+Venosa, A.D., Stephen, J.R., Macnaughton, S.J., Chang, Y. and White,
+D.C. (2000) Microbial population changes during bioremediation of
+an experimental oil spill. In Microbial Biosystems: New Frontiers
+ed. Bell, C.R., Brylinsky, M. and Johnson-Green, P. pp. 767±773.
+Halifax: Atlantic Canada Society for Microbial Ecology.
+Watson, J.S., Jones, D.M. and Swannell, R.P.J. (1999) Formation of
+carboxylic acids during biodegradation of crude oil. In In Situ
+Bioremediation of Petroleum Hydrocarbon and Other Organic Compounds
+ed. Alleman, B.C. and Leeson, A. pp. 251±255. Columbus: Battelle.
+White, D.C., Flemming, C.A., Leung, K.T. and Macnaughton, S.J.
+(1998) In situ microbial ecology for quantitative appraisal, monitoring, and risk assessment of pollution remediation in soils, the
+subsurface, the rhizosphere and in bio®lms. Journal of Microbiological Methods 32, 93±105.
+White, D.C., Stephen, J.R., Chang, Y.J. et al. (1999) Molecular
+characterization of microbial communities in a JP-4 fuel contaminated soil. In In Situ Bioremediation of Petroleum Hydrocarbon and
+Other Organic Compounds ed. Alleman, B.C. and Leeson, A.
+pp. 345±350. Columbus: Battelle.
+Whittaker, M., Pollard, S.J.T. and Fallick, T.E. (1995) Characterization of refractory wastes at heavy oil-contaminated sites: a review of
+conventional and novel methods. Environmental Technology 16,
+1009±1033.
+WuÈnsche, L., BruÈggeman, L. and Babel, W. (1995) Determination of
+substrate utilization patterns of soil microbial communities: an
+approach to assess population changes after hydrocarbon pollution.
+FEMS Microbiology Ecology 17, 295±305.
+Yao, H., He, Z., Wilson, M.J. and Campbell, C.D. (2000) Microbial
+biomass and community structure in a sequence of soils with
+increasing fertility and changing land use. Microbial Ecology 40,
+223±237.
+Zelles, L. (1999) Patterns of phospholipids and lipopolysaccharides in
+the characterization of microbial communities in soil: a review.
+Biology and Fertility of Soils 29, 111±129.
+
+ã 2002 The Society for Applied Microbiology, Journal of Applied Microbiology, 92, 276±288
+
+

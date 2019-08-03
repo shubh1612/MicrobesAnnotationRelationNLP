@@ -1,0 +1,863 @@
+60A
+Microbial Degradation of Hydrocarbons in the Environment
+
+The recent spill of more than 200,000 barrels of crude oil
+from the oil tanker Exxon Valdez in Prince William Sound,
+Alaska (65), as well as smaller spills in Texas, Rhode Island,
+and the Delaware Bay (5), has refocused attention on the
+problem of hydrocarbon contamination in the environment.
+It is estimated that the annual global input of petroleum is
+between 1.7 and 8.8 million metric tons, the majority of
+which is derived from anthropogenic sources (95). Biodegradation
+of hydrocarbons by natural populations of microorganisms
+represents one of the primary mechanisms by which
+petroleum and other hydrocarbon pollutants are eliminated
+from the environment (95). The effects of environmental
+parameters on the microbial degradation of hydrocarbons,
+the elucidation of metabolic pathways and genetic bases for
+hydrocarbon dissimilation by microorganisms, and the effects
+of hydrocarbon contamination on microorganisms and
+microbial communities have been areas of intense interest
+and the subjects of several reviews (7, 9, 44, 95).
+The intent of the present review is to present a broad and
+updated overview of the microbial ecology of hydrocarbon
+degradation, emphasizing both environmental and biological
+factors which are involved in determining the rate at which
+and extent to which hydrocarbons are removed from the
+environment by biodegradation. Aspects of biodegradation
+of petroleum and individual hydrocarbons in marine, freshwater,
+and soil ecosystems are presented. It should be noted
+that the majority of studies have been concerned with
+degradation of oil in the marine environment, and this is
+necessarily reflected, to a certain extent, in this review.
+* Corresponding author.
+Applications of relatively recent advances in molecular
+biological techniques, such as the isolation of plasmid DNA
+and the construction of DNA probes, to the study of
+hydrocarbon degradation by microbial communities will be
+discussed, as well as the use of natural or genetically
+engineered microorganisms as seeds to increase rates of
+biodegradation of hydrocarbon pollutants in the environment.
+PHYSICAL AND CHEMICAL FACTORS AFFECTING
+THE BIODEGRADATION OF HYDROCARBONS
+Chemical Composition of the Oil or Hydrocarbons
+Petroleum hydrocarbons can be divided into four classes:
+the saturates, the aromatics, the asphaltenes (phenols, fatty
+acids, ketones, esters, and porphyrins), and the resins (pyridines,
+quinolines, carbazoles, sulfoxides, and amides) (44).
+Hydrocarbons differ in their susceptibility to microbial attack
+and, in the past, have generally been ranked in the
+following order of decreasing susceptibility: n-alkanes >
+branched alkanes > low-molecular-weight aromatics > cyclic
+alkanes (104). Biodegradation rates have been shown to
+be highest for the saturates, followed by the light aromatics,
+with high-molecular-weight aromatics and polar compounds
+exhibiting extremely low rates of degradation (59, 76, 145).
+This pattern is not universal, however, as Cooney et al. (46)
+reported greater degradation losses of naphthalene than of
+hexadecane in water-sediment mixtures from a freshwater
+lake and Jones et al. (78) observed extensive biodegradation
+of alkylaromatics in marine sediments prior to detectable
+changes in the n-alkane profile of the crude oil tested.
+Fedorak and Westlake (53) also reported a more rapid attack
+of aromatic hydrocarbons during the degradation of crude oil
+by marine microbial populations from a pristine site and a
+commercial harbor.
+Horowitz and Atlas (71), using an in situ continuous-flow
+system in a study of biodegradation in Arctic coastal waters,
+and Bertrand et al. (26), using a continuous-culture fermentor
+and a mixed culture of marine bacteria, observed degradation
+of all fractions of crude oil at similar rates, in marked
+contrast to the results of most other studies. In the latter
+investigation, experimental conditions were optimized and
+extensive losses of resins (52%) and asphaltenes (74%) were
+observed. The microbial degradation of these fractions,
+which have previously been considered relatively recalcitrant
+to biodegradation (143), can be ascribed to cooxidation,
+in which non-growth hydrocarbons are oxidized in the
+presence of hydrocarbons which can serve as growth substrates
+(103). Evidence for cooxidation of asphaltenes was
+provided by Rontani et al. (114), who reported degradation
+of asphaltenic compounds in mixed bacterial cultures to be
+dependent upon the presence of n-alkanes 12 to 18 carbon
+atoms in length.
+Compositional heterogeneity among different crude oils
+and refined products influences the overall rate of biodegradation
+both of the oil and of its component fractions. Walker
+et al. (147) compared the degradation of two crude and two
+fuel oils by a mixed culture of estuarine bacteria. Lowsulfur,
+high-saturate South Louisiana crude oil was the most
+susceptible to microbial degradation, and high-sulfur, higharomatic
+Bunker C fuel oil was the least susceptible. Percent
+losses of saturated, aromatic, resinous, and asphaltenic
+hydrocarbons were highly variable among the four oils.
+Similarly, Jobson et al. (76) observed a greater degree of
+degradation of "high-quality" North Cantal crude oil than of
+Lost Horse Hill crude oil, which contained higher levels of
+sulfur, aromatics, asphaltenes, and resins, when a mixed
+culture enriched with the North Cantal oil was used. More
+extensive biodegradation of the Lost Horse Hill oil occurred
+when a mixed culture enriched with the same oil was used.
+Physical State of the Oil or Hydrocarbons
+Oil spilled in water tends to spread and form a slick (25).
+As a result of wind and wave action, oil-in-water or waterin-oil
+("mousse") emulsions may form (45). Dispersion of
+hydrocarbons in the water column in the form of oil-in-water
+emulsions increases the surface area of the oil and thus its
+availability for microbial attack. However, large masses (or
+plates) of mousse establish unfavorably low surface-tovolume
+ratios, inhibiting biodegradation (49). Tarballs,
+which are large aggregates of weathered and undegraded oil,
+also restrict access by microorganisms because of their
+limited surface area (43).
+The formation of emulsions through the microbial production
+and release of biosurfactants is an important process in
+the uptake of hydrocarbons by bacteria and fungi (125).
+Broderick and Cooney (32) reported that 96% of hydrocarbon-utilizing
+bacteria isolated from freshwater lakes were
+able to emulsify kerosene, and it has been observed that
+mixed cultures of marine (108) and soil (77) bacteria which
+effectively degrade crude oil also exhibit strong emulsifying
+activity.
+Artificial dispersants have been studied as a means of
+increasing the surface area and hence the biodegradability of
+oil slicks. Dispersant formulations used in the 1960s were
+highly toxic, and their application to oiled intertidal areas
+following the Torrey Canyon spill resulted in widespread
+mortality of flora and fauna (48, 126). More recently developed
+dispersants, such as Corexit, are considerably less
+toxic (52), but still have been shown to inhibit microbial
+processes (63). The effectiveness of dispersants in enhancing
+the biodegradation of oil has been shown to be extremely
+variable and to be dependent on the chemical formulation of
+the dispersant, its concentration, and the dispersant/oil
+application ratio. Studies with different dispersants have
+reported increases (112), decreases (56, 93), and transitory
+or slight increases (56, 93, 136) in the rates of microbial
+degradation of crude oil and individual hydrocarbons.
+The key differences between petroleum biodegradation in
+soil and aquatic ecosystems following an oil spill, discussed
+by Bossert and Bartha (29), are related to the movement and
+distribution of the oil and the presence of particulate matter,
+each of which affects the physical and chemical nature of the
+oil and hence its susceptibility to microbial degradation.
+Terrestrial oil spills are characterized primarily by vertical
+movement of the oil into the soil, rather than the horizontal
+spreading associated with slick formation. Infiltration of oil
+into the soil prevents evaporative losses of volatile hydrocarbons,
+which can be toxic to microorganisms. Particulate
+matter can reduce, by absorption, the effective toxicity of
+the components of petroleum, but absorption and adsorption
+of hydrocarbons to humic substances probably contribute to
+the formation of persistent residues.
+Concentration of the Oil or Hydrocarbons
+The rates of uptake and mineralization of many organic
+compounds by microbial populations in the aquatic environment
+are proportional to the concentration of the compound,
+generally conforming to Michaelis-Menten kinetics (28, 105).
+Michaelian kinetics have been demonstrated for the microbial
+uptake and oxidation of toluene (35, 111), a lowmolecular-weight
+aromatic hydrocarbon of relatively high
+water solubility, but may not apply to the more insoluble
+hydrocarbons. The rates of mineralization of the highermolecular-weight
+aromatic hydrocarbons, such as naphthalene
+and phenanthrene, are related to aqueous solubilities
+rather than total substrate concentrations (135, 152, 153).
+The microbial degradation of long (.C12) alkanes, for which
+solubilities are less than 0.01 mg/liter (23), occurs at rates
+which exceed the rates of hydrocarbon dissolution (135, 156)
+and are a function of the hydrocarbon surface area available
+for emulsification or physical attachment by cells (55, 94,
+148). Biodegradation rates for many hydrocarbons, therefore,
+will not display the dependence on concentration which
+is typically observed with more soluble organic substrates.
+High concentrations of hydrocarbons can be associated
+with heavy, undispersed oil slicks in water, causing inhibition
+of biodegradation by nutrient or oxygen limitation or
+through toxic effects exerted by volatile hydrocarbons (see
+below). Fusey and Oudot (59) reported that contamination of
+seashore sediments with crude oil above a threshold concentration
+prevented biodegradation of the oil because of
+oxygen and/or nutrient limitation. It is likely that high
+concentrations of oil have similarly negative effects on
+biodegradation rates following oil spills in other quiescent,
+low-energy environments such as beaches, harbors, and
+small lakes or ponds, in which the oil is relatively protected
+from dispersion by wind and wave action. Rashid (109), for
+example, observed that the lowest rates of degradation of
+crude oil spilled from an oil tanker occurred in protected
+bays and the highest rates occurred in the areas of greatest
+wave energy.
+The concept of a maximum or threshold concentration for
+MICROBIOL. REV.
+BIODEGRADATION OF HYDROCARBONS IN THE ENVIRONMENT
+microbial degradation of hydrocarbons may apply also to
+soil ecosystems. Dibble and Bartha (51) reported increases
+in CO2 evolution over the range of 1.25 to 5% hydrocarbon
+mass per dry weight of soil, when oil sludge was applied to
+soil. No increase was observed at a level of 10%, and the
+rates declined at 15%. Decreases in activity at high oil
+loading concentrations were ascribed to inhibition of microbial
+activity by toxic components of the oil sludge.
+Temperature
+Temperature influences petroleum biodegradation by its
+effect on the physical nature and chemical composition of
+the oil, rate of hydrocarbon metabolism by microorganisms,
+and composition of the microbial community (7). At low
+temperatures, the viscosity of the oil increases, the volatilization
+of toxic short-chain alkanes is reduced, and their
+water solubility is increased, delaying the onset of biodegradation
+(10). Rates of degradation are generally observed to
+decrease with decreasing temperature; this is believed to be
+a result primarily of decreased rates of enzymatic activity, or
+the "Qlo" effect (10, 60). Higher temperatures increase the
+rates of hydrocarbon metabolism to a maximum, typically in
+the range of 30 to 40°C, above which the membrane toxicity
+of hydrocarbons is increased (29). Thermophilic alkaneutilizing
+bacteria do exist, however (85, 89).
+Climate and season would be expected to select for
+different populations of hydrocarbon-utilizing microorganisms
+which are adapted to ambient temperatures. Colwell et
+al. (43) reported extensive degradation of Metula crude oil
+by mixed cultures of marine bacteria at 3°C, and Huddleston
+and Cresswell (73) observed petroleum biodegradation in
+soil at -1.1°C. By contrast, only negligible degradation of oil
+was exhibited in Arctic marine ice (14) and in frozen tundra
+soil (15). Low winter temperatures were the limiting factor
+for the biodegradation of polyaromatic hydrocarbons in
+estuarine sediment (124) and of a variety of hydrocarbons in
+freshwater lakes (46).
+Oxygen
+The initial steps in the catabolism of aliphatic (125), cyclic
+(104), and aromatic (37) hydrocarbons by bacteria and fungi
+involve the oxidation of the substrate by oxygenases, for
+which molecular oxygen is required. Aerobic conditions are
+therefore necessary for this route of microbial oxidation of
+hydrocarbons in the environment. Conditions of oxygen
+limitation normally do not exist in the upper levels of the
+water column in marine (54) and freshwater (45) environments.
+Aquatic sediments, however, are generally anoxic
+except for a thin layer at the surface of the sediment (45, 66).
+The availability of oxygen in soils is dependent on rates of
+microbial oxygen consumption, the type of soil, whether the
+soil is waterlogged, and the presence of utilizable substrates
+which can lead to oxygen depletion (29). The concentration
+of oxygen has been identified as the rate-limiting variable in
+the biodegradation of petroleum in soil (139) and of gasoline
+in groundwater (74).
+Anaerobic degradation of petroleum hydrocarbons by
+microorganisms has been shown in some studies to occur
+only at negligible rates (18, 74, 150), and its ecological
+significance has been generally considered to be minor (7,
+29, 45, 54). However, the microbial degradation of oxidized
+aromatic compounds such as benzoate (134) and of halogenated
+aromatic compounds such as the halobenzoates (131),
+chlorophenols (30), and polychlorinated biphenyls (40) has
+been shown to occur under anaerobic conditions. Recent
+evidence also indicates that microbial consortia from soil
+and sludge are capable of metabolizing unsubstituted and
+alkyl-substituted aromatics, including benzene, toluene, xylene,
+1,3-dimethylbenzene, acenaphthene, and naphthalene,
+in the absence of molecular oxygen (62, 90, 91, 157).
+Hydroxylation of the aromatic ring of toluene and benzene is
+believed to depend on water as a source of oxygen (62).
+Nitrate can act as the final electron acceptor under denitrifying
+conditions (91, 157). The anaerobic transformation of
+benzene and toluene under methanogenic conditions has
+been tentatively characterized as a fermentation, in which
+the substrate is partially oxidized and partially reduced,
+yielding carbon dioxide and methane as end products (62).
+The amount of substrate removed by anaerobic biodegradation
+can be significant; at least 50% of benzene and toluene
+were mineralized in 60 days under methanogenic conditions
+(62), and naphthalene and acenaphthene were degraded to
+nondetectable levels in 45 and 40 days, respectively, under
+denitrifying conditions (91). The importance of anaerobic
+biodegradation of aromatic hydrocarbons in the environment
+is unknown, and further studies are required to elucidate
+anaerobic pathways, as well as determine whether other
+hydrocarbons, such as alkanes, and hydrocarbon mixtures,
+such as crude oil, can be fully degraded under denitrifying or
+methanogenic conditions.
+Nutrients
+The release of hydrocarbons into aquatic environments
+which contain low concentrations of inorganic nutrients
+often produces excessively high carbon/nitrogen or carbon/
+phosphorus ratios, or both, which are unfavorable for microbial
+growth (7, 45). It is well established that the availability
+of nitrogen and phosphorus limits the microbial
+degradation of hydrocarbons in estuarine water and sediment
+(140), seawater (11), marine sediment (27), freshwater
+lakes (149), Arctic ponds (24), freshwater sediments (46),
+and groundwater (74). Adjustment of carbon/nitrogen/phosphorus
+ratios by the addition of nitrogen and phosphorus in
+the form of oleophilic fertilizers, including paraffinized urea,
+octylphosphate, ferric octoate, paraffin-supported MgNH4
+P04, and 2-ethylhexyldipolyethylene oxide phosphate, stimulates
+the biodegradation of crude oil and individual hydrocarbons
+in seawater and in Arctic ponds and lakes (12, 13, 24,
+50, 71, 72, 100). Inorganic salts of nitrogen and phosphorus
+are effective in enclosed systems (12, 13, 50, 72) but tend to
+wash out in simulated field experiments (12, 13).
+Nitrogen and phosphorus may also be limiting in soils, and
+the acceleration of the biodegradation of crude oil or gasoline
+in soil and groundwater by the addition of urea-phosphate,
+N-P-K fertilizers, and ammonium and phosphate salts
+has been demonstrated in several studies (51, 74, 77, 138).
+Other investigators observed no increase in biodegradation
+rates (87) or an increase only after a delay of several months
+to a year (97, 110) when fertilizer amendments were used.
+These seemingly contradictory results have been attributed
+by Bossert and Bartha (29) to the variable and complex
+composition of soils and to other factors such as nitrogen
+reserves and the presence of nitrogen-fixing bacteria.
+Salinity
+There are few published studies which deal with effects of
+salinity on the microbial degradation of hydrocarbons. Shiaris
+(124) reported a generally positive correlation between
+VOL. 54, 1990 307
+ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://mmbr.asm.org/ Downloaded from 
+308 LEAHY AND COLWELL
+salinity and rates of mineralization of phenanthrene and
+naphthalene in estuarine sediments. Kerr and Capone (82)
+observed a relationship between the naphthalene mineralization
+rate and salinity in sediments of the Hudson river that
+was dependent upon the ambient salinity regime, with estuarine
+sites exhibiting a lack of inhibition of mineralization
+over a wider range of salinities than was the case for the less
+saline upstream site. In a study of hypersaline salt evaporation
+ponds, Ward and Brock (151) showed that rates of
+hydrocarbon metabolism decreased with increasing salinity
+in the range 3.3 to 28.4% and attributed the results to a
+general reduction in microbial metabolic rates.
+Pressure
+The importance of pressure as a variable in the biodegradation
+of hydrocarbons is most probably confined to the
+deep-sea environment. Reports of the effects of pressure
+have been limited to the studies conducted by Schwarz et al.
+(120-122) in which the degradation of tetradecane, hexadecane,
+and a mixed hydrocarbon substrate by a mixed culture
+of deep-sea sediment bacteria was monitored at 1 atm (ca.
+101 kPa) and 495 or 500 atm (ca. 50,140 or 50,650 kPa). At
+4°C, 94% of the hexadecane was utilized only after a 40-week
+incubation under conditions of high pressure, compared with
+8 weeks at 1 atm (122). Colwell and Walker (44) have
+suggested that oil which reaches the deep-ocean environment
+will be degraded very slowly by microbial populations
+and, consequently, that certain recalcitrant fractions of the
+oil could persist for years or decades.
+Water Activity
+The water activity or water potential (a,,) of soils can
+range from 0.0 to 0.99, in contrast to aquatic environments,
+in which water activity is stable at a value near 0.98 (29).
+Hydrocarbon biodegradation in terrestrial ecosystems may
+therefore be limited by the available water for microbial
+growth and metabolism. Dibble and Bartha (51), in a study of
+oil sludge degradation in soil, reported optimal rates of
+biodegradation at 30 to 90% water saturation. The failure to
+observe inhibition of degradation at the lower values was
+ascribed to a hydrocarbon-mediated reduction in the waterholding
+capacity of the soil.
+Atlas (7) has suggested that tarballs deposited on beaches
+may represent another situation in which available water
+limits hydrocarbon biodegradation.
+pH
+In contrast to most aquatic ecosystems, soil pH can be
+highly variable, ranging from 2.5 in mine spoils to 11.0 in
+alkaline deserts (29). Most heterotrophic bacteria and fungi
+favor a pH near neutrality, with fungi being more tolerant of
+acidic conditions (8). Extremes in pH, as can be observed in
+some soils, would therefore be expected to have a negative
+influence on the ability of microbial populations to degrade
+hydrocarbons. Verstraete et al. (138) reported a near doubling
+of rates of biodegradation of gasoline in an acidic (pH
+4.5) soil by adjusting the pH to 7.4. Rates dropped significantly,
+however, when the pH was further raised to 8.5.
+Similarly, Dibble and Bartha (51) observed an optimal pH of
+7.8, in the range 5.0 to 7.8, for the mineralization of oily
+sludge in soil.
+The pH of sediments in special environments such as salt
+marshes may be as low as 5.0 in some cases (102). Hambrick
+et al. (66) found the rates of microbial mineralization of
+octadecane and napthalene to be depressed at this pH
+compared with pH 6.5. Octadecane mineralization rates
+increased further when the pH was raised from 6.5 to 8.0,
+whereas naphthalene mineralization rates did not.
+BIOLOGICAL FACTORS AFFECTING THE
+BIODEGRADATION OF HYDROCARBONS
+Hydrocarbon Degradation by Bacteria, Fungi,
+and Other Microorganisms
+Hydrocarbons in the environment are biodegraded primarily
+by the bacteria and fungi. Although ubiquitous in' terrestrial
+(16, 79) and aquatic (33, 92, 149) ecosystems, the
+fraction of the total heterotrophic community represented by
+the hydrocarbon-utilizing bacteria and fungi is highly variable,
+with reported frequencies ranging from 6% (80) to 82%
+(106) for soil fungi, 0.13% (80) to 50% (106) for soil bacteria,
+and 0.003% (69) to 100% (92) for marine bacteria. Individual
+organisms can metabolize only a limited range of hydrocarbon
+substrates (31), so that assemblages of mixed populations
+with overall broad enzymatic capacities are required to
+degrade complex mixtures of hydrocarbons such as crude oil
+in soil (29), freshwater (45), and marine (7, 54) environments.
+The ability to degrade and/or utilize hydrocarbon substrates
+is exhibited by a wide variety of bacterial and fungal
+genera. Floodgate (54) lists 25 genera of hydrocarbon-degrading
+bacteria and 27 genera of hydrocarbon-degrading
+fungi which have been isolated from the marine environment;
+a similar compilation by Bossert and Bartha (29) for
+soil isolates includes 22 genera of bacteria and 31 genera of
+fungi. Based on the number of published reports, the most
+important hydrocarbon-degrading bacteria in both marine
+and soil environments are Achromobacter, Acinetobacter,
+Alcaligenes, Arthrobacter, Bacillus, Flavobacterium, Nocardia,
+and Pseudomonas spp. and the coryneforms; the
+importance of hydrocarbon-degrading strains of the saltrequiring
+Vibrio spp. is limited to the marine'environment.
+Austin et al. (17), in a numerical taxonomy study of petroleum-degrading
+bacteria from Chesapeake Bay water and
+sediment, found that Pseudomonas, Micrococcus, and Nocardia
+spp., members of the family Enterobacteriaceae,
+acti'nomycetes, and coryneforms made up 95% of the isolates.
+Among the fungi, Aureobasidium, Candida, Rhodotorula,
+and Sporobolomyces spp. are the most common
+marine isolates and Trichoderma and Mortierella spp. are
+the most common soil isolates. Hydrocarbon-degrading Aspergillus
+and Penicillium spp. have been frequently isolated
+from both environments. Based on the work of Kirk and
+Gordon (84), the truly marine, beach-adapted genera Corollospora,
+Dendryphiella, Lulworthia, and Varicosporina
+should be added to the list.
+The extent to which bacteria, yeasts, and filamentous
+fungi participate in the biodegradation of hydrocarbons has
+been the subject of only limited study, but appears to be a
+function of the ecosystem and local environmental conditions.
+In the marine environment, bacteria are generally considered
+to represent the predominant hydrocarbon-degrading
+element of the microbial community. Floodgate (54) suggested
+that fungi were relatively minor components of the
+marine microflora, increasing in numbers in nearshore regions
+(3, 4), the intertidal zone (84, 107), and salt marshes
+and mangrove areas (3). Fungi have also been reported to be
+important inhabitants of specialized niches such as subMICROBIOL.
+REV.
+ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://mmbr.asm.org/ Downloaded from 
+BIODEGRADATION OF HYDROCARBONS IN THE ENVIRONMENT
+merged wood (84), the surface film of water, decomposing
+algae, and the surface of tarballs (2). Few studies, though,
+have directly compared the degrees of hydrocarbon degradation
+accomplished by bacteria and fungi in the marine
+environment. Walker and Colwell (140) reported that Chesapeake
+Bay bacteria accounted for all of the utilization of a
+model petroleum at 0 and 5°C; at 10°C, yeasts but not
+filamentous fungi contributed to the utilization of the petroleum.
+A hydrocarbon-degrading fungus, Cladosporium resinae,
+was responsible for 20 to 40% of the degradation of
+petroleum when added to the inoculum. Ahearn and Meyers
+(3) found that populations of yeasts increased in oil-contaminated
+estuarine sediments over a 4-month period, but declined
+in open-ocean waters despite the presence of oil.
+Ahearn and Crow (1) observed relatively small numbers of
+yeasts associated with crude oil after the Amoco Cadiz spill
+in the North Sea.
+Even less is known of the comparative roles of bacteria
+and fungi in degrading hydrocarbons in freshwater ecosystems.
+Yeasts are at least an order of magnitude more
+abundant in rivers and lakes than in the open ocean, and the
+frequency of molds is generally higher in freshwater than
+seawater samples (3). Cooney and Summers (47) reported
+100-fold-greater numbers of hydrocarbon-utilizing bacteria
+than yeasts and filamentous fungi in sediments from freshwater
+lakes, but the relative amounts of biomass of the two
+groups were considered to be nearly equal.
+Both bacteria and fungi are relatively plentiful in soil, and
+members of both groups contribute to the biodegradation of
+hydrocarbons (29). Hydrocarbon-utilizing bacteria (16, 75,
+106) and fungi (16, 88, 106) are readily isolated from soil, and
+the application of oil or oily wastes to soil results in
+increased numbers of bacteria and fungi (75, 88, 106). In the
+only published comparative study of hydrocarbon degradation
+by bacteria and fungi in soil, Song et al. (127) observed
+that 82% of n-hexadecane mineralization in a sandy loam
+was attributed to bacteria and only 13% was attributed to
+fungi.
+Algae and protozoa are important members of the microbial
+community in both aquatic and terrestrial ecosystems,
+but the extent of their involvement in hydrocarbon biodegradation
+is largely unknown. Walker et al. (146) isolated an
+alga, Prototheca zopfi, which was capable of utilizing crude
+oil and a mixed-hydrocarbon substrate and exhibited extensive
+degradation of n- and isoalkanes, as well as aromatic
+hydrocarbons. Cerniglia et al. (38) observed that nine cyanobacteria,
+five green algae, one red alga, one brown alga,
+and two diatoms could oxidize naphthalene. Protozoa, by
+contrast, have not been shown to utilize hydrocarbons.
+Rogerson and Berger (113) found no direct utilization of
+crude oil by protozoa cultured on hydrocarbon-utilizing
+yeasts and bacteria. Overall, the limited available evidence
+does not appear to suggest an ecologically significant role for
+algae and protozoa in the degradation of hydrocarbons in the
+environment (29, 96).
+Adaptation-Effect of Prior Exposure
+Prior exposure of a microbial community to hydrocarbons,
+either from anthropogenic sources such as accidental
+oil spills, petroleum exploration and transportation activities,
+and waste oil disposal, or from natural sources such as
+seeps and plant-derived hydrocarbons (21, 95), is important
+in determining how rapidly subsequent hydrocarbon inputs
+can be biodegraded. This phenomenon, which results from
+increases in the hydrocarbon-oxidizing potential of the community,
+is known as adaptation (128). The three interrelated
+mechanisms by which adaptation can occur are (i) induction
+and/or depression of specific enzymes, (ii) genetic changes
+which result in new metabolic capabilities, and (iii) selective
+enrichment of organisms able to transform the compound or
+compounds of interest (128, 129). Selective enrichment has
+been widely observed in studies of hydrocarbon and petroleum
+degradation in the environment. A large number of
+reports, reviewed by Colwell and Walker (44), Atlas (7),
+Floodgate (54), Cooney (45), and Bossert and Bartha (29),
+have shown that the numbers of hydrocarbon-utilizing
+microorganisms and their proportion in the heterotrophic
+community increase upon exposure to petroleum or other
+hydrocarbon pollutants and that the levels of hydrocarbonutilizing
+microorganisms generally reflect the degree of contamination
+of the ecosystem. In some cases, this phenomenon
+has been associated with the predominance of a few
+hydrocarbon-degrading genera (88), whereas in other studies
+the diversity of heterotrophic populations was shown to be
+unchanged (42, 69, 101, 106) or even to increase (70). The
+specific effect of hydrocarbon contamination on the generic
+composition of the microbial community would be expected
+to exhibit a strong dependence on the environment and local
+conditions, which may explain these apparently conflicting
+observations.
+Adaptation of microbial communities to hydrocarbons,
+i.e., increases in rates of transformation of hydrocarbons
+associated with oil-contaminated environments, has been
+reported in several studies. Walker et al. observed greater
+degradation of a mixed-hydrocarbon substrate (141) and
+South Louisiana crude oil (144) by sediment bacteria from an
+oil-polluted harbor than by bacteria from a relatively unpolluted
+environment. Uptake and mineralization rates of
+['4C]hexadecane were also higher for planktonic bacteria
+from the polluted site (142). Similarly, Caparello and LaRock
+(36), in a study of mineralization of ['4C]hexadecane
+and degradation of n-alkane mixtures by bacteria in several
+surface water and sand samples, concluded that areas with
+greater hydrocarbon burdens had higher hydrocarbon-oxidizing
+activity. Herbes and Schwall (67) reported that turnover
+times for naphthalene, anthracene, benzo[a]anthracene,
+and benzo[a]pyrene were 10 to 400 times longer in
+sediments of a pristine freshwater stream than in petroleumcontaminated
+sediments. Sherrill and Sayler (123) observed
+increased phenanthrene-biodegradative capacity in water
+samples from two reservoirs receiving industrial and domestic
+wastes compared with a reservoir not receiving wastes.
+Wyndham and Costerton (155) concluded that sediment
+microbial populations within the Athabasca oil sands were
+more capable of oxidizing hydrocarbons than were populations
+from control sites, based on respiration rates of radiolabeled
+hexadecane and naphthalene. Sayler et al. (117)
+showed that exposure of freshwater sediments to a synthetic
+oil accelerated the rate of polyaromatic hydrocarbon (PAH)
+mineralization. Cooney et al. (46) found that water-sediment
+mixtures from an oil-contaminated area of a freshwater lake
+exhibited higher rates of degradation of marker hydrocarbons
+in kerosene than did samples from the non-oiled area of
+the lake.
+Bauer and Capone (22) and Kerr and Capone (82) provided
+evidence for "cross-acclimation" of sediment microbial
+communities to PAHs, in which exposure to one compound,
+such as phenanthrene, effects an increase in metabolism
+rates of a compound of similar structure, such as naphthalene.
+The occurrence of this phenomenon was attributed to
+the broad specificity of selected microbial populations for
+VOL. 54, 1990 309
+ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://mmbr.asm.org/ Downloaded from 
+310 LEAHY AND COLWELL
+PAHs and/or the existence of common pathways for PAH
+catabolism (22). The increase in transformation rates of
+naphthalene, phenanthrene, and benzo[a]pyrene with increasing
+ambient concentrations of PAHs, reported by Shiaris
+(124) for sediments of a polluted estuary, probably
+represents another example of cross-acclimation.
+Adaptation by Alteration of the Genetic Composition of the
+Microbial Community
+Of the three mechanisms for adaptation of microbial
+communities to chemical contaminants, induction and derepression
+of enzymes, genetic changes, and selective enrichment,
+only the third has been examined in detail, as discussed
+in the previous section. This has been primarily a
+result of limitations imposed by available methods, which
+have, until recently, restricted the study of adaptation of
+microbial communities to the phenomenon of selective enrichment,
+in which the numbers or proportion of microorganisms
+that can utilize the compound of interest increase
+within the community and can be enumerated by their ability
+to grow on a medium containing the compound as the sole
+carbon source.
+The primary genetic mechanism for the adaptation of the
+microbial community is the amplification, by means of
+selective enrichment and gene transfer and mutation, of
+genes which are involved in the metabolism of the chemical
+contaminant (19, 129). Direct monitoring of this process with
+respect to adaptation to hydrocarbons has recently been
+made possible by the development of DNA probes specific
+for the genes encoding hydrocarbon-catabolic pathways
+(137). Sayler et al. (118), for example, using the colony
+hybridization technique, showed a correlation between the
+enhanced rates of PAH mineralization in oil-contaminated
+sediments and an increase in the number of colonies containing
+DNA sequences which hybridized to TOL (toluate
+oxidation) and NAH (naphthalene oxidation) plasmid
+probes. The colony hybridization procedure, however, has
+the disadvantage of requiring the growth of organisms on
+laboratory media, which limits sensitivity and does not allow
+detection of DNA sequences in viable but nonculturable
+microorganisms (116). Dot blot hybridization, in which DNA
+is extracted from environmental samples and then probed
+(68, 98), can be used to detect specific DNA sequences in the
+environment without the need for isolation and culture of
+microorganisms. The newly described polymerase chain
+reaction technique can improve the sensitivity of the dot blot
+method by 3 orders of magnitude, permitting the detection of
+1 cell per g of sediment sample (130).
+The use of these methods in conjunction with nucleic acid
+probes for genes involved in hydrocarbon metabolism will
+allow measurement of the frequency of those genes within
+the microbial community (137). This will permit assessment
+of the relative degree of adaptation of the community as well
+as a more detailed analysis of the dynamics of gene amplification
+associated with adaptation.
+Role of Plasmids in Adaptation
+Plasmid DNA may play a particularly important role in
+genetic adaptation in that it represents a highly mobile form
+of DNA which can be transferred via conjugation or transformation
+and can impart novel phenotypes, including hydrocarbon-oxidizing
+ability, to recipient organisms. The
+pathways for the metabolism of naphthalene, salicylate,
+camphor, octane, xylene, and toluene have been shown to
+be encoded on plasmids in Pseudomonas spp. (39). Exposure
+of natural microbial populations to oil or other hydrocarbons
+may impose a selective advantage to strains possessing
+plasmids encoding enzymes for hydrocarbon
+catabolism, resulting in an overall increase in the plasmid
+frequency in the community.
+Indirect evidence for the role of plasmids in adaptation to
+hydrocarbons has been provided by some studies in which a
+greater frequency and/or multiplicity of plasmids has been
+observed among bacterial isolates from hydrocarbon-contaminated
+environments than among isolates from uncontaminated
+sites. Hada and Sizemore (64) screened 440 Vibrio
+isolates from an active oil field and a control site in the
+northwestern Gulf of Mexico for the presence of plasmid
+DNA and found a higher proportion of plasmid carriage (35
+versus 23%) and multiple plasmid carriage (58 versus 29%)
+for oil field isolates than for isolates from the control site.
+The average number of plasmids per plasmid-carrying strain
+was 2.5 and 1.5 for oil field and control site strains, respectively.
+By contrast, Leahy et al. (86), in a study of bacteria
+isolated from sediments in the Campeche Bank region of the
+Gulf of Mexico, concluded that there was no clear association
+between plasmid frequency or multiplicity and proximity
+to an oil field, but, rather, a positive correlation with the
+depth of the site from which the sediment was sampled. The
+failure to observe a higher incidence of plasmid-bearing
+bacteria within the oil field was attributed to the relatively
+low degree of oil contamination in the region at the time of
+the study. Burton et al. (34) reported that 15% of the aerobic,
+heterotrophic bacteria isolated from the sediment of a river
+receiving domestic and industrial effluents carried plasmids,
+compared with 10% of the bacteria from an unpolluted area
+upstream. Ogunseitan et al. (99) observed a higher frequency
+(19.4%) of plasmid-bearing bacterial isolates from an aquifer
+with a history of aromatic hydrocarbon contamination than
+from two pristine aquifers (1.8 and 7.7%). Fredrickson et al.
+(57) found that bacterial isolates from the deeper layers (29
+to 260 m) of terrestrial sediments exhibited a higher incidence
+of plasmids (31 to 39%) than those from the surface
+soil (14%) or the shallow aquifer (16%). They hypothesized
+that the large plasmids associated with bacteria from the
+deeper strata, some of which hybridized to a TOL plasmid
+probe, contained genes encoding aromatic compound catabolism.
+Schutt (119) observed a similar proportion of plasmid
+carriage (34%) among the bacterial isolates from a dystrophic
+lake containing high concentrations of humic compounds.
+To confirm the participation of plasmid DNA in the
+genetic changes of the microbial community during adaptation,
+further studies are necessary to identify the functions of
+plasmids associated with bacteria indigenous to hydrocarbon-containing
+environments.
+Seeding
+Seeding involves the introduction of allochthonous microorganisms
+into the natural environment for the purpose of
+increasing the rate or extent, or both, of biodegradation of
+pollutants. The rationale for this approach is that the autochthonous
+microbial populations may not be capable of degrading
+the wide range of potential substrates present in complex
+mixtures such as petroleum. The criteria to be met by
+effective seed organisms have been reviewed by Atlas (6)
+and include the ability to degrade most petroleum components,
+genetic stability, viability during storage, rapid
+growth following storage, a high degree of enzymatic activity
+and growth in the environment, the ability to compete with
+MICROBIOL. REV.
+ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://mmbr.asm.org/ Downloaded from 
+BIODEGRADATION OF HYDROCARBONS IN THE ENVIRONMENT
+indigenous microorganisms, nonpathogenicity, and the inability
+to produce toxic metabolites.
+Mixed cultures have been most commonly used as inocula
+for seeding because of the relative ease with which microorganisms
+with different and complementary hydrocarbondegrading
+capabilities can be isolated. The potential for
+creating, through genetic manipulation, microbial strains
+able to degrade a variety of different types of hydrocarbons
+has been demonstrated by Friello et al. (58). They successfully
+produced a multiplasmid-containing Pseudomonas
+strain capable of oxidizing aliphatic, aromatic, terpenic, and
+polyaromatic hydrocarbons. The use of such a strain as an
+inoculum during seeding would preclude the problems associated
+with competition between strains in a mixed culture.
+However, there is considerable controversy surrounding the
+release of such genetically engineered microorganisms into
+the environment, and field testing of these organisms must
+therefore be delayed until the issues of safety, containment,
+and the potential for ecological damage are resolved (132).
+Seeding of petroleum-contaminated aquatic environments
+has been attempted, with mixed results. Tagger et al. (133)
+observed no increase in petroleum degradation in seawater
+inoculated with a mixed culture of hydrocarbon-degrading
+bacteria. Atlas and Busdosh (13) reported increased degradation
+of oil in a saline Arctic pond after inoculation with an
+oil-degrading Pseudomonas sp., but no improvement in a
+freshwater pond. Horowitz and Atlas (72) found that greater
+losses of oil in seawater in an open flow-through system
+occurred when octadecane-coated bacteria were applied 2
+weeks after the addition of an oleophilic fertilizer to the
+system than when the fertilizer alone was added. In the same
+study, no significant increases in the loss of gasoline from
+freshwater sediment were produced by seeding. Rosenberg
+et al. (115) were able to demonstrate removal of residual oil
+from the ballast tanks of oil tankers by microbial seeding,
+although removal appeared to result primarily from bioemulsification
+rather than biodegradation.
+Terrestrial ecosystems differ from aquatic ecosystems in
+that soils contain higher concentrations of organic and
+inorganic matter and, generally, larger numbers of microorganisms
+and are more variable in terms of physical and
+chemical conditions (29). The microbial community of soils
+usually includes a significant hydrocarbon-utilizing component,
+which readily increases in response to hydrocarbon
+contamination (16, 75, 88, 106). The presence of indigenous
+microbial populations which are highly adapted to a particular
+soil environment would be expected to influence negatively
+the ability of seed microorganisms to compete successfully
+and survive; for this reason, soils are not widely
+considered to be amenable to improvements in rates of
+biodegradation though seeding alone (6, 29). Other potential
+problems associated with the inoculation of soils, reviewed
+by Goldstein et al. (61), include inadequate (i.e., extremely
+low) concentrations of the chemical of interest, the presence
+of inhibitory substances, predation, preferential metabolism
+of competing organic substrates, and insufficient movement
+of the seed organisms within the soil. Addition of selected
+pure cultures of bacteria to soil has been found to increase
+the rate of degradation of pesticides such as isopropyl
+N-phenylcarbamate (41), 2,4,5-trichlorophenoxyacetic acid
+(83), DDT (dichlorodiphenyltrichloroethane) (81), and parathion
+(20). Similar attempts by Jobson et al. (77), Lehtomaki
+and Niemela (87), and Verstraete et al. (138) to enhance
+the biodegradation of hydrocarbons in soils were unsuccessful.
+The best results from seeding experiments have been
+reported in studies in which the environment is controlled to
+some extent, such as in fermentors and chemostats. The
+advantages of such arrangements are clear: competition with
+autochthonous microflora is reduced or nonexistent, and
+system parameters can be optimized to achieve the highest
+rates of biodegradation. The disadvantages are economic
+costs associated with equipment and equipment transport,
+energy input, and the impracticality of treating spills in some
+environments (e.g., uncontained oil slicks) in a closed or
+semicontained system (6). This approach has been used with
+some success in the biodegradation of crude oil in seawater
+(26) and in the in situ bioremediation of hydrocarboncontaminated
+soil and groundwater (139). Microbial seeding
+from a chemostat has also been used in conjunction with
+conventional activated-sludge treatment to improve the ability
+of a refinery wastewater treatment plant to absorb
+intermittently high loads of hydrocarbons (154). The combination
+of microbial seeding with conventional large-scale
+treatment methods to improve the removal of hydrocarbons
+is therefore feasible and merits additional study.
+CONCLUSIONS
+The biodegradation of petroleum and other hydrocarbons
+in the environment is a complex process, whose quantitative
+and qualitative aspects depend on the nature and amount of
+the oil or hydrocarbons present, the ambient and seasonal
+environmental conditions, and the composition of the autochthonous
+microbial community. Microbial degradation of
+oil has been shown to occur by attack on aliphatic or light
+aromatic fractions of the oil, with high-molecular-weight
+aromatics, resins, and asphaltenes considered to be recalcitrant
+or exhibiting only very low rates of biodegradation,
+although some studies have reported their removal at high
+rates under optimal conditions. In aquatic ecosystems, dispersion
+and emulsification of oil in oil slicks appear to be
+prerequisites for rapid biodegradation; large masses of
+mousse, tarballs, or high concentrations of oil in quiescent
+environments tend to persist because of low surface areas
+available for microbial activity. Petroleum spilled on or
+applied to soil is largely adsorbed to particulate matter,
+decreasing its toxicity but possibly also contributing to its
+persistence. Biodegradation rates generally increase with
+increasing temperature; ecosystems exposed to extremely
+low temperatures degrade hydrocarbons very slowly. The
+microbial degradation of petroleum in aquatic environments
+is limited primarily by nutrients such as nitrogen and phosphorus;
+salinity and pressure may be important in estuarine
+and deep-sea regions, respectively. Oxygen, nutrient concentrations,
+moisture, and pH are predominant factors in
+determining biodegradation rates in soil.
+Hydrocarbon degradation by microbial communities depends
+on the composition of the community and its adaptive
+response to the presence of hydrocarbons. Bacteria and
+fungi are the key agents of degradation, with bacteria assuming
+the dominant role in marine ecosystems and fungi
+becoming more important in freshwater and terrestrial environments.
+Adapted communities, i.e., those which have
+been previously exposed to hydrocarbons, exhibit higher
+biodegradation rates than communities with no history of
+hydrocarbon contamination. The mechanisms of adaptation
+include both selective enrichment and genetic changes,
+resulting in a net increase in the number of hydrocarbonutilizing
+organisms and in the pool of hydrocarbon-catabolizing
+genes within the community. The association of such
+genes with plasmid DNA may also lead to an increased
+VOL. 54, 1990 311
+ on July 17, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://mmbr.asm.org/ Downloaded from 
+312 LEAHY AND COLWELL
+frequency of plasmid-bearing microorganisms. Seeding of
+petroleum-contaminated water or soils with hydrocarbonutilizing
+bacteria has met with some success, particularly in
+situations in which chemostats or fermentors have been used
+to control conditions and reduce competition from indigenous
+microflora.
+Probably the most significant recent developments in
+hydrocarbon biodegradation ecology involve the demonstration
+of anaerobic metabolism of aromatic hydrocarbons and
+application of DNA probes to the analysis of genetic adaptation
+of microbial communities upon exposure to aromatic
+hydrocarbons. The expansion of the DNA probe method to
+the detection of genes encoding the catabolism of other
+classes of hydrocarbons, as well as to the detection of
+specific RNAs, should revolutionize the study of the microbial
+degradation of hydrocarbons in the environment and
+remove many of the biases and limitations imposed by
+conventional culture techniques. Recombinant DNA technology
+may also allow the construction of bacterial and
+fungal strains exhibiting improved capability for hydrocarbon
+metabolism and suitability as seed organisms for the
+elimination of hydrocarbon pollutants, but field studies must
+await the resolution of the issue of release of genetically
+engineered microorganisms into the environment.

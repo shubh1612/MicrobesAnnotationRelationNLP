@@ -1,0 +1,53 @@
+T1	ReactionOrProcess 60 71	enrichments
+T2	ReactionOrProcess 283 293	enrichment
+T3	Environment 370 381	terrestrial
+T4	Environment 421 437	nitrate-reducing
+T5	Substrate 370 385	terrestrial oil
+T6	Substrate 382 385	oil
+T7	Microbes 761 776	Actinomycetales
+T8	ReactionOrProcess 729 739	enrichment
+T9	Environment 943 952	sediments
+T10	Environment 922 928	marine
+T11	Environment 954 959	soils
+T12	Substrate 1059 1071	hydrocarbons
+T13	Substrate 1059 1071	hydrocarbons
+T14	Property 1075 1093	sole carbon source
+T15	Nutrient 1080 1086	carbon
+T16	ReactionOrProcess 1231 1242	enrichments
+T17	Substrate 1317 1326	petroleum
+T18	Substrate 1490 1499	petroleum
+T19	ReactionOrProcess 1456 1465	oxidation
+T20	ReactionOrProcess 1500 1513	accumulations
+R1	CarriedOn Arg1:T19 Arg2:T18
+T21	Substrate 1707 1716	petroleum
+T22	Substrate 1619 1632	Thermotogales
+T23	ReactionOrProcess 1854 1862	reducing
+T24	ReactionOrProcess 1981 1991	enrichment
+T25	Substrate 2143 2152	petroleum
+T26	Property 2203 2216	Gram-negative
+T27	ReactionOrProcess 2277 2301	organic acid degradation
+T28	ReactionOrProcess 2290 2301	degradation
+T29	Substrate 2486 2495	crude oil
+T30	Substrate 2492 2495	oil
+T31	ReactionOrProcess 2470 2480	inoculated
+T32	ReactionOrProcess 2414 2424	enrichment
+R2	CarriedOn Arg1:T32 Arg2:T29
+R3	CarriedOn Arg1:T32 Arg2:T30
+T33	ReactionOrProcess 2712 2722	enrichment
+T34	Environment 2862 2871	Antarctic
+T35	Environment 2862 2876	Antarctic soil
+T36	Environment 2872 2876	soil
+T37	Substrate 2907 2928	aromatic hydrocarbons
+T38	Substrate 2759 2768	petroleum
+T39	Substrate 2907 2928	aromatic hydrocarbons
+T40	Substrate 2862 2928	Antarctic soil contaminated with polynuclear aromatic hydrocarbons
+T41	Substrate 2895 2928	polynuclear aromatic hydrocarbons
+T42	Substrate 2916 2928	hydrocarbons
+T43	Substrate 2832 2843	hydrocarbon
+T44	Substrate 2916 2928	hydrocarbons
+T45	Substrate 2895 2928	polynuclear aromatic hydrocarbons
+T46	Property 2907 2915	aromatic
+T47	ReactionOrProcess 2832 2858	hydrocarbon biodegradation
+T48	ReactionOrProcess 2844 2858	biodegradation
+T49	ReactionOrProcess 3134 3145	enrichments
+T50	ReactionOrProcess 3454 3463	replicate

@@ -1,0 +1,37 @@
+T1	Substrate 168 171	oil
+T2	Environment 373 377	sand
+T3	Environment 849 853	sand
+T4	Environment 1005 1016	beach sands
+T5	Environment 1035 1055	anaerobic conditions
+T6	Substrate 939 942	oil
+T7	ReactionOrProcess 855 865	Enrichment	
+T8	ReactionOrProcess 870 879	isolation
+T9	Nutrient 955 961	carbon
+T10	Microbes 1245 1255	Firmicutes
+T11	Microbes 1261 1275	Actinobacteria
+T12	Microbes 1437 1456	Gammaproteobacteria
+T13	Microbes 1369 1384	Alteromonadales
+T14	Microbes 1499 1518	Alphaproteobacteria
+T15	Microbes 1577 1587	Firmicutes
+T16	Microbes 1592 1606	Actinobacteria
+T17	Environment 1696 1707	oiled sands
+T18	Environment 1721 1726	Beach
+T19	Microbes 1829 1841	Marinobacter
+T20	Environment 1947 1958	beach sands
+T21	Environment 2099 2110	beach sands
+T22	Substrate 2130 2133	oil
+T23	Environment 2374 2385	Beach sands
+T24	Microbes 2403 2422	Gammaproteobacteria
+R3	OccursIn Arg1:T7 Arg2:T4
+R4	OccursIn Arg1:T7 Arg2:T5
+R5	OccursIn Arg1:T8 Arg2:T4
+R6	OccursIn Arg1:T8 Arg2:T5
+T25	Environment 1023 1030	aerobic
+T26	Microbes 1229 1243	Proteobacteria
+T27	Microbes 1350 1367	Oceanospirilalles
+T28	Microbes 1386 1397	Vibrionales
+T29	Microbes 1403 1418	Pseudomonadales
+T30	Microbes 742 758	Alcanivorax spp.
+T31	Microbes 1816 1827	Alcanivorax
+T32	Microbes 1843 1860	Pseudoalteromonas
+T33	Microbes 1866 1877	Pseudomonas

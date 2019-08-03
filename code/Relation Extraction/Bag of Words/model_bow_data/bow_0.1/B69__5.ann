@@ -1,0 +1,95 @@
+T1	Environment 163 168	plume
+T2	Environment 508 513	plume
+T3	Environment 504 513	oil plume
+T4	Substrate 504 507	oil
+T5	Environment 889 894	plume
+T6	Environment 1005 1010	plume
+T7	Substrate 1516 1523	nitrite
+T8	Substrate 1732 1739	nitrite
+T9	Substrate 1945 1952	nitrite
+T10	Substrate 2087 2094	nitrite
+T11	Substrate 1483 1490	nitrate
+T12	Substrate 1655 1662	nitrate
+T13	Substrate 1893 1900	nitrate
+T14	ReactionOrProcess 1696 1711	denitrification
+T15	ReactionOrProcess 1846 1861	denitrification
+T16	ReactionOrProcess 1996 2005	reduction
+T17	ReactionOrProcess 1566 1575	reduction
+T18	Nutrient 2009 2017	ammonium
+T19	Environment 2363 2368	plume
+T20	Environment 2194 2200	Marine
+T21	Substrate 2255 2258	oil
+T22	ReactionOrProcess 2227 2251	potential bioremediation
+T23	ReactionOrProcess 2237 2251	bioremediation
+R1	CarriedOn Arg1:T22 Arg2:T21
+R2	CarriedOn Arg1:T23 Arg2:T21
+T24	Environment 2671 2676	plume
+T25	ReactionOrProcess 2830 2844	bioremediation
+T26	ReactionOrProcess 2820 2844	intrinsic bioremediation
+T27	Substrate 2886 2889	oil
+T28	Environment 3067 3073	marine
+T29	Substrate 3009 3012	oil
+T30	Environment 3510 3515	plume
+T31	Environment 3506 3515	oil plume
+T32	Substrate 3506 3509	oil
+T33	ReactionOrProcess 3391 3400	reduction
+T34	ReactionOrProcess 3312 3323	degradation
+T35	ReactionOrProcess 3344 3358	methanogenesis
+T36	ReactionOrProcess 3383 3400	sulfate reduction
+T37	Nutrient 3325 3331	carbon
+T38	Nutrient 3360 3368	nitrogen
+T39	Nutrient 3402 3412	phosphorus
+R3	CarriedOn Arg1:T33 Arg2:T32
+R4	CarriedOn Arg1:T34 Arg2:T32
+R5	CarriedOn Arg1:T35 Arg2:T32
+R6	CarriedOn Arg1:T36 Arg2:T32
+T40	Substrate 3683 3686	oil
+T41	Environment 3880 3886	marine
+T42	Substrate 3955 3958	oil
+T43	Substrate 4072 4081	petroleum
+T44	Substrate 4058 4061	oil
+T45	Substrate 4430 4439	petroleum
+T46	Substrate 4332 4335	oil
+T47	Environment 4488 4493	plume
+T48	Environment 4484 4493	oil plume
+T49	Substrate 4475 4487	deep-sea oil
+T50	Substrate 4622 4635	dispersed oil
+T51	Substrate 4484 4487	oil
+T52	Substrate 4632 4635	oil
+T53	Property 4475 4493	deep-sea oil plume
+T54	Property 4622 4631	dispersed
+T55	Substrate 4813 4816	oil
+T56	ReactionOrProcess 4740 4749	degrading
+R7	CarriedOn Arg1:T56 Arg2:T55
+T57	Environment 5010 5015	plume
+T58	Environment 5006 5015	oil plume
+T59	Substrate 4947 4958	various oil
+T60	Substrate 4955 4958	oil
+T61	Substrate 5006 5009	oil
+T62	Substrate 5106 5109	oil
+T63	ReactionOrProcess 4910 4943	aerobic and anaerobic degradation
+T64	ReactionOrProcess 4932 4943	degradation
+T65	ReactionOrProcess 4922 4943	anaerobic degradation
+R8	CarriedOn Arg1:T63 Arg2:T59
+R9	CarriedOn Arg1:T63 Arg2:T60
+R10	CarriedOn Arg1:T63 Arg2:T61
+R11	CarriedOn Arg1:T63 Arg2:T62
+R12	CarriedOn Arg1:T64 Arg2:T59
+R13	CarriedOn Arg1:T64 Arg2:T60
+R14	CarriedOn Arg1:T64 Arg2:T61
+R15	CarriedOn Arg1:T64 Arg2:T62
+R16	CarriedOn Arg1:T65 Arg2:T59
+R17	CarriedOn Arg1:T65 Arg2:T60
+R18	CarriedOn Arg1:T65 Arg2:T61
+R19	CarriedOn Arg1:T65 Arg2:T62
+T66	Environment 5367 5372	plume
+T67	Environment 5393 5398	plume
+T68	Environment 5363 5372	oil plume
+T69	Substrate 5281 5285	BTEX
+T70	Substrate 5139 5146	alkanes
+T71	Substrate 5363 5366	oil
+T72	Substrate 5518 5529	various oil
+T73	Substrate 5526 5529	oil
+T74	Property 5500 5514	concentrations
+T75	Property 5530 5542	contaminants
+T76	ReactionOrProcess 5763 5773	replicates

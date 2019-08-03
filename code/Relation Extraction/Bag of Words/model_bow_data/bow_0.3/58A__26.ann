@@ -1,0 +1,70 @@
+T1	Microbes 356 372	aerobic bacteria
+T2	Substrate 278 297	aromatic pollutants
+T3	Property 278 286	aromatic
+T4	Property 287 297	pollutants
+T5	ReactionOrProcess 444 455	degradation
+T6	Microbes 570 582	Enterobacter
+T7	Microbes 724 750	obligate aerobic bacterium
+T8	Property 905 914	dissolved
+T9	Property 922 935	concentration
+T10	Nutrient 915 921	oxygen
+T11	ReactionOrProcess 1267 1281	biodegradation
+T12	Environment 1453 1473	anaerobic conditions
+T13	Microbes 1496 1507	Alcaligenes
+T14	Microbes 1670 1681	Alcaligenes
+T15	Environment 1645 1665	anaerobic conditions
+T16	ReactionOrProcess 1607 1617	metabolize
+R1	CarriedOn Arg1:T16 Arg2:T14
+T17	ReactionOrProcess 1711 1721	metabolize
+T18	Microbes 2016 2027	Alcaligenes
+T19	ReactionOrProcess 2090 2104	mineralization
+T20	ReactionOrProcess 2353 2362	reduction
+T21	Microbes 2452 2470	enrichment culture
+T22	Environment 2496 2505	sediments
+T23	Environment 2490 2495	water
+T24	Environment 2484 2505	fresh water sediments
+T25	ReactionOrProcess 2452 2462	enrichment
+T26	Microbes 2751 2773	Pseudomonas aeruginosa
+T27	Microbes 2763 2773	aeruginosa
+T28	ReactionOrProcess 2721 2733	mineralizing
+T29	Microbes 2832 2850	enrichment culture
+T30	Microbes 2909 2922	P. aeruginosa
+T31	Microbes 2912 2922	aeruginosa
+T32	ReactionOrProcess 2955 2962	degrade
+T33	ReactionOrProcess 2832 2842	enrichment
+T34	ReactionOrProcess 2881 2891	metabolize
+R2	CarriedOn Arg1:T33 Arg2:T30
+R3	CarriedOn Arg1:T33 Arg2:T31
+R4	CarriedOn Arg1:T34 Arg2:T30
+R5	CarriedOn Arg1:T34 Arg2:T31
+T35	Microbes 3323 3333	aeruginosa
+T36	ReactionOrProcess 3237 3251	mineralization
+R6	CarriedOn Arg1:T36 Arg2:T35
+T37	Property 3364 3373	dissolved
+T38	Property 3381 3394	concentration
+T39	Nutrient 3374 3380	oxygen
+T40	Substrate 3568 3587	aromatic pollutants
+T41	Substrate 3555 3587	recalcitrant aromatic pollutants
+T42	Property 3568 3576	aromatic
+T43	Property 3577 3587	pollutants
+T44	ReactionOrProcess 3528 3551	complete biodegradation
+T45	ReactionOrProcess 3537 3551	biodegradation
+R7	CarriedOn Arg1:T44 Arg2:T40
+R8	CarriedOn Arg1:T44 Arg2:T41
+R9	CarriedOn Arg1:T45 Arg2:T40
+R10	CarriedOn Arg1:T45 Arg2:T41
+T46	Substrate 3642 3661	aromatic pollutants
+T47	Property 3642 3650	aromatic
+T48	Property 3651 3661	pollutants
+T49	ReactionOrProcess 3905 3918	anaerobically
+T50	ReactionOrProcess 3895 3904	incubated
+T51	Substrate 3965 3986	chlorinated aromatics
+T52	Substrate 3977 3986	aromatics
+T53	Property 3990 3998	aromatic
+T54	Property 3977 3986	aromatics
+T55	ReactionOrProcess 4043 4054	degradation
+T56	ReactionOrProcess 4033 4054	anaerobic degradation
+T57	Substrate 4284 4305	xenobiotic pollutants
+T58	Property 4295 4305	pollutants
+T59	ReactionOrProcess 4260 4274	mineralization
+R11	CarriedOn Arg1:T59 Arg2:T57

@@ -1,0 +1,28 @@
+T1	Substrate 40 49	petroleum
+T2	Substrate 50 62	hydrocarbons
+T3	Substrate 50 62	hydrocarbons
+T4	Substrate 40 62	petroleum hydrocarbons
+T5	Property 414 425	temperature
+T6	Property 513 524	temperature
+T7	Property 764 775	temperature
+T8	Environment 892 904	soil samples
+T9	Environment 892 896	soil
+T10	Environment 971 975	Soil
+T11	ReactionOrProcess 877 886	extracted
+T12	ReactionOrProcess 852 861	Isolation
+T13	ReactionOrProcess 1163 1174	resuspended
+T14	Nutrient 1150 1154	agar
+T15	ReactionOrProcess 1378 1381	PCR
+T16	ReactionOrProcess 1428 1434	T-RFLP
+T17	ReactionOrProcess 1953 1962	extracted
+T18	ReactionOrProcess 2014 2023	denatured
+T19	ReactionOrProcess 2144 2153	extension
+T20	ReactionOrProcess 2201 2209	purified
+T21	ReactionOrProcess 2183 2186	PCR
+T22	ReactionOrProcess 2561 2573	denaturation
+T23	ReactionOrProcess 2538 2547	denatured
+T24	Property 3052 3064	fluorescence
+T25	Microbes 3264 3275	Alcaligenes
+T26	Microbes 3320 3332	Enterobacter
+T27	Microbes 3376 3388	Enterobacter
+T28	Microbes 3524 3536	Enterobacter

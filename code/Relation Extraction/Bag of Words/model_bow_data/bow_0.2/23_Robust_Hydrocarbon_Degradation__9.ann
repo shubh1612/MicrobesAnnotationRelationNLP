@@ -1,0 +1,53 @@
+T1	ReactionOrProcess 34 37	PCR
+T2	ReactionOrProcess 42 49	cloning
+T3	Environment 575 583	seawater
+T4	Substrate 602 605	oil
+T5	Property 414 426	fluorescence
+T6	ReactionOrProcess 560 571	incubations
+T7	ReactionOrProcess 435 448	hybridization
+R1	CarriedOn Arg1:T6 Arg2:T4
+R2	CarriedOn Arg1:T7 Arg2:T4
+T8	Environment 641 651	microcosms
+T9	Substrate 702 705	oil
+T10	Substrate 690 705	significant oil
+T11	ReactionOrProcess 743 753	incubation
+T12	ReactionOrProcess 690 717	significant oil degradation
+T13	ReactionOrProcess 706 717	degradation
+T14	ReactionOrProcess 702 717	oil degradation
+T15	Substrate 1048 1059	hydrocarbon
+T16	Substrate 1024 1027	oil
+T17	ReactionOrProcess 1048 1071	hydrocarbon degradation
+T18	ReactionOrProcess 1040 1071	limited hydrocarbon degradation
+T19	ReactionOrProcess 1060 1071	degradation
+T20	Nutrient 973 981	nitrogen
+T21	Nutrient 986 996	phosphorus
+T22	Substrate 1279 1292	extensive oil
+T23	Substrate 1088 1099	hydrocarbon
+T24	Substrate 1289 1292	oil
+T25	Property 1100 1110	pollutants
+T26	ReactionOrProcess 1293 1304	degradation
+T27	ReactionOrProcess 1289 1304	oil degradation
+T28	ReactionOrProcess 1279 1304	extensive oil degradation
+T29	Environment 1543 1552	microcosm
+T30	Substrate 1329 1352	significant hydrocarbon
+T31	Substrate 1341 1352	hydrocarbon
+T32	ReactionOrProcess 1341 1364	hydrocarbon degradation
+T33	ReactionOrProcess 1353 1364	degradation
+T34	ReactionOrProcess 1329 1364	significant hydrocarbon degradation
+T35	Substrate 1621 1632	hydrocarbon
+T36	ReactionOrProcess 1621 1644	hydrocarbon degradation
+T37	ReactionOrProcess 1633 1644	degradation
+T38	ReactionOrProcess 1825 1839	biodegradation
+T39	Environment 1978 1984	waters
+T40	Environment 2347 2355	seawater
+T41	Environment 2411 2414	Sea
+T42	Substrate 2260 2263	oil
+T43	Substrate 2333 2336	oil
+T44	Substrate 2388 2391	oil
+T45	ReactionOrProcess 2243 2254	enrichments
+T46	Environment 2534 2540	marine
+T47	Substrate 2534 2552	marine hydrocarbon
+T48	Substrate 2541 2552	hydrocarbon
+T49	ReactionOrProcess 2541 2564	hydrocarbon degradation
+T50	ReactionOrProcess 2553 2564	degradation
+T51	ReactionOrProcess 2534 2564	marine hydrocarbon degradation

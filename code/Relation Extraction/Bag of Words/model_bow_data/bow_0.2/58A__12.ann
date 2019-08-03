@@ -1,0 +1,38 @@
+T1	Environment 194 203	sediments
+T2	Environment 184 203	anaerobic sediments
+T3	Environment 184 203	anaerobic sediments
+T4	Microbes 271 290	enrichment cultures
+T5	ReactionOrProcess 313 326	anaerobically
+T6	ReactionOrProcess 271 281	enrichment
+T7	ReactionOrProcess 303 312	incubated
+T8	Microbes 682 698	Proteus vulgaris
+T9	ReactionOrProcess 636 649	anaerobically
+T10	ReactionOrProcess 542 547	redox
+T11	ReactionOrProcess 650 659	incubated
+R1	CarriedOn Arg1:T9 Arg2:T8
+R2	CarriedOn Arg1:T10 Arg2:T8
+R3	CarriedOn Arg1:T11 Arg2:T8
+T12	Property 797 805	aromatic
+T13	ReactionOrProcess 726 735	reduction
+T14	Substrate 1209 1218	aromatics
+T15	Property 1209 1218	aromatics
+T16	Substrate 1232 1254	typical aromatic amine
+T17	Property 1352 1376	aerobic biodegradability
+T18	Property 1240 1248	aromatic
+T19	Property 1323 1333	pollutants
+T20	ReactionOrProcess 1360 1376	biodegradability
+T21	Environment 1480 1494	aerobic sludge
+T22	Property 1391 1399	aromatic
+T23	ReactionOrProcess 1465 1476	biodegraded
+T24	Microbes 1779 1798	enrichment cultures
+T25	Environment 1685 1709	aerobic activated sludge
+T26	ReactionOrProcess 1673 1681	degraded
+T27	ReactionOrProcess 1779 1789	enrichment
+T28	Microbes 2053 2072	enrichment cultures
+T29	Environment 1980 2004	aerobic activated sludge
+T30	ReactionOrProcess 1965 1976	biodegraded
+T31	ReactionOrProcess 2053 2063	enrichment
+T32	Microbes 2127 2143	aerobic bacteria
+T33	Environment 2302 2322	anaerobic conditions
+T34	Property 2599 2612	biodegradable
+T35	Property 2544 2552	aromatic

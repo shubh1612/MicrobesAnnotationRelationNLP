@@ -1,0 +1,156 @@
+T1	Environment 165 174	sediments
+T2	Substrate 100 111	hydrocarbon
+T3	ReactionOrProcess 100 123	hydrocarbon degradation
+T4	ReactionOrProcess 112 123	degradation
+T5	Environment 281 290	sediments
+T6	Environment 314 323	sediments
+T7	Environment 308 323	Marsh sediments
+T8	Environment 308 323	Marsh sediments
+T9	Substrate 194 205	hydrocarbon
+T10	ReactionOrProcess 194 217	hydrocarbon degradation
+T11	ReactionOrProcess 206 217	degradation
+T12	Environment 606 615	sediments
+T13	Environment 600 615	Marsh sediments
+T14	Environment 510 523	Marsh samples
+T15	Environment 600 615	Marsh sediments
+T16	Substrate 398 419	chlorinated aromatics
+T17	Substrate 348 355	alkanes
+T18	Substrate 357 369	cycloalkanes
+T19	Substrate 421 441	polycyclic aromatics
+T20	Substrate 371 396	aromatic carboxylic acids
+T21	Substrate 453 462	aromatics
+T22	Substrate 410 419	aromatics
+T23	Substrate 432 441	aromatics
+T24	Substrate 562 565	oil
+T25	Property 421 431	polycyclic
+T26	Property 566 580	concentrations
+T27	Property 371 379	aromatic
+T28	Property 453 462	aromatics
+T29	Property 410 419	aromatics
+T30	Property 432 441	aromatics
+T31	ReactionOrProcess 340 347	degrade
+R1	CarriedOn Arg1:T31 Arg2:T24
+T32	Environment 734 743	sediments
+T33	Substrate 647 658	hydrocarbon
+T34	ReactionOrProcess 647 670	hydrocarbon degradation
+T35	ReactionOrProcess 659 670	degradation
+T36	Substrate 929 932	oil
+T37	Substrate 1019 1022	oil
+T38	Property 1059 1070	temperature
+T39	Environment 1328 1337	sediments
+T40	Environment 1322 1337	marsh sediments
+T41	Environment 1322 1337	marsh sediments
+T42	Substrate 1094 1097	oil
+T43	Substrate 1185 1188	oil
+T44	Environment 1408 1417	sediments
+T45	Environment 1402 1417	marsh sediments
+T46	Environment 1402 1417	marsh sediments
+T47	Substrate 1371 1374	oil
+T48	Environment 1594 1603	sediments
+T49	Substrate 1501 1504	oil
+T50	Property 1581 1589	saturate
+T51	Environment 1670 1679	sediments
+T52	Environment 1720 1730	subsurface
+T53	Environment 1660 1679	saturated sediments
+T54	Environment 1656 1679	Oil saturated sediments
+T55	Environment 1660 1679	saturated sediments
+T56	Substrate 1656 1659	Oil
+T57	Property 1660 1669	saturated
+T58	Substrate 1793 1796	oil
+T59	ReactionOrProcess 1802 1826	microbial biodegradation
+T60	ReactionOrProcess 1812 1826	biodegradation
+T61	Environment 1877 1885	sediment
+T62	Environment 2009 2018	sediments
+T63	Substrate 1981 1984	TPH
+T64	Substrate 1932 1935	oil
+T65	Environment 2147 2155	sediment
+T66	Environment 2294 2303	sediments
+T67	Environment 2288 2303	marsh sediments
+T68	Environment 2288 2303	marsh sediments
+T69	Substrate 2136 2139	oil
+T70	Substrate 2180 2183	oil
+T71	Substrate 2273 2276	oil
+T72	Property 2324 2335	attenuation
+T73	Microbes 2428 2441	Bacteroidetes
+T74	Microbes 2487 2501	Proteobacteria
+T75	Microbes 2467 2477	Firmicutes
+T76	Microbes 2447 2461	Actinobacteria
+T77	Microbes 2526 2540	Proteobacteria
+T78	Environment 2651 2670	Florida sandy beach
+T79	Environment 2659 2664	sandy
+T80	Environment 2665 2670	beach
+T81	Environment 2659 2670	sandy beach
+T82	Substrate 2705 2708	oil
+T83	Property 2659 2664	sandy
+T84	Substrate 2901 2912	hydrocarbon
+T85	Environment 3175 3184	sediments
+T86	Substrate 3393 3414	aromatic hydrocarbons
+T87	Substrate 3393 3414	aromatic hydrocarbons
+T88	Substrate 3364 3371	alkanes
+T89	Substrate 3381 3414	polynuclear aromatic hydrocarbons
+T90	Substrate 3402 3414	hydrocarbons
+T91	Substrate 3402 3414	hydrocarbons
+T92	Substrate 3381 3414	polynuclear aromatic hydrocarbons
+T93	Property 3393 3401	aromatic
+T94	ReactionOrProcess 3356 3363	degrade
+R2	CarriedOn Arg1:T94 Arg2:T86
+R3	CarriedOn Arg1:T94 Arg2:T87
+R4	CarriedOn Arg1:T94 Arg2:T89
+R5	CarriedOn Arg1:T94 Arg2:T90
+R6	CarriedOn Arg1:T94 Arg2:T91
+R7	CarriedOn Arg1:T94 Arg2:T92
+T95	Substrate 3707 3710	oil
+T96	Substrate 3749 3752	oil
+T97	Property 3640 3654	biosurfactants
+T98	ReactionOrProcess 3711 3722	degradation
+T99	ReactionOrProcess 3707 3722	oil degradation
+T100	ReactionOrProcess 3753 3767	emulsification
+T101	Substrate 3947 3950	oil
+T102	Microbes 4062 4075	Bacteroidetes
+T103	Microbes 4081 4095	Proteobacteria
+T104	Microbes 4046 4060	Actinobacteria
+T105	Substrate 4015 4026	hydrocarbon
+T106	Substrate 4124 4127	oil
+T107	Substrate 4263 4266	oil
+T108	Property 4027 4036	degraders
+T109	Property 4128 4142	concentrations
+T110	Property 4199 4213	concentrations
+T111	Property 4267 4281	concentrations
+T112	Microbes 4313 4323	Clostridia
+T113	Microbes 4434 4444	Firmicutes
+T114	Substrate 4565 4576	hydrocarbon
+T115	Substrate 4517 4520	oil
+T116	Substrate 4622 4625	oil
+T117	Property 4577 4586	degraders
+T118	Microbes 4668 4678	Firmicutes
+T119	Environment 4693 4702	sediments
+T120	Environment 4772 4787	simulated spill
+T121	Environment 4687 4702	marsh sediments
+T122	Environment 4687 4702	marsh sediments
+T123	Substrate 4919 4923	PAHs
+T124	Substrate 4741 4752	hydrocarbon
+T125	Substrate 4854 4865	hydrocarbon
+T126	ReactionOrProcess 4854 4877	hydrocarbon degradation
+T127	ReactionOrProcess 4654 4664	enrichment
+T128	ReactionOrProcess 4866 4877	degradation
+R8	CarriedOn Arg1:T127 Arg2:T118
+R9	CarriedOn Arg1:T127 Arg2:T123
+R10	CarriedOn Arg1:T127 Arg2:T124
+R11	CarriedOn Arg1:T127 Arg2:T125
+T129	Environment 4996 5005	sediments
+T130	Environment 4990 5005	marsh sediments
+T131	Environment 4990 5005	marsh sediments
+T132	Environment 5160 5169	sediments
+T133	Substrate 5210 5213	TPH
+T134	Property 5214 5228	concentrations
+T135	Environment 5498 5507	sediments
+T136	Environment 5492 5507	Marsh sediments
+T137	Environment 5492 5507	Marsh sediments
+T138	Substrate 5520 5523	TPH
+T139	Substrate 5436 5439	TPH
+T140	Substrate 5684 5687	TPH
+T141	Substrate 5735 5738	oil
+T142	Property 5739 5753	concentrations
+T143	Environment 5990 5999	sediments
+T144	Environment 5984 5999	Marsh sediments
+T145	Environment 5984 5999	Marsh sediments

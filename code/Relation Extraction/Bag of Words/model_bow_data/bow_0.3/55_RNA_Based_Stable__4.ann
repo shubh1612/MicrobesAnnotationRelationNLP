@@ -1,0 +1,98 @@
+T1	Property 92 103	temperature
+T2	Property 26 38	temperatures
+T3	ReactionOrProcess 17 25	detector
+T4	Nutrient 134 142	nitrogen
+T5	Environment 249 260	groundwater
+T6	Substrate 368 375	benzene
+T7	Substrate 380 387	toluene
+T8	Substrate 315 321	xylene
+T9	Property 322 336	concentrations
+T10	Property 388 402	concentrations
+T11	Property 297 308	attenuation
+T12	Environment 467 478	groundwater
+T13	Substrate 429 436	nitrate
+T14	Property 541 554	concentration
+T15	Property 449 463	concentrations
+T16	Environment 620 631	groundwater
+T17	Environment 690 701	Groundwater
+T18	Nutrient 806 823	electron acceptor
+T19	Nutrient 846 852	oxygen
+T20	Substrate 884 891	benzene
+T21	Substrate 896 902	xylene
+T22	Property 866 880	concentrations
+T23	Substrate 928 935	Toluene
+T24	Property 936 950	concentrations
+T25	Substrate 1111 1118	benzene
+T26	Property 1185 1197	denitrifying
+T27	Property 1202 1214	sulfidogenic
+T28	ReactionOrProcess 1123 1131	degraded
+T29	ReactionOrProcess 1185 1197	denitrifying
+T30	Substrate 1236 1242	xylene
+T31	Property 1336 1348	sulfidogenic
+T32	ReactionOrProcess 1255 1263	degraded
+T33	ReactionOrProcess 1293 1316	significant degradation
+T34	ReactionOrProcess 1305 1316	degradation
+T35	Substrate 1386 1393	benzene
+T36	Substrate 1398 1404	xylene
+T37	Substrate 1641 1648	benzene
+T38	Substrate 1660 1667	toluene
+T39	Substrate 1684 1690	xylene
+T40	Substrate 1526 1533	nitrate
+T41	Property 1491 1503	denitrifying
+T42	ReactionOrProcess 1474 1484	incubation
+T43	ReactionOrProcess 1491 1503	denitrifying
+T44	Nutrient 1549 1555	oxygen
+R1	CarriedOn Arg1:T42 Arg2:T37
+R2	CarriedOn Arg1:T42 Arg2:T38
+R3	CarriedOn Arg1:T42 Arg2:T39
+R4	CarriedOn Arg1:T42 Arg2:T40
+R5	CarriedOn Arg1:T43 Arg2:T37
+R6	CarriedOn Arg1:T43 Arg2:T38
+R7	CarriedOn Arg1:T43 Arg2:T39
+R8	CarriedOn Arg1:T43 Arg2:T40
+T45	Substrate 1741 1748	benzene
+T46	Substrate 1878 1885	benzene
+T47	Substrate 1806 1813	benzene
+T48	Substrate 1891 1898	toluene
+T49	Substrate 1903 1909	xylene
+T50	ReactionOrProcess 1922 1930	degraded
+T51	ReactionOrProcess 1951 1966	denitrification
+T52	ReactionOrProcess 1749 1760	degradation
+T53	Nutrient 1710 1716	oxygen
+R9	CarriedOn Arg1:T52 Arg2:T48
+R10	CarriedOn Arg1:T52 Arg2:T49
+T54	Substrate 2029 2041	hydrocarbons
+T55	Substrate 2029 2041	hydrocarbons
+T56	Substrate 2066 2073	nitrate
+T57	Substrate 2119 2126	nitrate
+T58	ReactionOrProcess 2008 2019	degradation
+R11	CarriedOn Arg1:T58 Arg2:T54
+R12	CarriedOn Arg1:T58 Arg2:T55
+R13	CarriedOn Arg1:T58 Arg2:T56
+R14	CarriedOn Arg1:T58 Arg2:T57
+T59	Environment 2266 2277	groundwater
+T60	Substrate 2175 2182	nitrate
+T61	ReactionOrProcess 2214 2223	oxidation
+T62	Substrate 2335 2342	benzene
+T63	ReactionOrProcess 2347 2355	degraded
+T64	ReactionOrProcess 2376 2391	denitrification
+T65	Environment 2432 2443	groundwater
+T66	ReactionOrProcess 2487 2499	fractionated
+T67	ReactionOrProcess 2403 2412	extracted
+T68	ReactionOrProcess 2422 2431	incubated
+T69	ReactionOrProcess 2627 2640	fractionation
+T70	Property 2906 2918	denitrifying
+T71	ReactionOrProcess 2844 2848	DGGE
+T72	ReactionOrProcess 2919 2929	incubation
+T73	ReactionOrProcess 2906 2918	denitrifying
+T74	Environment 3074 3085	groundwater
+T75	Substrate 3119 3126	benzene
+T76	ReactionOrProcess 3134 3138	DGGE
+T77	ReactionOrProcess 3165 3169	DGGE
+T78	Substrate 3398 3405	benzene
+T79	Property 3467 3479	denitrifying
+T80	ReactionOrProcess 3450 3460	incubation
+T81	ReactionOrProcess 3467 3479	denitrifying
+T82	Property 3571 3583	sulfidogenic
+T83	ReactionOrProcess 3507 3520	incorporation
+T84	ReactionOrProcess 3639 3643	DGGE

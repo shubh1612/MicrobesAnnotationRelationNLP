@@ -1,0 +1,225 @@
+T1	Substrate 69 80	hydrocarbon
+T2	ReactionOrProcess 44 51	degrade
+R1	CarriedOn Arg1:T2 Arg2:T1
+T3	Substrate 341 362	aromatic hydrocarbons
+T4	Substrate 234 241	benzene
+T5	Substrate 327 362	water-soluble aromatic hydrocarbons
+T6	Substrate 243 250	toluene
+T7	Substrate 341 362	aromatic hydrocarbons
+T8	Substrate 350 362	hydrocarbons
+T9	Substrate 264 276	ethylbenzene
+T10	Substrate 252 259	xylenes
+T11	Substrate 327 362	water-soluble aromatic hydrocarbons
+T12	Substrate 350 362	hydrocarbons
+T13	Property 375 389	concentrations
+T14	Property 341 349	aromatic
+T15	Property 327 340	water-soluble
+T16	ReactionOrProcess 184 198	bioremediation
+T17	ReactionOrProcess 174 198	anaerobic bioremediation
+T18	Nutrient 300 306	oxygen
+R2	CarriedOn Arg1:T16 Arg2:T3
+R3	CarriedOn Arg1:T16 Arg2:T5
+R4	CarriedOn Arg1:T16 Arg2:T7
+R5	CarriedOn Arg1:T16 Arg2:T8
+R6	CarriedOn Arg1:T16 Arg2:T9
+R7	CarriedOn Arg1:T16 Arg2:T11
+R8	CarriedOn Arg1:T16 Arg2:T12
+R9	CarriedOn Arg1:T17 Arg2:T3
+R10	CarriedOn Arg1:T17 Arg2:T5
+R11	CarriedOn Arg1:T17 Arg2:T7
+R12	CarriedOn Arg1:T17 Arg2:T8
+R13	CarriedOn Arg1:T17 Arg2:T9
+R14	CarriedOn Arg1:T17 Arg2:T11
+R15	CarriedOn Arg1:T17 Arg2:T12
+T19	Substrate 555 562	alkanes
+T20	Substrate 475 482	Alkanes
+T21	Property 525 533	toxicity
+T22	Property 571 585	concentrations
+T23	Property 546 554	volatile
+T24	Property 525 533	toxicity
+T25	Substrate 712 733	aromatic hydrocarbons
+T26	Substrate 712 733	aromatic hydrocarbons
+T27	Substrate 656 663	alkanes
+T28	Substrate 721 733	hydrocarbons
+T29	Substrate 721 733	hydrocarbons
+T30	Property 712 720	aromatic
+T31	ReactionOrProcess 641 652	degradation
+T32	ReactionOrProcess 791 802	degradation
+T33	ReactionOrProcess 781 802	microbial degradation
+R16	CarriedOn Arg1:T31 Arg2:T25
+R17	CarriedOn Arg1:T31 Arg2:T26
+R18	CarriedOn Arg1:T31 Arg2:T27
+R19	CarriedOn Arg1:T31 Arg2:T28
+R20	CarriedOn Arg1:T31 Arg2:T29
+R21	CarriedOn Arg1:T32 Arg2:T25
+R22	CarriedOn Arg1:T32 Arg2:T26
+R23	CarriedOn Arg1:T32 Arg2:T27
+R24	CarriedOn Arg1:T32 Arg2:T28
+R25	CarriedOn Arg1:T32 Arg2:T29
+R26	CarriedOn Arg1:T33 Arg2:T25
+R27	CarriedOn Arg1:T33 Arg2:T26
+R28	CarriedOn Arg1:T33 Arg2:T27
+R29	CarriedOn Arg1:T33 Arg2:T28
+R30	CarriedOn Arg1:T33 Arg2:T29
+T34	Microbes 917 936	enrichment cultures
+T35	Substrate 837 849	hydrocarbons
+T36	Substrate 837 849	hydrocarbons
+T37	Substrate 965 972	nitrate
+T38	Substrate 855 858	oil
+T39	ReactionOrProcess 917 927	enrichment
+T40	ReactionOrProcess 822 833	degradation
+T41	Nutrient 976 994	electron acceptors
+R31	CarriedOn Arg1:T40 Arg2:T34
+R32	CarriedOn Arg1:T40 Arg2:T35
+R33	CarriedOn Arg1:T40 Arg2:T36
+R34	CarriedOn Arg1:T40 Arg2:T37
+R35	CarriedOn Arg1:T40 Arg2:T38
+T42	Substrate 999 1008	crude oil
+T43	Substrate 1186 1193	nitrate
+T44	Substrate 1005 1008	oil
+T45	Property 1087 1104	anoxic conditions
+T46	Nutrient 1149 1166	electron acceptor
+T47	Substrate 1276 1285	n-alkanes
+T48	Substrate 1357 1366	crude oil
+T49	Substrate 1363 1366	oil
+T50	Substrate 1290 1303	alkylbenzenes
+T51	Property 1234 1246	denitrifying
+T52	ReactionOrProcess 1234 1246	denitrifying
+R36	CarriedOn Arg1:T52 Arg2:T47
+R37	CarriedOn Arg1:T52 Arg2:T48
+R38	CarriedOn Arg1:T52 Arg2:T49
+R39	CarriedOn Arg1:T52 Arg2:T50
+T53	Microbes 1417 1436	enrichment cultures
+T54	Substrate 1532 1543	naphthalene
+T55	Substrate 1382 1394	hydrocarbons
+T56	Substrate 1382 1394	hydrocarbons
+T57	ReactionOrProcess 1399 1407	degraded
+T58	ReactionOrProcess 1417 1427	enrichment
+T59	Microbes 1864 1883	enrichment cultures
+T60	Substrate 1742 1750	gasoline
+T61	Substrate 1728 1737	crude oil
+T62	Substrate 1734 1737	oil
+T63	ReactionOrProcess 1758 1766	degraded
+T64	ReactionOrProcess 1864 1874	enrichment
+T65	ReactionOrProcess 1800 1810	incubation
+T66	Nutrient 1775 1781	oxygen
+R40	CarriedOn Arg1:T63 Arg2:T59
+R41	CarriedOn Arg1:T65 Arg2:T59
+T67	Substrate 1949 1969	chemical hydrocarbon
+T68	Substrate 1958 1969	hydrocarbon
+T69	ReactionOrProcess 1914 1938	anaerobic biodegradation
+T70	ReactionOrProcess 2048 2061	fractionation
+T71	ReactionOrProcess 1924 1938	biodegradation
+T72	Microbes 2095 2113	Anaerobic bacteria
+T73	Substrate 2105 2126	bacterial hydrocarbon
+T74	Substrate 2115 2126	hydrocarbon
+T75	Property 2178 2186	residual
+T76	ReactionOrProcess 2127 2136	oxidation
+T77	Environment 2396 2412	marine sediments
+T78	Environment 2403 2412	sediments
+T79	Environment 2396 2402	marine
+T80	Environment 2396 2412	marine sediments
+T81	Substrate 2417 2426	petroleum
+T82	Substrate 2287 2308	anaerobic hydrocarbon
+T83	Substrate 2297 2308	hydrocarbon
+T84	Substrate 2251 2254	oil
+T85	ReactionOrProcess 2297 2320	hydrocarbon degradation
+T86	ReactionOrProcess 2287 2320	anaerobic hydrocarbon degradation
+T87	ReactionOrProcess 2309 2320	degradation
+R42	CarriedOn Arg1:T85 Arg2:T81
+R43	CarriedOn Arg1:T86 Arg2:T81
+R44	CarriedOn Arg1:T87 Arg2:T81
+T88	Substrate 2439 2446	Methane
+T89	Nutrient 2486 2492	carbon
+T90	Environment 2654 2670	marine sediments
+T91	Environment 2661 2670	sediments
+T92	Environment 2654 2660	marine
+T93	Environment 2654 2670	marine sediments
+T94	Substrate 2643 2650	methane
+T95	Substrate 2717 2724	methane
+T96	ReactionOrProcess 2630 2639	oxidation
+T97	ReactionOrProcess 2620 2639	Anaerobic oxidation
+R45	CarriedOn Arg1:T96 Arg2:T94
+R46	CarriedOn Arg1:T96 Arg2:T95
+R47	CarriedOn Arg1:T97 Arg2:T94
+R48	CarriedOn Arg1:T97 Arg2:T95
+T98	Substrate 3047 3054	methane
+T99	Property 2926 2937	temperature
+T100	Property 2957 2971	concentrations
+T101	ReactionOrProcess 2939 2944	redox
+R49	CarriedOn Arg1:T101 Arg2:T98
+T102	Substrate 3289 3298	petroleum
+T103	Substrate 3137 3161	non-methane hydrocarbons
+T104	Substrate 3149 3161	hydrocarbons
+T105	Substrate 3137 3161	non-methane hydrocarbons
+T106	Substrate 3149 3161	hydrocarbons
+T107	ReactionOrProcess 3245 3254	oxidation
+T108	ReactionOrProcess 3122 3133	utilization
+T109	Nutrient 3260 3266	oxygen
+R50	CarriedOn Arg1:T107 Arg2:T102
+R51	CarriedOn Arg1:T108 Arg2:T102
+R52	CarriedOn Arg1:T108 Arg2:T103
+R53	CarriedOn Arg1:T108 Arg2:T104
+R54	CarriedOn Arg1:T108 Arg2:T105
+R55	CarriedOn Arg1:T108 Arg2:T106
+T110	Substrate 3384 3393	petroleum
+T111	Substrate 3519 3528	crude oil
+T112	Substrate 3492 3504	hydrocarbons
+T113	Substrate 3492 3504	hydrocarbons
+T114	Substrate 3525 3528	oil
+T115	ReactionOrProcess 3434 3444	enrichment
+T116	ReactionOrProcess 3449 3458	isolation
+R56	CarriedOn Arg1:T115 Arg2:T111
+R57	CarriedOn Arg1:T115 Arg2:T112
+R58	CarriedOn Arg1:T115 Arg2:T113
+R59	CarriedOn Arg1:T115 Arg2:T114
+R60	CarriedOn Arg1:T116 Arg2:T111
+R61	CarriedOn Arg1:T116 Arg2:T112
+R62	CarriedOn Arg1:T116 Arg2:T113
+R63	CarriedOn Arg1:T116 Arg2:T114
+T117	Substrate 3564 3576	hydrocarbons
+T118	Substrate 3564 3576	hydrocarbons
+T119	Substrate 3560 3563	oil
+T120	Substrate 3698 3701	oil
+T121	ReactionOrProcess 3600 3609	reduction
+T122	Environment 3972 3977	water
+T123	Substrate 3803 3806	oil
+T124	Substrate 3994 3997	oil
+T125	Property 3741 3746	toxic
+T126	ReactionOrProcess 3998 4008	extraction
+T127	ReactionOrProcess 3748 3758	stimulates
+R64	CarriedOn Arg1:T127 Arg2:T123
+R65	CarriedOn Arg1:T127 Arg2:T124
+T128	Substrate 4160 4169	crude oil
+T129	Substrate 4142 4154	hydrocarbons
+T130	Substrate 4142 4154	hydrocarbons
+T131	Substrate 4166 4169	oil
+T132	Substrate 4251 4254	oil
+T133	Microbes 4431 4449	anaerobic bacteria
+T134	Environment 4471 4480	sediments
+T135	Environment 4668 4674	waters
+T136	Property 4532 4543	temperature
+T137	Property 4589 4603	concentrations
+T138	Microbes 4722 4740	anaerobic bacteria
+T139	Environment 4769 4778	sediments
+T140	Environment 4760 4778	original sediments
+T141	Environment 5154 5162	seawater
+T142	Environment 5093 5098	water
+T143	Substrate 5084 5087	oil
+T144	Property 5197 5208	temperature
+T145	Substrate 5297 5300	oil
+T146	ReactionOrProcess 5268 5277	reduction
+R66	CarriedOn Arg1:T146 Arg2:T145
+T147	Microbes 5472 5490	anaerobic bacteria
+T148	Microbes 5466 5490	novel anaerobic bacteria
+T149	Substrate 5419 5431	hydrocarbons
+T150	Substrate 5419 5431	hydrocarbons
+T151	Property 5495 5506	degradative
+T152	ReactionOrProcess 5404 5415	degradation
+T153	ReactionOrProcess 5394 5415	anaerobic degradation
+R67	CarriedOn Arg1:T152 Arg2:T148
+R68	CarriedOn Arg1:T153 Arg2:T148
+R69	CarriedOn Arg1:T152 Arg2:T149
+R70	CarriedOn Arg1:T152 Arg2:T150
+R71	CarriedOn Arg1:T153 Arg2:T149
+R72	CarriedOn Arg1:T153 Arg2:T150

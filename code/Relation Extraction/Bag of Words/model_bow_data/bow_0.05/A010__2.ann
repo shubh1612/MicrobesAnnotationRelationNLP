@@ -1,0 +1,107 @@
+T1	Environment 44 56	metropolitan
+T2	Environment 32 36	soil
+T3	Environment 23 36	residual soil
+T4	Property 23 31	residual
+T5	Environment 151 165	tropical soils
+T6	Environment 151 165	tropical soils
+T7	Environment 151 159	tropical
+T8	Environment 160 165	soils
+T9	Environment 207 212	soils
+T10	Substrate 139 147	gasoline
+T11	Substrate 131 147	blended gasoline
+T12	ReactionOrProcess 113 127	biodegradation
+R1	CarriedOn Arg1:T12 Arg2:T10
+R2	CarriedOn Arg1:T12 Arg2:T11
+T13	Environment 361 378	sedimentary soils
+T14	Environment 214 228	Residual soils
+T15	Environment 223 228	soils
+T16	Environment 373 378	soils
+T17	Environment 214 227	Residual soil
+T18	Environment 214 228	Residual soils
+T19	Environment 361 378	sedimentary soils
+T20	Property 214 222	Residual
+T21	ReactionOrProcess 475 487	biodegrading
+T22	ReactionOrProcess 797 809	biodegrading
+T23	ReactionOrProcess 583 597	biodegradation
+T24	Substrate 1006 1026	xenobiotic compounds
+T25	ReactionOrProcess 917 926	degrading
+T26	ReactionOrProcess 988 1002	biodegradation
+R3	CarriedOn Arg1:T25 Arg2:T24
+R4	CarriedOn Arg1:T26 Arg2:T24
+T27	ReactionOrProcess 1266 1280	biodegradation
+T28	Environment 1563 1589	unsaturated tropical soils
+T29	Environment 1575 1589	tropical soils
+T30	Environment 1575 1589	tropical soils
+T31	Environment 1575 1583	tropical
+T32	Environment 1584 1589	soils
+T33	Substrate 1551 1559	gasoline
+T34	Substrate 1535 1559	ethanol-blended gasoline
+T35	ReactionOrProcess 1500 1522	aerobic biodegradation
+T36	ReactionOrProcess 1508 1522	biodegradation
+R5	CarriedOn Arg1:T35 Arg2:T33
+R6	CarriedOn Arg1:T35 Arg2:T34
+R7	CarriedOn Arg1:T36 Arg2:T33
+R8	CarriedOn Arg1:T36 Arg2:T34
+T37	Environment 1771 1783	natural soil
+T38	Environment 1779 1783	soil
+T39	Environment 1828 1832	soil
+T40	Environment 1726 1732	porous
+T41	Property 1713 1718	inert
+T42	Environment 2043 2068	unsaturated tropical soil
+T43	Environment 2055 2068	tropical soil
+T44	Environment 2055 2063	tropical
+T45	Environment 2064 2068	soil
+T46	Substrate 1960 1967	ethanol
+T47	Substrate 2021 2029	gasoline
+T48	Property 1989 1998	retention
+T49	ReactionOrProcess 1989 1998	retention
+T50	ReactionOrProcess 2003 2017	biodegradation
+T51	ReactionOrProcess 1881 1895	Biodegradation
+R9	CarriedOn Arg1:T49 Arg2:T47
+R10	CarriedOn Arg1:T50 Arg2:T47
+R11	CarriedOn Arg1:T51 Arg2:T46
+R12	CarriedOn Arg1:T51 Arg2:T47
+T52	Environment 2137 2147	microcosms
+T53	Environment 2117 2133	undisturbed soil
+T54	Environment 2129 2133	soil
+T55	Environment 2245 2254	microcosm
+T56	Environment 2516 2536	south-eastern Brazil
+T57	Environment 2479 2491	metropolitan
+T58	Environment 2438 2442	soil
+T59	Environment 2429 2433	Soil
+T60	Environment 2554 2570	unsaturated soil
+T61	Environment 2566 2570	soil
+T62	Environment 2713 2717	soil
+T63	Environment 2859 2863	soil
+T64	Environment 2704 2717	residual soil
+T65	Property 2704 2712	residual
+T66	ReactionOrProcess 2613 2623	weathering
+T67	Environment 3050 3055	sandy
+T68	Environment 2998 3002	soil
+T69	Property 3050 3055	sandy
+T70	ReactionOrProcess 3028 3038	weathering
+T71	Environment 3187 3191	sand
+T72	Environment 3181 3191	silty sand
+T73	Environment 3341 3345	soil
+T74	Environment 3355 3360	water
+T75	Environment 3444 3449	water
+T76	Environment 3328 3345	well-drained soil
+T77	ReactionOrProcess 3570 3582	fluctuations
+T78	Microbes 3671 3706	heterotrophic bacterial populations
+T79	Environment 3647 3651	soil
+T80	Substrate 3769 3777	gasoline
+T81	Substrate 3758 3777	culturable gasoline
+T82	Substrate 3665 3684	total heterotrophic
+T83	Property 3671 3684	heterotrophic
+T84	Property 3778 3787	degraders
+T85	ReactionOrProcess 3712 3721	degrading
+R13	CarriedOn Arg1:T85 Arg2:T80
+R14	CarriedOn Arg1:T85 Arg2:T81
+T86	Environment 3938 3943	sandy
+T87	Environment 3866 3870	soil
+T88	Property 3938 3943	sandy
+T89	Nutrient 3911 3917	carbon
+T90	Environment 4115 4142	Structured soil cubic block
+T91	Environment 4115 4143	Structured soil cubic blocks
+T92	Environment 4115 4130	Structured soil
+T93	Environment 4126 4130	soil

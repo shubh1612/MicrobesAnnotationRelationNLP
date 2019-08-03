@@ -1,0 +1,122 @@
+T1	Substrate 153 156	oil
+T2	Property 100 109	lipolytic
+T3	Property 153 169	oil contaminated
+T4	Substrate 265 274	crude oil
+T5	Substrate 315 324	aromatics
+T6	Substrate 271 274	oil
+T7	Property 304 313	saturates
+T8	Property 315 324	aromatics
+T9	Substrate 404 413	crude oil
+T10	Substrate 410 413	oil
+T11	Property 550 561	temperature
+T12	ReactionOrProcess 379 400	effective degradation
+T13	ReactionOrProcess 389 400	degradation
+R1	CarriedOn Arg1:T12 Arg2:T9
+R2	CarriedOn Arg1:T12 Arg2:T10
+R3	CarriedOn Arg1:T13 Arg2:T9
+R4	CarriedOn Arg1:T13 Arg2:T10
+T14	Substrate 709 727	active hydrocarbon
+T15	Substrate 716 727	hydrocarbon
+T16	Substrate 630 633	oil
+T17	Substrate 1109 1118	crude oil
+T18	Substrate 916 927	hydrocarbon
+T19	Substrate 1115 1118	oil
+T20	Substrate 902 927	complementary hydrocarbon
+T21	ReactionOrProcess 928 937	degrading
+T22	ReactionOrProcess 1033 1042	degrading
+R5	CarriedOn Arg1:T21 Arg2:T17
+R6	CarriedOn Arg1:T21 Arg2:T19
+R7	CarriedOn Arg1:T22 Arg2:T17
+R8	CarriedOn Arg1:T22 Arg2:T19
+T23	Substrate 1265 1274	crude oil
+T24	Substrate 1271 1274	oil
+T25	Property 1310 1327	degrading ability
+T26	ReactionOrProcess 1232 1239	degrade
+T27	ReactionOrProcess 1310 1319	degrading
+T28	Substrate 1486 1495	crude oil
+T29	Substrate 1492 1495	oil
+T30	Microbes 1743 1753	consortium
+T31	Substrate 1788 1797	crude oil
+T32	Substrate 1858 1867	crude oil
+T33	Substrate 1794 1797	oil
+T34	Substrate 1864 1867	oil
+T35	ReactionOrProcess 1798 1807	degrading
+T36	ReactionOrProcess 1843 1854	degradation
+T37	Microbes 2041 2054	Acinetobacter
+T38	Microbes 1990 2001	Alcaligenes
+T39	Microbes 1923 1934	Micrococcus
+T40	Microbes 1963 1975	Enterobacter
+T41	Substrate 1882 1891	crude oil
+T42	Substrate 1888 1891	oil
+T43	Property 1892 1901	degraders
+T44	Microbes 2097 2119	heterotrophic bacteria
+T45	Microbes 2090 2119	normal heterotrophic bacteria
+T46	Environment 2131 2135	soil
+T47	Substrate 2165 2174	crude oil
+T48	Substrate 2171 2174	oil
+T49	Property 2097 2110	heterotrophic
+T50	Substrate 2245 2256	hydrocarbon
+T51	ReactionOrProcess 2257 2266	degrading
+T52	Microbes 2361 2371	consortium
+T53	Substrate 2422 2431	crude oil
+T54	Substrate 2428 2431	oil
+T55	ReactionOrProcess 2449 2459	incubation
+T56	ReactionOrProcess 2407 2418	degradation
+R9	CarriedOn Arg1:T56 Arg2:T53
+R10	CarriedOn Arg1:T56 Arg2:T54
+T57	Microbes 2595 2605	consortium
+T58	Substrate 2520 2529	crude oil
+T59	Substrate 2553 2562	crude oil
+T60	Substrate 2526 2529	oil
+T61	Substrate 2559 2562	oil
+T62	ReactionOrProcess 2505 2516	degradation
+R11	CarriedOn Arg1:T62 Arg2:T57
+R12	CarriedOn Arg1:T62 Arg2:T58
+R13	CarriedOn Arg1:T62 Arg2:T59
+R14	CarriedOn Arg1:T62 Arg2:T60
+R15	CarriedOn Arg1:T62 Arg2:T61
+T63	Microbes 2729 2739	consortium
+T64	Substrate 2814 2823	crude oil
+T65	Substrate 2837 2846	crude oil
+T66	Substrate 2793 2802	aromatics
+T67	Substrate 2820 2823	oil
+T68	Substrate 2843 2846	oil
+T69	Property 2770 2779	saturates
+T70	Property 2793 2802	aromatics
+T71	ReactionOrProcess 2752 2759	degrade
+R16	CarriedOn Arg1:T71 Arg2:T64
+R17	CarriedOn Arg1:T71 Arg2:T65
+R18	CarriedOn Arg1:T71 Arg2:T66
+R19	CarriedOn Arg1:T71 Arg2:T67
+R20	CarriedOn Arg1:T71 Arg2:T68
+T72	ReactionOrProcess 2885 2899	biodegradation
+T73	Substrate 3055 3064	crude oil
+T74	Substrate 3061 3064	oil
+T75	ReactionOrProcess 3040 3051	degradation
+R21	CarriedOn Arg1:T75 Arg2:T73
+R22	CarriedOn Arg1:T75 Arg2:T74
+T76	Microbes 3101 3123	heterotrophic bacteria
+T77	Property 3101 3114	heterotrophic
+T78	Substrate 3188 3197	petroleum
+T79	Substrate 3295 3306	hydrocarbon
+T80	Substrate 3282 3285	oil
+T81	Property 3165 3176	Temperature
+T82	Property 3254 3274	chemical composition
+T83	ReactionOrProcess 3198 3212	biodegradation
+R23	CarriedOn Arg1:T83 Arg2:T79
+R24	CarriedOn Arg1:T83 Arg2:T80
+T84	ReactionOrProcess 3413 3435	maximum biodegradation
+T85	ReactionOrProcess 3421 3435	biodegradation
+T86	Environment 3491 3512	oil contaminated soil
+T87	Environment 3508 3512	soil
+T88	Environment 3495 3512	contaminated soil
+T89	Substrate 3543 3553	potent oil
+T90	Substrate 3491 3494	oil
+T91	Substrate 3550 3553	oil
+T92	Property 3491 3507	oil contaminated
+T93	ReactionOrProcess 3554 3563	degrading
+T94	Microbes 3672 3682	consortium
+T95	Substrate 3699 3713	high crude oil
+T96	Substrate 3704 3713	crude oil
+T97	Substrate 3710 3713	oil
+T98	ReactionOrProcess 3683 3691	degraded

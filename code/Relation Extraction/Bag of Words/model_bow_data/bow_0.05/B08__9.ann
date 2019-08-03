@@ -1,0 +1,94 @@
+T1	Substrate 124 145	aromatic hydrocarbons
+T2	Substrate 124 145	aromatic hydrocarbons
+T3	Substrate 133 145	hydrocarbons
+T4	Substrate 133 145	hydrocarbons
+T5	Property 124 132	aromatic
+T6	Environment 288 293	soils
+T7	Environment 322 327	water
+T8	Substrate 231 238	benzene
+T9	Substrate 329 332	TPH
+T10	ReactionOrProcess 213 227	mineralisation
+R1	CarriedOn Arg1:T10 Arg2:T8
+R2	CarriedOn Arg1:T10 Arg2:T9
+T11	Environment 430 434	soil
+T12	Environment 406 411	water
+T13	Property 412 422	saturation
+T14	Nutrient 470 476	oxygen
+T15	Environment 604 609	water
+T16	Environment 564 575	vadose zone
+T17	Property 540 548	aromatic
+T18	ReactionOrProcess 525 536	remediation
+T19	Environment 728 732	soil
+T20	Substrate 734 737	TPH
+T21	Property 710 720	saturation
+T22	Environment 844 855	groundwater
+T23	Environment 819 855	hydrocarbon-contaminated groundwater
+T24	Environment 881 885	soil
+T25	Substrate 890 911	aromatic hydrocarbons
+T26	Substrate 890 911	aromatic hydrocarbons
+T27	Substrate 886 911	gas aromatic hydrocarbons
+T28	Substrate 899 911	hydrocarbons
+T29	Substrate 899 911	hydrocarbons
+T30	Property 819 843	hydrocarbon-contaminated
+T31	Property 890 898	aromatic
+T32	ReactionOrProcess 865 877	accumulation
+R3	CarriedOn Arg1:T32 Arg2:T25
+R4	CarriedOn Arg1:T32 Arg2:T26
+R5	CarriedOn Arg1:T32 Arg2:T27
+R6	CarriedOn Arg1:T32 Arg2:T28
+R7	CarriedOn Arg1:T32 Arg2:T29
+T33	Substrate 1034 1041	benzene
+T34	Environment 1199 1210	groundwater
+T35	Environment 1186 1210	contaminated groundwater
+T36	Environment 1167 1171	soil
+T37	Environment 1239 1243	soil
+T38	Environment 1351 1362	vadose zone
+T39	Substrate 1140 1151	hydrocarbon
+T40	ReactionOrProcess 1125 1136	remediation
+T41	ReactionOrProcess 1294 1308	biodegradation
+R8	CarriedOn Arg1:T40 Arg2:T39
+T42	Environment 1403 1414	groundwater
+T43	Environment 1543 1554	vadose zone
+T44	Environment 1528 1535	aquifer
+T45	Substrate 1499 1520	aromatic hydrocarbons
+T46	Substrate 1392 1399	benzene
+T47	Substrate 1499 1520	aromatic hydrocarbons
+T48	Substrate 1508 1520	hydrocarbons
+T49	Substrate 1508 1520	hydrocarbons
+T50	Property 1499 1507	aromatic
+T51	ReactionOrProcess 1426 1437	remediation
+R9	CarriedOn Arg1:T51 Arg2:T45
+R10	CarriedOn Arg1:T51 Arg2:T47
+R11	CarriedOn Arg1:T51 Arg2:T48
+R12	CarriedOn Arg1:T51 Arg2:T49
+T52	Environment 1663 1671	aquifers
+T53	Environment 1705 1716	groundwater
+T54	Environment 1811 1816	plume
+T55	Substrate 1690 1697	benzene
+T56	Substrate 1803 1810	benzene
+T57	Substrate 1788 1795	nitrate
+T58	ReactionOrProcess 1848 1859	remediation
+T59	Nutrient 1778 1784	oxygen
+T60	Environment 1931 1958	sulfate-reducing conditions
+T61	Environment 1967 1975	aquifers
+T62	Substrate 1892 1899	benzene
+T63	Property 1931 1947	sulfate-reducing
+T64	ReactionOrProcess 1900 1914	mineralisation
+T65	Substrate 2017 2038	aromatic hydrocarbons
+T66	Substrate 2017 2038	aromatic hydrocarbons
+T67	Substrate 2026 2038	hydrocarbons
+T68	Substrate 2026 2038	hydrocarbons
+T69	Property 2017 2025	aromatic
+T70	Property 2326 2336	pollutants
+T71	ReactionOrProcess 2086 2100	mineralisation
+T72	ReactionOrProcess 2304 2318	mineralisation
+T73	Environment 2537 2548	groundwater
+T74	Environment 2607 2618	groundwater
+T75	Environment 2512 2548	hydrocarbon-contaminated groundwater
+T76	Environment 2619 2624	plume
+T77	Environment 2594 2618	contaminated groundwater
+T78	Environment 2493 2497	soil
+T79	Property 2512 2536	hydrocarbon-contaminated
+T80	Microbes 2783 2800	Desulfosporosinus
+T81	Environment 2817 2828	groundwater
+T82	Environment 3127 3139	groundwaters

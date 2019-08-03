@@ -1,0 +1,47 @@
+T1	ReactionOrProcess 159 170	utilization
+T2	Property 425 436	temperature
+T3	ReactionOrProcess 542 552	enrichment
+T4	ReactionOrProcess 450 465	electrophoresis
+T5	ReactionOrProcess 505 514	reduction
+T6	ReactionOrProcess 735 746	utilization
+T7	ReactionOrProcess 1176 1187	utilization
+T8	Nutrient 1162 1168	carbon
+T9	Substrate 1511 1522	hydrocarbon
+T10	Substrate 1661 1672	hydrocarbon
+T11	Environment 1889 1893	soil
+T12	Substrate 1696 1707	Hydrocarbon
+T13	Property 1696 1720	Hydrocarbon-contaminated
+T14	ReactionOrProcess 1831 1841	incubation
+T15	Nutrient 1930 1936	carbon
+T16	Environment 1971 1983	soil samples
+T17	Environment 1971 1975	soil
+T18	Environment 2017 2021	soil
+T19	Nutrient 2105 2111	oxygen
+T20	Environment 2624 2636	control soil
+T21	Environment 2632 2636	soil
+T22	Environment 2786 2791	soils
+T23	Substrate 2726 2738	phenanthrene
+T24	Substrate 2716 2722	diesel
+T25	ReactionOrProcess 2765 2774	extracted
+T26	ReactionOrProcess 2696 2707	degradation
+R1	CarriedOn Arg1:T26 Arg2:T23
+R2	CarriedOn Arg1:T26 Arg2:T24
+T27	Nutrient 2840 2846	oxygen
+T28	Nutrient 2882 2888	oxygen
+T29	Substrate 2950 2962	hydrocarbons
+T30	Substrate 2950 2962	hydrocarbons
+T31	ReactionOrProcess 2935 2946	degradation
+T32	Nutrient 3008 3014	oxygen
+R3	CarriedOn Arg1:T31 Arg2:T29
+R4	CarriedOn Arg1:T31 Arg2:T30
+T33	Environment 3099 3103	soil
+T34	Nutrient 3067 3073	oxygen
+T35	Substrate 3192 3203	hydrocarbon
+T36	ReactionOrProcess 3192 3215	hydrocarbon degradation
+T37	ReactionOrProcess 3204 3215	degradation
+T38	Nutrient 3153 3159	oxygen
+T39	Property 3381 3392	temperature
+T40	Nutrient 3596 3602	carbon
+T41	Nutrient 3648 3654	carbon
+T42	Nutrient 3751 3757	carbon
+T43	Property 3789 3801	contaminants

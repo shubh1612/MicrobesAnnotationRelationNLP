@@ -1,0 +1,1684 @@
+25A
+Bioremediation and monitoring of aromatic-polluted habitats
+Vincenza Andreoni & Liliana Gianfreda
+Received: 2 January 2007 /Revised: 25 April 2007 /Accepted: 25 April 2007 / Published online: 31 May 2007
+# Springer-Verlag 2007
+Abstract Bioremediation may restore contaminated soils
+through the broad biodegradative capabilities evolved by
+microorganisms towards undesirable organic compounds.
+Understanding bioremediation and its effectiveness is
+rapidly advancing, bringing available molecular approaches
+for examining the presence and expression of the key genes
+involved in microbial processes. These methods are
+continuously improving and require further development
+and validation of primer- and probe-based analyses and
+expansion of databases for alternative microbial markers.
+Phylogenetic marker approaches provide tools to determine
+which organisms are present or generally active in a community;
+functional gene markers provide only information
+concerning the distribution or transcript levels (deoxyribonucleic
+acid [DNA]- or messenger ribonucleic acid [mRNA]-
+based approaches) of specific gene populations across
+environmental gradients. Stable isotope probing methods
+offer great potential to identify microorganisms that metabolize
+and assimilate specific substrates in environmental
+samples, incorporating usually a rare isotope (i.e., 13C) into
+their DNA and RNA. DNA and RNA in situ characterization
+allows the determination of the species actually involved in
+the processes being measured. DNA microarrays may
+analyze the expression of thousands of genes in a soil
+simultaneously. A global analysis of which genes are being
+expressed under various conditions in contaminated soils will
+reveal the metabolic status of microorganisms and indicate
+environmental modifications accelerating bioremediation.
+Keywords PAHs. BTEX . Bioremediation .
+Molecular approaches. Monitoring . Soil quality
+Introduction
+In the recent years, a high number of polluting compounds
+has been released into the environment because of several
+industrial and/or agricultural activities. In particular, the
+rapid industrialization of agriculture, expansions in the
+chemical industry, and the need to generate cheap forms of
+energy have all resulted in an ever-increasing reliance on
+anthropogenic organic chemicals and caused the contamination
+of a significant number of soil environments by
+xenobiotic compounds (Reid et al. 2000) with negative,
+irreversible effects on environmental quality and health.
+Over the last decades, there has been an increasing
+interest in biological methodologies, collectively indicated
+as bioremediation that may help reduce the risk of organic
+pollutants in soil and effectively restore polluted sites. These
+methodologies, usually considered environment-friendly
+treatments, constitute essentially a managed or spontaneous
+process mediated by living organisms (mainly microorganisms),
+which degrade or transform contaminants to less toxic
+or nontoxic products, with mitigation or elimination of
+environmental contamination.
+To evaluate the status of a contaminated site in terms of
+its capability of successfully responding to a bioremediation
+approach, to design and implement suitable microbial detoxifying
+strategies, and finally to monitor the effectiveness of the
+Appl Microbiol Biotechnol (2007) 76:287–308
+DOI 10.1007/s00253-007-1018-5
+V. Andreoni
+Dipartimento di Scienze e Tecnologie Alimentari e Microbiologiche,
+Università degli Studi di Milano,
+Via Celoria 2,
+20133 Milan, Italy
+L. Gianfreda (*)
+Dipartimento di Scienze del Suolo, della Pianta,
+dell’Ambiente e delle Produzioni Animali,
+Università di Napoli Federico II,
+Via Università 100,
+80055 Portici, Napoli, Italy
+e-mail: liliana.gianfreda@unina.it
+bioremediation approach, not only a detailed understanding of
+the main metabolic and genetic features of contaminant
+microbial degradation but also the advantages and bottlenecks
+of the available monitoring methodologies are needed.
+This is a brief survey of some aspects, with particular
+reference to soil, concerning (a) the pollution of the
+environment by two classes of aromatic pollutants namely,
+polycyclic aromatic hydrocarbons (PAHs) and volatiles
+aromatics collectively indicated as BTEX (benzene, toluene,
+ethylbenzene, xylene), (b) the main metabolic pathways
+and the genetic bases of their microbial degradation,
+(c) the biological strategies to reduce or to eliminate their
+contamination, and (d) the more advanced monitoring
+techniques to evaluate the effectiveness of a bioremediation
+process.
+Fate of PAHs and BTEX in soil
+Soils and groundwater are preferred sinks for complex
+contamination. As possible consequence, various chemical,
+biological, and biochemical soil properties have been profoundly
+altered, and their main effect has been the continuous
+lost of soil functions in sustaining the survival of living
+organisms.
+PAHs (i.e., naphthalene, phenanthrene, anthracene, etc.)
+and BTEX, occurring ubiquitously in the environment as
+complex mixtures, are particularly abundant and have been
+recognized as an environmental contamination problem of
+worldwide magnitude. PAHs, listed by the US Environmental
+Protection Agency and the European Community as
+priority pollutants (Samanta et al. 2002), are hydrophobic
+compounds occurring in soil, sediment, water, air, and
+plants as the result of the incomplete combustion of coal,
+oil, petrol, and wood or of petrochemical industries. The
+majority of these substances are highly persistent within
+ecosystems in unaltered, less degradable chemical forms
+because of their low water solubility, their intrinsic chemical
+stability, and high recalcitrance to degradation. Therefore,
+hydrocarbon-polluted sites may represent a long-term source
+of pollution and pose a severe risk to environmental health.
+BTEX enter the environment primarily through processes
+associated with gasoline and petroleum fuels,
+leakage of underground petroleum storage thanks, and
+spills at petroleum wells but also from industrial effluents,
+wood processing, and manufacturing of pesticides, detergents,
+chemicals, paints, and varnishes. They are highly
+soluble and volatile toxic substances, thus forming one of
+the main groundwater and health-risk contaminant groups.
+The fate and behavior of PAHs and BTEX in soil is
+governed by several different factors linked to soil properties,
+compound characteristics, and environmental factors
+(Fig. 1).
+In general, when an organic chemical enters the soil, it
+can be subjected to two basic processes (Fig. 1a): (1)
+transfer processes that relocate the substances without
+altering their structure and (2) degradation processes that
+alter their chemical structures, by the splitting in different
+products.
+In all the processes depicted in Fig. 1a, a main role is
+played by the interactions occurring at interfaces between
+organic and inorganic soil colloids and chemicals through
+sorption/desorption mechanisms (Stotzky 1986). These
+interactions may strongly affect the movement of chemicals,
+their availability for plant or microbial uptake, and
+their transformation by abiotic or biotic agents.
+Moreover, the concentration of an organic contaminant
+in the liquid phase, regulating consequently its accessibility
+to target organisms, is mainly governed by adsorption whose
+extent depends on both the properties of the adsorbent matrix
+and of the compound.
+If the organic pollutant is highly hydrophobic, i.e., with a
+very low solubility in water, the most important process
+affecting the rate of all above mentioned processes in soil is
+its partitioning between soil components: air, soil solution,
+and soil matrix. In particular, the higher is the hydrophobicity
+of the compound, the greater is its persistence in the
+environment, with deleterious, often irreversible effects on
+environmental health.
+The persistence of an organic contaminant is, however,
+not only due to its intrinsic molecular property, but it is
+much more a result of environmental microhabitats that
+affect both the mass transfer of the xenobiotic to microorganism
+and its degradative activity (Huesemann et al.
+2004).
+The PAH bioavailability is further complicated when
+PAHs interact with nonaqueous phase liquids (NAPL) and
+soil colloids, thus resulting less or completely unavailable
+for microorganisms (Efroymson and Alexander 1995,
+Birman and Alexander 1996).
+An important process affecting the concentration of an
+organic compound in soil and consequently its availability
+is the “aging,” (Fig. 1b) during which the organic
+contaminant can form stronger bonds with the soil or can
+be incorporated or sequestered in structural micropores of
+mineral lattices or in hydrophobic remote areas of the soil
+organic matrix (Alexander 2000; Gevao et al. 2000). This
+can occur at a so greater extent that desorption becomes
+very slow, thus limiting the flux of the contaminant to the
+aqueous phase, and the contaminant becomes not readily
+bioavailable. The combination of the above phenomena
+leads to a different distribution and partitioning of the
+contaminants in soil (Weissenfels et al. 1992), rendering
+them less readily bioavailable, resistant to biodegradation,
+and thus more persistent in the soil (Barraclough et al.
+2005).
+288 Appl Microbiol Biotechnol (2007) 76:287–308
+Similarly to other volatile organic compounds, BTEX
+can adsorb into soil organic matter and on soil mineral
+surfaces. Their behavior in soil as well as their removal by
+bioremediation approaches has been illustrated by several
+authors, resorting often the use of model systems and
+claiming the importance of diffusion mechanisms in the
+heterogeneous soil matrix (Stapleton et al. 1998; Margesin
+et al. 2003a; Scullion 2006). Soil has been often
+considered a biphorous sorbent model, and the contribution
+of soil organic matter has been negligible to describe the
+adsorption kinetics of toluene (Arocha et al. 1996).
+Microbial degradation of PAHs and BTEX
+PAHs and BTEX are biodegradable under both aerobic (Gibson
+and Parales 2000; Habe and Omori 2003) and anaerobic
+conditions (Gibson and Harwood 2002; Chakraborty and
+Coates 2004).
+Under aerobic conditions, bacteria and fungi utilize oxygen
+for both ring activation and cleavage of the aromatic nucleus
+and as the electron acceptor for its complete degradation.
+The biodegradation of PAHs can serve as carbon and
+energy sources for the degrading organisms (assimilative
+Fig. 1 Main processes (a) and
+aging (b) affecting the fate of an
+organic chemical in soil. OC
+Organic chemical, M
+microorganisms
+Appl Microbiol Biotechnol (2007) 76:287–308 289
+biodegradation) or for intracellular detoxification. The
+intracellular hydroxylation of PAHs in bacteria is an initial
+step in preparing ring fission and assimilation, whereas in
+fungi, it is an initial step in detoxification (Cerniglia 1993).
+PAHs with low molecular weights are more rapidly
+degraded than less soluble and higher molecular weights
+compounds. Indeed, only a very limited number of bacteria
+can grow in pure cultures on PAHs with five or more
+aromatic rings. Environmental bacterial isolates often
+degrade only a narrow range of PAHs, and the patterns of
+the simultaneous degradation of PAH mixtures are complex.
+Often, they are cooperative processes that involve a
+consortium of strains with complementary capacities
+(Bouchez et al. 1995).
+PAH bacterial metabolism usually occurs via the initial
+incorporation of molecular oxygen by an initial dioxygenase
+three-component enzymatic system (Habe and Omori
+2003) and forming a cis-dihydrodiol. Figure 2 summarizes
+the initial attack of low molecular PAHs. Naphthalene,
+phenanthrene, anthracene, and pyrene are biodegraded
+through similar steps (Fig. 2a). The initial oxygenolytic
+attack produces for all the PAHs the dihydroxylated
+derivatives. Afterwards, these latter are further metabolized
+to few intermediates, including catechol and gentisic and
+protocathecuic acids (Fig. 2), which are channelled into the
+tricarboxylic acid cycle intermediates by their dioxygenasemediated
+ring cleavage in either meta or para position.
+The initial oxidative attack of BTEX consists of direct
+oxidation of the aromatic ring via a mono-oxygenase (Khan
+et al. 2001), a dioxygenase attack, or oxidation of the alkyl
+side chain, catalyzed by mono-oxygenase, through the
+typical toluene mono-oxygenase, toluene dioxygenase, MONOXYGENASE
+CH3
+OH
+OH
+COOH
+COOH
+OH
+COOH
+OH
+HO OH
+todC1
+phnAC
+phdAC
+bphA1
+bedC1
+OH
+CH3
+CRO
+OH
+COOH
+CH3
+CH3
+CH3
+(Py) (Ph) (N) (A)
+(GA) (C)/(C-like int.)
+(B) (T)
+DIOXYGENASE DIOXYGENASE
+(T)
+(X)
+Ring fission
+C23O
+UPPER PATHWAY
+LOWER PATHWAY
+xylE1
+todE
+tbmE
+xylAM (XYL)
+a
+UPPER PATHWAY
+b
+(PCA)
+(SA)
+(TOD)
+phnAc
+phnAc
+bphA1
+nidA
+nahAC, nidA
+narA1, nodA1
+nagAC
+tbmA
+tbuA
+(TOM)
+Fig. 2 Schematic presentation of initial microbial attack and ring
+cleavage and genes involved in the respective reactions for PAHs (a)
+and for BTEX (b). a, Naphthalene (N) is initially oxygenated by a
+naphthalene dioxygenase to yield 1,2-dihydroxynaphthalene, which is
+further degraded to salicylate (SA). SA is then metabolized via
+catechol (C) or gentisic acid (GA). Phenanthrene (Ph) is mostly
+oxygenated by a phenanthrene dioxygenase to yield 3,4-dihydroxyphenanthrene,
+which is further metabolized through two pathways:
+one follows the N biodegradation pathway with the formation of SA,
+and the other leads to protochatechuic acid (PCA). Anthracene (A) is
+dioxygenated at the 1,2 position to yield 1,2-dihydroxyanthracene,
+which is later metabolized to SA and C. Pyrene (Py) is mostly
+dioxygenated at the 1,2 position. A successive derivative, 4-
+phenanthroic acid, undergoes a second dioxygenase reaction and
+further metabolized via catabolic pathways similar to those of Ph (for
+detailed reactions, see Habe and Omori 2003). b, Toluene (T) and
+xylenes (X) are degraded via different routes to catechol-like
+intermediates (C-like int), catechol (C), and protocatechuic acid
+(PCA); benzene (B) is degraded to catechol (C) (adapted from Williams
+and Sayers 1994; Habe and Omori 2003)
+290 Appl Microbiol Biotechnol (2007) 76:287–308
+and toluene pathways (Fig. 2b; Williams and Sayers
+1994; Gibson and Parales 2000). All these pathways
+converge in the formation of (substituted) catechol intermediates
+(Reineke 1998), which are cleaved by ortho- or,
+as in the majority of the already described pathways, by
+meta-cleavage dioxygenases.
+The biodegradability of PAHs and BTEX in the absence
+of oxygen by a diversity of organisms (Gibson and
+Harwood 2002; Chakraborty and Coates 2004) makes
+possible beneficial remediation under anaerobic conditions.
+Anaerobic zones frequently develop in soils during
+compaction, as well as in soils and sediments contaminated
+with hydrocarbons, where the indigenous aerobic microbial
+population is stimulated and a rapid depletion of the
+dissolved oxygen content of the groundwater may occur
+(Lovley 1997). Water entering the contaminated environment
+carries only small amount of dissolved oxygen
+because of its low solubility, and O2 replenishment from
+the atmosphere is slow.
+The microbial utilization of aromatic compounds in the
+absence of oxygen occurs without the perturbation of the
+benzene nucleus. Anaerobic degradation of naphthalene
+and, in some instances, of phenanthrene has been measured
+in microbial communities in soil and sediments under
+condition of denitrification (Al-Bashir et al. 1990) or
+sulphate reduction (Zhang et al. 2000; Meckenstock et al.
+2000). With the identification of a sequence of metabolites
+during naphthalene and phenanthrene degradation by
+consortia, a pathway for these PAHs has been depicted
+(Fig. 3). As confirmed with a pure culture of a sulphatereducing
+bacterium, strain NaphS2 (Galushko et al. 1999),
+phenanthrene is carboxylated by the addition of an external
+bicarbonate molecule to yield phenanthrene carboxylic acid
+(Annweiler et al. 2002).
+CH3
+S- CoA
+CH2
+O
+CO2
+COOH
+COOH
+CO2 CO2
+COOH
+-OOC-CH-CH-COO-
+-OOC-HC-CH2-COOHS-CoA
+HS-CoA
+COOH
+Benzylsuccinate synthase
+(T)
+(BS) (BA)
+(B)
+(B-CoA)
+carboxylase
+Ring fission and mineralization
+(D-2-CA)
+(2-NA)
+ring reduction
+(N)
+carboxylase
+(PhCA)
+ring reduction
+(Ph)
+carboxylase
+H2O
+2[H] 2[H]
+Fig. 3 Schematic presentation
+for the anaerobic degradation of
+toluene (T), benzene (B), naphthalene
+(N), and phenanthrene
+(Ph). Initial reaction involved:
+For T, addition of fumarate at
+the methyl group of toluene to
+form benzylsuccinate (BS). After
+activation with CoA, BS is
+oxidized through the formation
+of phenylitaconate to benzoyl
+CoA (B-CoA) as a central intermediate
+(for detailed reactions
+from BS to B-CoA, see
+Spormann and Widdel 2000);
+for B, addition of CO2 to
+benzoic acid (BA) and subsequent
+transformation to B-CoA;
+for N, addition of CO2 to yield
+2-naphtoic acid (2-NA), which
+is further degraded by sequential
+reduction steps to decalin-2-carboxylic
+acid (D-2-CA); Ph is
+also directly carboxylated to
+phenanthrene carboxylic acid
+(PhCA) as the initial step
+towards mineralization (adapted
+from Young and Phelps 2005;
+Chakraborty and Coates 2004)
+Appl Microbiol Biotechnol (2007) 76:287–308 291
+Among BTEX, the anaerobic biodegradation of toluene
+has been the most investigated. It can be degraded under
+many reducing conditions (Andersen et al. 1995; Coates et
+al. 1996). The first step in the anaerobic metabolism of
+toluene and xylene, as well as of m- and p-cresol and
+methylnaphthalene, is mediated by an unusual enzymatic
+reaction that is the addition of fumarate to their methyl
+group to form benzylsuccinate (Fig. 3) through a benzylsuccinate
+synthase (BBS) and not involving a net redox
+reaction. Benzylsuccinate has been identified in strains of
+Thauera and Azoarcus, in sulphate-reducing strains, and in
+methanogenic sediments (Krieger et al. 1999; Elshahed et
+al. 2001).
+Anaerobic benzene degradation can include initial carboxylation
+(Fig. 3), hydroxylation, methylation, or reduction of
+the aromatic ring to form benzoyl-CoA (Chakraborty and
+Coates 2004). It is noteworthy that benzoyl-CoA for benzene,
+benzylsuccinate, and e-phenylitaconate for toluene, methylbenzylsuccinate
+for dimethylbenzene and xylene, are the
+unique extracellular intermediates identified during the anaerobic
+degradation of BTEX (Young and Phelps 2005).
+The two intermediates of the naphthalene pathway, 2-
+naphthoic acid and decalin-2-carboxylic acid, can serve to
+assess an actual naphthalene degradation occurring in field
+sites. Similarly, benzylsuccinate-like metabolites, which are
+not anthropogenic compounds, can be used as indicators of
+the presence in the environment of an active microbial
+population utilizing BTEX. Detailed studies performed with
+Seal Beach groundwater in California confirmed that the
+concentration of such biomarkers decreased over time with
+a decrease in the concentration of BTEX (Beller et al.
+1995).
+Genetic bases of PAH and BTEX microbial
+degradation activity
+The design of molecular tools for the detection of PAH and
+BTEX degradation actually occurring at a contaminated site
+requires to have clear insights into the genetic bases of their
+microbial degradation activity.
+A broad range of oxygenases, differing in structure,
+mechanism, and cofactor requirement, are distributed
+among the microorganisms that grow on PAHs and BTEX.
+Aromatic-ring-hydroxylating dioxygenases generally consist
+of a terminal dioxygenase (an iron sulfur protein) and a
+reductase chain, which transfers electrons from NAD(P)H
+to the terminal dioxygenase. The reduced terminal dioxygenase
+catalyzes the direct insertion of molecular oxygen
+into the substrate to form cis-arene diols. Some terminal
+dioxygenases are homomultimers, whereas others are
+heteromultimers consisting of a large subunit (α) and a
+small subunit (β) (Furukawa et al. 1993). For example,
+naphthalene 1,2-dioxygenase catalyzes the reaction:
+Naphthalene þ NAD Pð ÞH þ Hþ þ O2
+! þð Þ cis  ð Þ 1R; 2S dihydroxy  1; 2
+ dihydronaphhtalene þ NAD Pð Þþ
+The large subunits with the same reported substrate
+specificity are in general closely related, and their deoxyribonucleic
+acid (DNA) sequences are conserved. Current
+knowledge on the α-subunits of the terminal oxygenases
+indicates two major lineages of importance for PAH
+degradation. Phylogenetic studies of amino acid sequences
+of the proteins, involved in the initial oxidative attack of
+PAHs and BTEX and in their ring cleavage, show
+significant sequence homology, indicating a common
+ancestry that allowed the design of group-specific primer
+sets for detection by polymerase chain reaction (PCR) (Eltis
+and Bolin 1996; Meyer et al. 1999; Baldwin et al. 2003).
+Among the Gram-negative PAH-degrading bacteria,
+several groups of genes for the initial naphthalene oxygenation,
+which are often borne on quite large and selftransmissible
+NAH plasmids, are known: ndo gene from P.
+putida NCIB9816, nah genes from P. putida G7 and NCIB
+9816-4, dox genes derived from Pseudomonas sp. C18, and
+pah genes cloned from P. putida OUS82 and P. aeruginosa
+PaK1. Each gene name is referred to the substrate used by the
+strains: nah for naphthalene degradation, ndo for naphthalene
+dioxygenation (equivalent to nah), dox for dibenzothiophene
+oxidation, and pah for phenanthrene degradation. These
+genes are grouped as the “classical nah-like genes” for their
+gene organization and sequence similarity (about 90%) to
+that of the nah genes of strain G7.
+Other phenanthrene and naphthalene upper catabolic
+genes are instead evolutionarily different from the nah-like
+genes. They have been characterized from both Gramnegative
+bacteria other than Pseudomonas species and from
+Gram-positive bacteria. They are phd genes from Comamonas
+testosteroni strain GZ39, nag genes from Ralstonia sp. U2,
+phn genes from Burkholderia sp. RP007, Alcaligenes faecalis
+AFK2, and Sphingomonas aromaticovorans 177 and its
+related species (Habe and Omori 2003). The phn genes,
+although isofunctional to the classical nah-like genes, show
+very low homology, being significantly different in sequence
+and gene order from the previously characterized genes for
+PAH degradation. Strain RP007 utilizes both phenanthrene
+and naphthalene (Laurie and Lloyd-Jones 1998); strain AFK2
+utilizes phenanthrene but not naphthalene (Kiyohara et al.
+1982); differently, Sphingomonas F199 can grow on various
+monocyclic aromatic hydrocarbons and PAHs, on biphenyl
+292 Appl Microbiol Biotechnol (2007) 76:287–308
+and dibenzothiophene (Fredrickson et al. 1999). Dioxygenases
+involved in PAH degradation by Gram-positive bacteria are
+distantly related to PAH dioxygenases of Gram-negative
+strains. Nar genes and phd genes have been identified in
+Rhodococcus sp. strain NCIMB12038 (Larkin et al. 1999) and
+in Nocardioides sp. KP7 (Saito et al. 1999), respectively.
+Similar dioxygenase system (nid) genes which encode a novel
+polycyclic aromatic-ring dioxygenase have been reported
+from Mycobacterium sp. PYR-1 and Mycobacterium sp.
+6PY (Khan et al. 2001). In particular, PYR-1 can mineralize
+pyrene, 1-nitropyrene, phenanthrene, anthracene, fluoranthene,
+and benzo(α)pyrene and has either mono- or dioxygenases to
+catalyze the initial attack of PAHs.
+A second type of aromatic dioxygenases is composed of
+biphenyl and monoaromatic dioxygenases. The toluene/
+biphenyl family includes enzymes for the degradation of
+toluene (tod genes), benzene (bed genes), isopropylbenzene
+(ipb genes), chlorobenzene (tcb genes) and biphenyl (bph
+genes) from both Gram-negative and Gram-positive bacteria
+(Gibson and Parales 2000; Baldwin et al. 2003). The
+dioxygenases for toluene, benzene, and chlorobenzene
+degradation are closely related to each other and can be
+used to deduce toluene-dioxygenase-specific primers (TOD
+primers).
+By aligning the nucleotide sequences of the large
+subunits of toluene monooxygenase genes, the existence
+of two types of monooxygenases, differing in their mode of
+attack, have been found. They are divided into families on
+the basis of substrate specificity: two families of aromatic
+hydrocarbon monooxygenases (tmo genes in Pseudomonas
+mendocina KR1 and tbm genes in Pseudomonas sp. strain
+JS150) and one family of phenol hydroxylase (phh genes in
+Pseudomonas putida P35X and dmp genes in P. putida
+CF600) and the alkyl-group-hydroxylating monooxygenases,
+(xyl genes in P. putida mt-2). The tbm operon from strain
+JS150 has a strong sequence identity to the phenol hydroxylase
+encoded by the dmp and phh genes. On the basis of the
+apparent phylogeny of these monooxygenases, four primer
+sets have been identified by Baldwin et al. 2003 to detect
+these genes.
+Finally, the catechol 2,3-dioxygenase genes comprise a
+diverse family of genes (Eltis and Bolin 1996) that codes
+for a group of enzymes with aromatic ring fission activity
+toward a wide range of aromatic pollutants. The gene
+phylogeny of these very closely related sequences does not
+follow strictly a taxonomical relation with the bacterial hosts
+because these genes are mainly found on plasmids and their
+evolution and conservation rates are heavily affected by traits
+like selection pressures, horizontal transfer, and mobile
+genetic elements (Williams et al. 2002).
+Collectively, these features make the α-subunits of the
+iron sulfur protein, components of dioxygenases, amenable
+to retrieval by PCR and allow for the identification of
+retrieved fragments in the context of existing databases.
+In recent years, substantial progress has been made in
+understanding the catabolic gene associated with the first
+step of anaerobic metabolism of toluene and xylene
+degradation in Thauera aromatica and Azoarcus strains.
+The target gene, bssA, codes for the α-subunit of BBS,
+which is distributed across a wide range of phylogenetically
+and physiologically diverse bacteria (Leuthner et al. 1998).
+Microbial diversity of polluted and unpolluted
+environments
+Organic pollution has been reported to reduce diversity in
+microbial communities in a variety of environments (Juck
+et al. 2000; Roling et al. 2002). In many cases, enrichment
+of specific microbial population also occurs. In unpolluted
+ecosystems, hydrocarbon-degrading organisms usually represent
+less than 0.1% of the cultivable heterotrophic
+microbial communities, whereas in contaminated environments,
+they constitute up to 100% of the viable microbial
+population. Studies on pristine soils and soils with a known
+history of PAH contamination revealed that pristine soils
+did not yield PAH degraders, whereas contaminated soils
+harbored closely related PAH-degrading bacteria to at least
+1.5 × 107 cells (g dry wt.)−1
+, several orders of magnitude
+more than in comparable noncontaminated sites (Mueller
+et al. 1994). Mycobacterium spp., Sphingomonas spp.,
+Rhodococcus spp., Arthrobacter spp., and Nocardia spp.
+populations have been often found to be selectively
+stimulated in soil contaminated by PAHs (Kanaly et al.
+2000; Daane et al. 2001).
+Catabolic genotypes involved in the microbial degradation
+pathways of representative fractions of petroleum
+hydrocarbons, including n-alkanes, aromatics, and PAHs,
+are widespread in Arctic soils (Whyte et al. 1999) and
+Alaskan sediments (Sotsky et al. 1994). For example,
+Rhodococcus spp. were found to be the most abundant
+alkane-degrading genotypes in pristine and contaminated
+Arctic and Antarctic soils, while Pseudomonas spp. were
+enriched after contamination events, and Acinetobacter spp.
+were never found to be predominant members of polar
+alkane-degrading communities (Whyte et al. 2002).
+Similar trends were observed by Margesin et al. 2003b)
+in both contaminated and pristine Alpine soils from Tyrol
+(Austria). They determined the genotypes involved in the
+degradation of n-alkanes and PAHs by PCR hybridization
+analyses of total soil community DNA, using oligonucleotide
+primers and DNA probes specific for each genotype.
+A significantly higher percentage of genotypes containing
+genes from Gram-negative bacteria (P. putida AlkB, xyl E,
+Appl Microbiol Biotechnol (2007) 76:287–308 293
+and ndoB and Acinetobacter AlkM; 50–75%) than in the
+pristine (0–12.5%) soils indicated that these organisms were
+enriched after contamination. Moreover, genotypes containing
+genes from Gram-positive bacteria (Rhodococccus
+AlkB1 and AlkB2 and Mycobacterium nidA) were detected
+at high frequency in both contaminated (41.7–75%) and
+pristine (37.5–50%) soils, indicating that they were already
+present before a contamination event.
+Actinobacteria (including mainly Rhodococcus and
+Arthrobacter strains) and Proteobacteria, including mainly
+γ-Proteobacteria, and more specifically Pseudomonas,
+were found to be the resident cultivable BTEX degraders
+both in BTEX polluted soils (Stapleton and Sayler 2000;
+Hendrickx et al. 2006) and aquifers (Cavalca et al. 2004).
+The proliferation of BTEX-degrading Proteobacteria therefore
+seems to be a major characteristic of adaptation in
+BTEX-contaminated sites. A proliferation of minor phylotypes
+within a fuel-contaminated aquifer upon toluene
+exposure was observed by Shi et al. 1999, when comparing
+the biodiversity of BTEX-polluted and BTEX-unpolluted
+aquifers.
+The prevalence of certain genotypes in pristine or
+contaminated soils may be explained by the r–K scheme,
+which assumes that evolution favors either adaptation to
+high rates of reproduction (r strategists) or utilization of
+environmental resources (K strategists). P. putida and
+Acinetobacter, which rapidly colonize and grow on hydrocarbon
+contaminants, are r strategists; Rhodococccus and
+Mycobacterium, which tend to be more successful in
+nutrient limited situations, are K strategists. Population of
+K strategists is usually more stable and permanent members
+of the community (Atlas and Bartha 1998).
+It has been rarely shown whether organic pollution
+causes communities to diverge from each other. MassolDeya
+et al. 1997 reported that groundwater microbial
+communities treated with aromatic hydrocarbons converged
+in a fixed-film bioreactor where the environmental
+parameters were kept constant. In contrast, Bundy et al.
+2002 noted that three soil communities amended with
+diesel were distinct from the controls and from each other,
+while Roling et al. 2002 observed large changes in the
+community structure in a simulated beach oil spill but also
+a low similarity between replicates and controls. In a study
+performed to analyze the direct and indirect effects of
+benzene pollution on microbial community diversity and
+structure, Fahy et al. 2005, by combining nucleic acidbased
+community profiling with multivariate statistical
+analysis, found that the environmental changes caused by
+benzene metabolism greatly affected the structure of
+microbial communities rather than the toxic and stressful
+effects of benzene that only moderately influenced it.
+In situ strategies to remediate polluted environments
+Remediation techniques, whichever physical, chemical, or
+biological treatments suitable for partial or total restoration
+of a polluted system (Bouwer and Zehnder 1993; Cerniglia
+1993; Adriano et al. 1999; Gevao et al. 2000; Gianfreda
+and Nannipieri 2001; Iwamoto and Nasu 2001), may be
+utilized in situ, i.e., in the contaminated place itself,
+offering numerous advantages over ex situ technologies.
+A complete remediation program usually requires more
+than one step, including: (a) knowledge of the past history of
+the polluted area and activities leading to the contamination
+of the site, (b) examination and quantification of the severity
+of the contamination problem, (c) development of the
+remediation action program to target the specific contaminant
+or group of contaminants, (d) development of treatments
+and a treatment sequence suited for the wastes and the
+site, and (e) an effective monitoring program to evaluate the
+effectiveness of the adopted bioremediation plan.
+Bioremediation, either as an intrinsic degradation or as
+an engineered process, usually refers to the use of microorganisms
+(mainly) but also of plants, enzymes, and plant–
+microorganisms associations that transform pollutants into
+innocuous products (Dec and Bollag 1994; Siciliano and
+Germida 1998; Pointing 2001; Gianfreda and Bollag 2002;
+Torres et al. 2003).
+As claimed by Adriano et al. 1999, the purpose of soil
+bioremediation is “not only to enhance the timely degradation,
+transformation, remediation or detoxification of
+pollutants by biological means, but also to protect soil
+quality.” Soil quality has been defined by Doran and Parkin
+1994 as the capacity of a soil to function within ecosystem
+boundaries to (1) sustain biological productivity, (2)
+maintain environmental quality, and (3) promote plant and
+animal health.
+Intrinsic or natural attenuation
+Natural attenuation of contaminated sites is getting more
+and more interesting because it seems to enable bioremediation
+with a minimized cost, avoiding land disruption and
+human exposure.
+Biodegradation, chemical transformation, stabilization
+(i.e., binding and sequestration by clays and humus),
+volatilization, dispersion, dissolution, and dilution are all
+natural attenuation processes of organic contaminants in soil
+and groundwater. However, such natural processes can be
+very slow, and consequently, certain chemicals may persist for
+years. For instance, their susceptibility to biodegradation may
+change drastically, depending on several factors related to the
+294 Appl Microbiol Biotechnol (2007) 76:287–308
+chemical and physical properties of both the chemical and the
+environment in which they are present.
+Methods to assess microbial natural attenuation of BTEX
+and PAHs include analysis of the subsurface geology and
+hydrology of the site, qualitative and quantitative pollutant
+biochemical profiles, pollutant bioavailability, composition
+and activity of the microflora, and microcosm studies. An
+appropriate evaluation of natural attenuation, however,
+requires the demonstration that the transformation processes
+are taking place at a rate that is protective of human health
+and environment.
+Intrinsic contaminant biodegradability, contaminant concentration,
+environmental pH and temperature, and availability
+of electron acceptors are the main factors that affect
+the biochemistry of pollutant degradation.
+Appropriate redox conditions determine which redox
+regime occurs and, in turn, which kind of substance is
+degraded and the rate of biodegradation. Although the rate
+of aerobic biodegradation is higher than that of the
+anaerobic one, anaerobic processes may be more dominant
+when the rate of microbial respiration exceeds the rate of
+oxygen input. At a low dissolved oxygen amount, degradation
+may even occur by a definite sequence of oxy-anions
+as alternate electron acceptors (aerobic → denitrification →
+Mn(IV), Fe(III) reduction → sulphate reduction → methanogenesis;
+Bouwer and Zehnder 1993) used by microbial
+species, active in a given condition.
+In the soil, microorganisms may develop various mechanisms
+to access sorbed compounds after sorption and aging
+processes on soil particles and sediments as well as to utilize
+water-insoluble pollutants. Indeed, microorganisms may wait
+for a new equilibrium state, create concentration gradients,
+bring about microenvironmental pH shifts, produce surfactants,
+solvents, and chelators, secrete extracellular enzymes,
+and degrade exposed substituents. In addition, they may
+produce emulsifiers and surfactants that usually facilitate the
+partitioning of the chemical from the NAPL to the water phase
+(Chung and Alexander 2002; Gevao et al. 2000).
+Biostimulation and bioaugmentation
+The absence of natural biodegradation in a contaminated
+site may indicate that both localized environmental
+conditions and physical and biological constraints may
+limit partially or totally the degradation of pollutants and
+negatively affect the bioactivity of the process. Bioremediation
+technologies usually help natural biodegradation
+processes work faster, or they may provide additional,
+exogenous biological agents to polluted systems and
+improve the transformation processes.
+Several strategies may be adopted to efficiently improve
+the process and overcome the above constraints: bioaugmentation,
+i.e., the addition of strains with desired
+degradative capacities, and biostimulation, i.e., the addition
+of supplementing carbon sources or other nutrients to
+stimulate the activity of indigenous or inoculated degrading
+strains.
+The utility of bioaugmentation is supported by studies
+showing the incapacity of indigenous microorganisms in
+some cases and the apparent enhanced bioremediation rate
+after the addition of competent microorganisms (Edgehill
+1999).
+The use of pure cultures into multi-substrate-polluted
+systems, such as soil or groundwater, has had variable
+results (Bouchez et al. 2000). However, bioaugmentation
+using strains enriched from sites containing the target
+contaminant, where the population has acquired the
+catabolic ability, has had success (Schwartz et al. 2000).
+Despite bioaugmentation is still a source of controversy
+within environmental microbiology, it is considered as a
+way of enlarging the genetic capacity present in a given
+site, thus corresponding to an increase in the gene pool and
+in the genetic diversity of that site (Dejonghe et al. 2001).
+In this contest, the long-term survival of the introduced
+donor strain does not represent the major bottleneck in
+bioaugmentation processes.
+Recently, Thomson et al. 2005 pointed out technical
+advances to perform a strain selection based on an in situ
+understanding of organism abundance, functional activity,
+and population dynamics in the habitat from which they are
+derived. It seems logical that a strain, derived from a
+population, temporally and spatially prevalent in a specific
+habitat, more likely persists as an inoculum when reintroduced,
+than one that is transient or alien to such a habitat.
+Once an abundant population has been identified, the
+second phase of the selection procedure is to identify
+strains that are capable of degrading the contaminant(s).
+Investigations of microbial populations and their activities
+have increasingly necessitated the development and
+use of culture-independent methods, such as those involving
+PCR-amplified ribosomal ribonucleic acid (rRNA)
+genes. With rapid molecular procedures, such as denaturing
+or temperature gradient gel electrophoresis (DGGE or
+TGGE; Muyzer et al. 1993), terminal restriction fragment
+length polymorphism (Liu et al. 1997), and lengthheterogeneity
+PCR (Suzuki et al. 1998), together with other
+complementary techniques, such as fluorescence in situ
+hybridization (FISH; Yang and Zeyer 2003) and stable
+isotopic probing (SIP; Jeon et al. 2003), it may be possible
+to obtain a more comprehensive assessment of the
+composition and structure of bacterial communities and
+Appl Microbiol Biotechnol (2007) 76:287–308 295
+the responses of the bacteria to different soil conditions and
+to determine exactly which organisms assimilate specific
+contaminants.
+Determination of the potential success of bioaugmentation,
+however, requires an understanding of the bioavailability
+of the pollutant, the survival and activity of the
+added microorganism/s or its genetic material, and the
+general environmental conditions that control soil bioremediation
+rates. With available genetic techniques, the
+comprehension of the fate of added microorganisms and
+of the critical parameters for the design of bioaugmentation
+processes can be achieved.
+For instance, Pseudomonas stutzeri KC was selected
+for site inoculation because of its ability to mineralize
+carbon tetrachloride under anoxic conditions (Dybas et al.
+1998). By manipulating the pH in the field to pH 8, which
+lowered iron availability, the strain persisted and actively
+degraded the contaminant, by out-competing indigenous
+populations that were unable to obtain adequate concentrations
+of iron.
+To overcome chemical and environmental constraints,
+delivery systems may be designed to provide nutrients
+(nitrogen and phosphorous), oxygen, and other electron
+acceptors to stimulate and maintain the activity of microbial
+degraders. Similarly, environmental conditions can be
+improved to get optimal values of pH, moisture, etc. for
+the microbial degradation of the organic pollutant. Substances
+more amenable to biodegradation than the target
+contaminant can be added to the soil to stimulate the
+microbial cometabolic transformation of the pollutants,
+otherwise not degraded. The addition of nutrients can lead
+to an increased development of indigenous microorganisms,
+which themselves either biostimulate the process or
+hinder the process by consuming the added nutrient or
+carbon source. In cases where cometabolism is desired, the
+consumption of added substrates by indigenous microorganisms,
+incapable of cometabolizing the pollutant, can
+hinder the growth of the added microorganisms (Bewley
+1996; Adriano et al. 1999, Boopathy 2000; Gianfreda and
+Nannipieri 2001; Margesin et al. 2003a,b; Scullion 2006).
+Monitoring in situ bioremediation
+When the bioremediation process is designed and implemented,
+its effectiveness has to be demonstrated by a
+continuous monitoring through chemical, biological, microbial,
+and environmental indicators.
+Some general criteria and tools to verify them can be
+also adopted (Table 1). They should establish whether the
+cleanup of the site has been effectively achieved and the
+pollution completely removed. As a result, the evaluation of
+the effective removal and disappearance of the pollutant
+is the most mandatory. After the treatment, an improvement
+of the polluted area in terms of both visual and sensory
+aspects as well as the absence of any eco-toxicological risk
+should be also assessed.
+The assessment of environmental hazards of remediated
+sites is mostly established on chemical analyses, based on
+the determination of either fine (i.e., pollutant consumption,
+intermediates/final products) or lumped (i.e., biochemical
+oxygen demand, chemical oxygen demand, total organic
+carbon) parameters.
+Different approaches for monitoring bioremediation of
+contaminated soils/aquifers and evaluating the efficiency of
+bioremediation in lowering long-term environmental toxicity
+have been proposed. They include measurements of
+distinctive metabolites or stable carbon isotope ratios of
+dissolved inorganic carbon or residual contaminants.
+Another approach is to show that the indigenous microbial
+communities are capable of degrading the contaminants
+and, ideally, that these bacteria are enriched in contaminated
+zones. Nucleic-acid-based techniques are preferred
+for such monitoring because they preclude isolation and
+cultivation of bacteria. Preferably, molecular techniques
+focus on catabolic genes that code for specific pollutantdegrading
+enzymes.
+Table 1 Criteria and tools for bioremediation process efficacy evaluation
+Aspects to be
+considered
+Criteria to meet Available tools
+Chemical and
+engineering aspects
+Were the target cleanup goals achieved? Chemical and analytical determinations
+Could mass balances and predictive models be established?
+Biological nature of
+the process
+Was the biological nature of the process demonstrated? Microorganism presence, variation of microbial
+What were the relative contributions of abiotic processes? structure and communities
+Eco-toxicological
+aspects
+Was the pollution completely detoxified? Did the treatment pose
+a human or ecological risk?
+Toxicity assays (genotoxicity and general toxicity)
+Aesthetic aspects Does the treatment result in visual or sensory improvement of
+the polluted site?
+Social and general response
+296 Appl Microbiol Biotechnol (2007) 76:287–308
+In the following, the main aspects of some of these
+methodologies, their drawbacks, and advantages will be
+addressed.
+Chemical and biological monitoring
+The primary goal in managing contaminated sites is to
+render the site environmentally acceptable through management
+or remediation so the site can be used for some
+acceptable purposes. This requires to select some soil
+cleanup criteria and these latter must be adopted under a
+risk-based approach. Answering “how clean is clean” in a
+meaningful way requires making a determination of what
+concentration of a chemical is environmentally acceptable
+at a specific site, i.e., to determine what constitutes an
+environmental acceptable endpoint. An efficient instrumental
+procedure should be designed to determine both the total
+quantity of pollutants and their compositions before and
+after the bioremediation process.
+Several chemical methods are available to evaluate the
+concentration of a pollutant and its depletion in a contaminated
+site. They include gas chromatography (GC), GC/mass
+spectrometry (MS), GC/flame ionization detector (FID),
+infrared (IR), fluorescence spectroscopy, luminescence techniques,
+and others. Each of them may present advantages or
+constraints and may be more or less suitable and applicable to
+a particular type of soil (low or high organic matter content,
+low or high clay content, etc.) or contaminant mixtures. For
+example, GC/FID (as also GC/MS) is suitable for the
+identification and determination of contaminants and has the
+advantage that FID response is linear in a wide range of
+concentrations and not influenced by temperature changes.
+However, this methodology can have poor sensitivity because
+some carbon compounds may be oxidable (Korda et al. 1997).
+Similarly, luminescence techniques are very sensitive and
+present a reasonable selectivity to detect microbial activity
+and the aromatic content of complex mixtures of hydrocarbons.
+They, however, have a limited application in
+multispecies oil-degrading microbial communities and under
+field conditions because of the severe and not quantifiable
+quenching of light emission in soil slurries or soil media
+(Korda et al. 1997).
+Among the analytical methods, fluorescence spectroscopy,
+although generally accepted as a powerful and sensitive
+analytical tool to determine aromatic pollutants such as
+PAHs (Lombardi and Jardim 1999; Nakashima et al. 2000),
+has, however, limited applicability because the spectra of
+complex mixtures cannot be often resolved adequately
+(Lombardi and Jardim 1999).
+Gomez et al. 2004 employed a derivative technique such
+as synchronous luminescence to classify the pollutants on a
+routine basis and isolate the specific compounds from
+polluted soil. By applying IR, GC, and synchronous
+fluorescence spectroscopy, they successfully determined
+many PAHs in contaminated soil.
+Usually, an exhaustive chemical extraction of the
+remediated soil should be performed to evaluate the
+residual concentration of the pollutant. Indeed, the final
+concentration of the pollutant has to be lower than that
+determined by this method because the contamination
+levels established by laws and regulations are frequently
+governed by this requirement.
+This approach, however, could be misleading. For
+instance, the residual soil concentration of PAHs detected
+by an exhaustive extraction method after bioremediation
+treatment could represent the nonbioavailable fraction.
+Because nonbioavailable fractions of pollutants are usually
+considered of minor hazard (Alexander 2000), several
+methodologies to estimate only the remaining bioavailable
+fraction of pollutants have been developed. They include
+chemical tests capable of measuring the desorbing fraction,
+based on nonexhaustive methodologies and utilizing various
+extractants such as solvent mixtures, surfactants,
+cyclodextrins, and soil-phase extraction (Sabatè et al.
+2006).
+In a feasibility study performed on a biostimulated
+creosote-contaminated soil, Sabatè et al. 2006 established
+a theoretical biodegradation limit based on the desorbing
+fraction using a mild extraction technique involving cyclodextrins.
+No metabolite accumulation was detected, indicating
+that biostimulation conditions permitted ample
+metabolic cooperation among the microbial populations
+present in the creosote-contaminated soil. No toxic intermediate
+products and a negligible formation of bound
+residues were also determined.
+A wide variety of organic pollutants is degradable by
+white-rot fungi through the action of their aspecific
+enzymatic systems (Gianfreda and Rao 2004). Therefore,
+they can be helpful when dealing with a site contaminated
+by a mixture of different xenobiotic pollutants. To monitor
+and control the effectiveness of the bioremediation process,
+the fungal biomass has usually to be quantified in situ.
+Indirect methods capable of estimate fungal biomass have
+been developed to overcome the incapability of measuring
+directly the amount of fungal biomass. These indirect
+techniques include biochemical methods that rely on the
+chemical assay of fungus-specific cell components such as
+chitin, phospholipids fatty acids, or ergosterol. This latter is
+considered a useful indicator for fungal biomass in polluted
+soils as well as a tool for monitoring bioremediation
+processes, as its content is independent of the presence or
+the absence of pollutants (Barajas-Acheve et al. 2002).
+A strategy for monitoring in situ biodegradation of a
+compound is the method known as SIP that relies on the
+changes in stable isotope composition of the molecule of
+interest. It plays a role in attributing the assimilation of
+Appl Microbiol Biotechnol (2007) 76:287–308 297
+specific elements from certain compounds to microorganisms
+within complex microbial communities. In practice,
+the application of SIP has almost exclusively been restricted
+to the use of 13C, and the microbial community should have
+a sufficient number of labeled atoms to allow biomarker
+separation and detection. The use of this technique presents
+two limitations: (1) the separation based on density requires
+the substrate to be labeled at close to 100%, and this is
+expensive and sometimes unavailable in addition to
+requiring long incubation times, and (2) the labeled
+substrate is used predominantly for growth to surmount
+diluted label issues (Wellington et al. 2003).
+Hydrocarbons enter the subsurface with a distinct
+isotopic composition or 13C/12C ratio. Microbial processes
+make small but significant changes in isotopic compositions
+by preferentially utilizing the lighter isotopes
+(Richnow et al. 2003) and leaving the residual substrate
+fraction enriched of the heavier isotopes.
+SIP involves tracking stable isotope atoms from
+particular substrates into components of microbial cells,
+referred to as biomarkers. The informative biomarkers
+used in environmental microbiology are DNA, RNA and
+phospholipid fatty acids (PLFAs); each of them has its
+strengths and weaknesses (Dumont and Murrell 2005;
+Manefield et al. 2002).
+Because SIP is founded on assimilatory processes, its
+utility is restricted to chemical transformations that microorganisms
+perform, at least in part, for anabolic purposes.
+Nonassimilatory processes (co-oxidation) fall outside the
+applicability of SIP. DNA- and RNA-SIP are usually aimed
+at discovering 16 S rRNA gene sequences, hence, taxa.
+SIP can be used to describe in situ biodegradation of
+pollutants in both qualitative and quantitative terms. In a
+field study, BTEX and PAHs of a polluted, anoxic aquifer
+exhibited a significant concentration gradient along an
+800-m groundwater flow path downstream of the source
+of contamination. Richnow et al. 2003 determined the
+concentrations and the isotopic compositions of contaminants
+to examine in situ biodegradation at the test site by
+applying laboratory-derived fractionation factors and the
+relative Rayleigh equation for closed systems (Hoefs 1997).
+On the basis of isotope values and on the laboratory-derived
+isotope fractionation factors for toluene and o-xylene in
+the monitoring wells, a significant biodegradation along the
+groundwater flow path was found, and in the wells, at the
+end of the plume, toluene and o-xylene were almost completely
+reduced by in situ microbial degradation.
+The most remarkable advantage to use PLFAs as
+biomarkers in SIP is the rapidity with which PFLAs
+become detectably labeled and the quantitative information
+generated from the analysis of PLFAs with isotope ratio
+MS. The primary limitation of this approach is that the
+phylogenetic resolution offered by this biomarker is inferior
+to that offered by nucleic-acid-based biomarkers and that it
+requires signature PLFAs to be identified from close
+cultivable relatives.
+PLFA-SIP has been applied to link the degradation of
+toluene to genera within the order of Actinomycetales
+(Hanson et al. 1999) and to identify sulphate-reducing, toluene
+degrading microorganisms in the sediment of a petroleum
+hydrocarbon-contaminated aquifer (Pelz et al. 2001).
+Jeon et al. 2003 released 13C-labeled naphthalene in a
+contaminated site to trace the flow of pollutant carbon into
+the naturally occurring microbial community. They succeeded
+in (a) documenting 13CO2 evolution, (b) creating a
+library of 16 S rRNA gene clones from 13C-labeled
+sediment DNA, (c) identifying a taxonomic cluster (92–95
+clones) involved in metabolism of the added naphthalene,
+and (d) isolating a previously undescribed bacterium (strain
+CJ2) closely related to Polaromonas vacuolata. This latter
+hosts the sequence of a dioxygenase gene (nahAc)
+responsible for in situ naphthalene biodegradation. Naphthalene
+utilization by strain CJ2 was then confirmed in
+mineral salts media analyzed by GC/MS.
+Because DNA-SIP relies on the isolation of labeled
+DNA by density centrifugation, the degree of isotopic
+enrichment is crucial. The DNA synthesis in situ, which
+reflects organism replication rates, limits the enrichment of
+this biomarker and hence the utility of DNA-SIP. By
+comparison, RNA synthesis rates are higher than those of
+DNA, being a function of copy number and the turnover of
+RNA. For this reason, RNA will be labeled more rapidly,
+making it a more responsive biomarker with a high degree
+of phylogenetic resolution. The potential limitation inherent
+to RNA-SIP is the ability to extract high quality RNA from
+environmental samples. Advances in nucleic acid extraction
+methodologies suggest, however, that this will not impede
+the broad application of this technique.
+Genetic monitoring
+Detection of specific nucleic acid sequences and nucleic
+acid hybridization, using specific probes for a biodegradative
+gene or gene message, is today an indispensable
+approach for the identification of microorganisms in
+environmental samples. The detection of phylogenetic and
+catabolic genes in environmental samples is based on a set
+of different genomic approaches (Fig. 4).
+Hybridization- or PCR-based detection systems involve
+recognition of a specific nucleic acid fragment or different
+electrophoretic patterns (fingerprints) (Sayler and Layton
+1990; Steffan and Atlas 1991).
+The probes may be employed to determine the overall
+genetic diversity, the dominant and active gene pool, and
+the density and frequency of specific gene lines required to
+degrade a target compound at a site.
+298 Appl Microbiol Biotechnol (2007) 76:287–308
+On account of the key position of the initial- and ringoxygenases
+during aerobic PAH and BTEX degradation, as
+well as of BBS for anaerobic toluene/xylene degradation,
+the genes encoding these enzymes have been used as
+targets to detect the presence of hydrocarbon degraders at
+the DNA level and to construct specific gene probes.
+Once a probe has been developed, the probe can be
+expanded for many uses including quantitative PCR or a
+second generation PCR, i.e., real-time PCR, and functional
+gene probe arrays. Real-time PCR uses a fluorescent duallabeled
+probe-based detection system (TaqMan probe) allowing
+PCR amplification and detection within closed tube systems.
+The development in the years of several primers has
+allowed detecting and quantifying in environmental samples
+the presence of specific genotypes encoding the key
+steps in PAH and BTEX biodegradation and in their
+messenger RNA (mRNA) (Meyer et al. 1999; Ringelberg
+et al. 2001; Baldwin et al. 2003; Junca and Pieper 2003;
+Hall et al. 2005; Hendrickx et al. 2006).
+For example, nid gene sequences encoding for the large
+(nidA) and the small (nidB) subunits of the dioxygenase
+system have been used to create a gene probe for the
+detection of PAH-degrading mycobacteria in soils undergoing
+bioremediation (Hall et al. 2005).
+Cells DNA mRNA Protein
+Soil Sample
+Isolation/Cultivation of organism involved
+in bioremediation
+gene presence
+Microbial target
+Broad/Specific
+phylogenetic and/or
+functional groups
+Marker isolation/amplification
+Screening/hybridization PCR
+Marker detection/analysis
+Fingerprinting approaches
+Cloning approaches
+Elucidation of gene function and
+regulation
+Conceptual model of gene
+function and regulation
+gene activity
+(DNA-based
+methods)
+(RNA-based
+methods)
+Fuse gene of
+interest with
+fluorescent
+biomarker
+(lux or gfp)
+(Real time-PCR,
+Competitive-PCR)
+Quantify
+bioluminescence
+DNA analysis, mRNA
+analysis with
+microarrays
+Environmental
+proteomics
+In Situ-approaches
+RT-PCR
+RT-PCR
+DNA-SIP
+RNA-SIP
+RNA-SIP
+RNA microarrays
+DNA-SIP
+FISH
+DNA microarrays
+Fingerprinting/ Cloning
+approaches
+In silico model of
+cell function in
+soil
+Inference of function and regulation
+from environmental conditions
+under which genes are expressed
+Fig. 4 Different genomic
+approaches available to examine
+microbial communities of
+polluted soils. Microorganisms
+isolated from the soil provide
+information on their physiology
+and on the gene composition
+usable for the analysis of mRNA
+and proteins that are extracted
+directly from the soil. Genomic
+DNA extracted from soil
+furnishes data on the genetic
+potential of microbial
+communities. mRNA and proteins
+provide information on
+gene expression under different
+environmental conditions. Comparison
+of data from pure culture
+and mixed communities yields
+data for the development of
+models of microbial function in
+the soil (adapted from Lovley
+2003)
+Appl Microbiol Biotechnol (2007) 76:287–308 299
+With an in situ mesocosm study, Hendrickx et al. 2005
+examined the effect of a BTEX-contaminated groundwater
+plume on the in situ dynamics of a bacterial aquifer
+community and on the dynamics of specific BTEXcatabolic
+genotypes within the community. A rapid colonization
+of downstream aquifer material by Pseudomonas
+spp. from the contaminated upstream area occurred, and the
+new community remained stable over an extended time
+period. Changes in the BTEX catabolic genotype structure
+reflected the community change; in particular, the community
+in the contaminated area was especially characterized
+by the appearance of xylM/xylE1-(C23O)-like genotypes,
+while in the uncontaminated area, only tmoA-like genotypes
+were detected. Successively, a successful design of eight
+new primer sets evidenced that tmoA-, xylM-, and xylE1-
+like genes were the most frequently recovered in both soil
+DNA and isolates from subsurface soils sampled at
+different locations of the BTEX-contaminated site. While
+xylM and xylE1 were only recovered from the contaminated
+samples, tmoA was detected from both the contaminated
+and noncontaminated samples (Hendricks et al. 2006).
+tmoA and xylE genes were instead found significantly
+higher in contaminated subsurface samples collected along
+a BTEX concentration gradient at a fuel-oil-contaminated
+site than in noncontaminated samples (Guo et al. 1997;
+Cavalca et al. 2004).
+Competitive quantitative PCR techniques that used as
+PCR targets the conserved regions of the C23O genes
+allowed to enumerate their gene copy number and to
+correlate their relative abundances to pollutant levels. C23O
+genes were enumerated by this technique with a 163-bp
+competitor in a petroleum-amended soil using the same
+primer. As a prerequisite, target and competitor should have
+had identical amplification kinetics (Mesarch et al. 2000).
+The intrinsic biodegradative potential of harbor sediments
+contaminated with PAHs was examined in bioslurry
+microcosms, during a 4-month treatment, by correlating the
+microbial community structure, through PLFA analyses, to
+catabolic gene presence and to PAH loss. PLFA analysis
+revealed a threefold increase in total microbial biomass and
+a dynamic microbial community composition, strongly
+correlated with changes in the PAH chemistry. The copies
+of genes associated with PAH degradation increased by
+four orders of magnitude and shifts in gene copy numbers
+correlated with shifts in specific subsets of extant microbial
+community. Declines in the concentrations of phenanthrene
+correlated with PLFA indicative of Rhodococcus spp. and/
+or actinomycetes and genes encoding for naphtahalene-,
+biphenyl-, and C23O-degradative enzymes (Ringelberg et
+al. 2001).
+Therefore, the greater numbers of catabolic gene
+copies within a contaminated area, in comparison to
+those in uncontaminated soils, can be used as evidence of
+natural attenuation or of the effectiveness of engineered
+bioremediation.
+With a real-time PCR method, anaerobic toluenedegrading
+bacteria were monitored by quantifying the bssA
+gene with a primer–probe set in microcosms inoculated
+with aquifer sediments and incubated anaerobically with
+BTEX and nitrate in the presence and absence of ethanol
+(Beller et al. 2002). Population trends were consistent with
+observed toluene degrading activity: the microcosms with
+the most rapid toluene degradation had the largest numbers
+of bssA copies, where they increased from 100 up to 1,000
+folds over the first 4 days of incubation, when most of the
+toluene had been consumed.
+DNA microarrays provide a mean for the simultaneous
+analysis of many genes. Based on the types of probes
+arrayed, microarrays for environmental studies can be
+phylogenetic oligonucleotides, functional genes, and community
+genoma arrays. The last type is constructed using
+whole genomic or even large fragments of genomic DNA
+originating from metagenomic libraries (Wu et al. 2004).
+Although several phylogenetic microarray platforms
+show great promise, the technical challenges of such
+complex hybridization experiments, their limited quantitative
+capabilities and the incomplete knowledge of extant
+microbial diversity, still limit their widespread use (Zhou
+2003). Both PCR-amplified fragments and nucleotides
+derived from functional genes can be used to fabricate
+functional gene arrays.
+Recently, Rhee et al. 2004 developed a comprehensive
+50-mer-based oligonucleotide microarray containing 1,657
+probes from all 2,402 known genes involved in PAH and
+BTEX biodegradation and metal reduction and used it to
+monitor the biodegradation potential and activity of
+enrichment cultures and soil microcosms supplemented
+with naphthalene. With the developed 50-mer functional
+gene array, they successfully detected changes in the
+microbial community structures in enrichment and soil
+microcosms depending on the incubation conditions. While
+the naphthalene-degrading genes from Rhodococcus-type
+bacteria were dominant in naphthalene enrichments, the
+genes involved in naphthalene and PAH degradation from
+Gram-negative bacteria like Ralstonia, Comamonas, and
+Burkholderia were most abundant in soil microcosms.
+Naphthalene-degrading genes from Pseudomonas were
+never detected (Rhee et al. 2004). These results strengthen
+the potentiality of this technology in monitoring bioremediation
+processes in situ, although much work is needed to
+improve detection sensitivity.
+Expression of functional genes in the soil can be
+monitored by detection of their transcription directly as
+mRNA or via a reporter gene fused to the target gene.
+Indeed, despite technical difficulties to extract purified
+RNA at a sufficient yield from environmental samples for
+300 Appl Microbiol Biotechnol (2007) 76:287–308
+subsequent manipulation and analyses, a variety of methods
+developed for mRNA extraction are now available to detect
+the gene expression.
+Numerous environmental factors can activate or repress
+gene expression and thereby modulate microbial activity.
+The influence of agents increasing PAH bioavailability on
+the expression of the catabolic gene nahAC has been
+studied by using a real-time PCR assay and to evaluate the
+regulation of the nahAC gene during phenanthrene degradation
+(Marlowe et al. 2002). Gene expression was
+successfully determined by extraction of bacterial mRNA
+followed by real-time PCR amplification of the nahAC
+gene and of an internal housekeeping gene (rpoD). The
+rpoD gene, which encodes a housekeeping sigma factor for
+transcription initiation, served as a baseline control for
+evaluation/interpretation of catabolic gene expression. With
+this gene expression assay, temporal changes in nahAC
+expression were shown when phenanthrene was degraded.
+Thus, monitoring gene expression may allow detection of
+subtle changes in the expression of degradative genes,
+because of temporal changes in cell physiology or
+changes in toxicity associated with accumulation of
+intermediates.
+An alternative molecular tool is to use biomarkers as
+specific tags for the identification of specific bacteria or
+gene activity. A biomarker is defined as a DNA sequence,
+introduced in an organism, which confers a distinct
+genotype or phenotype to enable monitoring in a given
+environment. Bioluminescent, fluorescent, and chromogenic
+marker genes, such as luxAB (bacterial luciferase), gfp
+(green fluorescent protein, GFP), and xylE (catechol 2,3
+oxygenase) genes, as well as reporter genes are examples of
+promising biomarkers (Jansson 2003).
+The choice of the biomarker and monitoring system
+depends on the particular site, bacterial strain, and
+sensitivity, and specificity of detection is required. Recently,
+gfp was used to tag different environmental Mycobacterium
+isolates able to degrade different PAHs. Confocal
+laser microscopy was used to analyze both GFP- and PAHderived
+fluorescence signals and allowed the bacteria to be
+visualized in association with crystalline substrates (Wattiau
+et al. 2002).
+Reporter bacteria, also referred as bioreporters, are
+equipped with reporter genes that encode a product, which
+is easily assayed and related to metabolic activity or
+specific gene expression of the host cell. Most of the
+bioreporters use an environmentally or metabolically
+responsive promoter, which is fused to a suitable reporter
+gene and introduced into a microbial host. Host cells then
+react to environmental stimuli by production of an easily
+detectable reporter protein, thus informing on the conditions
+that the cells encounter or on the status of the cells
+themselves (Jansson 2003).
+Environmental biosensors represent a breakthrough for
+the monitoring of pollutants in contaminated matrices
+because they have the unique ability to measure the
+interaction of specific compounds with biological systems
+through highly sensitive recognition processes.
+One of the best known examples of a biosensor is the
+use of a bioluminescent pseudomonad to monitor naphthalene.
+When this strain was inoculated into lysimeters
+contaminated with naphthalene, light emission was detected
+using light pipes at different depths (Sayler et al. 2001).
+In another study, a GFP-based Pseudomonas fluorescens
+strain A506 biosensor was constructed for the detection of
+BTEX in aqueous solutions (Stiner and Halverson 2002).
+The biosensor was constructed by creating a transcriptional
+fusion between gfp and toluene–benzene utilization (tbu)
+pathway promoter of Ralstonia pickettii PKO1cells. The
+biosensor cells were readily induced, and fluorescence
+emission after a 3-h period of induction correlated well with
+BTEX concentrations.
+When not much is known about the genetics and
+regulatory circuits involved in pollutant degradation, a
+random mutant library can be made to screen for cells that
+produce a response to a chemical from an indigenous
+promoter. According to this strategy, the promoter probe
+mini-Tn5-luxAB-tet was used to create a luxAB transcriptional
+fusion responding to fluoreine in the fluorine-utilizing
+bacterium Sphingomonas sp. LB126 (Bastiaens et al. 2001).
+The mutant strain, named L-132, was impaired in fluorene
+utilization and strongly emitted light upon addition of
+fluorene to the growth medium.
+FISH with rRNA-targeted nucleic acid probes (Lee et al.
+1999; Ginige et al. 2004) or the combination of 16 S rRNA
+FISH and 13C isotope data (Orphan et al. 2001) can be used
+to directly identify active bacteria within complex samples
+in a few hours.
+To link results obtained using the catabolic-gene approach
+to those of the rRNA approach, FISH with tyramide signal
+amplification (TSA) has been used to detect intracellular
+mRNA in microbial mats in high alpine lakes (Schonhuber et
+al. 1999) A TSA-FISH method was developed and applied
+to P. putida NCB9816-4 cells actively transcribing naphthalene
+dyioxygenase (nahAC) and related genes in
+environmental samples from a coal-tar-contaminated site,
+thus documenting the in situ expression of specific genes in
+individual cells (Bakermans and Madsen 2002). The
+widespread use of TSA-FISH is still limited by the
+databases usable to design probes and by differences in
+cell permeabilization efficiency.
+The potential for monitoring in situ microbial gene
+expression in soils appears feasible. Metagenomics, i.e., the
+genomic analysis of entire microbial communities, seems to
+be a powerful approach to study the potential functions of
+uncultivated microorganisms. Genomic DNA extracted
+Appl Microbiol Biotechnol (2007) 76:287–308 301
+from soil can be cloned, for example, into large cloning
+vectors, based on the Escherichia coli F factor (99.2 kb)
+and referred to as Bacterial Artificial Chromosomes
+(BACs), to make libraries of environmental genomic
+DNA (termed metagenomic libraries; Handelsman et al.
+2002). The advantage of BAC vectors is that they may
+maintain very large DNA inserts (greater than 600 kb)
+stably in E. coli, facilitating the cloning of large fragments
+of DNA. Moreover, the E. coli F factor replicon offers strict
+copy number control that limits the number of BACs to one
+to two copies per cell. Several authors have demonstrated
+the utility of capturing community DNA in the form of
+BAC libraries and of linking phylogenetic and functional
+information within specific BAC clones, thus gaining new
+perspectives on the microbial ecology of natural environments
+(Rondon et al. 2000; Bèjà et al. 2002; Liles et al.
+2003). For instance, for a particular soil microbial community,
+Rondon et al. 2000 successfully constructed BAC libraries
+with average insert sizes of 27- and 44.5-kb BAC libraries,
+thus linking the phylogeny of uncultured soil microoorganisms
+to their physiological and genetic activities encoded on
+metagenomic fragments captured in BAC libraries; Bèjà et
+al. 2002, instead, by characterizing BAC clones from a
+natural microbial population containing identical or nearidentical
+rRNA genes from planktonic crenarcheotes, found
+the existence of a considerable functional diversity within
+species that have an identical rRNA sequence. Potential
+biases affecting the identification of BAC clones containing
+rRNA genes include preferential amplification from the host
+rDNA template, an inability to differentiate between host and
+nonhost RFLP patterns and potential toxicity of heterologously
+expressed rRNA gene operons.
+Environmental DNA microarrays produced from the
+genomic data could be used to analyze simultaneously the
+expression of numerous genes in a given soil. However,
+the use of microarrays has been limited to 16 S rRNA
+markers or a relatively small set of functional genes, and no
+practical approach has been developed to specifically target
+the uncultivable majority of the species in the environment
+(Sebat et al. 2003). Functional genomic and expression data
+allow determining when a cell uses particular genes and
+when it does not. However, the prediction of the functioning
+of individual microorganisms in a complex environment
+requires to have a holistic view of metabolism “in
+silico models” (a computer representations of their in vivo
+counterparts) that can describe the interactions of these
+microorganisms with others of the community (Palsson
+2000).
+Monitoring of soil ecotoxicology and quality
+As reported above, one of the main questions remaining
+after a bioremediation process is to assess that the toxicity
+at the contaminated site has been lowered and the site has
+regained its initial biological activity and productivity.
+Therefore, toxicity tests and biological activity measurements
+may be used as potential monitoring tools or
+bioindicators during and after bioremediation of contaminated
+soils. They have been incorporated in the program for
+ecological assessment of bioremediation at hazardous waste
+sites and for supporting management decisions for remediation
+(Hankard et al. 2004; Maila et al. 2005; Płaza et al.
+2005). As chemical data alone are not sufficient to evaluate
+the biological effects, ecotoxicological tests have been
+recently used as supplementary tools to monitor bioremediation
+of hydrocarbons, both in laboratory and field
+studies, and to appropriately define acceptable cleanup
+standards (Saterbak et al. 1999; Dorn and Salanitro 2000).
+In a recent study by Płaza et al. 2005, the bioassays
+Spirotox, Microtox, Ostracodtoxkit FTM, umu-test with S-
+9 activation, and plant assays were applied and compared to
+evaluate different bioremediation processes in heavily
+petroleum-contaminated soils. They were shown to be
+sensitive indicators for the assessment of the bioremediation
+effectiveness and the evaluation of soil quality. Six
+higher plant species (Secale cereale L., Lactuca sativa L.,
+Zea mays L., Lepidium sativum L., Triticumvulgare L., and
+Brassica oleracea L.) were used for bioassay tests based on
+seed germination and root elongation. The test species
+demonstrated varying sensitivity to soils after the different
+bioremediation processes, and the effects on test organisms
+well correlated with the soil contaminant concentration.
+A different approach was utilized by Hankard et al. 2004
+who investigated the response of two chemical-sensitive
+earthworm biomarkers, lysosomal membrane stability measured
+using the neutral red retention assay (NRR-T) and the
+total immune activity (TIA) assay, after in situ exposure to
+complexly contaminated field soils at three industrial sites
+as well as urban and rural controls. Significantly lower
+NRR-T and TIA were found in the contaminated soils when
+compared to the two uncontaminated soil controls, thus
+demonstrating their capability to successfully identify
+significant exposure and biological effects caused by the
+mixture of chemicals present.
+The effect of PAHs and heavy metals on the soil
+microbial activity and on some plants at an early stage of
+their development was investigated in pot and laboratory
+experiments by Maliszewska-Kordybach and Smreczak
+2003. The results indicated that the dehydrogenase activity
+appeared to be the most sensitive parameter to PAH
+contamination (Maliszewska-Kordybach and Smreczak
+2003). A high applicability of the dehydrogenase activity
+for soil ecotoxicological testing and as a sensitive index for
+measuring the toxicity of heavy metals and PAHs on
+microbial communities present in soils was also suggested
+by other authors (Rossel et al. 1997; Ihra et al. 2003).
+302 Appl Microbiol Biotechnol (2007) 76:287–308
+Scelza et al. 2007 investigated on a laboratory scale the
+fate of phenanthrene, when added to a fresh, agricultural
+soil with no history of PAH contamination and its influence
+on various functionally enzymatic and biological related
+properties. The biostimulation effect of compost and the
+bioaugmentation efficiency of a phenanthrene-degrading
+bacterial culture were also investigated. As a general
+response, the intrinsic soil’s enzymatic activity was not
+affected by exogenous microorganisms, whereas temporary
+and permanent changes were observed for several of the
+properties investigated in the presence of phenanthrene.
+In a screening for total petroleum hydrocarbons (TPH)
+and their toxicity to soil algal populations, microbial
+biomass, and soil enzymes (dehydrogenase and urease) in
+a long-term TPH-polluted site with reference to an adjacent
+unpolluted site, a severe inhibition was observed in the soil
+with a medium level of pollution as the result of a
+combined effect of more than one chemical on the tested
+parameters (Megharaj et al. 2000). The particular sensitivity
+to the presence of a pollutant of algal species suggested
+these latter as a useful pollution bioindicator.
+Very low levels of enzyme activities and a different
+bacterial diversity as assessed by DGGE profiles of the
+16 S rDNA genes were found in soils heavily polluted by
+PAHs as compared to an uncontaminated soil (Andreoni
+et al. 2004).
+In a recent review, Maila et al. 2005 have examined the
+potential, the performance, the variability, and the failure of
+several bioindicators including enzyme activities, seed
+germination, earthworm survival, and microorganisms or
+microbial bioluminescence. They concluded that at this
+stage, there is no general guarantee of successful utilization
+of biological activities as monitoring tools and these latter
+should be complemented by existing traditional monitoring
+tools. Indeed, “a number of methods can be used to assess
+the extent of hydrocarbon contamination in soil. However,
+the uniqueness or heterogeneity of the soil, the formation of
+toxic metabolites and the influence of technology contribute
+towards ‘poor’ bioindicator response of the different
+biological activities. Chemical and toxicity data do not
+always corroborate one another, and the results of each
+toxicity test in a battery do not always agree, due to
+each soil being unique in the response that it induces
+and each toxicity test unique in its ability to detect
+different contaminant levels in different soils” (Maila
+et al. 2005).
+When a qualitative and quantitative assessment of soil
+quality has to be determined for a relatively unknown
+situation, several properties must be measured. Usually, a
+minimum data set (MDS) of soil properties or indicators are
+selected that should be responsive, affordable, interpretable,
+internationally accepted, and ecologically significant
+(Doran and Parkin 1994).
+Criteria for including particular soil properties in the
+MDS depend on their relevance to the soil under examination.
+The choice can be made from international literature,
+and preliminary studies are needed to validate the selected
+MDS and to standardize the sampling method. According
+to the concept of soil quality, soil attributes that influence
+the capacity of soil to perform crop production or
+environmental functions and are sensitive to change in land
+use, management, or conservation practices must be
+included in MDS and evaluated simultaneously, using
+statistical procedures that account for correlation among
+soil attributes.
+As also underlined above, a critical aspect to be considered
+is the influence of soil components on the bioavailability of
+the organic contaminant to soil biota. A battery of bioindicators
+showing different sensitivity to contaminants could be
+used, and their response in a contaminated soil as compared to
+an uncontaminated one could be evaluated. Very often, the
+choice of the uncontaminated control site may affect the
+reliability of the investigation. Indeed, it can be difficult to
+recognize a real control soil, which should be the same soil
+lacking in only the addition of contaminants.
+Practical application of bioremediation technologies
+Because the scope of bioremediation is to decrease the
+concentration of organic pollutants to levels undetectable
+or, if measurable, lower than the limits established as safe
+or tolerable by regulatory agencies, several criteria must be
+met for it to be seriously considered as a practical method
+for treatment.
+These criteria can be summarized as follows: (a) microorganisms
+must exist, and they must have the necessary
+catabolic activity, (b) those organisms must have the
+capacity to transform the compound at reasonable rates
+and bring the concentrations to levels that meet regulatory
+standards, (c) products that are toxic at the concentrations
+likely to be achieved during remediation must not be
+produced, (d) chemicals that are markedly inhibitory to the
+biodegrading species must be absent at the site, (e) the
+target compound(s) must be bioavailable, (f) conditions at
+the site must exist or be made appropriate to sustain
+microbial growth or activity, and (g) the technology must
+be less or, at the worst, no more expensive than other
+alternative technologies.
+None of these criteria is negligible. If any one is not met,
+either the biodegradative approach could be rejected, or the
+cleanup goals could not be achieved.
+To meet all of these criteria and successfully implement
+a bioremediation technology, a multidisciplinary approach
+and basic knowledge in microbiology, biochemistry, physiology,
+ecology, and genetics are required. Moreover, much
+Appl Microbiol Biotechnol (2007) 76:287–308 303
+information about the factors controlling the growth and
+metabolism of microorganism in polluted environments is
+necessary because several of the above criteria are highly
+empirical rather than knowledge based.
+As outlined by Lovley 2003, “for bioremediation to
+advance as a science, there is a strong need for the
+comprehensive understanding of physiological properties
+that genome-enabled approaches can provide.” The continued
+generation of new information on the biochemistry,
+genetics, and molecular biology of microbial degradative
+pathways should expand opportunities for molecular environmental
+analysis. Examining the presence and the
+expression of the key genes involved in bioremediation
+can yield more information on microbial processes than
+analysis of 16 S rRNA sequences. However, the genes for
+bioremediation can be present but not expressed. Often,
+increased mRNA concentrations can be, at least, qualitatively
+associated with high rates of contaminant degradation.
+Highly sensitive methods that can detect mRNA for key
+bioremediation genes in cells are now available, and
+evaluation of the metabolic state of degrading microorganisms
+could help to identify modifications in the contaminated
+environments that might promote bioremediation.
+On the other hand, contributions by environmental
+chemists, engineers, hydrogeologists, and soil scientists are
+necessary to design a system well tailored to the contamination
+problem and possessing optimal environmental conditions
+for the action of the decontaminating organism.
+Furthermore, an economical evaluation of the overall bioremediation
+program by economists is also required to assess
+the use of the remediation technique as a competitive and
+alternative decontamination strategy.
+Once a bioremediation program has been designed, its
+feasibility can be evaluated by considering: (a) the applicability,
+strictly related to the properties of the contaminants
+and the environmental, biological, and hydrogeochemical
+features of the contaminated site, (b) the treatability studies
+to determine the potential for bioremediation, to define
+required operating and management practices, to design and
+implement the bioremediation plan, and to establish a
+suitable and effective monitoring program, (c) the possible
+limitations and drawbacks, and (d) the advantages linked
+to its potential of harnessing naturally occurring biogeochemical
+processes, immobilizing or destroying, partially or
+completely, contaminants.
+Only when all these conditions are met, a successful,
+productive, not-deleterious of soil quality, and costly convenient
+bioremediation process will occur.

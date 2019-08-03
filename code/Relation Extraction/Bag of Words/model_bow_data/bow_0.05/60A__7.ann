@@ -1,0 +1,77 @@
+T1	Property 424 442	sole carbon source
+T2	ReactionOrProcess 197 207	enrichment
+T3	ReactionOrProcess 130 140	adaptation
+T4	Nutrient 429 435	carbon
+T5	Property 669 680	contaminant
+T6	ReactionOrProcess 564 574	enrichment
+T7	ReactionOrProcess 482 492	adaptation
+T8	Substrate 756 768	hydrocarbons
+T9	Substrate 756 768	hydrocarbons
+T10	ReactionOrProcess 742 752	adaptation
+T11	Environment 1070 1079	sediments
+T12	Environment 1053 1079	oil-contaminated sediments
+T13	Environment 1053 1079	oil-contaminated sediments
+T14	Substrate 1031 1034	PAH
+T15	Property 948 954	colony
+T16	ReactionOrProcess 1180 1189	oxidation
+T17	ReactionOrProcess 1212 1221	oxidation
+T18	ReactionOrProcess 955 968	hybridization
+T19	ReactionOrProcess 1035 1049	mineralization
+R1	CarriedOn Arg1:T18 Arg2:T14
+T20	Property 1243 1249	colony
+T21	ReactionOrProcess 1250 1263	hybridization
+T22	ReactionOrProcess 1524 1533	extracted
+T23	ReactionOrProcess 1493 1506	hybridization
+T24	ReactionOrProcess 1672 1681	isolation
+T25	Environment 1890 1898	sediment
+T26	Substrate 2000 2011	hydrocarbon
+T27	ReactionOrProcess 2170 2180	adaptation
+T28	ReactionOrProcess 2288 2298	adaptation
+T29	ReactionOrProcess 2362 2372	adaptation
+T30	Substrate 2628 2638	salicylate
+T31	Substrate 2669 2676	toluene
+T32	Substrate 2615 2626	naphthalene
+T33	Substrate 2657 2663	xylene
+T34	Microbes 2757 2786	natural microbial populations
+T35	Substrate 2803 2815	hydrocarbons
+T36	Substrate 2901 2912	hydrocarbon
+T37	Substrate 2803 2815	hydrocarbons
+T38	Substrate 2790 2793	oil
+T39	ReactionOrProcess 2913 2923	catabolism
+T40	Environment 3280 3300	uncontaminated sites
+T41	Environment 3217 3254	hydrocarbon-contaminated environments
+T42	Substrate 3061 3073	hydrocarbons
+T43	Substrate 3061 3073	hydrocarbons
+T44	Property 3217 3241	hydrocarbon-contaminated
+T45	ReactionOrProcess 3047 3057	adaptation
+T46	Substrate 3362 3372	active oil
+T47	Substrate 3369 3372	oil
+T48	Substrate 3581 3584	oil
+T49	Substrate 3720 3723	oil
+T50	Environment 4097 4105	sediment
+T51	Environment 3839 3848	sediments
+T52	Substrate 4008 4011	oil
+T53	Substrate 4200 4203	oil
+T54	Substrate 4257 4260	oil
+T55	Microbes 4368 4390	heterotrophic bacteria
+T56	Environment 4409 4417	sediment
+T57	Property 4368 4381	heterotrophic
+T58	Environment 4664 4671	aquifer
+T59	Environment 4748 4756	aquifers
+T60	Substrate 4690 4710	aromatic hydrocarbon
+T61	Substrate 4699 4710	hydrocarbon
+T62	Property 4690 4698	aromatic
+T63	Environment 4867 4878	terrestrial
+T64	Environment 4879 4888	sediments
+T65	Environment 4867 4888	terrestrial sediments
+T66	Environment 4867 4888	terrestrial sediments
+T67	Environment 4970 4974	soil
+T68	Environment 4996 5003	aquifer
+T69	Substrate 5161 5193	genes encoding aromatic compound
+T70	Substrate 5176 5193	aromatic compound
+T71	Property 5176 5184	aromatic
+T72	ReactionOrProcess 5194 5204	catabolism
+T73	Environment 5311 5326	dystrophic lake
+T74	Environment 5322 5326	lake
+T75	Property 5343 5357	concentrations
+T76	ReactionOrProcess 5479 5489	adaptation

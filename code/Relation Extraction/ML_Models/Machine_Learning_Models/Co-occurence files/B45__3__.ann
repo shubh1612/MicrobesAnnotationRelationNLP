@@ -1,0 +1,76 @@
+T1	Environment 0 5	Water
+T2	Environment 73 82	sediments
+T3	Environment 92 97	water
+T4	Environment 274 283	sediments
+T5	Environment 295 303	Sediment
+T6	Environment 342 346	Soil
+T7	Environment 417 430	standard soil
+T8	Environment 504 509	water
+T9	Property 452 465	concentration
+T10	Microbes 554 573	enrichment cultures
+T11	Environment 607 615	sediment
+T12	Environment 655 660	water
+T13	Substrate 825 830	MgCl2
+T14	Substrate 755 758	KCl
+T15	ReactionOrProcess 926 931	redox
+T16	Nutrient 780 784	NaCl
+T17	Environment 1526 1529	sea
+T18	Environment 1530 1535	water
+T19	Substrate 1472 1477	MgCl2
+T20	ReactionOrProcess 1430 1441	enrichments
+T21	Nutrient 1457 1461	NaCl
+T22	Property 1553 1565	methanogenic
+T23	ReactionOrProcess 1644 1652	reducing
+T24	Property 1898 1910	sulfidogenic
+T25	ReactionOrProcess 1784 1796	Denitrifying
+T26	Nutrient 1836 1840	KNO3
+T27	Environment 1961 1969	sediment
+T28	Environment 2154 2159	water
+T29	Property 2093 2105	sulfidogenic
+T30	ReactionOrProcess 2272 2283	enrichments
+T31	Microbes 2712 2720	inoculum
+T32	Environment 2703 2711	sediment
+T33	Nutrient 2689 2695	carbon
+T34	Nutrient 2634 2651	electron acceptor
+T35	ReactionOrProcess 2740 2749	incubated
+T36	Substrate 2924 2931	benzene
+T37	Substrate 2933 2940	toluene
+T38	Substrate 2942 2954	ethylbenzene
+T39	Substrate 2967 2975	p-xylene
+T40	Property 3031 3044	concentration
+T41	Substrate 3057 3061	BTEX
+T42	Substrate 3109 3113	BTEX
+T43	ReactionOrProcess 3176 3187	enrichments
+T44	Nutrient 3138 3144	carbon
+T45	Microbes 3344 3352	inoculum
+T46	Environment 3292 3297	water
+T47	Environment 3316 3336	Arthur Kill sediment
+T48	Substrate 3244 3252	gasoline
+T49	Substrate 3236 3240	BTEX
+T50	ReactionOrProcess 3189 3200	Enrichments
+T51	ReactionOrProcess 3221 3232	degradation
+T52	Substrate 3468 3476	gasoline
+T53	Substrate 3411 3415	BTEX
+T54	Substrate 3504 3523	commercial gasoline
+T55	Substrate 3525 3529	BTEX
+R1	CarriedOn Arg1:T15 Arg2:T13
+R2	CarriedOn Arg1:T15 Arg2:T14
+R3	CarriedOn Arg1:T20 Arg2:T19
+R4	OccursIn Arg1:T20 Arg2:T17
+R5	OccursIn Arg1:T20 Arg2:T18
+R6	FoundIn Arg1:T31 Arg2:T32
+R7	CarriedOn Arg1:T43 Arg2:T42
+R8	FoundIn Arg1:T45 Arg2:T46
+R9	FoundIn Arg1:T45 Arg2:T47
+R10	ActOn Arg1:T45 Arg2:T48
+R11	ActOn Arg1:T45 Arg2:T49
+R12	CarriedOn Arg1:T50 Arg2:T45
+R13	CarriedOn Arg1:T51 Arg2:T45
+R14	CarriedOn Arg1:T50 Arg2:T48
+R15	CarriedOn Arg1:T50 Arg2:T49
+R16	CarriedOn Arg1:T51 Arg2:T48
+R17	CarriedOn Arg1:T51 Arg2:T49
+R18	OccursIn Arg1:T50 Arg2:T46
+R19	OccursIn Arg1:T50 Arg2:T47
+R20	OccursIn Arg1:T51 Arg2:T46
+R21	OccursIn Arg1:T51 Arg2:T47

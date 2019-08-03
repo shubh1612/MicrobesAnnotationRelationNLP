@@ -1,0 +1,16 @@
+T1	ReactionOrProcess 15 19	PLFA
+T2	ReactionOrProcess 151 155	PLFA
+T3	ReactionOrProcess 283 293	inoculated
+T4	ReactionOrProcess 361 365	PLFA
+T5	Property 656 669	Gram-negative	
+T6	Property 805 810	toxic
+T7	Property 874 887	gram-negative
+T8	ReactionOrProcess 949 953	PLFA
+T9	ReactionOrProcess 1354 1363	replicate
+T10	ReactionOrProcess 1214 1217	PCR	
+T11	Microbes 2067 2081	proteobacteria
+T12	Property 1852 1865	Gram-negative	
+T13	ReactionOrProcess 2134 2144	replicates
+T14	Property 3192 3205	gram-negative
+T15	Microbes 2791 2806	Exiguobacterium
+T16	Microbes 2811 2822	Planococcus

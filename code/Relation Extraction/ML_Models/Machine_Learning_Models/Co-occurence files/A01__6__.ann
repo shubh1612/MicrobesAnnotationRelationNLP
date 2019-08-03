@@ -1,0 +1,91 @@
+T1	Environment 221 229	sediment
+T2	Environment 207 212	water
+T3	Environment 33 53	subsurface sediments
+T4	Microbes 414 421	archaea
+T5	Microbes 637 651	Proteobacteria
+T6	Microbes 656 666	Firmicutes
+T7	Microbes 680 693	Euryarchaeota
+T8	Substrate 958 961	oil
+T9	Property 853 861	aromatic
+T10	Environment 1698 1716	deep-sea sediments
+T11	Substrate 1757 1760	oil
+T12	Substrate 1834 1837	oil
+T13	Environment 1969 1987	deep-sea sediments
+T14	Environment 2167 2187	subsurface sediments
+T15	Substrate 2000 2033	massive anthropogenic hydrocarbon
+T16	Substrate 2313 2324	hydrocarbon
+T17	Microbes 2710 2724	Proteobacteria
+T18	Microbes 2726 2736	Firmicutes
+T19	Environment 2635 2653	deep-sea sediments
+T20	Nutrient 2826 2832	carbon
+T21	Microbes 3085 3098	Bacteroidetes
+T22	Microbes 3100 3110	Firmicutes
+T23	Microbes 3116 3130	Actinobacteria
+T24	Environment 2952 2960	sediment
+T25	Environment 3571 3581	subsurface
+T26	Environment 3737 3740	Sea
+T27	Environment 3658 3676	deep-sea sediments
+T28	Nutrient 3931 3937	carbon
+T29	Microbes 4038 4052	Proteobacteria
+T30	Microbes 4098 4117	Deltaproteobacteria
+T31	Substrate 4366 4374	fluorene
+T32	Substrate 4389 4399	anthracene
+T33	Substrate 4376 4387	naphthalene
+T34	Substrate 4352 4364	ethylbenzene
+T35	Substrate 4401 4408	styrene
+T36	ReactionOrProcess 4238 4252	biodegradation
+T37	Environment 4589 4606	deep-sea sediment
+T38	Substrate 4733 4736	oil
+T39	Substrate 4518 4538	xenobiotic compounds
+T40	ReactionOrProcess 4651 4661	metabolize
+T41	ReactionOrProcess 4500 4514	biodegradation
+T42	Substrate 4846 4867	aromatic hydrocarbons
+T43	Substrate 4821 4828	alkanes
+T44	ReactionOrProcess 4913 4943	rapid and complete degradation
+T45	ReactionOrProcess 4793 4803	metabolize
+T46	Microbes 5116 5135	Gammaproteobacteria
+T47	Environment 5063 5069	marine
+T48	ReactionOrProcess 5236 5247	degradation
+T49	Microbes 5291 5314	Alcanivorax borkumensis
+T50	Environment 5353 5359	marine
+T51	Substrate 5400 5422	aliphatic hydrocarbons
+T52	Microbes 5524 5541	Oceanospirillales
+T53	Microbes 5705 5722	Oceanospirillales
+T54	Environment 5638 5647	oil plume
+T55	Microbes 5917 5934	Oceanospirillales
+T56	Microbes 5998 6021	Alcanivorax borkumensis
+T57	Environment 5851 5868	deep-sea sediment
+T58	Microbes 6081 6098	Oceanospirillales
+T59	Environment 6200 6209	oil plume
+T60	Substrate 6189 6203	deep water oil
+R1	FoundIn Arg1:T17 Arg2:T19
+R2	FoundIn Arg1:T18 Arg2:T19
+R3	FoundIn Arg1:T21 Arg2:T24
+R4	FoundIn Arg1:T22 Arg2:T24
+R5	FoundIn Arg1:T23 Arg2:T24
+R6	CarriedOn Arg1:T36 Arg2:T31
+R7	CarriedOn Arg1:T36 Arg2:T32
+R8	CarriedOn Arg1:T36 Arg2:T33
+R9	CarriedOn Arg1:T36 Arg2:T34
+R10	CarriedOn Arg1:T36 Arg2:T35
+R11	CarriedOn Arg1:T40 Arg2:T38
+R12	CarriedOn Arg1:T40 Arg2:T39
+R13	CarriedOn Arg1:T41 Arg2:T38
+R14	CarriedOn Arg1:T41 Arg2:T39
+R15	OccursIn Arg1:T40 Arg2:T37
+R16	OccursIn Arg1:T41 Arg2:T37
+R17	CarriedOn Arg1:T44 Arg2:T42
+R18	CarriedOn Arg1:T44 Arg2:T43
+R19	CarriedOn Arg1:T45 Arg2:T42
+R20	CarriedOn Arg1:T45 Arg2:T43
+R21	FoundIn Arg1:T46 Arg2:T47
+R22	CarriedOn Arg1:T48 Arg2:T46
+R23	OccursIn Arg1:T48 Arg2:T47
+R24	FoundIn Arg1:T49 Arg2:T50
+R25	ActOn Arg1:T49 Arg2:T51
+R26	FoundIn Arg1:T52 Arg2:T54
+R27	FoundIn Arg1:T53 Arg2:T54
+R28	FoundIn Arg1:T55 Arg2:T57
+R29	FoundIn Arg1:T56 Arg2:T57
+R30	FoundIn Arg1:T58 Arg2:T59
+R31	ActOn Arg1:T58 Arg2:T60

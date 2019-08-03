@@ -1,0 +1,83 @@
+T1	Environment 21 25	soil
+T2	Environment 30 37	aquifer
+T3	Substrate 49 57	gasoline
+T4	Substrate 49 70	gasoline hydrocarbons
+T5	Substrate 58 70	hydrocarbons
+T6	Substrate 49 70	gasoline hydrocarbons
+T7	Substrate 58 70	hydrocarbons
+T8	Environment 247 252	water
+T9	Substrate 157 171	major gasoline
+T10	Substrate 163 171	gasoline
+T11	Substrate 195 202	toluene
+T12	Substrate 207 213	xylene
+T13	Property 278 289	carcinogens
+T14	Property 236 243	soluble
+T15	Environment 317 322	water
+T16	Environment 448 459	groundwater
+T17	Environment 439 443	soil
+T18	Environment 484 488	soil
+T19	Substrate 425 433	gasoline
+T20	ReactionOrProcess 496 506	extraction
+T21	ReactionOrProcess 529 543	bioremediation
+T22	ReactionOrProcess 484 506	soil vapour extraction
+T23	ReactionOrProcess 470 482	air-sparging
+T24	Environment 603 621	contaminated sites
+T25	Environment 705 729	treatments separate soil
+T26	Environment 725 729	soil
+T27	Environment 716 729	separate soil
+T28	Property 734 746	contaminants
+T29	Environment 895 899	soil
+T30	Substrate 864 876	hydrocarbons
+T31	Substrate 864 876	hydrocarbons
+T32	Property 1050 1062	contaminants
+T33	Environment 1220 1238	contaminated sites
+T34	Property 1306 1316	pollutants
+T35	ReactionOrProcess 1158 1172	Bioremediation
+T36	Property 1534 1543	pollutant
+T37	ReactionOrProcess 1512 1526	mineralization
+T38	Property 1744 1754	pollutants
+T39	ReactionOrProcess 1732 1739	degrade
+T40	ReactionOrProcess 1806 1817	degradation
+T41	Environment 1946 1963	unsterilized soil
+T42	Environment 1959 1963	soil
+T43	Substrate 1893 1901	gasoline
+T44	ReactionOrProcess 1964 1974	inoculated
+T45	ReactionOrProcess 1875 1889	biodegradation
+R1	CarriedOn Arg1:T45 Arg2:T43
+T46	Environment 2109 2120	gas station
+T47	Substrate 2021 2029	gasoline
+T48	Substrate 2182 2189	ethanol
+T49	Substrate 2157 2165	gasoline
+T50	Substrate 2147 2165	Brazilian gasoline
+T51	ReactionOrProcess 2292 2307	chromatographic
+T52	Environment 2322 2326	soil
+T53	Substrate 2360 2368	gasoline
+T54	Environment 2410 2421	Soil sample
+T55	Environment 2410 2422	Soil samples
+T56	Environment 2410 2414	Soil
+T57	ReactionOrProcess 2482 2494	hand digging
+T58	Environment 2510 2514	soil
+T59	ReactionOrProcess 2633 2647	biodegradation
+T60	Environment 2666 2670	soil
+T61	ReactionOrProcess 2693 2699	sieved
+T62	Environment 2908 2913	water
+T63	Property 2908 2930	water holding capacity
+T64	Environment 3009 3013	soil
+T65	Microbes 3368 3379	alcaligenes
+T66	Microbes 3384 3405	Klebsiella pneumoniae
+T67	Microbes 3334 3354	Burkholderia cepacia
+T68	Microbes 3356 3379	Pseudomonas alcaligenes
+T69	Microbes 3186 3204	Pseudomonas putida
+T70	Environment 3286 3290	soil
+T71	Substrate 3310 3318	gasoline
+T72	Property 3544 3550	purity
+T73	Nutrient 3470 3474	agar
+T74	Microbes 3597 3605	inoculum
+T75	Environment 3581 3591	microcosms
+T76	Microbes 3768 3776	inoculum
+T77	ReactionOrProcess 3857 3879	incubated with shaking
+T78	ReactionOrProcess 3735 3745	incubation
+T79	ReactionOrProcess 3857 3866	incubated
+T80	Microbes 3975 3983	inoculum
+T81	Environment 4052 4056	soil
+T82	Property 3929 3945	dry weight curve

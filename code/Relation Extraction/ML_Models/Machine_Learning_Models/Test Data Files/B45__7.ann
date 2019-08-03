@@ -1,0 +1,59 @@
+T1 Substrate 167 179 hydrocarbons
+T2 Environment 293 302 sediments
+T3 ReactionOrProcess 270 281 degradation
+T4 Substrate 651 658 benzene
+T5 ReactionOrProcess 687 695 degraded
+T6 ReactionOrProcess 448 459 degradation
+T7 ReactionOrProcess 502 513 utilization
+T8 Nutrient 523 529 carbon
+T9 Substrate 755 762 benzene
+T10 ReactionOrProcess 806 817 enrichments
+T11 ReactionOrProcess 741 751 inhibition
+T12 ReactionOrProcess 763 774 utilization
+T13 Substrate 904 911 benzene
+T14 ReactionOrProcess 882 903 anaerobically degrade
+T15 Substrate 1084 1091 benzene
+T16 ReactionOrProcess 1066 1080 mineralization
+T17 Property 1177 1189 methanogenic
+T18 Substrate 1351 1358 benzene
+T19 Property 1468 1480 methanogenic
+T20 Property 1333 1347 concentrations
+T21 ReactionOrProcess 1371 1382 enrichments
+T22 Environment 1821 1826 water
+T23 Substrate 1663 1667 BTEX
+T24 Substrate 1758 1776 aromatic compounds
+T25 ReactionOrProcess 1668 1676 degraded
+T26 Nutrient 1802 1808 carbon
+T27 Nutrient 1622 1639 electron acceptor
+T28 Environment 1904 1909 water
+T29 Substrate 1957 1961 BTEX
+T30 ReactionOrProcess 1910 1920 enrichment
+T31 Environment 2190 2200 microcosms
+T32 Substrate 2176 2180 BTEX
+T33 Nutrient 2100 2117 electron acceptor
+T34 Substrate 2278 2285 nitrate
+T35 ReactionOrProcess 2509 2521 denitrifying
+T36 ReactionOrProcess 2470 2481 utilization
+T37 Substrate 2689 2697 gasoline
+T38 Substrate 2628 2632 BTEX
+T39 Substrate 2708 2712 BTEX
+T40 ReactionOrProcess 2613 2624 Degradation
+T41 Substrate 2790 2798 gasoline
+R1 OccursIn Arg1:T3 Arg2:T2
+R2 CarriedOn Arg1:T5 Arg2:T4
+R3 CarriedOn Arg1:T6 Arg2:T4
+R4 CarriedOn Arg1:T7 Arg2:T4
+R5 CarriedOn Arg1:T10 Arg2:T9
+R6 CarriedOn Arg1:T11 Arg2:T9
+R7 CarriedOn Arg1:T12 Arg2:T9
+R8 CarriedOn Arg1:T14 Arg2:T13
+R9 CarriedOn Arg1:T16 Arg2:T15
+R10 CarriedOn Arg1:T21 Arg2:T18
+R11 CarriedOn Arg1:T25 Arg2:T23
+R12 CarriedOn Arg1:T25 Arg2:T24
+R13 OccursIn Arg1:T25 Arg2:T22
+R14 CarriedOn Arg1:T30 Arg2:T29
+R15 OccursIn Arg1:T30 Arg2:T28
+R16 CarriedOn Arg1:T40 Arg2:T37
+R17 CarriedOn Arg1:T40 Arg2:T38
+R18 CarriedOn Arg1:T40 Arg2:T39

@@ -1,0 +1,60 @@
+T1	ReactionOrProcess 52 63	degradation
+T2	Substrate 65 72	Benzene
+T3	ReactionOrProcess 73 87	mineralization
+T4	Substrate 178 185	benzene
+T5	ReactionOrProcess 347 361	biodegradation
+T6	Microbes 571 590	enrichment cultures
+T7	Environment 636 655	different sediments
+T8	Substrate 563 567	BTEX
+T9	ReactionOrProcess 548 559	degradation
+T10	Environment 823 843	anaerobic conditions
+T11	Substrate 802 806	BTEX
+T12	ReactionOrProcess 787 798	degradation
+T13	Environment 879 888	sediments
+T14	Environment 916 926	microcosms
+T15	ReactionOrProcess 964 974	incubation
+T16	Nutrient 1051 1069	electron acceptors
+T17	Microbes 1086 1105	enrichment cultures
+T18	Environment 1112 1120	sediment
+T19	Environment 1223 1231	sediment
+T20	Substrate 1274 1278	BTEX
+T21	ReactionOrProcess 1169 1177	reducing
+T22	ReactionOrProcess 1279 1293	biodegradation
+T23	Nutrient 1252 1270	electron acceptors
+T24	Environment 1380 1388	sediment
+T25	Environment 1560 1564	Lake
+T26	Environment 1410 1416	marine
+T27	Environment 1595 1599	Lake
+T28	Environment 1827 1833	waters
+T29	Substrate 1754 1763	Petroleum
+T30	Environment 1923 1927	Lake
+T31	Substrate 1996 2005	petroleum
+T32	Environment 2397 2401	Lake
+T33	Environment 2408 2425	oligotrophic lake
+T34	Property 2539 2549	pollutants
+T35	Microbes 2588 2607	enrichment cultures
+T36	Environment 2695 2703	sediment
+T37	Environment 2861 2869	sediment
+T38	Environment 2895 2900	water
+T39	Environment 2985 2994	sediments
+R1	CarriedOn Arg1:T3 Arg2:T2
+R2	FoundIn Arg1:T6 Arg2:T7
+R3	ActOn Arg1:T6 Arg2:T8
+R4	CarriedOn Arg1:T9 Arg2:T6
+R5	CarriedOn Arg1:T9 Arg2:T8
+R6	OccursIn Arg1:T9 Arg2:T7
+R7	CarriedOn Arg1:T12 Arg2:T11
+R8	OccursIn Arg1:T12 Arg2:T10
+R9	OccursIn Arg1:T15 Arg2:T13
+R10	OccursIn Arg1:T15 Arg2:T14
+R11	FoundIn Arg1:T17 Arg2:T18
+R12	FoundIn Arg1:T17 Arg2:T19
+R13	ActOn Arg1:T17 Arg2:T20
+R14	CarriedOn Arg1:T21 Arg2:T17
+R15	CarriedOn Arg1:T22 Arg2:T17
+R16	CarriedOn Arg1:T21 Arg2:T20
+R17	CarriedOn Arg1:T22 Arg2:T20
+R18	OccursIn Arg1:T21 Arg2:T18
+R19	OccursIn Arg1:T21 Arg2:T19
+R20	OccursIn Arg1:T22 Arg2:T18
+R21	OccursIn Arg1:T22 Arg2:T19

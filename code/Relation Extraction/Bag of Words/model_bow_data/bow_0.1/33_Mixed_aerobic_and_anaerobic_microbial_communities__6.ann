@@ -1,0 +1,121 @@
+T1	Environment 198 209	groundwater
+T2	Environment 90 117	strict anaerobic conditions
+T3	Environment 70 80	microcosms
+T4	Environment 97 117	anaerobic conditions
+T5	Substrate 251 258	benzene
+T6	ReactionOrProcess 44 55	degradation
+T7	ReactionOrProcess 259 270	degradation
+T8	ReactionOrProcess 34 55	anaerobic degradation
+T9	Nutrient 215 221	oxygen
+R1	CarriedOn Arg1:T6 Arg2:T5
+R2	CarriedOn Arg1:T7 Arg2:T5
+R3	CarriedOn Arg1:T8 Arg2:T5
+T10	Microbes 554 565	Polaromonas
+T11	Substrate 474 495	aromatic hydrocarbons
+T12	Substrate 376 383	benzene
+T13	Substrate 474 495	aromatic hydrocarbons
+T14	Substrate 727 738	naphthalene
+T15	Substrate 483 495	hydrocarbons
+T16	Substrate 483 495	hydrocarbons
+T17	Property 384 393	degraders
+T18	Property 474 482	aromatic
+T19	ReactionOrProcess 459 470	degradation
+R4	CarriedOn Arg1:T19 Arg2:T10
+R5	CarriedOn Arg1:T19 Arg2:T11
+R6	CarriedOn Arg1:T19 Arg2:T13
+R7	CarriedOn Arg1:T19 Arg2:T14
+R8	CarriedOn Arg1:T19 Arg2:T15
+R9	CarriedOn Arg1:T19 Arg2:T16
+T20	Microbes 1008 1032	Rhodococcus erythropolis
+T21	Microbes 987 1001	Pseudomonas sp
+T22	Environment 815 826	groundwater
+T23	Environment 955 965	microcosms
+T24	Substrate 763 770	benzene
+T25	Nutrient 794 800	carbon
+T26	Substrate 1183 1190	benzene
+T27	ReactionOrProcess 1175 1182	degrade
+T28	ReactionOrProcess 1191 1202	aerobically
+T29	Substrate 1356 1363	benzene
+T30	Property 1298 1307	dissolved
+T31	Property 1280 1294	concentrations
+T32	ReactionOrProcess 1341 1352	degradation
+T33	Nutrient 1308 1314	oxygen
+R10	CarriedOn Arg1:T32 Arg2:T29
+T34	Substrate 1365 1372	Benzene
+T35	ReactionOrProcess 1373 1387	biodegradation
+T36	Nutrient 1461 1467	oxygen
+T37	Substrate 1522 1528	phenol
+T38	Property 1699 1713	concentrations
+T39	Nutrient 1692 1698	oxygen
+T40	Microbes 1928 1939	Polaromonas
+T41	Substrate 2149 2156	benzene
+T42	Substrate 1812 1819	Benzene
+T43	Substrate 2106 2112	phenol
+T44	ReactionOrProcess 2060 2069	oxidation
+T45	ReactionOrProcess 2135 2143	degraded
+T46	ReactionOrProcess 1820 1834	mineralization
+T47	Nutrient 2036 2042	oxygen
+R11	CarriedOn Arg1:T46 Arg2:T41
+R12	CarriedOn Arg1:T46 Arg2:T43
+T48	Environment 2335 2344	sediments
+T49	Environment 2438 2447	sediments
+T50	Environment 2329 2334	sandy
+T51	Environment 2329 2344	sandy sediments
+T52	Environment 2329 2344	sandy sediments
+T53	Property 2329 2334	sandy
+T54	Nutrient 2290 2296	oxygen
+T55	Environment 2553 2565	groundwaters
+T56	Environment 2770 2790	anaerobic conditions
+T57	Substrate 2533 2540	benzene
+T58	Substrate 2756 2763	benzene
+T59	Substrate 2716 2724	benzenes
+T60	Substrate 2464 2468	BTEX
+T61	ReactionOrProcess 2742 2750	degraded
+T62	ReactionOrProcess 2665 2676	degradation
+R13	CarriedOn Arg1:T62 Arg2:T59
+T63	Environment 2903 2910	aquifer
+T64	Microbes 3101 3123	Comamonas testosteroni
+T65	Substrate 3327 3337	methanogen
+T66	Property 3286 3299	concentration
+T67	Nutrient 3215 3221	oxygen
+T68	Microbes 3666 3680	Comamonadaceae
+T69	Environment 3514 3525	groundwater
+T70	Substrate 3616 3627	methanogens
+T71	Property 3543 3552	dissolved
+T72	Property 3560 3573	concentration
+T73	Property 3373 3379	stable
+T74	Property 3597 3615	strictly anaerobic
+T75	Nutrient 3553 3559	oxygen
+T76	Microbes 3802 3809	Archaea
+T77	Microbes 3739 3750	Polaromonas
+T78	Substrate 3951 3960	crude oil
+T79	Substrate 3920 3932	hydrocarbons
+T80	Substrate 3828 3839	methanogens
+T81	Substrate 3920 3932	hydrocarbons
+T82	Substrate 3957 3960	oil
+T83	ReactionOrProcess 3905 3916	degradation
+T84	ReactionOrProcess 3895 3916	anaerobic degradation
+R14	CarriedOn Arg1:T83 Arg2:T78
+R15	CarriedOn Arg1:T83 Arg2:T79
+R16	CarriedOn Arg1:T83 Arg2:T81
+R17	CarriedOn Arg1:T83 Arg2:T82
+R18	CarriedOn Arg1:T84 Arg2:T78
+R19	CarriedOn Arg1:T84 Arg2:T79
+R20	CarriedOn Arg1:T84 Arg2:T81
+R21	CarriedOn Arg1:T84 Arg2:T82
+T85	Environment 4030 4037	aquifer
+T86	Property 4005 4029	hydrocarbon-contaminated
+T87	Environment 4072 4083	groundwater
+T88	Microbes 4200 4210	consortium
+T89	Property 4170 4182	methanogenic
+T90	Property 4170 4182	methanogenic
+T91	Microbes 4277 4290	Bacteroidetes
+T92	Microbes 4298 4339	benzene-mineralizing anaerobic consortium
+T93	Microbes 4329 4339	consortium
+T94	Substrate 4469 4480	methanogens
+T95	Property 4439 4448	degraders
+T96	Nutrient 4403 4409	carbon
+T97	Environment 4645 4656	Groundwater
+T98	Substrate 4769 4776	benzene
+T99	ReactionOrProcess 4754 4765	degradation
+R22	CarriedOn Arg1:T99 Arg2:T98

@@ -1,0 +1,32 @@
+T1	Environment 29 39	microcosms
+T2	ReactionOrProcess 131 141	incubation
+T3	ReactionOrProcess 78 105	significant oil degradation
+T4	Substrate 412 415	oil
+T5	ReactionOrProcess 428 459	limited hydrocarbon degradation
+T6	Nutrient 361 369	nitrogen
+T7	Nutrient 374 384	phosphorus
+T8	Substrate 476 487	hydrocarbon
+T9	Property 488 498	pollutants
+T10	ReactionOrProcess 667 692	extensive oil degradation
+T11	Environment 931 940	microcosm
+T12	ReactionOrProcess 717 752	significant hydrocarbon degradation
+T13	ReactionOrProcess 1009 1032	hydrocarbon degradation
+T14	ReactionOrProcess 1213 1227	biodegradation
+T15	Environment 1366 1372	waters
+T16	Environment 1735 1743	seawater
+T17	Environment 1799 1802	Sea
+T18	Substrate 1648 1651	oil
+T19	Substrate 1721 1724	oil
+T20	Substrate 1776 1779	oil
+T21	ReactionOrProcess 1631 1642	enrichments
+T22	ReactionOrProcess 1922 1952	marine hydrocarbon degradation
+R1	OccursIn Arg1:T2 Arg2:T1
+R2	OccursIn Arg1:T3 Arg2:T1
+R3	CarriedOn Arg1:T5 Arg2:T4
+R4	CarriedOn Arg1:T10 Arg2:T8
+R5	OccursIn Arg1:T12 Arg2:T11
+R6	CarriedOn Arg1:T21 Arg2:T18
+R7	CarriedOn Arg1:T21 Arg2:T19
+R8	CarriedOn Arg1:T21 Arg2:T20
+R9	OccursIn Arg1:T21 Arg2:T16
+R10	OccursIn Arg1:T21 Arg2:T17

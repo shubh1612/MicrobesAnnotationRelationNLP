@@ -1,0 +1,154 @@
+T1 Microbes 7 10 X7B
+T2 Substrate 46 49 BTH
+T3 Substrate 62 68 sulfur
+T4 ReactionOrProcess 146 155 extracted
+T5 Substrate 467 470 BTH
+T6 Substrate 576 579 BTH
+T7 Microbes 677 690 M. goodii X7B
+T8 Substrate 687 716 X7B.Petroleum-based fuel oils
+T9 Substrate 815 825 thiophenes
+T10 Substrate 726 734 gasoline
+T11 Substrate 739 749 diesel oil
+T12 Substrate 837 841 DBTs
+T13 Substrate 827 831 BTHs
+T14 Property 649 673 organic sulfur compounds
+T15 Property 779 803 organic sulfur compounds
+T16 ReactionOrProcess 626 637 Degradation
+T17 Microbes 868 871 X7B
+T18 Substrate 915 918 DBT
+T19 Substrate 929 935 sulfur
+T20 Property 879 903 organic sulfur compounds
+T21 Microbes 961 974 M. goodii X7B
+T22 Substrate 1016 1022 sulfur
+T23 Property 1036 1049 concentration
+T24 Microbes 1453 1456 X7B
+T25 Microbes 1426 1429 X7B
+T26 Substrate 1153 1156 DBT
+T27 Substrate 1166 1169 DBT
+T28 Substrate 1171 1174 BTH
+T29 Substrate 1394 1400 sulfur
+T30 Substrate 1541 1547 sulfur
+T31 Property 1521 1526 toxic
+T32 ReactionOrProcess 1323 1333 incubation
+T33 Microbes 1706 1709 X7B
+T34 Substrate 1606 1612 sulfur
+T35 ReactionOrProcess 1666 1674 degraded
+T36 ReactionOrProcess 1587 1596 reduction
+T37 Microbes 1722 1735 M. goodii X7B
+T38 ReactionOrProcess 1809 1824 desulfurization
+T39 Microbes 1864 1867 X7B
+T40 Substrate 1935 1941 sulfur
+T41 Nutrient 1834 1841 glucose
+T42 Microbes 1984 1997 M. goodii X7B
+T43 Substrate 1972 1980 gasoline
+T44 Substrate 2041 2049 gasoline
+T45 ReactionOrProcess 2050 2065 desulfurization
+T46 ReactionOrProcess 1950 1968 Biodesulfurization
+T47 Microbes 2184 2197 M. goodii X7B
+T48 Substrate 2269 2277 gasoline
+T49 Substrate 2215 2226 hydrocarbon
+T50 Substrate 2231 2237 sulfur
+T51 Substrate 2307 2315 gasoline
+T52 Substrate 2457 2460 oil
+T53 Substrate 2401 2407 sulfur
+T54 ReactionOrProcess 2388 2397 depletion
+T55 ReactionOrProcess 2283 2303 GC-AED chromatograms
+T56 Substrate 2499 2507 gasoline
+T57 Substrate 2557 2575 untreated gasoline
+T58 Substrate 2588 2599 hydrocarbon
+T59 Substrate 2691 2702 hydrocarbon
+T60 Microbes 2812 2825 M. goodii X7B
+T61 Substrate 2761 2769 gasoline
+T62 Substrate 2739 2745 sulfur
+T63 ReactionOrProcess 2857 2866 reduction
+T64 Substrate 3081 3089 gasoline
+T65 Substrate 3059 3065 sulfur
+T66 ReactionOrProcess 3014 3029 desulfurization
+T67 ReactionOrProcess 3187 3193 washed
+T68 ReactionOrProcess 3124 3139 desulfurization
+T69 Nutrient 3210 3214 NaCl
+T70 Substrate 3235 3243 gasoline
+T71 Property 3430 3438 residual
+T72 ReactionOrProcess 3439 3454 desulfurization
+T73 Microbes 3544 3547 X7B
+T74 Property 3507 3515 residual
+T75 Microbes 3566 3579 M. goodii X7B
+T76 Substrate 3709 3717 gasoline
+T77 Substrate 3669 3672 oil
+T78 Substrate 3687 3693 sulfur
+T79 ReactionOrProcess 3591 3600 incubated
+T80 ReactionOrProcess 3776 3791 desulfurization
+T81 Substrate 3875 3881 sulfur
+T82 ReactionOrProcess 3984 3993 reduction
+T83 Substrate 4006 4009 BTH
+T84 ReactionOrProcess 4010 4025 desulfurization
+R1 ActOn Arg1:T1 Arg2:T2
+R2 ActOn Arg1:T1 Arg2:T3
+R3 CarriedOn Arg1:T4 Arg2:T1
+R4 CarriedOn Arg1:T4 Arg2:T2
+R5 CarriedOn Arg1:T4 Arg2:T3
+R9 ActOn Arg1:T7 Arg2:T9
+R10 ActOn Arg1:T7 Arg2:T10
+R11 ActOn Arg1:T7 Arg2:T11
+R12 ActOn Arg1:T7 Arg2:T12
+R13 ActOn Arg1:T7 Arg2:T13
+R14 CarriedOn Arg1:T16 Arg2:T7
+R15 CarriedOn Arg1:T16 Arg2:T8
+R17 CarriedOn Arg1:T16 Arg2:T10
+R18 CarriedOn Arg1:T16 Arg2:T11
+R22 ActOn Arg1:T17 Arg2:T18
+R23 ActOn Arg1:T17 Arg2:T19
+R25 ActOn Arg1:T21 Arg2:T22
+R28 ActOn Arg1:T24 Arg2:T26
+R29 ActOn Arg1:T24 Arg2:T27
+R30 ActOn Arg1:T24 Arg2:T28
+R31 ActOn Arg1:T24 Arg2:T29
+R32 ActOn Arg1:T24 Arg2:T30
+R33 ActOn Arg1:T25 Arg2:T26
+R34 ActOn Arg1:T25 Arg2:T27
+R35 ActOn Arg1:T25 Arg2:T28
+R36 ActOn Arg1:T25 Arg2:T29
+R37 ActOn Arg1:T25 Arg2:T30
+R38 CarriedOn Arg1:T32 Arg2:T24
+R39 CarriedOn Arg1:T32 Arg2:T25
+R43 CarriedOn Arg1:T32 Arg2:T29
+R45 ActOn Arg1:T33 Arg2:T34
+R46 CarriedOn Arg1:T35 Arg2:T33
+R47 CarriedOn Arg1:T36 Arg2:T33
+R48 CarriedOn Arg1:T35 Arg2:T34
+R49 CarriedOn Arg1:T36 Arg2:T34
+R50 CarriedOn Arg1:T38 Arg2:T37
+R51 ActOn Arg1:T39 Arg2:T40
+R52 ActOn Arg1:T42 Arg2:T43
+R53 ActOn Arg1:T42 Arg2:T44
+R54 CarriedOn Arg1:T45 Arg2:T42
+R55 CarriedOn Arg1:T46 Arg2:T42
+R56 CarriedOn Arg1:T45 Arg2:T43
+R57 CarriedOn Arg1:T45 Arg2:T44
+R58 CarriedOn Arg1:T46 Arg2:T43
+R59 CarriedOn Arg1:T46 Arg2:T44
+R60 ActOn Arg1:T47 Arg2:T48
+R61 ActOn Arg1:T47 Arg2:T49
+R62 ActOn Arg1:T47 Arg2:T50
+R63 CarriedOn Arg1:T54 Arg2:T51
+R64 CarriedOn Arg1:T54 Arg2:T52
+R65 CarriedOn Arg1:T54 Arg2:T53
+R66 CarriedOn Arg1:T55 Arg2:T51
+R67 CarriedOn Arg1:T55 Arg2:T52
+R68 CarriedOn Arg1:T55 Arg2:T53
+R69 ActOn Arg1:T60 Arg2:T61
+R70 ActOn Arg1:T60 Arg2:T62
+R71 CarriedOn Arg1:T63 Arg2:T60
+R72 CarriedOn Arg1:T63 Arg2:T61
+R73 CarriedOn Arg1:T63 Arg2:T62
+R74 CarriedOn Arg1:T66 Arg2:T64
+R75 CarriedOn Arg1:T66 Arg2:T65
+R77 ActOn Arg1:T75 Arg2:T76
+R78 ActOn Arg1:T75 Arg2:T77
+R79 ActOn Arg1:T75 Arg2:T78
+R80 CarriedOn Arg1:T79 Arg2:T75
+R81 CarriedOn Arg1:T79 Arg2:T76
+R82 CarriedOn Arg1:T79 Arg2:T77
+R83 CarriedOn Arg1:T79 Arg2:T78
+R84 CarriedOn Arg1:T82 Arg2:T81
+R85 CarriedOn Arg1:T84 Arg2:T83

@@ -1,0 +1,707 @@
+B91
+Bethanie R Edwards1, Christopher M Reddy1
+, Richard Camilli2,
+Catherine A Carmichael1, Krista Longnecker1 and
+Benjamin A S Van Mooy1
+1 Department of Marine Chemistry and Geochemistry, Woods Hole Oceanographic Institution,
+Woods Hole, USA
+2 Department of Applied Ocean Physics and Engineering, Woods Hole Oceanographic
+Institution, Woods Hole, USA
+E-mail: bvanmooy@whoi.edu
+Received 18 April 2011
+Accepted for publication 14 July 2011
+Published 3 August 2011
+Online at stacks.iop.org/ERL/6/035301
+Abstract
+The Deepwater Horizon oil spill was one of the largest oil spills in history, and the fate of this
+oil within the Gulf of Mexico ecosystem remains to be fully understood. The goal of this
+study—conducted in mid-June of 2010, approximately two months after the oil spill
+began—was to understand the key role that microbes would play in the degradation of the oil in
+the offshore oligotrophic surface waters near the Deepwater Horizon site. As the utilization of
+organic carbon by bacteria in the surface waters of the Gulf had been previously shown to be
+phosphorus limited, we hypothesized that bacteria would be unable to rapidly utilize the oil
+released from the Macondo well. Although phosphate was scarce throughout the sampling
+region and microbes exhibited enzymatic signs of phosphate stress within the oil slick,
+microbial respiration within the slick was enhanced by approximately a factor of five. An
+incubation experiment to determine hydrocarbon degradation rates confirmed that a large
+fraction of this enhanced respiration was supported by hydrocarbon degradation. Extrapolating
+our observations to the entire area of the slick suggests that microbes had the potential to
+degrade a large fraction of the oil as it arrived at the surface from the well. These observations
+decidedly refuted our hypothesis. However, a concomitant increase in microbial abundance or
+biomass was not observed in the slick, suggesting that microbial growth was nutrient limited;
+incubations amended with nutrients showed rapid increases in cell number and biomass, which
+supported this conclusion. Our study shows that the dynamic microbial community of the Gulf
+of Mexico supported remarkable rates of oil respiration, despite a dearth of dissolved nutrients.
+Keywords: microbial respiration, Deepwater Horizon, oil spill, hydrocarbon degradation, Gulf
+of Mexico, petroleum hydrocarbon
+1. Introduction
+On 20 April 2010 the Deepwater Horizon drilling platform
+experienced an explosion which resulted in 11 fatalities and an
+uncontrolled release of oil from the Macondo well at a depth
+of 1544 m. Ultimately, over 600 million liters of oil were
+released (Deepwater Horizon Unified Command 2010). Oil
+released from the wellhead ascended through the water column
+forming both a hydrocarbon plume at approximately 1100 m
+and a vast slick on the surface. Several reports have focused on
+the microbial degradation of hydrocarbons in the deep plume
+(Camilli et al 2010, Hazen et al 2010, Valentine et al 2010,
+1748-9326/11/035301+09$33.00 1 © 2011 IOP Publishing Ltd Printed in the UK
+Environ. Res. Lett. 6 (2011) 035301 B R Edwards et al
+Table 1. Core data from stations occupied in June 2010 near the Deepwater Horizon (DWH) site. A dashed line (—) denotes that samples
+were not collected for that particular measurement. The parameters measured are abbreviated as follows: P = phosphate, R = respiration,
+RI = respiration with inorganic nutrient amendments, PL = polar membrane lipid concentrations, PLI = polar membrane lipid
+concentrations in inorganic nutrient amendments, E = enzyme activity (lipase and alkaline phosphatase), H = hydrocarbon degradation
+incubations, C = cell counts, CI = cell counts in inorganic nutrient amendments. Station names are also given for reference to our previously
+published work from this cruise (Camilli et al 2010).
+Station name
+Station name
+(Camilli et al
+2010)
+Latitude
+(
+◦N)
+Longitude
+(
+◦W)
+Distance
+from well
+(km)
+Date of
+sampling
+Phosphate
+(nmol l−1)
+Water
+temp (◦C)
+Parameters
+measured
+DWH DWH 28.74 88.39 0 — — — —
+O-1 DT1 28.22 87.44 109 06/18/10 — — R, E
+O-2 DT2 28.35 88.38 43.0 06/18/10 — — R
+O-3 EN01 28.37 88.39 41.0 06/19/10 8.89 28.5 P, PL, E, C
+O-4 EN02 28.60 88.54 23.4 06/19/10 — 27.7 PL, E, C
+O-5 EN03 28.63 88.56 22.3 06/20/10 11.3 27.8 P, C
+O-6 EN04 28.67 88.58 22.5 06/20/10 5.33 26.8 P, C
+O-7 EN21 28.36 88.39 41.6 06/28/10 15.4 29.6 P, R, PL, E, C
+I-1 EN05 28.74 88.41 4.16 06/20/10 — 28.2 R, RI, H, PL, E, C, CI
+I-2 EN07 28.75 88.38 1.84 06/21/10 12.1 29.3 P, PL, E, C
+I-3 EN08 28.73 88.35 1.69 06/21/10 9.67 29.4 P, PL, C
+I-4 EN10 28.74 88.43 6.62 06/22/10 — 29.9 R, RI, PL, PLI, E, CI
+I-5 EN20 28.73 88.39 2.09 06/28/10 10.7 29.6 P, R, RI, PL, E
+Kessler et al 2011), but the goal of this study was to examine
+the microbial degradation of oil in the surface waters in close
+proximity to the Deepwater Horizon site.
+It is well documented that microbes can respond quickly to
+the addition of petroleum hydrocarbons, aiding in degradation
+and remediation (Cappello et al 2007 and references therein;
+Prince 2010 and references therein). However, while surface
+waters on the continental shelf of the Gulf of Mexico and
+the Mississippi river plume are rich in inorganic nutrients, the
+offshore waters of the Gulf of Mexico near the Deepwater
+Horizon site are oligotrophic. Bacterial production and
+respiration of organic carbon in this region have been observed
+to be limited by the availability of phosphate, an essential
+nutrient (Pomeroy et al 1995). In amendment experiments
+conducted by Pomeroy et al (1995) in the same region of the
+Gulf of Mexico as the Deepwater Horizon spill, microbes were
+unable to respire exogenous glucose without the addition of
+inorganic nutrients. These observations would predict that the
+microbial response to the oil from the Macondo well would
+be minimal, especially since the hydrophobic compounds
+that compose oil (Peters et al 2005 and references therein)
+play a comparatively less essential role in cellular physiology
+than the simple sugar glucose. Additionally, it has been
+recognized for several decades that the availability of nutrients
+can markedly affect the rate of microbial oil degradation (Atlas
+1981, Leahy and Colwell 1990, Prince 2010 and references
+therein). Thus we hypothesized that the microbial community
+of the oligotrophic offshore surface waters of the Gulf of
+Mexico would be unable to rapidly respond to the large pulse of
+highly reduced organic carbon from the oil spill due to intense
+nutrient limitation.
+Surface-water samples were collected at twelve stations
+near the Deepwater Horizon site in mid-June of 2010, seven
+stations outside the slick and five stations within the slick.
+These stations are the same as those reported in our previous
+publications on the subsurface plume of hydrocarbons (Camilli
+et al 2010, Reddy et al 2011; table 1). Community respiration
+rates, lipase enzyme activities, microbial abundances, and
+microbial biomass were examined at stations inside and
+outside of the surface oil slick to better constrain how
+the microbial community responded to the introduction of
+crude oil. Alkaline phosphatase activities and phosphate
+concentrations were determined in situ to assess phosphate
+limitation. Inorganic amendment experiments were also
+conducted to test whether community respiration and microbial
+cell production in the slick was limited by nutrients as we
+had hypothesized. Additionally hydrocarbon degradation rates
+were determined in incubations, which in conjunction with
+community respiration rates, were used to further constrain the
+fate of oil released to surface waters.
+2. Methodology
+2.1. Sampling
+Our cruise aboard the R/V Endeavor was conducted between
+19 and 28 June 2010 (table 1). Water samples were
+collected from the surface mixed layer (<15 m) using GoFlo
+bottles, which are underwater sampling bottles that stay
+closed until triggered at depth to prevent contamination from
+surface waters. These bottles were maintained free of oil
+contamination as described (Reddy et al 2011). Five stations
+were occupied within the oil surface slick (I-1 through I-5) and
+seven sites were occupied outside of the slick (O-1 through
+O-7). The stations inside the slick were generally in close
+proximity to the Macondo well (within 1.7–6.6 km; table 1)
+and were characterized by the presence of oil on or below the
+surface that was plainly identifiable by visual inspection over
+the rail of the ship. The stations outside the slick were south
+and southeast of the well site, which was generally upwind of
+the well site during our cruise, and no oil was visible at the
+surface.
+2
+Environ. Res. Lett. 6 (2011) 035301 B R Edwards et al
+2.2. Phosphate measurements
+Water from the Go-Flo bottles was collected in 50 ml highdensity
+polyethylene Nalgene bottles, and kept frozen until
+analysis. Samples were collected from four stations outside
+the slick and three stations within the slick (table 1). At
+several stations, sampling for other analyses took precedent
+and insufficient water was available to collect a sample
+for phosphate analysis. Water samples were thawed at
+room temperature, dissolved phosphate was pre-concentrated
+using magnesium induced co-precipitation (MAGIC), and then
+quantified using a molybdate-blue colorimetric method (Karl
+and Tien 1992).
+2.3. Respiration rates
+Respiration rates for whole seawater were determined using
+bottle incubations where oxygen concentrations were tracked
+over approximately 36 h. Incubations were conducted in
+triplicate at three stations outside the slick and three stations
+within the slick; incubations amended with nutrients were
+also conducted (section 2.8). In addition, a separate set
+of triplicate six-day incubations was conducted in parallel
+with incubations tracking hydrocarbons (section 2.4). Glass
+biological oxygen demand bottles were equipped with oxygen
+optode spot minisensors (PreSens) that were glued to the
+inside surface of the bottle using food-quality silicone cement.
+Prior to use on our cruise, bottles were soaked for nearly
+three months in distilled water that was exchanged every few
+weeks (in anticipation of a different, previously scheduled
+cruise). Immediately before the R/V Endeavor cruise, the
+bottles were rinsed three times with methanol, three times
+with 5% hydrochloric acid, and three times with 18 M
+Milli-Q water. The bottles were then rinsed three times with
+sample seawater immediately prior to use. This rinsing routine
+was repeated at sea between each set of incubations. The
+incubations were initiated by transferring seawater to the glass
+bottles using standard gas sampling techniques. These bottles
+were then placed in a shaking incubator that was maintained
+at in situ temperatures in the dark. The oxygen minisensors
+were then monitored every few hours over the course of
+approximately 36 h using the manufacturer’s Minisensor Meter
+(PreSens). To eliminate temperature changes that impact
+sensor stability, the bottles were left in the incubator with the
+lid closed and the fiber optic lead from the minisensor meter
+was threaded through a small hole in the incubator lid. Using
+this technique, we could confidently measure respiration rates
+of <1 μmol O2 l
+−1 d−1. At the beginning of the cruise, each
+sensor spot was calibrated and sensor stability was assessed
+over a 36 h incubation with Milli-Q water to assure drift of
+<0.1 μmol O2 l
+−1 d−1.
+2.4. Hydrocarbon degradation incubations
+At station I-1, a longer-term incubation was conducted in
+order to constrain hydrocarbon degradation (table 1). We
+filled four 1 liter Teflon bottles with seawater, and three
+of these were immediately poisoned with mercuric chloride
+in order to afford replicate characterizations of the surface
+slick. The remaining incubation was allowed to incubate for
+six days in the dark at approximately in situ temperatures
+before also being poisoned with mercuric chloride. Upon
+return to the laboratory, all four sample bottles were extracted
+with dichloromethane and analyzed with an Agilent 6890
+gas chromatograph (GC) equipped with a flame ionization
+detector using standard protocols (Lemkau et al 2010). Since
+many compounds in oil are not amenable to GC analysis, the
+concentrations (mg l−1) we report are effectively minimum
+estimates. Hence, we integrated and measured the total
+petroleum hydrocarbon signal as well as individual compounds
+such as octadecane (n-C18) and phytane that are used as
+indicators of biodegradation. The degradation rate of total
+hydrocarbons (mg l−1 d−1) was converted to oxygen units
+(μmol O2 l
+−1 d−1) as described (Camilli et al 2010, Reddy
+et al 2011). Parallel six-day incubations for total respiration
+were also conducted, as described in section 2.3.
+2.5. Enzymatic activity
+Microbial alkaline phosphatase and lipase activities were
+assayed by observing the hydrolysis product of the commonly
+used fluorogenic substrates 4-methylumbelliferyl (MUF)-
+phosphate and MUF-butyrate (Sigma-Aldrich) in seawater
+incubations (Hoppe 1993). Aliquots of whole seawater were
+placed in 96-well plates, and the fluorescent substrates were
+added to initiate the assays. Fluorescence was measured
+at regular intervals with a CytoFluor Series 4000 multi-well
+plate reader, and increased linearly with time as expected.
+Using standard MUF additions and an external standard curve,
+fluorescence readings were converted to concentration units.
+Enzyme hydrolysis rates were calculated from the linear
+increase in MUF concentrations over time during the assays.
+The saturating concentrations of the enzyme substrates were
+determined at station O-2, and found to be 25 μmol l−1; this
+concentration was used in all assays conducted at all of the
+other stations. Enzyme activity was assessed at three stations
+within the slick and three stations outside the slick (table 1).
+2.6. Polar membrane lipid concentrations
+One liter seawater samples were filtered through a 0.22 μm
+pore size Durapore (Millipore) membrane filter under gentle
+vacuum. The filters were snap-frozen in liquid nitrogen
+and transported back to the laboratory in a cryogenic
+dry shipper. One sample was taken at three stations
+outside the slick, and five stations within the slick. In
+addition, samples for polar membrane lipids were collected
+from the amendment experiments conducted at station I-4
+(section 2.8; table 1). Lipids were extracted from
+the filters using a modified Bligh and Dyer method as
+described (Van Mooy and Fredricks 2010). Phospholipid
+(phosphatidylglycerol, PG; phosphatidylethanolamine, PE;
+and phosphatidylcholine, PC) and sulfolipid concentrations
+(sulfoquinovosyldiacylglycerol, SQDG) were analyzed by
+high performance liquid chromatography/mass spectrometry
+(HPLC/MS) using a Hewlett Packard 1100 HPLC coupled to a
+Thermo TSQ triple quadrupole mass spectrometer as described
+(Popendorf et al 2011).
+3
+Environ. Res. Lett. 6 (2011) 035301 B R Edwards et al
+2.7. Cell counts
+One milliliter seawater samples were collected in polypropylene
+cryovials and preserved with 3.7% filtered formaldehyde.
+After standing for 15 min at room temperature, the samples
+were snap-frozen in liquid nitrogen and transported back to
+the laboratory in a cryogenic dry shipper. The samples were
+defrosted, stained with SYBR Green (Molecular Probes) in
+triplicate, and cells were counted using a Guava 5HT (Millipore)
+flow cytometer as described (Tripp 2008). Bacterial
+cells and Synechococcus cells were differentiated and counted
+using plots of side scatter versus yellow fluorescence and
+red fluorescence. Samples for cell counts were taken at five
+stations outside the slick, three stations within the slick, and
+from two amendment experiments (section 2.8; table 1).
+2.8. Amendment experiments
+At stations I-1, I-4, and I-5, parallel sets of triplicate respiration
+incubations (section 2.3) were amended with inorganic nutrients.
+Inorganic nutrient amendments were made from concentrated
+stocks of ammonium nitrate (NH4NO3) and dipotassium
+phosphate (K2HPO4) dissolved in high purity water (HPLC
+grade, Sigma); final concentrations in the incubations were
+32 μmol l−1 NH4NO3 and 2 μmol l−1 K2HPO4.
+2.9. Analysis of slick area from satellite data
+The area of the Gulf of Mexico covered by the Deepwater
+Horizon surface slick was estimated from publicly available
+satellite derived surface oil analysis products. Daily Experimental
+Marine Pollution Surveillance Reports (EMPSRs)
+produced by the National Environmental Satellite, Data, and
+Information service of the National Oceanic and Atmospheric
+Administration were downloaded as JPEG images for the dates
+19 June to 28 June (www.ssd.noaa.gov/PS/MPS/deepwater.
+html). The EMPSRs had red pixels delineating the extent of the
+oil slick on each day. A mask covering the spatial extent of the
+red pixels was calculated in MATLAB (Mathworks). The area
+of the mask was computed using the ‘bwarea’ command from
+the image processing toolbox in MATLAB. We then scaled
+the number of red pixels in each image to the number of total
+pixels in a 1◦ latitude by 1◦ longitude square (approximately
+10 800 km2 at 29◦N) within each image, and thereby calculated
+the area of the slick.
+2.10. Statistical analyses
+Non-parametric statistical tests were conducted using Statistica
+software (version 6.1; StatSoft). The Mann–Whitney test was
+chosen for comparisons because the number of data points in
+compared cases was generally small (n  5). Differences were
+deemed significant when p-levels returned by Statistica were
+<0.05.
+3. Results and discussion
+3.1. Phosphorus stress
+Phosphate was scarce at all of the stations where phosphate
+was measured, and there was no difference in concentrations
+Figure 1. Alkaline phosphatase activity at sampling stations within
+the slick and outside of the slick. Error bars indicate the magnitude
+of the range of analytical triplicates. Data from inside the slick and
+outside the slick are statistically distinct (Mann–Whitney, p < 0.05).
+between stations inside and outside of the slick (Mann–
+Whitney, p  0.05, nin = 3, nout = 4; table 1). Concentrations
+were on the order of 10 nmol l−1 and were similar to those
+observed in the northern Sargasso Sea (Cavender-Bares et al
+2001, Ammerman et al 2003), an ecosystem where the growth
+of bacteria has been shown to be phosphate limited (Cotner
+et al 1997). However, alkaline phosphatase activity was
+significantly higher within the slick (Mann–Whitney, p <
+0.05, nin = 3, nout = 3; figure 1). Alkaline phosphatases
+are enzymes used by marine microbes in an attempt to
+access dissolved organic phosphorus when phosphate is scarce.
+Elevated rates of alkaline phosphatase activity are generally
+interpreted as an indication of enhanced phosphorus stress of
+marine microbes (Perry 1972, Ammerman et al 2003, Sylvan
+et al 2007, Dyhrman et al 2007 and references therein). Thus
+our observations show that microbes within the slick were
+more stressed than microbes outside of the slick; this was
+presumably due to enhanced phosphorus demand being driven
+by the availability of organic carbon from oil within the slick.
+3.2. Microbial respiration and enzymatic activity
+We observed that microbial respiration rates and enzyme
+activities varied considerably over relatively short spatial
+scales (<1 km) near the Deepwater Horizon site. Community
+respiration rates were significantly higher within the oil slick
+compared to outside the slick (Mann–Whitney, p < 0.05,
+nin = 4, nout = 3; figure 2), indicating enhanced oxidation
+of organic carbon. A study conducted in June 1993 found
+that the mean respiration rate observed in this region of the
+Gulf of Mexico ranged from 2.4 to 4.3 μmol O2 l
+−1 d−1
+(Pomeroy et al 1995), which is very similar to the mean
+rate of 2.2 μmol O2 l
+−1 d−1 (range 0.8–4.4 μmol O2 l
+−1)
+that we found at stations outside of the slick. Thus we
+can reasonably assert that the stations outside of the slick
+reflected pristine conditions (i.e. similar to conditions before
+the spill). However, respiration rates inside the slick averaged
+12.1 μmol O2 l
+−1 d−1, (range 4.8–16.3 μmol O2 l
+−1), which
+4
+Environ. Res. Lett. 6 (2011) 035301 B R Edwards et al
+Figure 2. Community respiration rates at sampling stations within
+the slick and outside of the slick after incubations of approximately
+36 h; except for ‘I-1∗’, which was incubated for six days in parallel
+with the hydrocarbon degradation experiment. Parallel sets of
+incubations at stations within the slick were amended with inorganic
+nutrients. Error bars indicate the magnitude of the range of
+respiration rates for triplicate incubations. Data from inside the slick
+and outside the slick are statistically distinct (Mann–Whitney,
+p < 0.05).
+is approximately five times greater than the respiration rates
+outside of the slick. Thus the presence of oil stimulated an
+enhanced respiration rate of 9.9 μmol O2 l
+−1 d−1 (figure 2).
+It should be noted that we do not believe that this enhanced
+respiration is an artifact of the slightly elevated temperature
+within the slick (table 1). Published temperature dependence
+relationships for bacterial respiration (Q10 of approximately
+2.3 (Lomas et al 2002)) would predict a rate increase of
+only 11% in response to the 1.2 ◦C average temperature
+elevation; the difference in average rates we observed was
+455%. The respiration data support the conclusion that oil
+from the Macondo well served as an organic carbon substrate
+for respiration by microbes in surface water, and that these
+microbes responded despite intense phosphorus stress.
+The enhanced respiration rates inside the slick suggest that
+the microbes rapidly acclimated to breaking down hydrocarbon
+substrates. This is consistent with other studies showing
+that deep-sea microbes within the subsurface plume were
+also able to readily respond to the addition of hydrocarbons
+to their environment (Hazen et al 2010, Valentine et al
+2010, Kessler et al 2011). Indeed, we observed a decrease
+in the n-C18/phytane ratio in our degradation experiments
+from 2.2 to 1.5, which is a hallmark of natural microbial
+degradation (e.g. De Jonge et al 1997). We also found that
+approximately 0.4 mg l−1 of the observed 1.9 mg l−1 total
+petroleum hydrocarbons were degraded over the course of
+six days. The absolute degradation rate of 0.07 mg l−1 d−1
+yields a steady-state hydrocarbon turnover rate of 0.04 d−1
+(0.07 mg l−1 d−1 divided by 1.9 mg l−1). This turnover rate is
+slower than reported in the deep-sea plume (Hazen et al 2010)
+but nonetheless shows a half-life of hydrocarbons of only 26
+days with respect to microbial degradation. Clearly, additional
+factors (e.g. evaporation, photo-oxidation, physical dispersion)
+contributed to shortening the overall half-life of the slicks.
+Converting the hydrocarbon degradation rate to units of oxygen
+equates to 7.1 μmol O2 l
+−1 d−1, which corresponds to 71%
+of the enhanced respiration rate. Given that our hydrocarbon
+concentrations are minimum estimates of the concentration
+of total oil in the water and in contact with microbes, it
+is remarkable that the reported hydrocarbon degradation rate
+accounted for such a large fraction of the enhanced respiration.
+Although our data are limited to the specific time and
+location of our study, extrapolating the excess rates of
+respiration within the slick has the potential to yield muchneeded
+constraints on the total potential rates at which
+microbes degraded oil released to surface waters from the
+Deepwater Horizon spill. Our estimates of the size of the slick
+on the days during our cruise ranged from 5600 to 24 000 km2.
+Given an excess respiration rate of 9.9 μmol O2 l
+−1 d−1 and
+a mixed layer depth of 15 m, we calculate that the total
+microbial hydrocarbon degradation capacity across the surface
+slick ranged from approximately 6×108 to 3×109 mol C d−1.
+This calculation assumes that the hydrocarbon degradation
+rate remained constant with time, which was probably not
+the case as microbes are known to preferentially degrade
+more labile hydrocarbons first, leaving more recalcitrant polar
+molecules behind. However, the rate of oxygen drawdown
+(i.e. respiration) remained linear over the course of the six-day
+hydrocarbon degradation experiment (ordinary least squares
+linear regression, R2 = 0.99, n = 35; not shown). Given
+a mean flow rate from the Macondo well of 62 000 barrels
+d−1 (McNutt et al 2011) and a carbon content of 1.1 ×
+105 g C barrel−1 (Reddy et al 2011), the total flux of carbon
+from the well was also on the order of 6 × 108 mol C d−1,
+although some oil components dissolved at depth before
+reaching the surface (Camilli et al 2010, Reddy et al 2011).
+Nonetheless, our calculations suggest that the microbes in the
+surface waters of the Gulf of Mexico possessed the metabolic
+potential to degrade oil at a rate that was of the same order as
+the delivery rate of oil. Of course other competing processes
+(e.g. evaporation, photo-oxidation, physical dispersion) would
+also have contributed to the removal of oil from the surface
+slicks, and thus it is unlikely that this potential was completely
+realized.
+Lipase activity was also enhanced inside the slick (Mann–
+Whitney, p < 0.05, nin = 3, nout = 3; figure 3)
+suggesting that the population of microbes within the slick
+had enzymatically acclimated to hydrolyze ester bonds within
+lipids. There are few ester linkages in crude oil, and therefore
+high lipase activity does not necessarily indicate a response to
+or degradation of crude oil. It is conceivable that the lipase
+activity could have been a response to the ester linkages in
+dispersant molecules. Dioctyl sodium sulfosuccinate (DOSS)
+contains multiple ester bonds and is a chemical component of
+the dispersants used in response to the Deepwater Horizon oil
+spill. It has been shown that dispersants can be utilized as a
+sole carbon source by marine bacterial communities (MulkinsPhillips
+and Stewart 1974). Additionally, a predecessor to
+modern dispersants, Corexit 8666, was shown to support
+enhanced growth of marine bacteria compared to un-amended
+controls (Mulkins-Phillips and Stewart 1974). Therefore, it is
+possible that the enhanced respiration that was not accounted
+5
+Environ. Res. Lett. 6 (2011) 035301 B R Edwards et al
+Figure 3. Lipase activity at sampling stations within the slick and
+outside of the slick. Error bars indicate the magnitude of the range of
+analytical triplicates. Data from inside the slick and outside the slick
+are statistically distinct (Mann–Whitney, p < 0.05).
+for by hydrocarbon degradation could have been partially
+supported by oxidation of dispersants.
+Kujawinski et al (2011) detected DOSS in surface waters
+at a station near the Deepwater Horizon site, but the goal of
+their study was not to rigorously map DOSS concentrations
+within the surface slick. So although data compiled by
+Kujawinski et al (2011) indicate that dispersants were present
+in surface waters in June 2010, it is not absolutely certain
+that the slicks we sampled had been recently treated with
+dispersants. Nonetheless, if a total of 5.3 × 106 l (Kujawinski
+et al 2011) of dispersant was applied to the sea surface over
+the course of the spill (84 days), then we can estimate the
+approximate carbon flux from dispersants. For Corexit 9500A,
+Kujawinski et al (2011) reported a density of 1.0 kg l−1
+and a DOSS content of 10% (DOSS is 54% carbon; g C
+(g DOSS)−1). The exact formulations of the dispersants are
+proprietary information, and the carbon contents are unknown.
+However, if we assume that the remaining 90% was composed
+of equal parts light petroleum distillates (approximately 80%
+carbon) and sorbitan (40% carbon) then the carbon content
+of the bulk dispersant liquid was approximately 60% or
+0.6 kg C l−1. This brings the delivery of carbon from
+dispersants to approximately 3×106 mol C d−1, which is small
+compared to the flux of oil. Nonetheless, it is possible that the
+high lipase activities we observed were local responses to the
+introduction of dispersants to surface waters.
+3.3. Microbial biomass and abundance
+Despite enhanced respiration, lipase activity and relatively
+rapid oil degradation within the slick, we did not observe
+greater concentrations of microbial polar membrane lipids
+within the oil slick (Mann Whitney, p  0.05, nin = 5,
+nout = 3; figure 4). In the surface ocean, PG and PE are
+the major constituents of heterotrophic bacterial membranes
+and SQDG is the dominant polar membrane lipid found in
+the photosynthetic membranes of cyanobacteria and other
+phytoplankton (Oliver and Colwell 1973, Van Mooy et al 2006,
+Figure 4. Polar membrane lipid concentrations.
+Phosphatidylglycerol and phosphatidylethanolamine (PG + PE) are
+thought to be derived primarily from heterotrophic bacteria, while
+sulfoquinovosyldiacylglycerol (SQDG) is thought to be derived from
+the membranes of cyanobacteria and eukaryotic phytoplankton.
+Results are from one analysis of surface waters at each station.
+Figure 5. Heterotrophic bacteria and Synechococcus cell abundances
+at stations O-3 through O-7 outside of the slick and at stations I-1
+through I-3 inside of the slick. Error bars are the magnitude of the
+range of analytical triplicates.
+2009, Van Mooy and Fredricks 2010). While sulfolipids were
+only recently identified in the surface ocean, phospholipids
+have long been applied as a proxy for microbial biomass
+(e.g. White et al 1979). Our data suggest that both bacterial and
+phytoplankton biomass were relatively constant throughout our
+study area regardless of the presence of oil slicks (figure 4).
+In contrast to polar membrane lipids, cell abundances
+of heterotrophic bacteria and the cyanobacteria of the genus
+Synechococcus were about a factor of two lower inside the
+slick than outside the slick (Mann–Whitney, p < 0.05,
+nin = 3, nout = 5; figure 5). But we suggest that this
+reflects a bias introduced during sampling. The difference
+in microbial abundances could be explained by a mechanism
+where cells became adsorbed to oil flocs (Hazen et al
+2010), and these oil flocs adsorbed to the sides of the
+polypropylene vials used to store the flow cytometry samples,
+effectively excluding oil-adsorbed cells from counting. The
+tight correlation between the abundances of heterotrophic
+6
+Environ. Res. Lett. 6 (2011) 035301 B R Edwards et al
+bacterial cells and Synechococcus cells (Spearman Rank, R2 =
+0.6173, p < 0.05, n = 16; not shown) suggests that
+the adsorption of cells was a largely indiscriminate process.
+The polar membrane lipid analyses were conducted from
+samples filtered at sea and would have included both freeliving
+microbes and microbes adsorbed to oil flocs. If biomass
+estimates from polar membrane lipids provide a more faithful
+indication of microbial abundance than flow cytometry, then
+our observations of consistent microbial standing stocks inside
+and outside of the slicks agree with studies of the 1979 IXTOC I
+oil spill in the Bay of Campeche (Atlas et al 1980) and the
+2002 Prestige oil spill off the coast of Portugal (Bode et al
+2006), where there were no differences in pre- and post-spill
+bacterial abundances. An alternative explanation is that since
+polar membrane lipids were similar inside and outside the
+slick, the abundance data are indicating that there was more
+biomass per cell inside the slick than outside the slick (i.e. the
+cells inside the slick were larger). However, the differences
+in median side scatter and green fluorescence of microbial
+cells inside and outside of the slick were <10% (data not
+shown), indicating that there were no major differences in
+the distribution of cell size or DNA content of the microbial
+community. The DNA content of microbial cells as revealed
+by flow cytometry has shown to be correlated with microbial
+growth rate (Longnecker et al 2006). Thus our available
+evidence indicates that while microbial respiration and enzyme
+activity were enhanced within the slick, microbial growth
+appeared to be arrested within the slick.
+3.4. Controls on microbial activity, abundance and biomass
+within surface slicks
+The lack of increased microbial numbers or biomass within
+the slick indicates that the enhanced respiration, alkaline
+phosphatase activity, and lipase activity in the slick were in
+effect ‘futile’ attempts by microbes to grow in response to the
+injection of organic matter into their environment. We propose
+two possible mechanisms for this futile microbial activity
+within the slicks: (1) growth rates were limited by nutrients
+other than organic carbon, or (2) respiration fueled an increase
+in microbial growth but top-down processes suppressed the
+accumulation of microbial stocks. It should be noted that a
+review by Gasol et al (2002) concluded that top-down control
+of bacterial communities was more prevalent than nutrient
+limitation in oligotrophic settings. However, the oil introduced
+by the Deepwater Horizon spill resulted in an unprecedentedly
+perturbed system—phosphate depleted but with an abundance
+of organic carbon—where conditions differed markedly from
+typical offshore oligotrophic settings.
+3.4.1. Nutrient limitation of microbial growth within slicks.
+As mentioned previously, bacterial growth and respiration in
+the central Gulf of Mexico were observed to be primarily
+limited by phosphate availability (Pomeroy et al 1995).
+Therefore, we focused on studying the impact of inorganic
+nutrient amendments on the microbial degradation of oil within
+the slicks. We observed a distinct increase in respiration
+rates in nutrient amendment experiments at two of the three
+Figure 6. Heterotrophic bacterial cell abundance and Synechococcus
+cell abundance, for inorganic amendment experiments conducted at
+stations I-1 and I-4. Bacterial polar membrane lipid concentrations
+inorganic amendment experiments were determined at station I-4
+only. The ‘t = 0’ results are from the seawater used to set up the
+incubations immediately prior to dispensing into replicate incubation
+bottles. The ‘control’ and ‘nutrients’ results are from incubations
+conducted for 36 h of incubation. The ‘(6-day)’ results are from
+incubations conducted in parallel with the hydrocarbon degradation
+experiment. Error bars are the magnitude of the range of triplicate
+incubations.
+amendment stations within the surface slick (station I-1 and
+I-4; Mann–Whitney, p < 0.05; figure 2). At station I-1,
+we observed that respiration rates approximately tripled in
+response to inorganic nutrients (Mann–Whitney, p < 0.05).
+At station I-4, the rate of respiration increased by 42% in
+the inorganic nutrient treatments compared to the control
+(Mann–Whitney, p < 0.05). The increase in respiration
+in response to nutrient amendments is consistent with Atlas’
+(1981) conclusion from the review of sixteen different studies
+that the addition of N and P to oil contaminated seawater
+yielded faster degradation rates of hydrocarbons.
+The abundance of heterotrophic bacteria more than
+doubled in response to nutrients at station I-1, while at station
+I-4 there was no significant increase (figure 6). However, polar
+membrane lipids were quantified at station I-4, and nutrient
+amendments resulted in a 93% increase in the concentration
+of PG + PE compared to the control (Mann–Whitney, p <
+0.05; figure 6). Overall, these results suggest that growth
+of heterotrophic bacteria, either in terms of abundance or
+biomass, was limited by the availability of nutrients. As
+might be expected in incubations conducted in the absence of
+sunlight, the concentration of Synechococcus did not increase
+significantly in response to nutrient amendments, nor did the
+concentration of SQDG (figure 6).
+The additional physiological demands associated with
+surviving under conditions of nutrient stress (e.g. expression
+of alkaline phosphatase enzymes) are energetically expensive
+and have the potential to drive down bacterial growth efficiency
+and increase the cellular carbon demand (Teixeira-de-Mattos
+and Neijssel 1997, Del Giorgio and Cole 1998). Such an
+increase in maintenance energy could account for the enhanced
+7
+Environ. Res. Lett. 6 (2011) 035301 B R Edwards et al
+respiration rates within the slick, which occurred in the absence
+of increased microbial standing stocks.
+3.4.2. Grazing control of microbial standing stocks within
+slicks. Although past studies and our own amendment
+incubations indicate that microbial growth was probably
+limited by inorganic nutrients within the slick, we did
+not have the opportunity to actually measure growth rates;
+implementing the radiotracer methods used to make bacterial
+production (BP) measurements was not possible within the
+time and logistical constraints of rapidly mobilizing for our
+research at sea. Our flow cytometry results provide some
+evidence that growth rates were not enhanced in the slick. Yet
+we cannot unequivocally exclude the possibility that enhanced
+microbial growth was simply being checked by enhanced topdown
+controls (i.e. mortality) within the slick, which prevented
+the accumulation of microbial standing stocks.
+Grazing and viral lysis are important top-down control
+mechanisms in microbial ecosystems (Proctor and Fuhrman
+1990, Gasol et al 2002), but grazing often outweighs viral
+lysis as the dominant mechanism of microbial mortality in
+oligotrophic systems (Guixa-Boixereu et al 1999). Indeed,
+a study that traced the carbon isotopic signatures of the
+planktonic food web in the Gulf of Mexico after the Deepwater
+Horizon spill concluded that there was trophic transfer of
+carbon from oil to bacteria to higher levels in the food web
+(Graham et al 2010). In addition, previous research on the
+response of the microbial community to the Prestige oil spill
+off the coast of Spain suggests that grazing control resulted in
+an increase in bacterial production and respiration within oil
+contaminated waters without a subsequent increase in bacterial
+biomass (Bode et al 2006). However, it must be noted that
+these two studies were conducted in nearshore environments
+that were unlikely to have been as nutrient depleted as waters
+we studied in proximity to the Deepwater Horizon site.
+4. Conclusions
+Microbes within the surface slick showed higher rates of
+alkaline phosphatase activity, indicating enhanced phosphate
+stress. Despite this, rates of microbial respiration and lipase
+activity were also higher within the slick, and the degradation
+of hydrocarbons was fairly rapid and supported the majority of
+respiration. However, we observed no increase in microbial
+abundances or biomass within the slick. Amendments with
+inorganic nutrients led to increased respiration and bacterial
+biomass, which suggests that microbial growth was limited
+by nutrients as we had hypothesized and had been observed
+previously (Pomeroy et al 1995).
+Our observations suggest that the microbial community
+possessed the potential to respire hydrocarbons at an
+unprecedented rate for the oligotrophic Gulf of Mexico; our
+estimate suggests that this rate was potentially great enough
+to keep pace with the flux of oil reaching the surface from
+the Macondo well. Given our proximity to the Deepwater
+Horizon site it is likely that the oil, and possibly dispersants,
+had been introduced to the surface community only shortly
+before we sampled the water and made our observations. Thus,
+the observed differences in microbial respiration and activity
+between stations within the slick and outside the slick is a
+testament to the rapid response of the microbes in the surface
+waters of the Gulf of Mexico to oil from the Deepwater
+Horizon spill.

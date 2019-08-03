@@ -1,0 +1,72 @@
+T1	ReactionOrProcess 217 230	hybridization
+T2	Environment 779 787	seawater
+T3	Substrate 759 762	oil
+T4	Substrate 964 973	petroleum
+T5	Substrate 952 959	xylenes
+T6	Substrate 906 909	oil
+T7	Substrate 846 849	Oil
+T8	Property 915 928	concentration
+T9	Property 938 946	volatile
+T10	Environment 997 1005	Seawater
+T11	Environment 997 1000	Sea
+T12	Property 1037 1048	temperature
+T13	Property 1050 1059	dissolved
+T14	Nutrient 1060 1066	oxygen
+T15	Environment 1091 1097	Marine
+T16	Substrate 1313 1320	alkanes
+T17	Substrate 1152 1155	oil
+T18	Substrate 1405 1408	oil
+T19	Property 1405 1421	oil contaminated
+T20	ReactionOrProcess 1288 1297	oxidation
+T21	ReactionOrProcess 1124 1148	potential bioremediation
+T22	ReactionOrProcess 1134 1148	bioremediation
+R1	CarriedOn Arg1:T20 Arg2:T16
+R2	CarriedOn Arg1:T21 Arg2:T16
+R3	CarriedOn Arg1:T21 Arg2:T17
+R4	CarriedOn Arg1:T21 Arg2:T18
+R5	CarriedOn Arg1:T22 Arg2:T16
+R6	CarriedOn Arg1:T22 Arg2:T17
+R7	CarriedOn Arg1:T22 Arg2:T18
+T23	Microbes 1490 1500	alkB genes
+T24	Microbes 1618 1631	Mycobacterium
+T25	Environment 1746 1751	plume
+T26	Environment 1742 1751	oil plume
+T27	Substrate 1742 1745	oil
+T28	Substrate 1831 1834	PAH
+T29	ReactionOrProcess 1823 1846	aerobic PAH degradation
+T30	ReactionOrProcess 1835 1846	degradation
+T31	Environment 1974 1979	plume
+T32	Environment 2019 2024	plume
+T33	Substrate 1926 1929	PAH
+T34	ReactionOrProcess 1930 1941	degradation
+T35	Environment 2075 2080	plume
+T36	Environment 2237 2242	plume
+T37	Substrate 2196 2203	toluene
+T38	ReactionOrProcess 2186 2215	anaerobic toluene degradation
+T39	ReactionOrProcess 2196 2215	toluene degradation
+T40	ReactionOrProcess 2204 2215	degradation
+T41	Nutrient 2043 2049	oxygen
+T42	Microbes 2329 2337	Azoarcus
+T43	Microbes 2342 2346	EbN1
+T44	Microbes 2409 2417	Azoarcus
+T45	Property 2359 2367	aromatic
+T46	Microbes 2422 2426	EbN1
+T47	Nutrient 2508 2514	Carbon
+T48	Substrate 2685 2694	aromatics
+T49	Property 2685 2694	aromatics
+T50	ReactionOrProcess 2583 2594	degradation
+T51	ReactionOrProcess 2712 2725	hybridization
+T52	Nutrient 2526 2532	carbon
+T53	Nutrient 2606 2612	carbon
+R8	CarriedOn Arg1:T50 Arg2:T48
+T54	Environment 2858 2863	plume
+T55	Substrate 2787 2790	lip
+T56	Substrate 2980 2991	various oil
+T57	Substrate 2988 2991	oil
+T58	ReactionOrProcess 2965 2976	degradation
+R9	CarriedOn Arg1:T58 Arg2:T56
+R10	CarriedOn Arg1:T58 Arg2:T57
+T59	Microbes 3169 3179	nahA genes
+T60	Substrate 3239 3250	naphthalene
+T61	ReactionOrProcess 3226 3235	oxidation
+T62	ReactionOrProcess 3350 3360	replicates

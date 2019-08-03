@@ -1,0 +1,96 @@
+T1	Environment 56 77	oil-contaminated soil
+T2	Microbes 294 307	P. aeruginosa
+T3	Microbes 183 205	Pseudomonas aeruginosa
+T4	Substrate 342 348	diesel
+T5	ReactionOrProcess 312 320	degraded
+T6	ReactionOrProcess 111 152	Fatty acid and 16s rDNA sequence analysis
+T7	Substrate 523 531	gasoline
+T8	Substrate 533 540	benzene
+T9	Substrate 542 549	toluene
+T10	Substrate 568 572	PAHs
+T11	Substrate 581 592	naphthalene
+T12	Substrate 594 606	phenanthrene
+T13	Substrate 512 521	crude oil
+T14	Substrate 551 557	xylene
+T15	Substrate 611 617	pyrene
+T16	Substrate 455 477	petroleum hydrocarbons
+T17	Property 481 500	sole carbon sources
+T18	Microbes 630 643	P. aeruginosa
+T19	Environment 684 705	soils and groundwater
+T20	Substrate 737 749	hydrocarbons
+T21	ReactionOrProcess 666 680	bioremediation
+T22	Substrate 751 757	Diesel
+T23	Property 792 797	toxic
+T24	Environment 956 967	groundwater
+T25	Environment 907 911	soil
+T26	Substrate 861 867	diesel
+T27	Substrate 1083 1089	diesel
+T28	Property 1247 1259	contaminants
+T29	Environment 1357 1368	groundwater
+T30	Environment 1348 1352	soil
+T31	Substrate 1335 1344	petroleum
+T32	Property 1316 1326	pollutants
+T33	ReactionOrProcess 1261 1275	Bioremediation
+T34	ReactionOrProcess 1283 1304	microbial degradation
+T35	Substrate 1755 1762	alkanes
+T36	Substrate 1678 1687	crude oil
+T37	Substrate 1815 1847	polycyclic aromatic hydrocarbons
+T38	ReactionOrProcess 1738 1745	degrade
+T39	Substrate 1994 2003	crude oil
+T40	Substrate 1968 1980	hydrocarbons
+T41	ReactionOrProcess 1936 1946	metabolize
+T42	Environment 2270 2291	soils and groundwater
+T43	Environment 2257 2275	contaminated soils
+T44	Substrate 2405 2411	diesel
+T45	Substrate 2422 2444	petroleum hydrocarbons
+T46	ReactionOrProcess 2397 2404	degrade
+T47	Environment 2501 2529	crude oil-contaminated soils
+T48	ReactionOrProcess 2545 2554	isolating
+T49	ReactionOrProcess 2446 2455	Isolation
+T50	Environment 2582 2607	Contaminated soil samples
+T51	Environment 2641 2652	gas station
+T52	Environment 2678 2689	gas station
+T53	Environment 2743 2762	g contaminated soil
+T54	Substrate 2772 2778	diesel
+T55	ReactionOrProcess 2719 2729	enrichment
+T56	Microbes 2894 2902	inoculum
+T57	Microbes 3421 3440	isolated strain IU5
+T58	ReactionOrProcess 3357 3389	Fatty acid and 16s rDNA analyses
+T59	Property 3713 3721	alkaline
+T60	ReactionOrProcess 3694 3703	extracted
+T61	ReactionOrProcess 3766 3769	PCR
+T62	ReactionOrProcess 3923 3926	PCR
+T63	ReactionOrProcess 4407 4416	extension
+R1	ActOn Arg1:T2 Arg2:T4
+R2	ActOn Arg1:T3 Arg2:T4
+R3	CarriedOn Arg1:T5 Arg2:T2
+R4	CarriedOn Arg1:T5 Arg2:T3
+R5	CarriedOn Arg1:T6 Arg2:T2
+R6	CarriedOn Arg1:T6 Arg2:T3
+R7	CarriedOn Arg1:T5 Arg2:T4
+R8	CarriedOn Arg1:T6 Arg2:T4
+R9	FoundIn Arg1:T18 Arg2:T19
+R10	ActOn Arg1:T18 Arg2:T20
+R11	CarriedOn Arg1:T21 Arg2:T18
+R12	CarriedOn Arg1:T21 Arg2:T20
+R13	OccursIn Arg1:T21 Arg2:T19
+R14	CarriedOn Arg1:T33 Arg2:T31
+R15	CarriedOn Arg1:T34 Arg2:T31
+R16	OccursIn Arg1:T33 Arg2:T29
+R17	OccursIn Arg1:T33 Arg2:T30
+R18	OccursIn Arg1:T34 Arg2:T29
+R19	OccursIn Arg1:T34 Arg2:T30
+R20	CarriedOn Arg1:T38 Arg2:T35
+R21	CarriedOn Arg1:T38 Arg2:T36
+R22	CarriedOn Arg1:T38 Arg2:T37
+R23	CarriedOn Arg1:T41 Arg2:T39
+R24	CarriedOn Arg1:T41 Arg2:T40
+R25	CarriedOn Arg1:T46 Arg2:T44
+R26	CarriedOn Arg1:T46 Arg2:T45
+R27	OccursIn Arg1:T46 Arg2:T42
+R28	OccursIn Arg1:T46 Arg2:T43
+R29	OccursIn Arg1:T48 Arg2:T47
+R30	OccursIn Arg1:T49 Arg2:T47
+R31	CarriedOn Arg1:T55 Arg2:T54
+R32	OccursIn Arg1:T55 Arg2:T53
+R33	CarriedOn Arg1:T58 Arg2:T57

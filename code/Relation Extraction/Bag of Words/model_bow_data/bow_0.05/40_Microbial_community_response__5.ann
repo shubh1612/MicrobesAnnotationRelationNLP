@@ -1,0 +1,32 @@
+T1	Substrate 263 270	ethanol
+T2	ReactionOrProcess 106 116	inoculated
+T3	ReactionOrProcess 134 144	extraction
+R1	CarriedOn Arg1:T2 Arg2:T1
+R2	CarriedOn Arg1:T3 Arg2:T1
+T4	Property 355 367	fluorescence
+T5	ReactionOrProcess 312 322	inoculated
+T6	ReactionOrProcess 298 307	Extracted
+T7	ReactionOrProcess 384 394	extraction
+T8	Nutrient 849 855	carbon
+T9	ReactionOrProcess 898 907	reduction
+T10	ReactionOrProcess 943 954	utilization
+T11	Nutrient 929 935	carbon
+T12	Environment 1074 1100	hydrocarbon-polluted soils
+T13	Environment 1074 1100	hydrocarbon-polluted soils
+T14	Environment 1095 1100	soils
+T15	Nutrient 1002 1008	carbon
+T16	ReactionOrProcess 1187 1197	inoculated
+T17	Property 1303 1314	temperature
+T18	ReactionOrProcess 1273 1283	incubation
+T19	ReactionOrProcess 1755 1765	incubation
+T20	ReactionOrProcess 2258 2268	replicates
+T21	ReactionOrProcess 2008 2019	utilization
+T22	ReactionOrProcess 2406 2416	replicates
+T23	Environment 2906 2911	water
+T24	Property 2848 2859	temperature
+T25	Property 2732 2745	concentration
+T26	Nutrient 2879 2885	carbon
+T27	Substrate 3196 3198	RD
+T28	Environment 4136 4140	soil
+T29	Environment 4280 4291	vadose zone
+T30	Nutrient 4194 4200	carbon

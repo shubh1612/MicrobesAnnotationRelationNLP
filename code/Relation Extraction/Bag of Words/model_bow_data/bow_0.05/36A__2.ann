@@ -1,0 +1,56 @@
+T1	Microbes 117 126	alkB gene
+T2	ReactionOrProcess 314 327	hybridization
+T3	Enzyme 374 388	monooxygenases
+T4	Environment 523 538	Antarctic soils
+T5	Environment 453 468	Brazilian soils
+T6	Environment 439 448	Antarctic
+T7	Environment 523 532	Antarctic
+T8	Environment 523 538	Antarctic soils
+T9	Environment 463 468	soils
+T10	Environment 533 538	soils
+T11	Environment 439 468	Antarctic and Brazilian soils
+T12	ReactionOrProcess 414 427	hybridization
+T13	Environment 643 651	seawater
+T14	Environment 652 662	microcosms
+T15	Environment 798 810	soil samples
+T16	Environment 798 802	soil
+T17	ReactionOrProcess 758 779	n-heptane degradation
+T18	ReactionOrProcess 719 722	PCR
+T19	ReactionOrProcess 768 779	degradation
+T20	Enzyme 905 919	monooxygenases
+T21	ReactionOrProcess 1142 1145	PCR
+T22	Environment 1326 1335	Antarctic
+T23	Environment 1312 1340	nutrient-poor Antarctic soil
+T24	Environment 1312 1335	nutrient-poor Antarctic
+T25	Environment 1326 1340	Antarctic soil
+T26	Environment 1336 1340	soil
+T27	Property 1286 1310	hydrocarbon-contaminated
+T28	ReactionOrProcess 1256 1270	bioremediation
+T29	Microbes 1444 1466	heterotrophic bacteria
+T30	Property 1444 1457	heterotrophic
+T31	Nutrient 1414 1420	carbon
+T32	ReactionOrProcess 1695 1709	bioremediation
+T33	ReactionOrProcess 1593 1596	PCR
+T34	ReactionOrProcess 1723 1737	Bioremediation
+T35	ReactionOrProcess 1765 1779	bioremediation
+T36	ReactionOrProcess 1753 1779	landfarming bioremediation
+T37	Environment 1986 1995	Antarctic
+T38	Environment 1927 1931	Soil
+T39	Substrate 2008 2014	diesel
+T40	Environment 2091 2095	soil
+T41	ReactionOrProcess 2058 2064	sieved
+T42	ReactionOrProcess 2079 2090	homogenized
+T43	Property 2466 2479	concentration
+T44	Property 2462 2479	low concentration
+T45	Enzyme 2548 2561	Monooxygenase
+T46	Enzyme 2631 2644	monooxygenase
+T47	ReactionOrProcess 2974 2977	PCR
+T48	Microbes 3338 3349	rhodochrous
+T49	Microbes 3367 3383	Escherichia coli
+T50	ReactionOrProcess 3433 3436	PCR
+T51	Microbes 3606 3613	E. coli
+T52	Environment 3626 3637	soil sample
+T53	Environment 3626 3630	soil
+T54	ReactionOrProcess 3753 3759	cloned
+T55	ReactionOrProcess 3778 3785	cloning
+T56	ReactionOrProcess 3818 3827	extracted

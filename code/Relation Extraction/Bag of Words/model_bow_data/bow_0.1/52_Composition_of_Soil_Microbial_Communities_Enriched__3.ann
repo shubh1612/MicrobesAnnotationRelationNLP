@@ -1,0 +1,47 @@
+T1	Property 125 136	temperature
+T2	ReactionOrProcess 208 214	washed
+T3	ReactionOrProcess 251 262	resuspended
+T4	Substrate 753 764	hydrocarbon
+T5	Property 772 785	concentration
+T6	ReactionOrProcess 599 610	enrichments
+T7	ReactionOrProcess 587 598	resuspended
+T8	ReactionOrProcess 633 644	resuspended
+T9	ReactionOrProcess 551 562	degradation
+R1	CarriedOn Arg1:T6 Arg2:T4
+R2	CarriedOn Arg1:T7 Arg2:T4
+R3	CarriedOn Arg1:T8 Arg2:T4
+R4	CarriedOn Arg1:T9 Arg2:T4
+T10	Property 844 855	autoclaving
+T11	Property 939 952	concentration
+T12	ReactionOrProcess 1118 1143	flame ionization detector
+T13	ReactionOrProcess 1135 1143	detector
+T14	ReactionOrProcess 1118 1134	flame ionization
+T15	Property 1399 1411	temperatures
+T16	ReactionOrProcess 1390 1398	detector
+T17	Property 1455 1466	temperature
+T18	ReactionOrProcess 1660 1670	incubation
+T19	Nutrient 1624 1628	agar
+T20	Substrate 1888 1898	salicylate
+T21	Substrate 1859 1870	naphthalene
+T22	ReactionOrProcess 1929 1953	16S rRNA gene sequencing
+T23	Microbes 2031 2042	Alcaligenes
+T24	Microbes 2031 2046	Alcaligenes spp
+T25	ReactionOrProcess 2384 2397	hybridization
+T26	ReactionOrProcess 2544 2557	hybridization
+T27	Substrate 2719 2730	hydrocarbon
+T28	Property 2731 2744	concentration
+T29	Substrate 2961 2968	styrene
+T30	Substrate 3018 3025	styrene
+T31	Substrate 2878 2885	styrene
+T32	Substrate 3071 3078	styrene
+T33	Substrate 3145 3152	styrene
+T34	Substrate 3352 3364	hydrocarbons
+T35	Substrate 3352 3364	hydrocarbons
+T36	ReactionOrProcess 3224 3235	aerobically
+T37	Nutrient 3377 3383	carbon
+R5	CarriedOn Arg1:T36 Arg2:T34
+R6	CarriedOn Arg1:T36 Arg2:T35
+T38	Substrate 3469 3480	hydrocarbon
+T39	Property 3486 3499	concentration
+T40	ReactionOrProcess 3420 3429	incubated
+T41	ReactionOrProcess 3621 3630	degrading

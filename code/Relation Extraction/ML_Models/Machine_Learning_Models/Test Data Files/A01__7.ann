@@ -1,0 +1,101 @@
+T1 Microbes 55 72 Oceanospirillales
+T2 Microbes 140 159 Gammaproteobacteria
+T3 Substrate 257 268 hydrocarbon
+T4 Microbes 305 324 Alphaproteobacteria
+T5 Environment 435 452 deep-sea sediment
+T6 Environment 774 779 water
+T7 Substrate 851 862 hydrocarbon
+T8 ReactionOrProcess 676 695 aerobic degradation
+T9 Environment 1041 1046 water
+T10 Substrate 964 976 hydrocarbons
+T11 ReactionOrProcess 992 1011 aerobic degradation
+T12 Environment 1271 1289 deep-sea sediments
+T13 Substrate 1454 1479 recalcitrant hydrocarbons
+T14 Substrate 1230 1241 hydrocarbon
+T15 ReactionOrProcess 1503 1513 processing
+T16 ReactionOrProcess 1352 1383 aerobic hydrocarbon degradation
+T17 ReactionOrProcess 1430 1439 degrading
+T18 Substrate 1838 1850 hydrocarbons
+T19 ReactionOrProcess 1810 1834 Anaerobic biodegradation
+T20 Substrate 2203 2232 polycyclic aromatic compounds
+T21 Substrate 2143 2152 n-alkanes
+T22 Substrate 2119 2131 hydrocarbons
+T23 Substrate 2154 2163 n-alkenes
+T24 Substrate 2165 2187 alicyclic hydrocarbons
+T25 ReactionOrProcess 2095 2105 metabolize
+T26 Substrate 2384 2395 hydrocarbon
+T27 Substrate 2446 2457 hydrocarbon
+T28 ReactionOrProcess 2411 2422 degradation
+T29 Microbes 2616 2635 Deltaproteobacteria
+T30 Substrate 2704 2739 aromatic and aliphatic hydrocarbons
+T31 Microbes 2876 2895 Deltaproteobacteria
+T32 Environment 2916 2924 sediment
+T33 Substrate 3062 3069 alkanes
+T34 Substrate 2990 2994 PAHs
+T35 Microbes 3123 3142 Deltaproteobacteria
+T36 Substrate 3216 3219 oil
+T37 Microbes 3406 3442 Desulfatibacillum alkenivorans AK-01
+T38 Microbes 3504 3523 Deltaproteobacteria
+T39 Substrate 3623 3635 hydrocarbons
+T40 ReactionOrProcess 3598 3619 anaerobic degradation
+T41 Microbes 3889 3908 Deltaproteobacteria
+T42 Substrate 3759 3784 anthropogenic hydrocarbon
+T43 ReactionOrProcess 3974 4007 anaerobic hydrocarbon degradation
+T44 Microbes 4110 4129 Deltaproteobacteria
+T45 Environment 4329 4338 sediments
+T46 Substrate 4349 4365 recalcitrant oil
+T47 Substrate 4278 4285 methane
+T48 Substrate 4155 4166 hydrocarbon
+T49 ReactionOrProcess 4286 4297 utilization
+T50 Environment 4477 4486 sediments
+T51 Environment 4741 4750 sediments
+T52 Substrate 4775 4790 alkylsuccinates
+T53 Substrate 4629 4663 aliphatic and aromatic hydrocarbon
+T54 Substrate 5278 5300 aliphatic hydrocarbons
+T55 Environment 5474 5482 sediment
+T56 Substrate 5367 5382 alkylsuccinates
+T57 Substrate 5563 5576 alkylbenzenes
+T58 ReactionOrProcess 5535 5559 anaerobic biodegradation
+T59 Environment 5695 5704 sediments
+R1 ActOn Arg1:T2 Arg2:T3
+R3 CarriedOn Arg1:T8 Arg2:T7
+R4 OccursIn Arg1:T8 Arg2:T6
+R5 CarriedOn Arg1:T11 Arg2:T10
+R6 OccursIn Arg1:T11 Arg2:T9
+R7 CarriedOn Arg1:T15 Arg2:T13
+R8 CarriedOn Arg1:T15 Arg2:T14
+R9 CarriedOn Arg1:T16 Arg2:T13
+R10 CarriedOn Arg1:T16 Arg2:T14
+R11 CarriedOn Arg1:T17 Arg2:T13
+R12 CarriedOn Arg1:T17 Arg2:T14
+R13 OccursIn Arg1:T15 Arg2:T12
+R14 OccursIn Arg1:T16 Arg2:T12
+R15 OccursIn Arg1:T17 Arg2:T12
+R16 CarriedOn Arg1:T19 Arg2:T18
+R18 CarriedOn Arg1:T25 Arg2:T21
+R19 CarriedOn Arg1:T25 Arg2:T22
+R20 CarriedOn Arg1:T25 Arg2:T23
+R21 CarriedOn Arg1:T25 Arg2:T24
+R22 CarriedOn Arg1:T28 Arg2:T26
+R23 CarriedOn Arg1:T28 Arg2:T27
+R24 ActOn Arg1:T29 Arg2:T30
+R26 ActOn Arg1:T31 Arg2:T33
+R27 ActOn Arg1:T31 Arg2:T34
+R28 ActOn Arg1:T35 Arg2:T36
+R29 ActOn Arg1:T38 Arg2:T39
+R30 CarriedOn Arg1:T40 Arg2:T38
+R31 CarriedOn Arg1:T40 Arg2:T39
+R32 ActOn Arg1:T41 Arg2:T42
+R33 CarriedOn Arg1:T43 Arg2:T41
+R34 CarriedOn Arg1:T43 Arg2:T42
+R36 ActOn Arg1:T44 Arg2:T46
+R37 ActOn Arg1:T44 Arg2:T47
+R38 ActOn Arg1:T44 Arg2:T48
+R39 CarriedOn Arg1:T49 Arg2:T44
+R40 CarriedOn Arg1:T49 Arg2:T46
+R41 CarriedOn Arg1:T49 Arg2:T47
+R42 CarriedOn Arg1:T49 Arg2:T48
+R43 OccursIn Arg1:T49 Arg2:T45
+R44 CarriedOn Arg1:T58 Arg2:T56
+R45 CarriedOn Arg1:T58 Arg2:T57
+R46 OccursIn Arg1:T58 Arg2:T55

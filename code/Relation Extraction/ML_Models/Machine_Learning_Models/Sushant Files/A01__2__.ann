@@ -1,0 +1,50 @@
+T1	Substrate 142 145	oil
+T2	ReactionOrProcess 453 486	anaerobic hydrocarbon degradation
+T3	Environment 518 535	Deep-sea sediment
+T4	Substrate 599 602	oil
+T5	Environment 808 825	deep-sea sediment
+T6	Environment 847 852	water
+T7	Environment 909 924	capped sediment
+T8	Environment 1530 1536	Marine
+T9	ReactionOrProcess 1699 1713	DNA extraction
+T10	ReactionOrProcess 2088 2102	DNA EXTRACTION
+T11	Environment 2307 2311	Soil
+T12	ReactionOrProcess 2264 2273	extracted
+T13	ReactionOrProcess 2316 2325	Isolation
+T14	Substrate 2501 2508	ethanol
+T15	ReactionOrProcess 2471 2479	purified
+T16	ReactionOrProcess 2582 2597	electrophoresis
+T17	Nutrient 2606 2610	agar
+T18	Microbes 4507 4530	Alcanivorax borkumensis
+T19	Microbes 4874 4910	Desulfatibacillum alkenivorans AK-01
+T20	Microbes 5127 5146	Deltaproteobacteria
+T21	Environment 4773 4779	marine
+T22	Substrate 5086 5106	aromatic hydrocarbon
+T23	Substrate 4932 4940	n-alkane
+T24	Substrate 4658 4670	hydrocarbons
+T25	Substrate 4654 4657	oil
+T26	Substrate 4945 4953	n-alkene
+T27	Property 4914 4930	sulfate-reducing
+T28	Nutrient 4698 4704	carbon
+T29	Environment 5191 5216	FUNCTIONAL GENES Sediment
+T30	ReactionOrProcess 5170 5173	PCR
+R1	FoundIn Arg1:T18 Arg2:T21
+R2	FoundIn Arg1:T19 Arg2:T21
+R3	FoundIn Arg1:T20 Arg2:T21
+R4	Of Arg1:T18 Arg2:T27
+R5	Of Arg1:T19 Arg2:T27
+R6	ActOn Arg1:T18 Arg2:T22
+R7	ActOn Arg1:T18 Arg2:T23
+R8	ActOn Arg1:T18 Arg2:T24
+R9	ActOn Arg1:T18 Arg2:T25
+R10	ActOn Arg1:T18 Arg2:T26
+R11	ActOn Arg1:T19 Arg2:T22
+R12	ActOn Arg1:T19 Arg2:T23
+R13	ActOn Arg1:T19 Arg2:T24
+R14	ActOn Arg1:T19 Arg2:T25
+R15	ActOn Arg1:T19 Arg2:T26
+R16	ActOn Arg1:T20 Arg2:T22
+R17	ActOn Arg1:T20 Arg2:T23
+R18	ActOn Arg1:T20 Arg2:T24
+R19	ActOn Arg1:T20 Arg2:T25
+R20	ActOn Arg1:T20 Arg2:T26

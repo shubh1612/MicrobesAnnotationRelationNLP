@@ -1,0 +1,60 @@
+T1	Property 200 212	methanogenic
+T2	Property 200 212	methanogenic
+T3	ReactionOrProcess 717 729	fermentation
+T4	Nutrient 573 579	carbon
+T5	Substrate 845 856	methanogens
+T6	Substrate 996 1007	methanogens
+T7	Substrate 869 876	methane
+T8	Substrate 1020 1027	methane
+T9	Nutrient 776 782	carbon
+T10	Nutrient 895 901	carbon
+T11	Nutrient 963 969	carbon
+T12	Nutrient 1032 1038	carbon
+T13	Environment 1147 1156	sediments
+T14	Environment 1142 1146	lake
+T15	Substrate 1247 1254	methane
+T16	Property 1217 1229	temperatures
+T17	ReactionOrProcess 1303 1317	methanogenesis
+T18	Property 1401 1412	temperature
+T19	Environment 1531 1538	aquifer
+T20	Substrate 1607 1618	methanogens
+T21	Substrate 1687 1698	hydrocarbon
+T22	Property 1489 1500	temperature
+T23	Property 1564 1576	methanogenic
+T24	Property 1564 1576	methanogenic
+T25	ReactionOrProcess 1687 1710	hydrocarbon degradation
+T26	ReactionOrProcess 1699 1710	degradation
+T27	ReactionOrProcess 1646 1660	methanogenesis
+T28	ReactionOrProcess 1889 1900	utilization
+T29	Environment 2105 2112	aquifer
+T30	Substrate 2040 2049	petroleum
+T31	Substrate 2050 2062	hydrocarbons
+T32	Substrate 2154 2166	hydrocarbons
+T33	Substrate 2050 2062	hydrocarbons
+T34	Substrate 2154 2166	hydrocarbons
+T35	Substrate 2040 2062	petroleum hydrocarbons
+T36	Property 2070 2082	methanogenic
+T37	Property 2070 2082	methanogenic
+T38	ReactionOrProcess 2168 2180	fermentation
+T39	ReactionOrProcess 2246 2258	fermentation
+T40	ReactionOrProcess 2025 2036	degradation
+T41	ReactionOrProcess 2375 2389	methanogenesis
+R1	CarriedOn Arg1:T40 Arg2:T30
+R2	CarriedOn Arg1:T40 Arg2:T31
+R3	CarriedOn Arg1:T40 Arg2:T32
+R4	CarriedOn Arg1:T40 Arg2:T33
+R5	CarriedOn Arg1:T40 Arg2:T34
+R6	CarriedOn Arg1:T40 Arg2:T35
+T42	Environment 2562 2569	aquifer
+T43	Environment 2686 2694	aquifers
+T44	Property 2630 2642	methanogenic
+T45	Property 2630 2642	methanogenic
+T46	ReactionOrProcess 2653 2667	bioremediation
+T47	ReactionOrProcess 2643 2667	intrinsic bioremediation
+T48	Environment 2787 2814	other contaminated aquifers
+T49	Environment 2793 2814	contaminated aquifers
+T50	Environment 2806 2814	aquifers
+T51	Property 2826 2838	methanogenic
+T52	Property 2826 2838	methanogenic
+T53	ReactionOrProcess 2849 2863	bioremediation
+T54	ReactionOrProcess 2839 2863	intrinsic bioremediation

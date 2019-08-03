@@ -1,0 +1,61 @@
+T1	Property 80 92	methanogenic
+T2	Property 80 92	methanogenic
+T3	ReactionOrProcess 23 32	reduction
+T4	Nutrient 49 67	electron acceptors
+T5	Substrate 156 174	aromatic compounds
+T6	Substrate 156 174	aromatic compounds
+T7	Property 156 164	aromatic
+T8	Nutrient 178 184	carbon
+T9	ReactionOrProcess 267 278	degradation
+T10	Nutrient 310 316	carbon
+T11	ReactionOrProcess 489 500	degradation
+T12	Substrate 572 589	aromatic compound
+T13	Property 572 580	aromatic
+T14	ReactionOrProcess 550 560	catabolism
+T15	Nutrient 642 659	electron acceptor
+R1	CarriedOn Arg1:T14 Arg2:T12
+T16	ReactionOrProcess 742 751	oxidation
+T17	ReactionOrProcess 733 751	complete oxidation
+T18	Nutrient 794 812	electron acceptors
+T19	Environment 899 915	nitrate-reducing
+T20	Property 1018 1030	methanogenic
+T21	Property 1018 1030	methanogenic
+T22	Property 1148 1160	methanogenic
+T23	Property 1148 1160	methanogenic
+T24	Property 1165 1177	sulfidogenic
+T25	Nutrient 1282 1299	electron acceptor
+T26	ReactionOrProcess 1379 1387	reducing
+T27	Substrate 1438 1445	nitrate
+T28	Nutrient 1430 1436	oxygen
+T29	Substrate 1487 1493	sulfur
+T30	ReactionOrProcess 1509 1518	reduction
+T31	Nutrient 1527 1545	electron acceptors
+T32	Substrate 1690 1708	aromatic compounds
+T33	Substrate 1690 1708	aromatic compounds
+T34	Property 1690 1698	aromatic
+T35	Substrate 1901 1919	aromatic compounds
+T36	Substrate 1933 1939	phenol
+T37	Substrate 1901 1919	aromatic compounds
+T38	Property 1901 1909	aromatic
+T39	ReactionOrProcess 1944 1975	3-chlorobenzoate biodegradation
+T40	ReactionOrProcess 1961 1975	biodegradation
+T41	Substrate 2056 2062	phenol
+T42	ReactionOrProcess 2046 2074	anaerobic phenol degradation
+T43	ReactionOrProcess 2063 2074	degradation
+T44	Enzyme 2186 2199	monooxygenase
+T45	Substrate 2112 2118	phenol
+T46	ReactionOrProcess 2099 2110	Aerobically
+T47	Substrate 2263 2269	phenol
+T48	ReactionOrProcess 2226 2259	aerobic and anaerobic degradation
+T49	ReactionOrProcess 2248 2259	degradation
+T50	ReactionOrProcess 2238 2259	anaerobic degradation
+R2	CarriedOn Arg1:T48 Arg2:T47
+R3	CarriedOn Arg1:T49 Arg2:T47
+R4	CarriedOn Arg1:T50 Arg2:T47
+T51	ReactionOrProcess 2467 2475	degraded
+T52	Substrate 2614 2620	phenol
+T53	ReactionOrProcess 2599 2612	Anaerobically
+T54	Microbes 2732 2753	denitrifying bacteria
+T55	Property 2732 2744	denitrifying
+T56	ReactionOrProcess 2732 2744	denitrifying
+T57	ReactionOrProcess 2679 2690	degradation

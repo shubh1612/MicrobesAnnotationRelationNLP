@@ -1,0 +1,115 @@
+T1	Environment 234 240	marine
+T2	Environment 172 186	offshore spill
+T3	Substrate 113 116	oil
+T4	Substrate 55 75	Horizon deep-sea oil
+T5	Property 63 81	deep-sea oil plume
+T6	Property 386 404	deep-sea oil plume
+T7	Environment 551 556	plume
+T8	Environment 583 588	plume
+T9	Environment 678 686	deep sea
+T10	Substrate 477 510	aerobic and anaerobic hydrocarbon
+T11	Property 659 670	attenuation
+T12	ReactionOrProcess 623 647	intrinsic bioremediation
+T13	ReactionOrProcess 489 522	anaerobic hydrocarbon degradation
+T14	Environment 878 883	plume
+T15	Substrate 780 786	sulfur
+T16	Nutrient 750 756	carbon
+T17	Nutrient 758 766	nitrogen
+T18	Nutrient 791 795	iron
+T19	Nutrient 768 778	phosphorus
+T20	Environment 937 943	marine
+T21	Substrate 1017 1020	oil
+T22	ReactionOrProcess 999 1013	biodegradation
+T23	Substrate 1228 1237	crude oil
+T24	Substrate 1107 1110	oil
+T25	Substrate 1355 1358	Oil
+T26	Substrate 1563 1566	oil
+T27	Environment 1591 1600	oil plume
+T28	Substrate 1580 1594	deep-water oil
+T29	ReactionOrProcess 1839 1860	microbial degradation
+T30	Environment 1967 1986	offshore oil spills
+T31	Environment 1920 1928	deep sea
+T32	Substrate 2059 2062	oil
+T33	Environment 2092 2098	marine
+T34	Substrate 2180 2183	oil
+T35	Property 2184 2196	contaminants
+T36	ReactionOrProcess 2165 2176	degradation
+T37	Environment 2324 2333	oil plume
+T38	Substrate 2319 2327	deep oil
+T39	ReactionOrProcess 2300 2311	degradation
+T40	Environment 2474 2483	oil plume
+T41	Substrate 2469 2477	deep oil
+T42	Environment 2686 2691	plume
+T43	Environment 2759 2764	plume
+T44	Environment 2721 2726	water
+T45	Property 2649 2669	chemical composition
+T46	Environment 2901 2909	deep sea
+T47	Substrate 2793 2796	oil
+T48	ReactionOrProcess 2797 2806	depletion
+T49	ReactionOrProcess 2858 2872	biodegradation
+T50	Environment 2972 2977	plume
+T51	Environment 2979 3004	oil-contaminated seawater
+T52	Environment 3325 3331	marine
+T53	Substrate 3296 3299	oil
+T54	Substrate 3153 3156	oil
+T55	Substrate 3501 3504	oil
+T56	Environment 3607 3616	oil plume
+T57	Substrate 3552 3563	hydrocarbon
+T58	ReactionOrProcess 3569 3580	degradation
+T59	Environment 3726 3732	marine
+T60	Substrate 3649 3652	oil
+T61	Substrate 3846 3849	oil
+T62	Environment 4065 4073	seawater
+T63	Substrate 4488 4491	oil
+T64	Property 4289 4298	dissolved
+T65	Environment 4636 4641	water
+T66	Environment 4786 4795	oil plume
+T67	Substrate 4770 4789	MC252 dispersed oil
+T68	Environment 4974 4979	plume
+T69	Environment 5044 5052	seawater
+T70	Substrate 5328 5344	isopropylbenzene
+T71	Substrate 5448 5466	p-isopropyltoluene
+T72	Substrate 5296 5303	benzene
+T73	Substrate 5305 5312	toluene
+T74	Substrate 5500 5508	o-xylene
+T75	Substrate 5142 5149	nitrite
+T76	Substrate 5346 5361	n-propylbenzene
+T77	Substrate 5406 5428	1,2,4-trimethylbenzene
+T78	Substrate 5484 5495	naphthalene
+T79	Substrate 5314 5326	ethylbenzene
+T80	Substrate 5517 5526	p-xylenes
+T81	Substrate 5468 5482	n-butylbenzene
+T82	Substrate 5124 5131	ammonia
+T83	Substrate 5239 5242	oil
+T84	Substrate 5291 5294	oil
+T85	Substrate 5387 5404	tert-butylbenzene
+T86	Property 5082 5093	temperature
+T87	Nutrient 5132 5140	nitrogen
+T88	Nutrient 5165 5169	iron
+T89	Nutrient 5074 5080	oxygen
+T90	ReactionOrProcess 5628 5637	extracted
+T91	ReactionOrProcess 5911 5919	purified
+T92	ReactionOrProcess 5999 6012	hybridization
+T93	ReactionOrProcess 6026 6039	hybridization
+R1	CarriedOn Arg1:T12 Arg2:T10
+R2	CarriedOn Arg1:T13 Arg2:T10
+R3	OccursIn Arg1:T12 Arg2:T7
+R4	OccursIn Arg1:T12 Arg2:T8
+R5	OccursIn Arg1:T12 Arg2:T9
+R6	OccursIn Arg1:T13 Arg2:T7
+R7	OccursIn Arg1:T13 Arg2:T8
+R8	OccursIn Arg1:T13 Arg2:T9
+R9	CarriedOn Arg1:T22 Arg2:T21
+R10	OccursIn Arg1:T22 Arg2:T20
+R11	CarriedOn Arg1:T29 Arg2:T28
+R12	OccursIn Arg1:T29 Arg2:T27
+R13	CarriedOn Arg1:T36 Arg2:T34
+R14	OccursIn Arg1:T36 Arg2:T33
+R15	CarriedOn Arg1:T39 Arg2:T38
+R16	OccursIn Arg1:T39 Arg2:T37
+R17	CarriedOn Arg1:T48 Arg2:T47
+R18	CarriedOn Arg1:T49 Arg2:T47
+R19	OccursIn Arg1:T48 Arg2:T46
+R20	OccursIn Arg1:T49 Arg2:T46
+R21	CarriedOn Arg1:T58 Arg2:T57
+R22	OccursIn Arg1:T58 Arg2:T56

@@ -1,0 +1,51 @@
+T1 Environment 104 122 previous oil spill
+T2 Environment 82 99 accidental spills
+T3 Substrate 61 64 oil
+T4 ReactionOrProcess 325 336 degradation
+T5 Substrate 421 424 oil
+T6 ReactionOrProcess 439 453 bioremediation
+T7 Environment 725 734 sediments
+T8 ReactionOrProcess 954 977 hydrocarbon degradation
+T9 Property 1101 1115 concentrations
+T10 Property 1138 1152 concentrations
+T11 Substrate 1196 1199 oil
+T12 ReactionOrProcess 1173 1184 Degradation
+T13 ReactionOrProcess 1284 1299 oil degradation
+T14 Property 1704 1713 mortality
+T15 Property 1761 1775 concentrations
+T16 Environment 2304 2324 oil-treated sediment
+T17 Nutrient 2643 2649 carbon
+T18 Nutrient 2812 2818 carbon
+T19 Environment 3308 3317 sediments
+T20 Environment 3302 3307 beach
+T21 ReactionOrProcess 3372 3386 bioremediation
+T22 Environment 3702 3733 oil-contaminated beach sediment
+T23 Environment 3916 3924 sediment
+T24 Environment 3865 3875 microcosms
+T25 Environment 3910 3915 beach
+T26 ReactionOrProcess 3855 3864 replicate
+T27 ReactionOrProcess 3887 3898 homogenized
+T28 Environment 4094 4102 sediment
+T29 ReactionOrProcess 4618 4632 bioremediation
+T30 Substrate 4897 4900 oil
+T31 Substrate 4913 4945 polycyclic aromatic hydrocarbons
+T32 Substrate 5177 5180 oil
+T33 ReactionOrProcess 5203 5230 significant oil degradation
+T34 Substrate 5316 5319 oil
+T35 ReactionOrProcess 5291 5305 biodegradation
+T36 ReactionOrProcess 5453 5464 degradation
+T37 ReactionOrProcess 5555 5566 degradation
+T38 ReactionOrProcess 5638 5649 degradation
+R1 CarriedOn Arg1:T6 Arg2:T5
+R2 OccursIn Arg1:T8 Arg2:T7
+R3 CarriedOn Arg1:T12 Arg2:T11
+R4 OccursIn Arg1:T21 Arg2:T19
+R5 OccursIn Arg1:T21 Arg2:T20
+R6 OccursIn Arg1:T26 Arg2:T23
+R7 OccursIn Arg1:T26 Arg2:T24
+R8 OccursIn Arg1:T26 Arg2:T25
+R9 OccursIn Arg1:T27 Arg2:T23
+R10 OccursIn Arg1:T27 Arg2:T24
+R11 OccursIn Arg1:T27 Arg2:T25
+R12 CarriedOn Arg1:T33 Arg2:T32
+R13 CarriedOn Arg1:T35 Arg2:T34

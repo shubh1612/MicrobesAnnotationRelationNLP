@@ -1,0 +1,74 @@
+T1	Microbes 26 39	P. oleovorans
+T2	Microbes 46 55	P. putida
+T3	Microbes 72 81	P. putida
+T4	Enzyme 116 134	alkane hydroxylase
+T5	Enzyme 141 165	catechol 2,3-dioxygenase
+T6	Enzyme 188 211	naphthalene dioxygenase
+T7	Substrate 188 199	naphthalene
+T8	ReactionOrProcess 226 229	PCR
+T9	Enzyme 374 398	catechol 2,3-dioxygenase
+T10	ReactionOrProcess 306 315	extracted
+T11	ReactionOrProcess 356 359	PCR
+T12	Enzyme 515 539	catechol 2,3-dioxygenase
+T13	Substrate 626 644	aromatic compounds
+T14	Substrate 626 644	aromatic compounds
+T15	Property 626 634	aromatic
+T16	ReactionOrProcess 594 605	degradation
+R1	CarriedOn Arg1:T16 Arg2:T13
+R2	CarriedOn Arg1:T16 Arg2:T14
+R3	Inhibit_Catalyse Arg1:T12 Arg2:T16
+T17	Enzyme 698 716	alkane hydroxylase
+T18	ReactionOrProcess 748 757	extracted
+T19	ReactionOrProcess 654 657	PCR
+R4	Inhibit_Catalyse Arg1:T17 Arg2:T18
+T20	Enzyme 917 935	alkane hydroxylase
+T21	Environment 956 961	soils
+T22	ReactionOrProcess 815 818	PCR
+T23	Environment 1004 1016	soil samples
+T24	Environment 1004 1008	soil
+T25	ReactionOrProcess 1037 1040	PCR
+T26	Microbes 1102 1111	AlkB gene
+T27	Enzyme 1083 1101	alkane hydroxylase
+T28	Environment 1166 1182	landfarmed soils
+T29	Environment 1166 1182	landfarmed soils
+T30	Environment 1177 1182	soils
+T31	Substrate 1149 1158	n-alkanes
+T32	ReactionOrProcess 1243 1252	oxidation
+T33	ReactionOrProcess 1127 1145	active degradation
+T34	ReactionOrProcess 1209 1218	degrading
+T35	ReactionOrProcess 1063 1066	PCR
+T36	ReactionOrProcess 1134 1145	degradation
+R5	CarriedOn Arg1:T35 Arg2:T26
+R6	CarriedOn Arg1:T33 Arg2:T31
+R7	CarriedOn Arg1:T35 Arg2:T31
+R8	CarriedOn Arg1:T36 Arg2:T31
+R9	Inhibit_Catalyse Arg1:T27 Arg2:T32
+R10	Inhibit_Catalyse Arg1:T27 Arg2:T33
+R11	Inhibit_Catalyse Arg1:T27 Arg2:T34
+R12	Inhibit_Catalyse Arg1:T27 Arg2:T36
+T37	Environment 1404 1408	soil
+T38	Environment 1431 1435	soil
+T39	Substrate 1458 1470	hydrocarbons
+T40	Substrate 1458 1470	hydrocarbons
+T41	Property 1436 1446	pollutants
+T42	ReactionOrProcess 1347 1350	PCR
+T43	ReactionOrProcess 1497 1500	PCR
+R13	CarriedOn Arg1:T42 Arg2:T39
+R14	CarriedOn Arg1:T42 Arg2:T40
+R15	CarriedOn Arg1:T43 Arg2:T39
+R16	CarriedOn Arg1:T43 Arg2:T40
+T44	Microbes 1633 1644	Alcaligenes
+T45	Environment 1565 1577	soil samples
+T46	Environment 1565 1569	soil
+T47	ReactionOrProcess 1546 1555	extracted
+T48	ReactionOrProcess 1607 1618	degradation
+T49	Microbes 1654 1666	Enterobacter
+T50	ReactionOrProcess 1811 1814	PCR
+T51	Enzyme 1915 1933	alkane hydroxylase
+T52	Enzyme 1940 1964	catechol 2,3-dioxygenase
+T53	Enzyme 1987 2010	naphthalene dioxygenase
+T54	Substrate 1987 1998	naphthalene
+T55	ReactionOrProcess 1880 1883	PCR
+R17	CarriedOn Arg1:T55 Arg2:T54
+T56	ReactionOrProcess 2043 2046	PCR
+T57	ReactionOrProcess 2076 2087	degradation

@@ -1,0 +1,49 @@
+T1	Environment 71 81	microcosms
+T2	Substrate 42 49	toluene
+T3	Property 50 63	concentration
+T4	ReactionOrProcess 17 28	incubations
+T5	Environment 118 128	microcosms
+T6	Substrate 184 191	toluene
+T7	Environment 446 450	soil
+T8	Environment 461 466	water
+T9	ReactionOrProcess 370 381	incubations
+T10	ReactionOrProcess 525 534	incubated
+T11	ReactionOrProcess 583 587	PLFA
+T12	Environment 664 668	soil
+T13	Property 876 884	alkaline
+T14	ReactionOrProcess 769 781	fractionated
+T15	ReactionOrProcess 704 713	extracted
+T16	Property 1176 1187	temperature
+T17	ReactionOrProcess 1227 1247	GC-mass spectrometry
+T18	ReactionOrProcess 1537 1563	flame ionization detection
+T19	ReactionOrProcess 1454 1469	Chromatographic
+T20	ReactionOrProcess 1537 1553	flame ionization
+T21	ReactionOrProcess 1606 1610	PLFA
+T22	Property 1724 1733	retention
+T23	ReactionOrProcess 1724 1733	retention
+T24	ReactionOrProcess 1693 1697	PLFA
+T25	Environment 1965 1969	soil
+T26	ReactionOrProcess 2149 2159	combustion
+T27	Nutrient 1897 1903	Carbon
+T28	Property 2267 2278	temperature
+T29	Environment 2617 2626	microcosm
+T30	ReactionOrProcess 2607 2616	replicate
+T31	ReactionOrProcess 2627 2631	PLFA
+T32	Nutrient 2751 2757	carbon
+T33	Nutrient 3047 3053	carbon
+T34	Substrate 3316 3323	toluene
+T35	ReactionOrProcess 3302 3312	enrichment
+T36	ReactionOrProcess 3199 3208	isolation
+R1	CarriedOn Arg1:T36 Arg2:T34
+T37	Environment 3350 3354	soil
+T38	Substrate 3437 3444	toluene
+T39	Property 3457 3475	sole carbon source
+T40	Nutrient 3462 3468	carbon
+T41	ReactionOrProcess 3493 3502	incubated
+T42	Substrate 3660 3667	toluene
+T43	ReactionOrProcess 3798 3807	incubated
+T44	Nutrient 3783 3787	agar
+T45	Substrate 3894 3901	toluene
+T46	Property 3907 3925	sole carbon source
+T47	Nutrient 3912 3918	carbon
+T48	Substrate 4055 4062	Toluene

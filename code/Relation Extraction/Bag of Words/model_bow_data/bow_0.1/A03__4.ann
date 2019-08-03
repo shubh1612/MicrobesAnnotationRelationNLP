@@ -1,0 +1,71 @@
+T1	Substrate 29 33	MTBE
+T2	Property 12 25	concentration
+T3	Substrate 94 98	MTBE
+T4	Substrate 140 144	MTBE
+T5	Environment 210 219	sediments
+T6	Environment 199 219	HS-amended sediments
+T7	Environment 199 219	HS-amended sediments
+T8	Substrate 242 246	MTBE
+T9	Property 225 238	concentration
+T10	ReactionOrProcess 181 191	replicates
+R1	CarriedOn Arg1:T10 Arg2:T8
+T11	ReactionOrProcess 291 301	incubation
+T12	Environment 338 347	sediments
+T13	Substrate 314 318	MTBE
+T14	Substrate 364 368	MTBE
+T15	Environment 443 451	sediment
+T16	Environment 508 516	sediment
+T17	Substrate 394 398	MTBE
+T18	ReactionOrProcess 403 411	degraded
+T19	Environment 561 569	Sediment
+T20	Environment 561 570	Sediments
+T21	Substrate 655 659	MTBE
+T22	ReactionOrProcess 677 687	replicates
+T23	ReactionOrProcess 621 629	degraded
+R2	CarriedOn Arg1:T23 Arg2:T21
+T24	Environment 821 829	sediment
+T25	Environment 813 820	aquifer
+T26	Substrate 769 773	MTBE
+T27	Substrate 867 871	MTBE
+T28	ReactionOrProcess 795 805	replicates
+T29	ReactionOrProcess 830 841	enrichments
+T30	Substrate 946 950	MTBE
+T31	Property 929 942	concentration
+T32	Environment 1125 1142	aquatic sediments
+T33	Environment 1133 1142	sediments
+T34	Environment 1114 1142	freshwater aquatic sediments
+T35	Environment 1125 1132	aquatic
+T36	Environment 1125 1142	aquatic sediments
+T37	Substrate 1075 1079	MTBE
+T38	Substrate 1092 1095	TBA
+T39	ReactionOrProcess 1060 1071	degradation
+T40	ReactionOrProcess 1050 1071	anaerobic degradation
+R3	CarriedOn Arg1:T39 Arg2:T37
+R4	CarriedOn Arg1:T39 Arg2:T38
+R5	CarriedOn Arg1:T40 Arg2:T37
+R6	CarriedOn Arg1:T40 Arg2:T38
+T41	Environment 1190 1199	sediments
+T42	Environment 1342 1351	sediments
+T43	ReactionOrProcess 1387 1397	diminished
+T44	ReactionOrProcess 1325 1334	reduction
+T45	ReactionOrProcess 1317 1334	sulfate reduction
+T46	Environment 1497 1506	sediments
+T47	Environment 1610 1618	sediment
+T48	Environment 1799 1808	sediments
+T49	Substrate 1698 1705	methane
+T50	Substrate 1674 1681	nitrate
+T51	ReactionOrProcess 1749 1758	reduction
+T52	ReactionOrProcess 1726 1735	reduction
+T53	ReactionOrProcess 1718 1735	sulfate reduction
+T54	Environment 1877 1886	sediments
+T55	Substrate 1850 1853	TBA
+T56	Environment 1968 1977	sediments
+T57	Substrate 1942 1945	TBA
+T58	ReactionOrProcess 1997 2005	degraded
+T59	Environment 2049 2058	sediments
+T60	Environment 2148 2156	sediment
+T61	Substrate 2141 2144	TBA
+T62	Substrate 2210 2213	TBA
+T63	Property 2193 2206	concentration
+T64	Substrate 2268 2271	TBA
+T65	Environment 2383 2391	sediment

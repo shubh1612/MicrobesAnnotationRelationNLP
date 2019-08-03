@@ -1,0 +1,62 @@
+T1	Microbes 31 42	Alcaligenes
+T2	Microbes 66 77	Micrococcus
+T3	Microbes 134 147	P. aeruginosa
+T4	Substrate 203 214	hydrocarbon
+T5	Microbes 365 378	P. aeruginosa
+T6	Microbes 721 734	P. aeruginosa
+T7	Microbes 606 619	
+T8	Substrate 771 778	alkanes
+T9	Substrate 790 796	hexane
+T10	Property 897 906	aromatics
+T11	ReactionOrProcess 672 700	unusual catabolic activities
+T12	Microbes 962 975	P. aeruginosa
+T13	Microbes 1032 1043	Micrococcus
+T14	Microbes 1000 1009	
+T15	Substrate 1083 1090	alkanes
+T16	Substrate 1446 1457	hydrocarbon
+T17	Property 1203 1221	vapor-phase growth
+T18	Substrate 1547 1558	hydrocarbon
+T19	Substrate 1608 1619	hydrocarbon
+T20	Property 1559 1572	concentration
+T21	Property 1664 1678	concentrations
+T22	Substrate 1859 1870	hydrocarbon
+T23	Property 1836 1849	concentration
+T24	Property 1881 1887	purity
+T25	ReactionOrProcess 1963 1973	incubation
+T26	Nutrient 1895 1901	carbon
+T27	Substrate 2141 2153	hydrocarbons
+T28	Substrate 2256 2268	hydrocarbons
+T29	Property 2244 2255	contaminant
+T30	ReactionOrProcess 2229 2240	utilization
+T31	Substrate 2352 2359	toluene
+T32	Substrate 2467 2479	ethylbenzene
+T33	Property 2365 2383	sole carbon source
+T34	Property 2452 2463	contaminant
+T35	Substrate 2717 2729	hydrocarbons
+T36	ReactionOrProcess 2730 2738	degraded
+T37	Substrate 2980 2987	toluene
+T38	Substrate 3016 3024	o-xylene
+T39	Substrate 2873 2885	hydrocarbons
+T40	Property 3072 3085	concentration
+T41	Property 3001 3012	contaminant
+T42	Substrate 3169 3181	hydrocarbons
+T43	Property 3139 3153	concentrations
+T44	Property 3157 3168	contaminant
+T45	Property 3474 3487	concentration
+T46	ReactionOrProcess 3406 3434	functional catabolic pathway
+T47	ReactionOrProcess 3555 3566	biotoxicity
+T48	Property 3649 3662	cometabolized
+T49	Substrate 3940 3964	single test hydrocarbons
+T50	Substrate 3830 3838	gasoline
+T51	Substrate 3888 3899	hydrocarbon
+T52	Property 3859 3873	concentrations
+T53	Substrate 4006 4018	hydrocarbons
+T54	Property 4068 4082	concentrations
+T55	ReactionOrProcess 4136 4146	incubation
+T56	Nutrient 4106 4110	agar
+R8	CarriedOn Arg1:T11 Arg2:T6
+R9	CarriedOn Arg1:T11 Arg2:T7
+R10	CarriedOn Arg1:T11 Arg2:T8
+R12	CarriedOn Arg1:T30 Arg2:T27
+R13	CarriedOn Arg1:T30 Arg2:T28
+R14	CarriedOn Arg1:T36 Arg2:T35

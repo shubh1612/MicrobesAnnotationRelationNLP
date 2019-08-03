@@ -1,0 +1,38 @@
+T1	Environment 43 47	soil
+T2	ReactionOrProcess 66 77	degradation
+T3	Nutrient 83 91	ammonium
+T4	Environment 425 435	subsurface
+T5	Environment 425 441	subsurface soils
+T6	Environment 310 314	soil
+T7	Environment 436 441	soils
+T8	Environment 425 441	subsurface soils
+T9	Substrate 402 409	toluene
+T10	ReactionOrProcess 402 421	toluene degradation
+T11	ReactionOrProcess 410 421	degradation
+T12	Environment 681 686	water
+T13	Property 662 673	temperature
+T14	Environment 950 954	soil
+T15	Environment 841 846	soils
+T16	ReactionOrProcess 864 868	PLFA
+T17	ReactionOrProcess 717 721	PLFA
+T18	Substrate 1110 1122	hydrocarbons
+T19	Substrate 1110 1122	hydrocarbons
+T20	Property 1295 1304	dispersed
+T21	Environment 1440 1445	water
+T22	Nutrient 1401 1409	nitrogen
+T23	ReactionOrProcess 1676 1683	degrade
+T24	Environment 1899 1909	subsurface
+T25	Substrate 2083 2094	hydrocarbon
+T26	Property 2236 2249	concentration
+T27	Substrate 2580 2591	hydrocarbon
+T28	Substrate 2644 2647	oil
+T29	Property 2648 2662	concentrations
+T30	Environment 2761 2770	microcosm
+T31	Environment 2719 2724	soils
+T32	Environment 2709 2724	different soils
+T33	Substrate 2730 2740	diesel oil
+T34	Substrate 2737 2740	oil
+T35	Substrate 2730 2736	diesel
+T36	ReactionOrProcess 2693 2702	incubated
+T37	Environment 3017 3021	soil
+T38	ReactionOrProcess 3287 3296	reduction

@@ -1,0 +1,33 @@
+T1	Environment 67 71	sand
+T2	Property 241 255	concentrations
+T3	Property 351 365	concentrations
+T4	ReactionOrProcess 427 476	terminal restriction fragment length polymorphism
+T5	ReactionOrProcess 367 378	Degradation
+T6	Property 536 550	concentrations
+T7	Property 647 661	concentrations
+T8	ReactionOrProcess 611 619	degraded
+T9	Property 696 709	concentration
+T10	Environment 783 793	microcosms
+T11	ReactionOrProcess 799 808	incubated
+T12	Property 1016 1025	dissolved
+T13	Environment 1153 1158	water
+T14	Property 1295 1309	Concentrations
+T15	Substrate 1390 1397	Benzene
+T16	Substrate 1402 1409	toluene
+T17	ReactionOrProcess 1625 1650	flame ionization detector
+T18	Property 1787 1798	temperature
+T19	Property 1709 1720	temperature
+T20	Property 1754 1765	temperature
+T21	ReactionOrProcess 1745 1753	detector
+T22	ReactionOrProcess 1656 1671	chromatographic
+T23	ReactionOrProcess 2174 2183	incubated
+T24	Substrate 2386 2393	benzene
+T25	Substrate 2398 2405	toluene
+T26	Substrate 2523 2531	methanol
+T27	Substrate 2533 2539	Phenol
+T28	ReactionOrProcess 2601 2609	detector
+T29	Environment 2998 3003	water
+T30	ReactionOrProcess 2925 2939	centrifugation
+T31	Substrate 3248 3255	benzene
+T32	ReactionOrProcess 3375 3384	extracted
+T33	ReactionOrProcess 3344 3351	cloning

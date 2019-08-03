@@ -1,0 +1,93 @@
+T1	ReactionOrProcess 57 68	reamplified
+T2	ReactionOrProcess 48 52	DGGE
+T3	ReactionOrProcess 13 16	PCR
+T4	Microbes 216 230	Geobacteraceae
+T5	Environment 207 215	sediment
+T6	ReactionOrProcess 187 203	MPN-PCR analysis
+R1	CarriedOn Arg1:T6 Arg2:T4
+T7	Microbes 252 266	Geobacteraceae
+T8	Environment 283 300	methanogenic site
+T9	Property 283 295	methanogenic
+T10	Property 283 295	methanogenic
+T11	ReactionOrProcess 232 248	MPN-PCR analysis
+R2	CarriedOn Arg1:T11 Arg2:T7
+T12	Property 505 524	secondary structure
+T13	ReactionOrProcess 812 816	PLFA
+T14	Environment 853 861	sediment
+T15	Environment 992 1000	sediment
+T16	Property 1066 1077	temperature
+T17	ReactionOrProcess 1014 1024	sonication
+T18	ReactionOrProcess 838 847	extracted
+T19	ReactionOrProcess 1039 1049	incubation
+T20	ReactionOrProcess 827 831	PLFA
+T21	ReactionOrProcess 827 832	PLFAs
+T22	Environment 1122 1130	sediment
+T23	ReactionOrProcess 1134 1148	centrifugation
+T24	Environment 1196 1204	sediment
+T25	Substrate 1232 1250	methylene chloride
+T26	ReactionOrProcess 1209 1215	washed
+R3	CarriedOn Arg1:T26 Arg2:T25
+T27	Environment 1357 1362	water
+T28	ReactionOrProcess 1468 1482	centrifugation
+T29	ReactionOrProcess 1525 1534	pipetting
+T30	ReactionOrProcess 1607 1619	fractionated
+T31	ReactionOrProcess 1657 1661	PLFA
+T32	Microbes 1933 1947	Geobacteraceae
+T33	Substrate 1995 2002	benzene
+T34	Substrate 1985 2002	anaerobic benzene
+T35	ReactionOrProcess 1985 2014	anaerobic benzene degradation
+T36	ReactionOrProcess 2003 2014	degradation
+T37	Microbes 2085 2099	Geobacteraceae
+T38	Substrate 2221 2228	benzene
+T39	Property 2120 2137	benzene-oxidizing
+T40	ReactionOrProcess 2229 2240	degradation
+T41	Environment 2496 2503	aquifer
+T42	Substrate 2463 2470	benzene
+T43	ReactionOrProcess 2471 2480	oxidation
+T44	ReactionOrProcess 2373 2387	lipid analysis
+T45	ReactionOrProcess 2393 2410	culturing studies
+T46	ReactionOrProcess 2314 2328	biodegradation
+R4	CarriedOn Arg1:T44 Arg2:T42
+R5	CarriedOn Arg1:T45 Arg2:T42
+R6	CarriedOn Arg1:T46 Arg2:T42
+T47	Property 2635 2652	benzene-oxidizing
+T48	Microbes 2735 2749	Geobacteraceae
+T49	Substrate 2688 2695	benzene
+T50	ReactionOrProcess 2696 2710	mineralization
+R7	CarriedOn Arg1:T50 Arg2:T48
+T51	Environment 2831 2850	uncontaminated site
+T52	Environment 2862 2884	methanogenic sediments
+T53	Environment 2875 2884	sediments
+T54	Environment 2862 2884	methanogenic sediments
+T55	Substrate 2761 2768	benzene
+T56	Substrate 2751 2768	Anaerobic benzene
+T57	Property 2862 2874	methanogenic
+T58	Property 2862 2874	methanogenic
+T59	ReactionOrProcess 2751 2783	Anaerobic benzene mineralization
+T60	ReactionOrProcess 2769 2783	mineralization
+T61	Environment 3052 3061	sediments
+T62	Substrate 3041 3048	benzene
+T63	Substrate 3110 3117	benzene
+T64	ReactionOrProcess 3103 3132	slight benzene mineralization
+T65	ReactionOrProcess 2996 3010	mineralization
+T66	ReactionOrProcess 3118 3132	mineralization
+R8	CarriedOn Arg1:T64 Arg2:T62
+R9	CarriedOn Arg1:T64 Arg2:T63
+R10	CarriedOn Arg1:T65 Arg2:T62
+R11	CarriedOn Arg1:T65 Arg2:T63
+R12	CarriedOn Arg1:T66 Arg2:T62
+R13	CarriedOn Arg1:T66 Arg2:T63
+T67	Microbes 3277 3291	Geobacteraceae
+T68	Environment 3311 3333	methanogenic sediments
+T69	Environment 3324 3333	sediments
+T70	Environment 3311 3333	methanogenic sediments
+T71	Property 3311 3323	methanogenic
+T72	Property 3311 3323	methanogenic
+T73	ReactionOrProcess 3178 3194	MPN-PCR analysis
+R14	CarriedOn Arg1:T73 Arg2:T67
+T74	Microbes 3395 3409	Geobacteraceae
+T75	Microbes 3697 3711	Geobacteraceae
+T76	ReactionOrProcess 3747 3751	PLFA
+T77	Environment 3938 3957	uncontaminated site
+T78	Property 3790 3804	concentrations
+T79	ReactionOrProcess 3785 3789	PLFA

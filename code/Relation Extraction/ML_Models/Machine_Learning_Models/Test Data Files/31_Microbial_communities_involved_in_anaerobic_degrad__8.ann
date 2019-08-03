@@ -1,0 +1,155 @@
+T1 Substrate 45 52 alkanes
+T2 Substrate 70 77 methane
+T3 Substrate 41 44 oil
+T4 ReactionOrProcess 183 192 oxidation
+T5 ReactionOrProcess 224 238 methanogenesis
+T6 Environment 446 455 Oil Sands
+T7 Environment 393 445 heavily degraded oils of the mesothermic Peace River
+T8 Substrate 554 577 subsurface degraded oil
+T9 Substrate 364 371 methane
+T10 ReactionOrProcess 489 520 hydrogenotrophic methanogenesis
+T11 Environment 700 706 waters
+T12 Substrate 815 824 petroleum
+T13 Substrate 659 670 methanogens
+T14 Substrate 674 677 oil
+T15 ReactionOrProcess 714 725 enrichments
+T16 ReactionOrProcess 763 794 hydrogenotrophic methanogenesis
+T17 Environment 1023 1029 waters
+T18 Substrate 997 1000 oil
+T19 ReactionOrProcess 1077 1086 oxidation
+T20 ReactionOrProcess 966 980 methanogenesis
+T21 ReactionOrProcess 1112 1126 methanogenesis
+T22 Microbes 1606 1622 Deferribaterales
+T23 Microbes 1627 1637 Firmicutes
+T24 Microbes 1443 1462 Methanobacteriaceae
+T25 Microbes 1591 1604 Synergistales
+T26 Environment 1295 1303 oilfield
+T27 Substrate 1354 1361 alkanes
+T28 Substrate 1365 1372 methane
+T29 Substrate 1350 1353 oil
+T30 Substrate 1576 1589 Thermotogales
+T31 ReactionOrProcess 1271 1281 enrichment
+T32 Substrate 1778 1798 subsurface petroleum
+T33 Substrate 1767 1774 alkanes
+T34 Substrate 1763 1766 oil
+T35 Property 1703 1715 methanogenic
+T36 Substrate 1928 1937 crude oil
+T37 Substrate 1987 1996 crude oil
+T38 Substrate 1943 1946 oil
+T39 ReactionOrProcess 1862 1876 methanogenesis
+T40 Substrate 2309 2312 oil
+T41 ReactionOrProcess 2131 2140 oxidation
+T42 ReactionOrProcess 2279 2305 methanogenic decomposition
+T43 ReactionOrProcess 2069 2083 methanogenesis
+T44 ReactionOrProcess 2152 2166 methanogenesis
+T45 Substrate 2446 2449 oil
+T46 Property 2424 2436 methanogenic
+T47 Substrate 2713 2720 alkanes
+T48 Substrate 2840 2847 alkanes
+T49 Substrate 2745 2752 methane
+T50 Substrate 2851 2858 methane
+T51 ReactionOrProcess 2721 2730 depletion
+T52 Substrate 3070 3077 nitrate
+T53 ReactionOrProcess 3159 3168 oxidation
+T54 ReactionOrProcess 3005 3024 Anaerobic oxidation
+T55 ReactionOrProcess 3078 3087 reduction
+T56 Nutrient 3188 3205 electron acceptor
+T57 Nutrient 3174 3180 oxygen
+T58 Substrate 3282 3289 nitrite
+T59 Substrate 3333 3340 alkanes
+T60 ReactionOrProcess 3310 3329 anaerobic oxidation
+T61 Nutrient 3239 3257 electron acceptors
+T62 Substrate 3378 3385 nitrite
+T63 ReactionOrProcess 3452 3457 redox
+T64 Nutrient 3396 3414 electron acceptors
+T65 Environment 3875 3895 anaerobic conditions
+T66 Environment 3768 3785 chlorate-reducing
+T67 Substrate 3814 3822 n-decane
+T68 Property 3866 3884 strictly anaerobic
+T69 Nutrient 3835 3841 carbon
+T70 Nutrient 3913 3930 electron acceptor
+T71 Property 4008 4025 anoxic conditions
+T72 ReactionOrProcess 3968 3977 reduction
+T73 ReactionOrProcess 4231 4238 oxidize
+T74 Nutrient 4093 4099 oxygen
+T75 Enzyme 4350 4360 oxygenases
+T76 Substrate 4286 4293 alkanes
+T77 ReactionOrProcess 4271 4282 degradation
+T78 Enzyme 4475 4485 oxygenases
+T79 Nutrient 4424 4441 electron acceptor
+T80 Nutrient 4455 4461 oxygen
+T81 Property 4554 4563 dissolved
+T82 Property 4536 4550 concentrations
+T83 ReactionOrProcess 4617 4626 reduction
+T84 Nutrient 4564 4570 oxygen
+T85 Nutrient 4650 4656 oxygen
+T86 Substrate 4901 4909 n-decane
+T87 Substrate 4814 4821 nitrate
+T88 Nutrient 4828 4845 electron acceptor
+T89 Substrate 4940 4947 alkanes
+T90 ReactionOrProcess 4927 4936 oxidation
+T91 ReactionOrProcess 4968 4977 reduction
+R1 CarriedOn Arg1:T4 Arg2:T1
+R2 CarriedOn Arg1:T4 Arg2:T2
+R3 CarriedOn Arg1:T4 Arg2:T3
+R4 CarriedOn Arg1:T5 Arg2:T1
+R5 CarriedOn Arg1:T5 Arg2:T2
+R6 CarriedOn Arg1:T5 Arg2:T3
+R7 CarriedOn Arg1:T10 Arg2:T8
+R8 CarriedOn Arg1:T10 Arg2:T9
+R10 OccursIn Arg1:T10 Arg2:T7
+R11 CarriedOn Arg1:T15 Arg2:T12
+R12 CarriedOn Arg1:T15 Arg2:T13
+R13 CarriedOn Arg1:T15 Arg2:T14
+R14 CarriedOn Arg1:T16 Arg2:T12
+R15 CarriedOn Arg1:T16 Arg2:T13
+R16 CarriedOn Arg1:T16 Arg2:T14
+R17 OccursIn Arg1:T15 Arg2:T11
+R18 OccursIn Arg1:T16 Arg2:T11
+R19 CarriedOn Arg1:T19 Arg2:T18
+R20 CarriedOn Arg1:T20 Arg2:T18
+R21 CarriedOn Arg1:T21 Arg2:T18
+R22 OccursIn Arg1:T19 Arg2:T17
+R23 OccursIn Arg1:T20 Arg2:T17
+R24 OccursIn Arg1:T21 Arg2:T17
+R29 ActOn Arg1:T22 Arg2:T27
+R30 ActOn Arg1:T22 Arg2:T28
+R31 ActOn Arg1:T22 Arg2:T29
+R32 ActOn Arg1:T22 Arg2:T30
+R33 ActOn Arg1:T23 Arg2:T27
+R34 ActOn Arg1:T23 Arg2:T28
+R35 ActOn Arg1:T23 Arg2:T29
+R36 ActOn Arg1:T23 Arg2:T30
+R37 ActOn Arg1:T24 Arg2:T27
+R38 ActOn Arg1:T24 Arg2:T28
+R39 ActOn Arg1:T24 Arg2:T29
+R40 ActOn Arg1:T24 Arg2:T30
+R41 ActOn Arg1:T25 Arg2:T27
+R42 ActOn Arg1:T25 Arg2:T28
+R43 ActOn Arg1:T25 Arg2:T29
+R44 ActOn Arg1:T25 Arg2:T30
+R47 CarriedOn Arg1:T31 Arg2:T24
+R48 CarriedOn Arg1:T31 Arg2:T25
+R49 CarriedOn Arg1:T31 Arg2:T27
+R50 CarriedOn Arg1:T31 Arg2:T28
+R51 CarriedOn Arg1:T31 Arg2:T29
+R52 CarriedOn Arg1:T31 Arg2:T30
+R53 OccursIn Arg1:T31 Arg2:T26
+R57 CarriedOn Arg1:T41 Arg2:T40
+R58 CarriedOn Arg1:T42 Arg2:T40
+R59 CarriedOn Arg1:T43 Arg2:T40
+R60 CarriedOn Arg1:T44 Arg2:T40
+R61 CarriedOn Arg1:T51 Arg2:T47
+R62 CarriedOn Arg1:T51 Arg2:T48
+R63 CarriedOn Arg1:T51 Arg2:T49
+R64 CarriedOn Arg1:T51 Arg2:T50
+R65 CarriedOn Arg1:T53 Arg2:T52
+R66 CarriedOn Arg1:T54 Arg2:T52
+R67 CarriedOn Arg1:T55 Arg2:T52
+R68 CarriedOn Arg1:T60 Arg2:T58
+R69 CarriedOn Arg1:T60 Arg2:T59
+R70 CarriedOn Arg1:T63 Arg2:T62
+R71 CarriedOn Arg1:T77 Arg2:T76
+R72 Inhibit_Catalyse Arg1:T75 Arg2:T77
+R73 CarriedOn Arg1:T90 Arg2:T89
+R74 CarriedOn Arg1:T91 Arg2:T89

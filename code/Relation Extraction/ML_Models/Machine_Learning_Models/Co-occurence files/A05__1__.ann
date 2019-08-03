@@ -1,0 +1,121 @@
+T1	Substrate 50 57	Benzene
+T2	Property 84 95	contaminant
+T3	Property 78 83	toxic
+T4	ReactionOrProcess 0 29	Anaerobic benzene degradation
+T5	Environment 120 141	contaminated aquifers
+T6	Substrate 109 116	benzene
+T7	Substrate 203 210	benzene
+T8	ReactionOrProcess 226 234	degraded
+T9	ReactionOrProcess 214 225	aerobically
+T10	Nutrient 195 201	oxygen
+T11	Substrate 384 391	benzene
+T12	Property 427 444	anoxic conditions
+T13	ReactionOrProcess 662 691	anaerobic benzene degradation
+T14	ReactionOrProcess 730 759	anaerobic benzene degradation
+T15	Nutrient 573 590	electron acceptor
+T16	Substrate 817 824	benzene
+T17	Substrate 895 902	nitrate
+T18	Property 825 834	degraders
+T19	Nutrient 909 926	electron acceptor
+T20	Microbes 961 979	anaerobic cultures
+T21	Substrate 981 988	benzene
+T22	Property 952 970	strictly anaerobic
+T23	Substrate 1155 1162	benzene
+T24	Property 1138 1146	aromatic
+T25	ReactionOrProcess 1245 1258	hydroxylation
+T26	Nutrient 1194 1200	oxygen
+T27	ReactionOrProcess 1384 1413	anaerobic benzene degradation
+T28	ReactionOrProcess 1490 1519	anaerobic benzene degradation
+T29	Nutrient 1430 1447	electron acceptor
+T30	Substrate 1587 1595	gasoline
+T31	Substrate 1534 1541	Benzene
+T32	Substrate 1695 1702	benzene
+T33	Property 1733 1744	contaminant
+T34	Substrate 1804 1811	benzene
+T35	Substrate 1929 1936	benzene
+T36	Substrate 1790 1802	hydrocarbons
+T37	Property 1956 1966	carcinogen
+T38	Property 1822 1835	water-soluble
+T39	Property 1868 1873	toxic
+T40	Substrate 1980 1987	benzene
+T41	Property 2075 2083	aromatic
+T42	Property 1991 1997	stable
+T43	Substrate 2181 2188	benzene
+T44	Substrate 2276 2283	benzene
+T45	Property 2310 2327	anoxic conditions
+T46	Nutrient 2266 2272	oxygen
+T47	Substrate 2539 2546	Benzene
+T48	Substrate 2674 2680	phenol
+T49	Property 2616 2624	aromatic
+T50	Nutrient 2658 2664	oxygen
+T51	Property 2807 2815	aromatic
+T52	Environment 2944 2950	plumes
+T53	Environment 2954 2962	aquifers
+T54	Property 3000 3010	solubility
+T55	Property 2932 2943	Contaminant
+T56	Nutrient 3046 3052	oxygen
+T57	Substrate 3156 3163	benzene
+T58	ReactionOrProcess 3081 3110	anaerobic benzene degradation
+T59	Substrate 3213 3234	aromatic hydrocarbons
+T60	Property 3283 3300	anoxic conditions
+T61	Substrate 3364 3396	hydrocarbons including aromatics
+T62	Property 3401 3414	biodegradable
+T63	ReactionOrProcess 3500 3529	anaerobic benzene degradation
+T64	Substrate 3763 3770	benzene
+T65	Substrate 3582 3589	Benzene
+T66	Substrate 3681 3688	toluene
+T67	Substrate 3690 3702	ethylbenzene
+T68	Substrate 3707 3713	xylene
+T69	Property 3632 3649	anoxic conditions
+T70	Environment 4049 4069	subsurface sediments
+T71	Substrate 3999 4016	anaerobic benzene
+T72	Property 4017 4026	degraders
+T73	ReactionOrProcess 3833 3862	anaerobic benzene degradation
+T74	Microbes 4429 4448	enrichment cultures
+T75	Substrate 4193 4200	benzene
+T76	Substrate 4353 4360	benzene
+T77	ReactionOrProcess 4208 4216	degraded
+T78	ReactionOrProcess 4383 4391	degraded
+T79	Microbes 4475 4494	enrichment cultures
+T80	Substrate 4514 4521	benzene
+T81	Substrate 4678 4690	hydrocarbons
+T82	Property 4528 4545	anoxic conditions
+T83	ReactionOrProcess 4506 4513	degrade
+T84	ReactionOrProcess 4650 4668	anoxic degradation
+T85	Substrate 4697 4704	toluene
+T86	Substrate 4793 4800	nitrate
+T87	Nutrient 4804 4821	electron acceptor
+T88	Microbes 4972 4991	enrichment cultures
+T89	Property 4880 4897	anoxic conditions
+T90	ReactionOrProcess 5168 5197	anaerobic benzene degradation
+R1	CarriedOn Arg1:T4 Arg2:T1
+R2	CarriedOn Arg1:T8 Arg2:T6
+R3	CarriedOn Arg1:T8 Arg2:T7
+R4	CarriedOn Arg1:T9 Arg2:T6
+R5	CarriedOn Arg1:T9 Arg2:T7
+R6	OccursIn Arg1:T8 Arg2:T5
+R7	OccursIn Arg1:T9 Arg2:T5
+R8	Of Arg1:T20 Arg2:T22
+R9	ActOn Arg1:T20 Arg2:T21
+R10	CarriedOn Arg1:T25 Arg2:T23
+R11	CarriedOn Arg1:T58 Arg2:T57
+R12	CarriedOn Arg1:T73 Arg2:T71
+R13	OccursIn Arg1:T73 Arg2:T70
+R14	ActOn Arg1:T74 Arg2:T75
+R15	ActOn Arg1:T74 Arg2:T76
+R16	CarriedOn Arg1:T77 Arg2:T74
+R17	CarriedOn Arg1:T78 Arg2:T74
+R18	CarriedOn Arg1:T77 Arg2:T75
+R19	CarriedOn Arg1:T77 Arg2:T76
+R20	CarriedOn Arg1:T78 Arg2:T75
+R21	CarriedOn Arg1:T78 Arg2:T76
+R22	Of Arg1:T79 Arg2:T82
+R23	ActOn Arg1:T79 Arg2:T80
+R24	ActOn Arg1:T79 Arg2:T81
+R25	CarriedOn Arg1:T83 Arg2:T79
+R26	CarriedOn Arg1:T84 Arg2:T79
+R27	CarriedOn Arg1:T83 Arg2:T80
+R28	CarriedOn Arg1:T83 Arg2:T81
+R29	CarriedOn Arg1:T84 Arg2:T80
+R30	CarriedOn Arg1:T84 Arg2:T81
+R31	Of Arg1:T88 Arg2:T89

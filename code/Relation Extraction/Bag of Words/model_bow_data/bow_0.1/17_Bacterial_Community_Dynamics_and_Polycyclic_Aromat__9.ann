@@ -1,0 +1,27 @@
+T1	Microbes 312 320	inoculum
+T2	Microbes 51 61	consortium
+T3	Environment 277 298	PAH-contaminated soil
+T4	Environment 103 107	soil
+T5	Environment 294 298	soil
+T6	Environment 92 107	inoculated soil
+T7	ReactionOrProcess 92 102	inoculated
+T8	ReactionOrProcess 144 154	inoculated
+T9	ReactionOrProcess 449 459	inoculated
+R1	CarriedOn Arg1:T7 Arg2:T1
+R2	CarriedOn Arg1:T8 Arg2:T1
+R3	CarriedOn Arg1:T9 Arg2:T1
+T10	Environment 556 560	soil
+T11	Environment 593 597	soil
+T12	Environment 545 560	inoculated soil
+T13	ReactionOrProcess 545 555	inoculated
+T14	ReactionOrProcess 666 688	maximum biodegradation
+T15	ReactionOrProcess 674 688	biodegradation
+T16	Microbes 774 782	inoculum
+T17	ReactionOrProcess 804 818	biodegradation
+T18	Environment 1100 1121	PAH-contaminated soil
+T19	Environment 1037 1041	soil
+T20	Environment 1117 1121	soil
+T21	Substrate 1069 1072	PAH
+T22	Substrate 1238 1241	PAH
+T23	ReactionOrProcess 1073 1084	degradation
+T24	ReactionOrProcess 1290 1301	degradation

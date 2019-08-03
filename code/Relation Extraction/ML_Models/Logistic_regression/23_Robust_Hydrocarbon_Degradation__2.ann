@@ -1,0 +1,93 @@
+T1	Environment 24 34	microcosms
+T2	Environment 232 240	sediment
+T3	Environment 186 191	beach
+T4	Environment 281 289	Sediment	
+T5	Environment 382 391	microcosm
+T6	Property 349 360	temperature
+T7	Environment 451 460	fine sand
+T8	Environment 436 444	sediment
+T9	Environment 738 746	sediment
+T10	Environment 790 795	beach
+T11	Environment 1006 1014	sediment
+T12	Environment 961 969	seawater
+T13	Environment 1181 1193	wet sediment
+T14	Environment 1038 1047	Microcosm
+T15	Environment 1212 1221	microcosm
+T16	Environment 910 920	microcosms
+T17	Environment 1090 1108	synthetic seawater
+T18	ReactionOrProcess 1073 1084	homogenized
+T19	Environment 1363 1371	seawater
+T20	Environment 1298 1307	microcosm
+T21	Environment 1427 1436	microcosm
+T22	Environment 1292 1297	beach
+T23	Environment 1402 1408	waters
+T24	Environment 1259 1277	synthetic seawater
+T25	Property 1409 1416	drained
+T26	Environment 1544 1554	microcosms
+T27	Substrate 1613 1616	oil
+T28	Environment 1633 1636	sea
+T29	Environment 1655 1660	beach
+T30	Substrate 1826 1833	toluene
+T31	Substrate 1811 1815	BTEX
+T32	Substrate 1835 1847	ethylbenzene
+T33	Substrate 1849 1855	xylene
+T34	Substrate 1618 1621	Oil	
+T35	Substrate 1772 1793	volatile hydrocarbons
+T36	Substrate 1689 1706	forties crude oil
+T37	ReactionOrProcess 1678 1688	weathering
+T38	ReactionOrProcess 1641 1647	washed
+T39	Substrate 1922 1943	aromatic hydrocarbons
+T40	Substrate 1909 1916	alkanes
+T41	Substrate 2022 2050	total petroleum hydrocarbons
+T42	Substrate 1865 1888	resolvable hydrocarbons
+T43	Substrate 2064 2077	weathered oil
+T44	Environment 2123 2141	synthetic seawater
+T45	Substrate 2083 2096	weathered oil
+T46	Property 2168 2174	stable
+T47	Environment 2299 2307	seawater
+T48	Environment 2228 2238	microcosms
+T49	Substrate 2360 2363	oil
+T50	Environment 2445 2450	water
+T51	Substrate 2515 2522	nitrate
+T52	Substrate 2588 2591	oil
+T53	Nutrient 2534 2543	potassium
+T54	Environment 2656 2666	microcosms
+T55	Environment 2699 2709	microcosms
+T56	Environment 2810 2818	sediment
+T57	Environment 2947 2979	nutrient-amended beach sediments
+T58	Environment 2804 2809	Beach	
+T59	Environment 2883 2902	untreated sediments
+T60	Environment 3025 3050	untreated beach sediments
+T61	Property 3087 3093	stable
+T62	ReactionOrProcess 2989 2993	DGGE
+T63	Environment 3273 3281	sediment
+T64	Environment 3170 3180	microcosms
+T65	Environment 3145 3155	microcosms
+T66	Substrate 3237 3240	oil
+T67	Environment 3313 3321	sediment
+T68	Environment 3419 3429	microcosms
+T69	Environment 3590 3598	sediment
+T70	Environment 3699 3708	microcosm
+T71	Substrate 3726 3729	oil
+T72	Environment 3845 3855	microcosms
+T73	Environment 3818 3832	tidal seawater
+T74	Environment 4022 4031	microcosm
+T75	Substrate 4054 4057	oil
+T76	Nutrient 3997 4003	carbon
+T77	Nutrient 3947 3953	Carbon	
+T78	Environment 4153 4162	microcosm
+R2	OccursIn Arg1:T18 Arg2:T12
+R3	OccursIn Arg1:T18 Arg2:T13
+R5	OccursIn Arg1:T18 Arg2:T15
+R6	OccursIn Arg1:T18 Arg2:T16
+R7	OccursIn Arg1:T18 Arg2:T17
+R12	CarriedOn Arg1:T37 Arg2:T34
+R13	CarriedOn_No Arg1:T37 Arg2:T35
+R14	CarriedOn Arg1:T37 Arg2:T36
+R19	CarriedOn Arg1:T38 Arg2:T34
+R21	CarriedOn Arg1:T38 Arg2:T36
+R22	OccursIn_No Arg1:T37 Arg2:T28
+R23	OccursIn_No Arg1:T37 Arg2:T29
+R24	OccursIn Arg1:T38 Arg2:T28
+R25	OccursIn Arg1:T38 Arg2:T29
+R27	OccursIn Arg1:T62 Arg2:T57

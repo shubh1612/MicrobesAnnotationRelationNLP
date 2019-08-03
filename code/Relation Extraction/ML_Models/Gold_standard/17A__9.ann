@@ -1,0 +1,77 @@
+T1	Microbes 58 66	inoculum
+T2	Environment 75 92	bioaugmented soil
+T3	Environment 135 163	A creosote-contaminated soil
+T4	Environment 540 544	soil
+T5	ReactionOrProcess 418 433	TPH degradation
+T6	Substrate 600 632	polycyclic aromatic hydrocarbons
+T7	ReactionOrProcess 702 716	bioremediation
+T8	ReactionOrProcess 649 664	TPH degradation
+T9	ReactionOrProcess 585 596	degradation
+T10	Substrate 807 810	PAH
+T11	Substrate 854 857	PAH
+T12	Property 848 853	toxic
+T13	ReactionOrProcess 832 844	accumulation
+T14	ReactionOrProcess 879 889	enrichment
+T15	Substrate 1102 1105	PAH
+T16	Substrate 1161 1164	PAH
+T17	Substrate 1061 1065	PAHs
+T18	Property 1106 1115	degraders
+T19	ReactionOrProcess 1048 1057	oxidation
+T20	ReactionOrProcess 1005 1017	accumulation
+T21	ReactionOrProcess 1146 1157	degradation
+T22	Environment 1376 1380	soil
+T23	Environment 1419 1423	soil
+T24	Environment 1492 1496	soil
+T25	Property 1497 1505	toxicity
+T26	ReactionOrProcess 1479 1488	reduction
+T27	Environment 1592 1600	dry soil
+T28	Environment 1738 1742	soil
+T29	Environment 1684 1689	water
+T30	Substrate 1627 1630	TPH
+T31	Property 1631 1644	concentration
+T32	ReactionOrProcess 1743 1757	bioremediation
+T33	Nutrient 1851 1859	nitrogen
+T34	ReactionOrProcess 2026 2036	inhibition
+T35	Environment 2187 2215	a creosote-contaminated soil
+T36	Substrate 2345 2349	PAHs
+T37	Substrate 2354 2358	TPHs
+T38	ReactionOrProcess 2306 2331	late-stage biodegradation
+T39	Substrate 2442 2468	high-molecular-weight PAHs
+T40	ReactionOrProcess 2424 2438	biodegradation
+T41	Substrate 2544 2553	motor oil
+T42	ReactionOrProcess 2524 2538	bioremediation
+T43	ReactionOrProcess 2511 2520	reduction
+T44	Nutrient 2601 2605	NaCl
+T45	Environment 2687 2723	Arctic hydrocarbon-contaminated soil
+T46	ReactionOrProcess 2645 2654	reduction
+T47	ReactionOrProcess 2901 2927	hydrocarbon biodegradation
+T48	ReactionOrProcess 3174 3188	biostimulation
+T49	ReactionOrProcess 3133 3147	biodegradation
+T50	Microbes 3456 3509	heterotrophic and PAH-degrading microbial populations
+T51	Environment 3517 3521	soil
+T52	Substrate 3680 3683	PAH
+T53	Substrate 3294 3326	polycyclic aromatic hydrocarbons
+T54	Property 3684 3693	degraders
+T55	ReactionOrProcess 3276 3290	bioremediation
+T56	ReactionOrProcess 3365 3379	bioremediation
+T57	Substrate 3767 3770	TPH
+T58	ReactionOrProcess 3771 3780	depletion
+T59	ReactionOrProcess 3854 3869	TPH degradation
+T60	Microbes 4020 4044	heterotrophic population
+R1	FoundIn Arg1:T1 Arg2:T2
+R4	CarriedOn Arg1:T8 Arg2:T6
+R5	CarriedOn Arg1:T9 Arg2:T6
+R7	CarriedOn Arg1:T13 Arg2:T11
+R9	CarriedOn Arg1:T14 Arg2:T11
+R12	CarriedOn Arg1:T19 Arg2:T17
+R17	CarriedOn Arg1:T21 Arg2:T16
+R20	OccursIn Arg1:T26 Arg2:T24
+R23	OccursIn Arg1:T32 Arg2:T28
+R25	CarriedOn Arg1:T38 Arg2:T36
+R26	CarriedOn Arg1:T38 Arg2:T37
+R27	CarriedOn Arg1:T40 Arg2:T39
+R28	CarriedOn Arg1:T42 Arg2:T41
+R29	CarriedOn Arg1:T43 Arg2:T41
+R30	OccursIn Arg1:T46 Arg2:T45
+R38	CarriedOn Arg1:T55 Arg2:T53
+R43	CarriedOn Arg1:T58 Arg2:T57

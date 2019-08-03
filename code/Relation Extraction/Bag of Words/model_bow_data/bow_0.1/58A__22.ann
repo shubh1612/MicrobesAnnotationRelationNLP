@@ -1,0 +1,70 @@
+T1	Property 94 106	methanogenic
+T2	Property 94 106	methanogenic
+T3	Nutrient 196 202	oxygen
+T4	ReactionOrProcess 271 276	redox
+T5	ReactionOrProcess 301 306	redox
+T6	Property 441 455	concentrations
+T7	ReactionOrProcess 371 379	reducing
+T8	ReactionOrProcess 417 427	inhibition
+T9	Nutrient 431 437	oxygen
+T10	Environment 620 629	oxic soil
+T11	Environment 625 629	soil
+T12	Environment 612 629	dry and oxic soil
+T13	ReactionOrProcess 531 536	redox
+T14	ReactionOrProcess 558 563	redox
+T15	Nutrient 711 717	oxygen
+T16	Property 853 862	dispersed
+T17	Nutrient 803 809	oxygen
+T18	Nutrient 909 915	oxygen
+T19	Nutrient 1028 1034	oxygen
+T20	Microbes 1233 1263	natural methanogenic consortia
+T21	Property 1241 1253	methanogenic
+T22	Property 1241 1253	methanogenic
+T23	Nutrient 1156 1162	oxygen
+T24	Environment 1409 1434	granular anaerobic sludge
+T25	Substrate 1485 1492	ethanol
+T26	Microbes 1631 1649	anaerobic bacteria
+T27	Environment 1780 1802	anaerobic environments
+T28	Substrate 1887 1898	methanogens
+T29	Substrate 1751 1762	methanogens
+T30	Property 1726 1742	strict anaerobes
+T31	Property 1960 1973	concentration
+T32	Nutrient 2042 2048	oxygen
+T33	Property 2172 2181	dissolved
+T34	Property 2189 2203	concentrations
+T35	Nutrient 2182 2188	oxygen
+T36	Nutrient 2468 2474	oxygen
+T37	Nutrient 2530 2536	oxygen
+T38	Environment 2713 2739	voluminous anaerobic zones
+T39	Property 2795 2807	methanogenic
+T40	Property 2795 2807	methanogenic
+T41	Nutrient 2583 2589	oxygen
+T42	Microbes 2940 2958	anaerobic bacteria
+T43	Microbes 2876 2892	aerobic bacteria
+T44	Microbes 2933 2958	strict anaerobic bacteria
+T45	ReactionOrProcess 2893 2911	Anaerobic activity
+T46	ReactionOrProcess 2854 2872	Anaerobic activity
+T47	ReactionOrProcess 2876 2911	aerobic bacteria Anaerobic activity
+R1	CarriedOn Arg1:T45 Arg2:T42
+R2	CarriedOn Arg1:T45 Arg2:T43
+R3	CarriedOn Arg1:T45 Arg2:T44
+R4	CarriedOn Arg1:T46 Arg2:T42
+R5	CarriedOn Arg1:T46 Arg2:T43
+R6	CarriedOn Arg1:T46 Arg2:T44
+R7	CarriedOn Arg1:T47 Arg2:T42
+R8	CarriedOn Arg1:T47 Arg2:T43
+R9	CarriedOn Arg1:T47 Arg2:T44
+T48	ReactionOrProcess 3056 3064	reducing
+T49	ReactionOrProcess 2973 2984	aerobically
+T50	Microbes 3144 3160	aerobic bacteria
+T51	Microbes 3236 3252	aerobic bacteria
+T52	Property 3272 3280	aromatic
+T53	ReactionOrProcess 3330 3343	anaerobically
+T54	ReactionOrProcess 3320 3329	incubated
+T55	Microbes 3393 3409	aerobic bacteria
+T56	Environment 3447 3467	anaerobic conditions
+T57	Environment 3469 3493	Aerobic activated sludge
+T58	ReactionOrProcess 3516 3527	incubations
+T59	ReactionOrProcess 3624 3637	Anaerobically
+T60	ReactionOrProcess 3638 3647	incubated
+T61	ReactionOrProcess 3681 3690	reduction

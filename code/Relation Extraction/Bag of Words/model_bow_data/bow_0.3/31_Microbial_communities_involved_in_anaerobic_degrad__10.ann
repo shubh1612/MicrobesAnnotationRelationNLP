@@ -1,0 +1,58 @@
+T1	Substrate 356 363	toluene
+T2	Microbes 561 579	enrichment culture
+T3	Microbes 538 549	strain BuS5
+T4	Environment 607 623	marine sediments
+T5	Environment 614 623	sediments
+T6	Environment 607 613	marine
+T7	Environment 607 623	marine sediments
+T8	Substrate 485 492	alkanes
+T9	Substrate 479 492	chain alkanes
+T10	Substrate 505 512	propane
+T11	ReactionOrProcess 529 537	reducing
+T12	ReactionOrProcess 561 571	enrichment
+R1	CarriedOn Arg1:T11 Arg2:T2
+T13	Substrate 785 792	propane
+T14	Substrate 680 686	butane
+T15	Nutrient 734 740	carbon
+T16	Nutrient 859 865	carbon
+T17	Microbes 1043 1062	enrichment cultures
+T18	Substrate 1006 1013	propane
+T19	Property 1030 1042	sulfidogenic
+T20	ReactionOrProcess 1043 1053	enrichment
+T21	ReactionOrProcess 974 994	anaerobic activation
+R2	CarriedOn Arg1:T21 Arg2:T17
+R3	CarriedOn Arg1:T21 Arg2:T18
+T22	Substrate 1186 1193	alkanes
+T23	Substrate 1179 1193	cyclic alkanes
+T24	Property 1300 1317	anoxic conditions
+T25	ReactionOrProcess 1282 1293	degradation
+T26	Substrate 1563 1570	toluene
+T27	Property 1596 1614	strictly anaerobic
+T28	Enzyme 1733 1756	alkylsuccinate synthase
+T29	Substrate 1733 1747	alkylsuccinate
+T30	Substrate 1811 1820	n-alkanes
+T31	Substrate 1877 1889	cycloalkanes
+T32	Enzyme 2123 2146	alkylsuccinate synthase
+T33	Substrate 2123 2137	alkylsuccinate
+T34	Property 2213 2225	sulfidogenic
+T35	Substrate 2357 2364	nitrate
+T36	ReactionOrProcess 2365 2373	reducing
+T37	Microbes 2466 2480	Proteobacteria
+T38	Microbes 2597 2616	enrichment cultures
+T39	Substrate 2703 2710	alkanes
+T40	Property 2554 2566	methanogenic
+T41	Property 2717 2729	methanogenic
+T42	Property 2554 2566	methanogenic
+T43	Property 2717 2729	methanogenic
+T44	ReactionOrProcess 2597 2607	enrichment
+T45	ReactionOrProcess 2587 2596	degrading
+R4	CarriedOn Arg1:T44 Arg2:T39
+R5	CarriedOn Arg1:T45 Arg2:T39
+T46	Property 2891 2903	sulfidogenic
+T47	Substrate 3026 3035	n-alkanes
+T48	Substrate 3156 3163	alkanes
+T49	Nutrient 3245 3251	carbon
+T50	Substrate 3434 3441	alkanes
+T51	ReactionOrProcess 3487 3497	metabolize
+T52	Nutrient 3556 3562	carbon
+T53	Nutrient 3640 3646	carbon

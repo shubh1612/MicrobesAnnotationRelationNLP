@@ -1,0 +1,153 @@
+T1 Microbes 79 89 consortium
+T2 Environment 119 127 sediment
+T3 Environment 133 153 contaminated aquifer
+T4 Property 66 78 methanogenic
+T5 ReactionOrProcess 224 238 methanogenesis
+T6 Nutrient 186 203 electron acceptor
+T7 Microbes 287 301 Peptococcaceae
+T8 Substrate 388 395 benzene
+T9 Microbes 515 525 consortium
+T10 Property 529 535 stable
+T11 Microbes 688 702 Actinobacteria
+T12 Microbes 652 668 Desulfobulbaceae
+T13 Microbes 569 583 Peptococcaceae
+T14 Substrate 608 615 benzene
+T15 Substrate 777 784 benzene
+T16 ReactionOrProcess 785 796 degradation
+T17 Microbes 942 960 Desulfobacteraceae
+T18 Microbes 1007 1025 Desulfobacteraceae
+T19 Microbes 969 979 consortium
+T20 Substrate 1057 1064 benzene
+T21 Substrate 1068 1075 toluene
+T22 Substrate 1077 1083 phenol
+T23 Microbes 1222 1235 Desulfovibrio
+T24 Microbes 1197 1216 Deltaproteobacteria
+T25 Property 1327 1335 reducers
+T26 Property 1266 1274 aromatic
+T27 Microbes 1408 1427 Deltaproteobacteria
+T28 Microbes 1457 1474 Cryptanaerobacter
+T29 Environment 1614 1625 groundwater
+T30 ReactionOrProcess 1589 1599 inoculated
+T31 Substrate 1680 1687 benzene
+T32 Property 1722 1730 reducers
+T33 ReactionOrProcess 1695 1703 degraded
+T34 Environment 1897 1908 groundwater
+T35 Substrate 1961 1968 benzene
+T36 Substrate 2024 2031 benzene
+T37 Property 2202 2210 reducers
+T38 ReactionOrProcess 2013 2023 metabolize
+T39 Nutrient 2112 2129 electron acceptor
+T40 Substrate 2312 2319 benzene
+T41 Property 2320 2328 degrader
+T42 Microbes 2542 2559 Cryptanaerobacter
+T43 Substrate 2621 2628 benzene
+T44 ReactionOrProcess 2636 2647 enrichments
+T45 Microbes 2766 2784 enrichment culture
+T46 Microbes 2687 2701 Peptococcaceae
+T47 Property 2719 2765 aquifer-derived methanogenic benzene-degrading
+T48 Microbes 2915 2929 Peptococcaceae
+T49 Microbes 2935 2945 consortium
+T50 Substrate 2855 2862 benzene
+T51 Substrate 2957 2964 benzene
+T52 Environment 3021 3029 Aquifers
+T53 Nutrient 3253 3271 electron acceptors
+T54 Environment 3447 3467 subsurface sediments
+T55 Environment 3520 3528 aquifers
+T56 Substrate 3377 3388 methanogens
+T57 Substrate 3306 3345 fermenters degrading aromatic compounds
+T58 Property 3556 3568 methanogenic
+T59 Property 3390 3406 sulfate-reducers
+T60 ReactionOrProcess 3349 3371 syntrophic association
+T61 Environment 3686 3713 sulfate-reducing conditions
+T62 Substrate 3736 3743 benzene
+T63 Substrate 4012 4019 benzene
+T64 ReactionOrProcess 3930 3952 syntrophic association
+T65 ReactionOrProcess 3649 3679 syntrophic benzene degradation
+T66 ReactionOrProcess 3718 3732 mineralization
+T67 Nutrient 3763 3780 electron acceptor
+T68 Microbes 4106 4116 consortium
+T69 Substrate 4079 4086 benzene
+T70 Substrate 4310 4317 benzene
+T71 ReactionOrProcess 4302 4309 degrade
+T72 ReactionOrProcess 4052 4075 syntrophic associations
+T73 ReactionOrProcess 4087 4098 degradation
+T74 Substrate 4339 4346 benzene
+T75 Property 4365 4382 anoxic conditions
+T76 ReactionOrProcess 4409 4422 hydroxylation
+T77 ReactionOrProcess 4347 4358 degradation
+T78 Substrate 4587 4594 benzene
+T79 Property 4654 4671 anoxic conditions
+T80 Property 4638 4647 aromatics
+T81 ReactionOrProcess 4614 4625 degradation
+T82 ReactionOrProcess 4554 4575 anaerobic degradation
+T83 Environment 4871 4887 nitrate-reducing
+T84 Property 4910 4922 methanogenic
+T85 Property 4889 4905 sulfate-reducing
+T86 Substrate 5010 5017 benzene
+T87 Substrate 5082 5108 putative anaerobic benzene
+T88 Property 5109 5117 degrader
+T89 ReactionOrProcess 5173 5180 oxidize
+T90 Microbes 5310 5320 consortium
+T91 Property 5423 5431 reducers
+R3 Of Arg1:T1 Arg2:T4
+R4 CarriedOn Arg1:T5 Arg2:T1
+R5 OccursIn Arg1:T5 Arg2:T2
+R6 OccursIn Arg1:T5 Arg2:T3
+R7 ActOn Arg1:T7 Arg2:T8
+R9 ActOn Arg1:T11 Arg2:T14
+R10 ActOn Arg1:T11 Arg2:T15
+R11 ActOn Arg1:T12 Arg2:T14
+R12 ActOn Arg1:T12 Arg2:T15
+R13 ActOn Arg1:T13 Arg2:T14
+R14 ActOn Arg1:T13 Arg2:T15
+R15 CarriedOn Arg1:T16 Arg2:T11
+R16 CarriedOn Arg1:T16 Arg2:T12
+R17 CarriedOn Arg1:T16 Arg2:T13
+R18 CarriedOn Arg1:T16 Arg2:T14
+R19 CarriedOn Arg1:T16 Arg2:T15
+R20 ActOn Arg1:T18 Arg2:T20
+R21 ActOn Arg1:T18 Arg2:T21
+R22 ActOn Arg1:T18 Arg2:T22
+R23 ActOn Arg1:T19 Arg2:T20
+R24 ActOn Arg1:T19 Arg2:T21
+R25 ActOn Arg1:T19 Arg2:T22
+R31 CarriedOn Arg1:T30 Arg2:T28
+R32 OccursIn Arg1:T30 Arg2:T29
+R33 CarriedOn Arg1:T33 Arg2:T31
+R34 CarriedOn Arg1:T38 Arg2:T36
+R35 ActOn Arg1:T42 Arg2:T43
+R36 CarriedOn Arg1:T44 Arg2:T42
+R37 CarriedOn Arg1:T44 Arg2:T43
+R38 Of Arg1:T45 Arg2:T47
+R40 ActOn Arg1:T48 Arg2:T50
+R41 ActOn Arg1:T48 Arg2:T51
+R42 ActOn Arg1:T49 Arg2:T50
+R43 ActOn Arg1:T49 Arg2:T51
+R44 CarriedOn Arg1:T60 Arg2:T56
+R45 CarriedOn Arg1:T60 Arg2:T57
+R46 OccursIn Arg1:T60 Arg2:T54
+R47 OccursIn Arg1:T60 Arg2:T55
+R48 CarriedOn Arg1:T64 Arg2:T62
+R49 CarriedOn Arg1:T64 Arg2:T63
+R50 CarriedOn Arg1:T65 Arg2:T62
+R51 CarriedOn Arg1:T65 Arg2:T63
+R52 CarriedOn Arg1:T66 Arg2:T62
+R53 CarriedOn Arg1:T66 Arg2:T63
+R55 OccursIn Arg1:T65 Arg2:T61
+R56 OccursIn Arg1:T66 Arg2:T61
+R57 ActOn Arg1:T68 Arg2:T69
+R58 ActOn Arg1:T68 Arg2:T70
+R59 CarriedOn Arg1:T71 Arg2:T68
+R60 CarriedOn Arg1:T72 Arg2:T68
+R61 CarriedOn Arg1:T73 Arg2:T68
+R62 CarriedOn Arg1:T71 Arg2:T69
+R63 CarriedOn Arg1:T71 Arg2:T70
+R64 CarriedOn Arg1:T72 Arg2:T69
+R65 CarriedOn Arg1:T72 Arg2:T70
+R66 CarriedOn Arg1:T73 Arg2:T69
+R67 CarriedOn Arg1:T73 Arg2:T70
+R68 CarriedOn Arg1:T76 Arg2:T74
+R69 CarriedOn Arg1:T77 Arg2:T74
+R70 CarriedOn Arg1:T81 Arg2:T78
+R71 CarriedOn Arg1:T82 Arg2:T78
+R72 CarriedOn Arg1:T89 Arg2:T87

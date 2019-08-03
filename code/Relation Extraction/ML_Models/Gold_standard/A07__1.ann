@@ -1,0 +1,41 @@
+T1	Property 348 354	stable
+T2	ReactionOrProcess 331 344	incorporation
+T3	Property 616 628	fluorescence
+T4	ReactionOrProcess 637 650	hybridization
+T5	ReactionOrProcess 1550 1560	metabolize
+T6	Property 2031 2037	stable
+T7	Property 1828 1834	Stable	
+T8	Property 2453 2465	fluorescence
+T9	ReactionOrProcess 2617 2630	incorporation
+T10	ReactionOrProcess 2474 2487	hybridization
+T11	ReactionOrProcess 2827 2835	reducing
+T12	Property 3454 3460	stable
+T13	Property 3596 3602	stable
+T14	ReactionOrProcess 3390 3405	SIP experiments
+T15	Environment 3705 3714	sediments
+T16	Environment 3719 3724	soils
+T17	Environment 4708 4718	wastewater
+T18	Environment 4166 4170	Lake
+T19	Environment 4650 4668	estuarine sediment
+T20	Environment 4336 4360	contaminated groundwater
+T21	Environment 4275 4292	agricultural soil
+T22	Environment 4477 4481	soil
+T23	Environment 4548 4552	soil
+T24	Environment 4591 4595	soil
+T25	Environment 4829 4833	soil
+T26	Environment 4404 4420	marine sediments
+T27	Substrate 4325 4332	benzene
+T28	Substrate 4456 4463	methane
+T29	Substrate 4579 4585	pyrene
+T30	Property 4818 4825	residue
+T31	Substrate 5364 5374	salicylate
+T32	Substrate 5376 5387	naphthalene
+T33	Substrate 5389 5401	phenanthrene
+T34	Substrate 5483 5489	phenol
+T35	Substrate 5406 5412	pyrene
+T36	Environment 5512 5516	soil
+T37	ReactionOrProcess 5571 5579	purified
+T38	Nutrient 5678 5684	carbon
+T40	Property 6110 6124	concentrations
+T41	ReactionOrProcess 6129 6139	incubation
+R1	OccursIn Arg1:T37 Arg2:T36

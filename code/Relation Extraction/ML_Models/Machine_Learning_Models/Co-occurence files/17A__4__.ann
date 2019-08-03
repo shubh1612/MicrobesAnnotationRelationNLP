@@ -1,0 +1,124 @@
+T1	Environment 64 100	biodegradation.The contaminated soil
+T2	Substrate 32 63	polycyclic aromatic hydrocarbon
+T3	Substrate 0 27	Total petroleum hydrocarbon
+T4	Substrate 120 123	TPH
+T5	Property 124 137	concentration
+T6	ReactionOrProcess 52 78	hydrocarbon biodegradation
+T7	Substrate 292 303	naphthalene
+T8	Substrate 255 266	naphthalene
+T9	Substrate 235 241	phenol
+T10	Substrate 198 216	aromatic compounds
+T11	Environment 506 510	soil
+T12	Substrate 438 442	PAHs
+T13	Substrate 447 450	TPH
+T14	ReactionOrProcess 463 474	evaporation
+T15	ReactionOrProcess 482 496	biodegradation
+T16	Substrate 521 525	PAHs
+T17	Property 596 610	concentrations
+T18	Substrate 696 699	TPH
+T19	Substrate 763 766	TPH
+T20	Environment 1022 1036	untreated soil
+T21	Environment 1134 1149	autoclaved soil
+T22	Substrate 917 921	PAHs
+T23	Substrate 902 905	TPH
+T24	Substrate 955 958	TPH
+T25	Property 959 972	concentration
+T26	Property 872 886	Concentrations
+T27	ReactionOrProcess 925 939	bioremediation
+T28	Substrate 1212 1216	PAHs
+T29	Environment 1235 1243	dry soil
+T30	ReactionOrProcess 1305 1331	hydrocarbon biodegradation
+T31	Substrate 1461 1464	TPH
+T32	ReactionOrProcess 1465 1479	biodegradation
+T33	Substrate 1637 1640	TPH
+T34	ReactionOrProcess 1641 1650	depletion
+T35	ReactionOrProcess 1552 1566	Biostimulation
+T36	Substrate 1790 1794	PAHs
+T37	Substrate 1775 1778	TPH
+T38	Substrate 1968 1971	TPH
+T39	Property 1972 1985	concentration
+T40	ReactionOrProcess 1796 1820	biphasic TPH degradation
+T41	ReactionOrProcess 1757 1771	biodegradation
+T42	ReactionOrProcess 2217 2227	incubation
+T43	ReactionOrProcess 2295 2305	incubation
+T44	ReactionOrProcess 2042 2053	degradation
+T45	ReactionOrProcess 2492 2519	first-order TPH degradation
+T46	Environment 2824 2854	hydrocarbon-contaminated soils
+T47	ReactionOrProcess 2806 2820	bioremediation
+T48	Substrate 2973 2977	PAHs
+T49	Substrate 3035 3039	PAHs
+T50	Substrate 2958 2961	TPH
+T51	ReactionOrProcess 3052 3060	degraded
+T52	ReactionOrProcess 2989 3003	bioremediation
+T53	ReactionOrProcess 2934 2948	biodegradation
+T54	ReactionOrProcess 3108 3122	biodegradation
+T55	ReactionOrProcess 3245 3259	biodegradation
+T56	Substrate 3361 3371	anthracene
+T57	Substrate 3344 3356	phenanthrene
+T58	ReactionOrProcess 3392 3400	degraded
+T59	Property 3486 3494	residual
+T60	Substrate 3583 3595	fluoranthene
+T61	Substrate 3702 3708	pyrene
+T62	ReactionOrProcess 3658 3684	early-stage biodegradation
+T63	ReactionOrProcess 3556 3570	biodegradation
+T64	Substrate 3806 3814	chrysene
+T65	ReactionOrProcess 3860 3874	biostimulation
+T66	ReactionOrProcess 3815 3826	degradation
+T67	ReactionOrProcess 4022 4030	degraded
+T68	ReactionOrProcess 4053 4067	biostimulation
+T69	Substrate 4349 4357	chrysene
+T70	ReactionOrProcess 4175 4200	late-stage biodegradation
+T71	ReactionOrProcess 4309 4323	biodegradation
+T72	ReactionOrProcess 4358 4372	biodegradation
+T73	ReactionOrProcess 4450 4458	degraded
+T74	ReactionOrProcess 4490 4508	PAH biodegradation
+T75	Microbes 4600 4684	heterotrophic and polycyclic aromatic hydrocarbon-degrading microbial populations.As
+R1	CarriedOn Arg1:T6 Arg2:T2
+R2	CarriedOn Arg1:T6 Arg2:T3
+R3	CarriedOn Arg1:T6 Arg2:T4
+R4	OccursIn Arg1:T6 Arg2:T1
+R5	CarriedOn Arg1:T14 Arg2:T12
+R6	CarriedOn Arg1:T14 Arg2:T13
+R7	CarriedOn Arg1:T15 Arg2:T12
+R8	CarriedOn Arg1:T15 Arg2:T13
+R9	OccursIn Arg1:T14 Arg2:T11
+R10	OccursIn Arg1:T15 Arg2:T11
+R11	CarriedOn Arg1:T27 Arg2:T22
+R12	CarriedOn Arg1:T27 Arg2:T23
+R13	CarriedOn Arg1:T27 Arg2:T24
+R14	OccursIn Arg1:T27 Arg2:T20
+R15	OccursIn Arg1:T27 Arg2:T21
+R16	OccursIn Arg1:T30 Arg2:T29
+R17	CarriedOn Arg1:T32 Arg2:T31
+R18	CarriedOn Arg1:T34 Arg2:T33
+R19	CarriedOn Arg1:T35 Arg2:T33
+R20	CarriedOn Arg1:T40 Arg2:T36
+R21	CarriedOn Arg1:T40 Arg2:T37
+R22	CarriedOn Arg1:T40 Arg2:T38
+R23	CarriedOn Arg1:T41 Arg2:T36
+R24	CarriedOn Arg1:T41 Arg2:T37
+R25	CarriedOn Arg1:T41 Arg2:T38
+R26	OccursIn Arg1:T47 Arg2:T46
+R27	CarriedOn Arg1:T51 Arg2:T48
+R28	CarriedOn Arg1:T51 Arg2:T49
+R29	CarriedOn Arg1:T51 Arg2:T50
+R30	CarriedOn Arg1:T52 Arg2:T48
+R31	CarriedOn Arg1:T52 Arg2:T49
+R32	CarriedOn Arg1:T52 Arg2:T50
+R33	CarriedOn Arg1:T53 Arg2:T48
+R34	CarriedOn Arg1:T53 Arg2:T49
+R35	CarriedOn Arg1:T53 Arg2:T50
+R36	CarriedOn Arg1:T54 Arg2:T48
+R37	CarriedOn Arg1:T54 Arg2:T49
+R38	CarriedOn Arg1:T54 Arg2:T50
+R39	CarriedOn Arg1:T58 Arg2:T56
+R40	CarriedOn Arg1:T58 Arg2:T57
+R41	CarriedOn Arg1:T62 Arg2:T60
+R42	CarriedOn Arg1:T62 Arg2:T61
+R43	CarriedOn Arg1:T63 Arg2:T60
+R44	CarriedOn Arg1:T63 Arg2:T61
+R45	CarriedOn Arg1:T65 Arg2:T64
+R46	CarriedOn Arg1:T66 Arg2:T64
+R47	CarriedOn Arg1:T70 Arg2:T69
+R48	CarriedOn Arg1:T71 Arg2:T69
+R49	CarriedOn Arg1:T72 Arg2:T69

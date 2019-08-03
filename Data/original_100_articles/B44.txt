@@ -1,0 +1,989 @@
+B44
+Identification and Catabolic Activity of Well-Derived GasolineDegrading
+Bacteria from a Contaminated Aquifer
+H. F. RIDGWAY,* J. SAFARIK, D. PHIPPS, P. CARL, AND D. CLARK
+Biotechnology Department, Orange County Water District, 10500 Ellis Avenue,
+Fountain Valley, California 92728-8300
+Received 12 April 1990/Accepted 31 August 1990
+Approximately 300 gasoline-degrading bacteria were isolated from well water and core material from a
+shallow coastal aquifer contaminated with unleaded gasoline. Identification of 244 isolates revealed four
+genera: Pseudomonas, Alcaligenes, Nocardia, and Micrococcus, with pseudomonads making up 86.9% of
+bacteria identified. A total of 297 isolates was sorted into 111 catabolic groups on the basis of aerobic growth
+responses on 15 gasoline hydrocarbons. Each test hydrocarbon was degraded by at least one isolate. Toluene,
+p-xylene, ethylbenzene, and 1,2,4-trimethylbenzene were most frequently utilized as growth substrates,
+whereas cyclic and branched alkanes were least utilized. Most isolates were able to grow on 2 or 3 different
+hydrocarbons, and nearly 75% utilized toluene as a sole source of carbon and energy. Isolates were remarkably
+specific for hydrocarbon usage, often catabolizing only one of several closely related compounds. A subset of
+220 isolates was sorted into 51 groups by polyacrylamide gel electrophoresis. Pseudomonas aeruginosa was
+partitioned into 16 protein-banding groups (i.e., subspecies) whose catabolic activities were largely restricted
+to substituted aromatics. Different members of subspecies groups defined by protein-banding pattern analysis
+often exhibited different growth responses on the same hydrocarbon, implying marked strain diversity. The
+catabolic activities of well-derived, gasoline-degrading bacteria associated with this contaminated aquifer are
+consonant with in situ adaptation at the site.
+Gasoline is a complex mixture of refined petroleum hydrocarbons
+comprising more than 200 different compounds and
+stereoisomeric forms differing in their volatilities, solubilities,
+sorptive characteristics, and subsurface transport properties
+(2, 24). Some aromatic constituents of gasoline (e.g.,
+benzene) are recognized human carcinogens whose maximum
+permissible concentrations in potable water supplies
+are federally regulated (9). Thus, gasoline hydrocarbons
+originating from underground leaks or surface spills pose a
+demonstrable threat to the public health and quality of
+potable groundwater resources. The low solubility of many
+gasoline constituents coupled with a tendency for hydrocarbons
+to strongly sorb to aquifer materials enhances the
+persistence of gasoline constituents in subsurface environments,
+especially if biotic processes are suppressed (2, 5, 7,
+18).
+Many gasoline hydrocarbons have been demonstrated to
+be directly biodegraded (1, 2, 4-6, 13, 22, 26) or cometabolized
+(2, 16, 17, 23) by native groundwater microflora given
+appropriate inorganic nutrient supplementation. Despite exploitation
+of gasoline-degrading microorganisms for purposes
+of in situ aquifer bioremediation (2, 5, 7, 8, 10, 11, 16,
+17, 27-30), there is still very little known about the ecology,
+taxonomy, and catabolic diversity of gasoline-degrading
+bacteria associated with areas of subterranean contamination
+(1-3, 6, 12, 13). Introduction of gasoline hydrocarbons
+into a previously uncontaminated subsurface environment
+could be expected to perturb local selective conditions,
+thereby inducing adaptive responses in the size, structure,
+physiology, and genetics of indigenous microbial communities
+(13). The magnitude of and time required for such
+adaptive changes are, at best, poorly understood. Information
+concerning the temporal and spatial dynamics of micro-
+* Corresponding author.
+bial assemblages involved in gasoline hydrocarbon catabolism
+is critical for accurately evaluating and modeling in situ
+degradation rates and potentials (5, 7, 18).
+A primary objective of the present investigation was to
+explore and quantify the taxonomic and physiologic diversity
+of an aerobic, gasoline-degrading bacterial community
+associated with a shallow coastal aquifer contaminated with
+unleaded gasoline. In order to accomplish this goal, gasolinedegrading
+bacteria isolated from observation well groundwater
+and aquifer cores from this study site were differentiated
+by three independent methods: (i) determination of growth
+responses on 15 different hydrocarbon substrates representing
+the major hydrocarbon categories found in unleaded
+gasoline, (ii) computer-programmed sodium dodecyl sulfatepolyacrylamide
+gel electrophoresis (SDS-PAGE) of cellular
+proteins followed by dendrogram analysis, and (iii) identification
+of isolates by conventional biochemical and nutritional
+testing. Results obtained by these methods were
+compared with one another to determine the taxonomic and
+catabolic diversity of the sample population as well as the
+potential for microbially mediated degradation of different
+hydrocarbon contaminants at the site.
+MATERIALS AND METHODS
+Description of study site and sampling wells. The study site
+consisted of a shallow coastal aquifer underlying the U.S.
+Naval Weapons Station in Seal Beach, Calif. The aquifer
+was composed primarily of silty and sandy alluvial deposits
+and was contaminated with 20,000 to 40,000 liters of unleaded
+gasoline from an underground tank (R. Schroeder,
+U.S. Geological Survey, San Diego, Calif., personal communication).
+Approximately 30 polyvinylchloride-encased
+observation wells perforated the aquifer to a maximum depth
+of about 20 feet (ca. 6 m). The wells were placed in 1984 and
+1985 by the U.S. Geological Survey to delineate the nature
+and extent of hydrocarbon contamination and plume migra-
+3565
+APPLIED AND ENVIRONMENTAL MICROBIOLOGY, Nov. 1990, p. 3565-3575
+0099-2240/90/113565-11$02.00/0
+Copyright C 1990, American Society for Microbiology
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+3566 RIDGWAY ET AL.
+TABLE 1. Origins of gasoline-degrading bacteria used
+in this study
+No. of isolates recovered on (mo/day/yr):
+FIG. 1. Observation well locations used for groundwater sampling
+are indicated by circled numbers. Wells 7 and 14 were just
+within the plume boundary (stippled area). Plume origin is at tank.
+Hydraulic gradient is toward marsh.
+tion (R. Schroeder, personal communication). Wells were
+bored without drilling fluids by using 5- to 15.2-cm-diameter
+hollow-stemmed augers; aseptic precautions were not taken
+to prevent contamination of the aquifer with surface microorganisms.
+Therefore, gasoline-degrading isolates obtained
+from groundwater samples in the present study were regarded
+as well-derived bacteria and not necessarily as true
+aquifer bacteria. Site characterization studies indicated that
+the groundwater is brackish (from seawater intrusion) and
+contains numerous gasoline hydrocarbons (unpublished
+data). Substituted aromatic hydrocarbons predominated at
+this site and were most concentrated in well 2 (Fig. 1) located
+approximately 10 m up-gradient from the spill origin. Concentrations
+of individual hydrocarbons typically ranged from
+10 to 100 mg/liter in groundwater obtained from well 2 to less
+than 1.0 ,ug/liter in wells located along the periphery of the
+plume (e.g., well 7; unpublished data).
+Origins of isolates used in study. Origins of the 309 gasoline-degrading
+bacteria used in this study are listed in Table
+1. A total of 220 isolates were directly subcultured from
+groundwater samples (as described below) from the eight
+observation wells (Fig. 1). An additional 30 isolates were
+subcultured from an enrichment culture inoculated with
+groundwater from well 30, and 59 isolates were recovered by
+direct subculture from aquifer core material obtained near
+well 30 (see below). As noted above, the gasoline-degrading
+isolates were regarded as well-derived rather than native
+aquifer bacteria, since aseptic drilling practices were not
+employed when observation wells were placed in 1984 and
+1985.
+Core sampling. A total of 59 gasoline-degrading isolates
+were obtained from an aquifer core sample obtained on 30
+July 1987 (Table 1). The core was recovered from a depth of
+approximately 2.75 m at a location about 2 m northeast of
+well 30. Coring was performed by using a 76.2-cm-diameter
+bucket auger which was disinfected with a pressurized steam
+Well
+4/29/86 5/31/86 7/22/86 9/16/86 1/16/87 5/12/87 7/30/87 9/3/87
+2 3 23 17 2
+3 1 2 1
+7 2 6 1 3
+8 119
+14 11
+30 1 22 59" 14
+30 30
+32 1
+33 1
+" Isolates recovered from a well 30 core sample (see Materials and
+Methods).
+b Isolates recovered from laboratory enrichment culture (see Materials and
+Methods). Eighteen of these isolates were included in growth tests used to
+determine catabolic groups (see Fig. 2).
+jet before and at intervals during drilling and also immediately
+prior to retrieval of the final core sample. The final core
+sample was extracted from the borehole, positioned above a
+sterile plastic container (diameter, 30 cm; 20-liter capacity),
+and abruptly released, completely plugging the container
+within about 0.1 s. The outermost 10 cm of the core was
+sheared away as the container was plugged. The container
+was sealed aseptically and transported to the laboratory for
+analysis.
+Collection of groundwater samples. Groundwater samples
+were obtained from observation wells by use of a manual
+bellows pump. The pump intake was connected by sterile
+tubing to a 1.27-cm-diameter polyvinylchloride sampling
+tube permanently installed in each observation well (to
+prevent cross-contamination of wells). A minimum of five
+residual well volumes of groundwater (30 to 40 liters) was
+pumped out of the well as a flush prior to sample collection.
+After flushing, a sterile 1-liter vacuum flask was placed
+between the polyvinylchloride sample tube and pump assembly
+by using sterile Tygon tubing and interconnectors. A
+1-liter sample of groundwater was drawn into the flask, and
+this was dispensed aseptically into sterile plastic bottles
+(Nalgene). The samples were stored on ice and transported
+to the laboratory within 3 h of collection.
+Isolation of gasoline-degrading bacteria. Gasoline-degrading
+bacteria (aerobic and facultative) were isolated by diluting
+groundwater samples in sterile hydrocarbon minimal
+medium (HCMM2) and spread-plating 0. 1-ml aliquots onto
+HCMM2 agar plates. HCMM2 medium contained (per liter
+of distilled water) the following: 1.36 g of KH2PO4; 1.42 g of
+Na2HPO4; 0.5 g of KNO3; 2.38 g of (NH4)2SO4; 0.05 g of
+MgSO4 7H2O; 0.01 g of CaCI2; 2.86 mg of H3BO4; 1.54 mg
+of MnSO4. H20; 3.53 mg of Fe (NH4)2(SO4)2 6H2O; 0.039
+mg of CuSO4 5H2O; 0.021 mg of ZnCl2; 0.041 mg of
+CoCl2 6H20; and 0.025 mg of Na2MoO4 2H2O. The medium
+was adjusted to pH 7.2 with 1 N NaOH. Use of 0.8%
+(wt/vol) purified agar (Becton Dickinson Microbiology Systems,
+Cockeysville, Md.) to prepare HCMM2 plates was
+essential in obtaining low background colony counts. Plates
+were prepared in duplicate, maintained at room temperature
+(about 23°C) in sealed plastic containers (Rubbermaid, Inc.,
+Wooster, Ohio) for 2 weeks, and examined at intervals for
+colony formation. Hydrocarbon vapors for growth were
+supplied by an open vial of unleaded gasoline placed in the
+plastic containers; HCMM2 plates incubated in this manner
+are hereafter referred to as HCMM2-gasoline. Duplicate
+APPL. ENVIRON. MICROBIOL.
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+CATABOLIC ACTIVITY OF GASOLINE-DEGRADING BACTERIA
+control plates were initially incubated without gasoline in
+sealed plastic containers with a 1-cm layer of granularactivated
+carbon to adsorb trace organics in the container
+atmosphere. The use of granular-activated carbon was eventually
+abandoned when it was found to be ineffective at
+reducing background counts. Colony counts on control
+plates were typically less than 0.1 CFU/ml.
+To isolate bacteria from aquifer core materials, 5.0 g of
+material was aseptically added to 100 ml of sterile HCMM2
+broth amended with 0.1% (wt/vol) sodium pyrophosphate (3,
+12). The resulting slurry was homogenized for approximately
+30 s at high speed in a Waring blender equipped with a
+sterile, stainless steel microblender head. Aliquots were
+removed from the supernatant phase of the homogenized
+suspension for bacterial isolation on HCMM2-gasoline, as
+described above.
+Some gasoline-degrading bacteria used in this study were
+obtained from an enrichment culture which had been inoculated
+with groundwater from well 30 (Table 1). The enrichment
+culture was prepared in a 100-ml sterile septum vial
+containing 50 ml of sterile HCMM2 broth supplemented with
+0.1% (vol/vol) unleaded gasoline. Following inoculation with
+5.0 ml of groundwater from well 30, the vial was sealed and
+incubated with shaking at ambient temperature (about 230C).
+After 1 week, the vial was unsealed and gasoline-degrading
+bacteria were isolated as described above.
+Catabolic screening of gasoline-degrading isolates. Gasoline-degrading
+bacteria were subcultured from initial isolation
+plates to fresh HCMM2-gasoline plates, twice checked
+for purity by restreaking on the same medium, and stored
+frozen on sterile Whatman filter disks at -120°C. Isolates
+were screened (in duplicate) for growth on each of 15
+common gasoline hydrocarbons (Table 2). All test hydrocarbons
+were anhydrous and of spectrophotometric grade and
+were rated at >99.0%, with the exception of o-xylene and
+methylcyclopentane, which were rated at >97.0% and
+>98.0%, respectively. A Varian model 3400 gas chromatograph
+(GC) equipped with a flame ionization detector (FID;
+Varian, Inc., Sunnyvale, Calif.) and a 30-m DB624 megabore
+column (J. W. Scientific, Folsom, Calif.) was used to confirm
+reported purities of and identify contaminants in toluene,
+ethylbenzene, methylcyclopentane, and o-xylene (Table 2).
+Unstable or hygroscopic hydrocarbons (e.g., octane, ethylbenzene,
+o-xylene, and p-xylene) were stored under nitrogen
+for the duration of the study.
+Isolates were toothpicked from stock cultures (grown on
+HCMM2-gasoline) onto fresh HCMM2 agar and exposed to
+single-hydrocarbon vapors in sealed chambers (e.g.,
+HCMM2-benzene). Chambers consisted of 4-liter widemouthed
+glass jars fitted with Teflon-lined screw-cap lids.
+Each jar contained a hydrocarbon vapor generator consisting
+of a standard 20-ml glass liquid scintillation vial filled
+with cotton soaked in the appropriate hydrocarbon and
+capped with a Teflon-lined septum. The septum was pierced
+with a 22-gauge hypodermic needle to provide a gradual
+release of hydrocarbon vapor to the chamber atmosphere.
+Gas chromatographic analyses indicated that the amount of
+ethylbenzene which dissolved into sterile HCMM2 broth (in
+a petri dish placed within a chamber) increased linearly from
+0.018 ,uM/ml to 0.08 VLM/ml between 8 and 145 h (unpublished
+data).
+All negative-control HCMM2 plates were placed in a
+single hydrocarbon-free chamber. Positive-control plates
+were prepared by toothpicking cells onto a final plate of R2A
+medium (Difco Laboratories, Inc., Detroit, Mich.) and
+HCMM2-gasoline medium at the end of each series of
+TABLE 2. Purities of test hydrocarbons useda
+Test Purity (%
+hydrocarbon by wt)
+Simple aromatics (benzene) .................................... >99.9
+Substituted aromatics
+Toluene ..................................... >99.9
+o-Xylenec..................................... >97.0
+p-Xylene ..................................... >99.0
+1,2,4-Trimethylbenzene .................................... >99.0
+Ethylbenzened .................................... >99.0
+Polyaromatic (naphthalene) ..................................... >99.7
+Linear alkanes
+Hexane ..................................... >99.0
+Octane .................................... >99.0
+Decane..................................... >99.0
+Branched alkanes
+2,2,4-Trimethylpentane .................................... >99.0
+2-Methylbutane.................................... >99.7
+Cyclic alkanes
+Cyclohexane ..................................... >99.0
+Cycloheptane .................................... >99.0
+Substituted cyclic alkane (methylcyclopentanee) ............. >98.0
+a All hydrocarbons were from Aldrich Chemical Co., Inc., Milwaukee,
+Wis., except hexane, which came from Sigma Chemical Co., Inc., St. Louis,
+Mo.
+b Toluene purity was confirmed by GC-FID (this study; see Materials and
+Methods).
+c o-Xylene contained 2.7% (wt/wt) toluene as confirmed by GC-FID (this
+study).
+d Ethylbenzene contained 0.75% toluene and 0.33% o-xylene as confirmed
+by GC-FID (this study).
+e Methylcyclopentane contained about 1.0% toluene as confirmed by GCFID
+(this study).
+experimental HCMM2 plates. All plates were incubated at
+room temperature (about 23°C) for up to 2 weeks and
+examined at intervals for bacterial growth. Growth on a
+negative-control plate nullified use of that particular isolate
+in the study. Absence of growth on R2A or HCMM2-
+gasoline plates was interpreted as failure to transfer cells to
+the experimental hydrocarbon plates, and results were rejected
+for all plates in the series. Thus, failure to grow was
+not a result of insufficient transfer of viable cells. Positive
+growth was interpreted as biodegradation of the test hydrocarbon
+(not necessarily complete mineralization) coupled
+with cellular growth, and the isolate was considered to
+exhibit catabolic activity. Growth of Pseudomonas putida
+(strain SB2-091686-54g) from the study site in a continuousflow,
+sand-filled column was correlated with removal of
+benzene, toluene, and ethylbenzene as determined by GCFID
+analysis (unpublished data). These same hydrocarbons
+also served as sole growth substrates for this isolate in the
+vapor assay described above, indicating that growth on
+vapors could be used to infer actual catabolism of a hydrocarbon.
+Sample preparation for SDS-PAGE. Isolates were transferred
+from R2A medium to a defined radiolabeling (RL)
+medium and grown for 2 or 3 days at 28°C. RL medium
+contained the following reagents (all from Sigma): 0.1 g
+(each) of the amino acids arginine, asparagine, aspartic acid,
+glutamic acid, glutamine, glycine, histidine, hydroxyproline,
+isoleucine, lysine, phenylalanine, proline, serine, threonine,
+tryptophan, tyrosine, and valine; 50 mg (each) of the nucleic
+VOL. 56, 1990 3567
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+3568 RIDGWAY ET AL. APPL. ENVIRON. MICROBIOL.
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+CATABOLIC ACTIVITY OF GASOLINE-DEGRADING BACTERIA
+acid bases adenosine, adenosine 2'- and 3'-monophosphate,
+cytidine 2'- and 3'-monophosphate, guanosine, guanosine 2'-
+and 3'-monophosphate, uridine, and uridine 2'- and 3'-
+monophosphate; 10.0 ,ug (each) of the vitamins p-aminobenzoic
+acid, D-biotin, folic acid, niacinamide, p-pantothenic
+acid, pyridoxal hydrochloride, pyridoxamine hydrochloride,
+pyridoxine hydrochloride, riboflavin hydrochloride, thiamine
+hydrochloride, and DL-6,8-thioctic acid; 1.0 g of glucose;
+1.42 g of Na2HPO4; 1.36 g of KH2PO4; 5.0 mg of
+MgSO4 - 7H20; 2.8 mg of H3BO4; 1.8 mg of MnCl2 4H20;
+1.36 mg of FeCl2; 1.77 mg of NaK-tartrate; 26.9 pLg of
+CUCl2 * 2H20; 20.8 ,ug of ZnCl2; 40.4 ,ug of CoC12 2H20;
+25.2 jig of Na2MoO4- 2H20; 15.0 g of Bacto-Agar (Difco);
+and 1 liter of distilled water. The pH of RL medium was
+adjusted to 7.2, and vitamins were added after it was
+autoclaved as a filter-sterilized solution. Colonies were
+toothpicked from RL plates to 96-well microtiter plates, each
+well containing 100 pAl of sterile RL medium supplemented
+with 20 ,uCi of [35S]sulfate (specific activity, 25 to 40 Ci/mg;
+Amersham Corp., Arlington Heights, Ill.). Sulfate was employed
+as a label instead of [35S]methionine, since many
+isolates failed to efficiently incorporate the latter. Microtiter
+plates were incubated at 28°C in sterile, sealed plastic bags
+(to prevent evaporation) until growth was visible (usually 2
+days). Cells were rinsed from wells with 50 pd of sterile,
+deionized water and transferred to a 1.5-ml microcentrifuge
+tube, and proteins were solubilized by addition of an equal
+volume of double-strength lysis buffer containing 0.125 M
+Tris buffer (adjusted to pH 8.3 with 2.0 N HCl), 4.0%
+(wt/vol) SDS, 10.0% (vol/vol) 2-mercaptoethanol, and
+0.005% (wt/vol) bromophenol blue (all from Sigma Chemical
+Co., St. Louis, Mo.). This suspension was mixed, boiled for
+5 min, and then sonicated for 5 min with an equal volume of
+0.15-mm zirconium oxide beads by using a Heat Systems,
+Inc., model 450 ultrasonic processor equipped with a cup
+horn.
+SDS-PAGE method. Solubilized proteins were loaded onto
+12% (wt/vol) polyacrylamide gels and subjected to electrophoresis
+for 20 min at 20 W and then at 60 W for approximately
+2 h at 8°C by using a refrigerated, computer-controlled
+electrophoresis system (AMBIS, Inc., San Diego,
+Calif. [14]). Gels were dried and scanned for radioactivity
+incorporated into cellular proteins with an AMBIS, Mark II,
+computer-programmed beta radioactivity scanner. A detailed
+description of this system has been reported by Hook
+et al-. (14) and Smith (25).
+Scanning and analysis of SDS-PAGE gels. Scan data were
+automatically retrieved and stored on the hard disk of an
+IBM-PC/AT microcomputer as individual SDS-PAGE lane
+files. Lane files were adjusted and normalized according to
+'4C-labeled molecular weight standards consisting of lysozyme
+(14,300 Da), ,-lactoglobulin (18,400 Da), carbonic
+anhydrase (29,000 Da), ovalbumin (43,000 Da), bovine serum
+albumin (68,000 Da), phosphorylase b (97,400 Da), and
+H-chain myosin (200,000 Da) (Bethesda Research Laboratories,
+Gaithersburg, Md.). The specific activity of a 1.0-,ul
+FIG. 2. Catabolic groups defined in this study. A filled box
+indicates that a hydrocarbon supported the growth of all members of
+a group. Asterisks denote a frequency of <0.01 (n = 297). BNZ,
+Benzene; TOL, toluene; OXL, o-xylene; PXL, p-xylene; TMB,
+1,2,4-trimethylbenzene; EBZ, ethylbenzene; NAP, naphthalene;
+HEX, hexane; OCT, octane; DEC, decane; TMP, 2,2,4-trimethylpentane;
+MBT, 2-methylbutane; CHX, cyclohexane; CHP, cycloheptane;
+MCP, methylcyclopentane; GAS, regular-grade unleaded
+gasoline.
+solution of each 14C-methylated standard was 3,100 dpm/mg
+of protein. The length of each lane was adjusted and normalized
+by electronically clipping the ends of the lanes at two
+locations, one corresponding to phosphorylase b and the
+second corresponding to P-lactoglobulin. To further account
+for gel variations, lane files were normalized by using
+software that stretched or compressed banding profiles to a
+standard length and stored them as adjusted lane files.
+Adjusted lane files were transformed into Fourier space by
+using appropriate algorithms and were then searched for
+matches or compared with one another by using dendrogram
+software described elsewhere (14, 15, 19-21). Isolates were
+sorted into groups and assigned Fourier or Pearson correlation
+coefficients (14). A coefficient of 1.0 indicates an exact
+match between two banding patterns. In actual practice,
+experimental error, gel variations, and machine noise limited
+resolution to a correlation coefficient of about 0.93 for
+multiple runs of the same isolate (unpublished data). Previous
+studies indicated that microorganisms correlated above
+0.90 are very closely related and are typically members of
+the same species or subspecies (14, 15, 19-21). Therefore,
+isolates with protein-banding profiles correlated at >0.90
+were placed into the same group (referred to as an AMBIS
+group).
+Bacterial identification by conventional methods. Conventional
+identification of gasoline-degrading bacteria was performed
+by morphological examinations, Gram- and flagellum-staining
+reactions, oxidative/fermentative analyses, and
+inoculation and reading of NFT biochemical strips obtained
+from Analytab Products, Inc., Plainview, N.Y. Strips were
+routinely incubated at 28°C.
+RESULTS
+Hydrocarbon degradation patterns of isolates. Catabolic
+activities of 297 isolates were evaluated by recording aerobic
+growth responses on the 15 different hydrocarbon substrates
+which were gradually introduced as vapors in sealed vessels
+(see Materials and Methods). Bacteria degrading the same
+hydrocarbon(s) were included in the same catabolic group. A
+total of 111 catabolic groups were delineated among the
+isolates screened (Fig. 2). The types of hydrocarbons catabolized
+by each group varied widely, but the majority of
+isolates favored the substituted monoaromatics as growth
+substrates, which is consistent with in situ adaptation to
+aromatic compounds prevalent in groundwater at this site
+(unpublished data).
+A total of 17 catabolic groups included degradation of the
+multiply branched alkane 2,2,4-trimethylpentane, and 12
+groups degraded the branched cyclic alkane methylcyclopentane.
+Group 14 was unusual, since its members failed to
+grow on any of the 15 test hydrocarbons, suggesting that
+these isolates required one or more gasoline hydrocarbons
+other than the 15 evaluated. Each of the 15 test hydrocarbons
+was biodegraded by at least one of the 297 isolates,
+suggesting that the primary hydrocarbon categories of gasoline
+could be aerobically biodegraded in situ given appropriate
+conditions.
+Several catabolic groups (e.g., groups 38, 47, 75, 84, 94,
+and 105) included degradation of a single test hydrocarbon.
+Such groups were not the most frequently observed, as
+might be suspected because of their simplicity, suggesting
+that maintenance of multiple catabolic abilities might provide
+some selective advantage. Catabolic groups which
+included degradation of five or more test hydrocarbons were
+likewise infrequently observed (e.g., groups 42, 45, 51, 61,
+VOL. 56, 1990 3569
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+3570 RIDGWAY ET AL.
+0.35
+0.3
+F
+R
+E
+Q
+U
+E
+N
+C
+y
+0.25
+0.2
+0.15
+0.1
+0.05.
+0
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+NUMBER OF TEST HYDROCARBONS DEGRADED
+FIG. 3. Histogram showing frequency of Seal Beach gasoline-degrading isolates capable of growth on different numbers of the 15 test
+hydrocarbons used in this study (n = 297 isolates).
+and 80). The frequency of occurrence of bacteria able to
+utilize different numbers of test hydrocarbons is plotted in
+Fig. 3. Inspection of these data indicates that most isolates
+were able to grow on 2 or 3 different test hydrocarbons,
+suggesting that retention of other numbers of catabolic
+activities might not offer selective advantage at this site.
+The frequency of occurrence of the 111 catabolic groups
+defined above is shown in Fig. 4. Given the 15 test hydrocarbons
+utilized in this study, there are 215 (or 32,768)
+different possible catabolic groups. Since each group is
+0.25
+F
+R
+E
+Q
+U
+E
+N
+C
+y
+0.2 -
+0.15 -
+0.1 -
+0.05
+0
+I IITT tI III II
+0 5 1 1 2 2 3 3 4 4 5 5
+0 5 0 5 0 5 0 5 0 5
+unique, the probability of observing any one group should be
+equal to that of observing any other, resulting in a completely
+random distribution (assuming group independence
+and absence of selection). However, a random distribution
+was not observed, since groups 1 to 10 were the most
+common, representing greater than 57% of the 297 isolates
+analyzed (Fig. 4). Eight of these groups included degradation
+of toluene, which was the most frequently utilized test
+hydrocarbon. Departure of observed group frequency data
+from an expected random distribution evidently reflects
+6 6 7 7 8 8 9 9 1 11
+0 5 0 5 0 5 0 5 0 01
+0 50
+CATABOLIC GROUP
+FIG. 4. Histogram showing frequency distribution of the 111 different catabolic groups defined in this study (n = 297 isolates).
+Hydrocarbons serving as growth substrates in each catabolic group are shown in Fig. 2.
+APPL. ENVIRON. MICROBIOL.
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+CATABOLIC ACTIVITY OF GASOLINE-DEGRADING BACTERIA
+1
+0.8
+F
+R
+E
+Q
+U
+E
+N
+C
+y
+0.6
+0.4
+0.2
+0 n ~~~~~~~~I
+._in _ _ .
+,
+I MII
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+HYDROCARBON SUPPORTING GROWTH
+FIG. 5. Frequency of specific test hydrocarbon degradation (n = 297 isolates). Abbreviations for hydrocarbons are given in the legend to
+Fig. 2. oXL, o-Xylene; pXL, p-xylene.
+existence of biologically favored combinations of hydrocarbon
+catabolic pathways.
+Growth screening also permitted determination of the
+frequencies at which specific test hydrocarbons were utilized
+by isolates. The frequencies of specific hydrocarbon degradation
+for 297 of the Seal Beach isolates are presented in Fig.
+5. Alkylated aromatic hydrocarbons, such as toluene, p-xylene,
+ethylbenzene, and 1,2,4-trimethylbenzene were most
+frequently utilized. Approximately 75% of isolates were
+capable of growth on toluene vapors as a sole carbon and
+energy source. Benzene and naphthalene were less frequently
+degraded than most substituted aromatics with the
+exception of o-xylene, which was degraded less frequently
+than either compound or than its isomeric counterpart,
+p-xylene. It is interesting to note that more than 150 toluenedegrading
+isolates were unable to utilize toluene present as a
+contaminant in o-xylene (Table 2), suggesting that the concentrations
+of contaminating hydrocarbons were too low to
+support growth. The least frequently degraded compounds
+included the cyclic branched alkanes 2,2,4-trimethylpentane,
+2-methylbutane, and methylcyclopentane. Unsubstituted
+linear and cyclic alkanes such as octane and cycloheptane
+were utilized at frequencies intermediate between those
+of the aromatics and branched alkanes.
+Polypeptide-banding pattern analysis of isolates. A total of
+220 gasoline-degrading isolates was characterized by computer-programmed
+SDS-PAGE analysis to further explore
+genetic and taxonomic heterogeneity among the sample
+population. The dendrogram-generating algorithms which
+were employed restricted analyses to 75 isolates, which
+necessitated construction of four separate dendrograms to
+accommodate the 220 isolates. Bacteria composing the four
+initial dendrograms were sorted into tentative groups (AMBIS
+groups), each exhibiting intracorrelations of 0.90 or
+greater. Representative strains (totaling less than 75) from
+each of the tentative AMBIS groups were subsequently used
+to construct a fifth, composite dendrogram to determine
+which tentative groups were unique. Using this iterative
+strategy, a total of 51 distinct AMBIS groups were resolved,
+and the relationship between these is indicated in Fig. 6.
+Confirmatory dendrograms (not shown) were performed on
+each of the 51 AMBIS groups to ensure that members of
+each were correlated above the 0.90 level.
+Inspection of the dendrogram shown in Fig. 6 indicates
+that the Seal Beach isolates were organized into two broad
+clusters which were discriminated by a correlation value of
+about 0.47. The upper cluster consisted of the first 13
+AMBIS groups, while the lower cluster comprised the remainder
+of the 51 groups. Each cluster was composed of
+members correlated with one another at a level of about 0.55
+or higher. The largest AMBIS group, 33, contained 21
+members, whereas 21 groups contained only one member
+isolate.
+Test hydrocarbons collectively utilized by members composing
+each AMBIS group are also indicated in Fig. 6. The
+most catabolically diverse bacteria composed the lower
+cluster. These isolates were able to catabolize all 15 test
+hydrocarbons. AMBIS groups 24, 30, 31, 33, 34, 36, 39, 41,
+and 43 included members which were particularly versatile
+in terms of hydrocarbon usage. In contrast, the upper
+cluster, which comprised the first 13 AMBIS groups, included
+isolates which were more restricted catabolically
+(and taxonomically; see below) than those in the lower
+cluster. Alkanes served as growth substrates for only one of
+the upper-cluster groups (AMBIS group 12), the remainder
+degrading only substituted aromatics. However, benzene
+and o-xylene were biodegraded more frequently by members
+of the lower cluster. Because members of single AMBIS
+groups often displayed different growth responses on a given
+test hydrocarbon, it was not feasible to reliably predict
+catabolic activity from protein-banding information.
+A total of 244 isolates (including the 220 analyzed by
+SDS-PAGE) were identified by conventional nutritional and
+biochemical tests to determine whether useful phylogenetic
+information could be extracted from protein-banding and
+catabolic-screening data. Nearly half (48.4%) of the 244
+VOL. 56, 1990 3571
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+3572 RIDGWAY ET AL.
+,3 O.WQ67 Q73 0.80 0Q87 0.93
+L- 1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.,
+I. =
+0.67' 0.73 0.80 0.87 0.93
+R=0.90
+13 0|5 11/65 I
+-IRW-MPSA W6321|
+.M SM -llifMN_01/61 .9§21Lwui
+r.r P1
+0
+a
+%W- CJ3l 1-I IL FIW 3I ID 1-X
+I P.rrgxm _ T
+-Idbi Ii lldl
+Pe.
+Pa
+Pa.
+PSL
+0)
+5
+1.mwakios
+. amrukinosa
+,mawugnosa
+5l1MWI.sp2iu WMv 7 0- PS. mrugkoe 13.
+IsIC@2i 81 l 1l Pl.mugln _ _ 6
+_1111MM201/618 9 ~~~~~~~~~~~Pa. enskugns 2
+lo Pa. asuglo sa 2
+t___2D_1_1_1_ 11 l - 1 0000 P_a.2mr o 6
+-ilUOd!4 IV 12 0*00 * * ** P***ruglnos 10
+tI tADI6l 13 *l = lo_*1 0 Pa = __n. 11
+'2^-14 Wm 14 * *0__ * 0 N*-- op. 3.
+-izX3 W-rj$ Nv *|I--I_ isn 00P._ua
+-"Is!n2778.w16 a lo I 0 0 *0 A_c.dmNMlcui I
+,w2XS13I17 * @0 00 _*@ _s_ j_*__ 3
+____VA_1 _ 18 0 00 00 0
+_*@N.*mSpha 1
+-iw#tVCiw 19 * *1 0 0 N/A 1
+____!__ _3 20 *_* N/A 1
+-,IFM!WC4I 211*- * l_o*I I_ _ _wmN. I
+.
+'lEIW2CWCZ ~~22 * * o
+* ** Pa.fliW"hf 2
+_s23 * _ ____ _ _ _ _ X~~~~~~N/A
+UIFAMKM2
+587-722U-36A) 02/624 ______ 112JC23 * 24 *f*l****. ***** 00 Ps_.pudd 14
+MAlI?Dm 0/61n * 25M*rococcM 1I
+a 26 1_I
+_1 __I_____21 28 0-0 - 0 -gine * - 3
+__ _O_S _ * 29 c__NorcmSpp 1
+-Wflrnh ww 30 00 *9* Ps. auzer 4
+-IIULUwM 31 0 000 0 * -*_puAda 15
+-11M -4I 32 Ps*.putda I
+33 0 00000 Wm 0 - Nspum 21
+- -2esm 34 0000000** *0000_ PSSIUZI 6
+-Ow- m 36 0* 000 01 ooT pu-da 0 P I WTmi***Wm Th30 N/A I
+__ _7__1, _ 38 _cakg_nesP. 1 'Id!mt s4h2 39 0 N/A 4
+111"JW46N
+_E_ _113 __ 41 0 ** 0 0 Micrococc*s 16
+-__________ 42 NiA I
+______ 43 Mk**x. 0** M crococcu 7
+-- B^2*.,M 44 _ _-**_-*INo _
+4
+i - 2f-35 ol^ 0
+2$Sr- Ova I
+'ImlI 12
+'|NS6
+--0MCM4 W=:
+' Cmjr WU/
+,3_A A
+MR-U Alel
+147
+48 *I
+lEci3- -w49 aC4
+JI of
+N/A
+I
+Iuii ' 1 1 1 1Iw I I I I-I I I I I I-I m ocum l-i N/A
+I l l l .lL- -
+Al,bK!lh,Al- l l l --|- li
+XwIWlwII - II
+.
+I. -wgw
+S 220 I I
+1 I TOTAL:
+0.47 0.5
+fI
+I:
+I 1
+0.47' 0.53 0.80
+1+
+I
+--
+46
+1-wi I I I I I llwl IIRWIIWI I I,-,, 1:1 IM 0 0 Mkxoooomn
+I
+I 0-1 . . .-. . .-. . .-.
+III enO'27
+I I
+I
+m
+I .
+am-_
+I
+0.I
+T'
+L.
+T-
+I
+I
+I ^
+46-
+0
+m
+IL
+APPL. ENVIRON. MICROBIOL.
+m2 A' 1-6-11 Ol "M, I OD I IDENnFrA-nON
+I.Mwkma
+45
+Al
+Ps- awuokw.
+3.aLgw
+51
+11-i I12 PIM1
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+CATABOLIC ACTIVITY OF GASOLINE-DEGRADING BACTERIA
+isolates were recovered from groundwater samples from
+well 8; the remainder were obtained from five other wells
+(wells 2, 7, 14, 30, and 32). Of 121 gasoline-degrading isolates
+recovered from well 8 groundwater, 118 were identified as
+Pseudomonas aeruginosa. In all, nine species of pseudomonads
+were identified, including P. aeruginosa (55.7%),
+P. putida (18.4%), P. stutzeri (7.4%), P. fluorescens (0.82%),
+P. acidovorans (0.82%), P. pickettii (0.41%), P. maltophilia
+(1.2%), P. alcaligenes (1.6%), and P. cepacia (0.41%). Other
+identifications included Alcaligenes denitrificans (0.82%),
+Micrococcus spp. (10.7%), and Nocardia spp. (1.2%).
+The majority of P. aeruginosa strains exhibited similar
+protein-banding patterns and hydrocarbon catabolic activities
+(see above), cosegregating into the upper cluster of the
+dendrogram (Fig. 6), where they formed the first 13 AMBIS
+groups. A few P. aeruginosa isolates, however, displayed
+protein-banding patterns which differed significantly from
+the main body of isolates included in the upper cluster, and
+these cosegregated near the bottom of the dendrogram
+(AMBIS groups 49 to 51). P. aeruginosa isolates composing
+AMBIS groups 12 and 49 exhibited unusual catabolic activities
+compared with other P. aeruginosa groups, since they
+grew on selected alkanes, including hexane, octane, decane,
+cyclohexane, and methylcyclopentane in addition to the
+more frequently catabolized aromatics. Inclusion of these
+catabolically anomalous strains in P. aeruginosa is, therefore,
+suspect. P. putida, P. stutzeri, and the Micrococcus
+spp. were capable of catabolizing most alkanes and were
+distributed throughout the mid to lower regions of the
+dendrogram (Fig. 6).
+DISCUSSION
+The principal advantage of vapor-phase growth tests such
+as those employed in this investigation is that they can be
+performed much more rapidly than more complex chemical
+analytical methods, thereby permitting the examination of
+large numbers of isolates with multiple hydrocarbon substrates
+in a reasonable time frame. Unlike batch culture
+techniques in which a single hydrocarbon concentration is
+typically employed, tests using hydrocarbon vapors offer
+organisms a range of substrate concentrations, if vapors are
+introduced gradually as was done in this study. Such a
+technique increases the likelihood of a positive growth
+response within some favorable concentration range of hydrocarbon.
+Assuming purity of the carbon source and inclusion
+of appropriate negative controls (e.g., incubation in the
+absence of substrate), a positive result is unambiguous and
+may be interpreted as catabolic (i.e., biodegradative) activity
+coupled to cellular growth.
+If test hydrocarbons are not absolutely pure, then a
+positive growth response could result from utilization of
+contaminant hydrocarbons. However, this possibility was
+unlikely, since more than 90 isolates which grew on toluene
+as a sole carbon source were unable to utilize this same
+substrate when it was present as a contaminant in ethylbenzene
+at a level of approximately 0.8% (wt/wt) (Fig. 5; Table
+FIG. 6. Composite dendrogram showing 51 AMBIS groupings
+made on the basis of computerized analysis of protein-banding
+patterns. Upper- and lower-cluster regions are indicated. Test
+hydrocarbons degraded within each AMBIS group are indicated by
+filled circles. Numbers and identifications of isolates are also provided.
+Abbreviations for hydrocarbons are given in the legend to
+Fig. 2.
+2). Similarly, nearly 150 toluene-degrading isolates failed to
+utilize toluene present as a contaminant in o-xylene (the
+least-pure test substrate [Table 2]) at a concentration of 2.7%
+(wt/wt). These observations suggest that the concentrations
+of contaminant hydrocarbons were insufficient to support
+the growth of gasoline-degrading isolates examined in this
+study.
+As in all studies that employ growth responses on singlecarbon
+substrates, a negative result may be interpreted as (i)
+lack of a functional catabolic pathway or transport system,
+(ii) insufficient concentration of the test substrate (i.e.,
+inadequate bioavailability), or (iii) biotoxicity. In addition, a
+negative growth response does not imply that a compound
+cannot be cometabolized or syntrophically utilized. It may
+be argued that inadequate bioavailability was not responsible
+for negative results in the present study, since all isolates
+grew on gasoline vapors in which the concentrations of
+individual hydrocarbon components were lower than those
+of the single test hydrocarbons subsequently employed. In
+addition, test hydrocarbons could have been expected to
+approach equilibrium concentrations at the surfaces of the
+agar plates given the lengthy incubation periods employed.
+Inadequate bioavailability may also be discounted on
+grounds that different isolates in the same subspecies group
+(e.g., P. putida in AMBIS group 33) often displayed different
+catabolic patterns, such that one or more hydrocarbons were
+utilized by one strain but not by another. To account for
+such discrepancies in substrate utilization, it must be postulated
+(i) that significant differences existed among otherwise
+closely related strains with regard to hydrocarbon affinity,
+transport kinetics, or other factors that could restrict bioavailability
+or (ii) that strains exhibited markedly different
+susceptibilities to the biotoxic effects of the same hydrocarbon.
+Whereas strain differences in specific-hydrocarbon
+affinity or toxicity are admittedly feasible, they have not
+been documented nor would they necessarily be expected in
+such closely related isolates. Moreover, assuming that such
+differences did exist, there is no a priori reason to suspect
+that they would have been of sufficient magnitude to account
+for the marked differences in growth responses of different
+strains on the same hydrocarbon. Furthermore, it may be
+inferred that none of the 15 test hydrocarbons was generally
+cytotoxic at levels employed in this study; otherwise, no
+isolate would have exhibited growth on that compound. In
+contrast, every test hydrocarbon was found to support the
+growth of at least one gasoline-degrading isolate.
+However, since biotoxicity or bioavailability was not
+rigorously proven or disproven, the growth response data
+tend to provide a conservative estimate of catabolic potential.
+Thus, catabolic groups defined by using vapor-phase
+growth tests might have hydrocarbon catabolic activities
+other than those actually observed. Despite this inherent
+conservatism, all gasoline hydrocarbon categories tested
+were found to have been directly catabolized under aerobic
+conditions. For purposes of predicting bioremediative feasibility
+at a hydrocarbon-contaminated site, a conservative
+estimate of catabolic potential provides a safer margin for
+error than a more liberal estimate of degradative ability.
+Given the qualifications discussed above, results of
+growth-screening tests and other methods employed in this
+investigation indicate that there was considerable physiologic
+and genetic heterogeneity among gasoline-degrading
+bacteria associated with the Seal Beach site. It is interesting
+to note that the growth-screening technique employed provided
+greater phenotypic resolution than one-dimensional
+protein-banding information, since a total of 111 catabolic
+VOL. 56, 1990 3573
+ on July 10, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+3574 RIDGWAY ET AL.
+groups were defined compared with 51 AMBIS groups. This
+difference was not entirely unexpected, since some catabolic
+enzymes having different substrate specificities might exhibit
+similar or identical mobilities in polyacrylamide gels. Furthermore,
+many catabolic enzymes may be present in cells at
+levels too low to be readily detectable in whole-cell protein
+preparations, thereby precluding their use as discriminatory
+signals in polyacrylamide gels.
+It is noteworthy that different members of the same
+species (e.g., P. aeruginosa or P. putida) often differed
+significantly with respect to their protein-banding patterns.
+This result is primarily attributable to the somewhat
+arbitrary use of a conservative correlation limit of 0.90 in
+constructing dendrograms and defining isolate groups. Delineation
+of AMBIS groups on the basis of a lower correlation
+value (e.g., 0.75) would have resulted in broader
+taxonomic groupings; however, significant discrepancies between
+banding pattern groups and conventional identifications
+would still have occurred. Thus, the use of onedimensional
+protein-banding pattern analysis to reliably infer
+phylogenetic relationships was limited in this study. Evidently,
+protein-banding information is not always adequately
+conserved for this purpose, even at the species level. Nevertheless,
+the protein-banding patterns were reproducible,
+and isolates composing each of the 51 AMBIS groups were
+consistently identified to the same species or subspecies.
+Thus, protein-banding information must be viewed in this
+study primarily as a means of resolving strain or subspecies
+differences, not as a technique for inferring phylogenetic
+relationships.
+Results of growth tests indicated that isolates displayed a
+predilection for aromatic hydrocarbons. Aromatic hydrocarbons
+constitute a major fraction of gasoline (24), and these
+compounds are more water soluble and less volatile than
+many aliphatic constituents. These characteristics favor the
+prevalence of aromatic hydrocarbons in groundwater contaminated
+by gasoline (5, 18, 29), and previous GC analyses
+of groundwater samples from the Seal Beach site are consistent
+with these concepts (unpublished data). Given the
+age of the plume (>6 years), it seems plausible that bacteria
+at the site might have had adequate time for significant
+physiologic and genetic adaptation to the aromatic fraction,
+which is consistent with the observed preference of the
+isolates for this hydrocarbon category.
+The majority of isolates were able to use only 2 or 3
+different test hydrocarbons as growth substrates (Fig. 3).
+This observation is intriguing, since it may reflect an optimum
+level of catabolic potential that is inherently maintained
+by cells from this environment. Aside from arguments
+concerning unfavorable energetics, there is no a priori
+reason to expect that more catabolic activities could not
+have been maintained. Indeed, a number of catabolic groups
+included individual isolates that degraded nearly all of the 15
+test hydrocarbons, but these bacteria represented a small
+minority. It is interesting to speculate on the purpose of
+maintaining multiple degradative pathways for compounds
+that have little resemblance to one another (e.g., an alkane
+and an aromatic). It is not known whether these catabolic
+pathways are simultaneously expressed and active in the
+environment or whether certain pathways are repressed
+while others remain functional. Additional biochemical and
+physiological studies will be needed to resolve these questions.
+Frequencies of test hydrocarbon utilization by the Seal
+Beach isolates differed somewhat from those of 32 gasolinedegrading
+isolates analyzed by Jamison and co-workers (16,
+17). For example, 2,2,4-trimethylpentane was the most frequently
+biodegraded test hydrocarbon in the Jamison study
+(frequency of degradation, 60%), whereas this same substrate
+was utilized by about 7% of the 297 Seal Beach
+isolates examined. In addition, while p-xylene was infrequently
+utilized by the Jamison isolates (<15%), it was the
+second-most-utilized compound among the Seal Beach bacteria.
+Toluene and ethylbenzene were among the most
+frequently utilized hydrocarbons in both investigations. Bacteria
+able to catabolize o-xylene, methylcyclopentane, and
+cyclohexane were not isolated by Jamison, though each of
+these hydrocarbons was biodegraded by a consortium growing
+on gasoline, suggesting cooxidative or syntrophic processes.
+It is possible that bacteria existed at the Jamison site
+that could directly degrade these hydrocarbons, but they
+were not detected because of the low number of isolates
+screened.
+In the Jamison investigation, isolates were obtained from
+groundwater following in situ injection of nutrients and
+oxygen. Thus, growth of aerobic gasoline-degrading bacteria
+may have been enhanced relative to the Seal Beach aquifer,
+which is anoxic and largely depleted of inorganic nutrients
+(e.g., nitrogen and phosphorus [unpublished data]). In situ
+bioremediation via nutrient injection and recycling establishes
+subsurface conditions which favor development of
+certain hydrocarbon-degrading phenotypes while suppressing
+the growth of others. Quantitative data are needed to
+better understand and delineate the relationship between
+microbial community structure and perturbation of in situ
+conditions by invasive bioremediative techniques.

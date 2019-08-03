@@ -1,0 +1,189 @@
+T1	Environment 243 252	sediments
+T2	Environment 260 290	petroleum-contaminated aquifer
+T3	Environment 298 315	aquatic sediments
+T4	Substrate 60 78	tert-Butyl Alcohol
+T5	Substrate 172 190	tert-butyl alcohol
+T6	Substrate 32 48	tert-Butyl Ether
+T7	Substrate 144 160	tert-butyl ether
+T8	ReactionOrProcess 228 239	incubations
+T9	ReactionOrProcess 112 133	anaerobic degradation
+T10	ReactionOrProcess 0 21	Anaerobic Degradation
+T11	Environment 411 420	sediments
+T12	Environment 403 410	aquifer
+T13	Substrate 395 399	MTBE
+T14	ReactionOrProcess 370 391	anaerobic degradation
+T15	Nutrient 333 349	humic substances
+T16	Nutrient 458 475	electron acceptor
+T17	Environment 540 548	quinones
+T18	ReactionOrProcess 627 643	electron shuttle
+T19	ReactionOrProcess 553 562	stimulate
+T20	Nutrient 513 515	HS
+T21	Environment 747 756	sediments
+T22	Environment 739 746	aquifer
+T23	Substrate 714 718	MTBE
+T24	ReactionOrProcess 727 735	degraded
+T25	Nutrient 777 779	HS
+T26	Environment 801 818	aquatic sediments
+T27	Substrate 781 791	[ 14C ] -MTBE
+T28	ReactionOrProcess 831 857	anaerobic MTBE degradation
+T29	Nutrient 932 960	anthraquione-2,6-disulfonate
+T30	Nutrient 911 913	HS
+T31	Nutrient 921 923	HS
+T32	Environment 962 989	Unamended aquatic sediments
+T33	Environment 1093 1113	anaerobic conditions
+T34	Environment 1043 1060	aquatic sediments
+T35	Substrate 1083 1086	TBA
+T36	ReactionOrProcess 1161 1171	adaptation
+T37	Environment 1271 1279	sediment
+T38	Environment 1322 1339	aquatic sediments
+T39	Substrate 1295 1298	TBA
+T40	ReactionOrProcess 1236 1262	anaerobic MTBE degradation
+T41	Substrate 1421 1425	MTBE
+T42	Substrate 1430 1433	TBA
+T43	ReactionOrProcess 1441 1449	degraded
+T44	Nutrient 1468 1474	oxygen
+T45	Environment 1599 1609	subsurface
+T46	Substrate 1568 1572	MTBE
+T47	ReactionOrProcess 1553 1564	remediation
+T48	Environment 1695 1717	ubiquitous groundwater
+T49	Substrate 1641 1649	gasoline
+T50	Substrate 1666 1682	tert-butyl ether
+T51	Property 1718 1729	contaminant
+T52	Environment 1830 1841	urban wells
+T53	Environment 1771 1776	Water
+T54	Substrate 1815 1819	MTBE
+T55	Environment 1934 1939	water
+T56	Substrate 1973 1977	MTBE
+T57	Environment 2119 2128	sediments
+T58	Environment 2019 2029	subsurface
+T59	Environment 2060 2065	water
+T60	Environment 2111 2118	aquifer
+T61	Substrate 1997 2001	MTBE
+T62	Property 2066 2073	soluble
+T63	Environment 2386 2395	sediments
+T64	Environment 2378 2385	aquifer
+T65	Environment 2238 2255	aquatic sediments
+T66	Substrate 2196 2200	MTBE
+T67	Substrate 2358 2362	MTBE
+T68	ReactionOrProcess 2161 2192	significant aerobic degradation
+T69	ReactionOrProcess 2363 2374	degradation
+T70	Environment 2408 2414	plumes
+T71	Environment 2459 2465	plumes
+T72	Substrate 2475 2484	petroleum
+T73	Substrate 2418 2422	MTBE
+T74	Environment 2538 2569	petroleum-contaminated aquifers
+T75	Substrate 2530 2534	MTBE
+T76	Substrate 2606 2610	MTBE
+T77	ReactionOrProcess 2611 2625	bioremediation
+T78	Environment 2740 2749	sediments
+T79	Environment 2732 2739	aquifer
+T80	Substrate 2706 2710	MTBE
+T81	ReactionOrProcess 2698 2705	degrade
+T82	ReactionOrProcess 2764 2775	incubations
+T83	Environment 2864 2894	petroleum-contaminated aquifer
+T84	Substrate 2818 2822	MTBE
+T85	Property 2925 2939	concentrations
+T86	ReactionOrProcess 2904 2914	inoculated
+T87	Substrate 3064 3071	propane
+T88	Substrate 3075 3081	butane
+T89	Substrate 3043 3047	MTBE
+T90	Substrate 3139 3143	MTBE
+T91	ReactionOrProcess 3029 3042	co-metabolize
+T92	ReactionOrProcess 3107 3126	in situ remediation
+T93	Environment 3337 3347	subsurface
+T94	Substrate 3205 3225	aromatic hydrocarbon
+T95	Property 3226 3238	contaminants
+T96	ReactionOrProcess 3296 3310	bioremediation
+T97	Environment 3432 3463	petroleum-contaminated aquifers
+T98	Nutrient 3517 3523	oxygen
+T99	Environment 3653 3663	subsurface
+T100	Nutrient 3607 3625	electron acceptors
+T101	Substrate 3815 3819	MTBE
+T102	ReactionOrProcess 3820 3834	biodegradation
+T103	Environment 3968 3978	subsurface
+T104	Property 3943 3955	contaminants
+T105	ReactionOrProcess 3912 3931	anaerobic oxidation
+T106	Nutrient 3836 3843	Fe ( III )
+T107	Nutrient 3886 3903	electron acceptor
+T108	Environment 4153 4162	sediments
+T109	Environment 4166 4197	petroleum-contaminated aquifers
+T110	Substrate 4100 4107	benzene
+T111	Substrate 4067 4088	aromatic hydrocarbons
+T112	ReactionOrProcess 4042 4063	anaerobic degradation
+T113	Nutrient 4219 4235	humic substances
+T114	Nutrient 4242 4244	HS
+R1	CarriedOn Arg1:T8 Arg2:T4
+R2	CarriedOn Arg1:T8 Arg2:T5
+R3	CarriedOn Arg1:T8 Arg2:T6
+R4	CarriedOn Arg1:T8 Arg2:T7
+R5	CarriedOn Arg1:T9 Arg2:T4
+R6	CarriedOn Arg1:T9 Arg2:T5
+R7	CarriedOn Arg1:T9 Arg2:T6
+R8	CarriedOn Arg1:T9 Arg2:T7
+R9	CarriedOn Arg1:T10 Arg2:T4
+R10	CarriedOn Arg1:T10 Arg2:T5
+R11	CarriedOn Arg1:T10 Arg2:T6
+R12	CarriedOn Arg1:T10 Arg2:T7
+R13	OccursIn Arg1:T8 Arg2:T1
+R14	OccursIn Arg1:T8 Arg2:T2
+R15	OccursIn Arg1:T8 Arg2:T3
+R16	OccursIn Arg1:T9 Arg2:T1
+R17	OccursIn Arg1:T9 Arg2:T2
+R18	OccursIn Arg1:T9 Arg2:T3
+R19	OccursIn Arg1:T10 Arg2:T1
+R20	OccursIn Arg1:T10 Arg2:T2
+R21	OccursIn Arg1:T10 Arg2:T3
+R22	CarriedOn Arg1:T14 Arg2:T13
+R23	OccursIn Arg1:T14 Arg2:T11
+R24	OccursIn Arg1:T14 Arg2:T12
+R25	OccursIn Arg1:T18 Arg2:T17
+R26	OccursIn Arg1:T19 Arg2:T17
+R27	CarriedOn Arg1:T24 Arg2:T23
+R28	OccursIn Arg1:T24 Arg2:T21
+R29	OccursIn Arg1:T24 Arg2:T22
+R30	CarriedOn Arg1:T28 Arg2:T27
+R31	OccursIn Arg1:T28 Arg2:T26
+R32	CarriedOn Arg1:T40 Arg2:T39
+R33	OccursIn Arg1:T40 Arg2:T37
+R34	OccursIn Arg1:T40 Arg2:T38
+R35	CarriedOn Arg1:T43 Arg2:T41
+R36	CarriedOn Arg1:T43 Arg2:T42
+R37	CarriedOn Arg1:T47 Arg2:T46
+R38	OccursIn Arg1:T47 Arg2:T45
+R39	CarriedOn Arg1:T68 Arg2:T66
+R40	CarriedOn Arg1:T68 Arg2:T67
+R41	CarriedOn Arg1:T69 Arg2:T66
+R42	CarriedOn Arg1:T69 Arg2:T67
+R43	OccursIn Arg1:T68 Arg2:T63
+R44	OccursIn Arg1:T68 Arg2:T64
+R45	OccursIn Arg1:T68 Arg2:T65
+R46	OccursIn Arg1:T69 Arg2:T63
+R47	OccursIn Arg1:T69 Arg2:T64
+R48	OccursIn Arg1:T69 Arg2:T65
+R49	CarriedOn Arg1:T77 Arg2:T75
+R50	CarriedOn Arg1:T77 Arg2:T76
+R51	OccursIn Arg1:T77 Arg2:T74
+R52	CarriedOn Arg1:T81 Arg2:T80
+R53	CarriedOn Arg1:T82 Arg2:T80
+R54	OccursIn Arg1:T81 Arg2:T78
+R55	OccursIn Arg1:T81 Arg2:T79
+R56	OccursIn Arg1:T82 Arg2:T78
+R57	OccursIn Arg1:T82 Arg2:T79
+R58	CarriedOn Arg1:T86 Arg2:T84
+R59	OccursIn Arg1:T86 Arg2:T83
+R60	CarriedOn Arg1:T91 Arg2:T87
+R61	CarriedOn Arg1:T91 Arg2:T88
+R62	CarriedOn Arg1:T91 Arg2:T89
+R63	CarriedOn Arg1:T91 Arg2:T90
+R64	CarriedOn Arg1:T92 Arg2:T87
+R65	CarriedOn Arg1:T92 Arg2:T88
+R66	CarriedOn Arg1:T92 Arg2:T89
+R67	CarriedOn Arg1:T92 Arg2:T90
+R68	CarriedOn Arg1:T96 Arg2:T94
+R69	OccursIn Arg1:T96 Arg2:T93
+R70	CarriedOn Arg1:T102 Arg2:T101
+R71	OccursIn Arg1:T105 Arg2:T103
+R72	CarriedOn Arg1:T112 Arg2:T110
+R73	CarriedOn Arg1:T112 Arg2:T111
+R74	OccursIn Arg1:T112 Arg2:T108
+R75	OccursIn Arg1:T112 Arg2:T109

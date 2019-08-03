@@ -1,0 +1,51 @@
+T1	Property 117 129	cell density
+T2	ReactionOrProcess 46 51	redox
+T3	Property 259 271	cell density
+T4	Property 194 204	saturation
+T5	Nutrient 160 166	oxygen
+T6	ReactionOrProcess 306 316	inhibition
+T7	Microbes 647 665	anaerobic bacteria
+T8	Microbes 640 665	strict anaerobic bacteria
+T9	Environment 678 688	wastewater
+T10	Substrate 717 728	methanogens
+T11	Environment 928 955	strict anaerobic conditions
+T12	Environment 935 955	anaerobic conditions
+T13	Substrate 876 887	methanogens
+T14	Substrate 971 978	methane
+T15	ReactionOrProcess 759 768	isolation
+R1	CarriedOn Arg1:T15 Arg2:T13
+R2	CarriedOn Arg1:T15 Arg2:T14
+T16	Environment 991 1011	Anaerobic conditions
+T17	Property 1029 1041	methanogenic
+T18	Property 1029 1041	methanogenic
+T19	ReactionOrProcess 1228 1236	reducing
+T20	ReactionOrProcess 1287 1292	redox
+T21	Nutrient 1187 1193	oxygen
+T22	Substrate 1337 1348	methanogens
+T23	Nutrient 1374 1380	oxygen
+T24	Nutrient 1469 1475	oxygen
+T25	Substrate 1566 1577	methanogens
+T26	Substrate 1671 1678	methane
+T27	Nutrient 1724 1730	oxygen
+T28	Substrate 1935 1942	methane
+T29	Property 1992 2001	dissolved
+T30	Nutrient 1905 1911	oxygen
+T31	Nutrient 2002 2008	oxygen
+T32	Substrate 2094 2105	methanogens
+T33	Nutrient 2137 2143	oxygen
+T34	Substrate 2185 2192	methane
+T35	Nutrient 2290 2296	oxygen
+T36	Property 2545 2553	toxicity
+T37	Property 2545 2553	toxicity
+T38	Nutrient 2538 2544	oxygen
+T39	Nutrient 2322 2328	Oxygen
+T40	Property 2836 2842	colony
+T41	Microbes 2903 2921	Enrichment culture
+T42	Microbes 2903 2922	Enrichment cultures
+T43	ReactionOrProcess 2903 2913	Enrichment
+T44	Nutrient 3011 3017	oxygen
+T45	Substrate 3082 3089	methane
+T46	Environment 3235 3250	oxic paddy soil
+T47	Environment 3246 3250	soil
+T48	Environment 3240 3250	paddy soil
+T49	ReactionOrProcess 3348 3362	methanogenesis

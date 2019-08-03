@@ -1,0 +1,75 @@
+T1	Environment 22 25	sea
+T2	Substrate 139 146	methane
+T3	Environment 197 202	water
+T4	Property 228 239	temperature
+T5	Substrate 415 427	hydrocarbons
+T6	Substrate 415 427	hydrocarbons
+T7	Substrate 501 508	methane
+T8	ReactionOrProcess 533 542	oxidation
+T9	ReactionOrProcess 560 570	enrichment
+T10	Environment 709 712	sea
+T11	Environment 742 751	sediments
+T12	Environment 723 751	hydrate-associated sediments
+T13	Environment 723 751	hydrate-associated sediments
+T14	Substrate 792 804	hydrocarbons
+T15	Substrate 792 804	hydrocarbons
+T16	ReactionOrProcess 763 772	oxidation
+R1	CarriedOn Arg1:T16 Arg2:T14
+R2	CarriedOn Arg1:T16 Arg2:T15
+T17	Environment 937 946	sediments
+T18	Environment 928 946	adjacent sediments
+T19	Substrate 890 897	methane
+T20	Substrate 907 918	hydrocarbon
+T21	ReactionOrProcess 863 872	oxidation
+R3	CarriedOn Arg1:T21 Arg2:T19
+R4	CarriedOn Arg1:T21 Arg2:T20
+T22	Environment 1021 1030	sediments
+T23	Substrate 1107 1114	methane
+T24	ReactionOrProcess 1053 1067	methanogenesis
+T25	Nutrient 1011 1017	carbon
+R5	CarriedOn Arg1:T24 Arg2:T23
+T26	Property 1242 1254	temperatures
+T27	Environment 1395 1404	sediments
+T28	Environment 1549 1554	water
+T29	Substrate 1493 1514	aromatic hydrocarbons
+T30	Substrate 1493 1514	aromatic hydrocarbons
+T31	Substrate 1487 1514	toxic aromatic hydrocarbons
+T32	Substrate 1502 1514	hydrocarbons
+T33	Substrate 1487 1514	toxic aromatic hydrocarbons
+T34	Substrate 1421 1432	hydrocarbon
+T35	Substrate 1502 1514	hydrocarbons
+T36	Substrate 1475 1478	oil
+T37	Property 1493 1501	aromatic
+T38	Property 1487 1492	toxic
+T39	Substrate 1779 1786	methane
+T40	Nutrient 1764 1770	carbon
+T41	Substrate 2156 2163	methane
+T42	Environment 2483 2488	water
+T43	Substrate 2362 2373	hydrocarbon
+T44	Property 2319 2330	crystalline
+T45	Environment 2659 2667	sediment
+T46	Substrate 2569 2576	methane
+T47	Environment 2808 2817	sediments
+T48	Environment 2800 2817	shallow sediments
+T49	Environment 2832 2842	subsurface
+T50	Environment 2800 2817	shallow sediments
+T51	Substrate 2832 2854	subsurface hydrocarbon
+T52	Substrate 2828 2854	hot subsurface hydrocarbon
+T53	Substrate 2843 2854	hydrocarbon
+T54	Substrate 2993 3005	hydrocarbons
+T55	Substrate 2921 2933	hydrocarbons
+T56	Substrate 2993 3005	hydrocarbons
+T57	Substrate 2921 2933	hydrocarbons
+T58	Environment 3126 3136	subsurface
+T59	Environment 3412 3415	sea
+T60	Environment 3515 3524	sediments
+T61	Environment 3739 3744	water
+T62	Property 3674 3685	temperature
+T63	Environment 3972 3980	sediment
+T64	Environment 3910 3913	sea
+T65	Environment 3966 3980	rapid sediment
+T66	ReactionOrProcess 4017 4028	Fluctuation
+T67	ReactionOrProcess 4017 4029	Fluctuations
+T68	Substrate 4230 4237	methane
+T69	ReactionOrProcess 4217 4226	oxidation
+R6	CarriedOn Arg1:T69 Arg2:T68

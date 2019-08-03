@@ -1,0 +1,212 @@
+T1	Environment 90 100	oily soils
+T2	Environment 90 100	oily soils
+T3	Environment 95 100	soils
+T4	Substrate 124 131	alkanes
+T5	Substrate 171 189	aromatic compounds
+T6	Substrate 73 76	TPH
+T7	Substrate 171 189	aromatic compounds
+T8	Property 147 156	saturates
+T9	Property 171 179	aromatic
+T10	ReactionOrProcess 202 210	degraded
+T11	Environment 364 368	soil
+T12	Environment 474 478	soil
+T13	Environment 467 478	static soil
+T14	Substrate 306 317	hydrocarbon
+T15	ReactionOrProcess 258 272	bioremediation
+T16	Environment 617 621	soil
+T17	Substrate 528 546	aromatic compounds
+T18	Substrate 528 546	aromatic compounds
+T19	Property 552 562	polycyclic
+T20	Property 584 593	resistant
+T21	Property 515 523	saturate
+T22	Property 528 536	aromatic
+T23	Environment 785 789	soil
+T24	Environment 813 817	soil
+T25	Environment 924 928	soil
+T26	Substrate 674 683	petroleum
+T27	Substrate 684 695	hydrocarbon
+T28	Property 912 920	toxicity
+T29	Property 912 920	toxicity
+T30	ReactionOrProcess 847 856	oxidizing
+T31	Environment 1068 1073	soils
+T32	Substrate 1101 1121	weathered crude oils
+T33	Substrate 1111 1121	crude oils
+T34	Substrate 1111 1121	crude oils
+T35	Substrate 979 982	TPH
+T36	Substrate 1117 1121	oils
+T37	Environment 1254 1264	subsurface
+T38	Environment 1254 1270	subsurface soils
+T39	Environment 1265 1270	soils
+T40	Environment 1254 1270	subsurface soils
+T41	Substrate 1180 1188	gasoline
+T42	Substrate 1353 1357	BTEX
+T43	Substrate 1331 1334	TPH
+T44	Substrate 1161 1164	oil
+T45	Substrate 1190 1196	diesel
+T46	ReactionOrProcess 1284 1295	remediation
+R1	CarriedOn Arg1:T46 Arg2:T42
+T47	Environment 1539 1557	oil-impacted soils
+T48	Environment 1552 1557	soils
+T49	Environment 1539 1557	oil-impacted soils
+T50	Substrate 1679 1688	petroleum
+T51	Substrate 1689 1701	hydrocarbons
+T52	Substrate 1669 1701	weathered petroleum hydrocarbons
+T53	Substrate 1689 1701	hydrocarbons
+T54	Substrate 1669 1688	weathered petroleum
+T55	Substrate 1679 1701	petroleum hydrocarbons
+T56	Property 1659 1667	residual
+T57	ReactionOrProcess 1515 1529	bioremediation
+R2	CarriedOn Arg1:T57 Arg2:T50
+R3	CarriedOn Arg1:T57 Arg2:T51
+R4	CarriedOn Arg1:T57 Arg2:T52
+R5	CarriedOn Arg1:T57 Arg2:T53
+R6	CarriedOn Arg1:T57 Arg2:T54
+R7	CarriedOn Arg1:T57 Arg2:T55
+T58	Environment 1951 1962	groundwater
+T59	Environment 1744 1748	soil
+T60	Environment 1859 1864	soils
+T61	Substrate 1796 1800	BTEX
+T62	Substrate 1815 1824	crude oil
+T63	Substrate 1909 1921	hydrocarbons
+T64	Substrate 1909 1921	hydrocarbons
+T65	Substrate 1821 1824	oil
+T66	Substrate 1829 1832	oil
+T67	ReactionOrProcess 1749 1760	remediation
+R8	CarriedOn Arg1:T67 Arg2:T63
+R9	CarriedOn Arg1:T67 Arg2:T64
+T68	Environment 2045 2050	soils
+T69	Substrate 2029 2041	hydrocarbons
+T70	Substrate 2029 2041	hydrocarbons
+T71	Substrate 2025 2028	oil
+T72	Property 2119 2130	ecotoxicity
+T73	ReactionOrProcess 2131 2140	bioassays
+T74	Environment 2326 2330	soil
+T75	Property 2343 2351	toxicity
+T76	Property 2343 2351	toxicity
+T77	Environment 2583 2592	nematodes
+T78	Environment 2616 2631	microarthropods
+T79	Environment 2600 2611	polychaetes
+T80	Substrate 2519 2531	hydrocarbons
+T81	Substrate 2519 2531	hydrocarbons
+T82	Substrate 2515 2518	oil
+T83	Environment 2708 2726	contaminated soils
+T84	Environment 2721 2726	soils
+T85	Environment 2708 2726	contaminated soils
+T86	Environment 2998 3009	groundwater
+T87	Environment 2821 2831	oily soils
+T88	Environment 2821 2831	oily soils
+T89	Environment 2826 2831	soils
+T90	Environment 2982 2993	vadose zone
+T91	Substrate 2895 2916	aromatic hydrocarbons
+T92	Substrate 2922 2929	benzene
+T93	Substrate 2881 2916	water-soluble aromatic hydrocarbons
+T94	Substrate 2931 2938	toluene
+T95	Substrate 2895 2916	aromatic hydrocarbons
+T96	Substrate 2904 2916	hydrocarbons
+T97	Substrate 2940 2952	ethylbenzene
+T98	Substrate 2958 2965	xylenes
+T99	Substrate 2881 2916	water-soluble aromatic hydrocarbons
+T100	Substrate 2904 2916	hydrocarbons
+T101	Property 2895 2903	aromatic
+T102	Property 2881 2894	water-soluble
+T103	Environment 3035 3049	soil microcosm
+T104	Environment 3040 3049	microcosm
+T105	Environment 3035 3039	soil
+T106	Environment 3090 3098	aquifers
+T107	Substrate 3123 3134	hydrocarbon
+T108	Substrate 3157 3160	oil
+T109	Environment 3335 3346	groundwater
+T110	Environment 3488 3498	subsurface
+T111	Environment 3383 3387	soil
+T112	Substrate 3459 3468	petroleum
+T113	Substrate 3319 3331	hydrocarbons
+T114	Substrate 3319 3331	hydrocarbons
+T115	Property 3265 3276	attenuation
+T116	ReactionOrProcess 3292 3315	inherent biodegradation
+T117	ReactionOrProcess 3348 3359	evaporation
+T118	ReactionOrProcess 3301 3315	biodegradation
+R10	CarriedOn Arg1:T116 Arg2:T112
+R11	CarriedOn Arg1:T116 Arg2:T113
+R12	CarriedOn Arg1:T116 Arg2:T114
+R13	CarriedOn Arg1:T117 Arg2:T112
+R14	CarriedOn Arg1:T118 Arg2:T112
+R15	CarriedOn Arg1:T118 Arg2:T113
+R16	CarriedOn Arg1:T118 Arg2:T114
+T119	Environment 3677 3695	oil-impacted soils
+T120	Environment 3690 3695	soils
+T121	Environment 3677 3695	oil-impacted soils
+T122	Property 3559 3570	ecotoxicity
+T123	ReactionOrProcess 3576 3587	remediation
+T124	Environment 3836 3841	soils
+T125	Substrate 3785 3805	weathered crude oils
+T126	Substrate 3795 3805	crude oils
+T127	Substrate 3795 3805	crude oils
+T128	Substrate 3801 3805	oils
+T129	Nutrient 3867 3873	carbon
+T130	Environment 3927 3938	Soil sample
+T131	Environment 3927 3939	Soil samples
+T132	Environment 3927 3931	Soil
+T133	Substrate 4005 4008	TPH
+T134	Substrate 4018 4029	hydrocarbon
+T135	Substrate 4131 4142	hydrocarbon
+T136	ReactionOrProcess 3971 3985	bioremediation
+T137	ReactionOrProcess 4115 4125	inhibition
+T138	Environment 4291 4295	soil
+T139	Substrate 4345 4363	aromatic compounds
+T140	Substrate 4331 4363	water-soluble aromatic compounds
+T141	Substrate 4253 4264	hydrocarbon
+T142	Substrate 4345 4363	aromatic compounds
+T143	Property 4285 4304	acute soil toxicity
+T144	Property 4296 4304	toxicity
+T145	Property 4345 4353	aromatic
+T146	Property 4331 4344	water-soluble
+T147	Property 4296 4304	toxicity
+T148	ReactionOrProcess 4215 4229	bioremediation
+T149	ReactionOrProcess 4244 4252	reducing
+T150	ReactionOrProcess 4310 4318	reducing
+R17	CarriedOn Arg1:T148 Arg2:T139
+R18	CarriedOn Arg1:T148 Arg2:T140
+R19	CarriedOn Arg1:T148 Arg2:T142
+R20	CarriedOn Arg1:T149 Arg2:T139
+R21	CarriedOn Arg1:T149 Arg2:T140
+R22	CarriedOn Arg1:T149 Arg2:T142
+R23	CarriedOn Arg1:T150 Arg2:T139
+R24	CarriedOn Arg1:T150 Arg2:T140
+R25	CarriedOn Arg1:T150 Arg2:T142
+T151	Environment 4386 4404	Methods Test Soils
+T152	Environment 4399 4404	Soils
+T153	Substrate 4409 4419	Crude Oils
+T154	Substrate 4409 4419	Crude Oils
+T155	Substrate 4415 4419	Oils
+T156	Environment 4466 4470	soil
+T157	Environment 4504 4509	soils
+T158	Substrate 4618 4628	crude oils
+T159	Substrate 4618 4628	crude oils
+T160	Substrate 4436 4447	hydrocarbon
+T161	Substrate 4624 4628	oils
+T162	Property 4471 4479	toxicity
+T163	Property 4471 4479	toxicity
+T164	ReactionOrProcess 4448 4462	bioremediation
+R26	CarriedOn Arg1:T164 Arg2:T158
+R27	CarriedOn Arg1:T164 Arg2:T159
+R28	CarriedOn Arg1:T164 Arg2:T161
+T165	Substrate 4790 4800	light oils
+T166	Substrate 4796 4800	oils
+T167	Property 4729 4738	saturated
+T168	Substrate 4875 4879	BTEX
+T169	Substrate 4972 4982	light oils
+T170	Substrate 4978 4982	oils
+T171	Property 4880 4894	concentrations
+T172	Substrate 5032 5043	naphthalene
+T173	Substrate 5048 5060	phenanthrene
+T174	Substrate 5146 5156	light oils
+T175	Substrate 5013 5025	hydrocarbons
+T176	Substrate 5000 5025	polyaromatic hydrocarbons
+T177	Substrate 5000 5025	polyaromatic hydrocarbons
+T178	Substrate 5013 5025	hydrocarbons
+T179	Substrate 5152 5156	oils
+T180	Substrate 5172 5175	PAH
+T181	Substrate 5293 5303	crude oils
+T182	Substrate 5293 5303	crude oils
+T183	Substrate 5299 5303	oils
+T184	Environment 5522 5526	soil

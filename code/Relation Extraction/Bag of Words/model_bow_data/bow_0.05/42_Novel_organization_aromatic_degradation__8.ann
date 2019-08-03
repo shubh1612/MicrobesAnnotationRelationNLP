@@ -1,0 +1,16 @@
+T1	Substrate 43 49	phenol
+T2	Substrate 100 106	phenol
+T3	Enzyme 314 338	catechol 2,3-dioxygenase
+T4	Nutrient 259 263	agar
+T5	Substrate 461 467	phenol
+T6	Nutrient 438 442	agar
+T7	Substrate 539 545	phenol
+T8	Substrate 1176 1182	phenol
+T9	Microbes 1907 1928	Ochrobactrum anthropi
+T10	Microbes 2501 2517	α-Proteobacteria
+T11	Property 2400 2406	stable
+T12	Microbes 3470 3483	Agrobacterium
+T13	Microbes 4233 4253	Pseudomonas syringae
+T14	Microbes 4432 4445	Agrobacterium
+T15	Substrate 4945 4951	phenol
+T16	Microbes 5308 5319	Xanthomonas

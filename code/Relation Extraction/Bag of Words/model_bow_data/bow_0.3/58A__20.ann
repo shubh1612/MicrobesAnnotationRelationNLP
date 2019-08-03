@@ -1,0 +1,51 @@
+T1	Microbes 9 27	anaerobic bacteria
+T2	Microbes 0 27	Obligate anaerobic bacteria
+T3	Environment 254 259	water
+T4	ReactionOrProcess 205 212	oxidize
+T5	Nutrient 235 241	carbon
+T6	Nutrient 183 200	electron acceptor
+T7	Nutrient 164 170	oxygen
+T8	Nutrient 306 312	oxygen
+T9	Property 359 375	strict anaerobes
+T10	Nutrient 564 570	oxygen
+T11	Nutrient 506 512	oxygen
+T12	Property 611 627	strict anaerobes
+T13	Nutrient 656 662	oxygen
+T14	Nutrient 772 778	oxygen
+T15	Microbes 834 879	pure culture Aerobic and facultative bacteria
+T16	Nutrient 824 830	oxygen
+T17	Nutrient 953 959	oxygen
+T18	Enzyme 1090 1098	catalase
+T19	Nutrient 1314 1320	oxygen
+T20	Environment 1596 1624	upward-flow anaerobic sludge
+T21	Property 1456 1468	methanogenic
+T22	Property 1456 1468	methanogenic
+T23	Property 1407 1420	concentration
+T24	ReactionOrProcess 1443 1477	acetoclastic methanogenic activity
+T25	Nutrient 1433 1439	oxygen
+T26	Property 1727 1739	methanogenic
+T27	Property 1727 1739	methanogenic
+T28	Environment 2057 2068	wastewaters
+T29	ReactionOrProcess 1979 1989	processing
+T30	Substrate 2108 2115	ethanol
+T31	Nutrient 2087 2093	oxygen
+T32	Nutrient 2318 2324	oxygen
+T33	Nutrient 2440 2446	oxygen
+T34	Microbes 2585 2603	anaerobic bacteria
+T35	Nutrient 2552 2558	oxygen
+T36	Nutrient 2635 2641	oxygen
+T37	Nutrient 2719 2725	oxygen
+T38	ReactionOrProcess 2760 2765	redox
+T39	Microbes 2853 2864	Clostridium
+T40	Nutrient 3097 3103	oxygen
+T41	Substrate 3346 3357	methanogens
+T42	ReactionOrProcess 3247 3252	redox
+T43	Nutrient 3199 3205	oxygen
+T44	Microbes 3490 3508	anaerobic cultures
+T45	Property 3592 3600	toxicity
+T46	Property 3521 3534	concentration
+T47	Property 3592 3600	toxicity
+T48	ReactionOrProcess 3471 3476	redox
+T49	Nutrient 3460 3466	oxygen
+T50	Nutrient 3514 3520	oxygen
+T51	Microbes 3664 3681	anaerobic culture

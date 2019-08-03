@@ -1,0 +1,68 @@
+T1	ReactionOrProcess 112 125	hybridization
+T2	Environment 392 401	microcosm
+T3	ReactionOrProcess 265 278	hybridization
+T4	Substrate 461 469	gasoline
+T5	Property 470 484	concentrations
+T6	ReactionOrProcess 505 515	enrichment
+T7	ReactionOrProcess 423 433	inhibition
+T8	Substrate 669 677	gasoline
+T9	ReactionOrProcess 629 642	hybridization
+T10	Microbes 938 952	Pseudomonas sp
+T11	Substrate 818 839	aromatic hydrocarbons
+T12	ReactionOrProcess 898 904	cloned
+T13	ReactionOrProcess 803 814	degradation
+T14	Microbes 986 1000	Pseudomonas sp
+T15	Environment 1107 1111	soil
+T16	Substrate 1197 1205	gasoline
+T17	Property 1179 1193	concentrations
+T18	ReactionOrProcess 1032 1041	hybridize
+T19	Substrate 1397 1405	gasoline
+T20	Substrate 1550 1558	gasoline
+T21	ReactionOrProcess 1520 1531	remediation
+T22	ReactionOrProcess 1288 1301	hybridization
+T23	Environment 2102 2107	soils
+T24	Property 1726 1737	contaminant
+T25	Property 1826 1837	contaminant
+T26	Property 1937 1948	contaminant
+T27	Property 2033 2044	contaminant
+T28	ReactionOrProcess 1710 1720	adaptation
+T29	Microbes 2159 2163	xylE
+T30	Environment 2228 2232	soil
+T31	Substrate 2284 2292	gasoline
+T32	ReactionOrProcess 2214 2224	adaptation
+T33	ReactionOrProcess 2134 2155	sequences hybridizing
+T34	Environment 2312 2321	microcosm
+T35	Environment 2459 2463	soil
+T36	Substrate 2422 2430	gasoline
+T37	Environment 2535 2545	microcosms
+T38	Substrate 2700 2708	gasoline
+T39	Substrate 2602 2623	aromatic hydrocarbons
+T40	ReactionOrProcess 2501 2511	enrichment
+T41	Environment 2836 2853	contaminated site
+T42	Substrate 2827 2835	gasoline
+T43	ReactionOrProcess 2810 2821	remediation
+T44	ReactionOrProcess 2727 2740	
+T45	Microbes 2898 2902	xylE
+T46	Substrate 3072 3080	gasoline
+T47	Property 3054 3068	concentrations
+T48	ReactionOrProcess 2879 2889	Adaptation
+T49	ReactionOrProcess 3001 3011	inhibition
+T50	Environment 3189 3198	microcosm
+T51	Substrate 3145 3156	hydrocarbon
+T52	Property 3157 3170	concentration
+T53	Microbes 3506 3510	xylE
+T54	Substrate 3341 3349	gasoline
+T55	Property 3380 3394	concentrations
+R3	CarriedOn Arg1:T7 Arg2:T4
+R4	CarriedOn Arg1:T9 Arg2:T8
+R6	CarriedOn Arg1:T12 Arg2:T10
+R9	CarriedOn Arg1:T13 Arg2:T11
+R11	OccursIn Arg1:T18 Arg2:T15
+R13	CarriedOn Arg1:T21 Arg2:T20
+R20	CarriedOn Arg1:T33 Arg2:T29
+R23	OccursIn Arg1:T32 Arg2:T30
+R26	CarriedOn Arg1:T40 Arg2:T39
+R27	OccursIn Arg1:T40 Arg2:T37
+R28	CarriedOn Arg1:T43 Arg2:T42
+R30	OccursIn Arg1:T43 Arg2:T41
+R37	CarriedOn Arg1:T49 Arg2:T46

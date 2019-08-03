@@ -1,0 +1,37 @@
+T1	Environment 56 66	microcosms
+T2	Substrate 112 115	oil
+T3	Substrate 225 228	oil
+T4	Substrate 152 155	oil
+T5	Environment 471 480	microcosm
+T6	Environment 342 352	microcosms
+T7	Environment 419 429	microcosms
+T8	Environment 925 934	sediments
+T9	Environment 919 924	beach
+T10	ReactionOrProcess 1247 1261	bioremediation
+T11	Environment 1503 1512	microcosm
+T12	ReactionOrProcess 1697 1711	bioremediation
+T13	Microbes 1939 1955	γ-proteobacteria
+T14	Environment 1904 1913	microcosm
+T15	Environment 1989 1998	microcosm
+T16	Environment 2035 2044	microcosm
+T17	Environment 1842 1852	microcosms
+T18	Substrate 1866 1869	oil
+T19	Microbes 2235 2251	α-proteobacteria
+T20	Microbes 2055 2071	γ-Proteobacteria
+T21	Environment 2137 2146	microcosm
+T22	Environment 2217 2226	microcosm
+T23	Substrate 2160 2163	oil
+T24	ReactionOrProcess 2297 2303	cloned
+T25	Microbes 3134 3150	γ-proteobacteria
+T26	Microbes 3197 3220	Alcanivorax borkumensis
+R1	FoundIn Arg1:T13 Arg2:T14
+R2	FoundIn Arg1:T13 Arg2:T15
+R3	FoundIn Arg1:T13 Arg2:T16
+R4	FoundIn Arg1:T13 Arg2:T17
+R5	ActOn Arg1:T13 Arg2:T18
+R6	FoundIn Arg1:T19 Arg2:T21
+R7	FoundIn Arg1:T19 Arg2:T22
+R8	FoundIn Arg1:T20 Arg2:T21
+R9	FoundIn Arg1:T20 Arg2:T22
+R10	ActOn Arg1:T19 Arg2:T23
+R11	ActOn Arg1:T20 Arg2:T23

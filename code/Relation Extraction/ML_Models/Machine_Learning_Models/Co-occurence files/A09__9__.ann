@@ -1,0 +1,68 @@
+T1	Environment 69 81	marine sands
+T2	Substrate 126 138	hydrocarbons
+T3	Substrate 48 51	oil
+T4	ReactionOrProcess 118 125	degrade
+T5	ReactionOrProcess 351 374	hydrocarbon degradation
+T6	Environment 539 545	marine
+T7	Substrate 518 521	oil
+T8	Substrate 571 574	oil
+T9	Substrate 791 794	oil
+T10	Environment 1006 1016	microcosms
+T11	Environment 926 932	marine
+T12	ReactionOrProcess 970 980	enrichment
+T13	ReactionOrProcess 1197 1215	oil bioremediation
+T14	ReactionOrProcess 1128 1142	biostimulation
+T15	Substrate 1327 1330	oil
+T16	Property 1370 1381	attenuation
+T17	Substrate 1413 1416	oil
+T18	Environment 1828 1839	beach sands
+T19	Substrate 1730 1733	oil
+T20	Substrate 1806 1809	oil
+T21	Property 1810 1819	degraders
+T22	ReactionOrProcess 1665 1676	enumeration
+T23	Environment 1977 1983	marine
+T24	Substrate 1892 1895	oil
+T25	Nutrient 1923 1929	carbon
+T26	Environment 2101 2112	Beach sands
+T27	Substrate 2189 2192	oil
+T28	Environment 2335 2346	oiled sands
+T29	Substrate 2566 2569	oil
+T30	Substrate 2869 2880	hydrocarbon
+T31	Property 2881 2890	degraders
+T32	ReactionOrProcess 2911 2925	bioremediation
+T33	Environment 3010 3015	beach
+T34	Substrate 3035 3038	oil
+T35	Substrate 3085 3088	oil
+T36	Environment 3134 3139	Beach
+T37	Substrate 3096 3099	Oil
+T38	ReactionOrProcess 3376 3386	incubation
+T39	Environment 3456 3467	beach sands
+T40	Substrate 3494 3497	oil
+T41	Substrate 3526 3529	oil
+T42	Environment 3659 3670	oiled sands
+T43	Environment 3922 3933	Beach sands
+T44	Substrate 3688 3744	low-molecular-weight aliphatic and aromatic hydrocarbons
+T45	Substrate 3772 3783	hydrocarbon
+T46	Substrate 3891 3894	oil
+T47	Property 3784 3793	degraders
+T48	Property 3836 3847	attenuation
+T49	Environment 4016 4021	Beach
+T50	ReactionOrProcess 4086 4095	stimulate
+T51	ReactionOrProcess 4096 4110	biodegradation
+T52	Environment 4126 4143	subtropical sands
+T53	Substrate 4238 4249	hydrocarbon
+T54	Property 4250 4259	degraders
+T55	ReactionOrProcess 4278 4292	biostimulation
+T56	Nutrient 4158 4164	oxygen
+R1	CarriedOn Arg1:T4 Arg2:T2
+R2	CarriedOn Arg1:T4 Arg2:T3
+R3	OccursIn Arg1:T4 Arg2:T1
+R4	OccursIn Arg1:T12 Arg2:T10
+R5	OccursIn Arg1:T12 Arg2:T11
+R6	CarriedOn Arg1:T22 Arg2:T19
+R7	CarriedOn Arg1:T22 Arg2:T20
+R8	OccursIn Arg1:T22 Arg2:T18
+R9	OccursIn Arg1:T50 Arg2:T49
+R10	OccursIn Arg1:T51 Arg2:T49
+R11	CarriedOn Arg1:T55 Arg2:T53
+R12	OccursIn Arg1:T55 Arg2:T52

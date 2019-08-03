@@ -1,0 +1,60 @@
+T1	Microbes 63 73	consortium
+T2	Environment 46 62	nitrate-reducing
+T3	Substrate 279 289	hexadecane
+T4	ReactionOrProcess 251 275	anaerobic biodegradation
+T5	ReactionOrProcess 261 275	biodegradation
+R1	CarriedOn Arg1:T4 Arg2:T3
+R2	CarriedOn Arg1:T5 Arg2:T3
+T6	ReactionOrProcess 404 417	incorporation
+T7	Nutrient 431 437	carbon
+T8	Substrate 607 614	alkanes
+T9	Property 688 701	concentration
+T10	Substrate 1147 1154	alkanes
+T11	ReactionOrProcess 1132 1143	degradation
+T12	ReactionOrProcess 1122 1143	anaerobic degradation
+T13	Nutrient 1065 1083	electron acceptors
+R3	CarriedOn Arg1:T11 Arg2:T10
+R4	CarriedOn Arg1:T12 Arg2:T10
+T14	Substrate 1396 1403	alkanes
+T15	Nutrient 1335 1341	oxygen
+T16	Enzyme 1479 1489	oxygenases
+T17	Nutrient 1515 1521	oxygen
+T18	Substrate 1831 1838	nitrite
+T19	Substrate 1820 1827	nitrate
+T20	Nutrient 1796 1814	electron acceptors
+T21	Nutrient 1755 1761	oxygen
+T22	Microbes 2050 2061	strain HdN1
+T23	Substrate 1909 1916	nitrite
+T24	Substrate 2039 2046	alkanes
+T25	Substrate 1967 1974	nitrate
+T26	ReactionOrProcess 1954 1963	reduction
+R5	CarriedOn Arg1:T26 Arg2:T22
+R6	CarriedOn Arg1:T26 Arg2:T24
+R7	CarriedOn Arg1:T26 Arg2:T25
+T27	Substrate 2166 2173	alkanes
+T28	Substrate 2314 2321	alkanes
+T29	Substrate 2310 2313	oil
+T30	ReactionOrProcess 2293 2306	hydroxylation
+T31	ReactionOrProcess 2283 2306	anaerobic hydroxylation
+R8	CarriedOn Arg1:T30 Arg2:T28
+R9	CarriedOn Arg1:T30 Arg2:T29
+R10	CarriedOn Arg1:T31 Arg2:T28
+R11	CarriedOn Arg1:T31 Arg2:T29
+T32	Microbes 2399 2418	enrichment cultures
+T33	Substrate 2429 2438	crude oil
+T34	Substrate 2435 2438	oil
+T35	Property 2386 2398	methanogenic
+T36	Property 2386 2398	methanogenic
+T37	ReactionOrProcess 2399 2409	enrichment
+T38	ReactionOrProcess 2419 2428	degrading
+T39	Microbes 2745 2763	enrichment culture
+T40	Substrate 2717 2724	alkanes
+T41	Substrate 2713 2716	oil
+T42	Property 2732 2744	methanogenic
+T43	Property 2732 2744	methanogenic
+T44	ReactionOrProcess 2745 2755	enrichment
+T45	ReactionOrProcess 2801 2814	hydroxylation
+T46	ReactionOrProcess 2791 2814	anaerobic hydroxylation
+T47	Substrate 2875 2882	Alkanes
+T48	Substrate 2933 2942	crude oil
+T49	Substrate 2939 2942	oil

@@ -1,0 +1,31 @@
+T1	Environment 38 52	soil microcosm
+T2	Environment 43 52	microcosm
+T3	Environment 38 42	soil
+T4	Environment 162 180	PCP-polluted soils
+T5	Environment 136 140	soil
+T6	Environment 175 180	soils
+T7	Environment 162 180	PCP-polluted soils
+T8	Property 125 132	residue
+T9	ReactionOrProcess 186 196	inoculated
+T10	Enzyme 334 351	lignin peroxidase
+T11	ReactionOrProcess 319 328	incubated
+T12	ReactionOrProcess 549 562	incorporation
+T13	Substrate 646 652	phenol
+T14	Property 764 772	alkaline
+T15	ReactionOrProcess 653 662	oxidizing
+T16	Environment 964 968	soil
+T17	Property 904 917	biodegradable
+T18	ReactionOrProcess 923 932	incubated
+T19	ReactionOrProcess 1105 1119	detoxification
+T20	Property 1247 1257	pollutants
+T21	ReactionOrProcess 1388 1397	incubated
+T22	Property 1488 1498	pollutants
+T23	ReactionOrProcess 1718 1727	reduction
+T24	ReactionOrProcess 1862 1884	aerobic biodegradation
+T25	ReactionOrProcess 1870 1884	biodegradation
+T26	Property 2113 2120	residue
+T27	ReactionOrProcess 2045 2058	incorporation
+T28	Property 2330 2340	pollutants
+T29	ReactionOrProcess 2427 2436	oxidation
+T30	ReactionOrProcess 2280 2312	anaerobic-aerobic biodegradation
+T31	ReactionOrProcess 2298 2312	biodegradation

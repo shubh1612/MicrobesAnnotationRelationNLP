@@ -1,0 +1,49 @@
+T1	ReactionOrProcess 52 63	degradation
+T2	Substrate 65 72	Benzene
+T3	ReactionOrProcess 73 87	mineralization
+T4	Substrate 178 185	benzene
+T5	ReactionOrProcess 347 361	biodegradation
+T6	Microbes 571 590	enrichment cultures
+T7	Environment 646 655	sediments
+T8	Environment 636 655	different sediments
+T9	Substrate 563 567	BTEX
+T10	ReactionOrProcess 571 581	enrichment
+T11	ReactionOrProcess 548 559	degradation
+R1	CarriedOn Arg1:T11 Arg2:T6
+R2	CarriedOn Arg1:T11 Arg2:T9
+T12	Environment 823 843	anaerobic conditions
+T13	Substrate 802 806	BTEX
+T14	ReactionOrProcess 787 798	degradation
+R3	CarriedOn Arg1:T14 Arg2:T13
+T15	Environment 879 888	sediments
+T16	Environment 916 926	microcosms
+T17	ReactionOrProcess 964 974	incubation
+T18	Nutrient 1051 1069	electron acceptors
+T19	Microbes 1086 1105	enrichment cultures
+T20	Environment 1112 1120	sediment
+T21	Environment 1223 1231	sediment
+T22	Substrate 1274 1278	BTEX
+T23	ReactionOrProcess 1169 1177	reducing
+T24	ReactionOrProcess 1086 1096	enrichment
+T25	ReactionOrProcess 1279 1293	biodegradation
+T26	Nutrient 1252 1270	electron acceptors
+R4	CarriedOn Arg1:T23 Arg2:T22
+R5	CarriedOn Arg1:T24 Arg2:T22
+T27	Environment 1380 1388	sediment
+T28	Environment 1560 1564	Lake
+T29	Environment 1410 1416	marine
+T30	Environment 1595 1599	Lake
+T31	Environment 1827 1833	waters
+T32	Substrate 1754 1763	Petroleum
+T33	Environment 1923 1927	Lake
+T34	Substrate 1996 2005	petroleum
+T35	Environment 2421 2425	lake
+T36	Environment 2397 2401	Lake
+T37	Environment 2408 2425	oligotrophic lake
+T38	Property 2539 2549	pollutants
+T39	Microbes 2588 2607	enrichment cultures
+T40	ReactionOrProcess 2588 2598	enrichment
+T41	Environment 2695 2703	sediment
+T42	Environment 2861 2869	sediment
+T43	Environment 2895 2900	water
+T44	Environment 2985 2994	sediments

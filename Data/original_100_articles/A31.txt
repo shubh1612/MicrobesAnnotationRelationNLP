@@ -1,0 +1,1747 @@
+A31
+International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+Contents lists available at ScienceDirect
+
+International Biodeterioration & Biodegradation
+journal homepage: www.elsevier.com/locate/ibiod
+
+Review
+
+Microbial communities involved in anaerobic degradation of alkanes
+Serge Maurice Mbadinga a, Li-Ying Wang a, Lei Zhou a, Jin-Feng Liu a, Ji-Dong Gu b, Bo-Zhong Mu a, *
+a
+
+State Key Laboratory of Bioreactor Engineering and Institute of Applied Chemistry, East China University of Science and Technology,
+No. 130 Meilong Road, Shanghai 200237, PR China
+b
+School of Biological Sciences, The University of Hong Kong, Pokfulam Road, Hong Kong SAR, PR China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 21 July 2010
+Received in revised form
+9 November 2010
+Accepted 11 November 2010
+Available online 8 December 2010
+
+Saturated hydrocarbons are quantitatively the most abundant fraction among all petroleum hydrocarbons. Signiﬁcant advances have been made in the understanding of the anaerobic biodegradability of
+alkanes in terms of the microorganisms involved and the biochemical pathways over the past two
+decades. They can be used as carbon and energy sources by diverse physiological groups of microorganisms (isolates or consortia) grown under chlorate-reducing, nitrate-reducing, suﬁdogenic or methanogenic conditions. Two general biochemical mechanisms have been proposed for the initial activation
+of alkanes including addition of fumarate and carboxylation. However, glycyl radical enzymes dependent
+fumarate addition which yields alkyl-substituted succinate appear to be the most commonly shared
+mechanism for the anaerobic attack of alkanes under various redox conditions by phylogenetically
+diverse microorganisms. The genes encoding the candidate alkylsuccinate synthase have been recently
+described in alkane-degrading sulfate- and nitrate-reducers as well as in hydrocarbon-rich environments. Alternative mechanisms may also be available depending on the alkane-degrading microbial
+community and electron acceptors utilized.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Alkanes
+Alkylsuccinate synthase
+Alkylsuccinates
+Anaerobic degradation
+Methanogenic degradation of alkanes
+Microbial communities
+
+1. Introduction
+Petroleum (crude oil) is a complex mixture that contains thousands of distinctively different chemical components, but mainly
+hydrocarbon. Hydrocarbon composition of crude oil can be separated into four main fractions; namely saturated hydrocarbons,
+aromatic, resins and asphaltenes. These compounds are relatively
+less reactive due to the lack of functional groups and low water
+solubility. Nevertheless, microorganisms can grow with hydrocarbons as the sole source of carbon and energy coupled with different
+electron acceptors. However, the initial attack of hydrocarbons
+remains the critical step for the subsequent metabolism of these
+apolar substrates. Furthermore, the incorporation of molecular
+oxygen into the hydrocarbon molecules by the activity of oxygenases in the initial step is a strictly oxygen-dependent biochemical process and energetically favorable (Chakraborty and Coates
+2004; Wentzel et al. 2007). However, biodegradation of hydrocarbons in the absence of molecular oxygen is often hindered by the
+chemical inertness of the carbonecarbon bonds. Obviously, microorganisms capable of anaerobic biodegradation of hydrocarbons
+must have developed alternative, oxygen-independent biochemical
+
+* Corresponding author. Tel.: þ86 21 64252063; fax: þ86 21 64252485.
+E-mail address: bzmu@ecust.edu.cn (B.-Z. Mu).
+0964-8305/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.ibiod.2010.11.009
+
+reactions and the required enzymes for the initial attack of these
+substrates under oxygen-limited conditions. Today, anaerobic
+degradation of hydrocarbons remains an interesting area of
+research for understanding the mechanisms of petroleum biodegradation in oil reservoirs, and for bioremediation of oil-contaminated environments. Major attention has recently been paid to the
+microbial ecology of petroleum reservoirs, where anaerobes are the
+dominant microorganisms (Magot et al. 2000; Röling et al. 2003; Li
+et al. 2007). Isolation and/or characterization of such microorganisms are of great importance for understanding of the biochemical
+mechanisms responsible for oil biodegradation in natural environments and in petroleum reservoirs.
+The anaerobic biodegradability of hydrocarbons has been
+investigated since the 1940s, however, the biodegradation/
+biotransformation of these compounds in the absence of molecular
+oxygen was conclusively demonstrated only about two decades ago
+via methanogenesis of toluene and benzene (Vogel and Grbic-Galic
+1986; Grbic-Galic and Vogel 1987). Later on, toluene was shown to
+be completely oxidized to CO2 by pure cultures of the Fe(III)reducing Geobacter metallireducens strain GS-15 (Lovley et al. 1989).
+These studies led the way to the isolation and characterization of
+novel microorganisms capable of oxidizing a diverse range of
+hydrocarbons under the dominant terminal electron accepting
+processes occurring under anoxic environments including sulfate,
+nitrate, oxidized metals e such as iron(III) and manganese(IV) e
+
+2
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+and CO2 (Heider et al. 1999; Widdel and Rabus 2001; Chakraborty
+and Coates 2004).
+Biodegradation of alkanes in anoxic environments has been for
+years a subject of debate only at the theoretical level. The ﬁrst
+experimental demonstration of this hypothesis was accomplished
+by the quantitative measurement of the consumption of n-alkanes
+by sulfate-reducing bacteria (Aeckersberg et al. 1991). Since then,
+sulfate-, nitrate- and chlorate-reducing bacteria grown anaerobically with saturated hydrocarbons as the sole carbon and energy
+sources have been demonstrated. Furthermore, the isolated anaerobic alkane-degrading microorganisms were not closely related to
+previously established species, e.g., Desulfovibrio or Pseudomonas
+strains, and revealed novel species or genera (Aeckersberg et al.
+1991; Aeckersberg et al. 1998; Ehrenreich et al. 2000). In addition,
+anaerobic biodegradation of alkanes has also been supported with
+enriched microbial communities utilizing sulfate (Kropp et al. 2000;
+Gieg and Suﬂita 2002; Savage et al. 2010) and nitrate (Bregnard et al.
+1997; Callaghan et al. 2009) as the terminal electron acceptor, or
+under methanogenic conditions (Zengler et al. 1999; Anderson and
+Lovley 2000; Gieg et al. 2008; Jones et al. 2008).
+The main scope of this review lies on the diversity and physiology of microorganisms capable of anaerobic degradation of
+alkanes under nitrate, sulﬁdogenic, chlorate and methanogenic
+conditions. No studies have been reported on the degradation of
+alkanes under iron-reducing conditions so far. For biodegradation
+of aromatic hydrocarbons, current information is available in
+reviews by Chakraborty and Coates (2004), Foght (2008) and
+references therein. Given the scope of the current review, a brief
+overview of the anaerobic metabolism of alkanes is provided, with
+emphasize on the predominant role of glycyl radical enzymedependent fumarate addition which results in the formation of
+methyl branched alkylsuccinates.
+2. Anaerobic degradation of alkanes
+Alkanes that have been shown to be biodegradable under anoxic
+conditions can be classiﬁed into linear (general formula CnH2nþ2),
+branched (general formula CnH2nþ2, n > 3) and cyclic (general
+formula CnH2n, n > 2). From a thermodynamic point of view,
+anaerobic biodegradation of alkanes with various electron acceptors is feasible (see Table 1 with hexadecane as a model substrate).
+Biodegradation of alkanes by speciﬁc groups of microorganisms is
+discussed below.
+3. Nitrate-reducers
+Anaerobic degradation of hydrocarbons under nitrate-reducing
+conditions has been regarded as an effective strategy for
+
+bioremediation of crude oil, fuel-contaminated aquifers and
+underground storage tanks (Rabus and Widdel 1996). The use of
+nitrate for in situ remediation of these contaminated environments
+has been driven not only by the favorable energetics of nitrate
+reduction but also by high water solubility and mobility of nitrate
+(92.1 g/100 ml water at 25  C). Crude oil and its reﬁned products
+constitute the major sources of alkanes in the environment
+(Ehrenreich et al. 2000). Due to their very low solubility in water,
+long-chain alkanes (>C12) are generally not considered as toxic.
+However, at high concentrations, relatively short-chain alkanes
+(C5eC12) and cyclic alkanes have negative effects on biological
+membranes (Gill and Ratledge 1972; Sikkema et al. 1994; Sikkema
+et al. 1995). The fate of alkanes and the effectiveness of bioremediation strategies under such conditions require a better knowledge of the biochemical capacities of nitrate-reducing
+microorganisms.
+Anaerobic oxidation of hydrocarbons coupled to the reduction
+of nitrate was ﬁrst demonstrated with pure isolates (strains ToN1,
+mXyN1, EbN1, and PbN1) for utilization of alkylbenzenes in crude
+oil (Rabus and Widdel 1996). Furthermore, a nitrate-reducing
+enrichment culture incubated with crude oil did not show any
+degradation of alkanes (C5 to C12) until alkylbenzenes (C1 to C3)
+were completely depleted. This indicated that the enrichment
+culture exhibited biphasic growth, in which alkanes were only
+partially consumed, and among them, n-hexane appeared to be
+the preferred substrate. Cell hybridization further revealed that the
+majority of the enriched denitriﬁers afﬁliated with the b-subclass of
+the Proteobacteria (Rabus et al. 1999).
+Ecological distribution of anaerobic hydrocarbons degrading
+denitriﬁers is not restricted to hydrocarbon-contaminated habitats
+since they have been commonly isolated from non-contaminated
+environments (Fries et al. 1994; Song et al. 1999; Zwolinski et al.
+2000). The currently known pure isolates of alkane-degrading
+nitrate respiring bacteria (NRB) are afﬁliated with the b- and
+g-subclass of the Proteobacteria. At least six axenic cultures of
+alkane-degrading NRB have been documented so far (Fig. 1 and
+Table 2). Strains OcN1 and HxN1were isolated with n-octane and
+n-hexane, respectively, from enrichment cultures prepared from
+ditch sediments. The two isolates are members of the family Rhodocyclaceae within the b-Proteobacteria (Ehrenreich et al. 2000).
+These strains are able to grow for complete oxidation of C6eC12
+n-alkanes to CO2 with transitory production of nitrite observed
+during the growth of strain HxN1 (Ehrenreich et al. 2000). When
+grown anaerobically with crude oil, strain HxN1 has been shown to
+co-metabolize short-chain (C4eC5) and cyclic alkanes (cyclopentane and methylcyclo-pentane) in addition to the utilization of
+C6 to C8 n-alkanes as substrates (Wilkes et al. 2003). This is of great
+interest because n-butane, n-propane and cyclic alkanes as single
+
+Table 1
+Gibbs free energies for hexadecane (C16H34) degradation coupled to selected redox reactions at standard conditions (298.15 K) at pH ¼ 7.
+Electron acceptor (ox/red)
+c
+
+O2/H2O
+NO
+2 /N2
+
+ClO
+3 /Cl
+NO
+3 /N2
+Fe3þ/Fe2þ
+2
+S2O2
+3 /S
+SO2
+4 /H2S
+HCO
+3 /CH4
+
+Overall energetic equation
+
+DG (kJ/mol of C16H34)a
+
+DG 0 (kJ/mol of C16H34)b
+
+þ
+C16H34 þ 24.5O2 / 16HCO
+3 þ H2O þ 16H
+þ
+
+C16H34 þ 32.66NO
+2 þ 16.66H / 16HCO3 þ 16.33 N2 þ 17.33H2O
+
+þ
+
+C16H34 þ 16.33ClO
+3 / 16HCO3 þ 16.33Cl þ H2O þ 16H
+þ
+
+C16H34 þ 19.6NO
+3 þ 3.6H / 16HCO3 þ 9.8 N2 þ 10.8H2O
+2þ
+C16H34 þ 98Fe3þ þ 48H2O / 16HCO
+þ 114Hþ
+3 þ 98Fe
+2
+
+C16H34 þ 12.25S2O2
+þ 40.5Hþ
+3 þ 11.25H2O / 16HCO3 þ 24.5S
+þ
+
+C16H34 þ 12.25SO2
+4 þ 8.5H / 16HCO3 þ 12.25H2S þ H2O
+þ
+C16H34 þ 11.25H2O / 3.75HCO
+3 þ 12.25CH4 þ 3.75H
+
+9677.07
+12498.24
+11764.86
+9819.37
+5335.67
+2472.845
+897.13
+204.15
+
+10316.27
+11832.41
+12404.06
+9675.55
+9891.78
+4091.46
+557.55
+353.96
+
+a
+DG : standard Gibbs free energy: reactants and products at 1 M concentration and gases at a partial pressure of 1 atm. Hexadecane (C16H34) was chosen as the model
+substrate for free energies calculations. Gibbs free energy of formation for n-hexadecane in the liquid state was taken from Helgeson et al. (1998). For all other compounds the
+data were taken from Thauer et al. (1977) and Hanselmann (1991). Methane, hydrogen, nitrogen and oxygen are in the gaseous phase at partial pressures of 1 atm. All other
+compounds are in the aqueous phase.
+b
+DG 0 ¼ DG þ m  2.303RTlog 107 (m is the net number of protons formed in the equation).
+c
+The reaction with oxygen is shown for comparison.
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+3
+
+Azoarcus sp. stain PbN1 (X83532)
+
+2%
+
+S tr ain HxN1 (AF 33 19 75)
+82
+
+Azoarcus anaerobius (Y14701)
+
+9 6 Azoarcus buckelii ( A J 3 1 5 6 7 6 )
+
+Strain pCyN1 (Y17284)
+100
+
+100 Aromatoleum aromaticum EbN1 (CR555306)
+Azoarcus sp. 22Lin (Y13222)
+
+β -prot.
+
+Azoarcus sp
+p. HA (AF482683)
+
+83
+84 Azoarcus sp. FL05 (AF011330)
+
+Azoarcus tolulyticus Td-15 (L33688)
+100
+
+Azoarcus sp. mXyN1 (X83533)
+1 0 0 Tha uer a aromatica K 1 7 2 ( X 7 7 1 1 8 )
+7 9 Thauera aroma tica T 1 ( U 95 1 7 6 )
+
+Anaerobic benzene-degrading NR clone Cart-N1 (AY118150)
+Dechloromonas aromatica RCB (AY032610)
+
+100
+
+99
+
+Marinobacter sp. BC36, BP42 (AJ623277, AJ623278)
+Petroleum rich Mediterranean lagoon clone MH-656 (AM292400)
+
+100 Pseudomonas balearica BerOc6 (AM421029)
+100 Pseudomonas stutzeri strain EH49 (GU339277)
+
+γ -prot.
+
+89
+100 Dechloromonas sp. JJ (AY032611)
+9 9 Stra in OcN 1 ( AF331 97 6 )
+
+99
+
+Anaerobic naphthalene stra in NAP-3-1 (AF064636)
+
+100
+
+Cyclohexane degrading enrichment culture clone (GU230600)
+97 Geobacter sp. FRC-32 (EU660516)
+1 0 0 G e ob a c t e r t o l u en o x y d a n s s t r a i n T M J 1 ( E U 7 1 1 0 7 2 )
+
+δ -prrot.
+
+S train HdN 1(AF331 974)
+Geobacter metallireducens GS-15 (CP000148)
+
+Caldithrix abyssi (AJ430587)
+Fig. 1. Phylogenetic tree of the 16S rRNA gene sequences of alkanes-oxidizing, nitrate-reducing microorganisms (in bold). The tree was rooted with the Caldithrix abyssi as outgroup.
+The topology of the tree was obtained with the Maximum likelihood using minimum evolution method in MEGA 4. Bootstrap values (n ¼ 1000 replicates) of 75% are reported.
+Scale bar ¼ nucleotide changes per site.
+
+substrate could not support the growth of strain HxN1, indicating
+that such co-metabolism of structurally diverse substrates is catalyzed by enzymes which are needed for the metabolism of the
+growth-supporting substrates, but exert activities on co-substrates
+due to “relaxed substrate speciﬁcities” similar to that observed with
+anaerobic alkylbenzene-degrading bacteria (Beller and Spormann
+1999; Wilkes et al. 2003).
+Based on 16S rRNA gene sequence (Fig. 1), strain HxN1 forms
+a phylogenetic cluster with alkylbenzenes degrading isolates such
+as strains PbN1 and EbN1 (98e99% similarity). This cluster was
+originally described as Azoarcus species (Rabus and Widdel 1995;
+Rabus and Widdel 1996) on the basis of 16S rRNA gene, but was
+recently reclassiﬁed as Aromatoleum species (Wöhlbrand et al.
+2007; Grundmann et al. 2008). Strain OcN1, however, is closely
+related (97e98% similarity) to pure isolates capable of anaerobic
+benzene degradation, e.g., Dechloromonas sp. JJ and RCB (Coates
+et al. 2001).
+Anaerobic oxidation of long-chain n-alkanes (>C12) coupled to
+the reduction of nitrate is apparently restricted to members of the
+g-Proteobacteria. Axenic cultures include strain HdN1 from activated sludge (Ehrenreich et al. 2000), Marinobacter sp. BC36 and
+BP42 from Berre lagoon microbial mats (Bonin et al. 2004) and the
+recently described denitrifying bacterium Pseudomonas balearica
+strain BerOc6 from a brakish lagoon (Grossi et al. 2008). These
+
+cultured members of the g-Proteobacteria are able to oxidize
+n-alkanes ranging from C14 to C20. Phylogenetic analysis, based on
+16S rRNA gene sequences, shows that strain HdN1 forms its own
+cluster and probably represent a new lineage within the g-Proteobacteria. Recently, molecular-based microbial community analysis
+of a nitrate-reducing enrichment amended with n-hexadecane as
+the sole source of carbon and energy revealed the dominant presence of several members of the Proteobacteria. One sequence
+retrieved from a DGGE proﬁle was 82% similar to the anaerobic
+alkane-degrading nitrate reducer strain HdN1 (Callaghan et al.
+2009).
+Anaerobic oxidation of branched and cyclic alkanes has also
+been demonstrated to occur under nitrate-reducing conditions.
+Pristane (2,6,10,14-tetramethylpentadecane, C19H40), formerly
+regarded as recalcitrant under anaerobic conditions, has been
+shown to be biodegraded under nitrate-reducing conditions in
+enrichment cultures obtained from a diesel fuel-contaminated
+sediments (Bregnard et al. 1997). Within the cycloalkanes family,
+cyclohexane has always been the model substrate for biodegradation studies (Trower et al. 1985; Rouvière and Chen 2003), however
+all these studies were conducted under aerobic conditions. As
+described above, the ﬁrst direct evidence for the anaerobic oxidation of cycloalkanes, e.g., cyclopentane was found in the nitratereducing strain HxN1 grown anaerobically with n-alkanes from
+
+4
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+Table 2
+Properties of nitrate and chlorate-reducing bacteria and consortia metabolizing alkanes under anoxic conditions.
+Strains
+
+Afﬁliation
+
+Source
+
+Substrate
+range
+
+Mechanism
+involved
+
+Alternative
+electrons
+acceptors
+
+DT
+
+Temp ( C)
+
+pH
+
+Salinity (g/L)
+
+Ref.
+
+Nitrate reducing
+Strain HxN1
+
+b- Prot.
+
+Ditch sediments
+
+C6eC8
+
+Fumarate
+
+NO
+2 , N2O
+
+11 h
+
+28
+
+7.1
+
+nd
+
+Strain HdN1
+
+g- Prot.
+
+Activated sludge
+
+C6eC30
+
+Unknown
+
+11e13 h
+
+28
+
+7.1
+
+nd
+
+Strain OcN1
+Marinobacter sp. BC36
+Marinobacter sp. BP42
+Pseudomonas
+balearica
+strain BerOc6
+Consortium
+Consortium
+
+b- Prot.
+g- Prot.
+g- Prot.
+g- Prot.
+
+Ditch sediments
+Lagoon mats
+Lagoon mats
+Brakish lagoon
+
+C8eC12
+C18
+C18
+C15-C18
+
+Fumarate
+nd
+nd
+nd
+
+nd
+nd
+nd
+nd
+
+28
+nd
+nd
+nd
+
+7.1
+nd
+nd
+nd
+
+nd
+
+(Ehrenreich et al. 2000;
+Rabus et al. 2001)
+(Ehrenreich et al. 2000;
+Zedelius et al. 2010)
+(Ehrenreich et al. 2000)
+(Bonin et al. 2004)
+(Bonin et al. 2004)
+(Grossi et al. 2008)
+
+nd
+nd
+
+C16
+Pristane
+
+Carboxylation
+nd
+
+30
+25
+
+7.4
+
+Consortium
+
+d-Prot.
+
+Lake sediments
+Diesel fuelcontaminated
+sediments
+Lake sediments
+
+Cyclohexane
+
+Fumarate
+
+nd
+
+Anaerobic
+chlorate-reducing
+sludge
+
+C7eC12
+
+“Unusual”
+Oxygenation
+
+1.4 days
+
+Chlorate reducing
+Pseudomonas
+chloritidismutans
+AW-1T
+
+g- Prot.
+
+N2O
+
+(Callaghan et al. 2009)
+(Bregnard et al. 1997)
+
+(Musat et al. 2010)
+30
+
+7.3
+
+nd
+
+(Mehboob et al. 2009)
+
+nd: not documented; DT: Doubling time; b-,g-,d- Prot. ¼ b-,g-,d-Proteobacteria.
+
+crude oil, the identity of the microorganisms capable of anaerobic
+degradation of cycloalkanes under nitrate-reducing conditions is
+still unknown. A recent study on anaerobic degradation of
+cyclohexane under nitrate-reducing conditions resulted in the
+co-enrichment of members of the d-Proteobacteria and Planctomycetales. This enriched culture of freshwater denitrifying bacteria
+grown anaerobically with cyclohexane as the sole carbon and
+energy source was dominated by 16S rRNA gene sequence related
+to Geobacter spp. (∼75% of all cells as detected by phylogenetic
+analysis and ﬂuorescent whole-cell hybridization using typespeciﬁc probe), the likely cyclohexane-degrader. Subsequent nitrite
+produced during growth of the consortium was not consumed
+unless extra ammonium was added to the medium. These observations indicated that the Planctomycetales (anammox bacteria) as
+a partner, approximating 18% of all cells, was consuming nitrite via
+anaerobic ammonium oxidation (Musat et al. 2010). Such symbiotic
+association between hydrocarbon-degraders and anammox
+bacteria can be extrapolated from environments such as petroleum
+reservoirs where anammox bacteria have also been identiﬁed as
+potential contributors to the nitrogen recyclers (Li et al. 2010). It
+should be reminded that Geobacter species are often the predominant microorganisms found in hydrocarbon-contaminated environments in which Fe(III)-reduction occur (Zwolinski et al. 2000)
+and given that Fe(III)-reduction coupled to alkanes degradation has
+not yet been unequivocally demonstrated despite some experimental attempts (So and Young 2001), it is reasonable to assume
+that Geobacter spp. related to those identiﬁed by Musat et al. (2010)
+may be able to accomplish this task.
+4. Sulﬁdogenic microorganisms
+The research interest in hydrocarbons utilization by sulﬁdogenic
+microorganisms stems from observations of sulﬁde formation
+during maturation of oil reservoirs. Indeed, these microorganisms
+have always been identiﬁed or isolated from hydrocarbon-rich
+environments such as in petroleum deposits, hydrocarbon seeps,
+methane hydrates, petroleum-rich hydrothermal sediments,
+underground oil storage tanks and hydrocarbon-contaminated
+sediments (Magot et al. 2000; Watanabe et al. 2000; Dhillon et al.
+2003). Phylogenetic analysis based on 16S rRNA and functional
+
+genes suggest that sulfate-reducing bacterial (SRB) communities
+retrieved from these environments are predominantly afﬁliated
+with members of the family Desulfobacteraceae within the d-Proteobacteria. Most members of this family are strict anaerobes that
+perform complete oxidation of organic compounds. In contrast to
+nitrate reducers, sulfate-reducers that anaerobically oxidize saturated hydrocarbons are likely indigenous to hydrocarbon-rich
+environments (Table 3). Eight mesophilic alkane-degrading sulfatereducers have been isolated and reported in the literature. Among
+them, cultured members of the Desulfococcus/Desulfatibacillum
+cluster including Desulfococcus oleovorans Hxd3 from oil-water
+separator (Aeckersberg et al. 1991), strain Pnd3 from petroleumcontaminated marine sediment (Aeckersberg et al. 1998),
+Desulfatibacillum alkenivorans AK-01 from petroleum-contaminated estuarine sediments (So and Young 1999b) and Desulfatibacillum aliphaticivorans CV2803T from hydrocarbon-polluted marine
+sediments (Cravo-Laureau et al. 2004) are able to grow by oxidizing
+n-alkanes ranging from C12 to C20. The n-hexane and n-decane
+oxidizing SRB strain PL2 was recently isolated from a p-xylene
+degrading sulfate-reducing community. This member of the family
+Desulfobacteraceae shared >97% 16S rRNA gene sequence similarities with the aromatic hydrocarbons degrading strain oXyS1 and
+with other members of the Desulfosarcina such as Desulfosarcina
+variabilis and Desulfosarcina cetonicum (Higashioka et al. 2009). The
+alkane-oxidizing SRB, strain BuS5, isolated from marine hydrocarbon seeps is only able to grow with propane and butane. This
+strain clusters within the Desulfosarcina/Desulfococcus, however no
+genus designation has been given so far (Kniemeyer et al. 2007). In
+addition, enrichment cultures have been obtained from Gulf of
+Mexico sediments grown with butane as the sole substrate at 12  C.
+Potentially cold-adapted SRB clone Butane12-GMe, the dominant
+bacteria, fell into the Desulfosarcina/Desulfococcus cluster and was
+most closely related to strain BuS5 (Kniemeyer et al. 2007). More
+recently, Desulfobacteraceae-afﬁliated microorganisms capable of
+degradation of short-chain n-alkanes appeared to be the predominant members of mesophilic propane and pentane oxidizing
+sulfate-reducing enrichments derived from non-marine sediments.
+Surprisingly, most of the clones retrieved from these enrichment
+cultures shared only 88e95% with strain BuS5, indicating the
+existence of a probably large diversity of sulfate-reducing
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+5
+
+Table 3
+Properties of sulfate-reducing bacteria and consortia metabolizing alkanes under anoxic conditions.
+Organism
+
+Afﬁliation Source
+
+Substrate Mechanism
+range
+involved
+
+Strain Hxd3
+
+d-Prot.
+
+Oil-water separator
+
+C12eC20
+
+Strain Pnd3
+Strain AK-01
+
+d-Prot.
+d-Prot.
+
+Marine sediments
+C14eC17
+Petroleum-contaminated C13eC18
+estuarine sediments
+Hydrocarbon-polluted
+C13eC18
+marine sediments
+
+[Fumarate?]
+Fumarate
+
+Oilﬁeld production
+water
+Oily sludge
+
+C6eC10
+
+Desulfatibacillum d-Prot.
+aliphaticivorans
+CV2803T
+Strain Lake
+Desulfoglaeba
+alkanexedens
+strain ALDCT
+Strain BuS5
+
+d-Prot.
+
+Strain PL12
+
+d-Prot.
+
+Clone
+Butane12-GMe
+Clone
+Propane60-GuB
+Desulfothermus
+naphthae TD3T
+Consortium
+
+d-Prot
+
+d-Prot.
+
+Temp. ( C) pH
+
+Salinity (g/L) Ref.
+
+9 days
+
+28e30
+
+9 days
+Thiosulfate 3 days
+and sulﬁte
+Thiosulfate nd
+& sulﬁte
+
+28e30
+26e28
+
+No growth
+(Aeckersberg et al. 1991)
+in freshwater
+nd
+20
+(Aeckersberg et al. 1998)
+7.9e7.0 1e60
+(So and Young 1999b)
+
+28e35
+
+7.5
+
+Fumarate
+
+Thiosulfate nd
+
+20e55
+
+6.8e8.2 1e25
+
+(Davidova et al. 2006)
+
+C6eC12
+
+Fumarate
+
+Thiosulfate 5.3 days 31e37
+on C10
+
+6.5e7.2 1.7e36
+
+(Davidova et al. 2006)
+
+Marine hydrocarbon
+C3eC4
+seeps
+Petroleum contaminated C6, C10
+sediments
+Gulf of Mexico sediments C4
+
+Fumarate
+
+Fumarate
+
+nd
+
+24
+
+4e5 days 28
+
+(Cravo-Laureau et al. 2004,
+2005)
+
+(Kniemeyer et al. 2007)
+
+nd
+
+30e34
+
+(Higashioka et al. 2009)
+
+nd
+
+12
+
+(Kniemeyer et al. 2007)
+
+Clostridia Guaymas Basin sediment C3
+
+Fumarate
+
+60
+
+(Kniemeyer et al. 2007)
+
+d-Prot.
+
+Guaymas Basin sediments C6eC16
+
+nd
+
+d-Prot.
+
+Gas condensatecontaminated aquifer
+Gas condensatecontaminated aquifer
+Oily sludge
+Hydrocarbon seep
+Hydrocarbon seep
+
+ECP
+
+Fumarate
+
+Alicyclic
+alkanes
+C12
+C3
+C5
+
+Consortium
+Consortium
+Consortium
+Consortium
+
+Carboxylation
+
+Alternative DT
+electrons
+acceptors
+
+d-Prot.
+d-Prot.
+
+Thiosulfate 9 days
+
+55e65
+
+6.8
+
+21
+
+(Rueter et al. 1994)
+
+30
+
+nd
+
+(Rios-Hernandez et al. 2003)
+
+Fumarate
+
+RT
+
+nd
+
+(Townsend et al. 2004)
+
+Fumarate
+Fumarate
+Fumarate
+
+32
+22
+22
+
+Brackish
+11.7
+11.7
+
+(Kropp et al. 2000)
+(Savage et al. 2010)
+(Savage et al. 2010)
+
+nd: not documented; ECP ¼ Ethylcyclopentane; DT: Doubling time; RT: Room temperature; d-Prot. ¼ d-Proteobacteria.
+
+microorganisms involved in the biodegradation of short-chain nalkanes (Savage et al. 2010).
+Field investigations via molecular phylogenetic monitoring of
+a sulfate-reducing community incubated in situ for more than 500
+days with oil contaminated sediments from 20 m water depth in
+a Mediterranean coastal area revealed that many of the most
+abundant sequences were closely related (94e98% similarity) to
+several alkane-degrading SRB members of the d-Proteobacteria. At
+the lower and anoxic sediments layers, alkanes ranging from C17 to
+C30 were signiﬁcantly removed. Of all the clones retrieved from the
+community, 41e54% fell within the genera Desulfococcus, Desulfonema and Desulfosarcina of the family Desulfobacteraceae (Miralles
+et al. 2007).
+In addition to the Desulfobacteraceae, two novel sulfate-reducing
+strains afﬁliated with the family Syntrophobacteraceae within the
+d-Proteobacteria were recently isolated from oilﬁeld production
+water and from an oily sludge. The two strains, Desulfoglaeba
+alkanexedens ALDCT and Lake, are phylogenetically close to each
+other and are able to grow by complete oxidation of C6eC12
+n-alkanes (Davidova et al. 2006).
+Thermophilic alkane-degrading sulfate-reducers are very rare;
+only one isolate has been reported in the literature. Using sediments from Guaymas basin (a site of hydrothermal activities in the
+Gulf of California), Rueter et al. (1994) developed an anoxic
+enrichment with sulfate reducing activity in the presence of crude
+oil at 60  C. Subsequently, axenic culture referred to as Desulfothermus naphthae TD3T was isolated from this enrichment which
+was capable of oxidizing n-alkanes. Phylogenetic analysis showed
+that the thermophilic sulfate-reducer strain TD3T forms a distinct
+cluster within the family Desulfohalobiaceae. The strain is closely
+related to another thermophilic sulfate-reducer, Desulfothermus
+okinawensis TFISO9T (AB264617), isolated from a deep-sea hydrothermal ﬁeld at the Yonaguni Knoll IV (Southern Okinawa Trough)
+
+with 16S rRNA sequence similarity of 96% (Nunoura et al. 2007). To
+date, Desulfothermus naphthae TD3T and Desulfothermus okinawensis TFISO9T are the sole representative species of the genus
+Desulfothermus. Other genera included in the Desulfohalobiaceae
+are Desulfohalobium, Desulfonatronovibrio and Desulfonauticus.
+Anaerobic oxidation of alkanes is not restricted to members of
+the d-Proteobacteria (Fig. 2). The thermophilic propane-oxidizer
+clone Propane60-GuB, retrieved from Guaymas Basin sediment, is
+a member of the genus Desulfotomaculum within the Peptococcaceae (Firmicutes) (Kniemeyer et al. 2007). Anaerobic degradation of
+branched and cyclic alkanes has been rarely investigated under
+sulfate-reducing conditions. The biodegradation of ethylcyclopentane (ECP) by a sulfate-reducing community derived from
+an aquifer contaminated by hydrocarbons has nevertheless been
+reported (Rios-Hernandez et al. 2003). Molecular analysis of the
+community revealed a diverse collection of phylotypes belonging to
+genera Syntrophobacter (d-Proteobacteria) and Desulfotomaculum
+(Peptococcaceae, Firmicutes) as well as members of the CytophagaFlexibacter-Bacteroides group. The authors speculated that the
+sulfate-reducer phylogenetically afﬁliated with the genus Desulfotomaculum would have been responsible for the degradation of ECP
+(Rios-Hernandez et al. 2003; Bonin et al. 2004). Other studies have
+indirectly indicated the presence of microbial communities
+responsible for degrading volatile alicyclic alkanes (constituents of
+gasoline and natural gas condensate) under sulfate-reducing
+conditions (Townsend et al. 2004).
+Another important group of sulﬁdogens is represented by
+hyperthermophilic archaeal members of the genus Archaeoglobus
+and the order Thermococcales. These strictly anaerobic microorganisms mostly thrive in hydrothermal environments and in
+subsurface thermophillic petroleum reservoirs (Stetter et al. 1987;
+Beeder et al. 1994; Magot et al. 2000; Miroshnichenko et al.
+2001; Gittel et al. 2009). Knowledge about their electron donors
+
+6
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+Fig. 2. Phylogenetic tree of the 16S rRNA gene sequences of alkanes-oxidizing, sulfate-reducing microorganisms (in bold). The tree was rooted with Thermococcus sibiricus as
+outgroup. The topology of the tree was obtained with the Maximum likelihood using minimum evolution method in MEGA 4. Bootstrap values (n ¼ 1000 replicates) of 75% are
+reported. Scale bar ¼ nucleotide changes per site.
+
+under in situ conditions is scarce. For instance, Archaeoglobusrelated species are not known to utilize alkanes. Nevertheless,
+direct evidence shows that Archaeoglobus fulgidus strain VC-16 that
+was previously isolated from heated sea ﬂoor at Volcano, Italy
+(Stetter et al. 1987) and later from hot oil ﬁeld waters in the North
+Sea (Beeder et al. 1994) is able to reduce thiosulfate coupled with
+the anaerobic oxidation of n-alkenes (C12:1eC21:1) at 70  C (Kheliﬁ
+et al. 2010). To date only some mesophilic sulfate-reducing,
+alkane-degrading bacteria have been reported to be able to utilize
+alkenes (Cravo-Laureau et al. 2004). However, it has not yet been
+completely ruled out that members of the genus Archaeoglobus
+
+would be able to oxidize alkanes. In addition, strain VC-16 can also
+metabolize a wide range of fatty acids (C4eC18) with thiosulfate as
+the electron acceptor (Kheliﬁ et al. 2010). This latter capability not
+only conﬁrms the formerly predicted and controversial b-oxidation
+pathway in this strain (Klenk et al. 1997), but also indicate that
+Archaeoglobus-related organisms may represent important partners in complex microbial communities.
+Hyperthermophilic archaeal of the order Thermococcales are
+actually represented by three genera: Paleococcus, Pyrococcus and
+Thermococcus (Ribosomal Database Project Release 10; rdp.cme.
+msu.edu) (Cole et al. 2009). Physiologically, most members of
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+Thermococcales are organotrophs that gain metabolic energy via
+fermentation of complex organic compounds such as peptides or
+yeast extract (Bertoldo and Antranikian 2006). They all share
+a common physiological feature of reducing elemental sulfur (S0) to
+sulﬁde (Magot et al. 2000). It is worth noting that members
+belonging to the genus Thermococcus are frequently found more
+abundant in samples retrieved from hot oil reservoirs (Orphan et al.
+2000; Nazina et al. 2006) and in hydrothermal habitats compared
+to the Paleococcus and Pyrococcus species (Lee et al. 2008). Consequently, Thermococcus species are considered to play a signiﬁcant
+role in the metabolic activities of complex microbial consortia
+occurring within such natural high temperature habitats (Lee et al.
+2008). However, no members of the Thermococcus were known to
+utilize alkanes until very recently when the growth of Thermococcus sibiricus at 78  C was shown to be stimulated by hexadecane.
+Reproducible growth was observed after successive transfers of
+T. sibiricus on medium amended with hexadecane as the sole source
+of carbon and energy (Mardanov et al. 2009). Elemental sulfur as an
+electron acceptor is not absolutely required but stimulates growth.
+The strain, which was isolated from a non-water ﬂooded hot oil
+reservoir located in Western Siberia (Miroshnichenko et al. 2001),
+did not grow in the presence of aromatic hydrocarbons. Sulfate and
+thiosulfate are not utilized as alternative electron acceptors.
+Moreover, several genes encoding new physiological properties of
+T. sibiricus were identiﬁed on the basis of genomic sequence analysis. Open reading frames (ORFs) similar to those identiﬁed in
+Thermococcus kodakaraensis were found and described as pyruvateformate lyase (PFL) (see Section 7.1). Since T. kodakaraensis has
+never been reported to grow with alkanes, its PFL enzyme was
+suggested to play a role in pyruvate metabolism. Due to the lack of
+more accurate experimental data on this previously unknown
+physiological feature of T. sibiricus, deﬁnitive classiﬁcation as PFL or
+alkylsuccinate synthase for the identiﬁed homologous genes could
+not be made due to the large divergence observed within glycyl
+radical enzymes (GRE) superfamily (Mardanov et al. 2009;
+Callaghan et al. 2010). This requires further investigation to elucidate the likely role of this probably new enzyme.
+5. Methanogenesis
+Methanogenesis is referred to as the biological formation of
+methane that is carried out by strictly anaerobic microorganisms.
+The anaerobic decomposition of complex organic matter to
+methane requires the concerted effort of metabolically different
+types of microorganisms. Typically, this mutual dependence is
+commonly described as syntrophic cooperation based on the
+transfer of formate, hydrogen and acetate from fermentative
+organisms to methanogens. The overall biodegradation process
+becomes thermodynamically favorable only when the methanogenic substrates generated during the ‘cracking’ of complex organic
+matter are promptly used by methanogens in order to keep their
+concentrations at a very low level (Schink 1997).
+The greatest energy conservation with a given alkane substrate
+is obviously to be expected when nitrate, nitrite, chlorate or ferric
+iron is used as the ﬁnal electron acceptor. Methanogenic degradation is the least energetically favorable process when compared to
+other anaerobic respirations (Table 1).
+The biodegradation of alkanes under methanogenic conditions
+was ﬁrst demonstrated in highly enriched cultures obtained from
+ditch mud with the ability to convert hexadecane into methane and
+CO2 (Zengler et al. 1999), so far no isolates had been obtained and
+only a few studies have provided the phylogeny of microorganisms
+potentially involved in this syntrophic association (Zengler et al.
+1999; Gieg et al. 2008; Jones et al. 2008). In the ditch mud methanogenic enrichment degrading hexadecane, it was assumed that
+
+7
+
+the community was essentially composed of: (i) syntrophic protonreducing acetogenic bacteria (Syntrophus spp.) which decompose
+the alkane to acetate and H2; (ii) a group of archaea (Methanosaeta)
+which form methane and CO2 from acetate; and (iii) another group
+of archaea (Metanospirillum and Methanoculleus) converting CO2
+and H2 to methane (Zengler et al. 1999). In this enrichment, it was
+suggested that more than 2/3 of the methane produced was from
+acetate. Similarly, in the methanogenic residual oil degrading
+enrichment culture derived from a gas condensate contaminated
+subsurface sediments, the archaeal sequences, whose closest
+matches were almost exclusively cultivated methanogens, were
+predominantly afﬁliated with acetoclastic Methanosaeta spp. The
+eubacterial clone library was more diverse, with the majority of
+sequences (78.6% clone frequency based on 16S rRNA) related to
+Firmicutes (6 phylotypes), including some presumptive Grampositive sulfate-reducing, hydrocarbon-degrading genera related to
+Pelotomaculum spp. (Gieg et al. 2008; Abu Laban et al. 2009) as well
+as the syntrophic bacteria Desulfotomaculum cluster I (Gieg et al.
+2008). Among the other constituents of the eubacterial community were members of the d-Proteobacteria (Desulfobulbus, Desulfovibrio and Smithella), as well as fermentative bacteria afﬁliated
+with Chloroﬂexi, Bacteroidetes and Actinobacteria (Gieg et al. 2008).
+Data obtained from the methanogenic enrichment cultures
+described above suggest that acetoclastic methanogenesis may
+represent an important biochemical pathway for the formation of
+methane from crude oil components. This assumption is further
+supported by thermodynamic calculations indicating that
+hexadecane conversion to methane is driven primarily through
+acetoclastic methanogenesis (Dolﬁng et al. 2008).
+In contrast, the methanogenic oil alkane-degrading enrichment
+derived from estuarine sediments was found to be dominated by
+Syntrophus spp. and CO2-reducing methanogens among several
+other phylotypes (Jones et al. 2008). Thus, the principal route
+whereby oil alkanes are converted to methane was assumed to
+involve syntrophic alkane conversion to acetate and hydrogen
+linked to syntrophic acetate oxidation to H2 and CO2 and coupled
+with methanogenesis from CO2-reductiondthe so called MADCOR
+process. This assumption is supported by modeling of isotopic
+signatures for CO2 and methane gases collected from heavily
+degraded oils of the mesothermic Peace River Oil Sands (Western
+Canada) suggesting that hydrogenotrophic methanogenesis
+(∼75e92%) likely predominates in subsurface degraded oil reservoirs (Jones et al. 2008). Furthermore, the main occurrence of CO2reducing methanogens in oil reservoirs production waters and in
+enrichments derived from there also suggest that hydrogenotrophic methanogenesis may predominates in petroleum
+reservoirs (Magot et al. 2000; Orphan et al. 2000; Grabowski et al.
+2005). In addition, there is evidence indicating that in most cases
+methanogenesis from acetate in oil reservoirs production waters is
+driven primarily through syntrophic acetate oxidation to H2 and
+CO2 coupled to methanogenesis from CO2-reduction (Nazina et al.
+2006; Mayumi et al. 2010). More recently, the archaeal community composition observed in the thermophilic enrichment derived
+from oilﬁeld production ﬂuids with the ability to convert oil alkanes
+to methane was only represented by hydrogen-oxidizers afﬁliated
+with the family Methanobacteriaceae; while bacterial community
+was dominated by fermentative and/or syntrophic organisms
+afﬁliating with the orders Thermotogales, Synergistales, Deferribaterales and Firmicutes. These results again support the assumption
+of the major role of methanogenic CO2-reduction involved in the
+decomposition of oil alkanes in subsurface petroleum reservoirs
+(Gieg et al. 2010). Furthermore, since acetoclastic methanogenesis
+is likely inhibited upon exposure to 10 % (v/v) of crude oil (the oil
+was collected at a site contaminated by crude oil and creosote)
+(Warren et al. 2004) and in situations where acetoclastic
+
+8
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+methanogenesis might be limited/or absent, syntrophic acetate
+oxidation coupled to methanogenesis from CO2-reduction is thermodynamically favored, offering the greatest window of opportunity for the successful methanogenic decomposition of oil alkane
+(Karakashev et al. 2006; Dolﬁng et al. 2008).
+Overall, these ﬁndings indicate that the particular methanogenic route of oil alkane is likely dictated by the sampling source of
+the microbial community and when appropriate, thermodynamics
+should take into account the contribution of biological factors
+(Zwolinski et al. 2000; Dolﬁng et al. 2008). Other studies have
+demonstrated that alkanes depletion is coupled to methane
+production, indicating the presence of microbial communities
+syntrophically converting alkanes to methane (Anderson and
+Lovley 2000; Grossi et al. 2000; So and Young 2001; Townsend
+et al. 2003; Siddique et al. 2006).
+6. Other electrons acceptors
+Anaerobic oxidation of organic substrates coupled to sulfate and
+nitrate reduction yields relatively less amount of energy, particularly when compared to oxidation with oxygen as the electron
+acceptor. It might be possible that other electron acceptors such as
+perchlorate and nitrite could be coupled to anaerobic oxidation of
+alkanes. Perchlorate and chlorate as well as nitrite are ideal electron
+acceptors for microorganisms due to their high redox potentials
+
+
+E0 ¼ þ1.287 V; ClO
+E0 ¼ þ1.03 V; 2NO
+(ClO
+4 /Cl ,
+3 /Cl ,
+2 /N2,
+E0 ¼ þ0.958 V; 2NO/N2, E0 ¼ þ1.264; N2O/N2 ¼ þ1.355 V) (Coates
+and Achenbach 2004; Zedelius et al. 2010). Indeed, Mehboob
+et al. (2009) recently reported that Pseudomonas chloritidismutans
+AW-1T, isolated from sludge of an anaerobic chlorate-reducing
+bioreactor, was able to use n-decane as the sole carbon and
+energy source under strictly anaerobic conditions with chlorate as
+electron acceptor (Table 2). Perchlorate and chlorate reduction,
+which are only induced under anoxic conditions, proceed
+according to the equation described in Fig. 3C. Molecular oxygen
+generated during the dismutation or disproportionation of chlorite
+
+
+(ClO
+2 / Cl þ O2; DG ¼ 148.4 kJ/mol) is subsequently used to
+oxidize the alkane substrate. Hence the degradation of alkanes
+under such conditions is assumed to proceed by means of oxygenases under unusual anaerobic process. Here chlorate is not only
+the electron acceptor but also the oxygen supplier for oxygenases
+activities (Mehboob et al. 2009). Given that high concentrations of
+dissolved oxygen are known to inhibit perchlorate and chlorate
+reduction (Xu et al. 2004), free oxygen generated as an intermediate must be promptly consumed so that it does not accumulate to
+high levels. In addition, P. chloritidismutans AW-1T is able to use
+nitrate as an electron acceptor, however in such situation no
+growth was observed with n-decane. This shows that oxidation of
+alkanes coupled to chlorate reduction is a particular physiological
+feature for strain AW-1T.
+A much recent way to form molecular oxygen as a metabolite
+intermediate is the dismutation of nitric oxide (NO) during nitrite
+reduction (NO
+2 ) in the methane-utilizing enrichment culture (Ettwig
+et al. 2010). Nitric oxide is an intermediate of the well known
+
+microbial nitrate reduction (NO
+3 / NO2 / NO / N2O / N2);
+however, in the methane-utilizing enrichment culture described by
+Ettwig et al. (2010), the sequential reduction of nitrite appear to
+proceed otherwise. Experimental evidences indicated that ‘Candidatus Methylomirabilis oxyfera’ (the dominant bacterium in the
+methane-utilizing enrichment culture) reduces nitrite (NO
+2 ) to nitric
+oxide (2NO), after which nitric oxide undergoes a dismutation reaction to yield nitrogen (N2) and molecular oxygen (O2). The oxygen
+generated is subsequently used to oxidize the methane substrate to
+methanol. This nitrite-linked oxidation of methane resembles, in
+principle, anaerobic oxidation of alkane via chlorate reduction.
+
+Therefore, it is possible, even likely that other denitriﬁers’ organisms
+with similar physiological features may be able to couple the oxidation of alkanes with various chain lengths to the reduction of nitrite
+via nitric oxide dismutation (Ettwig et al. 2010; Zedelius et al. 2010).
+7. Biochemical strategies for the anaerobic metabolism of
+alkanes
+The initial activation of alkanes is critical for their anaerobic
+biodegradation. During the past decade numerous studies have
+been undertaken to elucidate the activation mechanisms of alkanes
+under anoxic conditions. Indeed, anaerobic microorganisms have
+developed unprecedented biochemical strategies to overcome the
+chemically inert nature of alkanes (Heider 2007). These strategies
+involved in the initial attack of alkanes include activation by
+addition of fumarate to alkane, carboxylation with inorganic carbon
+and other additional possible alternative mechanisms (Fig. 3).
+7.1. Alkane activation by addition to fumarate
+Increasing evidence indicates that addition to fumarate play
+a dominant role in the activation of alkanes for further degradation
+under anoxic conditions (Tables 2 and 3). So and Young (1999a) and
+So and Young (1999b) provided some evidence linking the growth
+of a sulfate reducing isolate D. alkenivorans strain AK-01 to anaerobic oxidation of n-pentadecane and n-hexadecane using labeling
+experiments. Metabolites analysis indicated that C-even and C-odd
+cellular fatty acids were formed from C-even and C-odd n-alkanes
+in strain AK-01. Similar cellular fatty acids pattern has also been
+observed in strain Pnd3 (Aeckersberg et al. 1998) and Desulfatibacillum aliphaticivorans CV2803T (Cravo-Laureau et al. 2005). In
+addition, strain AK-01 and strain CV2803T also produce 2-, 4-, 6and 8-methyl branched fatty acids as well as (1-methylalkyl)
+succinates with chain lengths that speciﬁcally correlated with those
+of the parent substrates, thus indicating that n-alkanes are anaerobically activated by addition to fumarate at the sub-terminal
+carbon atom (Cravo-Laureau et al. 2005; Callaghan et al. 2006). A
+similar reaction has been reported for the nitrate-reducing strain
+HxN1 grown on labeled n-hexane with details about the ﬁrst
+proposed pathway for anaerobic degradation of a straight-chain
+alkane (Rabus et al. 2001; Wilkes et al. 2003; Widdel et al. 2006).
+Brieﬂy, addition of fumarate to n-alkane is catalyzed by a radical
+enzyme (the extracted hydrogen from the parent substrate is
+recovered) to yield (1-methylalkyl)succinate (Fig. 3A), after
+which the activation metabolite undergoes a carbon skeleton
+rearrangement (presumably as coenzyme A thioester) to form (2methylalkyl)malonyl-CoA that allows decarboxylation to 4-methylalkanoyl-CoA. The resulting fatty acid can then undergo
+a “conventional” b-oxidation to yield intermediates such as (2methylalkyl)-CoA, a linear fatty acid containing two carbon atoms
+less than the parent n-alkane, propionyl-CoA and acetyl-CoA.
+Acetyl-CoA is further oxidized to carbon dioxide (CO2). Fumarate
+can be regenerated from propionyl-CoA (via methylmalonyl-CoA
+and succinyl-CoA) or alternatively from acetyl-CoA (Rabus et al.
+2001; Wilkes et al. 2003; Callaghan et al. 2006; Widdel et al.
+2006). The net reaction of alkane addition to fumarate is exergonic (DG0 < 0), thus indicating that there is no needs for exogenous energy (such as ATP hydrolysis) for this reaction to proceed
+(Rabus et al. 2001). Similar observations were made with the
+formation of benzylsuccinate from toluene and fumarate (Biegert
+et al. 1996).
+Such a reaction has also been demonstrated for the initial
+activation of short chain alkanes (butane and propane) in the
+sulfate reducing strain BuS5 and in the enrichment culture
+Propane60-GuB derived from marine sediments. On the basis of
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+9
+
+A
+
+B
+
+C
+
+Fig. 3. Biochemical strategies for the anaerobic metabolism of alkanes. ASS stands for alkysuccinate synthase.
+
+metabolites detected in both cultures, butane was speciﬁcally
+activated at the sub-terminal carbon atom to yield (1-methylpropyl)succinate and propane was activated at both the subterminal and at one of the terminal carbon atoms to produce
+isopropyl- and n-propylsuccinate (Kniemeyer et al. 2007). Based
+on current knowledge, the anaerobic activation pattern of propane
+occurs in other sulﬁdogenic enrichment cultures (Savage et al.
+2010) as well as in hydrocarbons-rich environments (Duncan
+et al. 2009; Gieg et al. 2010). Also, cyclic alkanes investigated to
+date are exclusively activated through addition to fumarate for
+further degradation under anoxic conditions (Rios-Hernandez
+et al. 2003; Musat et al. 2010).
+The formation of alkyl- or cyclic-branched succinates as catabolic intermediates is, by analogy to the well established formation
+of benzylsuccinate as initial activation product of anaerobic toluene
+metabolism, catalyzed by strictly anaerobic glycyl radical enzymes
+(Widdel et al. 2006; Heider 2007). Therefore, these glycyl radical
+enzymes have been termed alkylsuccinate synthase or (1-methylalkyl)succinate synthase (Ass or Mas) for n-alkanes and we suggest
+(cycloalkyl)succinate synthase (Cas) for cycloalkanes. This is a novel
+class of glycyl radical enzymes afﬁliated to the superfamily pyruvate-formate lyase (PFL) and type III ribonucleotide reductase
+(RNR) (Leuthner et al. 1998; Widdel et al. 2006). The genes
+encoding the candidate alkylsuccinate synthase (assA or masD)
+have recently been identiﬁed in alkane degraders’ sulﬁdogenic
+bacteria D. alkenivorans AK-01 (Callaghan et al. 2008) and Desulfoglaeba alkanedexens ALDCT (Callaghan et al. 2010) as well as in
+nitrate reducing strains HxN1 (Grundmann et al. 2008) and OcN1
+(Zedelius et al. 2010), all afﬁliated to the Proteobacteria (Figs. 1 and
+2). Interestingly, assA-like genes were also detected in
+
+methanogenic octacosane (C28H58) degrading enrichment cultures;
+which could indicate a possible implication of fumarate in the
+initial activation of alkanes under methanogenic conditions
+(Callaghan et al. 2010).
+7.2. Alkane activation via carboxylation
+This second activation strategy was mainly developed from the
+growth pattern of the sulﬁdogenic strain Hxd3. On the basis of
+metabolite analysis, C-even and C-odd cellular fatty acids were
+formed from C-odd and C-even n-alkanes, respectively
+(Aeckersberg et al. 1998; So et al. 2003). Growth of Hxd3 with
+different chain lengths of non-labeled alkanes in the presence of
+H13CO
+3 resulted in the formation of fatty acids that are one carbon
+atom shorter than the original alkane. Furthermore, their (fatty
+acids) carboxyl group contains a 13C atom suggesting that H13CO
+3
+was directly involved in the initial activation of alkanes in strain
+Hxd3. Therefore, strain Hxd3 would metabolize an alkane to fatty
+acids via carboxylation with inorganic carbon (HCO
+3 /CO2), most
+likely at C-3, with subsequent removal of two sub-terminal carbon
+atoms from the alkane chain (Fig. 3B). More recently, from an
+alkane-degrading, nitrate-reducing consortium, Callaghan et al.
+(2009) indicated that a carboxylation-like mechanism analogous
+to the activation strategy previously proposed by So et al. (2003)
+was the likely route for the anaerobic biodegradation of hexadecane. However, in both cases, the hypothetical fatty acid intermediate (2-ethylalkanoate) which should result from the
+incorporation of inorganic carbon at C-3 of the alkane has never
+been detected. There is an on-going debate about this initial activation mechanism. From an energetic point of view, the
+
+10
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+Fig. 4. Presumptive methanogenic degradation of oil alkanes. Microorganisms are positioned according their probable role within microbial consortia (see in the text).
+
+carboxylation of alkanes is not feasible under standard conditions
+(DG0 ¼ þ28 kJ/mol) unless the concentration of the fatty acid
+(2-ethylalkanoate) is in the micromolar order of magnitude or less
+otherwise this reaction will not proceed under physiological
+conditions (Thauer and Shima 2008). The possibility of other
+reaction(s) preceding the carboxylation has also been proposed (So
+et al. 2003).
+
+genes. The absence of assA-like genes and metabolites that would
+have indicate an addition to the double bond of fumarate or even
+likely a carboxylation suggest that oil alkanes in the methanogenic
+enrichment culture are probably activated via anaerobic hydroxylation (Head et al. 2010).
+
+7.3. Alternative activation mechanisms
+
+Alkanes are quantitatively the most important fraction in crude
+oil. The anaerobic biodegradation of alkanes, which has now been
+documented to occur in anoxic habitats, is of great importance for
+the oil industry. Today, this process remains an exciting area of
+investigation to understand the factors that govern the biodegradation of oil in deep-subsurface reservoirs, and for the bioremediation of oil-contaminated environments.
+It is now well-established that microbial activities associated
+with petroleum reservoirs have led to the decrease of oil quality,
+making reﬁning more costly and recovery more difﬁcult (Head et al.
+2003). Examination of deep-subsurface petroleum reservoirs has
+revealed the presence of live microbial communities dominated by
+anaerobes, therefore oil reservoirs have been referred to as “geobioreactors” in which different physiological types of anaerobic
+microorganisms including fermentative, syntrophic, sulﬁdogenic
+and methanogens may be responsible for the biodegradation of
+crude oil in situ with the preferential removal of the saturated
+hydrocarbon fraction (Magot et al. 2000; Jones et al. 2008; Wang
+et al. 2010).
+Petroleum reserves have been depleted to certain levels, and
+anaerobic degradation is considered to be one of the major
+processes responsible for this phenomenon. Moreover, biogenic
+methane that is commonly associated with biodegraded oil reservoirs is believe to be a result of the microbial decomposition of oil
+alkanes (Jones et al. 2008). While methanogenic degradation of oil
+alkanes has signiﬁcant effect on the recovery of high-value light
+
+Depending on the microorganisms and electron acceptors
+available in a selective environment, anaerobic degradation of
+alkanes may proceed via alternative activation mechanisms not
+involving addition of fumarate or carboxylation. For instance,
+Pseudomonas chloritidismutans AW-1T is able to produce its own
+oxygen via chlorate respiration for subsequent metabolism of
+alkanes (Fig. 3C-1) (Mehboob et al. 2009). This would indicate the
+requirement for oxygenases to incorporate molecular oxygen thus
+generated from the dismutation of chlorite into the alkane. Such
+a reaction is referred to as “unusual oxygenation” of alkane since it
+takes place in the total exclusion of air. A similar activation strategy
+via “intra-cellular oxygen production” is also possible with electron
+acceptors such nitrate or nitrite (Ettwig et al. 2010). However, in
+a recent work, it was presumed that nitrite or nitric oxide generated
+during the reduction of nitrate may be directly involved as a coreactant for the activation of alkanes in strain HdN1 (Fig. 3C-2)
+(Zedelius et al. 2010). Given that the activation metabolite of NO
+2 or
+NO co-reacting with alkanes is still unknown; this hypothesis
+remains to be demonstrated.
+Another recently proposed strategy may involve anaerobic
+hydroxylation of oil alkanes (Fig. 3C-3). Pyrosequencing of total
+genomic DNA retrieved from methanogenic enrichment cultures
+degrading crude oil revealed the presence of genes encoding the boxidation pathway and also alcohol and aldehyde dehydrogenase
+
+8. Conclusions and future perspectives
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+crude oil, on the positive side, in situ methanogenic biodegradation
+activities may offer a route for potential alternative and innovative
+energy recovery strategies from existing oil reservoirs after
+extraction. After extensive water ﬂooding, at least two-third of the
+crude oil still remains entrapped in pores within the formation, the
+recovery of energy from conventional reserves via in situ conversion of even a smaller fraction of the residual oil to methane gas
+could represent a considerable supply of energy. This is great
+interest because world requirements for methane are estimated to
+increase within the next three decades (International Energy
+Outlook 2009, 2010; www.eia.doe.gov/oiaf/ieo/) and methanogenic
+conversion of oil alkanes is seen as a future solution for world
+energy needs (Fig. 4).
+However, there are still many questions regarding the anaerobic
+biodegradation of alkanes that need to be addressed. For instance,
+though the isolation of anaerobic microorganisms capable of
+utilizing alkanes has been essential for a comprehensive understanding of their role and behavior in anoxic habitats, the complex
+interactions within methanogenic alkane-degrading communities
+are still not well understood. Further research is needed to explore
+multidisciplinary, e.g., molecular, microbiological and chemical or
+geochemical, approaches to establish the key organisms,
+biochemical reactions and mechanisms involved in such complex
+associations. For instance, there is now reasonable circumstantial
+evidence that some fermentative bacteria such as Firmicutes might
+be directly implicated in the degradation of hydrocarbons. It is also
+worth noting that microorganisms afﬁliated to Firmicutes are the
+most commonly encountered bacterial taxon in samples retrieved
+from oil reservoirs (Gray et al. 2010), hence diverse and abundant
+members of the Firmicutes should not only be considered as
+“traditional” fermentative bacteria, they could have adapted to
+metabolize oil components in situ and in methanogenic oil
+degrading enrichment cultures.
+Sulﬁdogenic prokaryotes, however, are metabolically versatile
+and are able to grow either by using sulfate as electron acceptor or
+by syntrophic lifestyle in the absence of electron acceptor. This
+characteristic makes them important members of degradative
+microbial communities. Davidova et al. (2006) reported that
+Desulfoglaeba alkanexedens ALDCT is able to syntrophically degrade
+alkanes in co-culture with hydrogenotrophic methanogens. Interestingly, several sulfudogenic with the capacity for alkane oxidation are able to utilize thiosulfate, sulﬁte or elemental sulfur as
+electron acceptors to enhance their growth yield and rates. This is
+of great importance because organic sulfur compounds present in
+crude oils can serve as sulfur-based electron acceptors (Röling et al.
+2003). The capability of T. sibiricus and related organisms to use
+organic substrates such alkanes without needs for exogenous
+electron acceptors makes them potential key players of the
+complex metabolic food web existing in habitats such as high
+temperature petroleum reservoirs (Mardanov et al. 2009). The role
+of hyperthermophilic organisms such as Thermococcus sp. and
+Archaeglobus sp. in oil reservoirs is not well understood. Analysis of
+existing genomic data has started to reveal their potentiality. It is
+tempting to speculate that, in high temperature petroleum reservoirs; these archaeal members play a considerable role during the
+initial steps of the anaerobic metabolism of alkanes.
+Information on the potential of biodegradation can be obtained
+from speciﬁc intermediates metabolites where their detection is
+indicative of microbial activities on a given substrate. Moreover,
+functional genes encoding key enzymes of speciﬁc degradation
+pathways can also serve as biomarkers. For instance, studies on
+alkylsuccinate genes by means of assA-targetd primer sets have
+provided evidence for the importance of novel groups of anaerobic
+alkane-degraders and the major role played by glycyl radical
+dependent addition to fumarate (Callaghan et al. 2010). However,
+
+11
+
+physiologically distinct microorganisms, e.g., strain Hxd3, utilize
+fumarate-independent mechanisms to activate their alkane
+substrates. Therefore, additional research at the genomic level will
+be necessary to reveal the genetic associated with these new
+biochemical pathways.
+Finally, understanding the alkanes degrading communities with
+their biochemical function will signiﬁcantly advance the knowledge about the organisms mediating the specialized biochemical
+reaction steps. This will allow us to better understand the biological
+processes responsible for oil biodegradation in natural environments and in petroleum reservoirs for possible biotechnological
+innovation and applications in utilization of the residual oils.
+
+Acknowledgements
+This work was supported by the National Natural Science
+Foundation of China (Grant No. 41073055) and the 863 Program
+(Grant No. 2009AA063503).
+
+References
+Abu Laban, N., Selesi, D., Jobelius, C., Meckenstock, R.U., 2009. Anaerobic benzene
+degradation by Gram-positive sulfate-reducing bacteria. FEMS Microbiology
+Ecology 68, 300e311.
+Aeckersberg, F., Bak, F., Widdel, F., 1991. Anaerobic oxidation of saturated hydrocarbons to CO2 by a new type of sulfate-reducing bacterium. Archives of
+Microbiology 156, 5e14.
+Aeckersberg, F., Rainey, F.A., Widdel, F., 1998. Growth, natural relationships, cellular
+fatty acids and metabolic adaptation of sulfate-reducing bacteria that utilize
+long-chain alkanes under anoxic conditions. Archives of Microbiology 170,
+361e369.
+Anderson, R.T., Lovley, D.R., 2000. Biogeochemistry: Hexadecane decay by methanogenesis. Nature 404, 722e723.
+Beeder, J., Nilsen, R.K., Rosnes, J.T., Torsvik, T., Lien, T., 1994. Archaeoglobus fulgidus
+isolated from hot North Sea oil ﬁeld waters. Applied and Environmental
+Microbiology 60, 1227e1231.
+Beller, H.R., Spormann, A.M., 1999. Substrate range of benzylsuccinate synthase
+from Azoarcus sp. strain T. FEMS Microbiology Letters 178, 147e153.
+Bertoldo, C., Antranikian, G., 2006. The order thermococcales. In: Dworkin, M.,
+Falkow, S., Rosenberg, E., Schleifer, K.-H., Stackebrandt, E. (Eds.), The prokaryotes. Springer, New York, pp. 69e81.
+Biegert, T., Fuchs, G., Heider, J., 1996. Evidence that anaerobic oxidation of toluene in
+the denitrifying bacterium Thauera aromatica is initiated by formation of benzylsuccinate from toluene and fumarate. European Journal of Biochemistry 238,
+661e668.
+Bonin, P., Cravo-Laureau, C., Michotey, V., Hirschler-Rea, A., 2004. The anaerobic
+hydrocarbon biodegrading bacteria: an overview. Ophelia 58, 243e254.
+Bregnard, T., Haner, A., Hohener, P., Zeyer, J., 1997. Anaerobic degradation of pristane
+in nitrate-reducing microcosms and enrichment cultures. Applied and Environmental Microbiology 63, 2077e2081.
+Callaghan, A.V., Davidova, I.A., Savage-Ashlock, K., Parisi, V.A., Gieg, L.M.,
+Suﬂita, J.M., Kukor, J.J., Wawrik, B., 2010. Diversity of benyzl- and alkylsuccinate
+synthase genes in hydrocarbon-impacted environments and enrichment
+cultures. Environmental Science & Technology 44, 7287e7294.
+Callaghan, A.V., Gieg, L.M., Kropp, K.G., Suﬂita, J.M., Young, L.Y., 2006. Comparison of
+mechanisms of alkane metabolism under sulfate-reducing conditions among
+two bacterial isolates and a bacterial consortium. Applied and Environmental
+Microbiology 72, 4274e4282.
+Callaghan, A.V., Tierney, M., Phelps, C.D., Young, L.Y., 2009. Anaerobic biodegradation of n-hexadecane by a nitrate-reducing consortium. Applied and Environmental Microbiology 75, 1339e1344.
+Callaghan, A.V., Wawrik, B., Ní Chadhain, S.M., Young, L.Y., Zylstra, G.J., 2008.
+Anaerobic alkane-degrading strain AK-01 contains two alkylsuccinate synthase
+genes. Biochemical and Biophysical Research Communications 366, 142e148.
+Chakraborty, R., Coates, J.D., 2004. Anaerobic degradation of monoaromatic
+hydrocarbons. Applied Microbiology and Biotechnology 64, 437e446.
+Coates, J.D., Achenbach, L.A., 2004. Microbial perchlorate reduction: rocket-fuelled
+metabolism. Nature Reviews Microbiology 2, 569e580.
+Coates, J.D., Chakraborty, R., Lack, J.G., O’Connor, S.M., Cole, K.A., Bender, K.S.,
+Achenbach, L.A., 2001. Anaerobic benzene oxidation coupled to nitrate reduction in pure culture by two strains of Dechloromonas. Nature 411, 1039e1043.
+Cole, J.R., Wang, Q., Cardenas, E., Fish, J., Chai, B., Farris, R.J., Kulam-SyedMohideen, A.S., McGarrell, D.M., Marsh, T., Garrity, G.M., Tiedje, J.M., 2009. The
+ribosomal database project: improved alignments and new tools for rRNA
+analysis. Nucleic Acids Research 37, D141eD145.
+Cravo-Laureau, C., Grossi, V., Raphel, D., Matheron, R., Hirschler-Rea, A., 2005.
+Anaerobic n-alkane metabolism by a sulfate-reducing bacterium,
+
+12
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+
+Desulfatibacillum aliphaticivorans strain CV2803T. Applied and Environmental
+Microbiology 71, 3458e3467.
+Cravo-Laureau, C., Matheron, R., Cayol, J.-L., Joulian, C., Hirschler-Rea, A., 2004.
+Desulfatibacillum aliphaticivorans gen. nov., sp. nov., an n-alkane- and n-alkenedegrading, sulfate-reducing bacterium. International Journal of Systematic and
+Evolutionary Microbiology 54, 77e83.
+Davidova, I.A., Duncan, K.E., Choi, O.K., Suﬂita, J.M., 2006. Desulfoglaeba alkanexedens gen. nov., sp. nov., an n-alkane-degrading, sulfate-reducing bacterium.
+International Journal of Systematic and Evolutionary Microbiology 56,
+2737e2742.
+Dhillon, A., Teske, A., Dillon, J., Stahl, D.A., Sogin, M.L., 2003. Molecular characterization of sulfate-reducing B bacteria in the Guaymas basin. Applied and
+Environmental Microbiology 69, 2765e2772.
+Dolﬁng, J., Larter, S.R., Head, I.M., 2008. Thermodynamic constraints on methanogenic crude oil biodegradation. The ISME Journal 2, 442e452.
+Duncan, K.E., Gieg, L.M., Parisi, V.A., Tanner, R.S., Tringe, S.G., Bristow, J., Suﬂita, J.M.,
+2009. Biocorrosive Thermophilic microbial communities in Alaskan North slope
+oil facilities. Environmental Science & Technology 43, 7977e7984.
+Ehrenreich, P., Behrends, A., Harder, J., Widdel, F., 2000. Anaerobic oxidation of
+alkanes by newly isolated denitrifying bacteria. Archives of Microbiology 173,
+58e64.
+Ettwig, K.F., Butler, M.K., Le Paslier, D., Pelletier, E., Mangenot, S., Kuypers, M.M.M.,
+Schreiber, F., Dutilh, B.E., Zedelius, J., de Beer, D., Gloerich, J., Wessels, H.J.C.T.,
+van Alen, T., Luesken, F., Wu, M.L., van de Pas-Schoonen, K.T., Op den
+Camp, H.J.M., Janssen-Megens, E.M., Francoijs, K.-J., Stunnenberg, H.,
+Weissenbach, J., Jetten, M.S.M., Strous, M., 2010. Nitrite-driven anaerobic
+methane oxidation by oxygenic bacteria. Nature 464, 543e548.
+Foght, J., 2008. Anaerobic biodegradation of aromatic hydrocarbons: pathways and
+prospects. Journal of Molecular Microbiology and Biotechnology 15, 93e120.
+Fries, M.R., Zhou, J., Chee-Sanford, J., Tiedje, J.M., 1994. Isolation, characterization,
+and distribution of denitrifying toluene degraders from a variety of habitats.
+Applied and Environmental Microbiology 60, 2802e2810.
+Gieg, L.M., Davidova, I.A., Duncan, K.E., Suﬂita, J.M., 2010. Methanogenesis, sulfate
+reduction and crude oil biodegradation in hot Alaskan oilﬁelds. Environmental
+Microbiology doi: 10.1111/j.1462-2920.2010.02282.x, (Epub ahead of print 29
+Jun 2010).
+Gieg, L.M., Duncan, K.E., Suﬂita, J.M., 2008. Bioenergy production via microbial
+conversion of residual oil to natural gas. Applied and Environmental Microbiology 74, 3022e3029.
+Gieg, L.M., Suﬂita, J.M., 2002. Detection of anaerobic metabolites of saturated and
+aromatic hydrocarbons in petroleum-contaminated aquifers. Environmental
+Science & Technology 36, 3755e3762.
+Gill, C.O., Ratledge, C., 1972. Toxicity of n-alkanes, n-alk-1-enes, n-alkan-1-ols and
+n-alkyl-1-bromides towards yeasts. Journal of General Microbiology 72, 165e172.
+Gittel, A., Sorensen, K.B., Skovhus, T.L., Ingvorsen, K., Schramm, A., 2009. Prokaryotic
+community structure and sulfate reducer activity in water from high-temperature oil reservoirs with and without nitrate treatment. Applied and Environmental Microbiology 75, 7086e7096.
+Grabowski, A., Nercessian, O., Fayolle, F., Blanchet, D., Jeanthon, C., 2005. Microbial
+diversity in production waters of a low-temperature biodegraded oil reservoir.
+FEMS Microbiology Ecology 54, 427e443.
+Gray, N.D., Sherry, A., Hubert, C., Dolﬁng, J., Head, I.M., 2010. Methanogenic
+degradation of petroleum hydrocarbons in subsurface environments:
+remediation, heavy oil formation, and energy recovery. In: Allen, I.,
+Laskin, S.S., Geoffrey, M.G. (Eds.), Advances in applied microbiology.
+Academic Press, pp. 137e161.
+Grbic-Galic, D., Vogel, T.M., 1987. Transformation of toluene and benzene by mixed
+methanogenic cultures. Applied and Environmental Microbiology 53, 254e260.
+Grossi, V., Cravo-Laureau, C., Guyoneaud, R., Ranchou-Peyruse, A., Hirschler-Réa, A.,
+2008. Metabolism of n-alkanes and n-alkenes by anaerobic bacteria:
+a summary. Organic Geochemistry 39, 1197e1203.
+Grossi, V., Raphel, D., Hirschler-Réa, A., Gilewicz, M., Mouzdahir, A., Bertrand, J.-C.,
+Rontani, J.-F., 2000. Anaerobic biodegradation of pristane by a marine sedimentary bacterial and/or archaeal community. Organic Geochemistry 31, 769e772.
+Grundmann, O., Behrends, A., Rabus, R., Amann, J., Halder, T., Heider, J., Widdel, F.,
+2008. Genes encoding the candidate enzyme for anaerobic activation of
+n-alkanes in the denitrifying bacterium, strain HxN1. Environmental Microbiology 10, 376e385.
+Hanselmann, K.W., 1991. Microbial energetics applied to waste repositories. Cellular
+and Molecular Life Sciences 47, 645e687.
+Head, I., Gray, N., Aitken, C., Sherry, A., Jones, M., Larter, S., 2010. Hydrocarbon
+activation under sulfate-reducing and methanogenic conditions proceeds by
+different mechanisms. Geophysical Research Abstracts 12 (EGU General
+Assembly 2010).
+Head, I.M., Jones, D.M., Larter, S.R., 2003. Biological activity in the deep subsurface
+and the origin of heavy oil. Nature 426, 344e352.
+Heider, J., 2007. Adding handles to unhandy substrates: anaerobic hydrocarbon
+activation mechanisms. Current Opinion in Chemical Biology 11, 188e194.
+Heider, J., Spormann, A.M., Beller, H.R., Widdel, F., 1999. Anaerobic bacterial
+metabolism of hydrocarbons. FEMS Microbiology Reviews 22, 459e473.
+Helgeson, H.C., Owens, C.E., Knox, A.M., Richard, L., 1998. Calculation of the standard
+molal thermodynamic properties of crystalline, liquid, and gas organic molecules at high temperatures and pressures. Geochimica et Cosmochimica Acta
+62, 985e1081.
+
+Higashioka, Y., Kojima, H., Nakagawa, T., Sato, S., Fukui, M., 2009. A novel n-alkanedegrading bacterium as a minor member of p-xylene-degrading sulfatereducing consortium. Biodegradation 20, 383e390.
+Jones, D.M., Head, I.M., Gray, N.D., Adams, J.J., Rowan, A.K., Aitken, C.M., Bennett, B.,
+Huang, H., Brown, A., Bowler, B.F.J., Oldenburg, T., Erdmann, M., Larter, S.R.,
+2008. Crude-oil biodegradation via methanogenesis in subsurface petroleum
+reservoirs. Nature 451, 176e180.
+Karakashev, D., Batstone, D.J., Trably, E., Angelidaki, I., 2006. Acetate oxidation is the
+dominant methanogenic pathway from acetate in the absence of Methanosaetaceae. Applied and Environmental Microbiology 72, 5138e5141.
+Kheliﬁ, N., Grossi, V., Hamdi, M., Dolla, A., Tholozan, J.-L., Ollivier, B., HirschlerRea, A., 2010. Anaerobic oxidation of fatty acids and alkenes by the hyperthermophilic sulfate-reducing archaeon Archaeoglobus fulgidus. Applied and
+Environmental Microbiology 76, 3057e3060.
+Klenk, H.-P., Clayton, R.A., Tomb, J.-F., White, O., Nelson, K.E., Ketchum, K.A.,
+Dodson, R.J., Gwinn, M., Hickey, E.K., Peterson, J.D., Richardson, D.L.,
+Kerlavage, A.R., Graham, D.E., Kyrpides, N.C., Fleischmann, R.D., Quackenbush, J.,
+Lee, N.H., Sutton, G.G., Gill, S., Kirkness, E.F., Dougherty, B.A., McKenney, K.,
+Adams, M.D., Loftus, B., Peterson, S., Reich, C.I., McNeil, L.K., Badger, J.H.,
+Glodek, A., Zhou, L., Overbeek, R., Gocayne, J.D., Weidman, J.F., McDonald, L.,
+Utterback, T., Cotton, M.D., Spriggs, T., Artiach, P., Kaine, B.P., Sykes, S.M.,
+Sadow, P.W., D’Andrea, K.P., Bowman, C., Fujii, C., Garland, S.A., Mason, T.M.,
+Olsen, G.J., Fraser, C.M., Smith, H.O., Woese, C.R., Venter, J.C., 1997. The complete
+genome sequence of the hyperthermophilic, sulphate-reducing archaeon
+Archaeoglobus fulgidus. Nature 390, 364e370.
+Kniemeyer, O., Musat, F., Sievert, S.M., Knittel, K., Wilkes, H., Blumenberg, M.,
+Michaelis, W., Classen, A., Bolm, C., Joye, S.B., Widdel, F., 2007. Anaerobic
+oxidation of short-chain hydrocarbons by marine sulphate-reducing bacteria.
+Nature 449, 898e901.
+Kropp, K.G., Davidova, I.A., Suﬂita, J.M., 2000. Anaerobic oxidation of n-dodecane by
+an addition reaction in a sulfate-reducing bacterial enrichment culture. Applied
+and Environmental Microbiology 66, 5393e5398.
+Lee, H.S., Kang, S.G., Bae, S.S., Lim, J.K., Cho, Y., Kim, Y.J., Jeon, J.H., Cha, S.-S.,
+Kwon, K.K., Kim, H.-T., Park, C.-J., Lee, H.-W., Kim, S.I., Chun, J., Colwell, R.R.,
+Kim, S.-J., Lee, J.-H., 2008. The complete genome sequence of Thermococcus
+onnurineus NA1 reveals a mixed heterotrophic and carboxydotrophic metabolism. Journal of Bacteriology 190, 7491e7499.
+Leuthner, B., Leutwein, C., Schulz, H., Horth, P., Haehnel, W., Schiltz, E.,
+Schagger, H., Heider, J., 1998. Biochemical and genetic characterization of
+benzylsuccinate synthase from Thauera aromatica: a new glycyl radical
+enzyme catalysing the ﬁrst step in anaerobic toluene metabolism. Molecular
+Microbiology 28, 615.
+Li, H., Chen, S., Mu, B.-Z., Gu, J.-D., 2010. Molecular detection of anaerobic ammonium-oxidizing (anammox) bacteria in high-temperature petroleum reservoirs.
+Microbial Ecology. doi:10.1007/s00248-00010-09733-00243.
+Li, H., Yang, S.-Z., Mu, B.-Z., Rong, Z.-F., Zhang, J., 2007. Molecular phylogenetic
+diversity of the microbial community associated with a high-temperature
+petroleum reservoir at an offshore oilﬁeld. FEMS Microbiology Ecology 60,
+74e84.
+Lovley, D.R., Baedecker, M.J., Lonergan, D.J., Cozzarelli, I.M., Phillips, E.J.P., Siegel, D.I.,
+1989. Oxidation of aromatic contaminants coupled to microbial iron reduction.
+Nature 339, 297e300.
+Magot, M., Ollivier, B., Patel, B.K.C., 2000. Microbiology of petroleum reservoirs.
+Antonie van Leeuwenhoek 77, 103e116.
+Mardanov, A.V., Ravin, N.V., Svetlitchnyi, V.A., Beletsky, A.V., Miroshnichenko, M.L.,
+Bonch-Osmolovskaya, E.A., Skryabin, K.G., 2009. Metabolic versatility and
+indigenous origin of the Archaeon Thermococcus sibiricus, isolated from a Siberian oil reservoir, as revealed by genome analysis. Applied and Environmental
+Microbiology 75, 4580e4588.
+Mayumi, D., Mochimaru, H., Yoshioka, H., Sakata, S., Maeda, H., Miyagawa, Y.,
+Ikarashi, M., Takeuchi, M., Kamagata, Y., 2010. Evidence for syntrophic acetate
+oxidation coupled to hydrogenotrophic methanogenesis in the high-temperature petroleum reservoir of Yabase oil ﬁeld (Japan). Environmental Microbiology. doi:10.1111/j.1462-2920.2010.02338.x.
+Mehboob, F., Junca, H., Schraa, G., Stams, A., 2009. Growth of Pseudomonas chloritidismutans AW-1T on n-alkanes with chlorate as electron acceptor. Applied
+Microbiology and Biotechnology 83, 739e747.
+Miralles, G., Grossi, V., Acquaviva, M., Duran, R., Claude Bertrand, J., Cuny, P., 2007.
+Alkane biodegradation and dynamics of phylogenetic subgroups of sulfatereducing bacteria in an anoxic coastal marine sediment artiﬁcially contaminated with oil. Chemosphere 68, 1327e1334.
+Miroshnichenko, M., Hippe, H., Stackebrandt, E., Kostrikina, N., Chernyh, N.,
+Jeanthon, C., Nazina, T., Belyaev, S., Bonch-Osmolovskaya, E., 2001. Isolation and
+characterization of Thermococcus sibiricus sp. nov. from a Western Siberia hightemperature oil reservoir. Extremophiles 5, 85e91.
+Musat, F., Wilkes, H., Behrends, A., Woebken, D., Widdel, F., 2010. Microbial nitratedependent cyclohexane degradation coupled with anaerobic ammonium
+oxidation. The ISME Journal 4, 1290e1301.
+Nazina, T., Shestakova, N., Grigor’yan, A., Mikhailova, E., Tourova, T., Poltaraus, A.,
+Feng, C., Ni, F., Belyaev, S., 2006. Phylogenetic diversity and activity of anaerobic
+microorganisms of high-temperature horizons of the Dagang oil ﬁeld (P.R.
+China). Microbiology 75, 55e65.
+Nunoura, T., Oida, H., Miyazaki, M., Suzuki, Y., Takai, K., Horikoshi, K., 2007. Desulfothermus okinawensis sp. nov., a thermophilic and heterotrophic sulfate-
+
+S.M. Mbadinga et al. / International Biodeterioration & Biodegradation 65 (2011) 1e13
+reducing bacterium isolated from a deep-sea hydrothermal ﬁeld. International
+Journal of Systematic and Evolutionary Microbiology 57, 2360e2364.
+Orphan, V.J., Taylor, L.T., Hafenbradl, D., Delong, E.F., 2000. Culture-dependent and
+culture-independent characterization of microbial assemblages associated with
+high-temperature petroleum reservoirs. Applied and Environmental Microbiology 66, 700e711.
+Röling, W.F.M., Head, I.M., Larter, S.R., 2003. The microbiology of hydrocarbon
+degradation in subsurface petroleum reservoirs: perspectives and prospects.
+Research in Microbiology 154, 321e328.
+Rabus, Wilkes, Schramm, Harms, Behrends, Amann, Widdel, 1999. Anaerobic
+utilization of alkylbenzenes and n-alkanes from crude oil in an enrichment
+culture of denitrifying bacteria afﬁliating with the b-subclass of Proteobacteria.
+Environmental Microbiology 1, 145e157.
+Rabus, R., Wilkes, H., Behrends, A., Armstroff, A., Fischer, T., Pierik, A.J., Widdel, F.,
+2001. Anaerobic initial reaction of n-alkanes in a denitrifying bacterium:
+evidence for (1-methylpentyl)succinate as initial product and for involvement
+of an organic radical in n-hexane metabolism. Journal of Bacteriology 183,
+1707e1715.
+Rabus, R., Widdel, F., 1995. Anaerobic degradation of ethylbenzene and other
+aromatic hydrocarbons by new denitrifying bacteria. Archives of Microbiology
+163, 96e103.
+Rabus, R., Widdel, F., 1996. Utilization of alkylbenzenes during anaerobic growth of
+pure cultures of denitrifying bacteria on crude oil. Applied and Environmental
+Microbiology 62, 1238e1241.
+Rios-Hernandez, L.A., Gieg, L.M., Suﬂita, J.M., 2003. Biodegradation of an alicyclic
+hydrocarbon by a sulfate-reducing enrichment from a gas condensatecontaminated aquifer. Applied and Environmental Microbiology 69,
+434e443.
+Rouvière, P.E., Chen, M.W., 2003. Isolation of Brachymonas petroleovorans CHX,
+a novel cyclohexane-degrading b-proteobacterium. FEMS Microbiology Letters
+227, 101e106.
+Rueter, P., Rabus, R., Wilkest, H., Aeckersberg, F., Rainey, F.A., Jannasch, H.W.,
+Widdel, F., 1994. Anaerobic oxidation of hydrocarbons in crude oil by new types
+of sulphate-reducing bacteria. Nature 372, 455e458.
+Savage, K.N., Krumholz, L.R., Gieg, L.M., Parisi, V.A., Suﬂita, J.M., Allen, J., Philp, R.P.,
+Elshahed, M.S., 2010. Biodegradation of low-molecular-weight alkanes under
+mesophilic, sulfate-reducing conditions: metabolic intermediates and
+community patterns. FEMS Microbiology Ecology 72, 485e495.
+Schink, B., 1997. Energetics of syntrophic cooperation in methanogenic degradation.
+Microbiology and Molecular Biology Reviews 61, 262e280.
+Siddique, T., Fedorak, P.M., Foght, J.M., 2006. Biodegradation of short-chain
+n-alkanes in oil sands tailings under methanogenic conditions. Environmental
+Science & Technology 40, 5459e5464.
+Sikkema, J., de Bont, J., Poolman, B., 1995. Mechanisms of membrane toxicity of
+hydrocarbons. Microbiological Reviews 59, 201e222.
+Sikkema, J., de Bont, J.A., Poolman, B., 1994. Interactions of cyclic hydrocarbons with
+biological membranes. Journal of Biological Chemistry 269, 8022e8028.
+So, C.M., Phelps, C.D., Young, L.Y., 2003. Anaerobic transformation of alkanes to fatty
+acids by sulfate-reducing bacterium, strain Hxd3. Applied and Environmental
+Microbiology 69, 3892e3900.
+So, C.M., Young, L.Y., 1999a. Initial reactions in anaerobic alkane degradation by
+a sulfate reducer, strain AK-01. Applied and Environmental Microbiology 65,
+5532e5540.
+So, C.M., Young, L.Y., 1999b. Isolation and characterization of a sulfate-reducing
+bacterium that anaerobically degrades alkanes. Applied and Environmental
+Microbiology 65, 2969e2976.
+So, C.M., Young, L.Y., 2001. Anaerobic biodegradation of alkanes by enriched consortia under four different reducing conditions. Environmental Toxicology and
+Chemistry 20, 473e478.
+Song, B., Haggblom, M.M., Zhou, J., Tiedje, J.M., Palleroni, N.J., 1999. Taxonomic
+characterization of denitrifying bacteria that degrade aromatic compounds and
+
+13
+
+description of Azoarcus toluvorans sp. nov. and Azoarcus toluclasticus sp. nov.
+International Journal of Systematic Bacteriology 49, 1129e1140.
+Stetter, K.O., Lauerer, G., Thomm, M., Neuner, A., 1987. Isolation of extremely thermophilic sulfate reducers: evidence for a novel branch of Archaebacteria.
+Science 236, 822e824.
+Thauer, R.K., Jungermann, K., Decker, K., 1977. Energy conservation in chemotrophic
+anaerobic bacteria. Bacteriological Reviews 41, 100e180.
+Thauer, R.K., Shima, S., 2008. Methane as fuel for anaerobic microorganisms. Annals
+of the New York Academy of Sciences 1125, 158e170.
+Townsend, G.T., Prince, R.C., Suﬂita, J.M., 2003. Anaerobic oxidation of crude oil
+hydrocarbons by the resident microorganisms of a contaminated anoxic aquifer.
+Environmental Science & Technology 37, 5213e5218.
+Townsend, G.T., Prince, R.C., Suﬂita, J.M., 2004. Anaerobic biodegradation of alicyclic
+constituents of gasoline and natural gas condensate by bacteria from an anoxic
+aquifer. FEMS Microbiology Ecology 49, 129e135.
+Trower, M.K., Buckland, R.M., Higgins, R., Grifﬁn, M., 1985. Isolation and characterization of a cyclohexane-metabolizing Xanthobacter sp. Applied and Environmental Microbiology 49, 1282e1289.
+Vogel, T.M., Grbic-Galic, D., 1986. Incorporation of oxygen from water into toluene
+and benzene during anaerobic fermentative transformation. Applied and
+Environmental Microbiology 52, 200e202.
+Wöhlbrand, L., Kallerhoff, B., Lange, D., Hufnagel, P., Thiermann, J., Reinhardt, R.,
+Rabus, R., 2007. Functional proteomic view of metabolic regulation in “Aromatoleum aromaticum” strain EbN1. PROTEOMICS 7, 2222e2239.
+Wang, L.Y., Mbadinga, S.M., Li, H., Liu, J.F., Yang, S.Z., Mu, B.Z., 2010. Anaerobic
+degradation of petroleum hydrocarbons and enlightenment of the prospects for
+microbial bio-gasiﬁcation of residual oil. Microbiology 37, 96e102 (in Chinese
+with English abstract).
+Warren, E., Bekins, B., Godsy, E., Smith, V., 2004. Inhibition of acetoclastic methanogenesis in crude oil- and creosote-contaminated groundwater. Bioremediation Journal 8, 1e11.
+Watanabe, K., Watanabe, K., Kodama, Y., Syutsubo, K., Harayama, S., 2000. Molecular
+characterization of bacterial populations in petroleum-contaminated groundwater discharged from underground crude oil storage cavities. Applied and
+Environmental Microbiology 66, 4803e4809.
+Wentzel, A., Ellingsen, T., Kotlar, H.-K., Zotchev, S., Throne-Holst, M., 2007. Bacterial
+metabolism of long-chain n-alkanes. Applied Microbiology and Biotechnology
+76, 1209e1221.
+Widdel, F., Boetius, A., Rabus, R., 2006. Anaerobic biodegradation of hydrocarbons
+including methane. In: Dworkin, M., Falkow, S., Rosenberg, E., Schleifer, K.-H.,
+Stackebrandt, E. (Eds.), The prokaryotes. Springer, New York, pp. 1028e1049.
+Widdel, F., Rabus, R., 2001. Anaerobic biodegradation of saturated and aromatic
+hydrocarbons. Current Opinion in Biotechnology 12, 259e276.
+Wilkes, H., Kühner, S., Bolm, C., Fischer, T., Classen, A., Widdel, F., Rabus, R., 2003.
+Formation of n-alkane- and cycloalkane-derived organic acids during anaerobic
+growth of a denitrifying bacterium with crude oil. Organic Geochemistry 34,
+1313e1323.
+Xu, J., Trimble, J.J., Steinberg, L., Logan, B.E., 2004. Chlorate and nitrate reduction
+pathways are separately induced in the perchlorate-respiring bacterium
+Dechlorosoma sp. KJ and the chlorate-respiring bacterium Pseudomonas sp. PDA.
+Water Research 38, 673e680.
+Zedelius, J., Rabus, R., Grundmann, O., Werner, I., Brodkorb, D., Schreiber, F.,
+Ehrenreich, P., Behrends, A., Wilkes, H., Kube, M., Reinhardt, R., Widdel, F., 2010.
+Alkane degradation under anoxic conditions by a nitrate-reducing bacterium
+with possible involvement of the electron acceptor in substrate activation.
+Environmental Microbiology Reports. doi:10.1111/j.1758-2229.2010.00198.x.
+Zengler, K., Richnow, H.H., Rossello-Mora, R., Michaelis, W., Widdel, F., 1999.
+Methane formation from long-chain alkanes by anaerobic microorganisms.
+Nature 401, 266e269.
+Zwolinski, M.D., Harris, R.F., Hickey, W.J., 2000. Microbial consortia involved in the
+anaerobic degradation of hydrocarbons. Biodegradation 11, 141e158.
+
+

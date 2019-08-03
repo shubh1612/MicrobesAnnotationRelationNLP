@@ -1,0 +1,90 @@
+T1	Substrate 29 32	oil
+T2	Substrate 72 75	oil
+T3	Environment 497 502	beach
+T4	Substrate 325 336	hydrocarbon
+T5	Substrate 476 479	oil
+T6	Property 337 346	degraders
+T7	Environment 707 718	beach sands
+T8	Environment 543 568	municipal Pensacola Beach
+T9	Substrate 607 630	weathered oil petroleum
+T10	Substrate 631 642	hydrocarbon
+T11	Property 655 669	concentrations
+T12	Environment 792 803	beach sands
+T13	Microbes 1020 1033	Acinetobacter
+T14	Microbes 989 1001	Marinobacter
+T15	Microbes 893 912	Gammaproteobacteria
+T16	Substrate 961 964	oil
+T17	Property 965 974	degraders
+T18	Environment 1070 1081	oiled sands
+T19	Environment 1384 1388	sand
+T20	Substrate 1441 1444	oil
+T21	Microbes 1836 1848	Marinobacter
+T22	Microbes 1802 1821	Gammaproteobacteria
+T23	Microbes 1854 1873	Alphaproteobacteria
+T24	Environment 1747 1758	beach sands
+T25	Substrate 1615 1618	oil
+T26	ReactionOrProcess 1911 1926	oil degradation
+T27	Substrate 2086 2089	oil
+T28	Substrate 2378 2398	gaseous hydrocarbons
+T29	Substrate 2188 2203	light crude oil
+T30	Substrate 2338 2349	hydrocarbon
+T31	Substrate 2295 2298	oil
+T32	Substrate 2451 2454	oil
+T33	Substrate 2593 2596	oil
+T34	Environment 2758 2763	beach
+T35	Environment 2675 2690	sandy sediments
+T36	Environment 2776 2788	Marine sands	
+T37	Environment 2924 2930	waters
+T39	Environment 2945 2957	Marine sands	
+T40	Environment 3077 3082	sands
+T41	Environment 3103 3121	overlying seawater
+T42	Environment 3206 3218	marine sands
+T43	ReactionOrProcess 3219 3229	stimulates
+T44	Environment 3549 3555	marine
+T45	Substrate 3521 3532	hydrocarbon
+T46	Substrate 3517 3520	oil
+T47	ReactionOrProcess 3417 3431	biodegradation
+T48	Environment 3830 3856	permeable marine sediments
+T49	Environment 3640 3646	marine
+T50	Substrate 3581 3592	Hydrocarbon	
+T51	Substrate 3740 3743	oil
+T52	ReactionOrProcess 3673 3687	biodegradation
+T53	ReactionOrProcess 3879 3893	bioremediation
+T54	ReactionOrProcess 4019 4034	oil degradation
+T55	Substrate 4173 4195	degrading hydrocarbons
+T56	Environment 4517 4522	beach
+T57	Substrate 4537 4540	oil
+T58	Environment 4679 4685	marine
+T59	Environment 4811 4817	marine
+T60	Environment 4818 4824	waters
+T61	Substrate 4647 4661	accidental oil
+T62	Substrate 4786 4793	new oil
+T63	Substrate 4895 4898	oil
+T64	Substrate 4974 4977	oil
+T65	Substrate 5024 5027	oil
+T66	Environment 5256 5278	oil-contaminated beach
+T67	Substrate 5102 5105	oil
+T68	Environment 5609 5620	beach sands
+T69	Substrate 5583 5586	oil
+T70	Environment 5761 5766	Beach
+T71	Environment 5724 5735	beach sands
+T72	Environment 5791 5806	municipal beach
+T73	Substrate 5853 5862	heavy oil
+T74	Substrate 5909 5912	oil
+T75	Environment 5997 6002	beach
+T76	Environment 6078 6083	water
+T77	Environment 5961 5966	Sands	
+T78	Substrate 6022 6025	oil
+T79	Property 6091 6100	dissolved
+R3	Of_No Arg1:T17 Arg2:T15
+R4	ActOn Arg1:T13 Arg2:T16
+R5	ActOn Arg1:T14 Arg2:T16
+R6	ActOn Arg1:T15 Arg2:T16
+R14	CarriedOn Arg1:T26 Arg2:T22
+R15	CarriedOn Arg1:T26 Arg2:T23
+R18	OccursIn Arg1:T43 Arg2:T42
+R19	CarriedOn Arg1:T47 Arg2:T45
+T80	Microbes 1823 1834	Alcanivorax
+T81	Microbes 976 987	Alcanivorax
+T82	Microbes 1003 1014	Pseudomonas
+T83	Microbes 1875 1891	Rhodobacteraceae

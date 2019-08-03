@@ -1,0 +1,74 @@
+T1	Microbes 377 395	enrichment culture
+T2	Environment 52 68	nitrate-reducing
+T3	Substrate 88 97	n-alkanes
+T4	Substrate 406 423	ethylcyclopentane
+T5	Property 360 376	sulfate-reducing
+T6	ReactionOrProcess 377 387	enrichment
+T7	Substrate 612 620	n-hexane
+T8	Substrate 802 808	hexane
+T9	Microbes 1331 1350	enrichment cultures
+T10	ReactionOrProcess 1331 1341	enrichment
+T11	Substrate 1557 1564	alkanes
+T12	Substrate 1661 1668	alkanes
+T13	Substrate 1675 1682	propane
+T14	Property 1834 1846	methanogenic
+T15	Property 1834 1846	methanogenic
+T16	ReactionOrProcess 1784 1808	anaerobic biodegradation
+T17	ReactionOrProcess 1635 1646	degradation
+T18	ReactionOrProcess 1794 1808	biodegradation
+R1	CarriedOn Arg1:T17 Arg2:T13
+T19	Microbes 2085 2095	consortium
+T20	Property 2072 2084	methanogenic
+T21	Property 2072 2084	methanogenic
+T22	Property 2276 2288	methanogenic
+T23	Property 2276 2288	methanogenic
+T24	ReactionOrProcess 2647 2660	hydroxylation
+T25	ReactionOrProcess 2759 2768	oxidation
+T26	ReactionOrProcess 3035 3050	denitrification
+T27	Microbes 3074 3085	strain HdN1
+T28	Enzyme 3241 3254	monooxygenase
+T29	Enzyme 3284 3297	monooxygenase
+T30	Enzyme 3214 3227	monooxygenase
+T31	Microbes 3511 3528	anaerobic culture
+T32	ReactionOrProcess 3678 3687	reduction
+T33	Enzyme 3924 3938	monooxygenases
+T34	ReactionOrProcess 3992 4001	oxidizing
+T35	Nutrient 4002 4020	electron acceptors
+T36	ReactionOrProcess 4358 4367	oxidation
+T37	ReactionOrProcess 4237 4250	Hydroxylation
+T38	ReactionOrProcess 4227 4250	Anaerobic Hydroxylation
+T39	Microbes 4417 4446	Desulfococcus oleovorans Hxd3
+T40	Microbes 4417 4430	Desulfococcus
+T41	Property 4390 4406	sulfate-reducing
+T42	ReactionOrProcess 4465 4475	incubation
+T43	Substrate 4721 4728	alkanes
+T44	Property 4773 4779	Stable
+T45	ReactionOrProcess 4879 4892	incorporation
+T46	ReactionOrProcess 4811 4820	incubated
+T47	Nutrient 4896 4902	carbon
+T48	Nutrient 4967 4973	carbon
+T49	Microbes 5089 5108	enrichment cultures
+T50	Property 5072 5088	sulfate-reducing
+T51	ReactionOrProcess 5089 5099	enrichment
+T52	ReactionOrProcess 5252 5263	degradation
+T53	Substrate 5438 5445	alkanes
+T54	ReactionOrProcess 5557 5575	alkane degradation
+T55	ReactionOrProcess 5564 5575	degradation
+T56	Microbes 6081 6085	EbN1
+T57	Microbes 6119 6127	Azoarcus
+T58	Substrate 5945 5957	ethylbenzene
+T59	Property 6037 6049	denitrifying
+T60	ReactionOrProcess 6037 6049	denitrifying
+R2	CarriedOn Arg1:T60 Arg2:T57
+T61	Enzyme 6195 6221	Ethylbenzene dehydrogenase
+T62	Substrate 6353 6365	ethylbenzene
+T63	Substrate 6195 6207	Ethylbenzene
+T64	ReactionOrProcess 6336 6349	hydroxylation
+T65	ReactionOrProcess 6326 6349	anaerobic hydroxylation
+R3	CarriedOn Arg1:T64 Arg2:T62
+R4	CarriedOn Arg1:T65 Arg2:T62
+R5	Inhibit_Catalyse Arg1:T61 Arg2:T64
+R6	Inhibit_Catalyse Arg1:T61 Arg2:T65
+T66	Substrate 6474 6481	alkanes
+T67	ReactionOrProcess 6519 6532	hydroxylation
+T68	ReactionOrProcess 6509 6532	anaerobic hydroxylation

@@ -1,0 +1,76 @@
+T1	Substrate 330 337	methane
+T2	ReactionOrProcess 338 347	oxidation
+T3	Environment 466 493	Sulfate-Reducing Conditions
+T4	Property 466 482	Sulfate-Reducing
+T5	Microbes 771 778	archaea
+T6	Environment 744 749	water
+T7	Substrate 732 739	methane
+T8	ReactionOrProcess 796 807	utilization
+T9	Microbes 999 1006	archaea
+T10	Nutrient 1278 1284	carbon
+T11	ReactionOrProcess 1478 1487	reduction
+T12	ReactionOrProcess 1470 1487	sulfate reduction
+T13	Substrate 1714 1722	methanol
+T14	ReactionOrProcess 1826 1835	reduction
+T15	ReactionOrProcess 1818 1835	sulfate reduction
+T16	Nutrient 1728 1734	carbon
+T17	Microbes 2006 2013	archaea
+T18	Microbes 2018 2037	deltaproteobacteria
+T19	Microbes 2252 2259	archaea
+T20	Microbes 2264 2283	deltaproteobacteria
+T21	Environment 2508 2535	sulfate-reducing conditions
+T22	Environment 2368 2395	Sulfate-Reducing Conditions
+T23	Substrate 2409 2415	Sulfur
+T24	Property 2368 2384	Sulfate-Reducing
+T25	Property 2508 2524	sulfate-reducing
+T26	Microbes 2743 2761	enrichment culture
+T27	Environment 2776 2785	sediments
+T28	ReactionOrProcess 2743 2753	enrichment
+T29	Microbes 3052 3080	Desulfosarcina/Desulfococcus
+T30	Microbes 3052 3066	Desulfosarcina
+T31	Substrate 3248 3255	methane
+T32	Substrate 3300 3306	sulfur
+T33	Property 3170 3179	dissolved
+T34	ReactionOrProcess 3235 3244	oxidation
+T35	ReactionOrProcess 3225 3244	anaerobic oxidation
+T36	ReactionOrProcess 3264 3273	reduction
+T37	Nutrient 3190 3196	carbon
+R1	CarriedOn Arg1:T34 Arg2:T31
+R2	CarriedOn Arg1:T34 Arg2:T32
+R3	CarriedOn Arg1:T35 Arg2:T31
+R4	CarriedOn Arg1:T35 Arg2:T32
+R5	CarriedOn Arg1:T36 Arg2:T32
+T38	ReactionOrProcess 3560 3565	redox
+T39	ReactionOrProcess 3394 3403	reduction
+T40	Substrate 3590 3596	sulfur
+T41	Nutrient 3765 3771	carbon
+T42	Substrate 4040 4046	sulfur
+T43	Property 4318 4334	sulfate-reducing
+T44	Substrate 4542 4549	methane
+T45	Substrate 4564 4570	sulfur
+T46	ReactionOrProcess 4550 4559	oxidation
+R6	CarriedOn Arg1:T46 Arg2:T45
+T47	Microbes 4901 4911	consortium
+T48	Environment 4950 4958	sediment
+T49	Environment 4937 4958	Twentekanaal sediment
+T50	Substrate 4708 4715	Nitrite
+T51	Substrate 4708 4743	Nitrite-Dependent Anaerobic Methane
+T52	Substrate 4736 4743	Methane
+T53	Substrate 4798 4805	methane
+T54	ReactionOrProcess 4744 4753	Oxidation
+T55	ReactionOrProcess 4806 4815	oxidation
+T56	ReactionOrProcess 4827 4842	denitrification
+T57	Microbes 5089 5096	archaea
+T58	Microbes 5118 5130	Methanosaeta
+T59	Microbes 5277 5284	archaea
+T60	Property 5453 5465	denitrifying
+T61	ReactionOrProcess 5453 5465	denitrifying
+T62	Enzyme 5739 5752	monooxygenase
+T63	Substrate 5696 5703	methane
+T64	ReactionOrProcess 5704 5713	oxidation
+T65	ReactionOrProcess 5804 5819	denitrification
+T66	ReactionOrProcess 5870 5879	reduction
+T67	Substrate 6324 6331	nitrite
+T68	ReactionOrProcess 6311 6320	reduction
+T69	Nutrient 6434 6440	oxygen
+R7	CarriedOn Arg1:T68 Arg2:T67

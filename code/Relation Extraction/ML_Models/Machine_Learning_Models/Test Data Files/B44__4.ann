@@ -1,0 +1,33 @@
+T1 Substrate 143 154 hydrocarbon
+T2 ReactionOrProcess 181 195 mineralization
+T3 ReactionOrProcess 116 130 biodegradation
+T4 Microbes 299 317 Pseudomonas putida
+T5 Substrate 433 440 benzene
+T6 Substrate 442 449 toluene
+T7 Substrate 455 467 ethylbenzene
+T8 Substrate 714 725 hydrocarbon
+T9 Substrate 531 543 hydrocarbons
+T10 ReactionOrProcess 698 708 catabolism
+T11 Environment 2006 2011 water
+T12 Substrate 1088 1101 phenylalanine
+T13 Nutrient 1703 1710 glucose
+T14 Substrate 2334 2342 Amersham
+T15 ReactionOrProcess 2587 2598 evaporation
+T16 ReactionOrProcess 2525 2534 incubated
+T17 Environment 2705 2710 water
+T18 ReactionOrProcess 3381 3396 electrophoresis
+T19 ReactionOrProcess 3507 3522 electrophoresis
+T20 Substrate 4461 4472 hydrocarbon
+T21 Substrate 4575 4582 Benzene
+T22 Substrate 4589 4596 toluene
+T23 Substrate 4603 4611 o-xylene
+T24 Substrate 4633 4655 1,2,4-trimethylbenzene
+T25 Substrate 4681 4692 naphthalene
+T26 Substrate 4662 4674 ethylbenzene
+T27 Substrate 4699 4705 hexane
+T28 Substrate 4618 4626 p-xylene
+T29 Substrate 4850 4881 regular-grade unleaded gasoline
+R1 CarriedOn Arg1:T2 Arg2:T1
+R2 CarriedOn Arg1:T3 Arg2:T1
+R6 CarriedOn Arg1:T10 Arg2:T8
+R7 CarriedOn Arg1:T10 Arg2:T9

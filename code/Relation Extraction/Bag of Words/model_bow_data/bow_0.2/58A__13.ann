@@ -1,0 +1,78 @@
+T1	Property 13 21	aromatic
+T2	Property 298 310	methanogenic
+T3	Property 298 310	methanogenic
+T4	ReactionOrProcess 443 451	reducing
+T5	ReactionOrProcess 417 431	biodegradation
+T6	Microbes 584 594	consortium
+T7	Property 571 583	methanogenic
+T8	Property 571 583	methanogenic
+T9	ReactionOrProcess 554 565	degradation
+T10	Property 729 741	methanogenic
+T11	Property 729 741	methanogenic
+T12	Property 632 640	Aromatic
+T13	ReactionOrProcess 753 769	Biodegradability
+T14	ReactionOrProcess 1212 1228	biodegradability
+T15	ReactionOrProcess 1497 1506	reduction
+T16	Environment 1856 1876	anaerobic conditions
+T17	Substrate 1626 1648	Nsubstituted aromatics
+T18	Substrate 1784 1793	quinoline
+T19	Substrate 1639 1648	aromatics
+T20	Property 1639 1648	aromatics
+T21	ReactionOrProcess 1838 1849	biodegraded
+T22	Nutrient 1784 1793	quinoline
+T23	ReactionOrProcess 1941 1951	oxygenated
+T24	Enzyme 2070 2080	oxygenases
+T25	Nutrient 1991 1997	oxygen
+T26	Nutrient 2109 2115	oxygen
+T27	Environment 2307 2316	sediments
+T28	Environment 2298 2302	soil
+T29	Substrate 2155 2176	aromatic hydrocarbons
+T30	Substrate 2185 2192	benzene
+T31	Substrate 2194 2201	toluene
+T32	Substrate 2155 2176	aromatic hydrocarbons
+T33	Substrate 2148 2175	Simple aromatic hydrocarbon
+T34	Substrate 2148 2176	Simple aromatic hydrocarbons
+T35	Substrate 2203 2214	naphthalene
+T36	Substrate 2164 2176	hydrocarbons
+T37	Substrate 2164 2176	hydrocarbons
+T38	Substrate 2148 2176	Simple aromatic hydrocarbons
+T39	Property 2155 2163	aromatic
+T40	ReactionOrProcess 2245 2253	degraded
+T41	Enzyme 2599 2609	oxygenases
+T42	Substrate 2433 2454	aromatic hydrocarbons
+T43	Substrate 2433 2454	aromatic hydrocarbons
+T44	Substrate 2425 2454	complex aromatic hydrocarbons
+T45	Substrate 2442 2454	hydrocarbons
+T46	Substrate 2442 2454	hydrocarbons
+T47	Property 2433 2441	aromatic
+T48	Environment 2730 2752	anaerobic environments
+T49	Substrate 2661 2682	aromatic hydrocarbons
+T50	Substrate 2661 2682	aromatic hydrocarbons
+T51	Substrate 2670 2682	hydrocarbons
+T52	Substrate 2670 2682	hydrocarbons
+T53	Property 2661 2669	aromatic
+T54	Environment 2880 2902	methanogenic sediments
+T55	Environment 2893 2902	sediments
+T56	Environment 2880 2902	methanogenic sediments
+T57	Substrate 2813 2834	aromatic hydrocarbons
+T58	Substrate 2813 2834	aromatic hydrocarbons
+T59	Substrate 2806 2834	simple aromatic hydrocarbons
+T60	Substrate 2822 2834	hydrocarbons
+T61	Substrate 2822 2834	hydrocarbons
+T62	Substrate 2806 2834	simple aromatic hydrocarbons
+T63	Property 2856 2868	methanogenic
+T64	Property 2880 2892	methanogenic
+T65	Property 2856 2868	methanogenic
+T66	Property 2880 2892	methanogenic
+T67	Property 2813 2821	aromatic
+T68	ReactionOrProcess 2844 2852	degraded
+T69	Microbes 3130 3149	enrichment cultures
+T70	Environment 3283 3292	sediments
+T71	Environment 3275 3282	aquifer
+T72	Substrate 3091 3098	toluene
+T73	Substrate 3103 3111	o-xylene
+T74	Property 3168 3180	methanogenic
+T75	Property 3168 3180	methanogenic
+T76	ReactionOrProcess 3266 3274	reducing
+T77	ReactionOrProcess 3130 3140	enrichment
+T78	ReactionOrProcess 3112 3126	biodegradation

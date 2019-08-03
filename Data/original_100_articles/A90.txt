@@ -1,0 +1,638 @@
+A90
+Deep-Sea Oil Plume Enriches Indigenous
+Oil-Degrading Bacteria
+Terry C. Hazen,1* Eric A. Dubinsky,1 Todd Z. DeSantis,1 Gary L. Andersen,1 Yvette M. Piceno,1
+Navjeet Singh,1 Janet K. Jansson,1 Alexander Probst,1 Sharon E. Borglin,1 Julian L. Fortney,1
+William T. Stringfellow,1,2 Markus Bill,1 Mark E. Conrad,1 Lauren M. Tom,1 Krystle L. Chavarria,1
+Thana R. Alusi,1 Regina Lamendella,1 Dominique C. Joyner,1 Chelsea Spier,2 Jacob Baelum,1
+Manfred Auer,1 Marcin L. Zemla,1 Romy Chakraborty,1 Eric L. Sonnenthal,1 Patrik D’haeseleer,4
+Hoi-Ying N. Holman,1 Shariff Osman,1 Zhenmei Lu,3 Joy D. Van Nostrand,3 Ye Deng,3
+Jizhong Zhou,1,3 Olivia U. Mason1
+The biological effects and expected fate of the vast amount of oil in the Gulf of Mexico from
+the Deepwater Horizon blowout are unknown owing to the depth and magnitude of this event.
+Here, we report that the dispersed hydrocarbon plume stimulated deep-sea indigenous
+g-Proteobacteria that are closely related to known petroleum degraders. Hydrocarbon-degrading
+genes coincided with the concentration of various oil contaminants. Changes in hydrocarbon
+composition with distance from the source and incubation experiments with environmental isolates
+demonstrated faster-than-expected hydrocarbon biodegradation rates at 5°C. Based on these
+results, the potential exists for intrinsic bioremediation of the oil plume in the deep-water column
+without substantial oxygen drawdown.
+Assessing the environmental and public
+health impacts of the Deepwater Horizon
+blowout is difficult owing to the extreme
+depth of the blowout and the large volumes of oil
+released. Moreover, the effectiveness of the primary
+initial mitigation strategy (e.g., injecting the
+oil dispersant Corexit 9500 directly at the wellhead
+in a water depth of 1544 m) is difficult to
+assess despite initial analysis of its potential toxicity
+(1). An optional strategy for remediation of
+the deep underwater plume is to use the intrinsic
+bioremediation potential of deep-sea microorganisms
+to degrade the oil. This strategy depends
+on a number of environmental factors, including
+a favorable response of indigenous microorganisms
+to an increased concentration of hydrocarbons
+and/or dispersant.
+To determine the impact of the deep hydrocarbon
+plume on the marine microbes residing in
+the plume and the rates of hydrocarbon biodegradation,
+we collected deep-water samples from
+two ships between 25May 2010 and 2 June 2010.
+In total, we analyzed the physical, chemical, and
+microbiological properties (fig. S1) of 17 deepwater
+samples fromacross the Gulf ofMexico (2).
+1MS 70A-3317, One Cyclotron Road, Lawrence Berkeley National
+Laboratory, Berkeley, CA 94720, USA. 2University of the
+Pacific, Ecological Engineering Research Program, 3601 Pacific
+Avenue, Stockton, CA 95211, USA. 3University of Oklahoma,
+101 David L. Boren Boulevard, Norman, OK 73072, USA.
+4Biosciences and Biotechnology Division, Lawrence Livermore
+National Laboratory, Livermore, CA 94550, USA.
+*To whom correspondence should be addressed. E-mail:
+tchazen@lbl.gov
+204 8 OCTOBER 2010 VOL 330 SCIENCE www.sciencemag.org
+REPORTS
+Downloaded from http://science.sciencemag.org/ on June 21, 2017
+We detected a deep-sea oil plume from 1099
+to 1219 m at distances of up to 10 km from the
+wellhead (fig. S2). Owing to its composition
+(fig. S3), the plume was likely dispersed MC252
+oil, a conclusion also reached by Camilli et al.
+(3). At most locations where the plume was detected,
+there was a slight decrease in oxygen
+concentration indicative of microbial respiration
+and oxygen consumption, as would be expected
+if the hydrocarbons were being catabolized (Fig. 1).
+Oxygen saturation within the plume averaged
+59%, while outside the plume it was 67%. Extractable
+hydrocarbons (e.g., octadecane) ranged
+from nondetectable in the nonplume samples to
+9.21 mg/liter in plume samples (table S1). Volatile
+aromatic hydrocarbons were significantly higher
+in the plume interval (mean 139 mg/liter) than in
+the nonplume samples from similar depths. The
+average temperature within the plume interval
+was 4.7°C and the pressure was 1136 dB. Soluble
+orthophosphate, and total ammonia-N, were detected
+at similar concentrations within and outside
+the plume interval (table S1).
+The dispersed oil plume affected both microbial
+cell densities and composition (Fig. 1 and
+table S1). Cell densities in the plume (5.51 T 0.33 ×
+104 cells/ml) were higher than outside the plume
+(2.73 T 0.05 × 104 cells/ml). Phospholipid fatty
+acid analysis also confirmed an increase in microbial
+biomass in the plume (0.57 pmol lipids/ml)
+versus outside the plume (0.23 pmol lipids/ml)
+(table S1). In addition to the observed increase in
+cell densities, PhyloChip 16S ribosomal RNA
+(rRNA) microarray analysis (fig. S4) suggests
+that the plume significantly altered the microbial
+community composition and structure. Ordination
+of bacterial and archaeal 16S rRNA gene composition
+revealed two distinct clusters of samples:
+one composed entirely of plume samples with
+detected oil and the other of nonplume samples
+(Fig. 2). No physical or chemical factors other
+than hydrocarbons and nitrates were significantly
+different between these groups (table S1),
+indicating that microorganisms were responding
+directly to the presence of dispersed oil.
+In plume samples, PhyloChip analysis revealed
+that 951 distinct bacterial taxa in 62 phyla
+were present (fig. S4), but only 16 distinct taxa
+that were all classified as g-Proteobacteria were
+significantly enriched in the plume relative to nonplume
+samples (table S2 and fig. S5). Nearly all
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+Depth [m]
+0 5 10 15 20 25 30 35
+Fluorescence [mg/m3]
+bm53
+1.65 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+0 5 10 15 20 25 30 35
+Fluorescence [mg/m3]
+bm57
+5.14 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+0 5 10 15 20 25 30 35
+Fluorescence [mg/m3]
+bm58
+10.08 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+0 5 10 15 20 25 30 35
+Fluorescence [mg/m3]
+bm61 Outside Plume
+5.06 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+Depth [m]
+20 30 40 50 60 70 80 90 100
+Dissolved Oxygen [% Sat]
+bm53
+1.65 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+20 30 40 50 60 70 80 90 100
+Dissolved Oxygen [% Sat]
+bm57
+5.14 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+20 30 40 50 60 70 80 90 100
+Dissolved Oxygen [% Sat]
+bm58
+10.08 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+20 30 40 50 60 70 80 90 100
+Dissolved Oxygen [% Sat]
+bm61 Outside Plume
+5.06 km
+3.0 3.5 4.0 4.5 5.0 5.5
+Cell Density [log cells/ml]
+Fig. 1. Characteristic depth profiles of cell density, fluorescence, and dissolved oxygen for distances from the source (BM53, BM57, and BM58) and one
+nonplume site (BM61). Diamonds indicate cell density.
+www.sciencemag.org SCIENCE VOL 330 8 OCTOBER 2010 205
+REPORTS
+Downloaded from http://science.sciencemag.org/ on June 21, 2017
+of these enriched taxa have representatives that
+degrade hydrocarbons or are stimulated by the
+presence of oil in cold environments (table S2).
+Plume-enriched bacteria include many psychrophilic
+and psychrotolerant species that have been
+observed in low-temperaturemarine environments
+(table S2) (4–6). Although cell densities are higher
+in the plume, taxonomic richness was lower
+and the diversity of enriched bacteria was restricted
+to a few g-Proteobacteria.
+Cloning and sequencing revealed that deepsea
+plume samples from station BM58 (~10.08 km
+from the MC252 wellhead) and station OV011
+(~1.5 km from the wellhead) were dominated by
+the order Oceanospirillales in the g-Proteobacteria.
+More than 90% of all sequences in both plume
+samples (10 km between sampling stations) belonged
+to a single operational taxonomic unit
+(OTU) that is most closely related to Oceanospirillales
+(Fig. 3). In a control sample (site OV003)
+collected 39.1 km southwest of the wellhead, this
+same OTU represented only 5% of all sequences
+analyzed (Fig. 3). In addition, this taxon was
+detected in all 10 oil plume samples analyzed by
+the PhyloChip and was significantly enriched
+relative to background deep seawater with no oil
+(table S1). The cultured representatives most closely
+related to the OTU in plume samples were
+Spongiispira norvegica (95% similar) and Oceaniserpentilla
+haliotidis (94% similar). The observed
+sequences in the plume samples form a clade with
+two distinct Oceanospirillales groups. One of these
+groups is largely composed of known psychrophilic
+hydrocarbon degraders and microorganisms from
+hydrocarbon-dominated environments (5, 7, 8),
+including Oleispira antarctica, Thalassolituus
+oleivorans, and Oleiphilus messinensis (fig. S5).
+The three dominant phospholipid fatty acids
+detected in the plume samples were C16:0,
+Fig. 2. Microbial community
+analysis of deepwater
+plumeand nonplume
+samples. Differences in
+composition of (A) 16S
+rRNA gene sequences
+measured by PhyloChip
+and (B) phospholipid fatty
+acids were analyzed
+with nonmetric multidimensional
+scaling ordination
+of Bray-Curtis distances
+(stress = 3.98 and 4.55,
+respectively). Plume and
+nonplume communities
+were significantly different
+as determined by permutational
+analysis of
+variance (P = 0.005 for
+both) and delineated
+with lines for clarity.
+Fig. 3. SR-FTIR images (~60 mm
+by 60 mm) showing the distribution
+ofmicroorganisms, oil, and oil degradation
+products in a “floc.”
+Distribution heat map of the protein
+amide II vibration modes at
+~1542 cm−1 and the carbohydrates
+vibration modes at ~1000 cm−1
+(20). Distribution heat map of alkane
+C-H vibration modes in oil from
+MC252. Distribution heat map of
+carbonyl (C=O) vibration modes
+at ~1730 cm−1 in oil oxidation
+products, of nitrogen oxides vibration
+modes at ~1610 cm−1 in
+nitration products, and of sulfur oxides
+vibrationmodes at ~1150 cm−1
+in sulfation products. Scale bars:
+10 mm. Reflectance is given in percentage
+units.
+206 8 OCTOBER 2010 VOL 330 SCIENCE www.sciencemag.org
+REPORTS
+Downloaded from http://science.sciencemag.org/ on June 21, 2017
+C16:1w7c, and C18:1w9c (table S3), which have
+been reported as the dominant lipids in the
+Oleispirea antarctica, in some strains of the
+Oceaniserpentilla haliotis (4), and in a consortium
+of marine hydrocarbon-degrading bacteria
+(9). 18:1w9t/c ratios that have been reported to
+increase in oil-contaminated environments (10, 11)
+were slightly elevated in plume samples (average
+0.21) compared to nonplume samples (average
+0.14) but were not strongly correlated with oil
+concentrations (table S1). Multivariate analysis
+of phospholipid fatty acid (PLFA) profiles from
+each sample revealed distinct clustering of plume
+and nonplume samples similar to community
+analysis of microarray data (Fig. 2).
+Microscopic examination of cells collected
+within the plume also revealed that the dominant
+cell type exhibits a distinctive morphology typical
+of the Oceanospirillales (Fig. 4). Total bacterial
+densities were also significantly correlated
+with MC252 alkane concentration in the plume
+(fig. S5). Synchrotron radiation–based Fouriertransform
+infrared (SR-FTIR) spectromicroscopy
+revealed absorptions at ~1730, ~1610, and ~1150
+cm−1 that are associated with biomolecule-rich
+regions of a cellular floc (Fig. 3). These absorption
+features arewell described for the carbonyl (C=O),
+nitrogen oxides, and sulfur oxides vibrationmodes
+(12) and are characteristic of oil degradation
+products (13). These SR-FTIR spectra are not
+consistent with those typically found in marine
+macroaggregates (14), nor are they consistent with
+nonplume samples at the same depth.
+To understand the distribution of oil-degrading
+genes within the plume, we analyzed five samples
+(BM053, BM054, BM057, BM058, BM064)
+from the MC252 dispersed oil plume as well as
+five uncontaminated, control samples (OV003,
+OV004, OV009, OV013 and OV014) collected
+from plume depth with GeoChip functional array
+(table S4) (15, 16). Altogether, 4000 to 5000 functional
+genes were detected per sample, among
+which 1652 genes are involved in hydrocarbon
+degradation. Detrended correspondence analysis
+showed that microbial community functional composition
+and structure were considerably different
+between oil-plume and nonplume control samples
+(fig. S7), which is consistent with PhyloChip analysis.
+Many of the genes involved in hydrocarbon
+degradation were significantly (P < 0.05 or 0.01)
+increased in oil plume samples (figs. S8 and S9).
+Statistical analysis by Mantel test showed that
+the overall microbial functional composition and
+structure were significantly correlated with many
+key oil contaminants, including isopropylbenzene,
+n-propylbenzene, tert-butylbenzene, 1,2,4-trimethylbenzene,
+p-isopropyltoluene, n-butylbenzene,
+and naphthalene (table S5). Analysis based on
+individual genes showed that the changes of
+many hydrocarbon degradation genes are significantly
+correlated with the concentrations of oil
+contaminants (table S6). For instance, the phdCI
+gene encoding carboxylate isomerase for naphthalene
+degradation correlates with several hydrocarbons
+(table S6). These results indicated that a
+variety of hydrocarbon-degrading populations exist
+in the deep-sea plume and that the microbial communities
+appear to be undergoing rapid dynamic
+adaptation in response to oil contamination. These
+results also imply that there exists a potential for
+intrinsic bioremediation of oil contaminants in the
+deep sea and that oil-degrading communities could
+play an important role in controlling the ultimate
+fates of hydrocarbons in the Gulf.
+The bioremediation potential largely depends
+on the rates of biodegradation in the plume. We
+calculated maximum biodegradation rates using
+two data sets from the field and two from
+laboratory microcosms representing concentrations
+of C13 to C26 n-alkanes (table S7). The
+degradation rate coefficients and half-life values
+(table S7 and figs. S10 and S11), calculated from
+the alkane data from these four sources with the
+first-order rate equation (10, 17), are similar to
+those reported for comparable temperature and
+field conditions (10, 17–19). Despite the varying
+field and microcosm conditions, the oil half-lives
+are 1.2 to 6.1 days (table S7). The field half-lives
+should in part reflect the effect of mixing and
+dilution, but the similarity of the rate of disappearance
+of alkanes in the plume to the rates
+observed in the laboratory suggest it is possible
+that the actual degradation of alkanes lies within
+this range. The possibility that biodegradation
+largely controls the disappearance of alkanes is
+also supported by the preferential degradation of
+short-chain alkanes, as represented in the increase
+in the ratio of C26/C15 alkanes over 10 km, from
+less than 1 tomore than 3 (fig. S18). For each data
+set, decay constants were similar for all alkanes
+measured in all samples, with the exception of the
+plume samples from the nonlipid fraction collected
+on 0.2-mm filters. Because these results
+represent extraction from free-phase oil or oil
+absorbed to the membrane filter, it is likely that
+the higher rates seen for the shorter-chain alkanes
+are due to additional losses in collected sample
+resulting from dissolution into seawater; however,
+there is a correlation of longer-chain alkane concentration
+with cell densities in the plume (fig.
+S6). The oil biodegradation rates reported here at
+5°C are explained partly by the relatively light
+nature of this crude (which contains a large volatile
+component that is more readily degraded),
+the dispersed nature of the deep plume (small oil
+particle size), the low overall concentrations of
+oil in the deep plume, and the frequent episodic
+oil leaks from natural seeps in this area that the
+deep-sea microbial community may have adapted
+to over long periods of time.
+References and Notes
+1. R. S. Judson et al., Environ. Sci. Technol. 44, 5979 (2010).
+2. Materials and methods are available on Science Online.
+3. R. Camilli et al., Science 330, 201 (2010); published
+online 19 August 2010 (10.1126/science.1195223).
+4. A. Schlösser, A. Lipski, J. Schmalfuss, F. Kugler,
+G. Beckmann, Int. J. Syst. Evol. Microbiol. 58, 2122 (2008).
+5. M. M. Yakimov et al., Int. J. Syst. Evol. Microbiol. 53, 779 (2003).
+6. M. M. Yakimov, K. N. Timmis, P. N. Golyshin, Curr. Opin.
+Biotechnol. 18, 257 (2007).
+7. G. Gentile et al., Environ. Microbiol. 8, 2150 (2006).
+8. M. M. Yakimov et al., FEMS Microbiol. Ecol. 49, 419 (2004).
+9. E. Aries, P. Doumenq, J. Artaud, M. Acquaviva,
+J. C. Bertrand, Org. Geochem. 32, 891 (2001).
+Bermanella marisrubri strain RED65, AY136131
+Oceaniserpentilla haliotidis, AM747817
+Uncultured Oleispira sp. clone F3C18, AY697896
+Spongiispira norvegica, AM117931
+Uncultured gamma proteobacterium clone SS1_B_07_22, EU050833
+Uncultured Oceanospirillales clone OV00301-06 (non-plume, 5% of clones), HM587888
+Uncultured Oceanospirillales clone BM580104-10 (plume, 95% of clones), HM587889
+Uncultured Oceanospirillales clone OV01102/03-20 (plume, 90% of c lones),HM587890
+73
+98
+93
+Oleispira antarctica, AJ426421
+Oleispira sp. ice-oil-381, DQ521390
+Oleispira sp. gap-e-97, DQ530482
+Uncultured bacterium clone ARKDMS-13, AF468253
+Uncultured bacterium clone ARKDMS-38, AF468248
+95
+53
+Thalassolituus oleivorans, AM279755
+Uncultured bacterium clone FS140-103B-02, DQ513004
+Oleiphilus messinensis, AJ302699
+93
+99
+5%
+=
+BM58 10 km
+BM54 1.3 km
+A B
+Fig. 4. (A) Dominant bacteria at 1099 to 1219 m (scanning electron micrograph) and acridine
+orange stain (inset) with distance from source. (B) Neighbor-joining tree showing the phylogenetic
+relationships of the dominant bacterium in deep-sea plume samples. Relative abundance of the
+dominant bacterium was 90 to 95% of plume samples and 5%of the nonplume sample (shown in parentheses). Psychrophilic, hydrocarbon-degrading bacteria,
+as well as uncultured organisms from low-temperature, hydrocarbon-dominated environments, are shown in blue. Organisms shown in red are either known
+hydrocarbon degraders or are from hydrocarbon-dominated ecosystems but are not from low-temperature environments. Bootstrap values based on 1000
+replicates of ≥50% are shown at branch points. Aquifex pyrophilus (GenBank accession M83548) was used as the outgroup.
+www.sciencemag.org SCIENCE VOL 330 8 OCTOBER 2010 207
+REPORTS
+Downloaded from http://science.sciencemag.org/ on June 21, 2017
+10. S. J. MacNaughton et al., Appl. Environ. Microbiol. 65,
+3566 (1999).
+11. S. M. Pfiffner et al., Geomicrobiol. J. 23, 431 (2006).
+12. G. Socrates, Infrared and Raman Characteristics Group
+Frequencies—Tables and Charts (Wiley, Chichester, UK,
+ed. 3, 2001).
+13. N. Robinson, Wearcheck Tech. Bull. (2000);
+www.machinerylubrication.com/Read/1109/oil-degradationspectroscopy.
+14. N. Kovac, O. Bajt, J. Faganeli, B. Sket, B. Orel,
+Mar. Chem. 78, 205 (2002).
+15. Z. He et al., ISME J. 4, 1167 (2010).
+16. Z. L. He et al., ISME J. 1, 67 (2007).
+17. A. D. Venosa, E. L. Holder, Mar. Pollut. Bull. 54, 545 (2007).
+18. R. Atlas, J. Bragg, Microb. Biotechnol. 2, 213 (2009).
+19. O. G. Brakstad, K. Bonaunet, Biodegradation 17,
+71 (2006).
+20. D. Naumann, in Encyclopedia of Analytical Chemistry,
+R. Meyers, Ed. (Wiley, Chichester, UK, 2000), pp. 102–131.
+21. This work was supported by a subcontract from the
+University of California at Berkeley, Energy Biosciences
+Institute, to Lawrence Berkeley National Laboratory under
+U.S. Department of Energy contract DE-AC02-05CH11231
+and by the University of Oklahoma Research Foundation.
+The Energy Biosciences Institute is funded by British
+Petroleum. The SR-FTIR work was conducted at the infrared
+beamline at the Advanced Light Source, which is supported
+by the Director, Office of Science, Office of Basic Energy
+Sciences, of the U.S. Department of Energy. We thank
+T. Pollard, K. Keller, M. Carrera, P. Willems, P. Carragher,
+P. Collinson, S. Lisiecki, P. Vaishampayan, R. Graham,
+J. Wong, N. Duncan, D. Long, and N. Tam for logistical and
+technical support. We also thank the captain, crew,
+and science teams aboard the R/V Ocean Veritas and the
+R/V Brooks McCall. The National Center for Biotechnology
+Information accession numbers of the 16S rRNA genes
+retrieved from clone library analyses are HM587888,
+HM587889, and HM587890. Sequences for 16S rRNA
+are also available at greengenes.lbl.gov.
+Supporting Online Material
+www.sciencemag.org/cgi/content/full/science.1195979/DC1
+Methods
+Figs. S1 to S18
+Tables S1 to S8
+References
+2 August 2010; accepted 20 August 2010
+Published online 24 August 2010;
+10.1126/science.1195979
+Include this information when citing this paper.
+Propane Respiration Jump-Starts
+Microbial Response to a Deep Oil Spill
+David L. Valentine,1* John D. Kessler,2 Molly C. Redmond,1 Stephanie D. Mendes,1
+Monica B. Heintz,1 Christopher Farwell,1 Lei Hu,2 Franklin S. Kinnaman,1 Shari Yvon-Lewis,2
+Mengran Du,2 Eric W. Chan,2 Fenix Garcia Tigreros,2 Christie J. Villanueva1
+The Deepwater Horizon event resulted in suspension of oil in the Gulf of Mexico water column
+because the leakage occurred at great depth. The distribution and fate of other abundant
+hydrocarbon constituents, such as natural gases, are also important in determining the impact
+of the leakage but are not yet well understood. From 11 to 21 June 2010, we investigated dissolved
+hydrocarbon gases at depth using chemical and isotopic surveys and on-site biodegradation
+studies. Propane and ethane were the primary drivers of microbial respiration, accounting for up
+to 70% of the observed oxygen depletion in fresh plumes. Propane and ethane trapped in the
+deep water may therefore promote rapid hydrocarbon respiration by low-diversity bacterial blooms,
+priming bacterial populations for degradation of other hydrocarbons in the aging plume.
+The oil leakage following the sinking of the
+Deepwater Horizon in the Gulf ofMexico
+was unprecedented because it occurred at
+1.5-km water depth. The slow buoyant migration
+of petroleum from this depth allows time for dissolution
+of volatile hydrocarbons (1–3), including
+the natural gases methane (CH4), ethane (C2H6),
+propane (C3H8), and butane (C4H10), that would
+readily escape to the atmosphere if released in
+shallow water. The resulting plumes of dissolved
+gas may co-occur with oil in the water (3) or may
+occur without oil because of gas fractionation
+processes during ascent (4). Based on the cumulative
+discharge estimates through 1 August 2010
+(5) and a gas-to-oil ratio of 3000 ft3 barrel–1 (at atmospheric
+pressure), 1.5 × 1010 moles of natural
+gas were potentially emitted to the deep water
+over the course of the spill, in addition to the oil
+(6). We investigated the distribution, fate, and
+impacts of these hydrocarbons at 31 stations located
+1 to 12.5 km from the active spill site (Fig.
+1A) during the PLUMES (Persistent and Localized
+Underwater Methane Emission Study)
+expedition of the research vessel Cape Hatteras,
+11 to 21 June 2010 (6).
+In the vicinity of the leaking well, propane,
+ethane, and methaneweremost abundant at depths
+greater than 799 m and formed plume structures
+(Fig. 1C and figs. S1 to S3) with dissolved concentrations
+as high as 8 mM, 16 mM, and 180 mM
+for the three gases, respectively. These gases were
+orders of magnitude less concentrated at shallower
+depths, confirming suggestions (7), results from
+a noncalibrated spectrometric survey (3), and
+models (1, 2) that the majority of the emanated
+gas dissolves or is otherwise partitioned (e.g., as
+gas hydrate) at depth and remains there. We
+defined a hydrocarbon plume by a methane concentration
+>500 nM, which is roughly 20 to 50
+times as high as background levels of methane
+in the Gulf of Mexico (8) and is above the methane
+levels typically found around natural seeps
+(9–13).We observed deep (>799 m) hydrocarbon
+plumes at 29 of the 31 stations where methane
+measurements were made. One persistent plume
+at 1000- to 1200-m depth located to the southwest
+of the spill site (Fig. 1C) was identified previously
+(3, 14–16). We also identified separate
+plumes at similar depths to the north and to the
+east, as well as a distinctive shallower plume at
+800- to 1000-m depth also located to the east
+(figs. S2 and S3). The multiple plumes in opposing
+directions presumably originated at different
+times and indicate complex current patterns in the
+area before sampling.
+The ratio of methane to ethane and propane
+varied substantially throughout the deep plumes.
+At the locations with highest hydrocarbon concentrations,
+the lower end-member values approached
+10.85 for CH4/C2H6 (Fig. 2A) and 19.8
+for CH4/C3H8 (Fig. 2B) and could therefore represent
+the gas ratios at the plume origin. Numerous
+locations display higher ratios, whichwe interpret
+as preferential loss of propane and ethane relative
+to methane, a pattern reported previously for biodegradation
+in hydrocarbon seeps (17). Variation
+in the C2H6/C3H8 ratio (Fig. 2C) further suggests
+preferential loss of propane compared with ethane,
+also an established biodegradation pattern
+(17). Methane’s conservative behavior is supported
+by generally slow rates of oxidation, as measured
+with a tritium tracer approach (table S1).
+Because bacterial propane, ethane, and methane
+consumption occurs with characteristic kinetic
+isotope effects (17), we measured the carbon
+isotopic composition of these gases in deep plume
+waters to assess the extent of their biodegradation.
+Sampleswith CH4/C3H8 > 19.8 displayed a relative
+13C-enrichment in propane.Comparison of the 13Cpropane
+enrichment to the fractional loss of propane
+(Fig. 2D), determined from the CH4/C3H8 ratio,
+indicates that biodegradation occurs (18, 19) with
+an isotopic enrichment factor (e) of –6.3. The value
+of e for ethane (–11.8) based on CH4/C2H6 ratios
+also suggests that biodegradation is occurring.
+Both values are similar to the minimum respective
+values of –5.9 and –11.2 determined from a previous
+mesocosm study (17). A lack of notable 13C
+enrichment for methane [d13C-CH4 = –61.1 T
+2.2‰ (per mil); n = 18] is further evidence of its
+conservative behavior in the fresh plumes.
+To assess the importance of ethane and propane
+as aerobic respiratory substrates, we compared
+their loss patterns with observed oxygen
+anomalies in the deep-water column (Fig. 1B).
+Oxygen levels, measured in situ with an oxygen
+sensor and confirmed onboard ship through
+Winkler titrations, systematically declined in the
+plume horizon (Fig. 1D and fig. S4). Regression
+of the observed oxygen anomaly against the propane
+anomaly (6) indicates that 58% of the oxygen
+anomaly can be linked to propane (Fig. 3A).
+1Department of Earth Science and Marine Science Institute,
+University of California, Santa Barbara, CA 93106, USA. 2Department
+of Oceanography, Texas A&M University, College Station,
+TX 77843–3146, USA.
+*To whom correspondence should be addressed. E-mail:
+valentine@geol.ucsb.edu
+208 8 OCTOBER 2010 VOL 330 SCIENCE www.sciencemag.org
+REPORTS
+Downloaded from http://science.sciencemag.org/ on June 21, 2017
+Deep-Sea Oil Plume Enriches Indigenous Oil-Degrading Bacteria
+Joy D. Van Nostrand, Ye Deng, Jizhong Zhou and Olivia U. Mason
+Marcin L. Zemla, Romy Chakraborty, Eric L. Sonnenthal, Patrik D'haeseleer, Hoi-Ying N. Holman, Shariff Osman, Zhenmei Lu,
+Krystle L. Chavarria, Thana R. Alusi, Regina Lamendella, Dominique C. Joyner, Chelsea Spier, Jacob Baelum, Manfred Auer,
+Alexander Probst, Sharon E. Borglin, Julian L. Fortney, William T. Stringfellow, Markus Bill, Mark E. Conrad, Lauren M. Tom,
+Terry C. Hazen, Eric A. Dubinsky, Todd Z. DeSantis, Gary L. Andersen, Yvette M. Piceno, Navjeet Singh, Janet K. Jansson,
+DOI: 10.1126/science.1195979originally published online August 24, 2010
+Science 330 (6001), 204-208.
+sampling or the aging of the plumes.
+dissolved oxygen levels in the plumes (a proxy for bacterial respiration), which may reflect differences in the location of
+biodegradation of larger hydrocarbons, including those comprising the leaking crude oil. Differences were observed in
+were also present in hydrocarbon plumes. These gases were broken down quickly by bacteria, but primed the system for
+Finally, Valentine et al. (p. 208; published online 16 September) found that natural gas, including propane and ethane,
+found that hydrocarbon-degrading bacteria were enriched in the plume and were breaking down some parts of the oil.
+plume. Hazen et al. (p. 204; published online 26 August) also observed an underwater plume at the same depth and
+long and estimated the daily quantity of oil released from the well, based on the concentration and dimensions of the
+automated underwater vehicle to assess the dimensions of a stabilized, diffuse underwater plume of oil that was 22 miles
+June, 2010--before the well head was ultimately sealed. Camilli et al. (p. 201; published online 19 August) used an
+column. Three separate cruises identified and sampled deep underwater hydrocarbon plumes that existed in May and
+bottom of the sea floor posed an unanticipated risk as substantial amounts of hydrocarbons leaked into the deepwater
+The Deepwater Horizon oil spill in the Gulf of Mexico was one of the largest oil spills on record. Its setting at the
+Diving into Deep Water
+ARTICLE TOOLS http://science.sciencemag.org/content/330/6001/204
+PERMISSIONS http://www.sciencemag.org/help/reprints-and-permissions
+Use of this article is subject to the Terms of Service
+Science is a registered trademark of AAAS.
+licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. The title
+Science, 1200 New York Avenue NW, Washington, DC 20005. 2017 © The Authors, some rights reserved; exclusive
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement of
+Downloaded from http://science.sciencemag.org/ on June 21, 2017

@@ -1,0 +1,80 @@
+T1	Environment 187 198	groundwater
+T2	Environment 4 11	aquifer
+T3	Environment 37 49	eolian sands
+T4	Environment 361 372	groundwater
+T5	Environment 242 247	water
+T6	Property 373 384	temperature
+T7	Environment 534 539	plume
+T8	Environment 583 588	plume
+T9	Environment 620 627	aquifer
+T10	ReactionOrProcess 544 553	depletion
+T11	ReactionOrProcess 651 675	intrinsic bioremediation
+T12	Nutrient 557 575	electron acceptors
+T13	Environment 766 773	aquifer
+T14	Substrate 958 969	hydrocarbon
+T15	Property 741 765	hydrocarbon-contaminated
+T16	ReactionOrProcess 941 950	oxidation
+T17	ReactionOrProcess 711 735	intrinsic bioremediation
+T18	ReactionOrProcess 796 807	utilization
+T19	ReactionOrProcess 847 858	utilization
+T20	Nutrient 866 884	electron acceptors
+T21	Nutrient 811 829	electron acceptors
+T22	Substrate 1012 1019	nitrate
+T23	Nutrient 1021 1045	bioavailable ferric iron
+T24	Nutrient 977 983	oxygen
+T25	ReactionOrProcess 1100 1114	methanogenesis
+T26	Nutrient 1150 1156	carbon
+T27	ReactionOrProcess 1233 1247	methanogenesis
+T28	ReactionOrProcess 1211 1228	sulfate reduction
+T29	Environment 1288 1295	aquifer
+T30	Substrate 1352 1359	nitrate
+T31	ReactionOrProcess 1414 1419	redox
+T32	Nutrient 1324 1342	electron acceptors
+T33	Environment 1495 1502	aquifer
+T34	ReactionOrProcess 1561 1566	redox
+T35	ReactionOrProcess 1587 1592	redox
+T36	ReactionOrProcess 1737 1746	reduction
+T37	ReactionOrProcess 1698 1712	methanogenesis
+T38	ReactionOrProcess 1760 1777	sulfate reduction
+T39	Nutrient 1752 1756	iron
+T40	ReactionOrProcess 1830 1833	PCR
+T41	ReactionOrProcess 1936 1939	PCR
+T42	ReactionOrProcess 2189 2203	methanogenesis
+T43	Nutrient 2115 2121	carbon
+T44	Environment 2288 2293	plume
+T45	Environment 2358 2369	groundwater
+T46	Environment 2331 2342	soil sample
+T47	Environment 2458 2469	Groundwater	
+T48	Environment 2500 2505	water
+T49	ReactionOrProcess 2506 2515	extracted
+T50	Environment 2652 2664	Soil samples	
+T51	Environment 3284 3295	groundwater
+T52	ReactionOrProcess 3211 3216	redox
+T53	Environment 3425 3443	methanogenic zones
+T54	Environment 3493 3500	aquifer
+T55	Property 3329 3341	methanogenic
+T56	Property 3404 3420	sulfate-reducing
+T57	ReactionOrProcess 3539 3548	reduction
+T58	ReactionOrProcess 3512 3529	sulfate reduction
+T59	Nutrient 3534 3538	iron
+T60	Environment 3624 3632	sediment
+T61	ReactionOrProcess 3609 3618	extracted
+T62	ReactionOrProcess 3565 3579	DNA extraction	
+T63	Environment 3735 3743	sediment
+T64	ReactionOrProcess 3955 3964	incubated
+T65	ReactionOrProcess 3748 3759	resuspended
+T66	Nutrient 3826 3830	NaCl
+T67	ReactionOrProcess 4091 4100	incubated
+T68	Property 4185 4190	speed
+T69	ReactionOrProcess 4409 4418	extracted
+R1	OccursIn_No Arg1:T10 Arg2:T7
+R2	OccursIn Arg1:T10 Arg2:T8
+R3	OccursIn_No Arg1:T10 Arg2:T9
+R4	OccursIn Arg1:T11 Arg2:T7
+R7	CarriedOn Arg1:T16 Arg2:T14
+R12	OccursIn Arg1:T17 Arg2:T13
+R19	OccursIn Arg1:T49 Arg2:T48
+R22	OccursIn Arg1:T57 Arg2:T54
+R24	OccursIn Arg1:T58 Arg2:T54
+R25	OccursIn Arg1:T61 Arg2:T60
+R28	OccursIn Arg1:T65 Arg2:T63

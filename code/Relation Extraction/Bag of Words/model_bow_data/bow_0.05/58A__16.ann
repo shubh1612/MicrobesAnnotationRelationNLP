@@ -1,0 +1,49 @@
+T1	Enzyme 34 51	lignin peroxidase
+T2	Environment 143 158	soil microcosms
+T3	Environment 148 158	microcosms
+T4	Environment 143 147	soil
+T5	Property 364 371	residue
+T6	Property 465 473	aromatic
+T7	Microbes 655 674	enrichment cultures
+T8	ReactionOrProcess 655 665	enrichment
+T9	Substrate 973 992	aromatic pollutants
+T10	Property 973 981	aromatic
+T11	Property 982 992	pollutants
+T12	ReactionOrProcess 1440 1453	anaerobically
+T13	ReactionOrProcess 1385 1392	degrade
+T14	ReactionOrProcess 1393 1404	aerobically
+T15	ReactionOrProcess 1527 1551	anaerobic mineralization
+T16	ReactionOrProcess 1587 1609	aerobic biodegradation
+T17	ReactionOrProcess 1537 1551	mineralization
+T18	ReactionOrProcess 1595 1609	biodegradation
+T19	Property 1666 1676	pollutants
+T20	ReactionOrProcess 1630 1644	mineralization
+T21	Property 1911 1921	pollutants
+T22	ReactionOrProcess 1871 1894	enhanced biodegradation
+T23	ReactionOrProcess 1880 1894	biodegradation
+T24	Property 2121 2131	pollutants
+T25	Property 2350 2358	aromatic
+T26	ReactionOrProcess 2422 2431	reduction
+T27	Environment 2530 2552	anaerobic environments
+T28	Property 2567 2579	methanogenic
+T29	Property 2567 2579	methanogenic
+T30	ReactionOrProcess 2512 2526	mineralization
+T31	Enzyme 2655 2665	oxygenases
+T32	Environment 2791 2813	anaerobic environments
+T33	ReactionOrProcess 2966 2990	anaerobic biodegradation
+T34	ReactionOrProcess 2976 2990	biodegradation
+T35	Environment 3206 3217	wastewaters
+T36	Environment 3429 3453	aerobic activated sludge
+T37	Substrate 3544 3565	aromatic hydrocarbons
+T38	Substrate 3544 3565	aromatic hydrocarbons
+T39	Substrate 3553 3565	hydrocarbons
+T40	Substrate 3553 3565	hydrocarbons
+T41	Property 3544 3552	aromatic
+T42	Property 3612 3622	pollutants
+T43	Environment 3838 3860	anaerobic environments
+T44	Substrate 3698 3719	aromatic hydrocarbons
+T45	Substrate 3686 3706	chlorinated aromatic
+T46	Substrate 3698 3719	aromatic hydrocarbons
+T47	Substrate 3707 3719	hydrocarbons
+T48	Substrate 3707 3719	hydrocarbons
+T49	Property 3698 3706	aromatic

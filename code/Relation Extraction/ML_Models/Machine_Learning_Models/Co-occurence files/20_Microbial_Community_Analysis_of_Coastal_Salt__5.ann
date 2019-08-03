@@ -1,0 +1,118 @@
+T1	Environment 165 174	sediments
+T2	ReactionOrProcess 100 123	hydrocarbon degradation
+T3	Environment 281 290	sediments
+T4	Environment 308 323	Marsh sediments
+T5	ReactionOrProcess 194 217	hydrocarbon degradation
+T6	Environment 510 523	Marsh samples
+T7	Environment 600 615	Marsh sediments
+T8	Substrate 398 419	chlorinated aromatics
+T9	Substrate 348 355	alkanes
+T10	Substrate 357 369	cycloalkanes
+T11	Substrate 421 441	polycyclic aromatics
+T12	Substrate 371 396	aromatic carboxylic acids
+T13	Substrate 562 565	oil
+T14	Property 566 580	concentrations
+T15	Property 453 462	aromatics
+T16	ReactionOrProcess 340 347	degrade
+T17	Environment 734 743	sediments
+T18	ReactionOrProcess 647 670	hydrocarbon degradation
+T19	Substrate 929 932	oil
+T20	Substrate 1019 1022	oil
+T21	Property 1059 1070	temperature
+T22	Environment 1322 1337	marsh sediments
+T23	Substrate 1094 1097	oil
+T24	Substrate 1185 1188	oil
+T25	Environment 1402 1417	marsh sediments
+T26	Substrate 1371 1374	oil
+T27	Environment 1594 1603	sediments
+T28	Substrate 1501 1504	oil
+T29	Property 1581 1589	saturate
+T30	Environment 1720 1730	subsurface
+T31	Environment 1656 1679	
+T32	Substrate 1793 1796	oil
+T33	ReactionOrProcess 1802 1826	microbial biodegradation
+T34	Environment 1877 1885	sediment
+T35	Environment 2009 2018	sediments
+T36	Substrate 1981 1984	TPH
+T37	Substrate 1932 1935	oil
+T38	Environment 2147 2155	sediment
+T39	Environment 2288 2303	marsh sediments
+T40	Substrate 2136 2139	oil
+T41	Substrate 2180 2183	oil
+T42	Substrate 2273 2276	oil
+T43	Property 2324 2335	attenuation
+T44	Microbes 2428 2441	Bacteroidetes
+T45	Microbes 2487 2501	Proteobacteria
+T46	Microbes 2467 2477	Firmicutes
+T47	Microbes 2447 2461	Actinobacteria
+T48	Microbes 2526 2540	Proteobacteria
+T49	Environment 2651 2670	Florida sandy beach
+T50	Substrate 2705 2708	oil
+T51	Substrate 2901 2912	hydrocarbon
+T52	Environment 3175 3184	sediments
+T53	Substrate 3364 3371	alkanes
+T54	Substrate 3381 3414	polynuclear aromatic hydrocarbons
+T55	ReactionOrProcess 3356 3363	degrade
+T56	Substrate 3749 3752	oil
+T57	Property 3640 3654	biosurfactants
+T58	ReactionOrProcess 3707 3722	oil degradation
+T59	ReactionOrProcess 3753 3767	emulsification
+T60	Substrate 3947 3950	oil
+T61	Microbes 4062 4075	Bacteroidetes
+T62	Microbes 4081 4095	Proteobacteria
+T63	Microbes 4046 4060	Actinobacteria
+T64	Substrate 4015 4026	hydrocarbon
+T65	Substrate 4124 4127	oil
+T66	Substrate 4263 4266	oil
+T67	Property 4027 4036	degraders
+T68	Property 4128 4142	concentrations
+T69	Property 4199 4213	concentrations
+T70	Property 4267 4281	concentrations
+T71	Microbes 4313 4323	Clostridia
+T72	Microbes 4434 4444	Firmicutes
+T73	Substrate 4565 4576	hydrocarbon
+T74	Substrate 4517 4520	oil
+T75	Substrate 4622 4625	oil
+T76	Property 4577 4586	degraders
+T77	Microbes 4668 4678	Firmicutes
+T78	Environment 4772 4787	simulated spill
+T79	Environment 4687 4702	marsh sediments
+T80	Substrate 4919 4923	PAHs
+T81	Substrate 4741 4752	hydrocarbon
+T82	ReactionOrProcess 4854 4877	hydrocarbon degradation
+T83	ReactionOrProcess 4654 4664	enrichment
+T84	Environment 4990 5005	marsh sediments
+T85	Environment 5160 5169	sediments
+T86	Substrate 5210 5213	TPH
+T87	Property 5214 5228	concentrations
+T88	Environment 5492 5507	Marsh sediments
+T89	Substrate 5520 5523	TPH
+T90	Substrate 5436 5439	TPH
+T91	Substrate 5684 5687	TPH
+T92	Substrate 5735 5738	oil
+T93	Property 5739 5753	concentrations
+T94	Environment 5984 5999	Marsh sediments
+R1	OccursIn Arg1:T2 Arg2:T1
+R2	OccursIn Arg1:T5 Arg2:T3
+R4	CarriedOn Arg1:T16 Arg2:T8
+R5	CarriedOn Arg1:T16 Arg2:T9
+R6	CarriedOn Arg1:T16 Arg2:T10
+R7	CarriedOn Arg1:T16 Arg2:T11
+R8	CarriedOn Arg1:T16 Arg2:T12
+R12	OccursIn Arg1:T18 Arg2:T17
+R13	CarriedOn Arg1:T33 Arg2:T32
+R14	FoundIn Arg1:T48 Arg2:T49
+R16	CarriedOn Arg1:T55 Arg2:T53
+R17	CarriedOn Arg1:T55 Arg2:T54
+R19	CarriedOn Arg1:T59 Arg2:T56
+R20	Of Arg1:T61 Arg2:T67
+R24	Of Arg1:T62 Arg2:T67
+R28	Of Arg1:T63 Arg2:T67
+R32	ActOn Arg1:T61 Arg2:T64
+R35	ActOn Arg1:T62 Arg2:T64
+R38	ActOn Arg1:T63 Arg2:T64
+R46	FoundIn Arg1:T77 Arg2:T79
+R50	CarriedOn Arg1:T83 Arg2:T77
+R54	CarriedOn Arg1:T83 Arg2:T81
+R57	OccursIn Arg1:T83 Arg2:T78
+R58	OccursIn Arg1:T83 Arg2:T79

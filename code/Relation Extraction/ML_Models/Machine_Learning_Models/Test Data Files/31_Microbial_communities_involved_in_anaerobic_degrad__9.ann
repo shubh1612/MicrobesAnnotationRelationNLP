@@ -1,0 +1,80 @@
+T1 Microbes 169 187 enrichment culture
+T2 Substrate 119 126 nitrite
+T3 ReactionOrProcess 127 136 reduction
+T4 Nutrient 36 42 oxygen
+T5 Microbes 353 371 enrichment culture
+T6 Substrate 270 277 nitrate
+T7 ReactionOrProcess 278 287 reduction
+T8 Substrate 435 442 nitrite
+T9 ReactionOrProcess 422 431 reduction
+T10 Microbes 597 615 enrichment culture
+T11 Substrate 625 632 nitrite
+T12 Nutrient 730 738 nitrogen
+T13 Nutrient 758 764 oxygen
+T14 Substrate 849 857 methanol
+T15 Substrate 828 835 methane
+T16 ReactionOrProcess 816 823 oxidize
+T17 Nutrient 775 781 oxygen
+T18 Substrate 892 899 methane
+T19 ReactionOrProcess 879 888 oxidation
+T20 ReactionOrProcess 925 944 anaerobic oxidation
+T21 ReactionOrProcess 968 977 reduction
+T22 Substrate 1183 1190 nitrite
+T23 Substrate 1128 1135 alkanes
+T24 ReactionOrProcess 1115 1124 oxidation
+T25 ReactionOrProcess 1170 1179 reduction
+T26 Substrate 1326 1333 alkanes
+T27 Substrate 1360 1367 alkanes
+T28 ReactionOrProcess 1390 1414 anaerobic biodegradation
+T29 Substrate 1519 1526 alkanes
+T30 Property 1533 1550 anoxic conditions
+T31 Substrate 1680 1687 alkanes
+T32 Property 1664 1669 inert
+T33 Substrate 1754 1761 alkanes
+T34 Nutrient 1845 1851 carbon
+T35 Substrate 2060 2067 alkanes
+T36 Property 2098 2115 anoxic conditions
+T37 ReactionOrProcess 2080 2091 degradation
+T38 ReactionOrProcess 2234 2242 reducing
+T39 ReactionOrProcess 2283 2302 anaerobic oxidation
+T40 Substrate 2473 2482 n-alkanes
+T41 Microbes 2563 2574 strain Pnd3
+T42 Microbes 2606 2648 Desulfatibacillum aliphaticivorans CV2803T
+T43 Substrate 2924 2933 n-alkanes
+T44 ReactionOrProcess 2938 2951 anaerobically
+T45 Nutrient 3006 3012 carbon
+T46 Microbes 3136 3147 strain HxN1
+T47 Environment 3119 3135 nitrate-reducing
+T48 Substrate 3165 3173 n-hexane
+T49 ReactionOrProcess 3224 3245 anaerobic degradation
+T50 Substrate 3371 3379 n-alkane
+T51 ReactionOrProcess 3418 3427 extracted
+T52 Nutrient 3573 3579 carbon
+T53 Substrate 3920 3928 n-alkane
+T54 Nutrient 3886 3892 carbon
+T55 Nutrient 3994 4000 carbon
+R1 ActOn Arg1:T1 Arg2:T2
+R2 CarriedOn Arg1:T3 Arg2:T1
+R3 CarriedOn Arg1:T3 Arg2:T2
+R5 CarriedOn Arg1:T7 Arg2:T5
+R6 CarriedOn Arg1:T7 Arg2:T6
+R7 CarriedOn Arg1:T9 Arg2:T8
+R8 ActOn Arg1:T10 Arg2:T11
+R9 CarriedOn Arg1:T16 Arg2:T14
+R10 CarriedOn Arg1:T16 Arg2:T15
+R11 CarriedOn Arg1:T19 Arg2:T18
+R12 CarriedOn Arg1:T20 Arg2:T18
+R13 CarriedOn Arg1:T21 Arg2:T18
+R14 CarriedOn Arg1:T24 Arg2:T22
+R15 CarriedOn Arg1:T24 Arg2:T23
+R16 CarriedOn Arg1:T25 Arg2:T22
+R17 CarriedOn Arg1:T25 Arg2:T23
+R18 CarriedOn Arg1:T28 Arg2:T26
+R19 CarriedOn Arg1:T28 Arg2:T27
+R20 CarriedOn Arg1:T37 Arg2:T35
+R21 CarriedOn Arg1:T44 Arg2:T43
+R23 ActOn Arg1:T46 Arg2:T48
+R24 CarriedOn Arg1:T49 Arg2:T46
+R25 CarriedOn Arg1:T49 Arg2:T48
+R26 OccursIn Arg1:T49 Arg2:T47
+R27 CarriedOn Arg1:T51 Arg2:T50

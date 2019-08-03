@@ -1,0 +1,17 @@
+T1	Substrate 3 6	oil
+T2	Environment 155 192	high temperature petroleum reservoirs
+T3	Substrate 298 305	alkanes
+T4	ReactionOrProcess 339 353	biodegradation
+T5	ReactionOrProcess 552 563	degradation
+T6	Substrate 628 642	alkylsuccinate
+T7	Substrate 1188 1195	alkanes
+T8	ReactionOrProcess 1196 1205	degrading
+T9	Substrate 1597 1610	residual oils
+T10	Substrate 1496 1505	petroleum
+T11	ReactionOrProcess 1446 1464	oil biodegradation
+T12	ReactionOrProcess 1578 1589	utilization
+R1	CarriedOn Arg1:T8 Arg2:T7
+R3	CarriedOn Arg1:T11 Arg2:T10
+R4	CarriedOn Arg1:T12 Arg2:T9
+R5	CarriedOn Arg1:T12 Arg2:T10
+T13	Microbes 747 773	anaerobic alkane-degraders

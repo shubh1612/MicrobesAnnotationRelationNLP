@@ -1,0 +1,83 @@
+T1	Property 127 138	temperature
+T2	ReactionOrProcess 77 80	PCR
+T3	ReactionOrProcess 123 126	PCR
+T4	ReactionOrProcess 0 3	PCR
+T5	Microbes 279 293	
+T6	Property 418 432	heteroduplexes
+T7	ReactionOrProcess 434 445	reamplified
+T8	ReactionOrProcess 397 404	excised
+T9	ReactionOrProcess 330 334	DGGE
+T10	Environment 584 603	triplicate sediment
+T11	Environment 790 798	sediment
+T12	ReactionOrProcess 729 733	DGGE
+T13	ReactionOrProcess 830 844	lyophilization
+T14	ReactionOrProcess 768 771	PCR
+T15	ReactionOrProcess 903 914	reamplified
+T16	ReactionOrProcess 894 898	DGGE
+T17	ReactionOrProcess 859 862	PCR
+T18	Microbes 1062 1076	Geobacteraceae
+T19	Environment 1053 1061	sediment
+T20	ReactionOrProcess 1033 1049	
+T21	Microbes 1098 1112	Geobacteraceae
+T22	Environment 1129 1146	methanogenic site
+T23	ReactionOrProcess 1078 1094	
+T24	Property 1351 1370	secondary structure
+T25	ReactionOrProcess 1658 1662	
+T26	Environment 1699 1707	sediment
+T27	Environment 1838 1846	sediment
+T28	Property 1912 1923	temperature
+T29	ReactionOrProcess 1860 1870	sonication
+T30	ReactionOrProcess 1684 1693	extracted
+T31	ReactionOrProcess 1885 1895	incubation
+T32	ReactionOrProcess 1673 1678	
+T33	Environment 1968 1976	sediment
+T34	ReactionOrProcess 1980 1994	centrifugation
+T35	Environment 2042 2050	sediment
+T36	Substrate 2078 2096	methylene chloride
+T37	ReactionOrProcess 2055 2061	washed
+T38	Environment 2203 2208	water
+T39	ReactionOrProcess 2314 2328	centrifugation
+T40	ReactionOrProcess 2371 2380	pipetting
+T41	ReactionOrProcess 2453 2465	fractionated
+T42	ReactionOrProcess 2503 2507	
+T43	Microbes 2833 2847	Geobacteraceae
+T44	Substrate 2786 2793	benzene
+T45	ReactionOrProcess 2794 2808	mineralization
+T46	Environment 2929 2948	uncontaminated site
+T47	Environment 2960 2982	methanogenic sediments
+T48	ReactionOrProcess 2849 2881	
+T49	Environment 3150 3159	sediments
+T50	Substrate 3139 3146	benzene
+T51	ReactionOrProcess 3201 3230	slight benzene mineralization
+T52	ReactionOrProcess 3094 3108	mineralization
+T53	Microbes 3383 3397	Geobacteraceae
+T54	Environment 3418 3440	methanogenic sediments
+T55	ReactionOrProcess 3276 3292	
+T56	Microbes 3502 3516	Geobacteraceae
+T57	Microbes 3832 3846	Geobacteraceae
+T58	ReactionOrProcess 3882 3886	
+T59	Environment 4075 4094	uncontaminated site
+T60	Property 3925 3939	concentrations
+T61	ReactionOrProcess 3920 3924	
+R3	CarriedOn Arg1:T8 Arg2:T5
+R4	CarriedOn Arg1:T9 Arg2:T5
+R8	FoundIn Arg1:T18 Arg2:T19
+R9	CarriedOn Arg1:T20 Arg2:T18
+R10	OccursIn Arg1:T20 Arg2:T19
+R11	FoundIn Arg1:T21 Arg2:T22
+R12	CarriedOn Arg1:T23 Arg2:T21
+R13	OccursIn Arg1:T23 Arg2:T22
+R16	OccursIn Arg1:T30 Arg2:T26
+R17	OccursIn Arg1:T30 Arg2:T27
+R20	OccursIn Arg1:T32 Arg2:T26
+R22	OccursIn Arg1:T34 Arg2:T33
+R23	CarriedOn Arg1:T37 Arg2:T36
+R24	OccursIn Arg1:T37 Arg2:T35
+R26	ActOn Arg1:T43 Arg2:T44
+R27	CarriedOn Arg1:T45 Arg2:T43
+R28	CarriedOn Arg1:T45 Arg2:T44
+R29	OccursIn Arg1:T48 Arg2:T46
+R30	OccursIn Arg1:T48 Arg2:T47
+R32	CarriedOn Arg1:T52 Arg2:T50
+R34	OccursIn Arg1:T52 Arg2:T49
+R37	OccursIn Arg1:T55 Arg2:T54

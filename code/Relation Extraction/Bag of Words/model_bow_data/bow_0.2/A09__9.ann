@@ -1,0 +1,86 @@
+T1	Environment 69 81	marine sands
+T2	Environment 69 81	marine sands
+T3	Environment 69 75	marine
+T4	Environment 76 81	sands
+T5	Substrate 126 138	hydrocarbons
+T6	Substrate 126 138	hydrocarbons
+T7	Substrate 48 51	oil
+T8	ReactionOrProcess 118 125	degrade
+T9	Substrate 351 362	hydrocarbon
+T10	ReactionOrProcess 351 374	hydrocarbon degradation
+T11	ReactionOrProcess 363 374	degradation
+T12	Environment 539 545	marine
+T13	Substrate 518 521	oil
+T14	Substrate 571 574	oil
+T15	Substrate 791 794	oil
+T16	Environment 1006 1016	microcosms
+T17	Environment 926 932	marine
+T18	ReactionOrProcess 970 980	enrichment
+T19	Substrate 1197 1200	oil
+T20	ReactionOrProcess 1201 1215	bioremediation
+T21	ReactionOrProcess 1197 1215	oil bioremediation
+T22	ReactionOrProcess 1128 1142	biostimulation
+R1	CarriedOn Arg1:T22 Arg2:T19
+T23	Substrate 1327 1330	oil
+T24	Property 1370 1381	attenuation
+T25	Substrate 1413 1416	oil
+T26	Environment 1828 1833	beach
+T27	Environment 1828 1839	beach sands
+T28	Environment 1834 1839	sands
+T29	Substrate 1730 1733	oil
+T30	Substrate 1806 1809	oil
+T31	Property 1810 1819	degraders
+T32	ReactionOrProcess 1665 1676	enumeration
+R2	CarriedOn Arg1:T32 Arg2:T29
+R3	CarriedOn Arg1:T32 Arg2:T30
+T33	Environment 1977 1983	marine
+T34	Substrate 1892 1895	oil
+T35	Nutrient 1923 1929	carbon
+T36	Environment 2101 2106	Beach
+T37	Environment 2101 2112	Beach sands
+T38	Environment 2107 2112	sands
+T39	Substrate 2189 2192	oil
+T40	Environment 2335 2346	oiled sands
+T41	Environment 2341 2346	sands
+T42	Substrate 2566 2569	oil
+T43	Substrate 2869 2880	hydrocarbon
+T44	Property 2881 2890	degraders
+T45	ReactionOrProcess 2911 2925	bioremediation
+T46	Environment 3010 3015	beach
+T47	Substrate 3035 3038	oil
+T48	Substrate 3085 3088	oil
+T49	Environment 3134 3139	Beach
+T50	Substrate 3096 3099	Oil
+T51	ReactionOrProcess 3376 3386	incubation
+T52	Environment 3456 3461	beach
+T53	Environment 3456 3467	beach sands
+T54	Environment 3462 3467	sands
+T55	Substrate 3494 3497	oil
+T56	Substrate 3526 3529	oil
+T57	Environment 3659 3670	oiled sands
+T58	Environment 3922 3927	Beach
+T59	Environment 3922 3933	Beach sands
+T60	Environment 3665 3670	sands
+T61	Environment 3928 3933	sands
+T62	Substrate 3723 3744	aromatic hydrocarbons
+T63	Substrate 3723 3744	aromatic hydrocarbons
+T64	Substrate 3688 3744	low-molecular-weight aliphatic and aromatic hydrocarbons
+T65	Substrate 3709 3744	aliphatic and aromatic hydrocarbons
+T66	Substrate 3732 3744	hydrocarbons
+T67	Substrate 3772 3783	hydrocarbon
+T68	Substrate 3732 3744	hydrocarbons
+T69	Substrate 3709 3744	aliphatic and aromatic hydrocarbons
+T70	Substrate 3891 3894	oil
+T71	Property 3784 3793	degraders
+T72	Property 3836 3847	attenuation
+T73	Property 3723 3731	aromatic
+T74	Environment 4016 4021	Beach
+T75	ReactionOrProcess 4086 4095	stimulate
+T76	ReactionOrProcess 4096 4110	biodegradation
+T77	Environment 4126 4143	subtropical sands
+T78	Environment 4126 4143	subtropical sands
+T79	Environment 4138 4143	sands
+T80	Substrate 4238 4249	hydrocarbon
+T81	Property 4250 4259	degraders
+T82	ReactionOrProcess 4278 4292	biostimulation
+T83	Nutrient 4158 4164	oxygen

@@ -1,0 +1,49 @@
+T1	Environment 75 80	soils
+T2	Substrate 109 115	phenol
+T3	ReactionOrProcess 116 125	oxidizing
+T4	Environment 279 283	soil
+T5	Microbes 567 586	microbial consortia
+T6	Property 501 511	pollutants
+T7	ReactionOrProcess 466 480	biodegradation
+R1	CarriedOn Arg1:T7 Arg2:T5
+T8	Property 796 812	Strict anaerobes
+T9	Nutrient 957 963	oxygen
+T10	ReactionOrProcess 1039 1063	anaerobic bioconversions
+T11	ReactionOrProcess 979 990	aerobically
+T12	Nutrient 1084 1090	oxygen
+T13	Microbes 1272 1288	aerobic bacteria
+T14	Environment 1296 1318	anaerobic environments
+T15	Nutrient 1341 1347	oxygen
+T16	Environment 1405 1410	water
+T17	Property 1366 1376	solubility
+T18	Nutrient 1349 1355	Oxygen
+T19	Environment 1547 1569	anaerobic environments
+T20	Nutrient 1532 1538	oxygen
+T21	Environment 1591 1601	wastewater
+T22	Environment 1583 1601	Aerobic wastewater
+T23	Nutrient 1668 1674	oxygen
+T24	Environment 1818 1828	wastewater
+T25	Environment 1885 1894	sediments
+T26	Environment 1977 1981	soil
+T27	Environment 1875 1880	soils
+T28	ReactionOrProcess 1857 1871	bioremediation
+T29	Nutrient 2087 2093	oxygen
+T30	Nutrient 2415 2421	oxygen
+T31	Property 2521 2534	concentration
+T32	Nutrient 2514 2520	oxygen
+T33	Nutrient 2658 2664	oxygen
+T34	Property 2718 2731	concentration
+T35	Nutrient 2711 2717	oxygen
+T36	Nutrient 2797 2803	oxygen
+T37	Nutrient 2945 2951	oxygen
+T38	Property 3450 3463	concentration
+T39	Nutrient 3396 3402	oxygen
+T40	Nutrient 3492 3498	oxygen
+T41	Microbes 3627 3643	Escherichia coli
+T42	Property 3609 3623	concentrations
+T43	Nutrient 3683 3690	glucose
+T44	Microbes 3780 3796	aerobic bacteria
+T45	Microbes 3773 3796	active aerobic bacteria
+T46	Property 3756 3769	concentration
+T47	Nutrient 3869 3875	oxygen
+T48	Nutrient 3959 3965	oxygen

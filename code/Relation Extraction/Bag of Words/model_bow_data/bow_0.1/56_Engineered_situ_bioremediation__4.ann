@@ -1,0 +1,69 @@
+T1	Environment 198 209	groundwater
+T2	Environment 328 339	vadose zone
+T3	Substrate 294 306	hydrocarbons
+T4	Substrate 294 306	hydrocarbons
+T5	Environment 444 450	plumes
+T6	Property 432 443	contaminant
+T7	Property 528 540	contaminants
+T8	Substrate 705 716	diesel fuel
+T9	Substrate 705 711	diesel
+T10	Property 799 811	contaminants
+T11	Environment 859 864	water
+T12	Environment 1143 1152	sediments
+T13	Environment 1134 1152	alluvial sediments
+T14	Environment 1134 1152	alluvial sediments
+T15	Environment 1361 1372	groundwater
+T16	Environment 1526 1537	groundwater
+T17	Environment 1517 1537	polluted groundwater
+T18	Substrate 1495 1507	hydrocarbons
+T19	Substrate 1495 1507	hydrocarbons
+T20	ReactionOrProcess 1240 1251	Remediation
+R1	CarriedOn Arg1:T20 Arg2:T18
+R2	CarriedOn Arg1:T20 Arg2:T19
+T21	Substrate 1653 1665	hydrocarbons
+T22	Substrate 1590 1596	LNAPLs
+T23	Substrate 1653 1665	hydrocarbons
+T24	Environment 1844 1855	groundwater
+T25	Environment 1760 1764	soil
+T26	Environment 1870 1875	water
+T27	Substrate 1805 1825	periodic hydrocarbon
+T28	Substrate 1687 1693	LNAPLs
+T29	Substrate 1814 1825	hydrocarbon
+T30	Property 1733 1745	contaminants
+T31	ReactionOrProcess 1882 1894	fluctuations
+T32	Substrate 1951 1954	TPH
+T33	Environment 2190 2201	groundwater
+T34	Substrate 2077 2089	hydrocarbons
+T35	Substrate 2077 2089	hydrocarbons
+T36	Environment 2250 2261	groundwater
+T37	Environment 2241 2245	soil
+T38	ReactionOrProcess 2305 2319	bioremediation
+T39	Environment 2469 2475	plumes
+T40	Property 2457 2468	contaminant
+T41	Property 2554 2566	contaminants
+T42	ReactionOrProcess 2628 2638	weathering
+T43	Environment 3147 3158	groundwater
+T44	Environment 3139 3158	aerobic groundwater
+T45	Substrate 2809 2827	heavy hydrocarbons
+T46	Substrate 2809 2827	heavy hydrocarbons
+T47	Substrate 2815 2827	hydrocarbons
+T48	Substrate 2815 2827	hydrocarbons
+T49	Property 2993 3002	dissolved
+T50	Property 3096 3105	dissolved
+T51	Property 2777 2789	contaminants
+T52	ReactionOrProcess 3159 3173	bioremediation
+T53	Nutrient 3003 3009	oxygen
+T54	ReactionOrProcess 3408 3417	stimulate
+T55	Environment 3438 3442	Soil
+T56	ReactionOrProcess 3463 3475	infiltration
+T57	Environment 3654 3665	groundwater
+T58	Nutrient 3620 3624	H2O2
+T59	ReactionOrProcess 3917 3926	extension
+T60	Environment 4304 4309	water
+T61	Substrate 4264 4275	hydrocarbon
+T62	Property 4160 4170	surfactant
+T63	Property 4517 4526	dissolved
+T64	ReactionOrProcess 4388 4400	fluctuations
+T65	ReactionOrProcess 4356 4370	bioremediation
+T66	Nutrient 4527 4533	oxygen
+T67	Environment 4670 4681	groundwater

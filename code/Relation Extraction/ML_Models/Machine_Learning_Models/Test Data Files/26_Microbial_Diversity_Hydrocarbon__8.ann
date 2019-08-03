@@ -1,0 +1,61 @@
+T1 Property 200 212 methanogenic
+T2 ReactionOrProcess 717 729 fermentation
+T3 Nutrient 573 579 carbon
+T4 Substrate 845 856 methanogens
+T5 Substrate 996 1007 methanogens
+T6 Substrate 869 876 methane
+T7 Substrate 1020 1027 methane
+T8 Nutrient 776 782 carbon
+T9 Nutrient 895 901 carbon
+T10 Nutrient 963 969 carbon
+T11 Nutrient 1032 1038 carbon
+T12 Environment 1147 1156 sediments
+T13 Environment 1142 1146 lake
+T14 Substrate 1247 1254 methane
+T15 Property 1217 1229 temperatures
+T16 ReactionOrProcess 1303 1317 methanogenesis
+T17 Property 1401 1412 temperature
+T18 Environment 1531 1538 aquifer
+T19 Substrate 1607 1618 methanogens
+T20 Property 1489 1500 temperature
+T21 Property 1564 1576 methanogenic
+T22 ReactionOrProcess 1687 1710 hydrocarbon degradation
+T23 ReactionOrProcess 1646 1660 methanogenesis
+T24 ReactionOrProcess 1889 1900 utilization
+T25 Environment 2105 2112 aquifer
+T26 Substrate 2154 2166 hydrocarbons
+T27 Substrate 2040 2062 petroleum hydrocarbons
+T28 Property 2070 2082 methanogenic
+T29 ReactionOrProcess 2168 2180 fermentation
+T30 ReactionOrProcess 2246 2258 fermentation
+T31 ReactionOrProcess 2025 2036 degradation
+T32 ReactionOrProcess 2375 2389 methanogenesis
+T33 Environment 2562 2569 aquifer
+T34 Environment 2686 2694 aquifers
+T35 Property 2630 2642 methanogenic
+T36 ReactionOrProcess 2643 2667 intrinsic bioremediation
+T37 Environment 2787 2814 other contaminated aquifers
+T38 Property 2826 2838 methanogenic
+T39 ReactionOrProcess 2839 2863 intrinsic bioremediation
+R1 CarriedOn Arg1:T16 Arg2:T14
+R2 OccursIn Arg1:T16 Arg2:T12
+R3 OccursIn Arg1:T16 Arg2:T13
+R4 CarriedOn Arg1:T22 Arg2:T19
+R5 CarriedOn Arg1:T23 Arg2:T19
+R6 OccursIn Arg1:T22 Arg2:T18
+R7 OccursIn Arg1:T23 Arg2:T18
+R8 CarriedOn Arg1:T29 Arg2:T26
+R9 CarriedOn Arg1:T29 Arg2:T27
+R10 CarriedOn Arg1:T30 Arg2:T26
+R11 CarriedOn Arg1:T30 Arg2:T27
+R12 CarriedOn Arg1:T31 Arg2:T26
+R13 CarriedOn Arg1:T31 Arg2:T27
+R14 CarriedOn Arg1:T32 Arg2:T26
+R15 CarriedOn Arg1:T32 Arg2:T27
+R16 OccursIn Arg1:T29 Arg2:T25
+R17 OccursIn Arg1:T30 Arg2:T25
+R18 OccursIn Arg1:T31 Arg2:T25
+R19 OccursIn Arg1:T32 Arg2:T25
+R20 OccursIn Arg1:T36 Arg2:T33
+R21 OccursIn Arg1:T36 Arg2:T34
+R22 OccursIn Arg1:T39 Arg2:T37

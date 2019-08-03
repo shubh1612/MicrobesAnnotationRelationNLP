@@ -1,0 +1,48 @@
+T1	Microbes 86 100	Geobacteraceae
+T2	ReactionOrProcess 32 35	PCR
+T3	Environment 240 259	uncontaminated site
+T4	ReactionOrProcess 185 198	
+T5	Property 274 291	benzene-oxidizing
+T6	Microbes 561 580	enrichment cultures
+T7	Microbes 441 455	Geobacteraceae
+T8	Environment 501 520	uncontaminated site
+T9	Microbes 1212 1226	Geobacteraceae
+T10	Environment 1246 1255	sediments
+T11	Microbes 1322 1336	Geobacteraceae
+T12	ReactionOrProcess 1308 1318	enrichment
+T13	ReactionOrProcess 1261 1265	PLFA
+T14	Microbes 1500 1514	Geobacteraceae
+T15	ReactionOrProcess 1364 1368	PLFA
+T16	Substrate 1664 1671	benzene
+T17	ReactionOrProcess 1742 1746	DGGE
+T18	ReactionOrProcess 1672 1683	degradation
+T19	ReactionOrProcess 1795 1799	DGGE
+T20	Environment 1986 1993	aquifer
+T21	Property 2116 2128	temperatures
+T22	Environment 2209 2228	triplicate sediment
+T23	ReactionOrProcess 2347 2351	DGGE
+T24	ReactionOrProcess 2254 2257	PCR
+T25	ReactionOrProcess 2229 2244	DNA extractions
+T26	Environment 2619 2638	uncontaminated site
+T27	ReactionOrProcess 2476 2480	DGGE
+T28	Environment 2755 2770	surficial soils
+T29	ReactionOrProcess 2687 2691	PLFA
+T30	Environment 2805 2815	subsurface
+T31	Environment 2934 2954	subsurface sediments
+T32	Nutrient 2894 2900	carbon
+T33	Environment 3010 3020	subsurface
+T34	Environment 3118 3132	surficial soil
+T35	Environment 3287 3305	methanogenic zones
+T36	Environment 3313 3320	aquifer
+T37	ReactionOrProcess 3162 3166	DGGE
+T38	ReactionOrProcess 3273 3281	reducing
+R2	OccursIn Arg1:T4 Arg2:T3
+R3	FoundIn Arg1:T6 Arg2:T8
+R4	FoundIn Arg1:T7 Arg2:T8
+R5	FoundIn Arg1:T9 Arg2:T10
+R6	CarriedOn Arg1:T12 Arg2:T11
+R10	CarriedOn Arg1:T18 Arg2:T16
+R13	OccursIn Arg1:T25 Arg2:T22
+R15	OccursIn Arg1:T29 Arg2:T28
+R18	OccursIn Arg1:T38 Arg2:T35
+R19	OccursIn Arg1:T38 Arg2:T36

@@ -1,0 +1,168 @@
+T1 Substrate 69 80 hydrocarbon
+T2 ReactionOrProcess 44 51 degrade
+T3 Substrate 234 241 benzene
+T4 Substrate 243 250 toluene
+T5 Substrate 264 276 ethylbenzene
+T6 Substrate 252 259 xylenes
+T7 Substrate 327 362 water-soluble aromatic hydrocarbons
+T8 Property 375 389 concentrations
+T9 ReactionOrProcess 174 198 anaerobic bioremediation
+T10 Nutrient 300 306 oxygen
+T11 Substrate 555 562 alkanes
+T12 Substrate 475 482 Alkanes
+T13 Property 571 585 concentrations
+T14 Property 546 554 volatile
+T15 Property 525 533 toxicity
+T16 Substrate 712 733 aromatic hydrocarbons
+T17 Substrate 656 663 alkanes
+T18 ReactionOrProcess 641 652 degradation
+T19 ReactionOrProcess 781 802 microbial degradation
+T20 Microbes 917 936 enrichment cultures
+T21 Substrate 837 849 hydrocarbons
+T22 Substrate 965 972 nitrate
+T23 Substrate 855 858 oil
+T24 ReactionOrProcess 822 833 degradation
+T25 Nutrient 976 994 electron acceptors
+T26 Substrate 999 1008 crude oil
+T27 Substrate 1186 1193 nitrate
+T28 Property 1087 1104 anoxic conditions
+T29 Nutrient 1149 1166 electron acceptor
+T30 Substrate 1276 1285 n-alkanes
+T31 Substrate 1357 1366 crude oil
+T32 Substrate 1290 1303 alkylbenzenes
+T33 ReactionOrProcess 1234 1246 denitrifying
+T34 Microbes 1417 1436 enrichment cultures
+T35 Substrate 1532 1543 naphthalene
+T36 Substrate 1382 1394 hydrocarbons
+T37 ReactionOrProcess 1399 1407 degraded
+T38 Microbes 1864 1883 enrichment cultures
+T39 Substrate 1742 1750 gasoline
+T40 Substrate 1728 1737 crude oil
+T41 ReactionOrProcess 1758 1766 degraded
+T42 ReactionOrProcess 1800 1810 incubation
+T43 Nutrient 1775 1781 oxygen
+T44 Substrate 1949 1969 chemical hydrocarbon
+T45 ReactionOrProcess 1914 1938 anaerobic biodegradation
+T46 ReactionOrProcess 2048 2061 fractionation
+T47 Microbes 2095 2113 Anaerobic bacteria
+T48 Substrate 2105 2126 bacterial hydrocarbon
+T49 Property 2178 2186 residual
+T50 ReactionOrProcess 2127 2136 oxidation
+T51 Environment 2396 2412 marine sediments
+T52 Substrate 2417 2426 petroleum
+T53 Substrate 2251 2254 oil
+T54 ReactionOrProcess 2287 2320 anaerobic hydrocarbon degradation
+T55 Substrate 2439 2446 Methane
+T56 Nutrient 2486 2492 carbon
+T57 Environment 2654 2670 marine sediments
+T58 Substrate 2643 2650 methane
+T59 Substrate 2717 2724 methane
+T60 ReactionOrProcess 2620 2639 Anaerobic oxidation
+T61 Substrate 3047 3054 methane
+T62 Property 2926 2937 temperature
+T63 Property 2957 2971 concentrations
+T64 ReactionOrProcess 2939 2944 redox
+T65 Substrate 3289 3298 petroleum
+T66 Substrate 3137 3161 non-methane hydrocarbons
+T67 ReactionOrProcess 3245 3254 oxidation
+T68 ReactionOrProcess 3122 3133 utilization
+T69 Nutrient 3260 3266 oxygen
+T70 Substrate 3384 3393 petroleum
+T71 Substrate 3519 3528 crude oil
+T72 Substrate 3492 3504 hydrocarbons
+T73 ReactionOrProcess 3434 3444 enrichment
+T74 ReactionOrProcess 3449 3458 isolation
+T75 Substrate 3564 3576 hydrocarbons
+T76 Substrate 3560 3563 oil
+T77 Substrate 3698 3701 oil
+T78 ReactionOrProcess 3600 3609 reduction
+T79 Environment 3972 3977 water
+T80 Substrate 3803 3806 oil
+T81 Substrate 3994 3997 oil
+T82 Property 3741 3746 toxic
+T83 ReactionOrProcess 3998 4008 extraction
+T84 ReactionOrProcess 3748 3758 stimulates
+T85 Substrate 4160 4169 crude oil
+T86 Substrate 4142 4154 hydrocarbons
+T87 Substrate 4251 4254 oil
+T88 Microbes 4431 4449 anaerobic bacteria
+T89 Environment 4471 4480 sediments
+T90 Environment 4668 4674 waters
+T91 Property 4532 4543 temperature
+T92 Property 4589 4603 concentrations
+T93 Microbes 4722 4740 anaerobic bacteria
+T94 Environment 4760 4778 original sediments
+T95 Environment 5154 5162 seawater
+T96 Environment 5093 5098 water
+T97 Substrate 5084 5087 oil
+T98 Property 5197 5208 temperature
+T99 Substrate 5297 5300 oil
+T100 ReactionOrProcess 5268 5277 reduction
+T101 Microbes 5466 5490 novel anaerobic bacteria
+T102 Substrate 5419 5431 hydrocarbons
+T103 Property 5495 5506 degradative
+T104 ReactionOrProcess 5394 5415 anaerobic degradation
+R1 CarriedOn Arg1:T2 Arg2:T1
+R2 CarriedOn Arg1:T9 Arg2:T3
+R3 CarriedOn Arg1:T9 Arg2:T4
+R4 CarriedOn Arg1:T9 Arg2:T5
+R5 CarriedOn Arg1:T9 Arg2:T6
+R6 CarriedOn Arg1:T9 Arg2:T7
+R7 CarriedOn Arg1:T18 Arg2:T16
+R8 CarriedOn Arg1:T18 Arg2:T17
+R9 CarriedOn Arg1:T19 Arg2:T16
+R10 CarriedOn Arg1:T19 Arg2:T17
+R11 ActOn Arg1:T20 Arg2:T21
+R12 ActOn Arg1:T20 Arg2:T22
+R13 ActOn Arg1:T20 Arg2:T23
+R14 CarriedOn Arg1:T24 Arg2:T20
+R15 CarriedOn Arg1:T24 Arg2:T21
+R17 CarriedOn Arg1:T24 Arg2:T23
+R18 CarriedOn Arg1:T33 Arg2:T30
+R19 CarriedOn Arg1:T33 Arg2:T31
+R20 CarriedOn Arg1:T33 Arg2:T32
+R22 ActOn Arg1:T34 Arg2:T36
+R23 CarriedOn Arg1:T37 Arg2:T34
+R24 CarriedOn Arg1:T37 Arg2:T35
+R25 CarriedOn Arg1:T37 Arg2:T36
+R26 ActOn Arg1:T38 Arg2:T39
+R27 ActOn Arg1:T38 Arg2:T40
+R28 CarriedOn Arg1:T41 Arg2:T38
+R29 CarriedOn Arg1:T42 Arg2:T38
+R30 CarriedOn Arg1:T41 Arg2:T39
+R31 CarriedOn Arg1:T41 Arg2:T40
+R32 CarriedOn Arg1:T42 Arg2:T39
+R33 CarriedOn Arg1:T42 Arg2:T40
+R34 CarriedOn Arg1:T45 Arg2:T44
+R38 CarriedOn Arg1:T50 Arg2:T47
+R39 CarriedOn Arg1:T50 Arg2:T48
+R40 CarriedOn Arg1:T54 Arg2:T52
+R41 CarriedOn Arg1:T54 Arg2:T53
+R42 OccursIn Arg1:T54 Arg2:T51
+R43 CarriedOn Arg1:T60 Arg2:T58
+R44 CarriedOn Arg1:T60 Arg2:T59
+R45 OccursIn Arg1:T60 Arg2:T57
+R46 CarriedOn Arg1:T64 Arg2:T61
+R47 CarriedOn Arg1:T67 Arg2:T65
+R48 CarriedOn Arg1:T67 Arg2:T66
+R49 CarriedOn Arg1:T68 Arg2:T65
+R50 CarriedOn Arg1:T68 Arg2:T66
+R51 CarriedOn Arg1:T73 Arg2:T70
+R52 CarriedOn Arg1:T73 Arg2:T71
+R53 CarriedOn Arg1:T73 Arg2:T72
+R54 CarriedOn Arg1:T74 Arg2:T70
+R55 CarriedOn Arg1:T74 Arg2:T71
+R56 CarriedOn Arg1:T74 Arg2:T72
+R57 CarriedOn Arg1:T78 Arg2:T75
+R58 CarriedOn Arg1:T78 Arg2:T76
+R59 CarriedOn Arg1:T78 Arg2:T77
+R60 CarriedOn Arg1:T83 Arg2:T80
+R61 CarriedOn Arg1:T83 Arg2:T81
+R62 CarriedOn Arg1:T84 Arg2:T80
+R63 CarriedOn Arg1:T84 Arg2:T81
+R64 OccursIn Arg1:T83 Arg2:T79
+R65 OccursIn Arg1:T84 Arg2:T79
+R71 CarriedOn Arg1:T100 Arg2:T99
+R73 ActOn Arg1:T101 Arg2:T102
+R74 CarriedOn Arg1:T104 Arg2:T101
+R75 CarriedOn Arg1:T104 Arg2:T102

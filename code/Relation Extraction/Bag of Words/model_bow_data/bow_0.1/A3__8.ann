@@ -1,0 +1,75 @@
+T1	Microbes 221 240	enrichment cultures
+T2	Property 188 205	benzene-oxidizing
+T3	ReactionOrProcess 221 231	enrichment
+T4	Microbes 730 744	Geobacteraceae
+T5	Environment 764 773	sediments
+T6	Microbes 840 854	Geobacteraceae
+T7	ReactionOrProcess 826 836	enrichment
+T8	ReactionOrProcess 779 783	PLFA
+R1	CarriedOn Arg1:T7 Arg2:T6
+R2	CarriedOn Arg1:T8 Arg2:T6
+T9	Microbes 1018 1032	Geobacteraceae
+T10	ReactionOrProcess 882 886	PLFA
+T11	Substrate 1182 1189	benzene
+T12	ReactionOrProcess 1260 1264	DGGE
+T13	ReactionOrProcess 1190 1201	degradation
+T14	ReactionOrProcess 1313 1317	DGGE
+T15	Environment 1504 1511	aquifer
+T16	Property 1634 1646	temperatures
+T17	Environment 1738 1746	sediment
+T18	Environment 1727 1746	triplicate sediment
+T19	ReactionOrProcess 1751 1762	extractions
+T20	ReactionOrProcess 1865 1869	DGGE
+T21	ReactionOrProcess 1772 1775	PCR
+T22	ReactionOrProcess 1747 1762	DNA extractions
+T23	Environment 2137 2156	uncontaminated site
+T24	ReactionOrProcess 1994 1998	DGGE
+T25	Environment 2273 2288	surficial soils
+T26	Environment 2283 2288	soils
+T27	Environment 2273 2288	surficial soils
+T28	ReactionOrProcess 2205 2209	PLFA
+T29	Environment 2463 2472	sediments
+T30	Environment 2452 2472	subsurface sediments
+T31	Environment 2323 2333	subsurface
+T32	Environment 2452 2462	subsurface
+T33	Environment 2452 2472	subsurface sediments
+T34	Nutrient 2412 2418	carbon
+T35	Environment 2528 2538	subsurface
+T36	Environment 2646 2650	soil
+T37	Environment 2636 2650	surficial soil
+T38	Environment 2803 2821	methanogenic zones
+T39	Environment 2829 2836	aquifer
+T40	Property 2803 2815	methanogenic
+T41	Property 2803 2815	methanogenic
+T42	ReactionOrProcess 2680 2684	DGGE
+T43	Environment 2970 2979	sediments
+T44	Environment 3009 3018	sediments
+T45	Environment 2994 3018	uncontaminated sediments
+T46	Environment 2994 3018	uncontaminated sediments
+T47	Environment 2957 2979	contaminated sediments
+T48	Environment 3274 3283	sediments
+T49	Environment 3259 3283	uncontaminated sediments
+T50	Environment 3259 3283	uncontaminated sediments
+T51	Substrate 3136 3140	BTEX
+T52	Property 3141 3153	contaminants
+T53	Substrate 3356 3360	BTEX
+T54	Substrate 3384 3388	BTEX
+T55	ReactionOrProcess 3389 3400	degradation
+T56	Substrate 3442 3446	BTEX
+T57	Property 3447 3456	degraders
+T58	Microbes 3552 3565	Geobacter spp
+T59	ReactionOrProcess 3538 3548	Enrichment
+R3	CarriedOn Arg1:T59 Arg2:T58
+T60	Substrate 3582 3589	benzene
+T61	ReactionOrProcess 3590 3601	degradation
+T62	Microbes 3643 3657	Geobacteraceae
+T63	Microbes 3821 3835	Geobacteraceae
+T64	Environment 3692 3701	sediments
+T65	Environment 3753 3762	sediments
+T66	Substrate 3772 3779	benzene
+T67	ReactionOrProcess 3793 3801	degraded
+T68	ReactionOrProcess 3671 3675	DGGE
+T69	ReactionOrProcess 3717 3720	PCR
+T70	ReactionOrProcess 3671 3684	DGGE analysis
+R4	CarriedOn Arg1:T68 Arg2:T66
+R5	CarriedOn Arg1:T70 Arg2:T66

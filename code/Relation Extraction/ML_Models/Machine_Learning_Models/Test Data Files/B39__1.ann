@@ -1,0 +1,85 @@
+T1 Environment 26 55 oily sludge-contaminated soil
+T2 Environment 148 156 oilfield
+T3 ReactionOrProcess 8 22 bioremediation
+T4 ReactionOrProcess 59 73 biostimulation
+T5 Substrate 213 240 total petroleum hydrocarbon
+T6 ReactionOrProcess 184 198 bioremediation
+T7 Environment 431 435 soil
+T8 ReactionOrProcess 355 369 bioremediation
+T9 Environment 459 463 Soil
+T10 Environment 646 663 contaminated soil
+T11 Substrate 591 622 polycyclic aromatic hydrocarbon
+T12 Substrate 573 576 TPH
+T13 Property 577 586 degraders
+T14 Property 629 638 degraders
+T15 ReactionOrProcess 547 562 Manure addition
+T16 Environment 734 738 soil
+T17 Environment 934 938 soil
+T18 Environment 1037 1041 soil
+T19 Environment 888 893 soils
+T20 Property 1021 1029 toxicity
+T21 ReactionOrProcess 945 959 bioremediation
+T22 ReactionOrProcess 990 1004 bioremediation
+T23 ReactionOrProcess 851 862 biotoxicity
+T24 Environment 1103 1114 Oily sludge
+T25 Substrate 1146 1155 petroleum
+T26 ReactionOrProcess 1045 1059 Bioremediation
+T27 ReactionOrProcess 1060 1074 Biostimulation
+T28 Environment 1281 1285 soil
+T29 Environment 1271 1276 water
+T30 Substrate 1234 1246 hydrocarbons
+T31 Environment 1437 1448 oily sludge
+T32 Environment 1494 1503 oilfields
+T33 ReactionOrProcess 1508 1520 accumulation
+T34 Environment 1660 1671 oily sludge
+T35 Property 1683 1692 mutagenic
+T36 Property 1698 1710 carcinogenic
+T37 Property 1676 1681 toxic
+T38 Property 1770 1780 pollutants
+T39 Environment 1982 1993 groundwater
+T40 Environment 1920 1931 oily sludge
+T41 Environment 1948 1952 soil
+T42 Environment 1995 2022 Petroleum-contaminated soil
+T43 ReactionOrProcess 2140 2152 incineration
+T44 ReactionOrProcess 2154 2166 chlorination
+T45 ReactionOrProcess 2168 2177 ozonation
+T46 ReactionOrProcess 2183 2193 combustion
+T47 Property 2299 2311 contaminants
+T48 Substrate 2487 2509 petroleum hydrocarbons
+T49 Property 2460 2472 contaminants
+T50 Environment 2766 2794 petroleum-contaminated soils
+T51 ReactionOrProcess 2748 2762 bioremediation
+T52 Environment 2961 2988 petroleum-contaminated soil
+T53 ReactionOrProcess 2943 2957 bioremediation
+T54 Environment 3087 3116 oily sludge-contaminated soil
+T55 ReactionOrProcess 3069 3083 bioremediation
+T56 Environment 3388 3399 oily sludge
+T57 Environment 3267 3275 oilfield
+T58 Environment 3343 3351 oilfield
+R1 OccursIn Arg1:T3 Arg2:T1
+R2 OccursIn Arg1:T3 Arg2:T2
+R3 OccursIn Arg1:T4 Arg2:T1
+R4 OccursIn Arg1:T4 Arg2:T2
+R5 CarriedOn Arg1:T6 Arg2:T5
+R6 OccursIn Arg1:T8 Arg2:T7
+R7 CarriedOn Arg1:T15 Arg2:T11
+R8 CarriedOn Arg1:T15 Arg2:T12
+R9 OccursIn Arg1:T15 Arg2:T10
+R10 OccursIn Arg1:T21 Arg2:T17
+R11 OccursIn Arg1:T21 Arg2:T18
+R12 OccursIn Arg1:T21 Arg2:T19
+R13 OccursIn Arg1:T22 Arg2:T17
+R14 OccursIn Arg1:T22 Arg2:T18
+R15 OccursIn Arg1:T22 Arg2:T19
+R16 OccursIn Arg1:T23 Arg2:T17
+R17 OccursIn Arg1:T23 Arg2:T18
+R18 OccursIn Arg1:T23 Arg2:T19
+R19 CarriedOn Arg1:T26 Arg2:T25
+R20 CarriedOn Arg1:T27 Arg2:T25
+R21 OccursIn Arg1:T26 Arg2:T24
+R22 OccursIn Arg1:T27 Arg2:T24
+R23 OccursIn Arg1:T33 Arg2:T31
+R24 OccursIn Arg1:T33 Arg2:T32
+R25 OccursIn Arg1:T51 Arg2:T50
+R26 OccursIn Arg1:T53 Arg2:T52
+R27 OccursIn Arg1:T55 Arg2:T54

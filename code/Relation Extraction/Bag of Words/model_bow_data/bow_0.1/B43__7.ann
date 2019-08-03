@@ -1,0 +1,81 @@
+T1	ReactionOrProcess 112 125	hybridization
+T2	Environment 392 401	microcosm
+T3	ReactionOrProcess 265 278	hybridization
+T4	Substrate 461 469	gasoline
+T5	Property 470 484	concentrations
+T6	ReactionOrProcess 505 515	enrichment
+T7	ReactionOrProcess 423 433	inhibition
+T8	Substrate 669 677	gasoline
+T9	ReactionOrProcess 629 642	hybridization
+T10	Microbes 938 952	Pseudomonas sp
+T11	Substrate 818 839	aromatic hydrocarbons
+T12	Substrate 818 839	aromatic hydrocarbons
+T13	Substrate 827 839	hydrocarbons
+T14	Substrate 827 839	hydrocarbons
+T15	Property 818 826	aromatic
+T16	ReactionOrProcess 898 904	cloned
+T17	ReactionOrProcess 803 814	degradation
+R1	CarriedOn Arg1:T16 Arg2:T10
+R2	CarriedOn Arg1:T17 Arg2:T10
+R3	CarriedOn Arg1:T17 Arg2:T11
+R4	CarriedOn Arg1:T17 Arg2:T12
+R5	CarriedOn Arg1:T17 Arg2:T13
+R6	CarriedOn Arg1:T17 Arg2:T14
+T18	Microbes 986 1000	Pseudomonas sp
+T19	Environment 1107 1111	soil
+T20	Substrate 1197 1205	gasoline
+T21	Property 1179 1193	concentrations
+T22	ReactionOrProcess 1032 1041	hybridize
+R7	CarriedOn Arg1:T22 Arg2:T20
+T23	Substrate 1397 1405	gasoline
+T24	Substrate 1550 1558	gasoline
+T25	ReactionOrProcess 1520 1531	remediation
+T26	ReactionOrProcess 1288 1301	hybridization
+T27	Environment 2102 2107	soils
+T28	Property 1726 1737	contaminant
+T29	Property 1826 1837	contaminant
+T30	Property 1937 1948	contaminant
+T31	Property 2033 2044	contaminant
+T32	ReactionOrProcess 1710 1720	adaptation
+T33	Microbes 2159 2163	xylE
+T34	Environment 2228 2232	soil
+T35	Substrate 2284 2292	gasoline
+T36	ReactionOrProcess 2214 2224	adaptation
+T37	ReactionOrProcess 2134 2155	sequences hybridizing
+R8	CarriedOn Arg1:T36 Arg2:T35
+R9	CarriedOn Arg1:T37 Arg2:T35
+T38	Environment 2312 2321	microcosm
+T39	Environment 2459 2463	soil
+T40	Substrate 2422 2430	gasoline
+T41	Environment 2535 2545	microcosms
+T42	Substrate 2700 2708	gasoline
+T43	Substrate 2602 2623	aromatic hydrocarbons
+T44	Substrate 2602 2623	aromatic hydrocarbons
+T45	Substrate 2611 2623	hydrocarbons
+T46	Substrate 2611 2623	hydrocarbons
+T47	Property 2602 2610	aromatic
+T48	ReactionOrProcess 2501 2511	enrichment
+R10	CarriedOn Arg1:T48 Arg2:T42
+R11	CarriedOn Arg1:T48 Arg2:T43
+R12	CarriedOn Arg1:T48 Arg2:T44
+R13	CarriedOn Arg1:T48 Arg2:T45
+R14	CarriedOn Arg1:T48 Arg2:T46
+T49	Environment 2836 2853	contaminated site
+T50	Substrate 2827 2835	gasoline
+T51	ReactionOrProcess 2810 2821	remediation
+T52	ReactionOrProcess 2727 2740	Hybridization
+R15	CarriedOn Arg1:T51 Arg2:T50
+R16	CarriedOn Arg1:T52 Arg2:T50
+T53	Microbes 2898 2902	xylE
+T54	Substrate 3072 3080	gasoline
+T55	Property 3054 3068	concentrations
+T56	ReactionOrProcess 2879 2889	Adaptation
+T57	ReactionOrProcess 3001 3011	inhibition
+R17	CarriedOn Arg1:T56 Arg2:T54
+R18	CarriedOn Arg1:T57 Arg2:T54
+T58	Environment 3189 3198	microcosm
+T59	Substrate 3145 3156	hydrocarbon
+T60	Property 3157 3170	concentration
+T61	Microbes 3506 3510	xylE
+T62	Substrate 3341 3349	gasoline
+T63	Property 3380 3394	concentrations

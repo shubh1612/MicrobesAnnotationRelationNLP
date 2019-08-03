@@ -1,0 +1,48 @@
+T1	Environment 22 25	sea
+T2	Substrate 139 146	methane
+T3	Environment 197 202	water
+T4	Property 228 239	temperature
+T5	Substrate 415 427	hydrocarbons
+T6	Substrate 501 508	methane
+T7	ReactionOrProcess 533 542	oxidation
+T8	ReactionOrProcess 560 570	enrichment
+T9	Environment 709 712	sea
+T10	Environment 723 751	hydrate-associated sediments
+T11	Substrate 792 804	hydrocarbons
+T12	ReactionOrProcess 763 772	oxidation
+T13	Environment 928 946	adjacent sediments
+T14	Substrate 890 897	methane
+T15	Substrate 907 918	hydrocarbon
+T16	ReactionOrProcess 863 872	oxidation
+T17	Environment 1021 1030	sediments
+T18	Substrate 1107 1114	methane
+T19	ReactionOrProcess 1053 1067	methanogenesis
+T20	Nutrient 1011 1017	carbon
+T21	Property 1242 1254	temperatures
+T22	Environment 1395 1404	sediments
+T23	Environment 1549 1554	water
+T24	Substrate 1487 1514	toxic aromatic hydrocarbons
+T25	Substrate 1421 1432	hydrocarbon
+T26	Substrate 1475 1478	oil
+T27	Substrate 1779 1786	methane
+T28	Nutrient 1764 1770	carbon
+T29	Substrate 2156 2163	methane
+T30	Environment 2483 2488	water
+T31	Substrate 2362 2373	hydrocarbon
+T32	Property 2319 2330	crystalline
+T33	Environment 2659 2667	sediment
+T34	Substrate 2569 2576	methane
+T35	Environment 2800 2817	shallow sediments
+T36	Substrate 2828 2854	hot subsurface hydrocarbon
+T37	Substrate 2993 3005	hydrocarbons
+T38	Substrate 2921 2933	hydrocarbons
+T39	Environment 3126 3136	subsurface
+T40	Environment 3412 3415	sea
+T41	Environment 3515 3524	sediments
+T42	Environment 3739 3744	water
+T43	Property 3674 3685	temperature
+T44	Environment 3910 3913	sea
+T45	Environment 3966 3980	rapid sediment
+T46	ReactionOrProcess 4017 4029	Fluctuations
+T47	Substrate 4230 4237	methane
+T48	ReactionOrProcess 4217 4226	oxidation

@@ -1,0 +1,97 @@
+T1	Environment 65 83	contaminated sites
+T2	Substrate 6 25	aromatic pollutants
+T3	Substrate 0 25	Toxic aromatic pollutants
+T4	Property 6 14	aromatic
+T5	Property 15 25	pollutants
+T6	Property 0 5	Toxic
+T7	ReactionOrProcess 127 141	bioremediation
+T8	Property 290 300	pollutants
+T9	ReactionOrProcess 268 282	mineralization
+T10	Microbes 463 479	aerobic bacteria
+T11	Substrate 350 369	aromatic pollutants
+T12	Substrate 336 369	Electrophilic aromatic pollutants
+T13	Property 350 358	aromatic
+T14	Property 359 369	pollutants
+T15	ReactionOrProcess 445 459	biodegradation
+T16	Substrate 549 570	chlorinated aromatics
+T17	Substrate 561 570	aromatics
+T18	Property 574 582	aromatic
+T19	Property 561 570	aromatics
+T20	Property 673 681	aromatic
+T21	ReactionOrProcess 627 636	reduction
+T22	Substrate 822 841	aromatic pollutants
+T23	Substrate 808 841	electrophilic aromatic pollutants
+T24	Property 822 830	aromatic
+T25	Property 831 841	pollutants
+T26	ReactionOrProcess 785 799	mineralization
+R1	CarriedOn Arg1:T26 Arg2:T22
+R2	CarriedOn Arg1:T26 Arg2:T23
+T27	Microbes 882 898	aerobic bacteria
+T28	Environment 1018 1022	soil
+T29	Nutrient 1068 1074	oxygen
+T30	Nutrient 1153 1159	oxygen
+T31	Nutrient 1145 1151	oxygen
+T32	Substrate 1389 1420	recalcitrant aromatic compounds
+T33	Substrate 1402 1420	aromatic compounds
+T34	Substrate 1402 1420	aromatic compounds
+T35	Property 1402 1410	aromatic
+T36	ReactionOrProcess 1317 1326	reduction
+T37	ReactionOrProcess 1433 1447	mineralization
+R3	CarriedOn Arg1:T36 Arg2:T32
+R4	CarriedOn Arg1:T36 Arg2:T33
+R5	CarriedOn Arg1:T36 Arg2:T34
+T38	Substrate 1551 1558	phenols
+T39	Property 1589 1597	aromatic
+T40	ReactionOrProcess 1502 1516	mineralization
+R6	CarriedOn Arg1:T40 Arg2:T38
+T41	Substrate 1773 1792	aromatic pollutants
+T42	Property 1773 1781	aromatic
+T43	Property 1782 1792	pollutants
+T44	ReactionOrProcess 1706 1720	bioremediation
+T45	Substrate 1850 1869	aromatic pollutants
+T46	Property 1850 1858	aromatic
+T47	Property 1859 1869	pollutants
+T48	ReactionOrProcess 1962 1971	oxidation
+T49	Microbes 1973 1991	Anaerobic bacteria
+T50	Substrate 2003 2022	aromatic pollutants
+T51	Property 2003 2011	aromatic
+T52	Property 2012 2022	pollutants
+T53	ReactionOrProcess 2059 2067	reducing
+T54	Substrate 2096 2103	phenols
+T55	Property 2108 2116	aromatic
+T56	Substrate 2178 2195	Aromatic compound
+T57	Substrate 2178 2196	Aromatic compounds
+T58	Substrate 2178 2196	Aromatic compounds
+T59	Property 2178 2186	Aromatic
+T60	Substrate 2340 2358	aromatic compounds
+T61	Substrate 2340 2358	aromatic compounds
+T62	Property 2370 2383	biodegradable
+T63	Property 2340 2348	aromatic
+T64	Substrate 2761 2793	metabolizable aromatic compounds
+T65	Substrate 2629 2647	aromatic compounds
+T66	Substrate 2775 2793	aromatic compounds
+T67	Substrate 2629 2647	aromatic compounds
+T68	Substrate 2775 2793	aromatic compounds
+T69	Substrate 2680 2700	aromatic amino acids
+T70	Property 2629 2637	aromatic
+T71	Property 2680 2688	aromatic
+T72	Property 2775 2783	aromatic
+T73	Substrate 2916 2935	aromatic pollutants
+T74	Property 2916 2924	aromatic
+T75	Property 2925 2935	pollutants
+T76	Substrate 3053 3062	aromatics
+T77	Property 3053 3062	aromatics
+T78	Substrate 3121 3140	aromatic pollutants
+T79	Substrate 3161 3170	aromatics
+T80	Substrate 3149 3170	halogenated aromatics
+T81	Property 3121 3129	aromatic
+T82	Property 3161 3170	aromatics
+T83	Property 3130 3140	pollutants
+T84	Substrate 3343 3352	aromatics
+T85	Substrate 3331 3352	halogenated aromatics
+T86	Property 3343 3352	aromatics
+T87	Substrate 3473 3493	Chlorinated aromatic
+T88	Substrate 3473 3494	Chlorinated aromatics
+T89	Substrate 3485 3494	aromatics
+T90	Property 3563 3577	concentrations
+T91	Property 3485 3494	aromatics

@@ -1,0 +1,149 @@
+T1	Environment 12 16	soil
+T2	Substrate 39 47	gasoline
+T3	Substrate 150 159	petroleum
+T4	Environment 271 282	groundwater
+T5	Environment 222 239	contaminated site
+T6	Environment 203 214	vadose zone
+T7	Substrate 183 195	hydrocarbons
+T8	Substrate 255 267	hydrocarbons
+T9	Substrate 174 195	volatile hydrocarbons
+T10	Substrate 183 195	hydrocarbons
+T11	Substrate 255 267	hydrocarbons
+T12	Substrate 174 195	volatile hydrocarbons
+T13	Property 245 254	dissolved
+T14	Property 174 182	volatile
+T15	Environment 425 436	groundwater
+T16	Environment 400 436	hydrocarbon-contaminated groundwater
+T17	Environment 391 396	plume
+T18	Property 400 424	hydrocarbon-contaminated
+T19	ReactionOrProcess 460 469	reduction
+T20	ReactionOrProcess 452 469	sulfate reduction
+T21	Substrate 560 567	benzene
+T22	Substrate 532 539	Toluene
+T23	ReactionOrProcess 532 551	Toluene degradation
+T24	ReactionOrProcess 602 611	reduction
+T25	ReactionOrProcess 540 551	degradation
+T26	ReactionOrProcess 568 579	degradation
+T27	ReactionOrProcess 594 611	sulfate reduction
+T28	Microbes 694 711	Desulfosporosinus
+T29	Environment 661 666	plume
+T30	Property 617 633	sulfate-reducing
+T31	Environment 846 856	microcosms
+T32	Substrate 902 909	benzene
+T33	Substrate 871 878	toluene
+T34	ReactionOrProcess 879 893	mineralisation
+T35	ReactionOrProcess 910 924	mineralisation
+T36	ReactionOrProcess 861 870	stimulate
+T37	Microbes 1017 1034	Desulfosporosinus
+T38	Environment 1059 1064	plume
+T39	Property 960 976	sulfate-reducing
+T40	Environment 1256 1260	soil
+T41	Environment 1163 1174	vadose zone
+T42	Substrate 1205 1217	hydrocarbons
+T43	Substrate 1196 1217	volatile hydrocarbons
+T44	Substrate 1205 1217	hydrocarbons
+T45	Substrate 1196 1217	volatile hydrocarbons
+T46	Property 1196 1204	volatile
+T47	Environment 1332 1337	soils
+T48	Substrate 1440 1451	hydrocarbon
+T49	ReactionOrProcess 1299 1313	mineralisation
+R1	CarriedOn Arg1:T49 Arg2:T48
+T50	Environment 1568 1579	groundwater
+T51	Environment 1706 1717	groundwater
+T52	Environment 1532 1542	subsurface
+T53	Substrate 1695 1702	benzene
+T54	Substrate 1631 1651	aromatic hydrocarbon
+T55	Substrate 1640 1651	hydrocarbon
+T56	Property 1631 1639	aromatic
+T57	ReactionOrProcess 1517 1528	remediation
+R2	CarriedOn Arg1:T57 Arg2:T53
+R3	CarriedOn Arg1:T57 Arg2:T54
+R4	CarriedOn Arg1:T57 Arg2:T55
+T58	Environment 1797 1801	soil
+T59	Environment 1726 1737	vadose zone
+T60	Substrate 1839 1860	aromatic hydrocarbons
+T61	Substrate 1839 1860	aromatic hydrocarbons
+T62	Substrate 1848 1860	hydrocarbons
+T63	Substrate 1848 1860	hydrocarbons
+T64	Property 1839 1847	aromatic
+T65	ReactionOrProcess 1749 1760	remediation
+T66	Nutrient 1918 1924	oxygen
+R5	CarriedOn Arg1:T65 Arg2:T60
+R6	CarriedOn Arg1:T65 Arg2:T61
+R7	CarriedOn Arg1:T65 Arg2:T62
+R8	CarriedOn Arg1:T65 Arg2:T63
+T67	Substrate 2001 2009	gasoline
+T68	Property 2066 2073	soluble
+T69	Property 2078 2086	volatile
+T70	Environment 2226 2231	water
+T71	Substrate 2193 2200	benzene
+T72	Property 2315 2325	carcinogen
+T73	Property 2215 2222	soluble
+T74	Property 2250 2258	volatile
+T75	Substrate 2374 2381	benzene
+T76	Substrate 2552 2559	benzene
+T77	Property 2400 2413	concentration
+T78	Substrate 2741 2755	small gasoline
+T79	Substrate 2747 2755	gasoline
+T80	Environment 2932 2943	groundwater
+T81	Substrate 2856 2864	gasoline
+T82	Substrate 2900 2920	aromatic hydrocarbon
+T83	Substrate 2776 2799	Significant hydrocarbon
+T84	Substrate 2788 2799	hydrocarbon
+T85	Substrate 2909 2920	hydrocarbon
+T86	Property 2900 2908	aromatic
+T87	Environment 3017 3029	groundwaters
+T88	Environment 3034 3039	soils
+T89	Substrate 3183 3191	gasoline
+T90	Substrate 3001 3013	hydrocarbons
+T91	Substrate 2992 3013	volatile hydrocarbons
+T92	Substrate 3001 3013	hydrocarbons
+T93	Substrate 2992 3013	volatile hydrocarbons
+T94	Property 2978 2987	dissolved
+T95	Property 2992 3000	volatile
+T96	Environment 3385 3396	groundwater
+T97	Substrate 3269 3277	gasoline
+T98	Substrate 3493 3501	gasoline
+T99	Substrate 3507 3528	aromatic hydrocarbons
+T100	Substrate 3507 3528	aromatic hydrocarbons
+T101	Substrate 3516 3528	hydrocarbons
+T102	Substrate 3516 3528	hydrocarbons
+T103	Property 3507 3515	aromatic
+T104	Property 3469 3474	toxic
+T105	Environment 3645 3656	groundwater
+T106	Environment 3705 3716	groundwater
+T107	Environment 3591 3602	groundwater
+T108	Environment 3743 3754	vadose zone
+T109	Substrate 3691 3696	LNAPL
+T110	Environment 3843 3854	groundwater
+T111	Environment 3888 3892	soil
+T112	Property 3983 3995	contaminants
+T113	ReactionOrProcess 3912 3923	remediation
+T114	Environment 4313 4324	groundwater
+T115	ReactionOrProcess 4298 4309	remediation
+T116	Environment 4481 4492	vadose zone
+T117	Substrate 4452 4473	aromatic hydrocarbons
+T118	Substrate 4452 4473	aromatic hydrocarbons
+T119	Substrate 4461 4473	hydrocarbons
+T120	Substrate 4461 4473	hydrocarbons
+T121	Property 4452 4460	aromatic
+T122	Environment 4577 4588	groundwater
+T123	Environment 4731 4742	groundwater
+T124	Environment 4681 4685	sand
+T125	Environment 4718 4725	aquifer
+T126	Substrate 4552 4573	aromatic hydrocarbons
+T127	Substrate 4552 4573	aromatic hydrocarbons
+T128	Substrate 4561 4573	hydrocarbons
+T129	Substrate 4561 4573	hydrocarbons
+T130	Property 4552 4560	aromatic
+T131	ReactionOrProcess 4537 4548	remediation
+R9	CarriedOn Arg1:T131 Arg2:T126
+R10	CarriedOn Arg1:T131 Arg2:T127
+R11	CarriedOn Arg1:T131 Arg2:T128
+R12	CarriedOn Arg1:T131 Arg2:T129
+T132	Environment 4822 4833	groundwater
+T133	Environment 4894 4905	groundwater
+T134	Environment 5006 5010	sand
+T135	Environment 4997 5010	enriched sand
+T136	ReactionOrProcess 4912 4923	fluctuation
+T137	Nutrient 4964 4968	iron

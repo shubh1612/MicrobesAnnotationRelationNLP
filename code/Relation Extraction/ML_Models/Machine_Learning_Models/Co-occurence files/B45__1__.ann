@@ -1,0 +1,143 @@
+T1	Environment 262 266	Lake
+T2	Environment 153 172	different sediments
+T3	Substrate 136 144	gasoline
+T4	Substrate 44 51	benzene
+T5	Substrate 53 60	toluene
+T6	Substrate 62 74	ethylbenzene
+T7	Substrate 100 106	xylene
+T8	ReactionOrProcess 26 40	biodegradation
+T9	Environment 298 302	Lake
+T10	Microbes 321 340	Enrichment cultures
+T11	Environment 368 376	sediment
+T12	Environment 465 470	water
+T13	Property 411 423	methanogenic
+T14	Property 397 409	sulfidogenic
+T15	ReactionOrProcess 433 441	reducing
+T16	ReactionOrProcess 383 395	denitrifying
+T17	Nutrient 428 432	iron
+T18	Environment 527 536	sediments
+T19	Environment 700 718	pristine sediments
+T20	Substrate 472 476	BTEX
+T21	Environment 810 818	sediment
+T22	Environment 831 840	sediments
+T23	ReactionOrProcess 778 786	reducing
+T24	Environment 932 941	sediments
+T25	Substrate 854 861	benzene
+T26	Substrate 948 955	toluene
+T27	Property 888 900	sulfidogenic
+T28	ReactionOrProcess 960 968	degraded
+T29	ReactionOrProcess 979 984	redox
+T30	Substrate 1009 1013	BTEX
+T31	ReactionOrProcess 1036 1045	reduction
+T32	Nutrient 1061 1079	electron acceptors
+T33	Substrate 1106 1114	gasoline
+T34	ReactionOrProcess 1119 1130	degradation
+T35	Environment 1360 1368	sediment
+T36	Environment 1232 1248	anoxic sediments
+T37	Substrate 1213 1217	BTEX
+T38	ReactionOrProcess 1280 1285	redox
+T39	Substrate 1519 1527	gasoline
+T40	Substrate 1401 1408	benzene
+T41	Substrate 1532 1543	diesel fuel
+T42	Substrate 1484 1493	petroleum
+T43	Substrate 1424 1431	toluene
+T44	Substrate 1374 1399	monoaromatic hydrocarbons
+T45	Substrate 1410 1422	ethylbenzene
+T46	Substrate 1448 1456	p-xylene
+T47	Environment 1672 1683	groundwater
+T48	Environment 1713 1718	water
+T49	Property 1581 1597	water solubility
+T50	Substrate 1729 1736	Benzene
+T51	Property 1767 1776	pollutant
+T52	Property 1792 1807	carcinogenicity
+T53	Property 1836 1841	toxic
+T54	Environment 1890 1899	sediments
+T55	Substrate 1862 1866	BTEX
+T56	Nutrient 1929 1935	oxygen
+T57	Substrate 1995 2002	nitrate
+T58	Property 2154 2162	aromatic
+T59	ReactionOrProcess 2061 2070	degrading
+T60	Nutrient 2004 2008	iron
+T61	Nutrient 2037 2054	electron acceptor
+T62	Nutrient 2130 2136	oxygen
+T63	Substrate 2295 2299	BTEX
+T64	ReactionOrProcess 2432 2441	oxidation
+T65	ReactionOrProcess 2338 2345	degrade
+T66	Nutrient 2388 2396	nitrogen
+T67	Nutrient 2378 2384	oxygen
+T68	Environment 2580 2600	anaerobic conditions
+T69	Substrate 2516 2528	hydrocarbons
+T70	ReactionOrProcess 2492 2506	biodegradation
+T71	Substrate 2756 2760	BTEX
+T72	ReactionOrProcess 2731 2744	anaerobically
+T73	Substrate 2842 2849	toluene
+T74	Property 2870 2882	sulfidogenic
+T75	ReactionOrProcess 2856 2868	denitrifying
+T76	Substrate 3004 3016	ethylbenzene
+T77	ReactionOrProcess 2996 3003	degrade
+T78	Environment 3225 3232	aquifer
+T79	Environment 3256 3270	chronic spills
+T80	ReactionOrProcess 3381 3389	reducing
+T81	Environment 3468 3477	sediments
+T82	Environment 3520 3530	microcosms
+T83	Environment 3460 3467	aquifer
+T84	Substrate 3432 3436	BTEX
+T85	ReactionOrProcess 3507 3519	denitrifying
+T86	ReactionOrProcess 3437 3448	degradation
+T87	Substrate 3581 3588	toluene
+T88	Substrate 3617 3625	o-xylene
+T89	Substrate 3590 3602	ethylbenzene
+T90	Substrate 3604 3612	m-xylene
+T91	Nutrient 3724 3741	electron acceptor
+T92	Environment 3830 3850	contaminated aquifer
+T93	Substrate 3821 3829	gasoline
+T94	Substrate 3852 3856	BTEX
+T95	Property 3898 3910	sulfidogenic
+T96	ReactionOrProcess 3881 3893	denitrifying
+R1	CarriedOn Arg1:T8 Arg2:T3
+R2	CarriedOn Arg1:T8 Arg2:T4
+R3	CarriedOn Arg1:T8 Arg2:T5
+R4	CarriedOn Arg1:T8 Arg2:T6
+R5	CarriedOn Arg1:T8 Arg2:T7
+R6	OccursIn Arg1:T8 Arg2:T1
+R7	OccursIn Arg1:T8 Arg2:T2
+R8	FoundIn Arg1:T10 Arg2:T11
+R9	FoundIn Arg1:T10 Arg2:T12
+R10	Of Arg1:T10 Arg2:T13
+R11	Of Arg1:T10 Arg2:T14
+R12	CarriedOn Arg1:T15 Arg2:T10
+R13	CarriedOn Arg1:T16 Arg2:T10
+R14	OccursIn Arg1:T15 Arg2:T11
+R15	OccursIn Arg1:T15 Arg2:T12
+R16	OccursIn Arg1:T16 Arg2:T11
+R17	OccursIn Arg1:T16 Arg2:T12
+R18	OccursIn Arg1:T23 Arg2:T21
+R19	OccursIn Arg1:T23 Arg2:T22
+R20	CarriedOn Arg1:T28 Arg2:T25
+R21	CarriedOn Arg1:T28 Arg2:T26
+R22	CarriedOn Arg1:T29 Arg2:T25
+R23	CarriedOn Arg1:T29 Arg2:T26
+R24	OccursIn Arg1:T28 Arg2:T24
+R25	OccursIn Arg1:T29 Arg2:T24
+R26	CarriedOn Arg1:T31 Arg2:T30
+R27	CarriedOn Arg1:T34 Arg2:T33
+R28	CarriedOn Arg1:T38 Arg2:T37
+R29	OccursIn Arg1:T38 Arg2:T35
+R30	OccursIn Arg1:T38 Arg2:T36
+R31	CarriedOn Arg1:T59 Arg2:T57
+R32	CarriedOn Arg1:T64 Arg2:T63
+R33	CarriedOn Arg1:T65 Arg2:T63
+R34	CarriedOn Arg1:T70 Arg2:T69
+R35	OccursIn Arg1:T70 Arg2:T68
+R36	CarriedOn Arg1:T72 Arg2:T71
+R37	CarriedOn Arg1:T75 Arg2:T73
+R38	CarriedOn Arg1:T77 Arg2:T76
+R39	CarriedOn Arg1:T85 Arg2:T84
+R40	CarriedOn Arg1:T86 Arg2:T84
+R41	OccursIn Arg1:T85 Arg2:T81
+R42	OccursIn Arg1:T85 Arg2:T82
+R43	OccursIn Arg1:T85 Arg2:T83
+R44	OccursIn Arg1:T86 Arg2:T81
+R45	OccursIn Arg1:T86 Arg2:T82
+R46	OccursIn Arg1:T86 Arg2:T83
+R47	CarriedOn Arg1:T96 Arg2:T94

@@ -1,0 +1,77 @@
+T1	Property 81 93	sulfidogenic
+T2	ReactionOrProcess 42 54	denitrifying
+T3	Substrate 338 342	BTEX
+T4	Environment 496 501	water
+T5	Substrate 420 427	methane
+T6	Property 452 464	methanogenic
+T7	ReactionOrProcess 465 476	enrichments
+T8	ReactionOrProcess 535 549	methanogenesis
+T9	ReactionOrProcess 618 627	reduction
+T10	Nutrient 613 617	Iron
+T11	Substrate 657 665	gasoline
+T12	Substrate 733 737	BTEX
+T13	Substrate 786 790	BTEX
+T14	Substrate 671 690	commercial gasoline
+T15	ReactionOrProcess 718 729	degradation
+T16	Substrate 819 823	BTEX
+T17	Substrate 915 923	gasoline
+T18	Substrate 1011 1018	benzene
+T19	Substrate 965 972	toluene
+T20	Substrate 1022 1034	ethylbenzene
+T21	Substrate 987 994	xylenes
+T22	Substrate 1100 1108	gasoline
+T23	Substrate 1248 1256	gasoline
+T24	Substrate 1182 1189	toluene
+T25	Substrate 1203 1210	toluene
+T26	Substrate 1295 1302	toluene
+T27	Substrate 1197 1201	BTEX
+T28	Substrate 1236 1243	alkanes
+T29	ReactionOrProcess 1159 1170	enrichments
+T30	ReactionOrProcess 1276 1287	degradation
+T31	Substrate 1335 1342	toluene
+T32	Property 1318 1331	concentration
+T33	Substrate 1424 1431	toluene
+T34	Substrate 1467 1474	toluene
+T35	Substrate 1531 1538	toluene
+T36	Substrate 1502 1506	BTEX
+T37	Substrate 1544 1551	alkanes
+T38	ReactionOrProcess 1553 1564	Degradation
+T39	Environment 1685 1705	anaerobic conditions
+T40	Substrate 1646 1650	BTEX
+T41	Property 1665 1678	biodegradable
+T42	ReactionOrProcess 1825 1836	degradation
+T43	Nutrient 1798 1816	electron acceptors
+T44	Substrate 1972 1976	BTEX
+T45	Substrate 2109 2116	nitrate
+T46	ReactionOrProcess 2003 2013	Enrichment
+T47	Microbes 2208 2216	inoculum
+T48	Nutrient 2225 2242	electron acceptor
+T49	ReactionOrProcess 2364 2378	bioremediation
+T50	Microbes 2530 2538	inoculum
+T51	Environment 2459 2478	anaerobic sediments
+T52	Substrate 2451 2455	BTEX
+T53	Nutrient 2561 2578	electron acceptor
+T54	ReactionOrProcess 2601 2612	enrichments
+T55	Environment 2758 2766	sediment
+T56	Nutrient 2803 2820	electron acceptor
+T57	Environment 2835 2841	Marine
+T58	Property 2954 2966	methanogenic
+T59	Property 2877 2889	sulfidogenic
+T60	Substrate 2996 3003	nitrate
+T61	ReactionOrProcess 3019 3036	rapid degradation
+T62	Substrate 3185 3193	gasoline
+T63	Substrate 3088 3092	BTEX
+T64	ReactionOrProcess 3073 3084	degradation
+T65	Environment 3385 3393	sediment
+T66	Substrate 3280 3284	BTEX
+T67	ReactionOrProcess 3245 3256	remediation
+T68	Substrate 3411 3422	Hydrocarbon
+T69	ReactionOrProcess 3423 3434	utilization
+T70	Nutrient 3550 3556	carbon
+T71	Microbes 3736 3757	methanogenic cultures
+T72	Substrate 3588 3595	Toluene
+T73	ReactionOrProcess 3622 3630	degraded
+T74	ReactionOrProcess 3686 3694	reducing
+R1	FoundIn Arg1:T50 Arg2:T51
+R2	ActOn Arg1:T50 Arg2:T52
+R3	ActOn Arg1:T71 Arg2:T72

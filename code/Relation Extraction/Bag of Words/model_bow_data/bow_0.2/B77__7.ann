@@ -1,0 +1,111 @@
+T1	Microbes 92 103	Alcaligenes
+T2	Microbes 105 117	Enterobacter
+T3	Environment 242 254	soil samples
+T4	Environment 242 246	soil
+T5	ReactionOrProcess 215 221	T-RFLP
+T6	Microbes 512 523	Alcaligenes
+T7	Environment 408 424	landfarming soil
+T8	Environment 345 357	control soil
+T9	Environment 333 357	nonpolluted control soil
+T10	Environment 420 424	soil
+T11	Environment 353 357	soil
+T12	ReactionOrProcess 275 282	T-RFLPs
+R1	CarriedOn Arg1:T12 Arg2:T6
+T13	ReactionOrProcess 542 548	T-RFLP
+T14	Microbes 694 705	Alcaligenes
+T15	Environment 775 787	control soil
+T16	Environment 762 787	non-polluted control soil
+T17	Environment 828 840	treated soil
+T18	Environment 836 840	soil
+T19	Environment 783 787	soil
+T20	ReactionOrProcess 736 742	T-RFLP
+T21	Microbes 911 923	Enterobacter
+T22	Microbes 1135 1147	Enterobacter
+T23	Environment 1082 1094	soil samples
+T24	Environment 989 1004	landfarmed soil
+T25	Environment 1000 1004	soil
+T26	Environment 1082 1086	soil
+T27	ReactionOrProcess 962 968	T-RFLP
+T28	ReactionOrProcess 1059 1065	T-RFLP
+T29	ReactionOrProcess 1116 1122	T-RFLP
+T30	Environment 1370 1382	soil samples
+T31	Environment 1370 1374	soil
+T32	ReactionOrProcess 1422 1428	T-RFLP
+T33	Environment 1520 1532	control soil
+T34	Environment 1507 1532	non-polluted control soil
+T35	Environment 1528 1532	soil
+T36	ReactionOrProcess 1481 1487	T-RFLP
+T37	Microbes 1572 1583	Alcaligenes
+T38	Environment 1608 1625	non-polluted soil
+T39	Environment 1621 1625	soil
+T40	Microbes 1723 1735	Enterobacter
+T41	Environment 1809 1821	soil samples
+T42	Environment 1798 1813	landfarmed soil
+T43	Environment 1809 1813	soil
+T44	Microbes 1823 1834	Alcaligenes
+T45	Microbes 1937 1949	Enterobacter
+T46	Environment 1970 1985	landfarmed soil
+T47	Environment 1895 1910	landfarmed soil
+T48	Environment 1981 1985	soil
+T49	Environment 1906 1910	soil
+T50	Environment 2280 2296	landfarmed soils
+T51	Environment 2280 2296	landfarmed soils
+T52	Environment 2291 2296	soils
+T53	Substrate 2250 2259	petroleum
+T54	Substrate 2260 2272	hydrocarbons
+T55	Substrate 2260 2272	hydrocarbons
+T56	Substrate 2250 2272	petroleum hydrocarbons
+T57	Property 2213 2233	chemical composition
+T58	Nutrient 2183 2189	carbon
+T59	Substrate 2450 2459	petroleum
+T60	ReactionOrProcess 2460 2471	degradation
+T61	Microbes 2756 2767	Alcaligenes
+T62	Environment 2606 2618	control soil
+T63	Environment 2663 2678	landfarmed soil
+T64	Environment 2697 2712	landfarmed soil
+T65	Environment 2731 2746	landfarmed soil
+T66	Environment 2596 2618	untreated control soil
+T67	Environment 2614 2618	soil
+T68	Environment 2674 2678	soil
+T69	Environment 2708 2712	soil
+T70	Environment 2742 2746	soil
+T71	ReactionOrProcess 2508 2514	T-RFLP
+T72	ReactionOrProcess 2508 2515	T-RFLPs
+R2	CarriedOn Arg1:T72 Arg2:T61
+T73	Microbes 2835 2846	Alcaligenes
+T74	Microbes 3204 3215	Alcaligenes
+T75	ReactionOrProcess 3253 3267	bioremediation
+T76	Environment 3345 3357	soil samples
+T77	Environment 3390 3402	control soil
+T78	Environment 3377 3402	non-polluted control soil
+T79	Environment 3345 3349	soil
+T80	Environment 3398 3402	soil
+T81	Substrate 3290 3304	catabolic gene
+T82	Substrate 3658 3667	petroleum
+T83	Substrate 3668 3680	hydrocarbons
+T84	Substrate 3668 3680	hydrocarbons
+T85	Substrate 3658 3680	petroleum hydrocarbons
+T86	ReactionOrProcess 3326 3335	extracted
+T87	ReactionOrProcess 3318 3321	PCR
+T88	ReactionOrProcess 3561 3564	PCR
+T89	ReactionOrProcess 3643 3654	degradation
+R3	CarriedOn Arg1:T86 Arg2:T82
+R4	CarriedOn Arg1:T86 Arg2:T83
+R5	CarriedOn Arg1:T86 Arg2:T84
+R6	CarriedOn Arg1:T86 Arg2:T85
+R7	CarriedOn Arg1:T87 Arg2:T82
+R8	CarriedOn Arg1:T87 Arg2:T83
+R9	CarriedOn Arg1:T87 Arg2:T84
+R10	CarriedOn Arg1:T87 Arg2:T85
+R11	CarriedOn Arg1:T88 Arg2:T82
+R12	CarriedOn Arg1:T88 Arg2:T83
+R13	CarriedOn Arg1:T88 Arg2:T84
+R14	CarriedOn Arg1:T88 Arg2:T85
+R15	CarriedOn Arg1:T89 Arg2:T82
+R16	CarriedOn Arg1:T89 Arg2:T83
+R17	CarriedOn Arg1:T89 Arg2:T84
+R18	CarriedOn Arg1:T89 Arg2:T85
+T90	Enzyme 3682 3700	Alkane hydroxylase
+T91	Enzyme 3707 3731	catechol 2,3-dioxygenase
+T92	Enzyme 3754 3777	naphthalene dioxygenase
+T93	Substrate 3754 3765	naphthalene

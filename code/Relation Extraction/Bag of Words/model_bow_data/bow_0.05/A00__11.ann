@@ -1,0 +1,20 @@
+T1	Environment 83 88	plume
+T2	Microbes 129 146	Oceanospirillales
+T3	Environment 303 308	plume
+T4	Substrate 212 219	alkanes
+T5	ReactionOrProcess 179 187	motility
+T6	ReactionOrProcess 197 208	degradation
+R1	CarriedOn Arg1:T5 Arg2:T4
+R2	CarriedOn Arg1:T6 Arg2:T4
+T7	Environment 760 765	plume
+T8	Substrate 495 506	hydrocarbon
+T9	Substrate 748 759	hydrocarbon
+T10	ReactionOrProcess 495 518	hydrocarbon degradation
+T11	ReactionOrProcess 507 518	degradation
+T12	Microbes 863 880	Oceanospirillales
+T13	Environment 819 837	natural oil spills
+T14	Substrate 819 830	natural oil
+T15	Substrate 1047 1059	hydrocarbons
+T16	Substrate 1047 1059	hydrocarbons
+T17	Substrate 827 830	oil
+T18	Substrate 884 887	oil

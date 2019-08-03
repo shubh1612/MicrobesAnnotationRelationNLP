@@ -1,0 +1,46 @@
+T1	Microbes 375 382	E. coli
+T2	Environment 1159 1167	sediment
+T3	Environment 1066 1076	microcosms
+T4	Environment 1173 1178	water
+T5	Substrate 1042 1045	oil
+T6	Property 1113 1127	concentrations
+T7	ReactionOrProcess 1092 1102	incubation
+T8	ReactionOrProcess 1027 1038	degradation
+T9	Nutrient 1104 1112	nitrogen
+T10	Nutrient 1355 1363	nitrogen
+T11	Substrate 1532 1535	oil
+T12	ReactionOrProcess 1445 1460	oil degradation
+T13	Nutrient 1488 1494	carbon
+T14	Environment 1611 1621	microcosms
+T15	Substrate 1758 1761	oil
+T16	Nutrient 1668 1674	carbon
+T17	Environment 1892 1902	microcosms
+T18	Environment 1960 1970	microcosms
+T19	Property 1881 1891	fertilized
+T20	Nutrient 1850 1856	carbon
+T21	Nutrient 1990 1996	carbon
+T22	Nutrient 2092 2098	carbon
+T23	Nutrient 2180 2186	carbon
+T24	Environment 2574 2583	microcosm
+T25	Environment 2508 2517	microcosm
+T26	Nutrient 2429 2435	carbon
+T27	Nutrient 2718 2724	carbon
+T28	Environment 2927 2937	microcosms
+T29	Environment 2799 2809	microcosms
+T30	Nutrient 2825 2831	carbon
+T31	Substrate 3025 3032	alkanes
+T32	Substrate 3038 3041	PAH
+T33	Substrate 3002 3005	TPH
+T34	ReactionOrProcess 2984 2998	biodegradation
+T35	ReactionOrProcess 3135 3149	bioremediation
+T36	ReactionOrProcess 3065 3079	biodegradation
+T37	Substrate 3236 3257	aromatic hydrocarbons
+T38	Substrate 3223 3230	alkanes
+T39	Substrate 3387 3407	aromatic hydrocarbon
+T40	Substrate 3373 3381	n-alkane
+T41	ReactionOrProcess 3396 3422	hydrocarbon biodegradation
+T42	Environment 3552 3561	microcosm
+T43	Environment 3599 3609	microcosms
+T44	ReactionOrProcess 3498 3513	TPH degradation
+T45	Environment 3734 3744	microcosms
+T46	Nutrient 3622 3628	Carbon

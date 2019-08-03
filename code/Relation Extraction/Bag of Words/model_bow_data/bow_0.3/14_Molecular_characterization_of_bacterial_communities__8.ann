@@ -1,0 +1,72 @@
+T1	Microbes 150 160	consortium
+T2	Microbes 323 342	Deltaproteobacteria
+T3	Environment 248 252	sand
+T4	Property 306 322	sulfate-reducing
+T5	Microbes 505 518	Desulfovibrio
+T6	Property 570 578	reducers
+T7	Microbes 701 714	Desulfovibrio
+T8	Microbes 701 718	Desulfovibrio spp
+T9	Environment 781 808	sulfate-reducing conditions
+T10	Property 751 774	syntrophic associations
+T11	Property 781 797	sulfate-reducing
+T12	ReactionOrProcess 751 774	syntrophic associations
+T13	Microbes 1037 1050	Desulfovibrio
+T14	ReactionOrProcess 1103 1112	oxidation
+T15	Environment 1187 1191	sand
+T16	Substrate 1361 1372	methanogens
+T17	Microbes 1502 1512	consortium
+T18	Environment 1497 1501	sand
+T19	ReactionOrProcess 1545 1556	degradation
+T20	Nutrient 1628 1634	carbon
+T21	Microbes 1701 1711	consortium
+T22	Environment 1696 1700	sand
+T23	Substrate 1813 1822	aromatics
+T24	Property 1813 1822	aromatics
+T25	ReactionOrProcess 1805 1812	degrade
+T26	ReactionOrProcess 1864 1871	oxidize
+T27	Microbes 1881 1899	Desulfobacteraceae
+T28	Microbes 1978 1988	consortium
+T29	Environment 1973 1977	sand
+T30	Substrate 2062 2069	toluene
+T31	Substrate 2071 2077	phenol
+T32	Property 1941 1949	aromatic
+T33	ReactionOrProcess 1920 1931	degradation
+R1	CarriedOn Arg1:T33 Arg2:T28
+R2	CarriedOn Arg1:T33 Arg2:T30
+R3	CarriedOn Arg1:T33 Arg2:T31
+T34	Microbes 2193 2212	Deltaproteobacteria
+T35	Substrate 2327 2334	benzene
+T36	Substrate 2317 2334	anaerobic benzene
+T37	Property 2176 2192	sulfate-reducing
+T38	ReactionOrProcess 2261 2270	oxidation
+T39	ReactionOrProcess 2317 2346	anaerobic benzene degradation
+T40	ReactionOrProcess 2290 2299	reduction
+T41	ReactionOrProcess 2335 2346	degradation
+T42	ReactionOrProcess 2282 2299	sulfate reduction
+R4	CarriedOn Arg1:T38 Arg2:T35
+R5	CarriedOn Arg1:T38 Arg2:T36
+R6	CarriedOn Arg1:T40 Arg2:T35
+R7	CarriedOn Arg1:T40 Arg2:T36
+R8	CarriedOn Arg1:T42 Arg2:T35
+R9	CarriedOn Arg1:T42 Arg2:T36
+T43	Microbes 2382 2392	Syntrophus
+T44	Microbes 2449 2459	Syntrophus
+T45	Substrate 2449 2463	Syntrophus spp
+T46	Environment 2720 2729	microcosm
+T47	Substrate 2571 2582	methanogens
+T48	Property 2559 2567	reducers
+T49	ReactionOrProcess 2689 2698	oxidation
+T50	Microbes 2963 2982	enrichment cultures
+T51	ReactionOrProcess 2963 2973	enrichment
+T52	Environment 3111 3127	marine sediments
+T53	Environment 3118 3127	sediments
+T54	Environment 3134 3161	sulfate-reducing conditions
+T55	Environment 3111 3117	marine
+T56	Environment 3111 3127	marine sediments
+T57	Property 3134 3150	sulfate-reducing
+T58	Microbes 3220 3239	Deltaproteobacteria
+T59	Microbes 3167 3177	consortium
+T60	Substrate 3366 3373	benzene
+T61	ReactionOrProcess 3374 3388	mineralization
+T62	Microbes 3554 3564	consortium
+T63	Property 3518 3534	sulfate-reducing

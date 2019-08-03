@@ -1,0 +1,95 @@
+T1	ReactionOrProcess 176 189	prehybridized
+T2	ReactionOrProcess 360 369	denatured
+T3	Nutrient 272 276	NaCl
+T4	Property 466 477	temperature
+T5	ReactionOrProcess 408 421	Hybridization
+T6	ReactionOrProcess 481 515	adding denatured 32P-labeled probe
+T7	ReactionOrProcess 534 540	washed
+T8	ReactionOrProcess 649 655	washed
+T9	Environment 1059 1070	soil sample
+T10	ReactionOrProcess 1205 1219	hybridizations
+T11	ReactionOrProcess 1261 1274	Hybridization
+T12	ReactionOrProcess 1483 1496	hybridization
+T13	ReactionOrProcess 1560 1573	hybridization
+T14	ReactionOrProcess 1690 1703	hybridization
+T15	Environment 1979 1983	soil
+T16	ReactionOrProcess 1896 1909	Hybridization
+T17	Environment 2108 2112	soil
+T18	Environment 2198 2202	soil
+T19	Property 2137 2150	concentration
+T20	ReactionOrProcess 2288 2298	enrichment
+T21	ReactionOrProcess 2364 2377	Hybridization
+T22	Environment 2491 2495	soil
+T23	Environment 2744 2748	soil
+T24	Environment 3011 3015	soil
+T25	Environment 3066 3070	soil
+T26	Microbes 3443 3447	xylE
+T27	Substrate 3386 3407	aromatic hydrocarbons
+T28	Substrate 3133 3148	Catabolic Genes
+T29	Substrate 3220 3232	hydrocarbons
+T30	Property 3120 3128	Residues
+T31	Property 3196 3210	concentrations
+T32	Property 3355 3369	concentrations
+T33	Property 3111 3119	Aromatic
+T34	ReactionOrProcess 3426 3439	hybridization
+T35	Microbes 3475 3479	xylE
+T36	Environment 3568 3572	soil
+T37	Property 3515 3528	concentration
+T38	Property 3506 3514	aromatic
+T39	Property 3556 3565	aromatics
+T40	ReactionOrProcess 3458 3471	Hybridization
+T41	Microbes 3621 3625	xylE
+T42	Property 3585 3598	concentration
+T43	ReactionOrProcess 3604 3617	hybridization
+T44	Microbes 3676 3685	nahA gene
+T45	Environment 3760 3770	microcosms
+T46	Substrate 3744 3752	gasoline
+T47	Property 3726 3740	concentrations
+T48	ReactionOrProcess 3647 3668	Sequences hybridizing
+T49	Substrate 3884 3892	gasoline
+T50	Property 3810 3824	concentrations
+T51	Environment 4011 4015	soil
+T52	Environment 4074 4078	soil
+T53	Substrate 3978 3986	gasoline
+T54	Substrate 4025 4046	intermediate gasoline
+T55	Property 3987 4000	concentration
+T56	ReactionOrProcess 3952 3962	incubation
+T57	ReactionOrProcess 3913 3926	hybridization
+R1	OccursIn Arg1:T16 Arg2:T15
+R2	OccursIn Arg1:T20 Arg2:T17
+R3	OccursIn Arg1:T20 Arg2:T18
+R4	OccursIn Arg1:T21 Arg2:T17
+R5	OccursIn Arg1:T21 Arg2:T18
+R6	Of Arg1:T26 Arg2:T30
+R7	Of Arg1:T26 Arg2:T31
+R8	Of Arg1:T26 Arg2:T32
+R9	Of Arg1:T26 Arg2:T33
+R10	ActOn Arg1:T26 Arg2:T27
+R11	ActOn Arg1:T26 Arg2:T28
+R12	ActOn Arg1:T26 Arg2:T29
+R13	CarriedOn Arg1:T34 Arg2:T26
+R14	CarriedOn Arg1:T34 Arg2:T27
+R15	CarriedOn Arg1:T34 Arg2:T28
+R16	CarriedOn Arg1:T34 Arg2:T29
+R17	FoundIn Arg1:T35 Arg2:T36
+R18	Of Arg1:T35 Arg2:T37
+R19	Of Arg1:T35 Arg2:T38
+R20	Of Arg1:T35 Arg2:T39
+R21	CarriedOn Arg1:T40 Arg2:T35
+R22	OccursIn Arg1:T40 Arg2:T36
+R23	Of Arg1:T41 Arg2:T42
+R24	CarriedOn Arg1:T43 Arg2:T41
+R25	FoundIn Arg1:T44 Arg2:T45
+R26	Of Arg1:T44 Arg2:T47
+R27	ActOn Arg1:T44 Arg2:T46
+R28	CarriedOn Arg1:T48 Arg2:T44
+R29	CarriedOn Arg1:T48 Arg2:T46
+R30	OccursIn Arg1:T48 Arg2:T45
+R31	CarriedOn Arg1:T56 Arg2:T53
+R32	CarriedOn Arg1:T56 Arg2:T54
+R33	CarriedOn Arg1:T57 Arg2:T53
+R34	CarriedOn Arg1:T57 Arg2:T54
+R35	OccursIn Arg1:T56 Arg2:T51
+R36	OccursIn Arg1:T56 Arg2:T52
+R37	OccursIn Arg1:T57 Arg2:T51
+R38	OccursIn Arg1:T57 Arg2:T52

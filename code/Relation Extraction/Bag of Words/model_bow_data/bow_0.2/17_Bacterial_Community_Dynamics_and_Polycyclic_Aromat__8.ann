@@ -1,0 +1,182 @@
+T1	Substrate 128 132	PAHs
+T2	Substrate 137 141	TPHs
+T3	ReactionOrProcess 89 114	late-stage biodegradation
+T4	ReactionOrProcess 100 114	biodegradation
+R1	CarriedOn Arg1:T3 Arg2:T1
+R2	CarriedOn Arg1:T3 Arg2:T2
+R3	CarriedOn Arg1:T4 Arg2:T1
+R4	CarriedOn Arg1:T4 Arg2:T2
+T5	Substrate 225 251	high-molecular-weight PAHs
+T6	Substrate 247 251	PAHs
+T7	ReactionOrProcess 207 221	biodegradation
+R5	CarriedOn Arg1:T7 Arg2:T5
+R6	CarriedOn Arg1:T7 Arg2:T6
+T8	Substrate 333 336	oil
+T9	Substrate 327 336	motor oil
+T10	ReactionOrProcess 307 321	bioremediation
+T11	ReactionOrProcess 294 303	reduction
+T12	Nutrient 384 388	NaCl
+R7	CarriedOn Arg1:T10 Arg2:T8
+R8	CarriedOn Arg1:T10 Arg2:T9
+R9	CarriedOn Arg1:T11 Arg2:T8
+R10	CarriedOn Arg1:T11 Arg2:T9
+T13	Environment 477 506	hydrocarbon-contaminated soil
+T14	Environment 470 506	Arctic hydrocarbon-contaminated soil
+T15	Environment 502 506	soil
+T16	Property 477 501	hydrocarbon-contaminated
+T17	ReactionOrProcess 428 437	reduction
+T18	Substrate 684 695	hydrocarbon
+T19	ReactionOrProcess 684 710	hydrocarbon biodegradation
+T20	ReactionOrProcess 696 710	biodegradation
+T21	ReactionOrProcess 957 971	biostimulation
+T22	ReactionOrProcess 916 930	biodegradation
+T23	Microbes 1239 1292	heterotrophic and PAH-degrading microbial populations
+T24	Environment 1300 1304	soil
+T25	Substrate 1077 1109	polycyclic aromatic hydrocarbons
+T26	Substrate 1088 1109	aromatic hydrocarbons
+T27	Substrate 1088 1109	aromatic hydrocarbons
+T28	Substrate 1463 1466	PAH
+T29	Substrate 1097 1109	hydrocarbons
+T30	Substrate 1097 1109	hydrocarbons
+T31	Substrate 1077 1109	polycyclic aromatic hydrocarbons
+T32	Property 1239 1252	heterotrophic
+T33	Property 1077 1087	polycyclic
+T34	Property 1467 1476	degraders
+T35	Property 1088 1096	aromatic
+T36	ReactionOrProcess 1059 1073	bioremediation
+T37	ReactionOrProcess 1148 1162	bioremediation
+R11	CarriedOn Arg1:T36 Arg2:T23
+R12	CarriedOn Arg1:T37 Arg2:T23
+R13	CarriedOn Arg1:T36 Arg2:T25
+R14	CarriedOn Arg1:T36 Arg2:T26
+R15	CarriedOn Arg1:T36 Arg2:T27
+R16	CarriedOn Arg1:T36 Arg2:T28
+R17	CarriedOn Arg1:T36 Arg2:T31
+R18	CarriedOn Arg1:T37 Arg2:T25
+R19	CarriedOn Arg1:T37 Arg2:T26
+R20	CarriedOn Arg1:T37 Arg2:T27
+R21	CarriedOn Arg1:T37 Arg2:T28
+R22	CarriedOn Arg1:T37 Arg2:T31
+T38	Substrate 1550 1553	TPH
+T39	ReactionOrProcess 1554 1563	depletion
+T40	Substrate 1637 1640	TPH
+T41	ReactionOrProcess 1637 1652	TPH degradation
+T42	ReactionOrProcess 1641 1652	degradation
+T43	Microbes 1803 1827	heterotrophic population
+T44	Property 1803 1816	heterotrophic
+T45	Substrate 2188 2191	PAH
+T46	Substrate 2320 2324	PAHs
+T47	Substrate 2254 2257	TPH
+T48	Property 2192 2201	degraders
+T49	ReactionOrProcess 2254 2269	TPH degradation
+T50	ReactionOrProcess 2258 2269	degradation
+T51	Substrate 2342 2345	PAH
+T52	Substrate 2398 2402	PAHs
+T53	ReactionOrProcess 2366 2376	enrichment
+R23	CarriedOn Arg1:T53 Arg2:T52
+T54	Microbes 2648 2658	Roseomonas
+T55	Microbes 2702 2713	Alcaligenes
+T56	Microbes 2743 2756	Sinorhizobium
+T57	Microbes 2758 2770	Erytrobacter
+T58	Microbes 2772 2781	Cytophaga
+T59	Microbes 2728 2741	Achromobacter
+T60	Microbes 2634 2646	Azospirillum
+T61	Microbes 2687 2700	Agrobacterium
+T62	Microbes 2620 2632	Sphingomonas
+T63	Microbes 2675 2685	Trojanella
+T64	Microbes 2715 2726	Xanthomonas
+T65	Microbes 2660 2673	Brevundimonas
+T66	Environment 2597 2618	PAH-contaminated soil
+T67	Environment 2614 2618	soil
+T68	ReactionOrProcess 2548 2555	excised
+T69	ReactionOrProcess 2543 2547	DGGE
+T70	ReactionOrProcess 2569 2583	biostimulation
+R24	CarriedOn Arg1:T68 Arg2:T54
+R25	CarriedOn Arg1:T68 Arg2:T55
+R26	CarriedOn Arg1:T68 Arg2:T56
+R27	CarriedOn Arg1:T68 Arg2:T57
+R28	CarriedOn Arg1:T68 Arg2:T58
+R29	CarriedOn Arg1:T68 Arg2:T59
+R30	CarriedOn Arg1:T68 Arg2:T60
+R31	CarriedOn Arg1:T68 Arg2:T61
+R32	CarriedOn Arg1:T68 Arg2:T62
+R33	CarriedOn Arg1:T68 Arg2:T63
+R34	CarriedOn Arg1:T68 Arg2:T64
+R35	CarriedOn Arg1:T68 Arg2:T65
+R36	CarriedOn Arg1:T69 Arg2:T54
+R37	CarriedOn Arg1:T69 Arg2:T55
+R38	CarriedOn Arg1:T69 Arg2:T56
+R39	CarriedOn Arg1:T69 Arg2:T57
+R40	CarriedOn Arg1:T69 Arg2:T58
+R41	CarriedOn Arg1:T69 Arg2:T59
+R42	CarriedOn Arg1:T69 Arg2:T60
+R43	CarriedOn Arg1:T69 Arg2:T61
+R44	CarriedOn Arg1:T69 Arg2:T62
+R45	CarriedOn Arg1:T69 Arg2:T63
+R46	CarriedOn Arg1:T69 Arg2:T64
+R47	CarriedOn Arg1:T69 Arg2:T65
+R48	CarriedOn Arg1:T70 Arg2:T54
+R49	CarriedOn Arg1:T70 Arg2:T55
+R50	CarriedOn Arg1:T70 Arg2:T56
+R51	CarriedOn Arg1:T70 Arg2:T57
+R52	CarriedOn Arg1:T70 Arg2:T58
+R53	CarriedOn Arg1:T70 Arg2:T59
+R54	CarriedOn Arg1:T70 Arg2:T60
+R55	CarriedOn Arg1:T70 Arg2:T61
+R56	CarriedOn Arg1:T70 Arg2:T62
+R57	CarriedOn Arg1:T70 Arg2:T63
+R58	CarriedOn Arg1:T70 Arg2:T64
+R59	CarriedOn Arg1:T70 Arg2:T65
+T71	Microbes 2904 2916	Azospirillum
+T72	Microbes 2887 2899	Sphingomonas
+T73	ReactionOrProcess 2826 2840	biodegradation
+R60	CarriedOn Arg1:T73 Arg2:T71
+R61	CarriedOn Arg1:T73 Arg2:T72
+T74	ReactionOrProcess 3019 3023	DGGE
+T75	Substrate 3339 3347	fluorene
+T76	Substrate 3363 3373	anthracene
+T77	Substrate 3195 3198	PAH
+T78	Substrate 3349 3361	phenanthrene
+T79	Substrate 3396 3408	fluoranthene
+T80	Substrate 3187 3190	TPH
+T81	Substrate 3375 3394	alkyl-phenanthrenes
+T82	Substrate 3414 3420	pyrene
+T83	Substrate 3325 3337	acenaphthene
+T84	ReactionOrProcess 3292 3311	fast biodegradation
+T85	ReactionOrProcess 3195 3213	PAH biodegradation
+T86	ReactionOrProcess 3199 3213	biodegradation
+T87	ReactionOrProcess 3297 3311	biodegradation
+R62	CarriedOn Arg1:T84 Arg2:T82
+R63	CarriedOn Arg1:T85 Arg2:T82
+R64	CarriedOn Arg1:T86 Arg2:T82
+R65	CarriedOn Arg1:T87 Arg2:T82
+T88	Microbes 3548 3564	α-Proteobacteria
+T89	Environment 3661 3670	sediments
+T90	Environment 3650 3670	intertidal sediments
+T91	Environment 3650 3670	intertidal sediments
+T92	Substrate 3608 3619	spilled oil
+T93	Substrate 3616 3619	oil
+T94	Property 3741 3754	gram-negative
+T95	ReactionOrProcess 3809 3819	extraction
+T96	Microbes 3963 3976	Mycobacterium
+T97	Environment 4064 4090	creosote-contaminated soil
+T98	Environment 4086 4090	soil
+T99	Property 4027 4040	gram-negative
+T100	ReactionOrProcess 3839 3849	extraction
+T101	ReactionOrProcess 4102 4116	bioremediation
+T102	Substrate 4255 4259	PAHs
+T103	Substrate 4247 4250	TPH
+T104	ReactionOrProcess 4156 4171	bioaugmentation
+T105	ReactionOrProcess 4126 4141	Bioaugmentation
+T106	ReactionOrProcess 4229 4243	biodegradation
+R66	CarriedOn Arg1:T104 Arg2:T102
+R67	CarriedOn Arg1:T104 Arg2:T103
+R68	CarriedOn Arg1:T105 Arg2:T102
+R69	CarriedOn Arg1:T105 Arg2:T103
+R70	CarriedOn Arg1:T106 Arg2:T102
+R71	CarriedOn Arg1:T106 Arg2:T103
+T107	Microbes 4442 4450	inoculum
+T108	Microbes 4415 4425	consortium
+T109	Microbes 4647 4658	Alcaligenes
+T110	Microbes 4588 4600	Sphingomonas
+T111	Microbes 4529 4539	consortium

@@ -1,0 +1,25 @@
+T1	Substrate 146 149	oil
+T2	Environment 404 418	pristine sands
+T3	Environment 370 391	clean Pensacola sands
+T4	Environment 349 360	Beach sands
+T5	Environment 720 724	sand
+T6	Environment 1017 1028	beach sands
+T7	Substrate 1267 1270	oil
+T8	Environment 1350 1361	beach sands
+T9	Substrate 1521 1531	visual oil
+T10	Microbes 1712 1731	Gammaproteobacteria
+T11	Microbes 1736 1755	Alphaproteobacteria
+T12	Environment 1779 1789	beach sand
+T13	Substrate 1817 1820	oil
+T14	Microbes 1873 1887	Actinobacteria
+T15	Microbes 1849 1868	Alphaproteobacteria	
+T16	Microbes 2142 2158	Rhodobacteraceae
+T17	Microbes 2075 2094	Alphaproteobacteria
+T18	Environment 2388 2398	Beach sand
+T19	Substrate 2671 2674	oil
+T20	ReactionOrProcess 2568 2594	hydrocarbon biodegradation
+T21	Environment 2761 2777	marine sediments
+T22	Property 2930 2944	biosurfactants
+T23	ReactionOrProcess 2708 2723	oil degradation
+T24	ReactionOrProcess 3195 3218	hydrocarbon degradation
+R6	OccursIn Arg1:T23 Arg2:T21

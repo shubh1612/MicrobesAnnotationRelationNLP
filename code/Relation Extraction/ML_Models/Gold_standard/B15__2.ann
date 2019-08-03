@@ -1,0 +1,116 @@
+T1	ReactionOrProcess 32 40	purified
+T2	ReactionOrProcess 165 180	electrophoresis
+T3	ReactionOrProcess 51 54	PCR
+T4	ReactionOrProcess 256 259	PCR
+T5	ReactionOrProcess 359 392	Basic Local Alignment Search Tool
+T6	Microbes 535 543	inoculum
+T7	Substrate 429 435	diesel
+T8	Substrate 567 573	diesel
+T9	Substrate 448 470	petroleum hydrocarbons
+T10	ReactionOrProcess 600 622	incubated with shaking
+T11	Nutrient 580 586	carbon
+T12	Substrate 760 766	diesel
+T13	Substrate 914 920	diesel
+T14	Substrate 1176 1203	total petroleum hydrocarbon
+T15	Property 1022 1033	temperature
+T16	Property 1210 1224	concentrations
+T17	ReactionOrProcess 1157 1168	GC analysis
+T18	Substrate 1487 1495	gasoline
+T19	Substrate 1348 1355	benzene
+T20	Substrate 1357 1364	toluene
+T21	Substrate 1419 1423	PAHs
+T22	Substrate 1438 1450	phenanthrene
+T23	Substrate 1508 1517	crude oil
+T24	Substrate 1366 1378	ethylbenzene
+T25	Substrate 1383 1389	xylene
+T26	Substrate 1455 1461	pyrene
+T27	Substrate 1497 1503	diesel
+T28	Substrate 1265 1287	petroleum hydrocarbons
+T29	ReactionOrProcess 1234 1255	potential degradation
+T30	Substrate 1588 1599	hydrocarbon
+T31	ReactionOrProcess 1567 1577	inoculated
+T32	Environment 1770 1774	soil
+T33	Environment 1710 1714	
+T34	Substrate 1733 1739	diesel
+T35	Environment 1858 1862	soil
+T36	Environment 1878 1882	soil
+T37	Environment 1981 1985	soil
+T38	Substrate 2098 2126	total petroleum hydrocarbons
+T39	Substrate 2133 2139	hexane
+T40	Substrate 2020 2026	diesel
+T41	ReactionOrProcess 1887 1895	airdried
+T42	ReactionOrProcess 2221 2232	GC analysis
+T43	Substrate 2289 2292	TPH
+T44	Substrate 2312 2318	hexane
+T45	Substrate 2270 2276	diesel
+T46	ReactionOrProcess 2431 2456	flame ionization detector
+T47	ReactionOrProcess 2293 2302	extracted
+T48	Substrate 2637 2652	
+T49	Substrate 2697 2700	TPH
+T50	Substrate 2656 2662	hexane
+T51	Substrate 3061 3071	hexadecane
+T52	Substrate 3125 3131	diesel
+T53	ReactionOrProcess 3078 3087	reduction
+T54	ReactionOrProcess 3110 3121	degradation
+T55	Substrate 3201 3207	diesel
+T56	ReactionOrProcess 3193 3200	degrade
+T57	Microbes 3239 3261	Pseudomonas aeruginosa
+T58	Microbes 3478 3500	Pseudomonas aeruginosa
+T59	Microbes 3591 3605	Pseudomonas sp
+T60	Microbes 3663 3673	consortium
+T61	Environment 3705 3717	soil samples
+T62	Environment 3688 3709	oil-contaminated soil
+T63	Property 3620 3631	degradative
+T64	Substrate 3840 3846	diesel
+T65	Substrate 3806 3828	petroleum hydrocarbons
+T66	Substrate 3992 4000	gasoline
+T67	Substrate 3898 3907	crude oil
+T68	Substrate 3938 3944	diesel
+T69	Substrate 4077 4084	benzene
+T70	Substrate 4086 4093	toluene
+T71	Substrate 4103 4114	naphthalene
+T72	Substrate 4116 4128	phenanthrene
+T73	Substrate 4149 4161	ethylbenzene
+T74	Substrate 4095 4101	xylene
+T75	Substrate 4056 4068	hydrocarbons
+T76	Substrate 4133 4139	pyrene
+T77	ReactionOrProcess 4037 4044	degrade
+T78	Substrate 4263 4274	hydrocarbon
+T79	Substrate 4201 4213	hydrocarbons
+T80	Nutrient 4304 4310	carbon
+T81	Microbes 4367 4380	P. aeruginosa
+T82	Substrate 4458 4475	PAHs of crude oil
+T83	Substrate 4398 4404	pyrene
+T84	Nutrient 4489 4495	carbon
+T85	Microbes 4597 4610	P. aeruginosa
+T86	Substrate 4720 4732	hydrocarbons
+T87	Substrate 4520 4526	
+T88	Nutrient 4638 4644	carbon
+R3	ActOn Arg1:T6 Arg2:T9
+R4	CarriedOn Arg1:T10 Arg2:T6
+R5	CarriedOn Arg1:T10 Arg2:T7
+R6	CarriedOn Arg1:T10 Arg2:T8
+R7	CarriedOn Arg1:T10 Arg2:T9
+R8	CarriedOn Arg1:T17 Arg2:T14
+R19	CarriedOn Arg1:T29 Arg2:T28
+R20	CarriedOn Arg1:T31 Arg2:T30
+R22	CarriedOn Arg1:T41 Arg2:T39
+R27	OccursIn Arg1:T41 Arg2:T35
+R28	OccursIn Arg1:T41 Arg2:T36
+R36	CarriedOn Arg1:T47 Arg2:T43
+R37	CarriedOn Arg1:T47 Arg2:T44
+R38	CarriedOn Arg1:T47 Arg2:T45
+R39	CarriedOn Arg1:T53 Arg2:T51
+R42	CarriedOn Arg1:T54 Arg2:T52
+R43	CarriedOn Arg1:T56 Arg2:T55
+R44	FoundIn Arg1:T60 Arg2:T61
+R45	FoundIn Arg1:T60 Arg2:T62
+R46	Of Arg1:T60 Arg2:T63
+R47	CarriedOn Arg1:T77 Arg2:T69
+R48	CarriedOn Arg1:T77 Arg2:T70
+R49	CarriedOn Arg1:T77 Arg2:T71
+R50	CarriedOn Arg1:T77 Arg2:T72
+R51	CarriedOn Arg1:T77 Arg2:T73
+R52	CarriedOn Arg1:T77 Arg2:T74
+R53	CarriedOn Arg1:T77 Arg2:T75
+R54	CarriedOn Arg1:T77 Arg2:T76

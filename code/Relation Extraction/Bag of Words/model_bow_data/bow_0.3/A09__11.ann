@@ -1,0 +1,100 @@
+T1	ReactionOrProcess 0 9	Isolation
+T2	Microbes 329 342	Acinetobacter
+T3	Microbes 302 314	Marinobacter
+T4	Environment 424 429	Beach
+T5	Environment 424 435	Beach sands
+T6	Environment 430 435	sands
+T7	Substrate 506 509	oil
+T8	Substrate 595 598	oil
+T9	ReactionOrProcess 587 594	degrade
+T10	Nutrient 522 528	carbon
+T11	Environment 645 650	Beach
+T12	Environment 738 744	marine
+T13	Environment 645 656	Beach sands
+T14	Environment 651 656	sands
+T15	Substrate 796 808	hydrocarbons
+T16	Substrate 796 808	hydrocarbons
+T17	Substrate 792 795	oil
+T18	Environment 1012 1018	marine
+T19	Substrate 887 899	hydrocarbons
+T20	Substrate 887 899	hydrocarbons
+T21	Substrate 883 886	oil
+T22	ReactionOrProcess 875 882	degrade
+T23	Microbes 1120 1139	Gammaproteobacteria
+T24	Substrate 1204 1211	alkanes
+T25	ReactionOrProcess 1196 1203	degrade
+T26	Substrate 1445 1448	PAH
+T27	ReactionOrProcess 1449 1460	degradation
+T28	Substrate 1675 1679	PAHs
+T29	Substrate 1651 1663	hydrocarbons
+T30	Substrate 1651 1663	hydrocarbons
+T31	Substrate 1587 1590	oil
+T32	ReactionOrProcess 1579 1586	degrade
+T33	ReactionOrProcess 1640 1650	metabolize
+T34	Microbes 1867 1879	Marinobacter
+T35	Substrate 1937 1948	hydrocarbon
+T36	Property 1949 1958	degraders
+T37	Microbes 2055 2067	Marinobacter
+T38	Substrate 2192 2202	aliphatics
+T39	Substrate 2207 2211	PAHs
+T40	Nutrient 2164 2170	carbon
+T41	Nutrient 2460 2466	carbon
+T42	ReactionOrProcess 2622 2633	utilization
+T43	Nutrient 2605 2611	carbon
+T44	Substrate 3164 3175	hydrocarbon
+T45	Property 3176 3185	degraders
+T46	Substrate 3673 3684	hydrocarbon
+T47	Substrate 3749 3752	oil
+T48	Substrate 3826 3829	oil
+T49	Property 3685 3694	degraders
+T50	ReactionOrProcess 3753 3764	degradation
+T51	ReactionOrProcess 3749 3764	oil degradation
+T52	Substrate 4010 4021	hydrocarbon
+T53	Property 4022 4031	degraders
+T54	ReactionOrProcess 3850 3859	isolation
+R1	CarriedOn Arg1:T54 Arg2:T52
+T55	Environment 4359 4364	Beach
+T56	Environment 4359 4370	Beach sands
+T57	Environment 4365 4370	sands
+T58	Substrate 4390 4393	oil
+T59	Substrate 4406 4409	oil
+T60	ReactionOrProcess 4202 4211	isolation
+R2	CarriedOn Arg1:T60 Arg2:T58
+R3	CarriedOn Arg1:T60 Arg2:T59
+T61	Microbes 4461 4480	Gammaproteobacteria
+T62	Microbes 4714 4730	Rhodobacteraceae
+T63	Microbes 4679 4698	Alphaproteobacteria
+T64	Environment 4588 4593	beach
+T65	Environment 4588 4599	beach sands
+T66	Environment 4594 4599	sands
+T67	Substrate 4638 4647	n-alkanes
+T68	Substrate 4858 4874	recalcitrant oil
+T69	Substrate 4905 4909	PAHs
+T70	Substrate 4858 4886	recalcitrant oil hydrocarbon
+T71	Substrate 4556 4567	hydrocarbon
+T72	Substrate 4875 4886	hydrocarbon
+T73	Substrate 4552 4555	oil
+T74	Substrate 4871 4874	oil
+T75	ReactionOrProcess 4556 4579	hydrocarbon degradation
+T76	ReactionOrProcess 4568 4579	degradation
+T77	ReactionOrProcess 4836 4847	degradation
+R4	CarriedOn Arg1:T75 Arg2:T62
+R5	CarriedOn Arg1:T75 Arg2:T63
+R6	CarriedOn Arg1:T76 Arg2:T62
+R7	CarriedOn Arg1:T76 Arg2:T63
+R8	CarriedOn Arg1:T77 Arg2:T62
+R9	CarriedOn Arg1:T77 Arg2:T63
+R10	CarriedOn Arg1:T75 Arg2:T68
+R11	CarriedOn Arg1:T75 Arg2:T69
+R12	CarriedOn Arg1:T75 Arg2:T70
+R13	CarriedOn Arg1:T76 Arg2:T68
+R14	CarriedOn Arg1:T76 Arg2:T69
+R15	CarriedOn Arg1:T76 Arg2:T70
+R16	CarriedOn Arg1:T77 Arg2:T68
+R17	CarriedOn Arg1:T77 Arg2:T69
+R18	CarriedOn Arg1:T77 Arg2:T70
+T78	Substrate 5071 5082	hydrocarbon
+T79	Property 5083 5092	degraders
+T80	Substrate 5219 5230	hydrocarbon
+T81	ReactionOrProcess 5219 5242	hydrocarbon degradation
+T82	ReactionOrProcess 5231 5242	degradation

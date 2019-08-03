@@ -1,0 +1,68 @@
+T1	Substrate 166 173	toluene
+T2	ReactionOrProcess 156 185	anaerobic toluene degradation
+T3	ReactionOrProcess 166 185	toluene degradation
+T4	ReactionOrProcess 174 185	degradation
+T5	ReactionOrProcess 285 295	replicates
+T6	Enzyme 688 701	monooxygenase
+T7	Enzyme 680 701	methane monooxygenase
+T8	Environment 723 728	plume
+T9	Environment 561 567	Marine
+T10	Substrate 680 687	methane
+T11	Substrate 622 625	oil
+T12	ReactionOrProcess 594 618	potential bioremediation
+T13	ReactionOrProcess 604 618	bioremediation
+R1	CarriedOn Arg1:T12 Arg2:T10
+R2	CarriedOn Arg1:T12 Arg2:T11
+R3	CarriedOn Arg1:T13 Arg2:T10
+R4	CarriedOn Arg1:T13 Arg2:T11
+T14	Microbes 801 815	Methanoculleus
+T15	Environment 898 903	plume
+T16	Environment 894 903	oil plume
+T17	Substrate 894 897	oil
+T18	Environment 1046 1051	plume
+T19	Enzyme 1195 1208	monooxygenase
+T20	Enzyme 1187 1208	methane monooxygenase
+T21	Environment 1218 1223	plume
+T22	Environment 1228 1236	nonplume
+T23	Substrate 1187 1194	methane
+T24	Nutrient 1246 1254	Nitrogen
+T25	Substrate 1256 1265	Petroleum
+T26	Substrate 1342 1345	oil
+T27	Nutrient 1298 1306	nitrogen
+T28	Environment 1626 1631	plume
+T29	Substrate 1535 1542	ammonia
+T30	ReactionOrProcess 1486 1495	reduction
+R5	CarriedOn Arg1:T30 Arg2:T29
+T31	ReactionOrProcess 1881 1896	denitrification
+T32	Substrate 1924 1930	Sulfur
+T33	Environment 2200 2205	plume
+T34	Environment 1993 1998	plume
+T35	ReactionOrProcess 1940 1949	reduction
+T36	Microbes 2361 2372	Clostridium
+T37	Microbes 2652 2667	Syntrophobacter
+T38	Microbes 2579 2594	Desulfohalobium
+T39	Property 2615 2631	sulfate-reducing
+T40	Property 2810 2826	sulfate-reducing
+T41	ReactionOrProcess 2897 2906	reduction
+T42	ReactionOrProcess 2946 2957	degradation
+T43	ReactionOrProcess 2889 2906	sulfate reduction
+T44	ReactionOrProcess 2979 2988	reduction
+T45	Nutrient 2974 2978	iron
+T46	Nutrient 2959 2969	Phosphorus
+T47	Environment 3107 3113	marine
+T48	Substrate 3035 3038	oil
+T49	ReactionOrProcess 3039 3053	bioremediation
+T50	ReactionOrProcess 3035 3053	oil bioremediation
+T51	Nutrient 2993 3003	phosphorus
+T52	Nutrient 3085 3095	phosphorus
+T53	Environment 3332 3337	plume
+T54	ReactionOrProcess 3170 3205	inorganic polyphosphate degradation
+T55	ReactionOrProcess 3194 3205	degradation
+T56	ReactionOrProcess 3230 3241	degradation
+T57	Substrate 3452 3455	oil
+T58	Nutrient 3410 3420	phosphorus
+T59	Environment 3570 3575	plume
+T60	Environment 3695 3700	water
+T61	Environment 3690 3700	deep water
+T62	ReactionOrProcess 3661 3670	reduction
+T63	ReactionOrProcess 3630 3641	degradation

@@ -1,0 +1,79 @@
+T1	ReactionOrProcess 171 175	DGGE
+T2	ReactionOrProcess 604 624	early biodegradation
+T3	Substrate 827 831	PAHs
+T4	ReactionOrProcess 887 896	depletion
+T5	ReactionOrProcess 798 812	biodegradation
+T6	ReactionOrProcess 935 942	excised
+T7	ReactionOrProcess 988 992	DGGE
+T8	ReactionOrProcess 1019 1033	biostimulation
+T9	Environment 1067 1081	untreated soil
+T10	ReactionOrProcess 1106 1113	excised
+T11	ReactionOrProcess 1311 1318	excised
+T12	ReactionOrProcess 1300 1304	DGGE
+T13	ReactionOrProcess 1323 1337	biostimulation
+T14	ReactionOrProcess 1395 1399	DGGE
+T15	Microbes 1577 1600	Rhizobium-Agrobacterium
+T16	Microbes 1606 1618	Azospirillum
+T17	Microbes 1545 1561	α-Proteobacteria
+T18	Microbes 1637 1653	γ-Proteobacteria
+T19	Environment 1525 1529	soil
+T20	Microbes 1764 1780	α-Proteobacteria
+T21	Microbes 1847 1863	γ-Proteobacteria
+T22	Environment 1713 1731	Biostimulated soil
+T23	ReactionOrProcess 1787 1791	DGGE
+T24	ReactionOrProcess 1826 1830	DGGE
+T25	ReactionOrProcess 1870 1874	DGGE
+T26	ReactionOrProcess 2046 2050	DGGE
+T27	Microbes 2134 2150	α-Proteobacteria
+T28	Microbes 2215 2231	γ-Proteobacteria
+T29	Environment 2085 2089	Soil
+T30	ReactionOrProcess 2158 2162	DGGE
+T31	ReactionOrProcess 2198 2202	DGGE
+T32	ReactionOrProcess 2238 2242	DGGE
+T33	ReactionOrProcess 2304 2308	DGGE
+T34	Environment 2394 2398	soil
+T35	Environment 2449 2453	soil
+T36	Microbes 2633 2649	α-Proteobacteria
+T37	Microbes 2773 2789	γ-Proteobacteria
+T38	ReactionOrProcess 2905 2919	biodegradation
+T39	Environment 2971 2975	soil
+T40	Microbes 3159 3175	γ-Proteobacteria
+T41	Microbes 3236 3252	α-Proteobacteria
+T42	Environment 3458 3462	soil
+T43	Microbes 3686 3702	α-Proteobacteria
+T44	Microbes 3868 3884	γ-Proteobacteria
+T45	Environment 4032 4036	soil
+T46	Microbes 4401 4417	α-Proteobacteria
+T47	Microbes 4234 4250	γ-Proteobacteria
+R1	CarriedOn Arg1:T4 Arg2:T3
+R2	CarriedOn Arg1:T5 Arg2:T3
+R3	OccursIn Arg1:T10 Arg2:T9
+R4	FoundIn Arg1:T15 Arg2:T19
+R5	FoundIn Arg1:T16 Arg2:T19
+R6	FoundIn Arg1:T17 Arg2:T19
+R7	FoundIn Arg1:T18 Arg2:T19
+R8	FoundIn Arg1:T20 Arg2:T22
+R9	FoundIn Arg1:T21 Arg2:T22
+R10	CarriedOn Arg1:T23 Arg2:T20
+R11	CarriedOn Arg1:T23 Arg2:T21
+R12	CarriedOn Arg1:T24 Arg2:T20
+R13	CarriedOn Arg1:T24 Arg2:T21
+R14	CarriedOn Arg1:T25 Arg2:T20
+R15	CarriedOn Arg1:T25 Arg2:T21
+R16	OccursIn Arg1:T23 Arg2:T22
+R17	OccursIn Arg1:T24 Arg2:T22
+R18	OccursIn Arg1:T25 Arg2:T22
+R19	FoundIn Arg1:T27 Arg2:T29
+R20	FoundIn Arg1:T28 Arg2:T29
+R21	CarriedOn Arg1:T30 Arg2:T27
+R22	CarriedOn Arg1:T30 Arg2:T28
+R23	CarriedOn Arg1:T31 Arg2:T27
+R24	CarriedOn Arg1:T31 Arg2:T28
+R25	CarriedOn Arg1:T32 Arg2:T27
+R26	CarriedOn Arg1:T32 Arg2:T28
+R27	CarriedOn Arg1:T33 Arg2:T27
+R28	CarriedOn Arg1:T33 Arg2:T28
+R29	OccursIn Arg1:T30 Arg2:T29
+R30	OccursIn Arg1:T31 Arg2:T29
+R31	OccursIn Arg1:T32 Arg2:T29
+R32	OccursIn Arg1:T33 Arg2:T29

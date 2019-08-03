@@ -1,0 +1,92 @@
+T1 Environment 138 147 sediments
+T2 Substrate 103 107 MTBE
+T3 Property 86 99 concentration
+T4 ReactionOrProcess 190 200 incubation
+T5 Nutrient 245 247 HS
+T6 Environment 381 390 sediments
+T7 Substrate 495 499 MTBE
+T8 Substrate 353 357 MTBE
+T9 ReactionOrProcess 394 404 metabolize
+T10 ReactionOrProcess 500 511 degradation
+T11 Environment 546 555 sediments
+T12 Substrate 534 538 MTBE
+T13 Property 517 530 concentration
+T14 Environment 644 673 triplicate unamended sediment
+T15 Environment 772 790 unamended sediment
+T16 Environment 961 970 sediments
+T17 Environment 986 1006 triplicate sediments
+T18 Nutrient 1027 1029 HS
+T19 Environment 1139 1148 sediments
+T20 Environment 1485 1493 sediment
+T21 Environment 1518 1527 Sediments
+T22 Property 1568 1579 crystalline
+T23 Property 1643 1654 crystalline
+T24 Nutrient 1598 1614 humic substances
+T25 ReactionOrProcess 1807 1818 incubations
+T26 Environment 1907 1915 sediment
+T27 Environment 1940 1949 Sediments
+T28 Property 1975 1986 crystalline
+T29 ReactionOrProcess 2039 2050 incubations
+T30 Environment 2134 2153 anaerobic sediments
+T31 Substrate 2102 2106 MTBE
+T32 Substrate 2111 2114 TBA
+T33 ReactionOrProcess 2122 2130 degraded
+T34 Environment 2221 2230 sediments
+T35 Environment 2213 2220 aquifer
+T36 Substrate 2183 2187 MTBE
+T37 ReactionOrProcess 2164 2174 adaptation
+T38 Nutrient 2324 2326 HS
+T39 Environment 2332 2349 aquatic sediments
+T40 Substrate 2387 2391 MTBE
+T41 ReactionOrProcess 2379 2386 degrade
+T42 Environment 2581 2612 petroleum-contaminated aquifers
+T43 Substrate 2454 2458 MTBE
+T44 Property 2437 2450 concentration
+T45 Property 2514 2528 concentrations
+T46 Environment 2747 2778 petroleum-contaminated aquifers
+T47 Substrate 2701 2705 MTBE
+T48 ReactionOrProcess 2706 2720 bioremediation
+T49 Substrate 2805 2809 MTBE
+T50 ReactionOrProcess 2780 2801 Anaerobic Degradation
+T51 Environment 2859 2867 sediment
+T52 Environment 2880 2885 soils
+T53 Environment 2985 3005 anaerobic conditions
+T54 Environment 2851 2858 aquifer
+T55 Environment 2895 2912 aquatic sediments
+T56 Substrate 2831 2835 MTBE
+T57 Substrate 2941 2945 MTBE
+T58 ReactionOrProcess 2961 2969 degraded
+T59 ReactionOrProcess 2836 2847 degradation
+R1 CarriedOn Arg1:T4 Arg2:T2
+R2 OccursIn Arg1:T4 Arg2:T1
+R3 CarriedOn Arg1:T9 Arg2:T7
+R4 CarriedOn Arg1:T9 Arg2:T8
+R5 CarriedOn Arg1:T10 Arg2:T7
+R6 CarriedOn Arg1:T10 Arg2:T8
+R7 OccursIn Arg1:T9 Arg2:T6
+R8 OccursIn Arg1:T10 Arg2:T6
+R9 CarriedOn Arg1:T33 Arg2:T31
+R10 CarriedOn Arg1:T33 Arg2:T32
+R11 OccursIn Arg1:T33 Arg2:T30
+R12 CarriedOn Arg1:T37 Arg2:T36
+R13 OccursIn Arg1:T37 Arg2:T34
+R14 OccursIn Arg1:T37 Arg2:T35
+R15 CarriedOn Arg1:T41 Arg2:T40
+R16 OccursIn Arg1:T41 Arg2:T39
+R17 CarriedOn Arg1:T48 Arg2:T47
+R18 OccursIn Arg1:T48 Arg2:T46
+R19 CarriedOn Arg1:T50 Arg2:T49
+R20 CarriedOn Arg1:T58 Arg2:T56
+R21 CarriedOn Arg1:T58 Arg2:T57
+R22 CarriedOn Arg1:T59 Arg2:T56
+R23 CarriedOn Arg1:T59 Arg2:T57
+R24 OccursIn Arg1:T58 Arg2:T51
+R25 OccursIn Arg1:T58 Arg2:T52
+R26 OccursIn Arg1:T58 Arg2:T53
+R27 OccursIn Arg1:T58 Arg2:T54
+R28 OccursIn Arg1:T58 Arg2:T55
+R29 OccursIn Arg1:T59 Arg2:T51
+R30 OccursIn Arg1:T59 Arg2:T52
+R31 OccursIn Arg1:T59 Arg2:T53
+R32 OccursIn Arg1:T59 Arg2:T54
+R33 OccursIn Arg1:T59 Arg2:T55

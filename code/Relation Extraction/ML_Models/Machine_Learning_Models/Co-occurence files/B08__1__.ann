@@ -1,0 +1,133 @@
+T1	Environment 12 16	soil
+T2	Substrate 39 47	gasoline
+T3	Substrate 150 159	petroleum
+T4	Environment 271 282	groundwater
+T5	Environment 222 239	contaminated site
+T6	Environment 203 214	vadose zone
+T7	Substrate 255 267	hydrocarbons
+T8	Substrate 174 195	volatile hydrocarbons
+T9	Property 245 254	dissolved
+T10	Environment 400 436	hydrocarbon-contaminated groundwater
+T11	Environment 391 396	plume
+T12	ReactionOrProcess 452 469	sulfate reduction
+T13	Substrate 560 567	benzene
+T14	ReactionOrProcess 532 551	Toluene degradation
+T15	ReactionOrProcess 568 579	degradation
+T16	ReactionOrProcess 594 611	sulfate reduction
+T17	Microbes 694 711	Desulfosporosinus
+T18	Environment 661 666	plume
+T19	Property 617 633	sulfate-reducing
+T20	Environment 846 856	microcosms
+T21	Substrate 902 909	benzene
+T22	Substrate 871 878	toluene
+T23	ReactionOrProcess 879 893	mineralisation
+T24	ReactionOrProcess 910 924	mineralisation
+T25	ReactionOrProcess 861 870	stimulate
+T26	Microbes 1017 1034	Desulfosporosinus
+T27	Environment 1059 1064	plume
+T28	Property 960 976	sulfate-reducing
+T29	Environment 1256 1260	soil
+T30	Environment 1163 1174	vadose zone
+T31	Substrate 1196 1217	volatile hydrocarbons
+T32	Environment 1332 1337	soils
+T33	Substrate 1440 1451	hydrocarbon
+T34	ReactionOrProcess 1299 1313	mineralisation
+T35	Environment 1568 1579	groundwater
+T36	Environment 1706 1717	groundwater
+T37	Environment 1532 1542	subsurface
+T38	Substrate 1695 1702	benzene
+T39	Substrate 1631 1651	aromatic hydrocarbon
+T40	ReactionOrProcess 1517 1528	remediation
+T41	Environment 1797 1801	soil
+T42	Environment 1726 1737	vadose zone
+T43	Substrate 1839 1860	aromatic hydrocarbons
+T44	ReactionOrProcess 1749 1760	remediation
+T45	Nutrient 1918 1924	oxygen
+T46	Substrate 2001 2009	gasoline
+T47	Property 2066 2073	soluble
+T48	Property 2078 2086	volatile
+T49	Environment 2226 2231	water
+T50	Substrate 2193 2200	benzene
+T51	Property 2315 2325	carcinogen
+T52	Property 2215 2222	soluble
+T53	Property 2250 2258	volatile
+T54	Substrate 2374 2381	benzene
+T55	Substrate 2552 2559	benzene
+T56	Property 2400 2413	concentration
+T57	Substrate 2741 2755	small gasoline
+T58	Environment 2932 2943	groundwater
+T59	Substrate 2856 2864	gasoline
+T60	Substrate 2900 2920	aromatic hydrocarbon
+T61	Substrate 2776 2799	Significant hydrocarbon
+T62	Environment 3017 3029	groundwaters
+T63	Environment 3034 3039	soils
+T64	Substrate 3183 3191	gasoline
+T65	Substrate 2992 3013	volatile hydrocarbons
+T66	Property 2978 2987	dissolved
+T67	Environment 3385 3396	groundwater
+T68	Substrate 3269 3277	gasoline
+T69	Substrate 3493 3501	gasoline
+T70	Substrate 3507 3528	aromatic hydrocarbons
+T71	Property 3469 3474	toxic
+T72	Environment 3645 3656	groundwater
+T73	Environment 3705 3716	groundwater
+T74	Environment 3591 3602	groundwater
+T75	Environment 3743 3754	vadose zone
+T76	Substrate 3691 3696	LNAPL
+T77	Environment 3843 3854	groundwater
+T78	Environment 3888 3892	soil
+T79	Property 3983 3995	contaminants
+T80	ReactionOrProcess 3912 3923	remediation
+T81	Environment 4313 4324	groundwater
+T82	ReactionOrProcess 4298 4309	remediation
+T83	Environment 4481 4492	vadose zone
+T84	Substrate 4452 4473	aromatic hydrocarbons
+T85	Environment 4577 4588	groundwater
+T86	Environment 4731 4742	groundwater
+T87	Environment 4681 4685	sand
+T88	Environment 4718 4725	aquifer
+T89	Substrate 4552 4573	aromatic hydrocarbons
+T90	ReactionOrProcess 4537 4548	remediation
+T91	Environment 4822 4833	groundwater
+T92	Environment 4894 4905	groundwater
+T93	Environment 4997 5010	enriched sand
+T94	ReactionOrProcess 4912 4923	fluctuation
+T95	Nutrient 4964 4968	iron
+R1	OccursIn Arg1:T12 Arg2:T10
+R2	OccursIn Arg1:T12 Arg2:T11
+R3	CarriedOn Arg1:T14 Arg2:T13
+R4	CarriedOn Arg1:T15 Arg2:T13
+R5	CarriedOn Arg1:T16 Arg2:T13
+R6	FoundIn Arg1:T17 Arg2:T18
+R7	Of Arg1:T17 Arg2:T19
+R8	CarriedOn Arg1:T23 Arg2:T21
+R9	CarriedOn Arg1:T23 Arg2:T22
+R10	CarriedOn Arg1:T24 Arg2:T21
+R11	CarriedOn Arg1:T24 Arg2:T22
+R12	CarriedOn Arg1:T25 Arg2:T21
+R13	CarriedOn Arg1:T25 Arg2:T22
+R14	OccursIn Arg1:T23 Arg2:T20
+R15	OccursIn Arg1:T24 Arg2:T20
+R16	OccursIn Arg1:T25 Arg2:T20
+R17	FoundIn Arg1:T26 Arg2:T27
+R18	Of Arg1:T26 Arg2:T28
+R19	CarriedOn Arg1:T34 Arg2:T33
+R20	OccursIn Arg1:T34 Arg2:T32
+R21	CarriedOn Arg1:T40 Arg2:T38
+R22	CarriedOn Arg1:T40 Arg2:T39
+R23	OccursIn Arg1:T40 Arg2:T35
+R24	OccursIn Arg1:T40 Arg2:T36
+R25	OccursIn Arg1:T40 Arg2:T37
+R26	CarriedOn Arg1:T44 Arg2:T43
+R27	OccursIn Arg1:T44 Arg2:T41
+R28	OccursIn Arg1:T44 Arg2:T42
+R29	OccursIn Arg1:T80 Arg2:T77
+R30	OccursIn Arg1:T80 Arg2:T78
+R31	OccursIn Arg1:T82 Arg2:T81
+R32	CarriedOn Arg1:T90 Arg2:T89
+R33	OccursIn Arg1:T90 Arg2:T85
+R34	OccursIn Arg1:T90 Arg2:T86
+R35	OccursIn Arg1:T90 Arg2:T87
+R36	OccursIn Arg1:T90 Arg2:T88
+R37	OccursIn Arg1:T94 Arg2:T92
+R38	OccursIn Arg1:T94 Arg2:T93

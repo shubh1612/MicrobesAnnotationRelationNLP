@@ -1,0 +1,91 @@
+T1	Substrate 31 49	methylene chloride
+T2	ReactionOrProcess 7 17	extraction
+R1	CarriedOn Arg1:T2 Arg2:T1
+T3	Environment 213 223	neutral pH
+T4	ReactionOrProcess 200 209	extracted
+T5	Substrate 535 542	benzene
+T6	Substrate 518 524	hexane
+T7	Substrate 557 567	chloroform
+T8	Property 628 638	polycyclic
+T9	Property 595 603	saturate
+T10	Property 639 647	aromatic
+T11	Property 605 613	aromatic
+T12	Nutrient 619 627	nitrogen
+T13	Substrate 792 824	polycyclic aromatic heterocycles
+T14	Substrate 783 824	nitrogen polycyclic aromatic heterocycles
+T15	Property 792 802	polycyclic
+T16	Property 803 811	aromatic
+T17	Nutrient 783 791	nitrogen
+T18	Environment 925 931	vacuum
+T19	Substrate 1102 1121	sulfur heterocycles
+T20	Substrate 1102 1108	sulfur
+T21	Property 1039 1047	aromatic
+T22	Substrate 1180 1201	nitrogen heterocycles
+T23	Property 1166 1175	saturates
+T24	Nutrient 1180 1188	nitrogen
+T25	ReactionOrProcess 1421 1446	flame ionization detector
+T26	ReactionOrProcess 1494 1520	nitrogen-specific detector
+T27	ReactionOrProcess 1438 1446	detector
+T28	ReactionOrProcess 1512 1520	detector
+T29	ReactionOrProcess 1421 1437	flame ionization
+T30	ReactionOrProcess 1545 1554	detectors
+T31	Property 1633 1644	temperature
+T32	Property 1574 1583	saturates
+T33	ReactionOrProcess 1589 1604	chromatographed
+T34	Substrate 1756 1776	nitrogen heterocycle
+T35	Property 1723 1734	temperature
+T36	Nutrient 1756 1764	nitrogen
+T37	Substrate 1944 1960	alkyl carbazoles
+T38	Substrate 1950 1960	carbazoles
+T39	Substrate 1950 1960	carbazoles
+T40	ReactionOrProcess 1889 1915	nitrogen-specific detector
+T41	ReactionOrProcess 1907 1915	detector
+T42	Substrate 2054 2057	oil
+T43	ReactionOrProcess 2099 2110	GC analysis
+T44	ReactionOrProcess 2245 2285	Finnigan System MAT212 mass spectrometer
+T45	Substrate 2351 2354	oil
+T46	Substrate 2345 2354	whole oil
+T47	Nutrient 2320 2328	Nitrogen
+T48	Substrate 2499 2521	Norman Wells crude oil
+T49	Substrate 2506 2521	Wells crude oil
+T50	Substrate 2512 2521	crude oil
+T51	Substrate 2518 2521	oil
+T52	Nutrient 2549 2557	nitrogen
+T53	Substrate 2631 2640	crude oil
+T54	Substrate 2593 2596	oil
+T55	Substrate 2637 2640	oil
+T56	Nutrient 2661 2669	nitrogen
+T57	Substrate 2779 2788	crude oil
+T58	Substrate 2785 2788	oil
+T59	ReactionOrProcess 2719 2730	GC analyses
+T60	Nutrient 2755 2763	nitrogen
+R2	CarriedOn Arg1:T59 Arg2:T57
+R3	CarriedOn Arg1:T59 Arg2:T58
+T61	Substrate 2857 2860	oil
+T62	ReactionOrProcess 2790 2810	GC-mass spectrometry
+T63	Nutrient 2879 2887	nitrogen
+R4	CarriedOn Arg1:T62 Arg2:T61
+T64	Substrate 3007 3017	carbazoles
+T65	Substrate 3021 3033	azafluorenes
+T66	Substrate 3007 3017	carbazoles
+T67	Substrate 3129 3138	carbazole
+T68	Substrate 3087 3102	benzoquinolines
+T69	Substrate 3075 3085	quinolines
+T70	Nutrient 3075 3085	quinolines
+T71	Substrate 3219 3235	alkyl carbazoles
+T72	Substrate 3225 3235	carbazoles
+T73	Substrate 3225 3235	carbazoles
+T74	ReactionOrProcess 3140 3153	Fractionation
+R5	CarriedOn Arg1:T74 Arg2:T71
+R6	CarriedOn Arg1:T74 Arg2:T72
+R7	CarriedOn Arg1:T74 Arg2:T73
+T75	Substrate 3284 3300	alkyl carbazoles
+T76	Substrate 3290 3300	carbazoles
+T77	Substrate 3290 3300	carbazoles
+T78	Substrate 3515 3527	azafluorenes
+T79	Substrate 3482 3497	benzoquinolines
+T80	Substrate 3499 3509	quinolines
+T81	Nutrient 3499 3509	quinolines
+T82	ReactionOrProcess 3588 3614	nitrogen-specific detector
+T83	ReactionOrProcess 3529 3540	GC analysis
+T84	ReactionOrProcess 3606 3614	detector

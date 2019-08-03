@@ -1,0 +1,106 @@
+T1	Substrate 44 51	methane
+T2	Substrate 208 215	nitrite
+T3	Substrate 254 261	methane
+T4	ReactionOrProcess 569 576	oxidase
+T5	ReactionOrProcess 327 337	inhibition
+T6	Nutrient 309 315	oxygen
+T7	Nutrient 507 513	oxygen
+T8	Environment 780 807	sulfate-reducing conditions
+T9	Substrate 653 660	alkanes
+T10	Substrate 596 603	Methane
+T11	Property 780 796	sulfate-reducing
+T12	Environment 1025 1052	sulfate-reducing conditions
+T13	Substrate 883 890	alkanes
+T14	Substrate 938 945	alkanes
+T15	Substrate 955 962	propane
+T16	Property 1025 1041	sulfate-reducing
+T17	Substrate 1286 1301	alkylsuccinates
+T18	Substrate 1161 1170	petroleum
+T19	Substrate 1239 1246	methane
+T20	Substrate 1532 1547	alkylsuccinates
+T21	Substrate 1626 1633	toluene
+T22	Substrate 1442 1454	hydrocarbons
+T23	Substrate 1577 1588	hydrocarbon
+T24	Substrate 1442 1454	hydrocarbons
+T25	Substrate 1458 1461	oil
+T26	Substrate 1565 1588	cometabolic hydrocarbon
+T27	Substrate 2496 2503	methane
+T28	Substrate 2636 2643	methane
+T29	Substrate 3171 3178	nitrite
+T30	Substrate 3160 3167	nitrate
+T31	Nutrient 3195 3212	electron acceptor
+T32	Substrate 3564 3571	nitrite
+T33	Substrate 3553 3560	nitrate
+T34	Nutrient 3356 3373	electron acceptor
+T35	Nutrient 3586 3603	electron acceptor
+T36	Substrate 3697 3704	Alkanes
+T37	Substrate 3857 3864	alkanes
+T38	ReactionOrProcess 3672 3681	Oxidation
+T39	ReactionOrProcess 3662 3681	Anaerobic Oxidation
+T40	ReactionOrProcess 3814 3825	degradation
+R1	CarriedOn Arg1:T38 Arg2:T36
+R2	CarriedOn Arg1:T38 Arg2:T37
+R3	CarriedOn Arg1:T39 Arg2:T36
+R4	CarriedOn Arg1:T39 Arg2:T37
+R5	CarriedOn Arg1:T40 Arg2:T37
+T41	Microbes 4008 4026	enrichment culture
+T42	Environment 4183 4199	nitrate-reducing
+T43	Substrate 4106 4114	n-alkane
+T44	Property 4162 4178	sulfate-reducing
+T45	Property 3971 3987	sulfate-reducing
+T46	ReactionOrProcess 4008 4018	enrichment
+R6	CarriedOn Arg1:T46 Arg2:T43
+T47	Substrate 4452 4461	n-alkanes
+T48	ReactionOrProcess 4748 4756	degraded
+T49	Microbes 5295 5324	Desulfococcus oleovorans Hxd3
+T50	Microbes 5295 5308	Desulfococcus
+T51	Substrate 5104 5111	alkanes
+T52	Substrate 5256 5263	alkanes
+T53	Substrate 4957 4963	hexane
+T54	ReactionOrProcess 5278 5291	hydroxylation
+T55	ReactionOrProcess 4917 4937	anaerobic activation
+T56	ReactionOrProcess 4942 4953	degradation
+T57	ReactionOrProcess 5077 5088	degradation
+T58	ReactionOrProcess 5229 5240	degradation
+T59	ReactionOrProcess 5268 5291	anaerobic hydroxylation
+R7	CarriedOn Arg1:T55 Arg2:T49
+R8	CarriedOn Arg1:T55 Arg2:T50
+R9	CarriedOn Arg1:T56 Arg2:T49
+R10	CarriedOn Arg1:T56 Arg2:T50
+R11	CarriedOn Arg1:T57 Arg2:T49
+R12	CarriedOn Arg1:T57 Arg2:T50
+R13	CarriedOn Arg1:T58 Arg2:T49
+R14	CarriedOn Arg1:T58 Arg2:T50
+R15	CarriedOn Arg1:T55 Arg2:T51
+R16	CarriedOn Arg1:T55 Arg2:T52
+R17	CarriedOn Arg1:T55 Arg2:T53
+R18	CarriedOn Arg1:T56 Arg2:T51
+R19	CarriedOn Arg1:T56 Arg2:T52
+R20	CarriedOn Arg1:T56 Arg2:T53
+R21	CarriedOn Arg1:T57 Arg2:T51
+R22	CarriedOn Arg1:T57 Arg2:T52
+R23	CarriedOn Arg1:T57 Arg2:T53
+R24	CarriedOn Arg1:T58 Arg2:T51
+R25	CarriedOn Arg1:T58 Arg2:T52
+R26	CarriedOn Arg1:T58 Arg2:T53
+T60	Enzyme 5477 5490	monooxygenase
+T61	Enzyme 5526 5552	ethylbenzene dehydrogenase
+T62	Substrate 5401 5415	alkylsuccinate
+T63	Substrate 5510 5514	P450
+T64	Substrate 5526 5538	ethylbenzene
+T65	Microbes 6024 6041	Desulfatibacillum
+T66	Microbes 6024 6060	Desulfatibacillum alkenivorans AK-01
+T67	Enzyme 5865 5888	alkylsuccinate synthase
+T68	Substrate 5865 5879	alkylsuccinate
+T69	Substrate 5686 5707	aromatic hydrocarbons
+T70	Substrate 5686 5707	aromatic hydrocarbons
+T71	Substrate 5695 5707	hydrocarbons
+T72	Substrate 5695 5707	hydrocarbons
+T73	Property 6069 6081	denitrifying
+T74	Property 6000 6016	sulfate-reducing
+T75	Property 5686 5694	aromatic
+T76	ReactionOrProcess 6069 6081	denitrifying
+R27	Inhibit_Catalyse Arg1:T67 Arg2:T76
+T77	Substrate 6843 6854	hydrocarbon
+T78	Property 6759 6766	residue
+T79	Nutrient 7227 7234	carbons

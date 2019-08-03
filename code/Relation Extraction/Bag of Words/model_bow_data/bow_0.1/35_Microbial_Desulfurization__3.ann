@@ -1,0 +1,82 @@
+T1	Property 254 267	concentration
+T2	ReactionOrProcess 110 116	washed
+T3	ReactionOrProcess 168 179	resuspended
+T4	ReactionOrProcess 63 77	centrifugation
+T5	Property 503 514	temperature
+T6	Nutrient 669 676	glucose
+T7	Substrate 721 729	gasoline
+T8	Substrate 821 824	oil
+T9	ReactionOrProcess 744 759	desulfurization
+R1	CarriedOn Arg1:T9 Arg2:T8
+T10	Substrate 832 862	Dushanzi straight-run gasoline
+T11	Substrate 854 862	gasoline
+T12	Substrate 832 862	Dushanzi straight-run gasoline
+T13	Substrate 1024 1027	oil
+T14	Substrate 1010 1016	sulfur
+T15	Property 992 1006	concentrations
+T16	Nutrient 1150 1156	oxygen
+T17	Substrate 1162 1165	oil
+T18	ReactionOrProcess 1183 1197	centrifugation
+T19	Microbes 1332 1345	Mycobacterium
+T20	Microbes 1276 1285	M. goodii
+T21	Microbes 1297 1300	X7B
+T22	Microbes 1286 1289	X7B
+T23	Microbes 1276 1289	M. goodii X7B
+T24	Microbes 1415 1418	X7B
+T25	Microbes 1507 1510	X7B
+T26	Property 1559 1570	2-μm length
+T27	Property 1527 1548	non-spore-forming rod
+T28	Property 1516 1525	nonmotile
+T29	Property 1577 1590	1-μm diameter
+T30	Microbes 1663 1672	M. goodii
+T31	Microbes 1674 1683	DSM 44492
+T32	Property 1689 1700	light ivory
+T33	Property 1609 1622	golden yellow
+T34	ReactionOrProcess 1706 1717	utilization
+T35	Nutrient 1733 1739	carbon
+T36	Microbes 1774 1783	M. goodii
+T37	Microbes 1839 1842	X7B
+T38	Microbes 1859 1879	Rhodococcus fascians
+T39	Microbes 2032 2041	M. goodii
+T40	Microbes 2032 2052	M. goodii DSM 44492T
+T41	Microbes 2024 2027	X7B
+T42	ReactionOrProcess 1965 1986	liquid chromatography
+T43	ReactionOrProcess 1987 1994	elution
+R2	CarriedOn Arg1:T42 Arg2:T39
+R3	CarriedOn Arg1:T42 Arg2:T40
+R4	CarriedOn Arg1:T42 Arg2:T41
+R5	CarriedOn Arg1:T43 Arg2:T39
+R6	CarriedOn Arg1:T43 Arg2:T40
+R7	CarriedOn Arg1:T43 Arg2:T41
+T44	Microbes 2157 2160	X7B
+T45	ReactionOrProcess 2191 2200	pyrolysis
+T46	Microbes 2267 2270	X7B
+T47	Microbes 2433 2442	M. goodii
+T48	Microbes 2404 2407	X7B
+T49	Microbes 2608 2617	M. goodii
+T50	Microbes 2601 2604	X7B
+T51	Microbes 2721 2730	M. goodii
+T52	Microbes 2732 2741	DSM 44492
+T53	Microbes 2660 2663	X7B
+T54	Microbes 2834 2843	M. goodii
+T55	Microbes 2834 2854	M. goodii DSM 44492T
+T56	Microbes 2803 2806	X7B
+T57	Microbes 2998 3011	Mycobacterium
+T58	Microbes 3184 3193	M. goodii
+T59	Microbes 3157 3160	X7B
+T60	ReactionOrProcess 3046 3070	16S rRNA gene sequencing
+R8	CarriedOn Arg1:T60 Arg2:T58
+R9	CarriedOn Arg1:T60 Arg2:T59
+T61	Microbes 3241 3250	M. goodii
+T62	Microbes 3251 3254	X7B
+T63	Microbes 3241 3254	M. goodii X7B
+T64	Substrate 3217 3220	BTH
+T65	ReactionOrProcess 3195 3213	Biodesulfurization
+R10	CarriedOn Arg1:T65 Arg2:T61
+R11	CarriedOn Arg1:T65 Arg2:T63
+R12	CarriedOn Arg1:T65 Arg2:T64
+T66	Microbes 3265 3268	X7B
+T67	Substrate 3298 3301	BTH
+T68	Substrate 3324 3330	sulfur
+T69	Substrate 3616 3634	phenolic compounds
+T70	Substrate 3545 3548	BTH

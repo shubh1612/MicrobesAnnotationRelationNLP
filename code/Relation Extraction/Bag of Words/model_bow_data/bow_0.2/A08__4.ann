@@ -1,0 +1,56 @@
+T1	Substrate 232 239	methane
+T2	Microbes 554 561	archaea
+T3	Microbes 671 685	Desulfosarcina
+T4	Environment 471 486	anoxic sediment
+T5	Environment 478 486	sediment
+T6	Environment 502 508	marine
+T7	ReactionOrProcess 405 418	hybridization
+R1	CarriedOn Arg1:T7 Arg2:T2
+R2	CarriedOn Arg1:T7 Arg2:T3
+T8	Environment 903 912	sediments
+T9	Substrate 731 763	volume-related anaerobic methane
+T10	Substrate 756 763	methane
+T11	Substrate 865 872	methane
+T12	ReactionOrProcess 764 773	oxidation
+T13	ReactionOrProcess 873 882	oxidation
+T14	Environment 1029 1037	sediment
+T15	Substrate 1276 1283	methane
+T16	ReactionOrProcess 1284 1293	oxidation
+T17	Property 1648 1659	temperature
+T18	Property 1563 1572	dissolved
+T19	Property 1573 1586	concentration
+T20	Property 1672 1685	concentration
+T21	Substrate 1896 1903	methane
+T22	Property 1833 1847	concentrations
+T23	ReactionOrProcess 1904 1913	oxidation
+T24	ReactionOrProcess 1789 1800	utilization
+T25	Substrate 1972 1979	methane
+T26	Substrate 2150 2158	methanol
+T27	Substrate 2232 2239	methane
+T28	ReactionOrProcess 2240 2249	oxidation
+T29	ReactionOrProcess 2116 2130	methanogenesis
+R3	CarriedOn Arg1:T29 Arg2:T26
+R4	CarriedOn Arg1:T29 Arg2:T27
+T30	Property 2332 2346	concentrations
+T31	Property 2606 2615	dissolved
+T32	Property 2616 2630	concentrations
+T33	Property 2678 2687	dissolved
+T34	Property 2884 2893	dissolved
+T35	Property 2839 2852	concentration
+T36	Property 2768 2782	concentrations
+T37	Property 2903 2917	concentrations
+T38	ReactionOrProcess 3000 3008	reducing
+T39	ReactionOrProcess 3336 3344	reducing
+T40	ReactionOrProcess 3492 3500	reducing
+T41	Substrate 3736 3743	methane
+T42	ReactionOrProcess 3675 3683	reducing
+T43	ReactionOrProcess 3815 3820	redox
+R5	CarriedOn Arg1:T42 Arg2:T41
+T44	ReactionOrProcess 4117 4122	redox
+T45	Property 4419 4433	concentrations
+T46	ReactionOrProcess 4230 4246	electron shuttle
+T47	Substrate 5260 5267	methane
+T48	ReactionOrProcess 5335 5344	oxidation
+T49	ReactionOrProcess 5212 5228	electron shuttle
+T50	ReactionOrProcess 5325 5344	anaerobic oxidation
+R6	CarriedOn Arg1:T49 Arg2:T47

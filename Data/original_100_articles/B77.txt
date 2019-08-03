@@ -1,0 +1,670 @@
+B77
+Bacterial community dynamics during in-situ bioremediation of petroleum
+waste sludge in landfarming sites
+E. Katsivela1,2,*, E.R.B. Moore3
+, D. Maroukli1,2, C. Stro¨mpl4
+, D. Pieper4 & N. Kalogerakis1
+1
+Laboratory of Biochemical Engineering & Environmental Biotechnology, Department of Environmental
+Engineering, Technical University of Crete, Polytechneioupolis, GR-73100 Chania, Greece; 2
+Technological
+Educational Institute of Crete, Department of Natural Resources and Environment, Romanou 3, Halepa, GR-
+73133 Chania, Crete, Greece; 3
+Macaulay Institute, Craigiebuckler, Aberdeen AB15 8QH, Scotland, UK;
+4
+National Research Centre for Biotechnology (GBF), Division of Microbiology, Mascheroder Weg 1,
+D-38124 Braunschweig, Germany (* author for correspondence: katsivela@chania.teicrete.gr)
+Key words: bacterial community dynamics, in-situ biodegradation, petroleum hydrocarbons, refinery waste
+sludge, 16S rDNA, T-RFLP fingerprinting
+Abstract
+In-situ bioremediation of petroleum waste sludge in landfarming sites of Motor Oil Hellas (petroleum
+refinery) was studied by monitoring the changes of the petroleum composition of the waste sludge, as
+well as the changes in the structure of the microbial community, for a time period of 14 months. The
+analyses indicated an enhanced degradation of the petroleum hydrocarbons in the landfarming areas. A
+depletion of n-alkanes of approximately 75–100% was obtained. Marked changes of the microbial
+communities of the landfarms occurred concomitantly with the degradation of the petroleum hydrocarbons.
+The results obtained from terminal restriction fragment length polymorphism (T-RFLP)
+analysis of polymerase chain reaction (PCR) amplified 16S rRNA genes demonstrated that bacteria
+originating from the refinery waste sludge and newly selected bacteria dominated the soil bacterial
+community during the period of the highest degradation activity. However, the diversity of the
+microbial community was decreased with increased degradation of the petroleum hydrocarbons contained
+in the landfarms. T-RFLP fingerprints of bacteria of the genera Enterobacter and Ochrobactrum
+were detected in the landfarmed soil over the entire treatment period of 14 months. In contrast, the
+genus Alcaligenes appeared in significant numbers only within the 10 month old landfarmed soil. Genes
+encoding catechol 2,3-dioxygenase (subfamily I.2.A) were detected only in DNA of the untreated
+refinery waste sludge. However, none of the genes known to encode the enzymes alkane hydroxylase
+AlkB, catechol 2,3-dioxygenase (subfamily I.2.A) and naphthalene dioxygenase nahAc could be detected
+in DNA of the landfarmed soils.
+Abbreviations: OTUs – Operational Taxonomic Units; PCR – Polymerase chain reaction; T-RFLP –
+Terminal restriction fragment length polymorphism fingerprinting
+Introduction
+The current knowledge about the degradation
+capabilities of pollutants by bacteria is limited to
+those demonstrated by cultivated microorganisms
+that are only a minor fraction of bacterial diversity
+and accounts for less than 1% of the naturally
+occurring diversity (Amann et al. 1995; Brock
+Biodegradation (2005) 16: 169–180  Springer 2005
+1987). In order to gain additional information
+about the bacterial communities that may play
+important roles in the in-situ degradation of
+petroleum hydrocarbons in contaminated soils, we
+have applied a cultivation-independent strategy
+for examining the community diversity and its
+temporal changes in soils highly polluted with
+refinery waste sludge. Cultivation-independent
+methods, based mainly on molecular retrieval of
+16S rRNA (rDNA) sequences, have become the
+most important tools for investigating of microbial
+diversity of environmental samples (Head et al.
+1998; Nogales et al. 2001; Pace 1997). Nucleic acid
+fingerprinting analysis of the total bacterial
+diversity, by 16S rDNA T-RFLP fingerprinting
+has been performed in this study to monitor resulted
+changes in the community structure in onsite
+field experiments (Liu et al. 1997; Osborn et al.
+2000). The advantage of 16S rDNA T-RFLP is
+that it is a relatively rapid profiling method and is
+probably more reproducible than most other fingerprinting
+methods. When the T-RFLP analyses
+are carried out using PCR-amplified ribosomal
+DNA with frequent cutting (i.e., four base cutting)
+restriction enzymes, the level of resolution is at,
+approximately, the genus level (i.e., sequence types
+of organisms from different genera are able to be
+differentiated) with confidence. Furthermore, rapid
+profiling procedures, such as denaturing gradient
+gel electrophoresis (DGGE) (Muyzer et al.
+1993), temperature gradient gel electrophoresis
+(TGGE) (Felske et al. 1997; Heuer et al. 1997) and
+single-strand conformation polymorphism (SSCP)
+analysis (Lee et al. 1996; Schwieger & Tebbe 1998),
+all allow the analysis of multiple samples, but the
+community fingerprints they generate do not
+translate into taxonomic information.
+Additionally, polymerase chain reaction (PCR)
+with highly degenerate primers, based on conserved
+sequence elements, was applied in the
+present study as a method for the in-situ detection
+of degradation genes in the soil samples of the
+landfarms (Mesarch et al. 2000).
+In previous studies, bacterial strains isolated
+from a 4-month old landfarm and identified as
+Alcaligenes sp. EK5, Enterobacter spp. EK3.1
+and EK4 and Ochrobactrum sp. EK6, were observed
+to degrade several classes of substrates of
+petroleum hydrocarbons, such as monoaromatic,
+polycyclic aromatic hydrocarbons (PAHs), nand
+branched alkanes (Katsivela et al. 2003a, b).
+In parallel, the changes in the structure of the
+microbial community were assessed in parallel
+with the changes of the contaminant composition
+of the polluted soil for a time period of
+4 months, which was the period of the highest
+degradation activity (Katsivela et al. 2003a;
+2004). Marked changes in the microbial community
+of non-polluted soil were observed after
+its pollution with petroleum waste sludge.
+Operational Taxonomic Units (OTUs), based
+upon 16S rDNA sequence types and originating
+from the waste sludge, dominated the bacterial
+community of the constructed landfarm within
+the first 4 months treatment, suggesting their
+metabolic superiority with respect to the degradation
+of petroleum hydrocarbons. On the other
+hand, a number of OTUs that were not present
+in the control soil neither in the waste sludge
+were obtained after 4 months of landfarm
+treatment, reflecting the enrichment of bacteria
+with degradation capabilities under the selective
+pressure of petroleum pollution. The relative
+abundance of the soil bacteria that previously
+dominated the non-polluted control soil after
+4 months landfarming treatment was quite low
+(Katsivela et al. 2004).
+In the present study, the changes in the
+structure of the microbial community have been
+compared with the changes of the contaminant
+composition of the polluted soil in-situ and onsite
+for a period of 14 months, in which the
+diversity of the microbial community was decreased
+with increased degradation of the
+petroleum hydrocarbons contained in the landfarms.
+Additionally, the abundances of the
+indigenous genera Alcaligenes, Enterobacter and
+Ochrobactrum were also monitored in the landfarmed
+soil using T-RFLP analysis of PCRamplfied
+16S rDNA during the whole treatment
+period.
+In parallel, PCR with highly degenerate primers
+was used for the amplification of degradation
+genes in the extracted genomic DNA of the soil
+samples as well as in the isolated bacteria. In
+particular, the PCR amplification targeted
+conserved sequence elements of the degradation
+enzymes alkane hydroxylase B, catechol 2,3-dioxygenase
+(subfamily I.2.A) and naphthalene
+dioxygenase (Hamamura et al. 2001; Hedlund
+et al. 1999; Mesarch et al. 2000; Simon et al. 1993;
+Smits et al. 1999).
+170
+Materials and methods
+Sampling
+Refinery sludge, before and after landfarming
+treatment for 14 months, was used in this study.
+The samples were collected from a landfarming
+site of the petroleum refinery Motor Oil Hellas
+(Korinth Refineries, Greece), specifically designed
+for this project. Soil samples were collected from
+the surface (0–15 cm) from: (a) an untreated, nonpolluted
+control soil; (b) a newly produced refinery
+waste sludge; and (c) a landfarmed site treated
+with refinery waste sludge, at the beginning of the
+experiment (October 2000) and after 4 (February
+2001), 10 (August 2001) and 14 months treatment
+(December 2001). Soil samples from the non-polluted
+control soil were collected in every sampling
+time and compared with the samples of the
+landfarmed soil. Duplicates of all samples were
+analysed directly after collection.
+Hydrocarbon extraction from soil samples
+The hydrocarbons present in the fresh refinery
+waste sludge, as well as in the landfarming soil
+samples, were separated by extraction, as
+described previously (Katsivela et al. 2004).
+Specifically, 2 g of soil was extracted with 140 ml
+of n-hexane in a Soxhlet apparatus for 2 h. The
+organic phase was concentrated by evaporation of
+the organic solvent after drying over Na2SO4. The
+hydrocarbon fractions were analysed, without
+further purification, by gas chromatography
+coupled with mass spectrometry (GC–MS) after
+drying and concentration.
+Analysis by GC–MS
+GC–MS analyses of the petroleum hydrocarbons
+were carried out on the collected samples, using a
+GC 17A gas chromatograph (Shimadzu, Kyoto,
+Japan), equipped with an XTI 5 column (Resteck,
+Bellefonte, Pa.), as described previously (Katsivela
+et al. 2003a, 2004). The QP 5000 quadrupole mass
+spectrometer (Shimadzu, Kyoto, Japan) was
+operated in the electron impact mode at 70 eV
+with an ion source temperature of 320 C. Helium
+was used as a carrier gas with a flow rate of
+1.0 ml min)1
+. The oven temperature was maintained
+at 60 C for 2 min and then increased to
+150 C at a rate of 20 C min)1
+, followed by an
+increase to 320 C at a rate of 6 C min)1
+. Samples
+of 1.0 ll were injected into the GC, operating in
+the splitless mode with an injector temperature of
+270 C. MS analyses were performed in the full
+scan mode (50–400 m z)1
+).
+Isolation of DNA
+DNA was extracted from soil samples (0.5 g), directly
+after sampling, using the Fast DNA Spin
+Kit for Soil and the protocol of the manufacturer
+(Bio 101, La Jolla, CA, USA) (Borneman et al.
+1996). DNA was obtained from isolated strains as
+follows. Single colonies were picked from agar
+medium, resuspended in 100 ll TE buffer
+(10 mmol l–1 Tris, 0.1 mmol l–1 EDTA, pH 8.0)
+and ‘cooked’ at 95 C for 15 min. The suspension
+was centrifuged briefly, to pellet cell debris, and
+1 ll of the supernatant was used for PCR ampli-
+fication (Moore et al. 1999).
+16S rDNA T-RFLP analyses
+The terminal-restriction fragment length polymorphism
+(T-RFLP) analysis was performed as
+described previously by Osborn et al. (2000). The
+16S rDNA was amplified, using 2.5 U of Taq
+DNA polymerase (Ampli-Taq, Perkin-Elmer) and
+standard reaction conditions (Moore et al. 1996,
+1999), with the primers 16F63 [5¢-CAGGCCTAACACATGCAAGTC-3¢]
+and 16R1389
+[5¢-ACGGGCGGTGTGTACAAG-3¢]. The primer
+16F63 was labelled at the 5¢ end with the
+phosphoramidite dye 6 FAM. Reactions (50 ll
+final volume containing 1 ll of the extracted
+community DNA, 20 pmol primer and 50 lM
+dNTP) were denatured initially for 2 min at 94 C,
+followed by 30 cycles of: 94 C for 1 min; 55 C
+for 1 min; and 72 C for 2 min; with a final
+extension step of 72 C for 10 min. The PCR
+products were purified using QIA-quick columns
+(Qiagen, Germany) and digested with 20 U of AluI
+in a total volume of 15 ll at 37 C for 3 h. This
+restriction digestion (2 ll) was mixed with 2 ll of
+deionised formamide, 0.5 ll of ROX-labelled
+GS500 internal size standard (Applied Biosystemsl,
+Inc.) and 0.5 ll of loading buffer. Samples
+(1.5 ll of the denatured digest) were denaturation
+at 95 C for 5 min and electrophoresed in a 5%
+polyacrylamide gel, containing 7 M urea, for 6 h
+171
+at 3000 V on an ABI 377 genetic analyser with
+filter set A and a well-to read length of 36 cm. TRFLP
+profiles were analysed using the Genescan
+software (version 2.1) (Applied Biosystems). The
+terminal restriction fragment (T-RF) sizes, in
+basepairs, were estimated by reference to the
+internal standard, using the Local Southern
+method. T-RFs with a peak height of less than 100
+fluorescence units were excluded from analyses.
+Bacterial strains
+The 16S rDNA sequences of the bacterial strains
+used in this study have been deposited in the
+EMBL database under the following accession
+number: Alcaligenes sp. strain EK5; accession
+number AJ 440003; Enterobacter sp. strain EK3.1;
+accession number Z76673; Enterobacter sp. strain
+EK4; accession number Z76674; and Ochrobactrum
+sp. strain EK6; accession number Z76675
+(Katsivela et al. 2003a, b). The two Enterobacter
+spp. strain EK3.1 and EK4 have been deposited at
+the German Collection of Microorganisms and
+Cell Cultures (DSMZ, Braunschweig, Germany)
+as Enterobacter sp. strain EK3.1 DSM 15156 and
+Enterobacter sp. strain EK4 DSM 15213.
+Detection of degradation genes by PCR with
+degenerate primers
+Purified DNA was amplified, using 5 U of Taq
+DNA polymerase (Qiagen Taq PCR core kit) and
+standard reaction conditions, with degenerate
+primers:
+1. Amplification of the alcB gene was performed
+by the following PCR program: initial denaturation
+step consisting of 4 min at 95 C; 25
+cycles consisting of denaturation at 95 C for
+45 s, primer annealing at 40 C for 1 min; primer
+extension at 72 C for 1 min; and elongation
+at 72 C for 5 min using primers TS2S
+(5¢-AAYAGAGCTCAYGARYTRGGTCAYAAG-3¢)
+and deg1RE (5¢-GTGGAATTCGCRTGRTGRTCIGARTG-3¢).
+The expected
+length of the PCR fragment is 557 bp
+(Hamamura et al. 2001; Smits et al. 1999).
+2. Amplification the catechol 2,3-dioxygenase gene
+(subfamily I.2.A.) was performed by the following
+PCR program: initial denaturation step consisting
+of 4 min at 94 C; 10 cycles consisting of
+denaturation at 94 C for 45 s, primer annealing
+at 60 C for 45 s and primer extension at 72 C
+for 2 min; and 20 cycles consisting of denaturation
+at 94 C for 45 s, primer annealing at 53 C
+for 45 s and an extension at 72 C for 2 min; and
+a final primer elongation at 72 C for 10 min,
+using primers C23DO_R (5¢-TCAGGTCAGCACGGTCA-3¢)
+and C23DO_F (5¢-
+CGACCTGATCTCCATGACCGA-3¢). The
+expected length of the PCR fragment is 238 bp
+(Mesarch et al. 2000).
+3. Amplification of the nahAc gene was performed
+by the following PCR program: initial denaturation
+step consisting of 4 min at 96 C; 35
+cycles consisting of denaturation at minutes;
+and a final primer elongation at 72 C for
+7 min, using primers pPAH-F (5¢-GGYA
+AYGCNAAAGAATTCGTNTGYWSHTAY
+CAYGGITGGG-3¢) and pPAH-NR700 (5¢-
+CCAGAATTCNGTNGTRTTHGCATCRAT
+SGGRTKCCA-3¢). The expected length of the
+PCR fragment is 630 bp (Hedlung et al. 1999;
+Simon et al. 1993).
+Amplifications were performed in a total volume
+of 25.5 ll in 0.2 ml reaction tubes with a DNA
+thermal cycler (mastercycler gradient, Eppendorf).
+Aliquots of the PCR products were supplemented
+with the dye ethidium bromide and checked by
+electrophoresis in a 1% agarose gel and comparison
+to a 1 kb DNA Ladder (MBI Fermentas).
+Results and discussion
+Changes in the petroleum composition of the soil
+samples
+The changes in the petroleum composition of the
+landfarmed site over time were examined after
+extraction of the soil samples and analysis of
+petroleum contaminants by GC–MS. Figure 1
+shows a typical trend for hydrocarbon degradation
+during landfarming. During the 14-month period,
+all n-alkanes were reduced 75 to 100% of the
+original levels. Even though the percentage depletion
+of each individual petroleum hydrocarbon
+varied between 5 and 10% between duplicates of
+samples and samples collected from different areas
+of the landfarming sites. We have calculated the
+remaining hydrocarbon concentration in our
+analysis using the mean value of two duplicates for
+every single sample.
+172
+Shifts in the relative abundances of the different
+components were observed during landfarming.
+During the first 4 months of landfarming, a rapid
+depletion of long chain length (C23–C34) and
+short chain length (C11–C13) compounds was
+observed (depletion by more than 50%), whereas
+depletion of n-alkanes with chain lengths of C18–
+C22 was much less pronounced (depletion by less
+than 20%).
+After 10 months of landfarming treatment, a
+further reduction in the concentration of all nalkanes
+was observed, specifically those of medium
+chain lengths, whereas residual concentrations of
+longer chain length n-alkanes was only slightly
+reduced further. A decrease of the n-alkanes with
+chain lengths of C13–C14 and C18–C24 of more
+than 50% was obtained. In parallel, a 100%
+reduction of the n-alkanes with chain lengths of
+C11–C12 and C31–C34 was obtained.
+The n-alkane spectrum after the 14 months
+landfarming treatment showed yet a further
+reduction of all n-alkanes from the levels observed
+after 10 months. Again, the concentrations of lowand
+medium-chain length n-alkanes were reduced.
+In this case, n-alkanes with chain lengths of C14–
+C21 and C30 were depleted more than 50%,
+whereas the n-alkane tridecane was completely
+reduced. However, the amounts of n-alkanes with
+chain lengths of C22–C29 were 5–35% lower than
+the levels measured after the 10-month treatment
+(Figure 1).
+As shown in Figure 1, the highest level of
+degradation of n-alkanes occurred during the first
+4 months of treatment, suggesting the existence of
+an active bacterial community in this period.
+Kaplan & Kitts (2004) reported also a rapid degradation
+of petroleum hydrocarbons in a land
+treatment unit during the first period of the soil
+pollution. The degradation rate is decreased during
+the later phase.
+Bacterial community analyses using 16S rDNA
+T-RFLP fingerprinting
+T-RFLP fingerprinting of PCR-amplified 16S
+rDNA was used to assess the relative diversity of
+the microbial communities existing in the six
+investigated soil communities. DNA was extracted
+from the different soil samples: (a) the non-polluted
+control soil; (b) the fresh refinery waste
+sludge; and (c) the landfarming soil (at the time of
+its construction, after 4 months, after 10 months
+Figure 1. Changes in the composition of n-alkanes in the landfarming soil. Samples were collected from soil from the landfarming site
+treated with refinery waste sludge, at the beginning of the experiment and after 4, 10 and 14 months treatment.
+173
+and after 14 months treatment). The T-RFLP
+analyses were used to compare the compositions of
+the soil bacterial communities.
+The similarities between the six different complex
+bacterial communities were analysed, and the
+origins of predominant bacterial groups were elucidated
+by comparing the communities qualitatively.
+Thus, the evaluation of the T-RFLP profiles
+was carried out by observation of the presence or
+absence of specific T-RFs. The measured community
+profiles were labelled only with the ‘blue’
+FAM dye at the 5¢-end of the T-RFs. The T-RFLP
+fingerprints of all six soil samples were complex,
+each demonstrating different profiles (Figure 2).
+The overall 16S rDNA T-RFLP fingerprint patterns
+of the bacterial communities in the soil of the
+Figure 2. T-RFLP assessment of diversity of (a) untreated control site; (b) fresh refinery waste sludge; (c) landfarming site directly after
+augmentation with waste sludge; (d) 4-month old landfarming site; (e) 10-month old landfarming site; and (f) 14-month old landfarming
+site. Fragment sizes, in base pair lengths, are shown at the top of each profile, while peak heights are shown as fluorescent
+units. Only the blue (shown as grey) 5¢-FAM-labelled T-RFs are shown. The peaks with the same fragment size in base pairs are
+labelled with the same peak number (p1–p31) and indicate characteristic T-RFs of OTUs detected in T-RFLP profiles.
+174
+non-polluted control site, over the whole treatment
+period, were distinct from those of the contaminated
+landfarming site and were relatively unchanged
+from each other. Each T-RF peak in the
+community profiles indicates a different sequence
+type and was used as an OTU, with an approximate
+resolution level able to differentiate bacterial
+genera (Osborn et al. 2000). ‘TU’ is a term, derived
+from numerical taxonomy and generally applied to
+strain, species or genus or other taxonomic entity
+which may not necessarily be defined. With the
+growing application of nucleic acid sequence data
+for assessing microbial diversity, etc., the term is
+used to define a sequence type that is distinct. The
+exact taxonomic classification of the sequence type
+may not be able to be defined with certainty.
+The peaks with the same fragment sizes in the
+different samples are labelled with the same
+respective peak numbers (p1–p31 in Figure 2) and
+indicate characteristic OTUs. The total number of
+peaks (i.e., the total number of OTUs), as well as
+the common peaks possessing the same fragment
+sizes (i.e., the same OTU), in each T-RFLP profile
+of the six different soil samples were recorded and
+compared.
+The T-RFLP profile from the landfarmed soil
+after the 4-month treatment, which was the point
+when the bacterial community exhibited the highest
+degradation activity (compare with Figure 1),
+was used as a reference.
+The T-RFLP profiles obtained from the
+landfarmed soil after 4 and 10 months of treatment
+contained the highest number of OTUs
+among the samples (26 and 24 different OTUs,
+respectively). The T-RFLP profiles generated from
+the refinery waste sludge, as well as from the
+landfarmed soils directly after augmentation with
+waste sludge, contained the same total number of
+OTUs, (22 different OTUs), although their
+compositions were different. The soil from the
+non-polluted control site, as well as from the
+landfarmed soil after 14 months of treatment,
+contained 16 and 15 different OTUs, respectively,
+indicating lower levels of diversity and complexity,
+at the detection limits for the methods that were
+used. Thus, it may be assumed that the lowest
+bacterial diversity was indicative of soil samples
+poor in carbon sources. In contrast, the microbial
+communities demonstrating the highest degradation
+activities after 4 and 10 months of landfarming
+treatment (as shown in Figure 1) were also the
+communities comprised of the highest number of
+OTUs. Kaplan & Kitts (2004) reported similar
+results of their investigations in a petroleum land
+treatment unit at Guadalupe. The bacterial cell
+counts decreased whereas the total petroleum
+hydrocarbons degradation rate slowed.
+Comparison of the T-RFLP profiles from the
+four landfarmed soils showed six common OTUs
+existing in all landfarmed soil samples, i.e., at the
+beginning of the experiment, after 4, 10 and
+14 months of incubation (p1, p4, p12, p17, p19
+and p23). OTU number p17 of the common OTUs
+was the same as that originating within the control
+soil, whereas OTU number p19 was the same as
+that originating from the waste sludge. Two OTUs
+represented newly selected bacterial OTUs (p4 and
+p23). However, only two OTUs were common in
+all six community profiles (p1 and p12).
+Four types of OTUs, with respect to their origins,
+could be recognised in the landfarmed soils:
+OTUs originating from the control soil; OTUs
+originating from the waste sludge; newly selected
+OTUs of low abundance in the original soil or
+waste sludge, but becoming dominant in the mixture;
+and OTUs existing in all T-RFLP profiles.
+As described previously, the addition of waste
+sludge to pristine soil resulted in dramatic changes
+in the microbial community. OTUs originating
+from the non-polluted control soil were reduced
+dramatically, whereas OTUs originating from the
+refinery waste sludge dominated the bacterial
+community of the constructed landfarm after
+4-month treatment (Katsivela et al. 2004). In the
+present work, data from the monitoring of these
+four kinds of OTUs for a treatment period of
+14 months suggests a distinct influence derived
+from the refinery waste sludge, an enhanced bacterial
+diversity at 4 and 10 months, with a progressive
+and marked selection, with decreased
+diversity, at 14 months. These data suggest that
+specific OTUs were associated with the different
+phases of petroleum degradation in the landfarmed
+soil. Figure 3 shows the relative abundances
+of the four kinds of OTUs observed in the
+four landfarmed soil samples with different treatment
+histories. As shown in Figure 3, the relative
+abundance of OTUs from the control soil did not
+exhibit any significant changes over the whole
+treatment time period of 14 months although the
+relative intensities of some peaks suggest quantitative
+changes over the landfarming treatment.
+175
+Surprisingly, some indigenous bacteria (i.e., the
+OTUs originating from the non-polluted control
+soil which survived after the pollution with refinery
+waste sludge) turned out to be stable over the
+whole treatment period. On the other hand, newly
+selected OTUs, as well as OTUs originating from
+the refinery waste sludge, dominated the bacterial
+community of the constructed landfarm after 4
+and 10 months treatment, which was the period
+with the highest metabolic activity.
+Although the relative abundance of the bacteria
+originating from the refinery waste sludge increased
+after augmentation, a decrease in OTU
+abundance was observed over the treatment time
+period of 14 months. The highest numbers of
+newly selected OTUs were present in the T-RFLP
+profiles at the time with the highest degradation
+activity (in 4 and 10 months old landfarms), suggesting
+their metabolic superiority in this period
+(Figures 1 and 2).
+The isolation of four bacterial strains with
+degradation capabilities towards petroleum
+hydrocarbons from landfarming soils was reported
+previously, i.e., Alcaligenes sp. EK5, Enterobacter
+spp. EK3.1 and EK4 and Ochrobactrum sp. EK6
+(Katsivela et al. 2003a, b). In order to assess the
+importance of members of the genera Alcaligenes,
+Enterobacter and Ochrobactrum the abundances of
+the characteristic T-RFs of these genera was
+monitored in the T-RFLP profiles of the six soil
+samples. Figure 4 shows the T-RFLPs of AluI
+restriction digested 16S rDNA of: (a) the nonpolluted
+control soil; (b) the fresh refinery waste
+sludge; and (c) the landfarming soil after
+4 months; (d) after 10 months: and (e) after
+14 months treatment; as well as (f) Alcaligenes sp.
+EK5. For this T-RFLP analysis we used both the
+5¢ as well as the 3¢ T-RFs that are shown as blue
+and green peaks, respectively.
+The characteristic T-RFs of the genus Alcaligenes
+were present in the community T-RFLP fingerprint
+of the non-polluted control soil, as well as
+in that of the 10-month old treated soil (Figure 4).
+On the other hand, the characteristic T-RFs of the
+genera Enterobacter and Ochrobactrum were
+abundant in the T-RFLP fingerprints of the
+landfarmed soil over the whole treatment period of
+14 months (compare T-RFLP profiles of the soil
+samples in Figure 4 with the T-RFLP profiles of
+Enterobacter spp. EK3.1 and EK4 and Ochrobactrum
+sp. EK6 in Figure 3 of the published data by
+Katsivela et al. 2003a). The T-RFs from the genus
+Figure 3. Relative abundance of the number of OTUs with different origin found in the four soil samples with different treatment
+history using T-RFLP analysis.
+176
+Ochrobactrum were also present in the T-RFLP
+fingerprint of the non-polluted control soil.
+The relative abundances of the genera Alcaligenes
+and Ochrobactrum in the non-polluted soil
+indicates their indigenous origin. In contrast, as
+described previously (Katsivela et al. 2004), Enterobacter
+belongs to the bacterial genera that were
+present only in the landfarmed soil samples.
+Alcaligenes appears in significant numbers only
+within the 10-month old landfarmed soil, whereas
+Ochrobactrum and Enterobacter were present in
+the landfarmed soil over the whole treatment
+period of 14 months. These differences in the relative
+abundances of these three bacterial genera
+may be related to their metabolic capabilities of
+utilisation of specific carbon sources as well as the
+chemical composition of the existing petroleum
+hydrocarbons in the landfarmed soils in the different
+sampling periods. Kaplan & Kitts (2004)
+reported also that specific phylotypes of bacteria
+were associated with the different phases of
+petroleum degradation in a land treatment unit.
+Figure 4. T-RFLPs of AluI restriction digested 16S rDNA, to assess the bacterial diversity of (a) untreated control soil; (b) refinery
+waste sludge; (c) 4-month old landfarmed soil; (d) 10-month old landfarmed soil; (e) 14-month old landfarmed soil; and (f) Alcaligenes
+sp. EK5. The arrows indicate the characteristic T-RFs of the genus Alcaligenes. Fragment sizes, in base pairs, are shown at the top of
+each profile, while peak heights are shown as fluorescent units. The red dye-labelled fragments indicate the GS500 DNA internal size
+standard, while 5¢ and 3¢ T-RFs are shown as blue and green peaks, respectively.
+177
+The authors showed also that the relative abundance
+of a phylotype associated with Alcaligenes
+increased only temporally during the bioremediation
+process.
+Detection of catabolic gene sequences by PCR
+DNA extracted from the soil samples: (a) an untreated,
+non-polluted control soil; (b) a newly
+produced refinery waste sludge; and (c) a landfarming
+site treated with refinery waste sludge,
+after 4 and 14 months treatment, were analysed by
+PCR with degenerate primers for the presence of
+genes encoding key enzymes in the degradation of
+petroleum hydrocarbons. Alkane hydroxylase
+AlkB, catechol 2,3-dioxygenase (subfamily I.2.A)
+and naphthalene dioxygenase nahAc were used as
+marker genes. Control experiments using P. oleovorans
+GPo1, P. putida mt-2 (pWWO) and P.
+putida G7 as strains reported to harbour alkane
+hydroxylase AlkB, catechol 2,3-dioxygenase (subfamily
+I.2.A) and naphthalene dioxygenase nahAc
+yielded PCR fragments of the expected length of
+557, 238, and 630 bp, respectively.
+DNA extracted from the refinery waste sludge
+showed a PCR product using catechol 2,3-dioxygenase
+specific primers with a size of 238 bp
+(Figure 5, lane 3). This result suggests the presence
+of bacteria containing catechol 2,3-dioxygenase
+(subfamily I.2.A), which is an enzyme involved in
+the degradation of a large group of aromatic
+compounds. Also, a PCR product generated using
+the primers for alkane hydroxylase AlkB was
+obtained from the DNA extracted from the refinery
+waste sludge. However, the size of the PCR
+product (485 bp) differed significantly from the
+one expected (630 bp), indicating the absence of
+alkane hydroxylase genes in the tested soils. Surprisingly,
+none of the other analysed soil samples
+showed any positive PCR products. The lack of
+PCR products of the alkane hydroxylase AlkB
+gene, contrasts the active degradation of n-alkanes
+in the landfarmed soils, and may suggest that the
+degrading bacteria contain alkane oxidation enzyme
+systems that are unrelated or only distantly
+related to AlkB. Alternatively, potential PCR
+inhibitors coextracted with DNA, non-amplifying
+DNA, soil factors (humics), and soil pollutants
+(petroleum hydrocarbons) could have disturbed
+the PCR detection of the reported genes.
+Besides DNA extracted from the soil samples,
+four bacterial strains with degradation capabilities,
+Alcaligenes sp. EK5, Enterobacter spp. EK3.1 and
+EK4 and Ochrobactrum sp. EK6, previously isolated
+from the landfarms (Katsivela et al. 2003a,
+b), were also analysed by the same PCR approach.
+None of the four analysed bacterial strains showed
+any PCR product for the genes encoding alkane
+hydroxylase AlkB, catechol 2,3-dioxygenase (subfamily
+I.2.A) and naphthalene dioxygenase nahAc.
+The lack of the expected PCR products of the
+three tested degradation genes in genomic DNA of
+the four isolated bacteria may be due to existence
+of gene sequences completely different from those
+characterised from bacteria of the genus Pseudomonas.
+Alternatively, these bacteria may contain
+genes homologues in which the regions that were
+used to develop the primers were not so well
+conserved.

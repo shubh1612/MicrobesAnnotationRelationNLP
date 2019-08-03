@@ -1,0 +1,61 @@
+T1	Environment 122 133	groundwater
+T2	Property 217 228	temperature
+T3	Property 172 181	dissolved
+T4	Property 189 202	concentration
+T5	Nutrient 182 188	oxygen
+T6	Nutrient 404 412	nitrogen
+T7	Environment 474 485	groundwater
+T8	Property 497 510	concentration
+T9	Nutrient 421 438	electron acceptor
+T10	Property 663 677	concentrations
+T11	Nutrient 591 597	K2HPO4
+T12	ReactionOrProcess 836 845	incubated
+T13	Environment 936 947	groundwater
+T14	Environment 913 924	groundwater
+T15	ReactionOrProcess 895 905	incubation
+T16	Nutrient 1064 1070	oxygen
+T17	Property 1205 1216	autoclaving
+T18	Environment 1362 1373	groundwater
+T19	Environment 1447 1453	vacuum
+T20	ReactionOrProcess 1288 1298	extraction
+T21	ReactionOrProcess 1325 1338	fractionation
+T22	ReactionOrProcess 1480 1489	extracted
+T23	Property 1591 1597	purity
+T24	ReactionOrProcess 1782 1795	fractionation
+T25	ReactionOrProcess 1754 1768	centrifugation
+T26	Environment 1985 1990	water
+T27	ReactionOrProcess 1935 1947	fractionated
+T28	ReactionOrProcess 2032 2053	liquid chromatography
+T29	ReactionOrProcess 2296 2311	electrophoresis
+T30	ReactionOrProcess 2385 2389	DGGE
+T31	ReactionOrProcess 2385 2398	DGGE analysis
+T32	Microbes 2711 2727	Escherichia coli
+T33	ReactionOrProcess 2774 2777	PCR
+T34	ReactionOrProcess 2929 2944	electrophoresis
+T35	ReactionOrProcess 2875 2878	PCR
+T36	ReactionOrProcess 2806 2809	PCR
+T37	Property 3027 3046	Denaturing gradient
+T38	ReactionOrProcess 3027 3066	Denaturing gradient gel electrophoresis
+T39	ReactionOrProcess 3051 3066	electrophoresis
+T40	ReactionOrProcess 3027 3037	Denaturing
+T41	ReactionOrProcess 3170 3173	PCR
+T42	ReactionOrProcess 3264 3268	DGGE
+T43	ReactionOrProcess 3436 3440	DGGE
+T44	Environment 3779 3790	groundwater
+T45	Environment 3757 3790	bacterial strains.The groundwater
+T46	Property 3833 3845	denitrifying
+T47	ReactionOrProcess 3798 3807	incubated
+T48	ReactionOrProcess 4030 4039	incubated
+T49	ReactionOrProcess 3833 3845	denitrifying
+T50	ReactionOrProcess 4040 4051	aerobically
+T51	ReactionOrProcess 3710 3719	Isolation
+T52	Nutrient 3873 3877	agar
+T53	Nutrient 4020 4024	agar
+T54	ReactionOrProcess 4141 4154	anaerobically
+T55	ReactionOrProcess 4131 4140	incubated
+T56	Nutrient 4178 4186	nitrogen
+T57	ReactionOrProcess 4231 4239	purified
+T58	ReactionOrProcess 4295 4305	incubation
+T59	ReactionOrProcess 4404 4413	extracted
+T60	ReactionOrProcess 4307 4315	Purified
+T61	ReactionOrProcess 4345 4356	aerobically

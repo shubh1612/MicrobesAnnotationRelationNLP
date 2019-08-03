@@ -1,0 +1,44 @@
+T1	Environment 29 39	microcosms
+T2	Substrate 90 93	oil
+T3	Substrate 78 93	significant oil
+T4	ReactionOrProcess 131 141	incubation
+T5	ReactionOrProcess 78 105	significant oil degradation
+T6	ReactionOrProcess 94 105	degradation
+T7	ReactionOrProcess 90 105	oil degradation
+T8	Substrate 436 447	hydrocarbon
+T9	Substrate 412 415	oil
+T10	ReactionOrProcess 436 459	hydrocarbon degradation
+T11	ReactionOrProcess 428 459	limited hydrocarbon degradation
+T12	ReactionOrProcess 448 459	degradation
+T13	Nutrient 361 369	nitrogen
+T14	Nutrient 374 384	phosphorus
+T15	Substrate 667 680	extensive oil
+T16	Substrate 476 487	hydrocarbon
+T17	Substrate 677 680	oil
+T18	Property 488 498	pollutants
+T19	ReactionOrProcess 681 692	degradation
+T20	ReactionOrProcess 677 692	oil degradation
+T21	ReactionOrProcess 667 692	extensive oil degradation
+T22	Environment 931 940	microcosm
+T23	Substrate 717 740	significant hydrocarbon
+T24	Substrate 729 740	hydrocarbon
+T25	ReactionOrProcess 729 752	hydrocarbon degradation
+T26	ReactionOrProcess 741 752	degradation
+T27	ReactionOrProcess 717 752	significant hydrocarbon degradation
+T28	Substrate 1009 1020	hydrocarbon
+T29	ReactionOrProcess 1009 1032	hydrocarbon degradation
+T30	ReactionOrProcess 1021 1032	degradation
+T31	ReactionOrProcess 1213 1227	biodegradation
+T32	Environment 1366 1372	waters
+T33	Environment 1735 1743	seawater
+T34	Environment 1799 1802	Sea
+T35	Substrate 1648 1651	oil
+T36	Substrate 1721 1724	oil
+T37	Substrate 1776 1779	oil
+T38	ReactionOrProcess 1631 1642	enrichments
+T39	Environment 1922 1928	marine
+T40	Substrate 1922 1940	marine hydrocarbon
+T41	Substrate 1929 1940	hydrocarbon
+T42	ReactionOrProcess 1929 1952	hydrocarbon degradation
+T43	ReactionOrProcess 1941 1952	degradation
+T44	ReactionOrProcess 1922 1952	marine hydrocarbon degradation

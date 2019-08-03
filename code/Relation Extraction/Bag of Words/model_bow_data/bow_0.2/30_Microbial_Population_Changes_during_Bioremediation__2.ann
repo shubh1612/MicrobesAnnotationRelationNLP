@@ -1,0 +1,67 @@
+T1	ReactionOrProcess 41 50	extracted
+T2	ReactionOrProcess 86 90	DGGE
+T3	ReactionOrProcess 68 72	PLFA
+T4	Property 203 211	aromatic
+T5	Environment 453 464	oiled plots
+T6	ReactionOrProcess 303 312	degrading
+T7	Environment 746 751	Beach
+T8	Environment 807 812	Beach
+T9	ReactionOrProcess 818 832	bioremediation
+T10	Environment 909 914	beach
+T11	ReactionOrProcess 889 898	replicate
+T12	Microbes 1256 1264	inoculum
+T13	Property 1107 1118	attenuation
+T14	Substrate 1434 1437	oil
+T15	Environment 1596 1604	seawater
+T16	Microbes 1866 1874	inoculum
+T17	Environment 1950 1958	seawater
+T18	Property 1926 1937	attenuation
+T19	Environment 2205 2209	sand
+T20	Substrate 2148 2157	crude oil
+T21	Substrate 2022 2031	crude oil
+T22	Substrate 2016 2031	light crude oil
+T23	Substrate 2154 2157	oil
+T24	Substrate 2028 2031	oil
+T25	Substrate 2215 2218	oil
+T26	Substrate 2365 2368	oil
+T27	Microbes 2429 2437	Inoculum
+T28	Microbes 2492 2502	consortium
+T29	Environment 2519 2531	nearby beach
+T30	Environment 2526 2531	beach
+T31	Substrate 2621 2630	crude oil
+T32	Substrate 2681 2693	hydrocarbons
+T33	Substrate 2675 2693	light hydrocarbons
+T34	Substrate 2675 2693	light hydrocarbons
+T35	Substrate 2681 2693	hydrocarbons
+T36	Substrate 2627 2630	oil
+T37	Substrate 2615 2630	Slope crude oil
+T38	Environment 2787 2792	Beach
+T39	Environment 2831 2836	Beach
+T40	Environment 2752 2756	sand
+T41	Substrate 2949 2958	crude oil
+T42	Substrate 2955 2958	oil
+T43	Substrate 2943 2958	Slope crude oil
+T44	Nutrient 3081 3089	nitrogen
+T45	Nutrient 3033 3037	NaCl
+T46	Nutrient 3059 3063	KNO3
+T47	Microbes 3113 3121	inoculum
+T48	Environment 3255 3263	seawater
+T49	Environment 3367 3372	beach
+T50	Substrate 3309 3318	crude oil
+T51	Substrate 3303 3318	Light crude oil
+T52	Substrate 3315 3318	oil
+T53	Property 3511 3522	temperature
+T54	ReactionOrProcess 3462 3473	enrichments
+T55	ReactionOrProcess 3540 3551	inoculation
+T56	Substrate 3648 3659	hydrocarbon
+T57	Environment 3790 3794	soil
+T58	Substrate 4107 4110	oil
+T59	ReactionOrProcess 4176 4180	DGGE
+T60	ReactionOrProcess 4167 4171	PLFA
+T61	ReactionOrProcess 4308 4317	replicate
+T62	ReactionOrProcess 4393 4402	replicate
+T63	ReactionOrProcess 4462 4466	PLFA
+T64	Substrate 4703 4723	aromatic hydrocarbon
+T65	Substrate 4712 4723	hydrocarbon
+T66	Substrate 4691 4723	polynuclear aromatic hydrocarbon
+T67	Property 4703 4711	aromatic

@@ -1,0 +1,87 @@
+T1	Microbes 99 112	Mycobacterium
+T2	Microbes 99 130	Mycobacterium goodii strain X7B
+T3	Microbes 127 130	X7B
+T4	Substrate 68 71	BTH
+T5	ReactionOrProcess 41 56	desulfurization
+R1	CarriedOn Arg1:T5 Arg2:T1
+R2	CarriedOn Arg1:T5 Arg2:T2
+R3	CarriedOn Arg1:T5 Arg2:T3
+R4	CarriedOn Arg1:T5 Arg2:T4
+T6	Microbes 222 225	X7B
+T7	Substrate 195 201	sulfur
+T8	Property 187 211	organic sulfur compounds
+T9	ReactionOrProcess 157 175	biodesulfurization
+R5	CarriedOn Arg1:T9 Arg2:T6
+R6	CarriedOn Arg1:T9 Arg2:T7
+T10	Microbes 242 251	M. goodii
+T11	Microbes 252 255	X7B
+T12	Microbes 242 255	M. goodii X7B
+T13	Substrate 271 279	gasoline
+T14	ReactionOrProcess 259 270	desulfurize
+T15	Microbes 330 342	M. goodii X7
+T16	Microbes 330 339	M. goodii
+T17	Microbes 340 343	X7B
+T18	Microbes 330 343	M. goodii X7B
+T19	Substrate 381 387	sulfur
+T20	Property 373 397	organic sulfur compounds
+T21	ReactionOrProcess 444 459	desulfurization
+T22	Substrate 533 542	thiophene
+T23	Substrate 556 565	thiophene
+T24	Substrate 522 531	thiophene
+T25	Substrate 509 512	DBT
+T26	Substrate 503 507	DBTs
+T27	Substrate 728 731	BTH
+T28	Property 880 886	purity
+T29	Microbes 1080 1083	X7B
+T30	Substrate 1175 1178	DBT
+T31	ReactionOrProcess 1165 1174	degrading
+T32	Microbes 1260 1281	thermophilic bacteria
+T33	Substrate 1369 1375	sulfur
+T34	Property 1361 1385	organic sulfur compounds
+T35	Microbes 1396 1399	X7B
+T36	Substrate 1482 1489	ethanol
+T37	Substrate 1431 1434	BTH
+T38	Substrate 1452 1458	sulfur
+T39	Substrate 1528 1534	sulfur
+T40	Property 1444 1468	organic sulfur compounds
+T41	Property 1469 1478	dissolved
+T42	ReactionOrProcess 1709 1719	extraction
+T43	ReactionOrProcess 1649 1658	acidified
+T44	Substrate 1961 1964	BTH
+T45	Substrate 2041 2044	BTH
+T46	Substrate 1977 1983	sulfur
+T47	ReactionOrProcess 2003 2013	inoculated
+T48	Substrate 2105 2108	BTH
+T49	Substrate 2172 2175	BTH
+T50	ReactionOrProcess 2154 2168	volatilization
+T51	Substrate 2341 2348	ethanol
+T52	Substrate 2240 2243	DBT
+T53	Substrate 2256 2260	DBTs
+T54	ReactionOrProcess 2382 2403	liquid chromatography
+T55	Substrate 2540 2548	methanol
+T56	Substrate 2579 2582	DBT
+T57	Substrate 2603 2606	BTH
+T58	Substrate 2706 2709	BTH
+T59	ReactionOrProcess 2745 2765	GC-mass spectrometry
+T60	Nutrient 2919 2927	nitrogen
+T61	Substrate 2945 2953	gasoline
+T62	ReactionOrProcess 3022 3030	emission
+T63	Substrate 3048 3059	Hydrocarbon
+T64	Microbes 3407 3410	X7B
+T65	Substrate 3277 3285	gasoline
+T66	Substrate 3362 3365	oil
+T67	Substrate 3378 3381	oil
+T68	Substrate 3336 3342	sulfur
+T69	Substrate 3257 3263	Sulfur
+T70	Substrate 3519 3522	oil
+T71	Substrate 3428 3434	sulfur
+T72	Substrate 3550 3556	sulfur
+T73	Substrate 3577 3583	sulfur
+T74	ReactionOrProcess 3505 3515	combustion
+R7	CarriedOn Arg1:T74 Arg2:T70
+T75	ReactionOrProcess 3632 3647	Desulfurization
+T76	Nutrient 3731 3735	agar
+T77	Substrate 3865 3868	DBT
+T78	ReactionOrProcess 3869 3884	desulfurization
+T79	Substrate 4038 4041	DBT
+T80	Substrate 4081 4087	sulfur

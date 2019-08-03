@@ -1,0 +1,63 @@
+T1	ReactionOrProcess 163 171	detector
+T2	ReactionOrProcess 466 474	detector
+T3	ReactionOrProcess 796 806	processing
+T4	ReactionOrProcess 867 877	processing
+T5	Property 1143 1156	concentration
+T6	Substrate 1452 1461	petroleum
+T7	Substrate 1543 1552	crude oil
+T8	Substrate 1535 1552	Macondo crude oil
+T9	Substrate 1499 1510	Hydrocarbon
+T10	Substrate 1549 1552	oil
+T11	Substrate 1791 1798	raw oil
+T12	Substrate 1795 1798	oil
+T13	ReactionOrProcess 1968 1978	processing
+T14	ReactionOrProcess 2087 2095	detector
+T15	Property 2141 2152	temperature
+T16	Property 2174 2185	temperature
+T17	ReactionOrProcess 2165 2173	detector
+T18	Property 2278 2289	temperature
+T19	Substrate 2607 2610	oil
+T20	Environment 2797 2802	water
+T21	Substrate 2709 2720	Hydrocarbon
+T22	Property 2721 2735	concentrations
+T23	Environment 3002 3007	plume
+T24	Substrate 2978 2981	Oil
+T25	Substrate 3074 3095	aromatic hydrocarbons
+T26	Substrate 3074 3095	aromatic hydrocarbons
+T27	Substrate 3083 3095	hydrocarbons
+T28	Substrate 3065 3094	Volatile aromatic hydrocarbon
+T29	Substrate 3065 3095	Volatile aromatic hydrocarbons
+T30	Substrate 3083 3095	hydrocarbons
+T31	Substrate 3065 3095	Volatile aromatic hydrocarbons
+T32	Property 3074 3082	aromatic
+T33	Property 3065 3073	Volatile
+T34	ReactionOrProcess 3230 3238	detector
+T35	Property 3253 3264	temperature
+T36	Environment 3631 3636	plume
+T37	Substrate 3748 3760	hydrocarbons
+T38	Substrate 3748 3760	hydrocarbons
+T39	Environment 3975 3978	sea
+T40	Environment 3970 3978	deep sea
+T41	Substrate 3948 3960	hydrocarbons
+T42	Substrate 3948 3960	hydrocarbons
+T43	Environment 4045 4051	marine
+T44	Environment 4036 4041	water
+T45	Substrate 4248 4260	hydrocarbons
+T46	Substrate 4248 4260	hydrocarbons
+T47	Substrate 4270 4273	oil
+T48	Environment 4414 4419	plume
+T49	Environment 4474 4479	plume
+T50	Environment 4660 4665	plume
+T51	Substrate 4363 4375	hydrocarbons
+T52	Substrate 4548 4560	hydrocarbons
+T53	Substrate 4585 4597	Hydrocarbons
+T54	Substrate 4363 4375	hydrocarbons
+T55	Substrate 4548 4560	hydrocarbons
+T56	Substrate 4585 4597	Hydrocarbons
+T57	Microbes 4956 4973	Oceanospirillales
+T58	Environment 4818 4823	plume
+T59	Environment 4889 4894	plume
+T60	ReactionOrProcess 4942 4952	enrichment
+R1	CarriedOn Arg1:T60 Arg2:T57
+T61	Microbes 5120 5137	Oceanospirillales
+T62	Environment 5192 5197	plume

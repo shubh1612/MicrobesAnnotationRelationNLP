@@ -1,0 +1,52 @@
+T1	Environment 163 167	soil
+T2	Substrate 32 35	TPH
+T3	ReactionOrProcess 12 17	PLFAs
+T4	ReactionOrProcess 301 305	PLFA
+T5	Property 460 478	sole carbon source
+T6	ReactionOrProcess 479 490	utilization
+T7	Nutrient 465 471	carbon
+T8	Environment 568 573	soils
+T9	Substrate 527 533	Diesel
+T10	ReactionOrProcess 546 554	degraded
+T11	ReactionOrProcess 632 646	Biodegradation
+T12	Environment 840 844	soil
+T13	Environment 884 888	soil
+T14	Substrate 751 757	diesel
+T15	ReactionOrProcess 943 957	biodegradation
+T16	Environment 1037 1042	soils
+T17	Substrate 1016 1022	diesel
+T18	Environment 1116 1140	diesel-contaminated soil
+T19	Environment 1136 1140	soil
+T20	Environment 1598 1608	microcosms
+T21	Environment 1399 1419	uncontaminated soils
+T22	Environment 1414 1419	soils
+T23	Environment 1566 1571	soils
+T24	Environment 1399 1419	uncontaminated soils
+T25	Property 1655 1669	concentrations
+T26	ReactionOrProcess 1650 1654	PLFA
+T27	Substrate 1702 1708	diesel
+T28	Environment 1726 1753	CW diesel-contaminated soil
+T29	Environment 1868 1880	control soil
+T30	Environment 1729 1753	diesel-contaminated soil
+T31	Environment 1857 1880	equivalent control soil
+T32	Environment 1749 1753	soil
+T33	Environment 1876 1880	soil
+T34	Environment 1925 1950	diesel-contaminated soils
+T35	Environment 1945 1950	soils
+T36	Environment 1925 1950	diesel-contaminated soils
+T37	Environment 2074 2078	soil
+T38	Substrate 2098 2104	diesel
+T39	Environment 2349 2374	diesel-contaminated soils
+T40	Environment 2369 2374	soils
+T41	Environment 2349 2374	diesel-contaminated soils
+T42	Property 2256 2270	concentrations
+T43	Environment 2390 2394	soil
+T44	Substrate 2420 2426	diesel
+T45	Environment 2545 2558	control soils
+T46	Environment 2471 2496	diesel-contaminated soils
+T47	Environment 2491 2496	soils
+T48	Environment 2553 2558	soils
+T49	Environment 2471 2496	diesel-contaminated soils
+T50	Property 3026 3034	aromatic
+T51	Nutrient 3074 3080	carbon
+T52	Nutrient 3185 3191	carbon

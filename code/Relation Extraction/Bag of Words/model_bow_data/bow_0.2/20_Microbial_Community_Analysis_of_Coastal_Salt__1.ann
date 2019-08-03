@@ -1,0 +1,116 @@
+T1	Environment 34 52	Coastal Salt Marsh
+T2	Substrate 87 90	Oil
+T3	Substrate 237 240	oil
+T4	Environment 322 340	coastal salt marsh
+T5	Substrate 372 381	petroleum
+T6	Substrate 382 394	hydrocarbons
+T7	Substrate 382 394	hydrocarbons
+T8	Substrate 427 430	oil
+T9	Substrate 372 394	petroleum hydrocarbons
+T10	Environment 485 494	sediments
+T11	Environment 479 494	marsh sediments
+T12	Environment 479 494	marsh sediments
+T13	Substrate 444 455	hydrocarbon
+T14	Property 456 470	concentrations
+T15	Environment 685 702	extant salt marsh
+T16	Microbes 912 925	Bacteroidetes
+T17	Microbes 931 945	Actinobacteria
+T18	Environment 985 994	sediments
+T19	Environment 960 994	hydrocarbon-contaminated sediments
+T20	Environment 960 994	hydrocarbon-contaminated sediments
+T21	Substrate 1019 1031	hydrocarbons
+T22	Substrate 1019 1031	hydrocarbons
+T23	Property 960 984	hydrocarbon-contaminated
+T24	Microbes 1054 1064	Firmicutes
+T25	Substrate 1138 1149	hydrocarbon
+T26	Property 1150 1164	concentrations
+T27	Environment 1282 1291	sediments
+T28	Environment 1257 1291	hydrocarbon-contaminated sediments
+T29	Environment 1257 1291	hydrocarbon-contaminated sediments
+T30	Substrate 1216 1227	hydrocarbon
+T31	Substrate 1334 1345	hydrocarbon
+T32	Property 1346 1360	concentrations
+T33	Property 1257 1281	hydrocarbon-contaminated
+T34	ReactionOrProcess 1216 1239	hydrocarbon degradation
+T35	ReactionOrProcess 1228 1239	degradation
+T36	Environment 1439 1448	sediments
+T37	Environment 1467 1476	sediments
+T38	Environment 1427 1448	marsh grass sediments
+T39	Substrate 1394 1405	hydrocarbon
+T40	Substrate 1587 1598	hydrocarbon
+T41	Property 1406 1420	concentrations
+T42	ReactionOrProcess 1587 1610	hydrocarbon degradation
+T43	ReactionOrProcess 1599 1610	degradation
+T44	Substrate 1905 1914	crude oil
+T45	Substrate 1969 1981	hydrocarbons
+T46	Substrate 1960 1981	volatile hydrocarbons
+T47	Substrate 1969 1981	hydrocarbons
+T48	Substrate 1911 1914	oil
+T49	Substrate 1960 1981	volatile hydrocarbons
+T50	Property 1960 1968	volatile
+T51	Environment 2115 2118	sea
+T52	Substrate 2026 2035	Crude oil
+T53	Substrate 2032 2035	oil
+T54	Substrate 2123 2126	oil
+T55	Substrate 2198 2201	oil
+T56	Property 2368 2380	contaminants
+T57	Environment 2614 2623	sediments
+T58	Environment 2606 2623	coastal sediments
+T59	Environment 2606 2623	coastal sediments
+T60	Substrate 2478 2481	oil
+T61	Property 2570 2580	pollutants
+T62	Environment 2724 2730	vacuum
+T63	ReactionOrProcess 2667 2678	remediation
+T64	Substrate 3228 3241	microbial oil
+T65	Substrate 3238 3241	oil
+T66	Property 3208 3219	attenuation
+T67	ReactionOrProcess 3238 3256	oil biodegradation
+T68	ReactionOrProcess 3242 3256	biodegradation
+T69	Substrate 3476 3479	oil
+T70	Substrate 3567 3570	oil
+T71	Property 3491 3502	temperature
+T72	Property 3435 3446	attenuation
+T73	ReactionOrProcess 3458 3472	bioremediation
+T74	Nutrient 3537 3543	oxygen
+R1	CarriedOn Arg1:T73 Arg2:T69
+R2	CarriedOn Arg1:T73 Arg2:T70
+T75	Substrate 3632 3644	hydrocarbons
+T76	Substrate 3632 3644	hydrocarbons
+T77	Substrate 3744 3747	oil
+T78	Property 3667 3679	temperatures
+T79	ReactionOrProcess 3614 3628	Biodegradation
+R3	CarriedOn Arg1:T79 Arg2:T75
+R4	CarriedOn Arg1:T79 Arg2:T76
+R5	CarriedOn Arg1:T79 Arg2:T77
+T80	Environment 3959 3968	sediments
+T81	Property 3850 3862	temperatures
+T82	ReactionOrProcess 3940 3951	degradation
+T83	ReactionOrProcess 3930 3951	microbial degradation
+T84	Substrate 3999 4020	microbial hydrocarbon
+T85	Substrate 4081 4102	anaerobic hydrocarbon
+T86	Substrate 4009 4020	hydrocarbon
+T87	Substrate 4091 4102	hydrocarbon
+T88	ReactionOrProcess 4009 4032	hydrocarbon degradation
+T89	ReactionOrProcess 4091 4114	hydrocarbon degradation
+T90	ReactionOrProcess 4081 4114	anaerobic hydrocarbon degradation
+T91	ReactionOrProcess 3999 4032	microbial hydrocarbon degradation
+T92	ReactionOrProcess 4021 4032	degradation
+T93	ReactionOrProcess 4103 4114	degradation
+T94	Substrate 4199 4220	microbial hydrocarbon
+T95	Substrate 4209 4220	hydrocarbon
+T96	ReactionOrProcess 4209 4232	hydrocarbon degradation
+T97	ReactionOrProcess 4199 4232	microbial hydrocarbon degradation
+T98	ReactionOrProcess 4221 4232	degradation
+T99	Nutrient 4153 4161	nitrogen
+T100	Nutrient 4179 4183	iron
+T101	Nutrient 4163 4173	phosphorus
+T102	Substrate 4346 4349	oil
+T103	ReactionOrProcess 4328 4342	bioremediation
+R6	CarriedOn Arg1:T103 Arg2:T102
+T104	Substrate 4472 4483	hydrocarbon
+T105	Substrate 4537 4548	hydrocarbon
+T106	Substrate 4529 4548	natural hydrocarbon
+T107	Substrate 4723 4734	hydrocarbon
+T108	Substrate 4899 4902	oil
+T109	Environment 5021 5026	beach
+T110	Substrate 4996 4999	oil

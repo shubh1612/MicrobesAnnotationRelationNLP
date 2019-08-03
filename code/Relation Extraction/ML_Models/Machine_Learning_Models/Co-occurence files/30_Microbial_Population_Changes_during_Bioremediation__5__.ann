@@ -1,0 +1,27 @@
+T1	Environment 28 39	oiled plots
+T2	Environment 190 201	oiled plots
+T3	Substrate 169 172	PAH
+T4	Property 173 182	degraders
+T5	ReactionOrProcess 408 417	replicate
+T6	ReactionOrProcess 344 358	Lipid analysis
+T7	ReactionOrProcess 375 379	PLFA
+T8	Environment 673 683	oiled plot
+T9	ReactionOrProcess 498 502	PLFA
+T10	Property 908 919	attenuation
+T11	Environment 955 966	oiled plots
+T12	ReactionOrProcess 1177 1181	PLFA
+T13	Property 1485 1498	gram-negative
+T14	ReactionOrProcess 1290 1294	PLFA
+T15	ReactionOrProcess 1399 1403	PLFA
+T16	ReactionOrProcess 1617 1622	PLFAs
+T17	Environment 1854 1858	sand
+T18	ReactionOrProcess 1954 1958	PLFA
+T19	Property 2185 2196	attenuation
+T20	ReactionOrProcess 2511 2539	principal-component analysis
+T21	ReactionOrProcess 2553 2557	PLFA
+T22	Property 3185 3198	gram-negative
+T23	Property 3256 3269	gram-negative
+T24	ReactionOrProcess 3704 3714	inoculated
+T25	ReactionOrProcess 3750 3754	PLFA
+T26	Environment 4029 4039	oiled plot
+R1	OccursIn Arg1:T9 Arg2:T8

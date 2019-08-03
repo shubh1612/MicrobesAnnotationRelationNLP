@@ -1,0 +1,75 @@
+T1 Environment 31 40 sediments
+T2 Substrate 12 19 methane
+T3 Substrate 149 156 methane
+T4 Substrate 255 262 methane
+T5 Environment 305 313 sediment
+T6 Substrate 352 359 methane
+T7 Substrate 374 381 methane
+T8 ReactionOrProcess 489 501 fermentation
+T9 ReactionOrProcess 461 470 reduction
+T10 Substrate 607 614 methane
+T11 Substrate 691 698 methane
+T12 Environment 809 818 sediments
+T13 Substrate 783 790 methane
+T14 ReactionOrProcess 859 868 oxidation
+T15 Environment 883 906 hydrate-mound sediments
+T16 Substrate 870 877 Methane
+T17 Environment 1112 1121 sediments
+T18 Substrate 1101 1108 methane
+T19 Substrate 1161 1168 methane
+T20 Property 1092 1100 residual
+T21 ReactionOrProcess 1071 1081 enrichment
+T22 ReactionOrProcess 1138 1148 enrichment
+T23 Environment 1378 1387 sediments
+T24 ReactionOrProcess 1323 1332 oxidation
+T25 Environment 1492 1520 hydrate-associated sediments
+T26 Environment 1692 1720 hydrate associated sediments
+T27 Substrate 1931 1958 straight-chain hydrocarbons
+T28 Property 1851 1874 kinetic isotope effects
+T29 ReactionOrProcess 1918 1927 oxidation
+T30 Environment 2114 2137 hydrate-mound sediments
+T31 Substrate 2271 2278 methane
+T32 ReactionOrProcess 2307 2316 depletion
+T33 ReactionOrProcess 2244 2253 oxidation
+T34 Substrate 2579 2600 bacterial hydrocarbon
+T35 ReactionOrProcess 2601 2610 oxidation
+T36 Environment 2652 2679 hydrate-associated sediment
+T37 Substrate 2739 2760 bacterial hydrocarbon
+T38 ReactionOrProcess 2761 2770 oxidation
+T39 Substrate 2817 2824 methane
+T40 Environment 2911 2919 sediment
+T41 Substrate 2920 2927 methane
+T42 Substrate 3001 3013 hydrocarbons
+T43 Property 3061 3084 kinetic isotope effects
+T44 ReactionOrProcess 3098 3107 oxidation
+T45 Environment 3323 3331 sediment
+T46 Environment 3239 3248 sediments
+T47 Substrate 3387 3394 methane
+T48 Substrate 3203 3214 Hydrocarbon
+T49 Substrate 3273 3285 hydrocarbons
+T50 Property 3249 3263 Concentrations
+T51 Environment 3525 3534 sediments
+T52 Substrate 3463 3470 methane
+T53 Environment 3701 3710 sediments
+T54 Substrate 3639 3646 methane
+T55 Substrate 3690 3697 methane
+T56 ReactionOrProcess 3619 3628 depletion
+R1 CarriedOn Arg1:T14 Arg2:T13
+R2 OccursIn Arg1:T14 Arg2:T12
+R3 CarriedOn Arg1:T21 Arg2:T18
+R4 CarriedOn Arg1:T21 Arg2:T19
+R5 CarriedOn Arg1:T22 Arg2:T18
+R6 CarriedOn Arg1:T22 Arg2:T19
+R7 OccursIn Arg1:T21 Arg2:T17
+R8 OccursIn Arg1:T22 Arg2:T17
+R9 OccursIn Arg1:T24 Arg2:T23
+R10 CarriedOn Arg1:T29 Arg2:T27
+R11 CarriedOn Arg1:T32 Arg2:T31
+R12 CarriedOn Arg1:T33 Arg2:T31
+R13 CarriedOn Arg1:T35 Arg2:T34
+R14 CarriedOn Arg1:T38 Arg2:T37
+R15 OccursIn Arg1:T38 Arg2:T36
+R16 CarriedOn Arg1:T44 Arg2:T42
+R17 CarriedOn Arg1:T56 Arg2:T54
+R18 CarriedOn Arg1:T56 Arg2:T55
+R19 OccursIn Arg1:T56 Arg2:T53

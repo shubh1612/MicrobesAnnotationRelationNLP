@@ -1,0 +1,118 @@
+T1 Environment 79 106 sulfate-reducing conditions
+T2 Substrate 65 72 benzene
+T3 Substrate 170 177 benzene
+T4 ReactionOrProcess 258 307 terminal restriction fragment length polymorphism
+T5 ReactionOrProcess 160 169 degrading
+T6 ReactionOrProcess 52 64 mineralizing
+T7 Nutrient 197 214 electron acceptor
+T8 Environment 444 455 groundwater
+T9 Environment 409 413 sand
+T10 Environment 484 491 aquifer
+T11 Microbes 635 652 Cryptanaerobacter
+T12 Microbes 679 698 Deltaproteobacteria
+T13 Microbes 757 767 consortium
+T14 Environment 827 854 sulfate-reducing conditions
+T15 Environment 810 820 microcosms
+T16 Property 732 738 stable
+T17 Microbes 953 966 Bacteroidetes
+T18 Microbes 886 907 Epsilonproteobacteria
+T19 Microbes 934 948 Actinobacteria
+T20 Microbes 909 919 Clostridia
+T21 Microbes 1064 1077 Desulfovibrio
+T22 Microbes 1004 1014 consortium
+T23 Microbes 1090 1107 Cryptanaerobacter
+T24 Microbes 1320 1337 Cryptanaerobacter
+T25 Substrate 1307 1314 benzene
+T26 Property 1276 1284 aromatic
+T27 Substrate 1454 1461 benzene
+T28 Substrate 1513 1520 benzene
+T29 ReactionOrProcess 1521 1532 degradation
+T30 Environment 1703 1730 sulfate-reducing conditions
+T31 ReactionOrProcess 1666 1696 syntrophic benzene degradation
+T32 Substrate 1873 1881 gasoline
+T33 Substrate 1787 1794 benzene
+T34 Substrate 1796 1803 toluene
+T35 Substrate 1757 1778 Aromatic hydrocarbons
+T36 Substrate 1805 1817 ethylbenzene
+T37 Substrate 1822 1829 xylenes
+T38 Environment 1993 2004 vadose zone
+T39 Environment 2011 2018 aquifer
+T40 Property 1979 1988 saturated
+T41 Property 1953 1963 volatility
+T42 Property 1892 1897 toxic
+T43 Property 1932 1948 water solubility
+T44 Substrate 2020 2027 Benzene
+T45 Substrate 2062 2066 BTEX
+T46 Property 2056 2061 toxic
+T47 Substrate 2095 2099 BTEX
+T48 ReactionOrProcess 2121 2132 biodegraded
+T49 Environment 2302 2308 plumes
+T50 Property 2290 2301 contaminant
+T51 Property 2230 2246 water solubility
+T52 Nutrient 2282 2288 oxygen
+T53 Microbes 2391 2410 enrichment cultures
+T54 Environment 2691 2718 sulfate-reducing conditions
+T55 Environment 2480 2496 nitrate-reducing
+T56 Property 2417 2429 methanogenic
+T57 ReactionOrProcess 2334 2363 Anaerobic benzene degradation
+T58 Substrate 2910 2917 benzene
+T59 Substrate 2961 2965 BTEX
+T60 ReactionOrProcess 3047 3076 anaerobic benzene degradation
+T61 Environment 3138 3147 microcosm
+T62 Environment 3219 3239 subsurface sediments
+T63 Substrate 3169 3186 anaerobic benzene
+T64 Property 3187 3196 degraders
+T65 ReactionOrProcess 3401 3417 nitrate reducers
+T66 Microbes 3519 3538 enrichment cultures
+T67 Property 3488 3500 methanogenic
+T68 Property 3468 3484 sulfate-reducing
+T69 Substrate 3708 3715 benzene
+T70 Property 3689 3706 anoxic conditions
+T71 ReactionOrProcess 3719 3727 degraded
+T72 ReactionOrProcess 3801 3830 anaerobic benzene degradation
+T73 Environment 3970 3977 aquifer
+T74 Substrate 3919 3926 benzene
+T75 Substrate 4017 4024 benzene
+T76 ReactionOrProcess 3927 3938 degradation
+T77 Nutrient 4069 4086 electron acceptor
+T78 Substrate 4108 4115 benzene
+T79 Property 4193 4199 stable
+T80 ReactionOrProcess 4208 4221 fractionation
+T81 ReactionOrProcess 4116 4127 degradation
+T82 Microbes 4314 4333 enrichment cultures
+T83 Microbes 4480 4488 inoculum
+T84 Environment 4357 4384 sulfate-reducing conditions
+T85 Environment 4413 4423 microcosms
+T86 Property 4289 4295 stable
+T87 Environment 4545 4565 sulfidic groundwater
+T88 Substrate 4591 4598 benzene
+T89 Nutrient 4621 4627 carbon
+T90 Environment 4686 4690 sand
+T91 Substrate 4827 4834 benzene
+T92 Substrate 4941 4948 benzene
+T93 Nutrient 4870 4887 electron acceptor
+R1 CarriedOn Arg1:T4 Arg2:T2
+R2 CarriedOn Arg1:T4 Arg2:T3
+R3 CarriedOn Arg1:T5 Arg2:T2
+R4 CarriedOn Arg1:T5 Arg2:T3
+R5 CarriedOn Arg1:T6 Arg2:T2
+R6 CarriedOn Arg1:T6 Arg2:T3
+R7 OccursIn Arg1:T4 Arg2:T1
+R8 OccursIn Arg1:T5 Arg2:T1
+R9 OccursIn Arg1:T6 Arg2:T1
+R14 ActOn Arg1:T24 Arg2:T25
+R15 CarriedOn Arg1:T29 Arg2:T27
+R16 CarriedOn Arg1:T29 Arg2:T28
+R17 OccursIn Arg1:T31 Arg2:T30
+R18 CarriedOn Arg1:T48 Arg2:T47
+R19 FoundIn Arg1:T53 Arg2:T54
+R20 FoundIn Arg1:T53 Arg2:T55
+R22 CarriedOn Arg1:T57 Arg2:T53
+R25 CarriedOn Arg1:T60 Arg2:T58
+R26 CarriedOn Arg1:T60 Arg2:T59
+R29 CarriedOn Arg1:T71 Arg2:T69
+R30 CarriedOn Arg1:T76 Arg2:T74
+R31 CarriedOn Arg1:T76 Arg2:T75
+R32 OccursIn Arg1:T76 Arg2:T73
+R33 CarriedOn Arg1:T80 Arg2:T78
+R34 CarriedOn Arg1:T81 Arg2:T78

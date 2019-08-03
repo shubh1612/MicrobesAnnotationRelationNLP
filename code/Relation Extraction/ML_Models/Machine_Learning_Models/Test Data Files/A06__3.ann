@@ -1,0 +1,28 @@
+T1 Property 567 575 aromatic
+T2 ReactionOrProcess 857 860 PCR
+T3 Property 1014 1022 residues
+T4 Property 969 977 residues
+T5 ReactionOrProcess 1575 1585 processing
+T6 ReactionOrProcess 2749 2773 16S rRNA gene sequencing
+T7 ReactionOrProcess 3258 3269 degradation
+T8 ReactionOrProcess 3242 3253 utilization
+T9 ReactionOrProcess 3623 3626 PCR
+T10 ReactionOrProcess 3903 3917 biodegradation
+T11 Property 4125 4134 pollutant
+T12 ReactionOrProcess 4135 4146 degradation
+T13 Nutrient 4043 4049 carbon
+T14 Nutrient 4102 4108 carbon
+T15 Nutrient 4334 4340 carbon
+T16 Environment 4396 4415 methods Sample soil
+T17 Environment 4479 4483 soil
+T18 Property 4701 4710 degraders
+T19 ReactionOrProcess 4420 4434 DNA extraction
+T20 ReactionOrProcess 4741 4750 extracted
+T21 Substrate 4934 4941 toluene
+T22 Substrate 4952 4963 naphthalene
+T23 Nutrient 4891 4895 iron
+T24 Substrate 5316 5323 toluene
+T25 Substrate 5390 5393 bph
+T26 ReactionOrProcess 5592 5595 PCR
+R1 OccursIn Arg1:T19 Arg2:T16
+R2 OccursIn Arg1:T19 Arg2:T17

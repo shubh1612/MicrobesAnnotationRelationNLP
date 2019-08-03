@@ -1,0 +1,94 @@
+T1	Substrate 37 46	aromatics
+T2	Property 109 117	toxicity
+T3	Property 37 46	aromatics
+T4	Property 119 131	mutagenicity
+T5	Property 109 117	toxicity
+T6	Property 323 331	aromatic
+T7	ReactionOrProcess 332 341	emissions
+T8	Property 366 374	aromatic
+T9	Property 501 509	aromatic
+T10	ReactionOrProcess 366 384	aromatic pollution
+T11	ReactionOrProcess 501 519	aromatic pollution
+T12	Environment 712 723	groundwater
+T13	Environment 692 701	sediments
+T14	Environment 679 701	contaminated sediments
+T15	Environment 703 707	soil
+T16	Property 582 590	aromatic
+T17	ReactionOrProcess 574 581	degrade
+T18	ReactionOrProcess 582 600	aromatic pollution
+T19	Property 853 863	pollutants
+T20	ReactionOrProcess 736 750	bioremediation
+T21	ReactionOrProcess 838 849	degradation
+T22	ReactionOrProcess 824 833	stimulate
+T23	Nutrient 1035 1053	electron acceptors
+T24	ReactionOrProcess 1138 1152	bioremediation
+T25	Nutrient 1307 1313	oxygen
+T26	ReactionOrProcess 1503 1514	degradation
+T27	ReactionOrProcess 1488 1514	organic matter degradation
+T28	Nutrient 1444 1450	carbon
+T29	Nutrient 1417 1423	oxygen
+T30	Environment 1721 1726	water
+T31	Property 1677 1687	solubility
+T32	Property 1587 1596	saturated
+T33	ReactionOrProcess 1559 1576	organic pollution
+T34	ReactionOrProcess 1621 1632	degradation
+T35	ReactionOrProcess 1611 1632	anaerobic degradation
+T36	Environment 1822 1842	anaerobic conditions
+T37	Property 1873 1886	biodegradable
+T38	Property 2111 2120	saturated
+T39	Nutrient 1995 2001	oxygen
+T40	Environment 2164 2173	sediments
+T41	Environment 2158 2162	soil
+T42	Microbes 2402 2421	microbial consortia
+T43	Property 2430 2438	aromatic
+T44	Property 2448 2458	pollutants
+T45	Substrate 2607 2627	xenobiotic aromatics
+T46	Substrate 2618 2627	aromatics
+T47	Property 2618 2627	aromatics
+T48	ReactionOrProcess 2570 2590	complete degradation
+T49	ReactionOrProcess 2579 2590	degradation
+R1	CarriedOn Arg1:T48 Arg2:T45
+R2	CarriedOn Arg1:T48 Arg2:T46
+R3	CarriedOn Arg1:T49 Arg2:T45
+R4	CarriedOn Arg1:T49 Arg2:T46
+T50	ReactionOrProcess 2660 2674	biodegradation
+T51	ReactionOrProcess 2933 2965	anaerobic-aerobic bioremediation
+T52	ReactionOrProcess 2951 2965	bioremediation
+T53	Environment 3066 3086	anaerobic conditions
+T54	Substrate 2990 3007	Aromatic compound
+T55	Substrate 2990 3008	Aromatic compounds
+T56	Substrate 2990 3008	Aromatic compounds
+T57	Property 2990 2998	Aromatic
+T58	ReactionOrProcess 3028 3042	biodegradation
+T59	Nutrient 3124 3130	oxygen
+T60	Property 3195 3203	aromatic
+T61	Nutrient 3165 3171	oxygen
+T62	Property 3391 3399	aromatic
+T63	ReactionOrProcess 3374 3383	oxidation
+T64	ReactionOrProcess 3332 3340	reducing
+T65	Nutrient 3307 3324	electron acceptor
+T66	Nutrient 3277 3283	oxygen
+T67	Environment 3416 3436	anaerobic conditions
+T68	Substrate 3547 3565	aromatic compounds
+T69	Substrate 3547 3565	aromatic compounds
+T70	Property 3547 3555	aromatic
+T71	Nutrient 3510 3516	oxygen
+T72	Substrate 3736 3743	toluene
+T73	Substrate 3745 3756	naphthalene
+T74	Substrate 3607 3625	aromatic compounds
+T75	Substrate 3681 3699	aromatic compounds
+T76	Substrate 3607 3625	aromatic compounds
+T77	Substrate 3681 3699	aromatic compounds
+T78	Property 3607 3615	aromatic
+T79	Property 3681 3689	aromatic
+T80	ReactionOrProcess 3651 3664	anaerobically
+T81	ReactionOrProcess 3643 3650	degrade
+T82	Substrate 3781 3801	chlorinated aromatic
+T83	Substrate 3793 3811	aromatic compounds
+T84	Substrate 3793 3811	aromatic compounds
+T85	Property 3793 3801	aromatic
+T86	Environment 3863 3883	anaerobic conditions
+T87	ReactionOrProcess 3841 3849	degraded
+T88	Substrate 3995 4002	nitrate
+T89	Substrate 4013 4019	sulfur
+T90	Nutrient 3946 3964	electron acceptors

@@ -1,0 +1,66 @@
+T1	Microbes 270 283	Desulfovibrio
+T2	Microbes 145 155	consortium
+T3	Environment 140 144	sand
+T4	Microbes 329 342	Desulfovibrio
+T5	Microbes 513 530	Cryptanaerobacter
+T6	Microbes 694 713	Deltaproteobacteria
+T7	Microbes 824 837	Bacteroidetes
+T8	Microbes 887 908	Epsilonproteobacteria
+T9	Microbes 738 752	Actinobacteria
+T10	Microbes 861 871	Clostridia
+T11	Microbes 1053 1063	consortium
+T12	ReactionOrProcess 1112 1118	T-RFLP
+T13	ReactionOrProcess 1198 1204	T-RFLP
+T14	Microbes 1386 1405	Deltaproteobacteria
+T15	ReactionOrProcess 1627 1633	T-RFLP
+T16	Microbes 1911 1928	Cryptanaerobacter
+T17	Microbes 2038 2048	consortium
+T18	Microbes 2123 2133	consortium
+T19	Environment 2147 2151	sand
+T20	Substrate 2110 2117	benzene
+T21	Substrate 2169 2176	toluene
+T22	Substrate 2182 2188	xylene
+T23	Substrate 2198 2204	phenol
+T24	Property 2082 2090	aromatic
+T25	ReactionOrProcess 2160 2168	degraded
+T26	Substrate 2413 2420	benzene
+T27	Substrate 2335 2342	toluene
+T28	Substrate 2324 2330	phenol
+T29	ReactionOrProcess 2387 2398	degradation
+T30	ReactionOrProcess 2377 2398	anaerobic degradation
+R1	CarriedOn Arg1:T29 Arg2:T26
+R2	CarriedOn Arg1:T30 Arg2:T26
+T31	Environment 2449 2459	microcosms
+T32	Substrate 2490 2497	benzene
+T33	Substrate 2519 2526	toluene
+T34	Substrate 2499 2505	phenol
+T35	Nutrient 2549 2555	carbon
+T36	Environment 2654 2681	sulfate-reducing conditions
+T37	Property 2654 2670	sulfate-reducing
+T38	ReactionOrProcess 2639 2647	degraded
+T39	ReactionOrProcess 2761 2770	depletion
+T40	Substrate 2902 2908	phenol
+T41	Substrate 2930 2937	benzene
+T42	Substrate 3056 3063	toluene
+T43	Property 3100 3113	concentration
+T44	ReactionOrProcess 3041 3050	oxidation
+T45	Environment 3274 3284	microcosms
+T46	Environment 3345 3349	sand
+T47	Substrate 3428 3435	Benzene
+T48	ReactionOrProcess 3440 3448	degraded
+T49	Substrate 3490 3496	phenol
+T50	ReactionOrProcess 3502 3510	degraded
+T51	Substrate 3625 3632	benzene
+T52	Substrate 3592 3599	toluene
+T53	Microbes 3843 3853	consortium
+T54	Environment 3743 3747	sand
+T55	ReactionOrProcess 3724 3733	extracted
+T56	ReactionOrProcess 3770 3776	T-RFLP
+T57	ReactionOrProcess 3865 3876	degradation
+T58	Nutrient 3894 3900	carbon
+R3	CarriedOn Arg1:T55 Arg2:T53
+R4	CarriedOn Arg1:T56 Arg2:T53
+T59	Microbes 3934 3951	Cryptanaerobacter
+T60	Substrate 4101 4108	benzene
+T61	Substrate 4038 4045	toluene
+T62	Substrate 4060 4066	phenol

@@ -1,0 +1,57 @@
+T1	Substrate 252 263	hydrocarbon
+T2	Property 264 273	degraders
+T3	Substrate 761 772	hydrocarbon
+T4	Substrate 837 840	oil
+T5	Substrate 914 917	oil
+T6	Property 773 782	degraders
+T7	ReactionOrProcess 841 852	degradation
+T8	ReactionOrProcess 837 852	oil degradation
+T9	Substrate 1098 1109	hydrocarbon
+T10	Property 1110 1119	degraders
+T11	ReactionOrProcess 938 947	isolation
+R1	CarriedOn Arg1:T11 Arg2:T9
+T12	Environment 1447 1452	Beach
+T13	Environment 1447 1458	Beach sands
+T14	Environment 1453 1458	sands
+T15	Substrate 1478 1481	oil
+T16	Substrate 1494 1497	oil
+T17	ReactionOrProcess 1290 1299	isolation
+R2	CarriedOn Arg1:T17 Arg2:T15
+R3	CarriedOn Arg1:T17 Arg2:T16
+T18	Microbes 1549 1568	Gammaproteobacteria
+T19	Microbes 1802 1818	Rhodobacteraceae
+T20	Microbes 1767 1786	Alphaproteobacteria
+T21	Environment 1676 1681	beach
+T22	Environment 1676 1687	beach sands
+T23	Environment 1682 1687	sands
+T24	Substrate 1726 1735	n-alkanes
+T25	Substrate 1946 1962	recalcitrant oil
+T26	Substrate 1993 1997	PAHs
+T27	Substrate 1946 1974	recalcitrant oil hydrocarbon
+T28	Substrate 1644 1655	hydrocarbon
+T29	Substrate 1963 1974	hydrocarbon
+T30	Substrate 1640 1643	oil
+T31	Substrate 1959 1962	oil
+T32	ReactionOrProcess 1644 1667	hydrocarbon degradation
+T33	ReactionOrProcess 1656 1667	degradation
+T34	ReactionOrProcess 1924 1935	degradation
+R4	CarriedOn Arg1:T32 Arg2:T19
+R5	CarriedOn Arg1:T32 Arg2:T20
+R6	CarriedOn Arg1:T33 Arg2:T19
+R7	CarriedOn Arg1:T33 Arg2:T20
+R8	CarriedOn Arg1:T34 Arg2:T19
+R9	CarriedOn Arg1:T34 Arg2:T20
+R10	CarriedOn Arg1:T32 Arg2:T25
+R11	CarriedOn Arg1:T32 Arg2:T26
+R12	CarriedOn Arg1:T32 Arg2:T27
+R13	CarriedOn Arg1:T33 Arg2:T25
+R14	CarriedOn Arg1:T33 Arg2:T26
+R15	CarriedOn Arg1:T33 Arg2:T27
+R16	CarriedOn Arg1:T34 Arg2:T25
+R17	CarriedOn Arg1:T34 Arg2:T26
+R18	CarriedOn Arg1:T34 Arg2:T27
+T35	Substrate 2159 2170	hydrocarbon
+T36	Property 2171 2180	degraders
+T37	Substrate 2307 2318	hydrocarbon
+T38	ReactionOrProcess 2307 2330	hydrocarbon degradation
+T39	ReactionOrProcess 2319 2330	degradation

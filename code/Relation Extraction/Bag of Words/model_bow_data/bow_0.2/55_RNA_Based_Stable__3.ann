@@ -1,0 +1,34 @@
+T1	ReactionOrProcess 46 49	PCR
+T2	ReactionOrProcess 131 134	PCR
+T3	Microbes 323 337	Rhodocyclaceae
+T4	ReactionOrProcess 567 577	replicates
+T5	ReactionOrProcess 647 658	degradation
+T6	ReactionOrProcess 929 939	inoculated
+T7	Environment 1273 1278	water
+T8	Substrate 1154 1161	Benzene
+T9	Property 1197 1210	concentration
+T10	Substrate 1316 1323	toluene
+T11	Substrate 1338 1346	o-xylene
+T12	Property 1382 1395	concentration
+T13	ReactionOrProcess 1500 1509	incubated
+T14	Substrate 1659 1666	benzene
+T15	ReactionOrProcess 1710 1721	incubations
+T16	Substrate 1951 1958	benzene
+T17	ReactionOrProcess 1933 1947	mineralization
+R1	CarriedOn Arg1:T17 Arg2:T16
+T18	ReactionOrProcess 2058 2072	centrifugation
+T19	ReactionOrProcess 2084 2094	inoculated
+T20	ReactionOrProcess 2095 2108	anaerobically
+T21	Environment 2394 2399	water
+T22	ReactionOrProcess 2462 2471	incubated
+T23	Substrate 2776 2783	benzene
+T24	Substrate 2810 2817	benzene
+T25	Nutrient 2670 2678	nitrogen
+T26	ReactionOrProcess 2936 2945	acidified
+T27	ReactionOrProcess 3344 3358	mineralization
+T28	Substrate 3702 3709	nitrate
+T29	Property 3866 3878	fluorescence
+T30	Property 3980 3994	concentrations
+T31	ReactionOrProcess 4191 4216	flame ionization detector
+T32	ReactionOrProcess 4208 4216	detector
+T33	ReactionOrProcess 4191 4207	flame ionization

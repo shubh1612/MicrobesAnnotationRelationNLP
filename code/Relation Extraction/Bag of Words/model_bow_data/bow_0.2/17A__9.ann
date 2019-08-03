@@ -1,0 +1,140 @@
+T1	Microbes 58 66	inoculum
+T2	Environment 75 92	bioaugmented soil
+T3	Environment 88 92	soil
+T4	Environment 137 163	creosote-contaminated soil
+T5	Environment 135 163	A creosote-contaminated soil
+T6	Environment 159 163	soil
+T7	Environment 540 544	soil
+T8	Substrate 418 421	TPH
+T9	ReactionOrProcess 418 433	TPH degradation
+T10	ReactionOrProcess 422 433	degradation
+T11	Substrate 600 632	polycyclic aromatic hydrocarbons
+T12	Substrate 611 632	aromatic hydrocarbons
+T13	Substrate 611 632	aromatic hydrocarbons
+T14	Substrate 620 632	hydrocarbons
+T15	Substrate 649 652	TPH
+T16	Substrate 620 632	hydrocarbons
+T17	Substrate 600 632	polycyclic aromatic hydrocarbons
+T18	Property 600 610	polycyclic
+T19	Property 611 619	aromatic
+T20	ReactionOrProcess 702 716	bioremediation
+T21	ReactionOrProcess 649 664	TPH degradation
+T22	ReactionOrProcess 585 596	degradation
+T23	ReactionOrProcess 653 664	degradation
+R1	CarriedOn Arg1:T21 Arg2:T11
+R2	CarriedOn Arg1:T21 Arg2:T12
+R3	CarriedOn Arg1:T21 Arg2:T13
+R4	CarriedOn Arg1:T21 Arg2:T15
+R5	CarriedOn Arg1:T21 Arg2:T17
+R6	CarriedOn Arg1:T22 Arg2:T11
+R7	CarriedOn Arg1:T22 Arg2:T12
+R8	CarriedOn Arg1:T22 Arg2:T13
+R9	CarriedOn Arg1:T22 Arg2:T15
+R10	CarriedOn Arg1:T22 Arg2:T17
+R11	CarriedOn Arg1:T23 Arg2:T11
+R12	CarriedOn Arg1:T23 Arg2:T12
+R13	CarriedOn Arg1:T23 Arg2:T13
+R14	CarriedOn Arg1:T23 Arg2:T15
+R15	CarriedOn Arg1:T23 Arg2:T17
+T24	Substrate 807 810	PAH
+T25	Substrate 854 857	PAH
+T26	Property 848 853	toxic
+T27	ReactionOrProcess 832 844	accumulation
+T28	ReactionOrProcess 879 889	enrichment
+T29	Substrate 1102 1105	PAH
+T30	Substrate 1161 1164	PAH
+T31	Substrate 1061 1065	PAHs
+T32	Property 1106 1115	degraders
+T33	ReactionOrProcess 1048 1057	oxidation
+T34	ReactionOrProcess 1005 1017	accumulation
+T35	ReactionOrProcess 1146 1157	degradation
+R16	CarriedOn Arg1:T33 Arg2:T29
+R17	CarriedOn Arg1:T33 Arg2:T30
+R18	CarriedOn Arg1:T33 Arg2:T31
+R19	CarriedOn Arg1:T34 Arg2:T29
+R20	CarriedOn Arg1:T34 Arg2:T30
+R21	CarriedOn Arg1:T34 Arg2:T31
+T36	Environment 1376 1380	soil
+T37	Environment 1419 1423	soil
+T38	Environment 1492 1496	soil
+T39	Property 1497 1505	toxicity
+T40	Property 1497 1505	toxicity
+T41	ReactionOrProcess 1479 1488	reduction
+T42	Environment 1592 1600	dry soil
+T43	Environment 1596 1600	soil
+T44	Environment 1738 1742	soil
+T45	Environment 1684 1689	water
+T46	Substrate 1627 1630	TPH
+T47	Property 1631 1644	concentration
+T48	ReactionOrProcess 1743 1757	bioremediation
+T49	Nutrient 1851 1859	nitrogen
+T50	ReactionOrProcess 2026 2036	inhibition
+T51	Environment 2189 2215	creosote-contaminated soil
+T52	Environment 2187 2215	a creosote-contaminated soil
+T53	Environment 2211 2215	soil
+T54	Substrate 2345 2349	PAHs
+T55	Substrate 2354 2358	TPHs
+T56	ReactionOrProcess 2306 2331	late-stage biodegradation
+T57	ReactionOrProcess 2317 2331	biodegradation
+R22	CarriedOn Arg1:T56 Arg2:T54
+R23	CarriedOn Arg1:T56 Arg2:T55
+R24	CarriedOn Arg1:T57 Arg2:T54
+R25	CarriedOn Arg1:T57 Arg2:T55
+T58	Substrate 2442 2468	high-molecular-weight PAHs
+T59	Substrate 2464 2468	PAHs
+T60	ReactionOrProcess 2424 2438	biodegradation
+R26	CarriedOn Arg1:T60 Arg2:T58
+R27	CarriedOn Arg1:T60 Arg2:T59
+T61	Substrate 2550 2553	oil
+T62	Substrate 2544 2553	motor oil
+T63	ReactionOrProcess 2524 2538	bioremediation
+T64	ReactionOrProcess 2511 2520	reduction
+T65	Nutrient 2601 2605	NaCl
+R28	CarriedOn Arg1:T63 Arg2:T61
+R29	CarriedOn Arg1:T63 Arg2:T62
+R30	CarriedOn Arg1:T64 Arg2:T61
+R31	CarriedOn Arg1:T64 Arg2:T62
+T66	Environment 2694 2723	hydrocarbon-contaminated soil
+T67	Environment 2687 2723	Arctic hydrocarbon-contaminated soil
+T68	Environment 2719 2723	soil
+T69	Property 2694 2718	hydrocarbon-contaminated
+T70	ReactionOrProcess 2645 2654	reduction
+T71	Substrate 2901 2912	hydrocarbon
+T72	ReactionOrProcess 2901 2927	hydrocarbon biodegradation
+T73	ReactionOrProcess 2913 2927	biodegradation
+T74	ReactionOrProcess 3174 3188	biostimulation
+T75	ReactionOrProcess 3133 3147	biodegradation
+T76	Microbes 3456 3509	heterotrophic and PAH-degrading microbial populations
+T77	Environment 3517 3521	soil
+T78	Substrate 3294 3326	polycyclic aromatic hydrocarbons
+T79	Substrate 3305 3326	aromatic hydrocarbons
+T80	Substrate 3305 3326	aromatic hydrocarbons
+T81	Substrate 3680 3683	PAH
+T82	Substrate 3314 3326	hydrocarbons
+T83	Substrate 3314 3326	hydrocarbons
+T84	Substrate 3294 3326	polycyclic aromatic hydrocarbons
+T85	Property 3456 3469	heterotrophic
+T86	Property 3294 3304	polycyclic
+T87	Property 3684 3693	degraders
+T88	Property 3305 3313	aromatic
+T89	ReactionOrProcess 3276 3290	bioremediation
+T90	ReactionOrProcess 3365 3379	bioremediation
+R32	CarriedOn Arg1:T89 Arg2:T76
+R33	CarriedOn Arg1:T90 Arg2:T76
+R34	CarriedOn Arg1:T89 Arg2:T78
+R35	CarriedOn Arg1:T89 Arg2:T79
+R36	CarriedOn Arg1:T89 Arg2:T80
+R37	CarriedOn Arg1:T89 Arg2:T81
+R38	CarriedOn Arg1:T89 Arg2:T84
+R39	CarriedOn Arg1:T90 Arg2:T78
+R40	CarriedOn Arg1:T90 Arg2:T79
+R41	CarriedOn Arg1:T90 Arg2:T80
+R42	CarriedOn Arg1:T90 Arg2:T81
+R43	CarriedOn Arg1:T90 Arg2:T84
+T91	Substrate 3767 3770	TPH
+T92	ReactionOrProcess 3771 3780	depletion
+T93	Substrate 3854 3857	TPH
+T94	ReactionOrProcess 3854 3869	TPH degradation
+T95	ReactionOrProcess 3858 3869	degradation
+T96	Microbes 4020 4044	heterotrophic population
+T97	Property 4020 4033	heterotrophic

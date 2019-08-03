@@ -1,0 +1,14 @@
+T1	Substrate 292 303	spilled oil
+T2	Substrate 85 88	oil
+T3	Substrate 300 303	oil
+T4	Property 89 101	contaminants
+T5	ReactionOrProcess 67 81	bioremediation
+R1	CarriedOn Arg1:T5 Arg2:T1
+R2	CarriedOn Arg1:T5 Arg2:T2
+R3	CarriedOn Arg1:T5 Arg2:T3
+T6	Environment 379 402	unprecedented oil spill
+T7	Environment 410 416	marine
+T8	Substrate 393 396	oil
+T9	Substrate 660 663	oil
+T10	Substrate 379 396	unprecedented oil
+T11	Property 664 676	contaminants

@@ -1,0 +1,19 @@
+T1	Substrate 0 11	Hydrocarbon
+T2	Environment 210 220	polychaete
+T3	Environment 409 414	water
+T4	Environment 778 783	water
+T5	Substrate 676 683	methane
+T6	Property 666 675	Dissolved
+T7	Property 704 713	saturates
+T8	Substrate 913 920	methane
+T9	Substrate 796 807	hydrocarbon
+T10	Environment 1251 1259	sediment
+T11	Substrate 1123 1134	hydrocarbon
+T12	Environment 1828 1837	sediments
+T13	Environment 2030 2039	sediments
+T14	Environment 2368 2373	water
+T15	Substrate 2544 2555	hydrocarbon
+T16	Environment 2757 2768	ambient sea
+T17	Environment 2769 2774	water
+T18	Environment 2915 2918	sea
+T19	Environment 3175 3195	hemipelagic sediment

@@ -1,0 +1,116 @@
+T1	Microbes 20 39	microbial consortia
+T2	ReactionOrProcess 75 89	bioremediation
+T3	ReactionOrProcess 354 368	bioremediation
+T4	ReactionOrProcess 425 439	bioremediation
+T5	Environment 540 565	contaminated environments
+T6	ReactionOrProcess 441 455	Bioremediation
+T7	ReactionOrProcess 599 613	bioremediation
+T8	Property 755 775	degrading pollutants
+T9	ReactionOrProcess 807 821	bioremediation
+T10	Environment 957 975	contaminated sites
+T11	ReactionOrProcess 1018 1032	bioremediation
+T12	Microbes 1208 1237	natural microbial populations
+T13	ReactionOrProcess 1101 1116	rRNA approaches
+T14	Microbes 1298 1327	natural microbial populations
+T15	Property 1441 1460	pollutant-degrading
+T16	Property 1552 1571	pollutant-degrading
+T17	ReactionOrProcess 1614 1628	bioremediation
+T18	ReactionOrProcess 1730 1744	bioremediation
+T19	ReactionOrProcess 1848 1862	bioremediation
+T20	Property 2054 2063	pollutant
+T21	ReactionOrProcess 1969 1984	bioaugmentation
+T22	ReactionOrProcess 2064 2078	biodegradation
+T23	ReactionOrProcess 2216 2230	bioremediation
+T24	Substrate 2259 2266	methane
+T25	Property 2406 2433	degrading target pollutants
+T26	Property 2540 2559	pollutant-degrading
+T27	Property 2303 2312	pollutant
+T28	ReactionOrProcess 2267 2276	oxidation
+T29	ReactionOrProcess 2313 2327	biodegradation
+T30	ReactionOrProcess 2355 2364	isolation
+T31	ReactionOrProcess 2457 2466	isolation
+T32	ReactionOrProcess 2496 2505	isolation
+T33	Property 2643 2673	pollutant-degradation kinetics
+T34	Microbes 2765 2778	methanotrophs
+T35	Environment 2908 2912	soil
+T36	Substrate 2817 2824	methane
+T37	ReactionOrProcess 2825 2834	oxidation
+T38	ReactionOrProcess 2930 2951	phylogenetic analyses
+T39	Microbes 3034 3047	methanotrophs
+T40	Substrate 3070 3077	methane
+T41	ReactionOrProcess 3062 3069	degrade
+T42	Microbes 3325 3338	methanotrophs
+T43	Enzyme 3264 3286	methane mono-oxygenase
+T44	Environment 3368 3377	sediments
+T45	Environment 3363 3367	lake
+T46	Environment 3353 3357	soil
+T47	Environment 3393 3397	soil
+T48	Microbes 3403 3416	Methanotrophs
+T49	Environment 3518 3526	sediment
+T50	Environment 3509 3513	soil
+T51	Substrate 3477 3484	methane
+T52	ReactionOrProcess 3452 3460	reducing
+T53	ReactionOrProcess 3465 3473	emission
+T54	Microbes 3541 3554	methanotrophs
+T55	Microbes 3721 3734	methanotrophs
+T56	Substrate 3605 3608	TCE
+T57	Substrate 3569 3586	trichloroethylene
+T58	Substrate 3638 3645	methane
+T59	Property 3684 3697	TCE-degrading
+T60	ReactionOrProcess 3555 3568	co-metabolize
+T61	ReactionOrProcess 3609 3623	bioremediation
+T62	ReactionOrProcess 3670 3679	stimulate
+T63	Substrate 3741 3748	methane
+T64	ReactionOrProcess 3749 3763	biostimulation
+T65	Microbes 3766 3779	Methanotrophs
+T66	Enzyme 3970 3991	methane monooxygenase
+T67	Substrate 3800 3807	methane
+T68	Property 3962 3969	soluble
+T69	ReactionOrProcess 3857 3896	denaturing gradient gel electrophoresis
+T70	ReactionOrProcess 3808 3822	biostimulation
+T71	Environment 4175 4181	marine
+T72	Substrate 4012 4028	Marine petroleum
+T73	ReactionOrProcess 4029 4052	hydrocarbon degradation
+T74	Microbes 4318 4332	Proteobacteria
+T75	Environment 4399 4410	oiled plots
+T76	Environment 4250 4261	sandy beach
+T77	ReactionOrProcess 4368 4372	DGGE
+T78	ReactionOrProcess 4483 4509	spilled-oil bioremediation
+T79	ReactionOrProcess 4196 4222	Spilled-oil bioremediation
+T80	Microbes 4700 4714	Cycloclasticus
+T81	Microbes 4632 4648	γ-Proteobacteria
+T82	Environment 4751 4760	oil sands
+T83	Environment 4555 4560	beach
+T84	Substrate 4740 4754	fertilized oil
+R1	FoundIn Arg1:T34 Arg2:T35
+R2	ActOn Arg1:T34 Arg2:T36
+R3	ActOn Arg1:T39 Arg2:T40
+R4	FoundIn Arg1:T42 Arg2:T44
+R5	FoundIn Arg1:T42 Arg2:T45
+R6	FoundIn Arg1:T42 Arg2:T46
+R7	FoundIn Arg1:T42 Arg2:T47
+R8	Produce Arg1:T42 Arg2:T43
+R9	FoundIn Arg1:T48 Arg2:T49
+R10	FoundIn Arg1:T48 Arg2:T50
+R11	ActOn Arg1:T48 Arg2:T51
+R12	Of Arg1:T54 Arg2:T59
+R13	Of Arg1:T55 Arg2:T59
+R14	ActOn Arg1:T54 Arg2:T56
+R15	ActOn Arg1:T54 Arg2:T57
+R16	ActOn Arg1:T54 Arg2:T58
+R17	ActOn Arg1:T55 Arg2:T56
+R18	ActOn Arg1:T55 Arg2:T57
+R19	ActOn Arg1:T55 Arg2:T58
+R20	Of Arg1:T65 Arg2:T68
+R21	ActOn Arg1:T65 Arg2:T67
+R22	Produce Arg1:T65 Arg2:T66
+R23	Inhibit_Catalyse Arg1:T66 Arg2:T69
+R24	Inhibit_Catalyse Arg1:T66 Arg2:T70
+R25	FoundIn Arg1:T74 Arg2:T75
+R26	FoundIn Arg1:T74 Arg2:T76
+R27	FoundIn Arg1:T80 Arg2:T82
+R28	FoundIn Arg1:T80 Arg2:T83
+R29	FoundIn Arg1:T81 Arg2:T82
+R30	FoundIn Arg1:T81 Arg2:T83
+R31	ActOn Arg1:T80 Arg2:T84
+R32	ActOn Arg1:T81 Arg2:T84

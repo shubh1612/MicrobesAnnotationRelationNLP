@@ -1,0 +1,105 @@
+T1	Environment 221 229	sediment
+T2	Environment 44 53	sediments
+T3	Environment 33 53	subsurface sediments
+T4	Environment 33 43	subsurface
+T5	Environment 207 212	water
+T6	Environment 33 53	subsurface sediments
+T7	Microbes 414 421	archaea
+T8	Microbes 637 651	Proteobacteria
+T9	Microbes 656 666	Firmicutes
+T10	Microbes 680 693	Euryarchaeota
+T11	Substrate 958 961	oil
+T12	Property 853 861	aromatic
+T13	Environment 1707 1716	sediments
+T14	Environment 1698 1716	deep-sea sediments
+T15	Environment 1698 1716	deep-sea sediments
+T16	Substrate 1757 1760	oil
+T17	Substrate 1834 1837	oil
+T18	Environment 1978 1987	sediments
+T19	Environment 2178 2187	sediments
+T20	Environment 2167 2187	subsurface sediments
+T21	Environment 1969 1987	deep-sea sediments
+T22	Environment 1969 1987	deep-sea sediments
+T23	Environment 2167 2177	subsurface
+T24	Environment 2167 2187	subsurface sediments
+T25	Substrate 2008 2033	anthropogenic hydrocarbon
+T26	Substrate 2000 2033	massive anthropogenic hydrocarbon
+T27	Substrate 2022 2033	hydrocarbon
+T28	Substrate 2313 2324	hydrocarbon
+T29	Microbes 2710 2724	Proteobacteria
+T30	Microbes 2726 2736	Firmicutes
+T31	Environment 2644 2653	sediments
+T32	Environment 2635 2653	deep-sea sediments
+T33	Environment 2635 2653	deep-sea sediments
+T34	Nutrient 2826 2832	carbon
+T35	Microbes 3085 3098	Bacteroidetes
+T36	Microbes 3100 3110	Firmicutes
+T37	Microbes 3116 3130	Actinobacteria
+T38	Environment 2952 2960	sediment
+T39	Environment 3571 3581	subsurface
+T40	Environment 3667 3676	sediments
+T41	Environment 3737 3740	Sea
+T42	Environment 3658 3676	deep-sea sediments
+T43	Environment 3658 3676	deep-sea sediments
+T44	Nutrient 3931 3937	carbon
+T45	Microbes 4038 4052	Proteobacteria
+T46	Microbes 4098 4117	Deltaproteobacteria
+T47	Substrate 4366 4374	fluorene
+T48	Substrate 4389 4399	anthracene
+T49	Substrate 4376 4387	naphthalene
+T50	Substrate 4352 4364	ethylbenzene
+T51	Substrate 4401 4408	styrene
+T52	ReactionOrProcess 4238 4252	biodegradation
+R1	CarriedOn Arg1:T52 Arg2:T47
+R2	CarriedOn Arg1:T52 Arg2:T48
+R3	CarriedOn Arg1:T52 Arg2:T49
+R4	CarriedOn Arg1:T52 Arg2:T50
+R5	CarriedOn Arg1:T52 Arg2:T51
+T53	Environment 4598 4606	sediment
+T54	Environment 4589 4606	deep-sea sediment
+T55	Substrate 4733 4736	oil
+T56	Substrate 4518 4538	xenobiotic compounds
+T57	ReactionOrProcess 4651 4661	metabolize
+T58	ReactionOrProcess 4500 4514	biodegradation
+R6	CarriedOn Arg1:T57 Arg2:T55
+R7	CarriedOn Arg1:T58 Arg2:T55
+R8	CarriedOn Arg1:T58 Arg2:T56
+T59	Substrate 4846 4867	aromatic hydrocarbons
+T60	Substrate 4846 4867	aromatic hydrocarbons
+T61	Substrate 4821 4828	alkanes
+T62	Substrate 4855 4867	hydrocarbons
+T63	Substrate 4855 4867	hydrocarbons
+T64	Property 4846 4854	aromatic
+T65	ReactionOrProcess 4923 4943	complete degradation
+T66	ReactionOrProcess 4913 4943	rapid and complete degradation
+T67	ReactionOrProcess 4793 4803	metabolize
+T68	ReactionOrProcess 4932 4943	degradation
+R9	CarriedOn Arg1:T67 Arg2:T59
+R10	CarriedOn Arg1:T67 Arg2:T60
+R11	CarriedOn Arg1:T67 Arg2:T62
+R12	CarriedOn Arg1:T67 Arg2:T63
+T69	Microbes 5116 5135	Gammaproteobacteria
+T70	Environment 5063 5069	marine
+T71	ReactionOrProcess 5236 5247	degradation
+T72	Microbes 5291 5314	Alcanivorax borkumensis
+T73	Environment 5353 5359	marine
+T74	Substrate 5400 5422	aliphatic hydrocarbons
+T75	Substrate 5410 5422	hydrocarbons
+T76	Substrate 5400 5422	aliphatic hydrocarbons
+T77	Substrate 5410 5422	hydrocarbons
+T78	Microbes 5524 5541	Oceanospirillales
+T79	Microbes 5705 5722	Oceanospirillales
+T80	Environment 5642 5647	plume
+T81	Environment 5638 5647	oil plume
+T82	Substrate 5638 5641	oil
+T83	Microbes 5917 5934	Oceanospirillales
+T84	Microbes 5998 6021	Alcanivorax borkumensis
+T85	Environment 5860 5868	sediment
+T86	Environment 5851 5868	deep-sea sediment
+T87	Microbes 6081 6098	Oceanospirillales
+T88	Environment 6204 6209	plume
+T89	Environment 6200 6209	oil plume
+T90	Environment 6194 6199	water
+T91	Environment 6189 6199	deep water
+T92	Substrate 6189 6203	deep water oil
+T93	Substrate 6200 6203	oil

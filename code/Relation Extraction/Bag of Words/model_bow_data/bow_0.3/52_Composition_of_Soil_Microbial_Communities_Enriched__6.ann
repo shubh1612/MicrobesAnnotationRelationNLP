@@ -1,0 +1,86 @@
+T1	Substrate 0 7	Benzene
+T2	Substrate 129 136	toluene
+T3	Substrate 138 149	naphthalene
+T4	Substrate 155 161	xylene
+T5	Substrate 12 19	styrene
+T6	Microbes 210 220	consortium
+T7	ReactionOrProcess 227 235	degraded
+T8	Microbes 333 343	consortium
+T9	Substrate 386 393	benzene
+T10	Substrate 420 427	toluene
+T11	Substrate 404 415	naphthalene
+T12	Substrate 453 459	xylene
+T13	Substrate 395 402	styrene
+T14	ReactionOrProcess 349 357	degraded
+R1	CarriedOn Arg1:T14 Arg2:T10
+R2	CarriedOn Arg1:T14 Arg2:T12
+T15	Microbes 471 481	consortium
+T16	ReactionOrProcess 487 495	degraded
+T17	Environment 1144 1152	aquifers
+T18	Microbes 1263 1277	Proteobacteria
+T19	Microbes 1330 1346	α-proteobacteria
+T20	Microbes 1301 1317	γ-proteobacteria
+T21	Environment 1376 1385	microcosm
+T22	Substrate 1365 1372	toluene
+T23	Substrate 1581 1588	toluene
+T24	Substrate 1622 1629	toluene
+T25	Property 1630 1639	degraders
+T26	Substrate 1754 1777	phospholipid fatty acid
+T27	Substrate 1721 1724	oil
+T28	Property 1823 1842	denaturing gradient
+T29	Property 1809 1842	ribosomal DNA denaturing gradient
+T30	ReactionOrProcess 1823 1862	denaturing gradient gel electrophoresis
+T31	ReactionOrProcess 1847 1862	electrophoresis
+T32	ReactionOrProcess 1823 1833	denaturing
+T33	Microbes 1938 1954	α-proteobacteria
+T34	Substrate 1895 1898	oil
+T35	Property 1924 1937	gram-negative
+T36	ReactionOrProcess 1875 1879	DGGE
+R3	CarriedOn Arg1:T36 Arg2:T33
+T37	Substrate 1965 1988	phospholipid fatty acid
+T38	ReactionOrProcess 2114 2118	DGGE
+T39	Substrate 2327 2348	aromatic hydrocarbons
+T40	Substrate 2327 2348	aromatic hydrocarbons
+T41	Substrate 2336 2348	hydrocarbons
+T42	Substrate 2336 2348	hydrocarbons
+T43	Property 2327 2335	aromatic
+T44	ReactionOrProcess 2263 2288	characterized degradation
+T45	ReactionOrProcess 2277 2288	degradation
+R4	CarriedOn Arg1:T44 Arg2:T39
+R5	CarriedOn Arg1:T44 Arg2:T40
+R6	CarriedOn Arg1:T44 Arg2:T41
+R7	CarriedOn Arg1:T44 Arg2:T42
+R8	CarriedOn Arg1:T45 Arg2:T39
+R9	CarriedOn Arg1:T45 Arg2:T40
+R10	CarriedOn Arg1:T45 Arg2:T41
+R11	CarriedOn Arg1:T45 Arg2:T42
+T46	Microbes 2578 2586	inoculum
+T47	Microbes 2491 2507	γ-proteobacteria
+T48	ReactionOrProcess 2378 2389	Inoculation
+R12	CarriedOn Arg1:T48 Arg2:T46
+R13	CarriedOn Arg1:T48 Arg2:T47
+T49	ReactionOrProcess 2754 2763	inoculate
+T50	ReactionOrProcess 2710 2720	enrichment
+T51	ReactionOrProcess 2926 2939	hybridization
+T52	ReactionOrProcess 3198 3205	degrade
+T53	Microbes 3276 3294	enrichment culture
+T54	ReactionOrProcess 3304 3315	inoculation
+T55	ReactionOrProcess 3276 3286	enrichment
+T56	ReactionOrProcess 3343 3353	enrichment
+T57	ReactionOrProcess 3526 3536	enrichment
+T58	Environment 3694 3714	uncontaminated soils
+T59	Environment 3709 3714	soils
+T60	Environment 3694 3714	uncontaminated soils
+T61	Substrate 3755 3763	ethylene
+T62	Substrate 3945 3957	hydrocarbons
+T63	Substrate 4081 4093	hydrocarbons
+T64	Substrate 3945 3957	hydrocarbons
+T65	Substrate 4081 4093	hydrocarbons
+T66	ReactionOrProcess 3931 3941	enrichment
+T67	ReactionOrProcess 4067 4077	enrichment
+T68	ReactionOrProcess 3892 3896	RSGP
+T69	Substrate 4281 4293	hydrocarbons
+T70	Substrate 4281 4293	hydrocarbons
+T71	ReactionOrProcess 4104 4114	Enrichment
+R14	CarriedOn Arg1:T71 Arg2:T69
+R15	CarriedOn Arg1:T71 Arg2:T70

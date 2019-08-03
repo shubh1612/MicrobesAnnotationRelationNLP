@@ -1,0 +1,36 @@
+T1	Enzyme 95 118	alkylsuccinate synthase
+T2	ReactionOrProcess 540 543	PCR
+T6	ReactionOrProcess 1053 1059	cloned
+T7	ReactionOrProcess 995 1003	purified
+T8	ReactionOrProcess 1183 1186	PCR
+T9	ReactionOrProcess 2007 2017	replicates
+T10	Environment 2349 2354	water
+T11	ReactionOrProcess 2237 2248	EXTRACTIONS
+T12	ReactionOrProcess 2364 2373	acidified
+T13	ReactionOrProcess 2305 2311	thawed
+T14	Environment 2487 2492	water
+T15	ReactionOrProcess 2598 2609	evaporation
+T16	Environment 3204 3209	water
+T17	Property 3250 3261	temperature
+T18	Substrate 3450 3465	alkylsuccinates
+T19	ReactionOrProcess 3612 3621	retention
+T20	Environment 3817 3825	sediment
+T21	Environment 3722 3739	deep-sea sediment
+T22	Environment 4103 4120	deep-sea sediment
+T23	Microbes 4323 4330	archaea
+T24	Environment 4406 4414	sediment
+T25	Microbes 4536 4543	archaea
+T26	Microbes 4607 4620	Euryarchaeota
+T27	Environment 4564 4581	deep-sea sediment
+R1	OccursIn_No Arg1:T11 Arg2:T10
+R2	OccursIn_No Arg1:T12 Arg2:T10
+R3	OccursIn_No Arg1:T13 Arg2:T10
+R7	FoundIn_No Arg1:T25 Arg2:T27
+T28	Enzyme 139 168	methylalkylsuccinate synthase
+T29	Enzyme 227 251	benzylsuccinate synthase
+T30	ReactionOrProcess 296 321	Polymerase chain reaction
+T3	Microbes 4622 4636	Thaumarchaeota
+T4	Microbes 4642 4655	Crenarchaeota
+R4	FoundIn Arg1:T26 Arg2:T27	
+R5	FoundIn Arg1:T3 Arg2:T27	
+R6	FoundIn Arg1:T4 Arg2:T27	

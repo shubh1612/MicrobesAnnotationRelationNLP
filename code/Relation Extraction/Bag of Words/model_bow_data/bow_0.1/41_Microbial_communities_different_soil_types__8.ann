@@ -1,0 +1,74 @@
+T1	Substrate 129 140	hydrocarbon
+T2	ReactionOrProcess 129 152	hydrocarbon degradation
+T3	ReactionOrProcess 141 152	degradation
+T4	Nutrient 16 22	carbon
+T5	Nutrient 38 44	carbon
+T6	Environment 281 286	water
+T7	Substrate 328 351	equivalent hydrocarbons
+T8	Substrate 243 255	hydrocarbons
+T9	Substrate 339 351	hydrocarbons
+T10	Substrate 243 255	hydrocarbons
+T11	Substrate 339 351	hydrocarbons
+T12	Property 287 297	solubility
+T13	Property 308 318	volatility
+T14	Property 281 297	water solubility
+T15	Environment 437 447	microcosms
+T16	ReactionOrProcess 409 416	degrade
+T17	Environment 513 538	contaminated soil samples
+T18	Environment 526 538	soil samples
+T19	Environment 526 530	soil
+T20	Environment 513 530	contaminated soil
+T21	Substrate 506 509	TPH
+T22	Nutrient 611 617	carbon
+T23	Environment 747 751	soil
+T24	Substrate 707 710	oil
+T25	Nutrient 649 655	carbon
+T26	Nutrient 838 844	carbon
+T27	Substrate 961 979	aromatic compounds
+T28	Substrate 961 979	aromatic compounds
+T29	Property 998 1011	concentration
+T30	Property 961 969	aromatic
+T31	Substrate 1167 1187	aromatic hydrocarbon
+T32	Substrate 1176 1187	hydrocarbon
+T33	Property 1188 1197	degraders
+T34	Property 1167 1175	aromatic
+T35	ReactionOrProcess 1153 1163	enrichment
+R1	CarriedOn Arg1:T35 Arg2:T31
+R2	CarriedOn Arg1:T35 Arg2:T32
+T36	Substrate 1279 1289	diesel oil
+T37	Substrate 1286 1289	oil
+T38	Substrate 1279 1285	diesel
+T39	Substrate 1464 1470	diesel
+T40	Substrate 1374 1415	straight-chain aliphatic carboxylic acids
+T41	ReactionOrProcess 1300 1308	degraded
+R3	CarriedOn Arg1:T41 Arg2:T40
+T42	Environment 1492 1497	soils
+T43	Substrate 1539 1580	straight-chain aliphatic carboxylic acids
+T44	ReactionOrProcess 1520 1527	degrade
+R4	CarriedOn Arg1:T44 Arg2:T43
+T45	Substrate 1668 1671	oil
+T46	Substrate 1909 1912	oil
+T47	ReactionOrProcess 1868 1878	incubation
+R5	CarriedOn Arg1:T47 Arg2:T46
+T48	ReactionOrProcess 1982 1992	incubation
+T49	Substrate 2062 2068	diesel
+T50	Environment 2404 2408	soil
+T51	Environment 2553 2563	microcosms
+T52	Environment 2448 2452	soil
+T53	Environment 2605 2609	soil
+T54	Environment 2508 2513	soils
+T55	Environment 2631 2635	soil
+T56	Environment 3065 3069	soil
+T57	Substrate 2999 3005	diesel
+T58	Environment 3168 3172	soil
+T59	Environment 3231 3235	soil
+T60	Environment 3417 3430	control soils
+T61	Environment 3362 3366	soil
+T62	Environment 3425 3430	soils
+T63	Environment 3572 3576	soil
+T64	Environment 3671 3695	diesel-contaminated soil
+T65	Environment 3691 3695	soil
+T66	Environment 3846 3850	soil
+T67	Environment 3962 3986	diesel-contaminated soil
+T68	Environment 3982 3986	soil
+T69	Environment 4097 4102	soils

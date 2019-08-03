@@ -1,0 +1,99 @@
+T1	Nutrient 187 193	carbon
+T2	Environment 237 241	soil
+T3	Environment 279 283	soil
+T4	Nutrient 344 350	carbon
+T5	Environment 418 423	sandy
+T6	Environment 437 441	soil
+T7	Property 418 423	sandy
+T8	Nutrient 536 542	carbon
+T9	Environment 573 577	Soil
+T10	Environment 841 845	soil
+T11	Nutrient 694 702	nitrogen
+T12	Nutrient 730 738	nitrogen
+T13	Nutrient 707 717	phosphorus
+T14	Environment 909 914	soils
+T15	Environment 956 966	oily soils
+T16	Environment 956 966	oily soils
+T17	Environment 961 966	soils
+T18	Microbes 1054 1076	heterotrophic bacteria
+T19	Microbes 1048 1076	Total heterotrophic bacteria
+T20	Substrate 1048 1067	Total heterotrophic
+T21	Substrate 1081 1092	hydrocarbon
+T22	Property 1054 1067	heterotrophic
+T23	Property 1093 1102	degraders
+T24	Environment 1179 1191	soil samples
+T25	Environment 1179 1183	soil
+T26	Environment 1308 1312	soil
+T27	Substrate 1281 1292	hydrocarbon
+T28	Property 1293 1302	degraders
+T29	ReactionOrProcess 1164 1175	enumeration
+R1	CarriedOn Arg1:T29 Arg2:T27
+T30	Substrate 1501 1511	hexadecane
+T31	Substrate 1516 1527	hydrocarbon
+T32	Property 1528 1537	degraders
+T33	Environment 1539 1548	Oily Soil
+T34	Environment 1544 1548	Soil
+T35	Substrate 1539 1542	Oil
+T36	Environment 1682 1687	soils
+T37	Substrate 1617 1626	crude oil
+T38	Substrate 1611 1626	light crude oil
+T39	Substrate 1623 1626	oil
+T40	Environment 1693 1704	sieved soil
+T41	Environment 1700 1704	soil
+T42	Substrate 1761 1772	hydrocarbon
+T43	ReactionOrProcess 1693 1699	sieved
+T44	Environment 1791 1800	oily soil
+T45	Environment 1796 1800	soil
+T46	Substrate 1930 1933	oil
+T47	Substrate 1974 1986	hydrocarbons
+T48	Substrate 1965 1986	volatile hydrocarbons
+T49	Substrate 1974 1986	hydrocarbons
+T50	Substrate 1965 1986	volatile hydrocarbons
+T51	Property 1965 1973	volatile
+T52	Environment 2100 2104	soil
+T53	Substrate 2067 2071	BTEX
+T54	Substrate 2131 2135	BTEX
+T55	Substrate 2072 2084	hydrocarbons
+T56	Substrate 2061 2084	total BTEX hydrocarbons
+T57	Substrate 2072 2084	hydrocarbons
+T58	Substrate 2109 2112	oil
+T59	ReactionOrProcess 2162 2176	bioremediation
+T60	Environment 2309 2318	oily soil
+T61	Environment 2314 2318	soil
+T62	Substrate 2433 2443	crude oils
+T63	Substrate 2433 2443	crude oils
+T64	Substrate 2439 2443	oils
+T65	Nutrient 2407 2413	carbon
+T66	Nutrient 2357 2363	K2HPO4
+T67	Nutrient 2334 2340	NH4NO3
+T68	Environment 2475 2480	soils
+T69	Environment 2456 2461	water
+T70	Environment 2549 2578	fertilizer-amended oily soils
+T71	Environment 2568 2578	oily soils
+T72	Environment 2568 2578	oily soils
+T73	Environment 2573 2578	soils
+T74	Environment 2599 2603	soil
+T75	Environment 2758 2762	soil
+T76	Environment 2861 2865	soil
+T77	Environment 2921 2925	soil
+T78	Substrate 2908 2911	TPH
+T79	Property 2899 2907	residual
+T80	Substrate 3070 3074	BTEX
+T81	Substrate 3061 3064	TPH
+T82	Property 3079 3087	toxicity
+T83	Property 3079 3087	toxicity
+T84	Substrate 3107 3118	Hydrocarbon
+T85	Substrate 3139 3148	Petroleum
+T86	Substrate 3133 3161	Total Petroleum Hydrocarbons
+T87	Substrate 3149 3161	Hydrocarbons
+T88	Substrate 3133 3161	Total Petroleum Hydrocarbons
+T89	Substrate 3149 3161	Hydrocarbons
+T90	Substrate 3139 3161	Petroleum Hydrocarbons
+T91	Environment 3198 3208	oily soils
+T92	Environment 3198 3208	oily soils
+T93	Environment 3203 3208	soils
+T94	Substrate 3278 3281	TPH
+T95	ReactionOrProcess 3387 3397	extraction
+T96	ReactionOrProcess 3330 3341	evaporation
+T97	Substrate 3748 3751	TPH
+T98	Property 3704 3711	residue

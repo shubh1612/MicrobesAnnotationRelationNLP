@@ -1,0 +1,123 @@
+T1	Microbes 79 89	consortium
+T2	Environment 119 127	sediment
+T3	Environment 133 153	contaminated aquifer
+T4	Environment 146 153	aquifer
+T5	Property 66 78	methanogenic
+T6	Property 66 78	methanogenic
+T7	ReactionOrProcess 224 238	methanogenesis
+T8	Nutrient 186 203	electron acceptor
+T9	Microbes 287 301	Peptococcaceae
+T10	Substrate 388 395	benzene
+T11	Microbes 515 525	consortium
+T12	Property 529 535	stable
+T13	Microbes 688 702	Actinobacteria
+T14	Microbes 652 668	Desulfobulbaceae
+T15	Microbes 569 583	Peptococcaceae
+T16	Substrate 608 615	benzene
+T17	Substrate 777 784	benzene
+T18	ReactionOrProcess 785 796	degradation
+T19	Microbes 942 960	Desulfobacteraceae
+T20	Microbes 1007 1025	Desulfobacteraceae
+T21	Microbes 969 979	consortium
+T22	Substrate 1057 1064	benzene
+T23	Substrate 1068 1075	toluene
+T24	Substrate 1077 1083	phenol
+T25	Microbes 1222 1235	Desulfovibrio
+T26	Microbes 1197 1216	Deltaproteobacteria
+T27	Property 1327 1335	reducers
+T28	Property 1266 1274	aromatic
+T29	Microbes 1408 1427	Deltaproteobacteria
+T30	Microbes 1457 1474	Cryptanaerobacter
+T31	Environment 1614 1625	groundwater
+T32	ReactionOrProcess 1589 1599	inoculated
+T33	Substrate 1680 1687	benzene
+T34	Property 1722 1730	reducers
+T35	ReactionOrProcess 1695 1703	degraded
+T36	Environment 1897 1908	groundwater
+T37	Substrate 1961 1968	benzene
+T38	Substrate 2024 2031	benzene
+T39	Property 2202 2210	reducers
+T40	ReactionOrProcess 2013 2023	metabolize
+T41	Nutrient 2112 2129	electron acceptor
+T42	Substrate 2312 2319	benzene
+T43	Property 2320 2328	degrader
+T44	Microbes 2542 2559	Cryptanaerobacter
+T45	Substrate 2621 2628	benzene
+T46	ReactionOrProcess 2636 2647	enrichments
+T47	Microbes 2766 2784	enrichment culture
+T48	Microbes 2687 2701	Peptococcaceae
+T49	Property 2719 2765	aquifer-derived methanogenic benzene-degrading
+T50	Property 2735 2747	methanogenic
+T51	Property 2735 2747	methanogenic
+T52	ReactionOrProcess 2766 2776	enrichment
+T53	Microbes 2915 2929	Peptococcaceae
+T54	Microbes 2935 2945	consortium
+T55	Substrate 2855 2862	benzene
+T56	Substrate 2957 2964	benzene
+T57	Environment 3021 3028	Aquifer
+T58	Environment 3021 3029	Aquifers
+T59	Nutrient 3253 3271	electron acceptors
+T60	Environment 3458 3467	sediments
+T61	Environment 3447 3467	subsurface sediments
+T62	Environment 3447 3457	subsurface
+T63	Environment 3447 3467	subsurface sediments
+T64	Environment 3520 3528	aquifers
+T65	Substrate 3327 3345	aromatic compounds
+T66	Substrate 3317 3345	degrading aromatic compounds
+T67	Substrate 3377 3388	methanogens
+T68	Substrate 3327 3345	aromatic compounds
+T69	Substrate 3306 3345	fermenters degrading aromatic compounds
+T70	Property 3556 3568	methanogenic
+T71	Property 3556 3568	methanogenic
+T72	Property 3390 3406	sulfate-reducers
+T73	Property 3349 3371	syntrophic association
+T74	Property 3327 3335	aromatic
+T75	ReactionOrProcess 3349 3371	syntrophic association
+T76	ReactionOrProcess 3317 3326	degrading
+T77	Environment 3686 3713	sulfate-reducing conditions
+T78	Substrate 3660 3667	benzene
+T79	Substrate 3736 3743	benzene
+T80	Substrate 4012 4019	benzene
+T81	Property 3930 3952	syntrophic association
+T82	Property 3686 3702	sulfate-reducing
+T83	ReactionOrProcess 3930 3952	syntrophic association
+T84	ReactionOrProcess 3649 3679	syntrophic benzene degradation
+T85	ReactionOrProcess 3668 3679	degradation
+T86	ReactionOrProcess 3718 3732	mineralization
+T87	Nutrient 3763 3780	electron acceptor
+T88	Microbes 4106 4116	consortium
+T89	Substrate 4079 4086	benzene
+T90	Substrate 4310 4317	benzene
+T91	Property 4052 4075	syntrophic associations
+T92	ReactionOrProcess 4302 4309	degrade
+T93	ReactionOrProcess 4052 4075	syntrophic associations
+T94	ReactionOrProcess 4087 4098	degradation
+T95	Substrate 4339 4346	benzene
+T96	Property 4365 4382	anoxic conditions
+T97	ReactionOrProcess 4409 4422	hydroxylation
+T98	ReactionOrProcess 4347 4358	degradation
+T99	Substrate 4587 4594	benzene
+T100	Substrate 4638 4647	aromatics
+T101	Property 4654 4671	anoxic conditions
+T102	Property 4638 4647	aromatics
+T103	ReactionOrProcess 4564 4575	degradation
+T104	ReactionOrProcess 4614 4625	degradation
+T105	ReactionOrProcess 4554 4575	anaerobic degradation
+R1	CarriedOn Arg1:T103 Arg2:T99
+R2	CarriedOn Arg1:T103 Arg2:T100
+R3	CarriedOn Arg1:T104 Arg2:T99
+R4	CarriedOn Arg1:T104 Arg2:T100
+R5	CarriedOn Arg1:T105 Arg2:T99
+R6	CarriedOn Arg1:T105 Arg2:T100
+T106	Environment 4871 4887	nitrate-reducing
+T107	Property 4910 4922	methanogenic
+T108	Property 4910 4922	methanogenic
+T109	Property 4889 4905	sulfate-reducing
+T110	Substrate 5010 5017	benzene
+T111	Substrate 5101 5108	benzene
+T112	Substrate 5082 5108	putative anaerobic benzene
+T113	Substrate 5091 5108	anaerobic benzene
+T114	Property 5109 5117	degrader
+T115	ReactionOrProcess 5173 5180	oxidize
+T116	Microbes 5310 5320	consortium
+T117	Property 5423 5431	reducers

@@ -1,0 +1,48 @@
+T1	Microbes 63 73	consortium
+T2	Environment 46 62	nitrate-reducing
+T3	Substrate 279 289	hexadecane
+T4	ReactionOrProcess 251 275	anaerobic biodegradation
+T5	ReactionOrProcess 404 417	incorporation
+T6	Nutrient 431 437	carbon
+T7	Substrate 607 614	alkanes
+T8	Property 688 701	concentration
+T9	Substrate 1147 1154	alkanes
+T10	ReactionOrProcess 1122 1143	anaerobic degradation
+T11	Nutrient 1065 1083	electron acceptors
+T12	Substrate 1396 1403	alkanes
+T13	Nutrient 1335 1341	oxygen
+T14	Enzyme 1479 1489	oxygenases
+T15	Nutrient 1515 1521	oxygen
+T16	Substrate 1831 1838	nitrite
+T17	Substrate 1820 1827	nitrate
+T18	Nutrient 1796 1814	electron acceptors
+T19	Nutrient 1755 1761	oxygen
+T20	Microbes 2050 2061	strain HdN1
+T21	Substrate 1909 1916	nitrite
+T22	Substrate 2039 2046	alkanes
+T23	Substrate 1967 1974	nitrate
+T24	ReactionOrProcess 1954 1963	reduction
+T25	Substrate 2166 2173	alkanes
+T26	Substrate 2314 2321	alkanes
+T27	Substrate 2310 2313	oil
+T28	ReactionOrProcess 2283 2306	anaerobic hydroxylation
+T29	Microbes 2399 2418	enrichment cultures
+T30	Substrate 2429 2438	crude oil
+T31	Property 2386 2398	methanogenic
+T32	ReactionOrProcess 2419 2428	degrading
+T33	Microbes 2745 2763	enrichment culture
+T34	Substrate 2717 2724	alkanes
+T35	Substrate 2713 2716	oil
+T36	Property 2732 2744	methanogenic
+T37	ReactionOrProcess 2791 2814	anaerobic hydroxylation
+T38	Substrate 2875 2882	Alkanes
+T39	Substrate 2933 2942	crude oil
+R1	FoundIn Arg1:T1 Arg2:T2
+R2	ActOn Arg1:T20 Arg2:T21
+R3	ActOn Arg1:T20 Arg2:T22
+R4	ActOn Arg1:T20 Arg2:T23
+R5	Of Arg1:T29 Arg2:T31
+R6	ActOn Arg1:T29 Arg2:T30
+R7	Of Arg1:T33 Arg2:T36
+R8	ActOn Arg1:T33 Arg2:T34
+R9	ActOn Arg1:T33 Arg2:T35

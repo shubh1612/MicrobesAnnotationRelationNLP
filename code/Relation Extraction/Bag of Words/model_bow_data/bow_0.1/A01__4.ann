@@ -1,0 +1,80 @@
+T1	Microbes 4 17	Euryarchaeota
+T2	Microbes 371 378	Archaea
+T3	Microbes 563 576	Bacteroidetes
+T4	Microbes 464 478	Proteobacteria
+T5	Microbes 536 546	Firmicutes
+T6	Microbes 598 612	Actinobacteria
+T7	Environment 508 516	sediment
+T8	Environment 1023 1031	sediment
+T9	Microbes 1561 1575	Proteobacteria
+T10	Microbes 1751 1765	Proteobacteria
+T11	Substrate 1675 1700	aerobic and anaerobic oil
+T12	Substrate 1687 1700	anaerobic oil
+T13	Substrate 1697 1700	oil
+T14	ReactionOrProcess 1697 1715	oil biodegradation
+T15	ReactionOrProcess 1701 1715	biodegradation
+T16	Substrate 1792 1801	petroleum
+T17	Substrate 1802 1814	hydrocarbons
+T18	Substrate 1802 1814	hydrocarbons
+T19	Substrate 1792 1814	petroleum hydrocarbons
+T20	Microbes 1923 1935	Marinobacter
+T21	Microbes 1855 1874	Gammaproteobacteria
+T22	Microbes 1996 2015	Gammaproteobacteria
+T23	Microbes 2105 2124	Deltaproteobacteria
+T24	Microbes 2081 2100	Alphaproteobacteria
+T25	Environment 2157 2165	sediment
+T26	Environment 2148 2165	deep-sea sediment
+T27	Microbes 2347 2361	Proteobacteria
+T28	Microbes 2200 2219	Alphaproteobacteria
+T29	Microbes 2629 2642	Sinorhizobium
+T30	Microbes 2580 2599	Alphaproteobacteria
+T31	Microbes 2985 3004	Deltaproteobacteria
+T32	Microbes 2703 2722	Deltaproteobacteria
+T33	Microbes 2781 2800	Alphaproteobacteria
+T34	Environment 2823 2831	sediment
+T35	Microbes 3247 3260	Desulfovibrio
+T36	Microbes 3164 3181	Desulfatibacillum
+T37	Microbes 3205 3218	Desulfococcus
+T38	Microbes 3073 3092	Deltaproteobacteria
+T39	Microbes 3539 3553	Proteobacteria
+T40	Microbes 3559 3573	Proteobacteria
+T41	Microbes 3648 3667	Deltaproteobacteria
+T42	Microbes 3851 3865	Proteobacteria
+T43	Microbes 4061 4078	Oceanospirillales
+T44	Microbes 3988 4011	Alcanivorax borkumensis
+T45	Microbes 4149 4166	Desulfatibacillum
+T46	Microbes 4149 4185	Desulfatibacillum alkenivorans AK-01
+T47	Microbes 4413 4427	Geobacteraceae
+T48	Microbes 4040 4059	Gammaproteobacteria
+T49	Microbes 4250 4268	Desulfobacteraceae
+T50	Microbes 4210 4229	Deltaproteobacteria
+T51	Microbes 4372 4391	Deltaproteobacteria
+T52	Environment 4472 4480	sediment
+T53	Environment 4463 4480	deep-sea sediment
+T54	Microbes 4550 4573	Alcanivorax borkumensis
+T55	Microbes 4714 4731	Desulfatibacillum
+T56	Microbes 4714 4750	Desulfatibacillum alkenivorans AK-01
+T57	Substrate 4520 4539	aerobic hydrocarbon
+T58	Substrate 4681 4702	anaerobic hydrocarbon
+T59	Substrate 4528 4539	hydrocarbon
+T60	Substrate 4691 4702	hydrocarbon
+T61	Property 4540 4548	degrader
+T62	Property 4703 4712	degraders
+T63	Microbes 4990 5019	Desulfococcus oleovorans Hxd3
+T64	Microbes 4990 5003	Desulfococcus
+T65	Property 5046 5062	sulfate-reducing
+T66	ReactionOrProcess 5880 5890	processing
+T67	Substrate 6221 6228	toluene
+T68	Substrate 6028 6031	oil
+T69	ReactionOrProcess 6003 6024	potential degradation
+T70	ReactionOrProcess 6013 6024	degradation
+T71	ReactionOrProcess 6130 6141	degradation
+T72	ReactionOrProcess 6120 6141	anaerobic degradation
+R1	CarriedOn Arg1:T69 Arg2:T67
+R2	CarriedOn Arg1:T69 Arg2:T68
+R3	CarriedOn Arg1:T70 Arg2:T67
+R4	CarriedOn Arg1:T70 Arg2:T68
+R5	CarriedOn Arg1:T71 Arg2:T67
+R6	CarriedOn Arg1:T71 Arg2:T68
+R7	CarriedOn Arg1:T72 Arg2:T67
+R8	CarriedOn Arg1:T72 Arg2:T68

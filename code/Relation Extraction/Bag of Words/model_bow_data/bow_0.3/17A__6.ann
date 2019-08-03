@@ -1,0 +1,48 @@
+T1	ReactionOrProcess 45 67	maximum biodegradation
+T2	ReactionOrProcess 175 185	incubation
+T3	ReactionOrProcess 53 67	biodegradation
+T4	ReactionOrProcess 235 245	reductions
+T5	ReactionOrProcess 266 280	biodegradation
+T6	Environment 363 384	PAH-contaminated soil
+T7	Environment 380 384	soil
+T8	Environment 496 523	crude oil-contaminated soil
+T9	Environment 502 523	oil-contaminated soil
+T10	Environment 519 523	soil
+T11	ReactionOrProcess 478 492	bioremediation
+T12	ReactionOrProcess 646 674	principal-component analysis
+T13	ReactionOrProcess 525 553	Principal-component analysis
+T14	Environment 787 797	microcosms
+T15	ReactionOrProcess 765 769	DGGE
+T16	ReactionOrProcess 836 850	biostimulation
+T17	Environment 928 942	untreated soil
+T18	Environment 1009 1027	biostimulated soil
+T19	Environment 938 942	soil
+T20	Environment 1023 1027	soil
+T21	Environment 1183 1197	untreated soil
+T22	Environment 1193 1197	soil
+T23	ReactionOrProcess 1327 1337	incubation
+T24	ReactionOrProcess 1083 1097	biostimulation
+T25	ReactionOrProcess 1441 1451	incubation
+T26	ReactionOrProcess 1690 1704	biostimulation
+T27	ReactionOrProcess 1866 1880	biostimulation
+T28	Substrate 2043 2046	TPH
+T29	ReactionOrProcess 2014 2024	incubation
+T30	ReactionOrProcess 2047 2061	biodegradation
+T31	Property 2241 2260	denaturing gradient
+T32	ReactionOrProcess 2196 2224	Principal-component analysis
+T33	ReactionOrProcess 2241 2280	denaturing gradient gel electrophoresis
+T34	ReactionOrProcess 2265 2280	electrophoresis
+T35	ReactionOrProcess 2241 2251	denaturing
+T36	ReactionOrProcess 2322 2332	incubation
+T37	Environment 2365 2379	untreated soil
+T38	Environment 2392 2404	aerated soil
+T39	Environment 2447 2459	aerated soil
+T40	Environment 2353 2379	4M indicate untreated soil
+T41	Environment 2375 2379	soil
+T42	Environment 2400 2404	soil
+T43	Environment 2455 2459	soil
+T44	Environment 2385 2389	soil
+T45	Environment 2596 2614	biostimulated soil
+T46	Environment 2610 2614	soil
+T47	ReactionOrProcess 2732 2736	DGGE
+T48	ReactionOrProcess 3013 3017	DGGE

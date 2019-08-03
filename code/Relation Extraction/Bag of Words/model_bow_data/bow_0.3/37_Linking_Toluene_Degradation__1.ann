@@ -1,0 +1,81 @@
+T1	Environment 45 49	soil
+T2	Environment 194 198	soil
+T3	Substrate 0 23	Phospholipid fatty acid
+T4	Environment 349 353	soil
+T5	Substrate 242 249	toluene
+T6	ReactionOrProcess 330 339	extracted
+T7	ReactionOrProcess 226 236	incubation
+T8	ReactionOrProcess 318 323	PLFAs
+T9	Environment 489 493	soil
+T10	ReactionOrProcess 414 419	PLFAs
+T11	ReactionOrProcess 381 386	PLFAs
+T12	Environment 528 532	soil
+T13	Environment 574 578	soil
+T14	ReactionOrProcess 583 592	incubated
+T15	ReactionOrProcess 533 538	PLFAs
+T16	Environment 836 840	soil
+T17	ReactionOrProcess 667 671	PLFA
+T18	Substrate 842 849	Toluene
+T19	Property 866 875	pollutant
+T20	Property 932 942	pollutants
+T21	Substrate 981 988	Toluene
+T22	Property 1107 1120	gram-negative
+T23	ReactionOrProcess 981 1000	Toluene degradation
+T24	ReactionOrProcess 989 1000	degradation
+T25	Environment 1298 1309	groundwater
+T26	Environment 1289 1293	soil
+T27	Substrate 1263 1270	toluene
+T28	Property 1472 1481	pollutant
+T29	ReactionOrProcess 1271 1285	biodegradation
+T30	Property 1688 1697	pollutant
+T31	ReactionOrProcess 1698 1709	degradation
+T32	ReactionOrProcess 1606 1620	biodegradation
+T33	ReactionOrProcess 1828 1842	biodegradation
+T34	Environment 1959 1964	soils
+T35	Substrate 2026 2050	phospholipid fatty acids
+T36	Environment 2130 2134	soil
+T37	Substrate 2285 2296	hydrocarbon
+T38	ReactionOrProcess 2249 2270	heavy-metal pollution
+T39	ReactionOrProcess 2136 2140	PLFA
+T40	ReactionOrProcess 2386 2390	PLFA
+T41	ReactionOrProcess 2568 2572	PLFA
+T42	Environment 2771 2775	soil
+T43	Substrate 2654 2661	toluene
+T44	Substrate 2690 2707	trichloroethylene
+T45	ReactionOrProcess 2636 2650	biodegradation
+R1	CarriedOn Arg1:T45 Arg2:T43
+R2	CarriedOn Arg1:T45 Arg2:T44
+T46	Substrate 2891 2898	toluene
+T47	Substrate 3041 3048	toluene
+T48	Substrate 2903 2920	trichloroethylene
+T49	ReactionOrProcess 3041 3060	toluene degradation
+T50	ReactionOrProcess 3049 3060	degradation
+T51	ReactionOrProcess 2873 2887	biodegradation
+R3	CarriedOn Arg1:T51 Arg2:T46
+R4	CarriedOn Arg1:T51 Arg2:T47
+R5	CarriedOn Arg1:T51 Arg2:T48
+T52	Substrate 3166 3173	toluene
+T53	ReactionOrProcess 3279 3283	PLFA
+T54	Substrate 3396 3403	toluene
+T55	ReactionOrProcess 3443 3453	extraction
+T56	Environment 3736 3741	water
+T57	Environment 3799 3803	Soil
+T58	Environment 3841 3845	sand
+T59	Environment 4033 4037	soil
+T60	Environment 4126 4143	polyethylene bags
+T61	Environment 4100 4104	soil
+T62	Environment 4552 4567	soil microcosms
+T63	Environment 4557 4567	microcosms
+T64	Environment 4552 4556	soil
+T65	Environment 4624 4628	soil
+T66	Environment 4710 4714	soil
+T67	Substrate 4610 4617	toluene
+T68	ReactionOrProcess 4806 4815	incubated
+T69	ReactionOrProcess 4501 4515	Biodegradation
+R6	CarriedOn Arg1:T69 Arg2:T67
+T70	Property 4915 4929	concentrations
+T71	ReactionOrProcess 4872 4887	chromatographic
+T72	ReactionOrProcess 4868 4887	gas chromatographic
+T73	ReactionOrProcess 4837 4851	Biodegradation
+T74	Environment 5002 5012	microcosms
+T75	Substrate 4962 4969	toluene

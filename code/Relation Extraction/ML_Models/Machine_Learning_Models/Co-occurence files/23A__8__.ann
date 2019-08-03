@@ -1,0 +1,92 @@
+T1	Environment 122 131	microcosm
+T2	Environment 171 180	microcosm
+T3	Environment 347 357	microcosms
+T4	Substrate 371 374	oil
+T5	Substrate 566 575	crude oil
+T6	ReactionOrProcess 544 551	degrade
+T7	Substrate 740 743	oil
+T8	ReactionOrProcess 886 901	oil degradation
+T9	ReactionOrProcess 832 847	oil degradation
+T10	Nutrient 711 717	carbon
+T11	Nutrient 993 999	carbon
+T12	Environment 1224 1233	microcosm
+T13	Environment 1399 1409	microcosms
+T14	Substrate 1276 1279	oil
+T15	Substrate 1342 1345	oil
+T16	Nutrient 1191 1197	carbon
+T17	Environment 1533 1541	sediment
+T18	Environment 1527 1532	beach
+T19	Environment 1582 1587	water
+T20	Environment 1547 1552	water
+T21	Property 1510 1523	concentration
+T22	ReactionOrProcess 1661 1676	oil degradation
+T23	ReactionOrProcess 1478 1496	oil biodegradation
+T24	Nutrient 1501 1509	nitrogen
+T25	ReactionOrProcess 1769 1787	oil biodegradation
+T26	Environment 1892 1902	microcosms
+T27	ReactionOrProcess 2070 2085	oil degradation
+T28	Nutrient 1917 1923	carbon
+T29	Substrate 2136 2139	oil
+T30	Property 2140 2154	concentrations
+T31	ReactionOrProcess 2266 2284	oil biodegradation
+T32	Property 2441 2455	concentrations
+T33	ReactionOrProcess 2481 2492	degradation
+T34	ReactionOrProcess 2384 2399	oil degradation
+T35	Environment 2724 2732	sediment
+T36	Environment 2630 2635	beach
+T37	ReactionOrProcess 2660 2669	retention
+T38	Environment 2780 2792	cobble beach
+T39	ReactionOrProcess 2759 2774	oil degradation
+T40	Environment 2861 2872	sandy beach
+T41	Environment 3003 3022	heterogeneous beach
+T42	Substrate 2976 2986	patchy oil
+T43	ReactionOrProcess 2923 2937	bioremediation
+T44	ReactionOrProcess 3110 3124	bioremediation
+T45	Property 3161 3175	concentrations
+T46	ReactionOrProcess 3448 3463	oil degradation
+T47	Environment 3543 3553	microcosms
+T48	Environment 3822 3832	microcosms
+T49	Environment 3955 3965	microcosms
+T50	ReactionOrProcess 3713 3717	DGGE
+T51	ReactionOrProcess 3774 3778	DGGE
+T52	Environment 4254 4262	sediment
+T53	Environment 4381 4391	microcosms
+T54	Environment 4184 4194	microcosms
+T55	Substrate 4246 4249	oil
+T56	Environment 4475 4484	microcosm
+T57	Environment 4574 4584	microcosms
+T58	ReactionOrProcess 4420 4429	Replicate
+T59	Environment 4758 4768	microcosms
+T60	Property 4975 4989	concentrations
+T61	ReactionOrProcess 4937 4952	oil degradation
+T62	Substrate 5138 5145	alkanes
+T63	Substrate 5163 5166	oil
+T64	ReactionOrProcess 5128 5137	degrading
+R1	CarriedOn Arg1:T6 Arg2:T5
+R2	CarriedOn Arg1:T8 Arg2:T7
+R3	CarriedOn Arg1:T9 Arg2:T7
+R4	OccursIn Arg1:T22 Arg2:T17
+R5	OccursIn Arg1:T22 Arg2:T18
+R6	OccursIn Arg1:T22 Arg2:T19
+R7	OccursIn Arg1:T22 Arg2:T20
+R8	OccursIn Arg1:T23 Arg2:T17
+R9	OccursIn Arg1:T23 Arg2:T18
+R10	OccursIn Arg1:T23 Arg2:T19
+R11	OccursIn Arg1:T23 Arg2:T20
+R12	OccursIn Arg1:T27 Arg2:T26
+R13	CarriedOn Arg1:T31 Arg2:T29
+R14	OccursIn Arg1:T37 Arg2:T35
+R15	OccursIn Arg1:T37 Arg2:T36
+R16	OccursIn Arg1:T39 Arg2:T38
+R17	CarriedOn Arg1:T43 Arg2:T42
+R18	CarriedOn Arg1:T44 Arg2:T42
+R19	OccursIn Arg1:T43 Arg2:T41
+R20	OccursIn Arg1:T44 Arg2:T41
+R21	OccursIn Arg1:T50 Arg2:T48
+R22	OccursIn Arg1:T50 Arg2:T49
+R23	OccursIn Arg1:T51 Arg2:T48
+R24	OccursIn Arg1:T51 Arg2:T49
+R25	OccursIn Arg1:T58 Arg2:T56
+R26	OccursIn Arg1:T58 Arg2:T57
+R27	CarriedOn Arg1:T64 Arg2:T62
+R28	CarriedOn Arg1:T64 Arg2:T63

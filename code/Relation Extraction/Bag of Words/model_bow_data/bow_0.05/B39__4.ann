@@ -1,0 +1,72 @@
+T1	Substrate 124 146	aliphatic hydrocarbons
+T2	Substrate 54 66	hydrocarbons
+T3	Substrate 134 146	hydrocarbons
+T4	Substrate 204 210	resins
+T5	Substrate 124 146	aliphatic hydrocarbons
+T6	Substrate 155 164	aromatics
+T7	Substrate 54 66	hydrocarbons
+T8	Substrate 134 146	hydrocarbons
+T9	Substrate 215 226	asphaltenes
+T10	Property 155 164	aromatics
+T11	ReactionOrProcess 187 195	degraded
+R1	CarriedOn Arg1:T11 Arg2:T9
+T12	Microbes 273 295	heterotrophic bacteria
+T13	Environment 365 369	soil
+T14	Environment 352 369	contaminated soil
+T15	Substrate 316 319	PAH
+T16	Substrate 297 300	TPH
+T17	Property 273 286	heterotrophic
+T18	Property 320 329	degraders
+T19	Property 301 310	degraders
+T20	ReactionOrProcess 377 391	bioremediation
+T21	Environment 569 573	soil
+T22	Property 506 517	contaminant
+T23	ReactionOrProcess 575 589	bioremediation
+T24	ReactionOrProcess 485 494	degrading
+T25	Substrate 696 718	degrading hydrocarbons
+T26	Substrate 706 718	hydrocarbons
+T27	Substrate 696 718	degrading hydrocarbons
+T28	Substrate 706 718	hydrocarbons
+T29	ReactionOrProcess 696 705	degrading
+T30	Environment 782 811	oily sludge-contaminated soil
+T31	Environment 787 811	sludge-contaminated soil
+T32	Environment 807 811	soil
+T33	Environment 908 912	soil
+T34	Environment 885 912	petroleum-contaminated soil
+T35	Property 963 972	degraders
+T36	Microbes 1121 1143	heterotrophic bacteria
+T37	Environment 1200 1204	soil
+T38	Environment 1296 1300	soil
+T39	Environment 1550 1554	soil
+T40	Substrate 1164 1167	PAH
+T41	Substrate 1529 1532	PAH
+T42	Substrate 1145 1148	TPH
+T43	Substrate 1521 1524	TPH
+T44	Property 1121 1134	heterotrophic
+T45	Property 1168 1177	degraders
+T46	Property 1533 1542	degraders
+T47	Property 1149 1158	degraders
+T48	ReactionOrProcess 1274 1292	addition of manure
+R2	CarriedOn Arg1:T48 Arg2:T36
+R3	CarriedOn Arg1:T48 Arg2:T40
+R4	CarriedOn Arg1:T48 Arg2:T41
+R5	CarriedOn Arg1:T48 Arg2:T42
+R6	CarriedOn Arg1:T48 Arg2:T43
+T49	Environment 1948 1966	autochthonous soil
+T50	Environment 1962 1966	soil
+T51	ReactionOrProcess 1841 1852	utilization
+T52	Environment 2213 2225	treated soil
+T53	Environment 2161 2165	soil
+T54	Environment 2221 2225	soil
+T55	ReactionOrProcess 2310 2321	remediation
+T56	Property 2378 2396	sole carbon source
+T57	ReactionOrProcess 2397 2408	utilization
+T58	Nutrient 2383 2389	carbon
+T59	ReactionOrProcess 2444 2462	addition of manure
+T60	Environment 2650 2661	oily sludge
+T61	ReactionOrProcess 2944 2958	bioremediation
+T62	ReactionOrProcess 3046 3057	utilization
+T63	Nutrient 3032 3038	carbon
+T64	Nutrient 3158 3164	carbon
+T65	Environment 3458 3462	soil
+T66	Substrate 3376 3379	TPH

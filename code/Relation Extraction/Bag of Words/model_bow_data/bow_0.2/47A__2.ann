@@ -1,0 +1,107 @@
+T1	Enzyme 233 241	catalase
+T2	Substrate 314 321	nitrite
+T3	Substrate 283 290	ammonia
+T4	Substrate 302 309	nitrate
+T5	ReactionOrProcess 253 265	fermentation
+T6	ReactionOrProcess 243 252	oxidation
+T7	ReactionOrProcess 214 222	motility
+T8	ReactionOrProcess 198 212	spore staining
+T9	ReactionOrProcess 171 181	morphology
+T10	ReactionOrProcess 183 196	gram staining
+T11	ReactionOrProcess 224 231	oxidase
+T12	ReactionOrProcess 322 331	reduction
+R1	CarriedOn Arg1:T5 Arg2:T2
+R2	CarriedOn Arg1:T6 Arg2:T2
+R3	CarriedOn Arg1:T7 Arg2:T2
+R4	CarriedOn Arg1:T8 Arg2:T2
+R5	CarriedOn Arg1:T9 Arg2:T2
+R6	CarriedOn Arg1:T10 Arg2:T2
+R7	CarriedOn Arg1:T11 Arg2:T2
+T13	Substrate 643 657	High crude oil
+T14	Substrate 648 657	crude oil
+T15	Substrate 541 544	oil
+T16	Substrate 654 657	oil
+T17	ReactionOrProcess 570 580	inoculated
+T18	Nutrient 661 667	carbon
+T19	Microbes 1059 1070	Micrococcus
+T20	Substrate 1048 1057	crude oil
+T21	Substrate 1054 1057	oil
+T22	Microbes 1161 1175	Pseudomonas sp
+T23	ReactionOrProcess 1227 1237	inoculated
+T24	Microbes 1450 1460	consortium
+T25	ReactionOrProcess 1289 1298	incubated
+R8	CarriedOn Arg1:T25 Arg2:T24
+T26	Microbes 1506 1516	consortium
+T27	Substrate 1656 1665	crude oil
+T28	Substrate 1662 1665	oil
+T29	ReactionOrProcess 1738 1747	incubated
+T30	Substrate 1898 1907	crude oil
+T31	Substrate 1904 1907	oil
+T32	ReactionOrProcess 1844 1855	enumeration
+R9	CarriedOn Arg1:T32 Arg2:T30
+R10	CarriedOn Arg1:T32 Arg2:T31
+T33	Substrate 2068 2071	oil
+T34	Property 2047 2060	concentration
+T35	ReactionOrProcess 1977 1988	Degradation
+R11	CarriedOn Arg1:T35 Arg2:T33
+T36	Substrate 2163 2172	crude oil
+T37	Substrate 2290 2299	crude oil
+T38	Substrate 2351 2360	crude oil
+T39	Substrate 2160 2172	BH crude oil
+T40	Substrate 2348 2360	BH crude oil
+T41	Substrate 2169 2172	oil
+T42	Substrate 2296 2299	oil
+T43	Substrate 2357 2360	oil
+T44	Property 2210 2221	temperature
+T45	ReactionOrProcess 2145 2156	degradation
+T46	ReactionOrProcess 2272 2283	degradation
+R12	CarriedOn Arg1:T45 Arg2:T36
+R13	CarriedOn Arg1:T45 Arg2:T37
+R14	CarriedOn Arg1:T45 Arg2:T38
+R15	CarriedOn Arg1:T45 Arg2:T39
+R16	CarriedOn Arg1:T45 Arg2:T40
+R17	CarriedOn Arg1:T45 Arg2:T41
+R18	CarriedOn Arg1:T45 Arg2:T42
+R19	CarriedOn Arg1:T45 Arg2:T43
+R20	CarriedOn Arg1:T46 Arg2:T36
+R21	CarriedOn Arg1:T46 Arg2:T37
+R22	CarriedOn Arg1:T46 Arg2:T38
+R23	CarriedOn Arg1:T46 Arg2:T39
+R24	CarriedOn Arg1:T46 Arg2:T40
+R25	CarriedOn Arg1:T46 Arg2:T41
+R26	CarriedOn Arg1:T46 Arg2:T42
+R27	CarriedOn Arg1:T46 Arg2:T43
+T47	Microbes 2454 2467	actinomycetes
+T48	Environment 2575 2596	gasoline station soil
+T49	Environment 2592 2596	soil
+T50	Substrate 2575 2583	gasoline
+T51	Substrate 2650 2653	oil
+T52	Environment 2742 2754	soil samples
+T53	Environment 2742 2746	soil
+T54	Environment 2727 2746	diesel station soil
+T55	Substrate 2727 2733	diesel
+T56	Microbes 2904 2917	actinomycetes
+T57	Environment 2868 2880	soil samples
+T58	Environment 2868 2872	soil
+T59	Environment 2853 2872	diesel station soil
+T60	Substrate 2853 2859	diesel
+T61	Environment 3037 3041	soil
+T62	Environment 3022 3041	diesel station soil
+T63	Substrate 3070 3073	oil
+T64	Substrate 3022 3028	diesel
+T65	Environment 3337 3358	gasoline station soil
+T66	Environment 3354 3358	soil
+T67	Substrate 3337 3345	gasoline
+T68	Property 3472 3485	gelatinolytic
+T69	Property 3380 3390	amylolytic
+T70	Property 3431 3440	lipolytic
+T71	Property 3513 3529	urea hydrolysers
+T72	Property 3450 3462	caseinolytic
+T73	Environment 3708 3712	soil
+T74	Environment 3693 3712	diesel station soil
+T75	Substrate 3539 3542	Lip
+T76	Substrate 3693 3699	diesel
+T77	Property 3630 3643	gelatinolytic
+T78	Property 3610 3620	amylolytic
+T79	Property 3539 3548	Lipolytic
+T80	Property 3588 3600	caseinolytic

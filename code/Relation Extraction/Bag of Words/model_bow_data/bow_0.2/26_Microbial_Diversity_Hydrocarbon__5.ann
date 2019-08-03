@@ -1,0 +1,33 @@
+T1	Property 463 475	methanogenic
+T2	Property 463 475	methanogenic
+T3	Property 581 597	sulfate-reducing
+T4	ReactionOrProcess 296 301	redox
+T5	ReactionOrProcess 358 361	PCR
+T6	Environment 878 895	methanogenic soil
+T7	Environment 891 895	soil
+T8	Property 878 890	methanogenic
+T9	Property 878 890	methanogenic
+T10	ReactionOrProcess 863 872	extracted
+T11	ReactionOrProcess 933 936	PCR
+T12	ReactionOrProcess 941 948	cloning
+T13	Property 1648 1664	sulfate-reducing
+T14	Environment 2004 2011	aquifer
+T15	Property 1969 1981	methanogenic
+T16	Property 1969 1981	methanogenic
+T17	Environment 2364 2381	archaeal sequence
+T18	Environment 2800 2820	contaminated aquifer
+T19	Environment 2813 2820	aquifer
+T20	Microbes 3146 3161	Verrucomicrobia
+T21	Microbes 3648 3661	Euryarchaeota
+T22	Environment 3434 3445	terrestrial
+T23	Environment 3566 3577	terrestrial
+T24	Environment 3479 3485	marine
+T25	Environment 3726 3732	marine
+T26	Property 4277 4289	methanogenic
+T27	Property 4277 4289	methanogenic
+T28	Environment 4439 4459	contaminated aquifer
+T29	Environment 4452 4459	aquifer
+T30	ReactionOrProcess 4420 4425	redox
+T31	Environment 4674 4681	aquifer
+T32	ReactionOrProcess 4634 4648	bioremediation
+T33	Environment 4831 4838	aquifer

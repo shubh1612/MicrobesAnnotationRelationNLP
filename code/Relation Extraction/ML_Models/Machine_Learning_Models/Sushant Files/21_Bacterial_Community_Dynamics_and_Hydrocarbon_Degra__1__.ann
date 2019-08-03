@@ -1,0 +1,76 @@
+T1	Environment 120 125	Beach
+T2	Substrate 151 154	Oil
+T3	ReactionOrProcess 33 56	Hydrocarbon Degradation
+T4	ReactionOrProcess 92 106	Bioremediation
+T5	Substrate 270 273	oil
+T6	ReactionOrProcess 248 259	degradation
+T7	Substrate 598 601	oil
+T8	Substrate 629 632	oil
+T9	ReactionOrProcess 374 383	replicate
+T10	Substrate 758 761	oil
+T11	ReactionOrProcess 658 673	Oil degradation
+T12	Nutrient 701 707	carbon
+T13	Substrate 770 773	oil
+T14	Substrate 864 867	oil
+T15	Property 824 834	fertilized
+T16	ReactionOrProcess 778 786	degraded
+T17	Nutrient 950 956	carbon
+T18	Environment 1160 1169	sediments
+T19	Environment 1154 1159	beach
+T20	ReactionOrProcess 1187 1226	denaturing gradient gel electrophoresis
+T21	ReactionOrProcess 1332 1335	PCR
+T22	ReactionOrProcess 1362 1366	DGGE
+T23	Substrate 1565 1568	oil
+T24	Substrate 1605 1608	oil
+T25	Substrate 1784 1787	oil
+T26	ReactionOrProcess 1493 1528	significant hydrocarbon degradation
+T27	Substrate 1891 1894	oil
+T28	Environment 2144 2149	water
+T29	Property 2091 2105	concentrations
+T30	Microbes 2273 2296	Alcanivorax borkumensis
+T31	Microbes 2301 2321	Pseudomonas stutzeri
+T32	ReactionOrProcess 2370 2385	oil degradation
+T33	Environment 2500 2509	microcosm
+T34	Environment 2836 2847	coarse sand
+T35	Environment 2642 2648	marine
+T36	Substrate 2612 2621	crude oil
+T37	Substrate 2586 2597	hydrocarbon
+T38	Substrate 2745 2748	oil
+T39	Property 2736 2744	residual
+T40	ReactionOrProcess 2578 2585	degrade
+T41	ReactionOrProcess 2668 2682	bioremediation
+T42	Substrate 2896 2899	oil
+T43	Substrate 2991 2994	oil
+T44	ReactionOrProcess 3119 3134	oil degradation
+T45	ReactionOrProcess 3109 3118	stimulate
+T46	Nutrient 2878 2884	carbon
+T47	Nutrient 3015 3023	nitrogen
+T48	Nutrient 3000 3010	phosphorus
+T49	Environment 3237 3263	coarse shoreline sediments
+T50	Environment 3322 3336	fine sediments
+T51	Substrate 3152 3155	oil
+T52	ReactionOrProcess 3162 3176	bioremediation
+T53	Environment 3492 3500	sediment
+T54	Substrate 3431 3434	Oil
+T55	Substrate 3626 3645	optimal hydrocarbon
+T56	ReactionOrProcess 3696 3707	incubations
+T57	ReactionOrProcess 3634 3660	hydrocarbon biodegradation
+T58	Environment 3753 3761	sediment
+T59	Environment 3720 3729	microcosm
+T60	Environment 3779 3784	beach
+T61	Substrate 3920 3923	oil
+T62	ReactionOrProcess 3928 3936	degraded
+T63	ReactionOrProcess 4061 4072	incubations
+T64	ReactionOrProcess 4245 4268	hydrocarbon degradation
+T65	ReactionOrProcess 4686 4695	replicate
+T66	ReactionOrProcess 4887 4901	bioremediation
+T67	ReactionOrProcess 4916 4931	oil degradation
+T68	ReactionOrProcess 5168 5182	bioremediation
+T69	Substrate 5404 5407	oil
+T70	ReactionOrProcess 5379 5393	bioremediation
+T71	Environment 5674 5693	fine-sediment beach
+T72	ReactionOrProcess 5643 5652	replicate
+T73	Substrate 5793 5796	oil
+T74	Substrate 5875 5878	oil
+T75	Substrate 5928 5931	oil
+T76	Substrate 5824 5827	oil

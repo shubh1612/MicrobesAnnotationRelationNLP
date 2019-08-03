@@ -1,0 +1,62 @@
+T1 Environment 164 174 microcosms
+T2 Environment 36 46 microcosms
+T3 Nutrient 62 68 carbon
+T4 Substrate 262 269 alkanes
+T5 Substrate 275 278 PAH
+T6 Substrate 239 242 TPH
+T7 ReactionOrProcess 221 235 biodegradation
+T8 ReactionOrProcess 372 386 bioremediation
+T9 ReactionOrProcess 302 316 biodegradation
+T10 Substrate 473 494 aromatic hydrocarbons
+T11 Substrate 460 467 alkanes
+T12 Substrate 624 644 aromatic hydrocarbon
+T13 Substrate 610 618 n-alkane
+T14 ReactionOrProcess 633 659 hydrocarbon biodegradation
+T15 Environment 789 798 microcosm
+T16 Environment 836 846 microcosms
+T17 ReactionOrProcess 735 750 TPH degradation
+T18 Environment 971 981 microcosms
+T19 Nutrient 859 865 Carbon
+T20 Substrate 1104 1111 alkanes
+T21 Substrate 1090 1093 TPH
+T22 ReactionOrProcess 1072 1086 biodegradation
+T23 ReactionOrProcess 1208 1222 bioremediation
+T24 Environment 1812 1821 microcosm
+T25 Environment 1962 1972 microcosms
+T26 Environment 2221 2230 microcosm
+T27 Substrate 2262 2265 oil
+T28 Environment 2308 2318 microcosms
+T29 Environment 2508 2528 same beach sediments
+T30 ReactionOrProcess 2298 2307 replicate
+T31 ReactionOrProcess 2622 2631 replicate
+T32 ReactionOrProcess 2485 2489 DGGE
+T33 ReactionOrProcess 2281 2294 DGGE analysis
+T34 Environment 2693 2703 microcosms
+T35 Environment 2820 2830 microcosms
+T36 Environment 2879 2889 microcosms
+T37 Substrate 2994 2997 oil
+T38 Property 3291 3297 stable
+T39 Environment 3408 3417 microcosm
+T40 Environment 3327 3337 microcosms
+T41 Substrate 3444 3447 oil
+T42 Environment 3545 3555 microcosms
+T43 ReactionOrProcess 3526 3530 DGGE
+T44 ReactionOrProcess 3776 3780 DGGE
+R1 CarriedOn Arg1:T7 Arg2:T4
+R2 CarriedOn Arg1:T7 Arg2:T5
+R3 CarriedOn Arg1:T7 Arg2:T6
+R4 CarriedOn Arg1:T14 Arg2:T12
+R5 CarriedOn Arg1:T14 Arg2:T13
+R6 OccursIn Arg1:T17 Arg2:T15
+R7 OccursIn Arg1:T17 Arg2:T16
+R8 CarriedOn Arg1:T22 Arg2:T20
+R9 CarriedOn Arg1:T22 Arg2:T21
+R10 OccursIn Arg1:T30 Arg2:T28
+R11 OccursIn Arg1:T30 Arg2:T29
+R12 OccursIn Arg1:T31 Arg2:T28
+R13 OccursIn Arg1:T31 Arg2:T29
+R14 OccursIn Arg1:T32 Arg2:T28
+R15 OccursIn Arg1:T32 Arg2:T29
+R16 OccursIn Arg1:T33 Arg2:T28
+R17 OccursIn Arg1:T33 Arg2:T29
+R18 OccursIn Arg1:T43 Arg2:T42

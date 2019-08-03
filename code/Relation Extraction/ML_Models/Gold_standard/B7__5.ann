@@ -1,0 +1,52 @@
+T1	Environment 19 36	methanogenic site
+T2	Substrate 57 72	heavy petroleum
+T3	ReactionOrProcess 137 141	PLFA
+T4	ReactionOrProcess 0 4	PLFA
+T5	Environment 187 195	sediment
+T6	ReactionOrProcess 196 200	PLFA
+T7	Environment 273 292	uncontaminated site
+T8	ReactionOrProcess 339 348	reduction
+T9	Environment 498 517	uncontaminated site
+T10	ReactionOrProcess 467 471	PLFA
+T11	ReactionOrProcess 372 376	
+T12	ReactionOrProcess 590 599	extracted
+T13	ReactionOrProcess 619 627	reducing
+T14	ReactionOrProcess 576 580	PLFA
+T15	Environment 679 688	sediments
+T16	Property 826 835	saturated
+T17	ReactionOrProcess 726 731	PLFAs
+T18	ReactionOrProcess 836 841	PLFAs
+T19	Environment 1008 1027	uncontaminated site
+T20	Property 890 903	concentration
+T21	ReactionOrProcess 928 933	PLFAs
+T22	Microbes 1147 1160	Geobacter spp
+T23	ReactionOrProcess 1101 1106	PLFAs
+T24	Property 1192 1205	gram-negative
+T25	Environment 1247 1255	sediment
+T26	Environment 1298 1317	triplicate sediment
+T27	ReactionOrProcess 1341 1345	DGGE
+T28	ReactionOrProcess 1277 1280	
+T29	ReactionOrProcess 1417 1421	DGGE
+T30	ReactionOrProcess 1576 1589	DGGE analysis
+T31	Environment 1833 1852	uncontaminated site
+T32	ReactionOrProcess 1790 1819	anaerobic benzene degradation
+T33	ReactionOrProcess 1891 1895	DGGE
+T34	Environment 2173 2192	uncontaminated site
+T35	ReactionOrProcess 2132 2136	DGGE
+T36	Environment 2515 2534	uncontaminated site
+T37	Microbes 2642 2654	G. chapellei
+T38	Microbes 2814 2828	Geobacteraceae
+T39	Environment 2747 2766	uncontaminated site
+T40	ReactionOrProcess 2702 2706	DGGE
+T41	Microbes 2915 2929	proteobacteria
+T42	Microbes 2881 2900	Geothrix fermentans
+T43	Microbes 2989 3005	Azoarcus evansii
+T44	Substrate 3061 3068	toluene
+T45	Property 3069 3077	degrader
+R4	OccursIn Arg1:T4 Arg2:T1
+R5	OccursIn Arg1:T6 Arg2:T5
+R12	CarriedOn Arg1:T23 Arg2:T22
+R14	OccursIn Arg1:T28 Arg2:T26
+R15	OccursIn Arg1:T32 Arg2:T31
+R16	OccursIn Arg1:T35 Arg2:T34
+R20	Of Arg1:T41 Arg2:T45

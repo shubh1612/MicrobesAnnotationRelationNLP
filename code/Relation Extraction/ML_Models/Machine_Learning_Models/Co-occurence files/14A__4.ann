@@ -1,0 +1,33 @@
+T1	ReactionOrProcess 1008 1012	DGGE
+T2	ReactionOrProcess 1276 1280	DGGE
+T3	ReactionOrProcess 1320 1324	DGGE	
+T4	ReactionOrProcess 1448 1452	DGGE
+T5	ReactionOrProcess 1414 1417	PCR	
+T6	Microbes 1895 1909	Proteobacteria
+T7	Microbes 1862 1877	Actinomycetales
+T8	Environment 1805 1820	different soils
+T9	Microbes 2002 2017	Actinomycetales
+T10	ReactionOrProcess 2451 2455	DGGE
+T11	Microbes 2547 2561	Proteobacteria
+T12	Property 2533 2546	Gram-negative
+T13	ReactionOrProcess 2563 2567	DGGE	
+T14	Microbes 2736 2750	Proteobacteria
+T15	Microbes 2826 2837	Xanthomonas
+T16	Microbes 2908 2922	Proteobacteria
+T17	Microbes 2975 2987	Sphingomonas
+R3	Of Arg1:T11 Arg2:T12
+T18	ReactionOrProcess 1704 1725	Phylogenetic analysis
+R1	FoundIn Arg1:T7 Arg2:T8	
+R2	FoundIn Arg1:T6 Arg2:T8	
+T19	Microbes 2117 2129	Arthrobacter
+T20	Microbes 2131 2143	Cellulomonas
+T21	Microbes 2149 2160	Clavibacter
+T22	Microbes 2205 2220	Nocardioidaceae
+T23	Microbes 2332 2343	Rhodococcus
+T24	Microbes 2348 2358	Williamsia
+T25	Microbes 2839 2848	Halomonas
+T26	Microbes 2854 2867	Methylobacter
+T27	Microbes 2957 2973	Methylobacterium
+T28	Microbes 2993 3006	Erythrobacter
+T29	Microbes 3112 3121	Geobacter
+T30	Microbes 3126 3136	Pelobacter

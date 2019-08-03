@@ -1,0 +1,115 @@
+T1	Microbes 68 77	sibiricus
+T2	Microbes 65 77	T. sibiricus
+T3	Microbes 195 207	Thermococcus
+T4	Microbes 304 320	T. kodakaraensis
+T5	Substrate 358 365	alkanes
+T6	ReactionOrProcess 414 433	pyruvate metabolism
+T7	Microbes 541 550	sibiricus
+T8	Microbes 538 550	T. sibiricus
+T9	Enzyme 588 611	alkylsuccinate synthase
+T10	Substrate 588 602	alkylsuccinate
+T11	Substrate 899 909	Methanogen
+T12	Substrate 975 982	methane
+T13	Property 1006 1024	strictly anaerobic
+T14	ReactionOrProcess 914 928	Methanogenesis
+T15	ReactionOrProcess 899 913	Methanogenesis
+R1	CarriedOn Arg1:T14 Arg2:T12
+R2	CarriedOn Arg1:T15 Arg2:T12
+T16	Substrate 1098 1105	methane
+T17	Substrate 1356 1367	methanogens
+T18	Substrate 1557 1568	methanogens
+T19	Property 1454 1466	methanogenic
+T20	Property 1454 1466	methanogenic
+T21	Property 1592 1606	concentrations
+T22	ReactionOrProcess 1381 1395	biodegradation
+R3	CarriedOn Arg1:T22 Arg2:T18
+T23	Substrate 1747 1754	nitrite
+T24	Substrate 1738 1745	nitrate
+T25	Nutrient 1775 1779	iron
+T26	Nutrient 1801 1818	electron acceptor
+T27	Substrate 1820 1830	Methanogen
+T28	Property 1820 1832	Methanogenic
+T29	Property 1820 1832	Methanogenic
+T30	ReactionOrProcess 1913 1935	anaerobic respirations
+T31	ReactionOrProcess 1820 1844	Methanogenic degradation
+T32	ReactionOrProcess 1820 1844	Methanogenic degradation
+T33	ReactionOrProcess 1833 1844	degradation
+T34	Microbes 2040 2057	enriched cultures
+T35	Environment 2072 2081	ditch mud
+T36	Substrate 1969 1976	alkanes
+T37	Substrate 2126 2133	methane
+T38	Substrate 2110 2120	hexadecane
+T39	Property 1983 1995	methanogenic
+T40	Property 1983 1995	methanogenic
+T41	ReactionOrProcess 1951 1965	biodegradation
+R4	CarriedOn Arg1:T41 Arg2:T34
+R5	CarriedOn Arg1:T41 Arg2:T36
+R6	CarriedOn Arg1:T41 Arg2:T37
+R7	CarriedOn Arg1:T41 Arg2:T38
+T42	Property 2300 2322	syntrophic association
+T43	ReactionOrProcess 2300 2322	syntrophic association
+T44	Environment 2394 2403	ditch mud
+T45	Substrate 2438 2448	hexadecane
+T46	Property 2404 2416	methanogenic
+T47	Property 2404 2416	methanogenic
+T48	ReactionOrProcess 2417 2427	enrichment
+T49	ReactionOrProcess 2428 2437	degrading
+T50	Microbes 2644 2651	archaea
+T51	Microbes 2735 2742	archaea
+T52	Microbes 2764 2778	Methanoculleus
+T53	Substrate 2678 2685	methane
+T54	Substrate 2805 2812	methane
+T55	Substrate 2899 2906	methane
+T56	ReactionOrProcess 2844 2854	enrichment
+R8	CarriedOn Arg1:T56 Arg2:T55
+T57	Microbes 2988 3006	enrichment culture
+T58	Microbes 3214 3230	Methanosaeta spp
+T59	Microbes 3214 3226	Methanosaeta
+T60	Environment 3022 3070	gas condensate contaminated subsurface sediments
+T61	Environment 3076 3094	archaeal sequences
+T62	Environment 3061 3070	sediments
+T63	Environment 3050 3070	subsurface sediments
+T64	Environment 3050 3060	subsurface
+T65	Environment 3050 3070	subsurface sediments
+T66	Substrate 3153 3164	methanogens
+T67	Substrate 2974 2977	oil
+T68	Property 2952 2964	methanogenic
+T69	Property 2952 2964	methanogenic
+T70	Property 2965 2973	residual
+T71	ReactionOrProcess 2988 2998	enrichment
+T72	ReactionOrProcess 2978 2987	degrading
+T73	Microbes 3364 3374	Firmicutes
+T74	Microbes 3490 3503	Pelotomaculum
+T75	Property 3432 3448	sulfate-reducing
+T76	Microbes 3590 3606	Desulfotomaculum
+T77	Microbes 3841 3854	Bacteroidetes
+T78	Microbes 3749 3762	Desulfovibrio
+T79	Microbes 3859 3873	Actinobacteria
+T80	Microbes 3931 3950	enrichment cultures
+T81	Substrate 4089 4098	crude oil
+T82	Substrate 4076 4083	methane
+T83	Substrate 4095 4098	oil
+T84	Property 3918 3930	methanogenic
+T85	Property 3918 3930	methanogenic
+T86	ReactionOrProcess 3931 3941	enrichment
+T87	ReactionOrProcess 3993 4007	methanogenesis
+R9	CarriedOn Arg1:T86 Arg2:T81
+R10	CarriedOn Arg1:T86 Arg2:T82
+R11	CarriedOn Arg1:T86 Arg2:T83
+R12	CarriedOn Arg1:T87 Arg2:T81
+R13	CarriedOn Arg1:T87 Arg2:T82
+R14	CarriedOn Arg1:T87 Arg2:T83
+T88	Substrate 4219 4226	methane
+T89	Substrate 4194 4204	hexadecane
+T90	ReactionOrProcess 4268 4282	methanogenesis
+T91	Microbes 4430 4440	Syntrophus
+T92	Environment 4391 4400	sediments
+T93	Environment 4381 4400	estuarine sediments
+T94	Environment 4381 4400	estuarine sediments
+T95	Substrate 4323 4339	methanogenic oil
+T96	Substrate 4336 4339	oil
+T97	Substrate 4430 4444	Syntrophus spp
+T98	Property 4323 4335	methanogenic
+T99	Property 4323 4335	methanogenic
+T100	ReactionOrProcess 4357 4367	enrichment
+T101	Substrate 4463 4474	methanogens

@@ -1,0 +1,2119 @@
+58A
+Enhanced biodegradation of aromatic pollutants in cocultures of anaerobic
+and aerobic bacterial consortia
+Jim A. Field 1, Alfons J.M. Stams 2, Mario Kato 1 & Gosse Schraa 2
+1 Department of Environmental Technology, Wageningen Agricultural University, Bomenweg 2, 6703 HD
+Wageningen, The Netherlands; 2 Department of Microbiology, Wageningen Agricultural University, Hesselink van
+Suchtelenweg 4, 6703 CT, Wageningen, The Netherlands
+Accepted 2 August 1994
+Key words: xenobiotics, chloroaromatics, nitroaromatics, azo dyes, aromatic amines, recalcitrance, bioremediation,
+sequential-degradation, synchronous-degradation, mineralization, polymerization, oxygen tolerance
+Abstract
+Toxic aromatic pollutants, concentrated in industrial wastes and contaminated sites, can potentially be eliminated
+by low cost bioremediation systems. Most commonly, the goal of these treatment systems is directed at providing
+optimum environmental conditions for the mineralization of the pollutants by naturally occurring microflora.
+Electrophilic aromatic pollutants with multiple chloro, nitro and azo groups have proven to be persistent to
+biodegradation by aerobic bacteria. These compounds are readily reduced by anaerobic consortia to lower chlorinated
+aromatics or aromatic amines but are not mineralized further. The reduction increases the susceptibility
+of the aromatic molecule for oxygenolytic attack. Sequencing anaerobic and aerobic biotreatment steps provide
+enhanced mineralization of many electrophilic aromatic pollutants. The combined activity of anaerobic and aerobic
+bacteria can also be obtained in a single treatment step if the bacteria are immobilized in particulate matrices (e.g.
+biofilm, soil aggregate, etc.). Due to the rapid uptake of oxygen by aerobes and facultative bacteria compared to the
+slow diffusion of oxygen, oxygen penetration into active biofilms seldom exceeds several hundred micrometers.
+The anaerobic microniches established inside the biofilms can be applied to the reduction of electron withdrawing
+functional groups in order to prepare recalcitrant aromatic compounds for further mineralization in the aerobic
+outer layer of the biofilm.
+Aside from mineralization, polyhydroxylated and chlorinated phenols as well as nitroaromatics and aromatic
+amines are susceptible to polymerization in aerobic environments. Consequently, an alternative approach for
+bioremediation systems can be directed towards incorporating these aromatic pollutants into detoxified humic-like
+substances. The activation of aromatic pollutants for polymerization can potentially be encouraged by an anaerobic
+pretreatment step prior to oxidation. Anaerobic bacteria can modify aromatic pollutants by demethylating methoxy
+groups and reducing nitro groups. The resulting phenols and aromatic amines are readily polymerized in a subsequent
+aerobic step.
+Introduction
+Aromatic compounds are the second most abundant
+family of organic constituents present in the biosphere
+after carbohydrates. The most important natural source
+of aromatic compounds are poorly biodegradable polymers
+such as lignin, condensed tannins and humus
+(Field & Lettinga 1992; Kirk & Farrell 1987; Stevenson
+1982). Lignin, which is composed of phenylpropanoid
+units, accounts for 17 to 33% of the dry
+weight of wood (Kirk & Farrell 1987). Other aromatic
+compounds of lower MW such as flavonoids,
+aromatic amino acids and phenolic acids account for
+the bulk of the more readily metabolizable aromatic
+compounds occurring in the natural environment
+(Fuchs et al. 1994). Since the start of the industrial
+revolution, a wide variety of aromatic pollutants
+have also been introduced into the environment through 
+48
+anthropogenic activity. The main sources of the anthropogenic
+aromatics are summarized in Table 1. Originally
+it was thought that aromatic pollutants such as
+halogenated aromatics and nitroaromatics were foreign
+to the environment and consequently these have been
+termed as 'xenobiotic' compounds. However there is
+increasing evidence that halogenated aromatics are not
+so uncommon to life. More than 1500 naturally occurring
+organohalogens have now been identified (Gribble
+1992). Chlorinated aromatics produced by fungi
+were recently shown to occur at surprisingly high
+concentrations (75 mg kg -1) in the environment (De
+Jong et al. 1994). Likewise there are some indications
+that nitroaromatics occur naturally. Fungi are known
+which produce nitroanisole as a secondary metabolite
+(Thaller & Turner 1972).
+The persistence of the anthropogenic aromatics in
+the environment has caused great public alarm due
+to their toxicity, mutagenicity and bioconcentration
+in higher organisms (Hutzinger & Veerkamp 1981).
+Through government regulatory agencies and market
+pressures, industries are slowly modifying their processes
+to decrease aromatic emissions. Complete prevention
+of aromatic pollution has been proposed as a
+long term goal; however, there is still a great need to
+remediate the present discharges and aromatic pollution
+inherited from the past. The use of microorganisms
+to degrade aromatic pollution is an interesting lowcost
+approach for the treatment of industrial effluents,
+contaminated sediments, soil and groundwater. Typically,
+bioremediation is practised by providing favorable
+environmental conditions in order to stimulate
+the degradation of pollutants by naturally occurring
+microflora (Liu & Sulfita 1993). The biodegradative
+capacities must be developed by carefully selecting
+the correct combination of electron donors, electron
+acceptors and in the case of cometabolism, the choice
+of the primary substrate. Additionally, bioremediation
+usually entails the supplementation of limiting nutrients.
+
+Anaerobic or aerobic biodegradative capacities can
+be selected, depending on whether molecular oxygen
+is eliminated or supplied. In the biosphere, there is
+approximately a 40,000 times excess of molecular oxygen
+compared to organic carbon (Schink 1988a), indicating
+that most organic matter degradation occurs in
+aerobic environments. However, if organic pollution
+occurs in saturated environments, anaerobic degradation
+will most likely predominate due to the low solubility
+and slow mass transport of 02 in water. Aerobic
+conditions can only be maintained in such environments
+by intensive aeration; whereas anaerobic conditions
+are ensured by adding readily biodegradable
+organic matter resulting in rapid 02 uptake by heterotrophs.
+As will be discussed later, the consumption
+of oxygen by aerobes is often sufficient to create
+anaerobic microniches even in macroenvironments that
+are completely saturated with 02. In complex matrices
+such as soil, sediments and biofilms, anaerobic and aerobic
+microbial communities occur side by side (Kato
+et al. 1993a; Tiedje et al. 1984).
+The objectives of this review article are to contrast
+the biodegradative limitations of anaerobic and
+aerobic microbial consortia towards aromatic priority
+pollutants. Evidence demonstrating that the combined
+activity of both anaerobic and aerobic consortia can
+bring about the complete degradation of recalcitrant
+xenobiotic aromatics will be discussed. The combined
+biodegradation can be achieved in sequenced periods
+of operation or in reactors placed in series (Zitomer &
+Speece 1993). However, since anaerobic microniches
+are easily created and maintained in aerobic microbial
+environments, the basis for the development of synchronous
+anaerobic-aerobic bioremediation systems
+are elaborated.
+Microbial degradation of aromatics
+General principles
+Aromatic compounds are susceptible to biodegradation
+under both aerobic and anaerobic conditions. In
+the aerobic processes, molecular oxygen is involved in
+two ways. Firstly, oxygen is incorporated in the aromatic
+ring by means of mono- and dioxygenases prior
+to ring-fission. Secondly, oxygen serves as the terminal
+electron acceptor of the reducing equivalents generated
+during the oxidation of the aromatic molecule.
+Under anaerobic conditions on the other hand, biochemical
+mechanisms which do not involve molecular
+oxygen function in the break down of aromatic compounds.
+As a consequence of this, some types of aromatic
+compounds are difficult to degrade anaerobically,
+in particular, aromatic compounds without functional
+groups (benzene, toluene, naphthalene, etc.). However,
+higher chlorinated aromatic compounds (e.g. hexachlorobenzene)
+are degraded better under anaerobic
+conditions. Different types of compounds can act as
+alternative terminal electron acceptors in the absence
+of 02, such as nitrate, sulfate, sulfur, oxidized metal
+ions (e.g. Fe 3+ and Mn4+), protons and bicarbonate. 
+49
+Table 1. Sources of toxic anthropogenic aromatic pollution
+Aromatic compounds Industrial sources
+BTEX*
+Styrene
+PAH*
+Alkylphenols
+Aromatic sulfonates
+Aromatic amines
+Azo aromatics
+Nitroaromatics
+Chlorophenols & dioxins
+Chloroaromatic hydrocarb, and PCB*
+Fossil fuels, solvents, industrial feedstocks
+Plastics
+Fossil fuels, wood preservation
+Surfactants, detergents
+Surfactants, detergents, sulfite pulping, dyes
+Pesticides, dyes, pigments, pharmaceuticals
+Dyes
+Explosives, pharmaceuticals, pesticides, dyes
+Wood preservation, pesticides, pulp bleaching effluents
+Pesticides, solvents, dielectric and hydraulic fluids
+* BTEX = benzene, toluene, ethylbenzene and xylene; PAH = polycyclic aromatic hydrocarbons;
+PCB = polychlorinated biphenyls.
+Table 2. Energetics of aerobic and anaerobic benzoate degradation
+z~G m '(k J)*
+Benzoate + 7.5 02 -+ 7 CO2 - 3174.6
+Benzoate + 6 NO 3 -+ 7 CO2 + 3 N2 - 2977.3
+Benzoate + 3.75 NO 3 -+ 7 CO2 + 3.75 NH4 + - 1864.3
+Benzoate + 30 Fe 3+ ---+ 7 CO2 + 30 Fe 2+ - 3043.3
+Benzoate + 3.75 SO4 a- ~ 7 CO2 + 3.75 HS- - 185.4
+Benzoate + 15 S ° --+ 7 CO2 + 15 HS- - 35.8
+Benzoate ~ 3.25 CO2 + 3.75 CH4 - 124.3
+* Gibbs free energy values were calculated from data of Thauer et
+al. (1977).
+Proton and bicarbonate reduction are the primary electron
+acceptors utilized in methanogenic environments
+(Schink 1992). Phototrophic bacteria can also use aromatic
+compounds as carbon and electron donors in
+the absence of 02 if light is available. In this case,
+the degradation product is biomass rather than carbon
+dioxide (Evans & Fuchs 1988).
+Thermodynamic considerations
+The amount of energy that can be conserved by
+microorganisms in the form of ATP or an ionic gradient
+is dependent on the Gibbs free energy of degradation.
+The Gibbs free energy change resulting from the
+catabolism of a given aromatic compound is strongly
+dependent on the nature of the terminal electron
+acceptor. As an example, the Gibbs free energy
+change is given in Table 2 for the complete oxidation
+of benzoate to bicarbonate with different electron
+acceptors. The amount of energy which is available
+is highest under aerobic and under anaerobic
+nitrate-reducing and iron-reducing conditions. However,
+under sulfate- and sulfur-reducing conditions as
+well as under methanogenic conditions, comparatively
+less energy is available for the microorganisms. Consequently,
+the molar cell yields under methanogenic and
+sulfidogenic conditions are rather low. Energy conservation
+can take place during electron transport to the
+terminal electron acceptor at the cytoplasmic membrane.
+The amount of energy which becomes available
+when reducing equivalents (e.g. NADH) are channelled
+to oxygen, nitrate or Fe 3+ is high. However,
+when sulfate, sulfur or bicarbonate reduction are the
+electron acceptors, much less energy is available to
+drive electron transport phosphorylation (Thauer et al.
+1977).
+Biodegradation pathways
+The aerobic and anaerobic biotransformation of aromatic
+compounds has been reviewed extensively
+(Fuchs et al. 1994; Haggblom 1992; Marvin-Sikkema
+& Bont 1994; Smith 1994). In order to exemplify
+differences between aerobic and anaerobic biotransformations
+of aromatic compounds, pathways of phenol
+and 3-chlorobenzoate biodegradation were chosen
+for the sake of illustration. The pathways of aerobic
+and anaerobic phenol degradation are compared
+in Fig. 1. Aerobically, phenol is first converted to
+catechol, a reaction which is catalyzed by a monooxygenase.
+Subsequently, catechol is degraded via an 
+50
+©
+%
+COOl.-I ~-
+02
+cleavage
+OH
+o2~eta cleavage
+HCOOH
+cc:::o
+suceinate
+acetyl CoA
+pyruvate
+acetaldehyde
+©
+OH
+Fig. 1.
+CO 2
+OH OH
+COS-CoA
+htermediates -¢
+COS-.-CoA CO,%.CoA
+Pathways involved in the aerobic and anaerobic degradation of phenol (Fuchs et al. 1994; Rochkind-Dubinsky et al. 1987).
+ortho- or meta-fission to intermediates of the central
+metabolism. The initial ring fission reactions are catalyzed
+by dioxygenases. Benzoate is degraded in a
+similar fashion. However, in this case protocatechuate
+is the intermediate which is cleaved via ortho or metafission.
+Anaerobically, phenol is catabolized quite differently.
+So far, the pathways of degradation have
+only been elucidated in detail with denitrifying bacteria
+(Fuchs et al. 1994). Phenol is carboxylated first to 4-
+hydroxybenzoate, a reaction in which phenylphosphate
+is an intermediate (Lack & Fuchs 1994). Subsequently,
+4-hydroxybenzoate is activated to 4-hydroxybenzoylCoA,
+which is reductively dehydroxylated to benzoylCoA.
+The aromatic ring is reduced (Koch & Fuchs
+1992), and subsequently the ring is further metabolized
+by fl-oxidation.
+Figure 2 compares the pathways involved in the
+degradation of 3-chlorobenzoate under aerobic and
+methanogenic conditions. Aerobic microorganisms
+attack the ring with oxygenases and the removal of
+the chlorine atom occurs after ring fission. Typically,
+in the anaerobic transformation of 3-chlorobenzoate
+under methanogenic conditions, a consortium of bacteria
+is involved (Mohn & Tiedje 1992). A dechlorinating
+bacterium, Desulfomonile tiedjeii, was isolated
+from a 3-chlorobenzoate-degrading methanogenic
+consortia which was able to gain energy for growth
+by reductive dechlorination. The reducing equivalents
+needed for this reduction are obtained through interspecies
+H2 transfer originating from another bacterium
+in the consortium which oxidizes benzoate to acetate,
+CO2 and hydrogen. A remarkable feature is that the 
+51
+,So
+COOH
+o@
+02 C~" ) o C coo.
+C~
+maleyl acetate
+/
+OH
+CO 2 02 CI -
+600 2
+D
+T
+H 2
+Oo
+O"
+0
+3H 2 + 00 2 - I,,,- 0.50H4+0.5002
+3CH3COOH ~ 3CH 4 ÷ 300 2
+Fig. 2. Pathways involved the degradation of 3-chlorobenzoate under aerobic and methanogenic conditions (Mohn & Tiedje 1992;
+Rochkind-Dubinsky et al. 1987).
+benzoate-degrading bacterium is only able to catabolize
+benzoate when all the reducing equivalents (hydrogen
+and/or formate) are consumed by the methanogens,
+together with the dechlorinating bacterium.
+Recalcitrance versus biodegradability
+The accumulation of aromatic pollutants in the environment
+indicates that these compounds are resistant
+to biological attack. Several factors responsible for
+their recalcitrance can be distinguished, having to do
+with either the compounds' bioavailability or the intrinsic
+limitations of the microorganisms involved in their
+biodegradation. Additionally, recalcitrance can also be
+attributed to modifications occurring in the environment
+which link the aromatic pollutants irreversibly to
+humus (e.g. 'bound residue').
+Bioavailability
+Non-hydrolyzable polymers
+Bioavailability limitations can result from the poor
+uptake of non-hydrolyzable polymers or from the
+slow dissolution of highly apolar pollutants. Plastics
+and lignin are perhaps the most typical examples of
+non-hydrolyzable pollutants which are persistent to
+biodegradation. In the case of plastics built out of aromatic
+hydrocarbons (e.g. polystyrenes), no enzymes
+are known which can break up the polymers extracellularly.
+However, if microorganisms are offered
+oligomeric pieces of the polymer which can passively
+diffuse into the cell, then biodegradation does occur
+(Cain 1992). Similarly, the natural random aromatic
+polymer, lignin, is virtually impossible to degrade by
+most microorganisms. The colour caused by lignin in
+forest industry wastewaters is not removed by conven- 
+52
+tional aerobic (Walden 1980) nor by anaerobic (Sierra
+et al. 1990) wastewater treatment methods. Only white
+rot fungi (Kirk & Farrell 1987) and several actinomycetes
+(Zimmermann 1990) which produce extracellular
+ligninolytic enzymes that can attack the large aromatic
+polymers oxidatively at a distance from the cell
+are able to cause significant biodegradation of lignin.
+Non-ligninolytic bacteria, however, are able to degrade
+oligomeric fragments of lignin that are small enough
+for cell uptake under both aerobic (Jokela et al. 1987)
+and anaerobic conditions (Chen et al. 1985; Colberg &
+Young 1985).
+100~
+8O
+.~ 6o *o
+4O
+20
+0 60
+°
+1 '0 20 3 '0 40 ' ' 50
+% Chlorine in PC~ Mixture (w/w)
+Poor dissolution of apolar compounds
+Many aromatic pollutants such as polychlorinated aromatic
+hydrocarbons and polycyclic aromatic hydrocarbons
+(PAH) are highly apolar, having both a low solubility
+in water and a high tendency for strong adsorption
+onto organic matter in soil and sediment matrices
+(Means et al. 1980). The slow dissolution and desorption
+of these compounds into the water phase has
+often been found to be the rate limiting step in the
+biodegradation kinetics (Parsons 1992; Volkering &
+van Andel 1993; Weissenfels et al. 1992). Since the
+recalcitrance in this case is due to a physical limitation
+rather than a biological limitation, improvements in
+the biodegradation of apolar compounds must first be
+sought in increasing the bioavailability. Bioavailability
+enhancement of PAH by adding surfactants (Aronstein
+& Alexander 1993; Tiehm & Zumft 1992) or by
+extracting the adsorbed pollutants from soil organic
+matter with solvents (Weissenfels et al. 1992) has been
+shown to greatly improve the rate of PAH biodegradation.
+Biosurfactants produced by the microorganisms
+can also enhance the rate of biodegradation (Oberbremet
+et al. 1990).
+Intrinsic limitations
+Intrinsic recalcitrance refers to a limitation in the
+biodegradative capacities of microorganisms. From an
+environmental biotechnology point of view, a major
+consideration is the metabolic capacities available in
+either aerobic or anaerobic microbial communities. In
+aerobic environments, microorganisms often utilize
+oxygenases to initiate an electrophilic attack on aromatic
+molecules. Consequently, molecules substituted
+with numerous electron-withdrawing substitutions
+such as chloro, nitro and azo groups are quite resistant
+to aerobic biodegradation (Knackmuss 1992; Okey &
+Fig. 3. Thepercentagebiodegradationofpolychlorinatedbiphenyls
+(PCB) in a laboratory-scale semicontinuous activated sludge reactor
+as a function of the chlorine content of the commercial PCB mixture
+(Tucker et al. 1975). The biphenyl or PCB loading was 0.333 mg/L.d
+in the activated sludge reactor with a steady-state sludge concentration
+of 2.5 g SS/L and which was acclimatized to the PCB mixtures
+for 5 months.
+Bogan 1965), as has been observed for purified dioxygenases
+(Dorn & Knackmuss 1978; Knackmuss 1981).
+In anaerobic environments where a nucleophilic mechanism
+of attack is common, the presence of these
+electron-withdrawing groups is favorable for the initial
+reductive attack (Bosma et al. 1988; Dolfing &
+Harrison 1993; Knackmuss 1992). In fact during the
+anaerobic biodegradation of aromatics, bacteria prepare
+the compounds for ring reduction by simplifying
+them to benzoate and finally to benzoyl-CoA (Fig. 1),
+a compound of high electrophilic character (Fuchs et
+al. 1994). On the other hand, electron-donating functional
+groups, such as amino groups, are troublesome
+for the nucleophilic attack of anaerobes (Knackmuss
+1992; Schink 1988b). Also the lack of any functional
+groups has been a characteristic associated with the
+recalcitrance of hydrocarbons in anaerobic environments
+(Schink 1985; Schink 1988a), explaining the
+occurrence of simple unsaturated hydrocarbons in geologically
+preserved anaerobic sediments. Finally, the
+presence of functional groups can sometimes interfere
+with the activity of enzymes by creating a steric hinderance.
+
+Electron-withdrawing chloro groups
+Aerobes. Polychlorinated aromatic hydrocarbons
+such as chlorobenzenes, polychlorinated biphenyls,
+dioxins and halogenated aromatic hydrocarbon pesticides
+are extremely recalcitrant to aerobic biodegradation.
+Polychlorinated phenols and chlorinated lignin 
+D
+3,5O
+300
+25O
+200
+150
+IO0
+59
+O
+I 2
+h~ of N'~o Groups
+o
+/x
+o
+3
+Fig,. 4. The effect of the number of nitro-substitutions on the rate
+of nitro-aromatic compound reduction as indicated by the rate of
+hydrogen gas uptake in anaerobically incubated cell free extracts of
+Veillonella alcalescens (McCormick et al. 1976). Legend: nitrobenzenes,
+(o); nitrotoluenes, (m); nitrobenzoates, (~); nitrophenols,
+(0),
+fragments have also often been found to be troublesome
+for aerobic biotreatment systems although some
+aerobic enrichment cultures have been reported which
+rapidly biodegrade pentachlorophenol in continuous
+biofilm reactors.
+Hexachlorobenzene, pentachlorobenzene, tetrachlorobenzene
+and two isomers of trichlorobenzene
+(1,2,3- and 1,3,5-trichloro) were shown to resist
+degradation in aerobic aquifer sediments, while lower
+mono- and dichlorinated benzenes were readily
+removed (Bosma et al. 1994). 1,2,3- and 1,2,4-
+trichlorobenzenes incubated in aerobic soil were slowly
+mineralized (Marinucci & Bartha 1979) and 1,2,4-
+trichlorobenzene was not removed in aerobic sediments
+even after 2 years of acclimatization (Van der
+Meer et al. 1987). In experiments with aerobic activated
+sludge grown on benzene, no respiration of
+1,2,4-trichlorobenzene was observed but O2-uptake
+did occur when mono-chlorobenzene was tested as
+a substrate instead (Okey & Bogan 1965). Similarly,
+lab-scale aerobic activated sludge wastewater treatment
+plants were found to be able to eliminate monoand
+dichlorobenzene but not 1,2,4-trichlorobenzene
+(Weber-Jr et al. 1987). Pseudomonas strains which
+were isolated in chlorobenzene enrichment cultures
+were able to mineralize dichlorobenzenes and 1,2,4-
+trichlorobenzene. One strain was even able to metabolize
+1,2,4,5-tetrachlorobenzene, but higher chlorinated
+benzenes were left unutilized (Sander et al. 1991).
+These results indicate that penta- and hexachlorobenzene
+are definitely not biodegraded in aerobic environ-
+53
+ments. The biodegradation of tetra- and trichlorobenzene
+may occur but it is certainly not reliable. On the
+other hand, mono- and dichlorobenzenes are readily
+degraded by aerobic bacteria (Schraa et al. 1986).
+Polychlorinated biphenyls (PCB) show a similar
+aerobic biodegradability pattern as chlorobenzenes.
+Experiments in which PCB contaminated sediments
+are incubated aerobically, have shown that congeners
+containing 3 or more chloro groups are not removed
+while the mono- and dichlorinated biphenyls are eliminated
+(Anid et al. 1991). The biodegradability of
+different PCB mixtures in aerobic activated sludge
+was shown to be inversely related to their average
+chlorine number (Tucker et al. 1975), as is shown
+in Fig. 3. It was concluded that mono- and dichlorinated
+congeners were readily biodegradable while
+those with 5 or more chlorines were completely recalcitrant.
+Several attempts have been made to isolate
+aerobic bacteria which can degrade higher chlorinated
+biphenyls. Acinetobacter sp. strain P6 could
+degrade congeners with up to 4 chloro groups but
+pentachlorinated biphenyl was persistent (Furukawa
+et al. 1981). An Alcaligenes strain which utilized
+dichlorinated biphenyls respired tri- and tetrachlorobiphenyls
+only slightly faster than the respiration of
+background endogenous substrate (Yagi & Sudo 1980).
+The best results so far have been obtained with Alcaligenes
+eutrophus which was able to degrade at least
+some congeners with up to 6 chlorine groups but not
+higher (Bedard et al. 1987). Nonetheless, the results
+obtained in natural mixed cultures in the environment
+and wastewater treatment plants indicate that only
+mono- and dichlorinated biphenyls can be expected
+to be reliably removed under aerobic conditions. Little
+is known about the fate of dioxins in natural microbial
+communities. In one study, the aerobic chloroaromatic
+hydrocarbon-degrading Alcaligenes sp. strain JB 1
+was unable to degrade tetrachlorodibenzo[p]dioxin but
+was able to degrade lower chlorinated dioxins (Parsons
+1992). Several other aerobic bacteria have also
+been reported that are able to metabolize monochlorinated
+dioxins but there are no reports indicating aerobic
+biodegradation of polychlorinated dioxins. These
+observations serve as an indication that the same pattern
+of biodegradability may apply to dioxins as to
+chlorobenzenes and PCB's.
+Finally, 1,1,1-trichloro-2,2'-bis(p-chlorophenyl)ethane
+(DDT) and the related methoxychlor 1,1,1-trichloro-
+2,2'-bis(p-methoxyphenyl)ethane are typical examples
+of halogenated aromatic hydrocarbon pesticides which
+are recalcitrant to biodegradation under aerobic condi- 
+54
+tions. These compounds have been shown to persist
+in aerobic incubations with soils (Fogel et al. 1982;
+Guenzi & Beard 1968) and in a BOD test (Subba-Rao
+& Alexander 1977). Lower chlorinated diphenylethane
+or diphenylmethane derivatives in turn were shown to
+be biodegraded by the aerobic bacterium Alcaligenes
+sp. strain IsoDPM4 (Beunick & Rehm 1988) and they
+were also respired during a BOD test (Subba-Rao &
+Alexander 1977).
+Polychlorinated phenols, in contrast to the aromatic
+hydrocarbons, do seem to be degraded at rapid rates
+by enrichment cultures or isolated strains (Puhakka &
+Jarvinen 1992; Valo et al. 1990). However, in complex
+wastewater matrices such as bleaching effluents
+the removal of polychlorinated phenols has generally
+been troublesome, although lower chlorinated phenols
+are more readily removed (Leuenberger et al.
+1985; Salkinoja-Salonen et al. 1984). Similarly poor
+biodegradation of pentachlorophenol (PCP) has been
+observed during aerobic soil bioremediation experiments
+with the indigenous microflora (Briglia et al.
+1994; Mikesell & Boyd 1988). Better results under
+aerobic conditions were obtained by bioaugmentation
+with a Rhodococcus PCP degrading bacterial strain
+(Briglia et al. 1994).
+Chlorinated lignin fragments are responsible for
+most of the adsorbable organic halogens (AOX) in
+bleaching effluents. The partial removal of AOX during
+aerobic wastewater treatment of bleaching effluents has
+generally been found to be low (Ferguson 1994; Jokela
+et al. 1993).
+Anaerobes. In contrast to the oxygenolytic approach
+of aerobes, anaerobic microorganisms are able
+to reductively dechlorinate polychlorinated aromatic
+hydrocarbons (Haggblom 1992; Mohn & Tiedje 1992).
+The highly electrophilic character of the multiple chlorine
+substitutions increases the favorableness of this
+type of nucleophilic attack (Dolfing & Harrison 1993).
+Anaerobic enrichment cultures were able to dechlorinate
+hexa- and pentachlorobenzene 2 to 3 times faster
+than tetra- and trichlorobenzenes (Holliger et al. 1992).
+In many cases, the reductive dechlorination can also
+be carried out abiotically with reduced metal cofactors
+(e.g. vitamin B12 and factor F430) of important
+enzymes involved in anaerobic metabolism (Wackett
+& Schanke 1992). Reductive dehalogenation of polychlorinated
+aromatic hydrocarbons does not result in
+the mineralization of these compounds. Instead, lower
+chlorinated analogues which are less readily reduced
+are the anaerobically recalcitrant end products of this
+biotransformation. In contrast to the hydrocarbons, the
+di- and monochlorinated phenols, which often accumulate
+from the reductive dehalogenation of polychlorinated
+phenols, have in some cases been shown
+to undergo further metabolism to mineralized products.
+
+While hexachlorobenzene is completely recalcitrant
+in aerobic conditions, this compound is readily
+dechlorinated by anaerobic methanogenic consortia
+present in aquifer, lake and river sediments (Bosma
+et al. 1994) as well as in anaerobically incubated soil
+(Ramanand et al. 1993) and in continuous anaerobic
+biofilm reactors (Fathepure & Vogel 1991). In these
+experiments, tri, di- and mono-chlorinated benzenes
+accumulated as the end products of reductive dechlorination.
+When tri- and dichlorobenzenes were tested,
+these compounds were also biotransformed and
+chlorobenzene was found to be the most predominant
+end product (Bosma et al. 1988; Bosma et al. 1994).
+Tri- and dichlorobenzenes were not degraded in sediments
+when incubated under denitrifying conditions
+(Bosma et al. 1994). Chlorobenzene was not found
+to be metabolized under anaerobic conditions when
+it was tested in biodegradability assays (Battersby &
+Wilson 1989; Bosmaet al. 1994; Horowitzet al. 1981).
+In contrast, chlorotoluene appeared to be converted to
+toluene (Ramanand et al. 1993), indicating that at least
+some monochlorinated aromatic hydrocarbons are susceptible
+to anaerobic biodegradation.
+Highly chlorinated PCBs which are persistent in
+aerobic environments, are dechlorinated when PCBpolluted
+sediments are incubated anaerobically (Alder
+et al. 1993; Anid et al. 1991; Quensen-III et al. 1988;
+Van Dort & Bedard 1991). Reductive dechlorination
+primarily takes place in the meta- and para-positions
+(Alder et al. 1993; Quensen-III et al. 1988) and as
+a consequence there is a tendency for the accumulation
+of ortho substituted PCBs possessing one, two
+or three chlorine groups. However, there is at least
+one report in which ortho dechlorination was shown
+to occur (Van Dort & Bedard 1991). PCBs with as
+few as three chlorine groups can be dechlorinated in
+anaerobic sediments (Boyle et al. 1993). Even 4,4'-
+dichlorobiphenyl was reductively dechlorinated to 4-
+chlorobiphenyl and biphenyl when this compound was
+incubated anaerobically with activated sludge, soil or
+sediments (Mavoungou et al. 1991). However, in complex
+mixtures of PCBs, most mono- and dichlorinated
+congeners are recalcitrant to anaerobic biodegradation
+(Anid et al. 1991). Under sulfate reducing conditions,
+little PCB degradation occurs (Alder et al. 1993). 
+While dioxins with four chloro groups were not
+metabolized by aerobic bacteria, there are several
+reports that anaerobic consortia are able to dechlorinate
+highly chlorinated dioxins. Heptachlorinated dioxin
+was dechlorinated to hexa- and pentachlorodibenzo(p)dioxins
+in river and aquifer sediments (Adriaens
+& Grbic-Galic 1992). Methanogenic enrichment
+cultures, acclimatized to the dechlorination of
+hexachlorobenzene, were able to convert 1,2,3,4-
+tetrachlorodibenzo(p)dioxin to tri-, di- and even monochlorinated
+dioxins (Toussaint et al. 1992). DDT which
+was also recalcitrant in aerobic environments, could be
+metabolized to lower chlorinated metabolites in anaerobic
+incubations of sewage sludge or soil (Castro &
+Toshida 1971; Pfaender & Alexander 1972).
+Like the polychlorinated aromatic hydrocarbons,
+polychlorinated phenols are readily biodegraded in
+anaerobic conditions. Pentachlorophenol (PCP) has
+been shown in several studies to be reliably eliminated
+in continuous anaerobic upward-flow sludge
+blanket reactors with granular biofilms (Hendriksen
+& Ahring 1993; Wu et al. 1993). Specific activities
+of up to 15 mg PCP g-i volatile suspended
+solids d -I have been observed (Wu et al. 1993). In
+these studies, 14C-PCP was mineralized to radiolabelled
+CO2 and CH4. However, when digested anaerobic
+domestic sludge (DADS) was used as the inoculure,
+PCP was not fully mineralized (Hendriksen &
+Ahring 1993; Madsen & Aamand 1991; Mikesell &
+Boyd 1988). Meta- and para-substituted tri-, di- and
+mono-chlorophenols accumulated, in agreement with
+the fact that DADS is typically only naturally acclimatized
+to ortho-dechlorination (Boyd & R 1984; Hrudey
+et al. 1987; Shelton & Tiedje 1984). Ortho dechlorination
+was shown to be the most favorable reduction
+expected, based on the electrochemical characteristics
+of chlorophenol molecules (Cozza & Woods
+1992). Significant mineralization of PCP occurred
+when a mixture of DADS was used that was composed
+of sludges which were individually acclimatized
+for two years to each of the three mono-chlorophenol
+isomers (Mikesell & Boyd 1986). This result indicates
+that several specific dechlorinating microorganisms
+were involved in the total biodegradation of PCR
+The selection pressure may not always enrich all of
+the dechlorinators required for complete chlorophenol
+dechlorination and subsequent mineralization. Anaerobic
+studies conducted with either trichlorophenols
+or mixtures of chlorophenols have generally resulted
+in partial degradation with concomitant accumulation
+of 3,4-dichlorophenol, 3,5-dichlorophenol, 3-
+55
+chlorophenol and/or 4-chlorophenol (Kafkewitz et al.
+1992; Mohn & Kennedy 1992; Woods et aI. 1989). In
+contrast, 2,6-dichlorophenol and 2-chlorophenol are
+intermediates which are reliably mineralized, indicating
+the facile dominance of ortho-dechlorinators. In a
+similar fashion, chlorinated veratroles, guaiacols and
+catechols are only partially degraded with accumulation
+of 3,4-dichlorocatechol, 3,5-dichlorocatechol, 3-
+chlorocatechol and/or 4-chlorocatechol (Allard et al.
+1991; Neilson et al. 1987; Woods et al. 1989). Sulfate
+is reported to inhibit dechlorination of chlorophenols in
+methanogenic consortia (Gibson & Sulfita 1990; Madsen
+& Aamand 1991; Mohn & Kennedy 1992). Sulfate
+reduction apparently outcompetes dechlorination
+in the uptake of interspecies H2 as an electron-donor
+(Madsen & Aamand 1991).
+Aside from simple chloroaromatic compounds, the
+chlorinated lignin fragments in chlorine bleaching
+wastewaters are also subject to reductive dechlorination
+(Ferguson 1994; Fitzsimons et al. 1990). Since
+many of the fragments have a size in excess of cell
+penetration, it appears that the reducing conditions prevailing
+in the anaerobic environment can cause chemical
+dechlorination (Fitzsimons et al. 1990) or a biogenic
+reduced cofactor such as vitamin B 12 is involved
+which is known to occur extracellularly (Mazumder et
+al. 1987). Anaerobic or facultative treatment systems
+commonly outperform the aerobic activated sludge
+process in the removal of AOX from bleaching effluents
+(Ferguson 1994; Jokela et al. 1993).
+Electron-withdrawing nitro groups
+Aerobes. Polynitro aromatics are a troublesome family
+of pollutants for aerobic biotreatment systems.
+No or little biodegradation of 2,6-, 2,4-dinitrotoluene
+(DNT) and 2,4,6-trinitrotoluene (TNT) occurred in
+activated sludge during aerobic incubations (Hallas
+& Alexander 1983; Liu et al. 1984; McCormick et
+al. 1976; Pitter 1976). Likewise no elimination of
+dinoseb (2-sec-butyl-4-,6-dinitrophenol), a pesticide,
+was observed during long term incubations in aerobic
+soil (Kaake et al. 1992). Nor was it possible to enrich
+microorganisms capable of converting dinoseb in well
+aerated (shaken) cultures (Stevens et al. 1991). Dinitrophenol
+and dinitrobenzoate were degraded slowly in
+aerobic activated sludge (Pitter 1976). These polynitro
+aromatics however cannot be considered as being
+completely recalcitrant to aerobic bacteria since, several
+aerobic bacterial strains have been isolated with
+exceptional biodegradative capacities towards polyni- 
+56
+tro aromatics. Some of the strains initiate the attack
+by reducing the nitro groups despite the aerobic conditions
+(Hallas & Alexander 1983; Marvin-Sikkema
+& Bont 1994; McCormick et al. 1978). Ligninolytic
+fungi also use this strategy for the initial attack
+of DNT and TNT (Stahl & Aust 1993; Valli et al.
+1992). Other strains have even been identified which
+can attack the molecules with their oxygenases despite
+the presence of two or even three electron-withdrawing
+nitro groups (Marvin-Sikkema & de Bont 1994). In
+contrast to polynitro aromatics, simple compounds
+such as mononitroaromatics, nitroanilines, nitrophenols
+and nitrobenzoates are readily metabolized by
+aerobic natural mixed cultures (Hallas & Alexander
+1983; Malaney 1960; Pitter 1976) and by bacterial
+isolates (Marvin-Sikkema & de Bont 1994).
+Anaerobes. Dinitrobenzenes and dinitrotoluenes
+which typically persist in aerobic natural mixed cultures,
+were found to be biotransformed if air was
+excluded from the incubation (Hallas & Alexander
+1983; Liu et al. 1984). TNT biodegradation readily
+occurs in soil and sludge under anaerobic conditions
+(Boopathy et al. 1993; Funk et al. 1993). Anaerobic
+degradation of TNT proceeds via the reduction
+of the nitro groups, yielding triaminotoluene (Funk et
+al. 1993; McCormick et al. 1976) and deep degradation
+results in the formation of methylphloroglucinol
+and p-cresol (Funk et al. 1993). Enrichment
+cultures could be obtained in anaerobic conditions
+which converted dinoseb to acetic acid (Stevens et
+al. 1991). Dinoseb was also successfully eliminated
+by anaerobic soil bioremediation (Kaake et al.
+1992). As more and more nitro groups are placed on
+the ring, the increasing electrophilic character of the
+molecule contributes to increasing rates of reduction
+as shown in Figure 4 for cell-free-extracts of the anaerobe,
+Veillonella alcalescens (McCormick et al. 1976).
+Nonetheless, most mono-nitro aromatics, including
+nitrotoluene and nitrobenzene, are reliably converted
+to their corresponding aromatic amines in anaerobic
+sludge or anaerobically incubated sewage (Dickel
+et al. 1993; Hallas & Alexander 1983; O'Connor &
+Young 1993) as well as in pure cultures of strict anaerobes
+(Gorontzy et al. 1993). Lysed cells and cell free
+extracts of methanogens were also able to carry out
+this reduction (Gorontzy et al. 1993). Both 2- and
+4-nitrophenol are mineralized in methanogenic sludge
+(Battersby &Wilson 1989; Boyd et al. 1983; O'Connor
+& Young 1993; Shelton & Tiedje 1984) as well as 2-
+nitrobenzoate (Horowitz et al. 1981).
+Electron-withdrawing azo groups
+Aerobes. The azo dyes, which comprise the most
+important family of compounds used as textile dyes,
+have been found to be quite recalcitrant to aerobic
+biodegradation. The highly electrophilic azo bond
+must be cleaved for dye decolorization to take place.
+Decolorization of the dyes does not readily occur in
+aerobic activated sludge (Pagga & Brown 1986; Shaul
+et al. 1991). Of more than 100 dyes tested, only a
+very few were actually biodegraded. Isolated aerobic
+bacteria were also not able to degrade azo dyes when
+incubated aerobically (Haug et al. 1991; Wuhrmann et
+al. 1980). In special cases, aerobic bacterial isolates
+were able to adapt to the cleavage of carboxylated azo
+dyes after 100 to 400 generations (Kulla 1981). These
+isolates were shown to possess O2-tolerant azoreductases
+with narrow substrate spectra (Zimmermann et
+al. 1984).
+Anaerobes. In contrast to aerobic conditions, almost
+all azo dyes tested are decolourized by anaerobic
+sludge (Brown & Hamburger 1987; Brown &
+Laboureur 1983a; Carliell et al. 1994; Meyer 1981),
+anaerobic sediments (Carliell et al. 1994; Weber &
+Wolfe 1987) and by pure cultures or enrichment cultures
+of bacteria incubated anaerobically (Haug et al.
+1991; Meyer 1981; Ryan et al. 1968). Dye decolorization
+also occurred in continuous anaerobic reactors
+with immobilized biomass (Glaesser et al. 1992;
+Jianrong et al. 1994; Zaoyan et al. 1992). The dye
+redox potential was found to be an important factor
+determining the rate of decolorization in anaerobically
+incubated cells of the bacteria Proteus vulgaris
+(Dubin & Wright 1975). The reduction of the dye causes
+the cleavage of the azo bond, consequently aromatic
+amines are the typical products of this bioconversion.
+The products mostly depend on the rings present in
+the parent compound. Typical examples of cleavageproducts
+which accumulate as a result of the anaerobic
+biotransformation of azo-dyes are shown in Table 3.
+Electron donating amino groups
+Aerobes. The presence of amino electron donating
+groups is expected to facilitate the electrophilic attack
+of aromatics. Most of the typical aromatic amine
+end-products from the anaerobic metabolism of nitroand
+azo-aromatic pollutants are eliminated in aerobic
+biodegradability tests. Simple aromatic amines such as
+aniline and aminotoluene are commonly found to be
+biodegraded by aerobic sludge (Brown & Laboureur 
+1983b; Dickel et al. 1993; Malaney 1960). The more
+complex azo dye cleavage products, such as the naphthylic
+and biphenylic amines listed in Table 3, are
+also degraded in aerobic activated sludge (Brown &
+Hamburger 1987; Malaney 1960) or by bacterial isolates
+from enrichment cultures (Kulla 1981). Many
+dye cleavage products are sulfonated, such as the
+aminobenzene-sulfonate or the aminonapthylsulfonate
+derivatives. These too have been shown to be biodegraded
+by aerobic activated sludge (Brown & Hamburger
+1987; Malaney 1960), aerobic enrichment cultures
+(Glaesser et al. 1992; Haug et al. 1991) and isolated
+aerobic bacteria (Thurnheer et al. 1986; Thurnheer
+et al. 1988).
+Anaerobes. Both nitro- and azo-aromatics are highly
+electrophilic compounds that are easily metabolized
+under anaerobic conditions yielding amino-aromatics.
+However, the electron donating amino groups are
+expected to pose a serious problem to further reductive
+biotransformations by anaerobes. This hypothesis
+is confirmed by the fact that most of the aromatic
+amines listed in Table 3 were not found to be biodegradable
+in tests with anaerobic sludge (Brown & Hamburger
+1987). The simplest aromatic amine, aniline,
+accumulates in stoichiometric yields when anaerobic
+microbial communities are supplied with azobenzene
+(Weber & Wolfe 1987) or nitrobenzene (Dickel et al.
+1993). This is not surprising since aniline has consistently
+been found to be completely recalcitrant in
+methanogenic consortia (Battersby & Wilson 1989; De
+et al. 1994; Schink 1988b). There is however, evidence
+for aniline biodegradation by sulfate reducing bacteria
+(Schink 1988b) and in mixed cultures under denitrilying
+conditions (De et al. 1994). Aniline degradation
+by a methanogenic consortium has also been claimed
+(Schink 1991).
+Aromatic amines with carboxy, hydroxy and
+methoxy substitutions are potentially mineralizable
+in methanogenic consortia. Biodegradability tests of
+these compounds in anaerobic sludge indicate that 2-
+and 4-aminophenol are sometimes mineralized (Battersby
+& Wilson 1989; O'Connor& Young 1993) and
+other times are left unmetabolized (Battersby & Wilson
+1989; O'Connor & Young 1993). Both anthranilate
+(2-aminobenzoate) and 4-aminobenzoate are reliably
+mineralized (Bollag & Kaiser 1991; Horowitz
+et al. 1981; Schink 1988b; Shelton & Tiedje 1984),
+but there are mixed reports on the biodegradability
+of 3-aminobenzoate (Battersby & Wilson 1989;
+Horowitz et al. 1981). The elimination of 4,4'-
+57
+diamino-3,3'-dimethoxybiphenyl was also reported in
+anaerobic sludge (Brown & Hamburger 1987). Nitroor
+chloroanilines may be subject to anaerobic biotransformations
+involving reduction of the electrophilic
+groups (Gorontzy et al. 1993; McCormick et al. 1976;
+Struijs & Rogers 1989). Finally, a number of Nsubstituted
+aromatics having a structure similar to the
+naturally occurring amino acid, tryptophan, such as
+indole, indolyl-acetate, pyridine, dipicolinate, quinoline
+and isoquinoline are also often found to be biodegraded
+under anaerobic conditions (Bollag & Kaiser
+1991; Grbic-Galic 1990; Schink 1988b).
+Lack of oxygenated functional groups
+Aerobes. The lack of oxygen containing functional
+groups is not a problem for aerobes which possess
+oxygenases that can easily incorporate oxygen into the
+molecule (Smith 1994). Simple aromatic hydrocarbons
+such as benzene, toluene, naphthalene and biphenyl
+are consistently degraded in aerobic microbial communities
+in sludge, soil and sediments (Bosma et al.
+1994; Malaney 1960; Mihelcic & Luthy 1988a; Okey
+& Bogan 1965). The recalcitrant behaviour of complex
+aromatic hydrocarbons of four or more rings can mostly
+attributed to their low bioavailability, rather than an
+intrinsic limitation in the biodegradative capacity of
+oxygenases.
+Anaerobes. The lack of polar functional groups on
+aromatic hydrocarbons was initially associated with
+recalcitrance in anaerobic environments. This belief
+was based on frequent observations that simple aromatic
+hydrocarbons were not degraded in methanogenic
+sludge and methanogenic sediments (Battersby & Wilson
+1989; Bosma et al. 1994; Horowitz et al. 1981;
+Mihelcic & Luthy 1988a; Schink 1985). However,
+this view must now be modified since several
+reports have documented slow toluene and o-xylene
+biodegradation in enrichment cultures derived from
+both methanogenic (Edwards & Grbic-Galic 1994;
+Grbic-Galic 1990; Vogel & Grbic-Galic 1986) and
+sulfate reducing aquifer sediments (Beller et al. 1992;
+Edwards et al. 1992). Under denitrifying conditions,
+toluene and xylenes are degraded faster (Evans et al.
+1991; Hutchins 1993; Zeyer et al. 1986). Also the
+biodegradation of PAH compounds, naphthalene and
+acenaphthalene, has been observed in denitrifying conditions
+(Grbic-Galic 1990; Mihelcic & Luthy 1988a;
+Mihelcic & Luthy 1988b). Regardless of whether
+NO 3, SO]- or CO2 is the electron acceptor, ben- 
+58
+zene biodegradation is often not observed (Bosma et
+al. 1994; Edwards et al. 1992; Hutchins 1993); however
+there are some reports of its biodegradation in
+methanogenic and denitrifying consortia (Grbic-Galic
+1990; Vogel & Grbic-Galic 1986). The first oxygenated
+metabolites of toluene biodegradation were shown to
+be either p-cresol (Vogel & Grbic-Galic 1986) or benzyl
+alcohol (Edwards et al. 1994). The incorporated
+oxygen was derived from H20 (Vogel & Grbic-Galic
+1986).
+Polymerization
+Under aerobic conditions, a third type of recalcitrance
+can be recognized, namely, the tendency of certain
+compounds susceptible to free radical reactions to
+undergo oxidative coupling. These coupling reactions
+can result in the formation of recalcitrant humic-like
+polymers or the irreversible covalent binding of the
+pollutant into soil humus (e.g. bound residue). The
+high MW humus polymers have a remarkable stability
+in the environment with residence times exceeding 500
+years (Stevenson 1982). Pollutants which are susceptible
+to these polymerization reactions include polyhydroxylated
+phenols, chlorophenols, nitroaromatics and
+aromatic amines.
+Phenols with ortho substituted hydroxy groups,
+particularly trihydroxybenzenes, are extremely susceptible
+to polymerization reactions, Pyrogallol, catechol,
+catechin and condensed tannins are rapidly autoxidized
+to darkly colored polymers in mild alkaline conditions
+(Field & Lettinga 1989; Field & Lettinga 1991; Field
+et al. 1989; Field et al. 1990). Catechin and condensed
+tannins are also readily autoxidatively polymerized
+in mildly acid to neutral conditions (Das 1969;
+Field & Lettinga 1991). The aerobic biodegradability
+of these compounds was limited due to the formation
+of humic-like polymers which were not further
+metabolized (Das 1969; Field & Lettinga 1991); however,
+catechin was shown to be degraded when incubated
+anaerobically (Das 1969). The COD of pyrogallol
+(1,2,3-trihydroxybenzene), which is rapidly metabolized
+in anaerobic conditions (Field & Lettinga 1987;
+Horowitz et al. 1981; Kaiser & Hanselmann 1982;
+Schink & Pfennig 1982), was found to persist for more
+than 28 days in aerobic activated sludge (Pitter 1976),
+probably due to its rapid polymerization.
+Pollutants in the environment will also be exposed
+to phenol oxidizing enzymes, such as tyrosinases, laccases
+and peroxidases, of plants, fungi and actinomycetes
+(Sjoblad & Bollag 1981). Peroxidases have
+been shown to occur in soil (Bollag et al. 1987).
+When these enzymes are involved, a much broader
+range of substrates can be expected to be susceptible
+to oxidative coupling even under mildly acidic conditions.
+Chlorophenols are readily copolymerized into
+humus with phenol oxidizing enzymes as was demonstrated
+both in vitro (Bollag et al. 1977; Hatcher et
+al. 1993; Maloney et al. 1986) and during soil microcosm
+studies (Cheng et al. 1983) (Fig. 5). Even PCP
+was converted into bound residue in soil organic matter,
+when PCP-polluted soils were inoculated with a
+white-rot fungus (Lamar et al. 1990). The formation of
+polymerized products was also noted when chlorophenols
+were incubated with lignin peroxidase of whiterot
+fungi (Joshi & Gold 1993). The evidence for
+chlorohumus products resulting from oxidative coupling
+is based on the mass spectrometric identification
+of oligomeric intermediates and the incorporation
+of ring-labelled 14C into high MW humic polymers.
+Coupling is not only mediated by phenol oxidizing
+enzymes, and 2,4,6-trichlorophenol was slowly converted
+to a dimer product by autoxidation in mildly
+alkaline conditions (Hodin et al. 1991).
+Chlorohumus polymers prepared from the enzymatic
+coupling of chlorophenols were found to be poorly
+biodegradable when incubated with natural mixed
+cultures of soil (Dec & Bollag 1988). These high MW
+compounds are non-toxic; consequently, polymerization
+of chlorophenols has been found to cause their
+detoxification (Bollag et al. 1988; Lyr 1963). However,
+it should be noted that the initial steps in the oxidative
+coupling of chlorophenolic pollutants can possibly lead
+to dioxin formation. For example, minor but significant
+yields of dioxins were produced from chlorophenols
+when incubated with various peroxidases (Maloney et
+al. 1986; Oberg et al. 1990) (Fig. 5).
+Nitroaromatic pollutants have repeatedly been
+reported to undergo polymerization reactions under
+aerobic conditions (Crawford 1993; Marvin-Sikkema
+& Bont 1994). The reactive sites are presumably
+hydroxyamino and amino-groups resulting from the
+reduction of a nitro group. The identification of tetranitroazoxytoluene
+and dinitro-azoxytoluene intermediates
+derived from TNT and DNT during aerobic
+biodegradation, respectively, provides evidence for the
+initial steps in the polymerization (Kaplan & Kaplan
+1982; McCormick et al. 1976; McCormick et al.
+1978) (Fig. 5). The incorporation of these compounds
+into humic macropolymers and bound residue in large
+yields has been confirmed by 14C labelling as well
+as by infrared spectra characteristics of the polymers 
+Cl
+OH
+CI
+2,4,5-trichlorophenol
+CI CI
+2,3,7.8- cibenzo-p-d~oxin
+59
+OH 3
+NO2~ NO2
+NO 2
+2,4,6-trinitrot oluer~
+NO2 0 " NO2
+OH 3 NZ N CH 3
+N NO 2
+2,2',6,6'-tetranitro-4,4'-azoxytoluene
+OH
+2-chlorophenol
+OH OH
+OH OH
+NH 2 NH 2
+NH
+4-chloroaniline
+CI
+Fig.5. The polymerization ofaromatic pollutants in aerobic environments. A. toxic intermediates producedin the early stages ofpolymerization.
+B. oligomeric intermediates illustrating the structure of high MW polymers generated after extensive oxidation. References: conversion of
+trichlorophenol to dioxins (Oberg et al. 1990); conversion of trinitrotoluene to tetranitroazoxytnluene (Kaplan & Kaplan 1982; McCormick et
+al. t976; McCormick et al. 1978); polymerization of chlorophenol (Bollag et al. 1977); polymerization of chloroaniline (Chang & Bumpus
+1993).
+(Carpenter et al. 1978; Funk et al. 1993; Kaplan &
+Kaplan 1982). Likewise, the polymerization ofdinoseb
+to brown precipitates under aerobic conditions was also
+noted (Stevens et al. 1991).
+Aromatic amines are perhaps the most susceptible
+class of compounds among the aromatic pollutants for
+coupling reactions. Peroxidases, laccases and tyrosinases
+from plants and fungi are known to rapidly polymerize
+a broad spectrum of aromatic amines to darkly 
+60
+CI
+Cl-@OH
+CI
+2,4,6-trlchlorophenol
+ANAEROBIC
+CI ~- OH
+4-chlorophenol
+AEROBIC
+CO 2, H20, HCl
+Cl CI
+CI ~ el
+CI CI
+hexachlorobenzene
+IPCI
+
+1,2-dichlorobenzene
+-~ CO 2, H20, HCI
+.o2
+nitrobenzene
+N.2 )
+aniline
+-~ C02, H20, NH 3
+NO 2
+CI -@ OH
+4--chloro-2--nitrophenol
+NH 2 ,...--(
+CI/(,~k_ OH
+4-cNoro-2-aminophenol
+CO 2, H20, HCI, NH 3
+COOH
+808~ N: N-@ OH
+Mordant-Yellow-3
+COOH
+NH2 -~- OH
+5-aminosalicylate
+--< S03 ~ "NH2
+6-amino-2-sulfonylnaphthalene
+CO 2, H20, NH 3
+CO 2, H20. NH 3 H2S04
+Fig. 6. Examples illustrating the sequenced anaerobic-aerobic biodegradation of environmental pollutants cited in Table 4.
+colored products that ultimately precipitate out of solution
+if the oxidation is continued (Claus & Filip 1990;
+Klibanov et al. 1980; Sjoblad & Bollag 1977) (Fig. 5).
+Anilines were also polymerized by lignin peroxidase
+and whole cultures of white-rot fungi (Chang & Bumpus
+1993). Addition of chloroanilines to soil microcosms
+resulted in the formation of chloro-azobenzenes
+and chloro-azoxybenzenes (Bartha et al. 1968; Freitag
+et al. 1984), which is indicative of the first steps in
+the polymerization that finally leads to bound residue
+(Berry & Boyd 1985; Bollag et al. 1983; Freitag et al.
+1984; Tatsumi et al. 1994). Also some aromatic amines
+resulting from the cleavage of azo dyes are potentially
+susceptible to oxidative coupling. Sulfanilic acid, arising
+from the cleavage of Orange-I, was polymerized in
+aerobic enrichment cultures (Kulla 1981). Aminophenols
+are rapidly autoxidized, 4-chloro-2-aminophenol
+was oxidized to dark non-biodegradable polymers at a
+rate of 12 #M d -1 in sterile pH 6.8 medium (Beunink
+& Rehm 1990).
+Sequenced anaerobic-aerobic systems
+In the previous section we have learned that there are
+three major factors related to recalcitrance of aromatic
+pollutants in the environment. The choice of aerobic
+and anaerobic biotreatment systems cannot be used
+to influence the first factor, bioavailability, but it can
+be used to overcome the recalcitrance caused by the
+two other factors, namely, the intrinsic biodegradative
+limitations and the susceptibility for polymerization.
+Of particular interest is the fact that many compounds
+which are difficult to degrade aerobically, seem to be
+readily biotransformed anaerobically. In turn, the products
+of the anaerobic biotransformation resist further 
+anaerobic mineralization; yet, they are good substrates
+for aerobic biodegradation. Thus for the total mineralization
+of many recalcitrant pollutants, a sequenced
+anaerobic-aerobic treatment strategy should be sought
+which uses the best of both worlds (Zitomer & Speece
+1993).
+Sequenced biodegradation
+Table 4 summarizes the studies reported in the literature
+in which enhanced biodegradation of recalcitrant
+pollutants was obtained by sequencing the anaerobic
+and aerobic biodegradative capacities. Examples of
+the reactions occurring in the anaerobic and aerobic
+steps are illustrated in Fig. 6. The examples include
+pollutants which possess highly electron withdrawing
+chloro, nitro and azo groups and which were shown
+to be either recalcitrant or troublesome in aerobic
+biotreatment systems but readily reduced by anaerobic
+microorganisms. The aromatic rings of the reduced
+products are too nucleophilic for further reduction by
+anaerobes. The products are either troublesome or
+completely recalcitrant to mineralization in anaerobic
+environments, particularly methanogenic consortia.
+However, they are highly suited for the electrophilic
+attack by oxygenases of microorganisms in an aerobic
+post treatment step.
+Two studies report the sequenced treatment of
+2,4,6-trichlorophenol. In anaerobic environments,
+this compound seems to be preferentially reductively
+dechlorinated in the ortho position, while 4-
+chlorophenol is troublesome but not recalcitrant to
+anaerobic biodegradation (Table 4). Thus in order to
+ensure high removal efficiencies of all chloro groups, a
+subsequent aerobic step is recommended. This principle
+has also been applied to the removal of chlorophenol
+mixtures in bleachery wastewaters (Table 4). Likewise
+AOX removal from the anaerobic treatment of
+chlorolignins in bleaching effluents is enhanced by 6
+to 10% in subsequent aerobic post treatment (LaFond
+& Ferguson 1991); and the AOX removal by aerobic
+activated sludge is enhanced by 20% with prior anaerobic
+pretreatment (Ferguson 1994).
+The polychlorinated aromatic hydrocarbons represent
+an important group of environmental pollutants
+which are highly persistent in aerobic environments.
+The lower chlorinated aromatic hydrocarbons
+produced from their reductive dechlorination were
+shown to be virtually recalcitrant to further biotransformations
+in anaerobic environments. The obvious
+solution of providing a sequenced treatment system
+61
+has been studied with hexachlorobenzene, polychlorihated
+biphenyls, DDT and methoxychlor (Table 4).
+The importance of the anaerobic pretreatment step
+in enabling the subsequent aerobic mineralization of
+these recalcitrant pollutants was best illustrated in one
+study with methoxychlor (Fogel et al. 1982). When
+incubated only in either aerobic or anaerobic soils,
+no mineralization was found. Mineralization was only
+observed under aerobic conditions which succeeded an
+anaerobic pretreatment step.
+Aromatic amines that are produced by the facile
+anaerobic reduction of aerobically persistent nitroaromatics
+or aerobically recalcitrant azo bonds are seldom
+subject to further degradation under anaerobic conditions.
+Aniline, the simplest aromatic amine, can be
+regarded as being totally recalcitrant in methanogenic
+consortia; however, this compound is readily degraded
+in aerobic environments. Several investigators have
+demonstrated the complete mineralization or elimination
+of nitroaromatics and azo dyes in sequenced
+anaerobic and aerobic steps (Table 4). During the continuous
+treatment of wastewaters containing azo-dyes,
+the anaerobic step provided nearly complete decolorization
+of the dye components (97%) and about 60%
+elimination of the COD. Afterwards, the aerobic post
+treatment allowed an additional COD elimination of
+30% (Jianrong et al. 1994). The extra COD removal
+was most likely attributable to the poorly anaerobically
+degradable aromatic amines derived from dye reduction.
+If the dye wastewater was treated directly by
+the aerobic step, incomplete decolorization occurred
+(Zaoyan et al. 1992).
+Sequenced polymerization
+The high tendency of certain compounds to undergo
+oxidative coupling in aerobic environments can be
+regarded as undesirable if the goal of the biotreatment
+system is to mineralize the pollutants. The humic-like
+polymers formed from polyhydroxylated phenols and
+chlorophenols as well as nitroaromatics and aromatic
+amines, are highly recalcitrant to further biodegradation.
+The initial oligomeric intermediates of these
+coupling reactions are often unwanted mutagenic and
+carcinogenic compounds such as dioxins and nitroazoxy-aromatics
+from chlorophenols and nitroaromatics,
+respectively. However, humic products of extensive
+polymerization were shown to be non-toxic. Polymerization
+of aromatic compounds into humus can
+even be considered as a means of detoxifying pollution
+(Bollag et al. 1988; Field & Lettinga 1991; Klibanov 
+62
+Table 3. Accumulating intermediates identified from the reductive cleavage of azo dyes by
+anaerobic bacteria
+Azo dye Product(s) Reference
+Azobenzene aniline (Weber & Wolfe 1987)
+Mordant-Yellow-3 6-aminonaphthalene-2-sulfonate and
+Orange-I
+Orange-II
+Acid-Orange-7
+Acid-Yellow-36
+Acid-Dye
+Acid-Yellow- 151
+Acid-Black-24
+Direct-Red-7
+Direct-Yellow- 12
+Direct-Yellow-50
+Mordant-Black-9
+Disperse-Red-5
+Disperse-Red- 1
+Direct-Red-28
+5-amino-salicylate
+1-amino-4-naphthol and
+aniline-4-sulfonate
+1-amino-2-naphthol and
+aniline-4-sulfonate
+4-aminobenzenesulfonate
+3 -aminobenzenesulfonate and
+n-phenyl- 1,4-diaminobenzene
+2,5-dichloroaniline
+3 -amino-4-hydroxy-benzenesulfamide
+1 -aminonaphthalene-5-sul fonate
+4,4'-diamino-3,3'-dimethoxybiphenyl
+1 -amino-4-ethoxybenzene and
+4-amino-2-sulfobenzaldehyde
+2-aminonaphthalene-4,8-disulfonate
+3-amino-4-hydroxybenzenesulfonate
+2-chloro-4-nitro-aniline
+4-nitroaniline
+4,4'-diaminobiphenyl and
+3,4-diaminonaphthalene- 1-sulfonate
+(Haug et al. 1991)
+(Meyer 1981)
+(Meyer 1981)
+(Brown & Hamburger 1987)
+(Brown & Hamburger 1987)
+(Brown & Hamburger 1987)
+(Brown & Hamburger 1987)
+Brown & Hamburger 1987)
+(Brown & Hamburger 1987)
+(Brown & Hamburger 1987)
+Brown & Hamburger 1987)
+Brown & Hamburger 1987)
+(Yen et al. 1991)
+(Yen et al. 1991)
+(Weber 1991)
+& Morris 1981; Lyr 1963). Humus may very well represent
+safe end products of natural aromatic pollution
+in the ecology. Naturally produced chloroaromatics are
+hypothesized to be incorporated into humus (De Jong
+et al. 1994), accounting for the high background levels
+of AOX in soil organic matter (Asplund & Grimvall
+1991). Humus collected from pristine environments
+was shown to contain chloroaromatic units (Dahlman
+et al. 1993).
+The formation of toxic intermediates and recalcitrant
+humus polymers can often be avoided by choosing
+anaerobic conditions for biological treatment. This
+approach is valid as long as the pollutants are sufficiently
+degraded under anaerobic conditions to non-reactive
+intermediates or mineralized end products. However at
+the other extreme, partial biotransformations occurring
+during anaerobic pretreatment can sometimes prepare
+aromatic compounds for enhanced polymerization in
+subsequent aerobic exposure. The demethylation of
+chloroanisoles and chloroveratroles under anaerobic
+conditions produces chlorophenols (Haggblom et al~
+1993; Neilson et al. 1987). The chlorophenols would
+then be susceptible to polymerization reactions in soils
+containing plant and fungal phenol oxidizing enzymes.
+Likewise, anaerobic metabolism of nitroaromatics to
+reduced intermediates would be expected to enhance
+the polymerization of these compounds in soil.
+Anaerobic-aerobic cocultures
+The sequenced biological treatment of chloroaromatics,
+nitroaromatics and azo dyes in separated anaerobic
+and aerobic phases clearly indicates that the biodegradation
+of these persistent pollutants can be enhanced by
+the combined activities of distinct microbial consortia.
+The consortia do not necessarily have to be separated
+in different reactors or distinct periods of operation.
+Evidence in the literature indicates that anaerobic and
+aerobic consortia can occur side by side. Strict anaerobes
+can occur in anaerobic microniches located inside
+biofilms and aggregates. Many anaerobes also have the
+ability to survive periodic exposure to oxygen. Even
+cells of aerobically grown bacteria may be able to carry 
+63
+Table 4. Examples indicating the enhanced biodegradation of aromatic pollutants in anaerobic-aerobic
+sequences
+Pollutant Anaerobic system Product Aerobic system Product Reference*
+246TCP ANS 4CP ABI MIN I
+246TCP ANFB 4CP AFB ELIM 2
+Bleaeh-CP ANFB DeCL-CP ATF ELIM 3
+Bleach-AOX ANFB DeCL-AOX ATF > DeCL-AOX 4
+Bleach-AOX UASB DeCL-AOX AS > DeCL-AOX 5
+Bleach-AOX UASB DeCL-AOX AS > DeCL-AOX 6
+HCBz ANFB 123TCBz AFB MIN 7
+12DCBz
+PCB AN-SED CBs DCBs A-SED ELIM 8
+PCB AN-SED CBs DCBs TCBs ABI ELIM 9
+DDT/DDM ANS DDD DDM ABI MIN l0
+DDT ANBI DDD DDMS DBP ABI 4CPAc I 1
+Methoxychlor AN-SOIL unidentified A-SOIL MIN 12
+NB ANF aniline AS MIN 13
+4C2NP ANBI 4C2AP ABI MIN 14
+Azo-dye MY3 ANFB 6A2NS 5AS ALR ELIM 15
+Azo-dye MY3 AN-ABI 6A2NS 5AS ABI MIN 16
+Azo-dye AY36 ANS 3ABS AS ELIM-DOC 17
+Azo-dyeAY25 ANS 3A6MB-N-PSA AS ELIM-DOC 17
+Azo-dye DR7 ANS 44DA33DMBP AS ELIM-DOC 17
+Azo-dye DBI5 ANS 44DA33DMBP AS ELIM-DOC 17
+Azo-dye DYI2 ANS 1A4EB AS ELIM-DOC 17
+Textile-WW AN-RBC decolourized products A-RBC ELIM-COD 18
+Textile-WW UASB decolourizedproducts AS ELIM-COD 19
+Compounds: 246TCE 2,4,6-trichlorophenol; Bleach-CR chlorophenols in bleachery effluent;
+Bleach-AOX, bleachery effluent AOX; HCBz, hexachlorobenzene; PCB, polychlorinated biphenyls;
+DDT, 1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane; DDM, 4,4'-dichlorophenylmethane; Methoxychlor;
+1,1,1-trichloro-2,2-bis(4-methoxyphenyl)ethane; NB, nitrobenzene; 4C2NP, 4-chloro-2-
+nitrophenol; MY3, mordant-yellow-3; AY23, acid-yellow-36; AY25, acid-yellow-25; DR7, directred-7;
+DB 15, direct-blue- 15; DY 12, direct-yellow- 12; Textile-WW, textile industry wastewater.
+Products: 4CE 4-chlorophenol; DeCI-CR dechlorinated chlorophenols; DeCI-AOX, dechlorinated
+AOX; 123TCBz, 1,2,3-trichlorobenzene; 12DCBz 1,2-dichlorobenzene; CBs, monochlorobiphenyls;
+DCBs, dichlorobiphenyls; TCBs, trichlorobiphenyls; DDD, 1,1-diehloro-
+2,2-bis(4-chlorophenyl)ethane; DDM, 4,4'-dichlorophenylmethane; DDMS, 1-chloro-2,2-bis(4-
+chlorophenyl)ethane; DBR 4,4'-dichlorobenzophenone; 4C2AR 4-chloro-2-aminophenol; 6A2NS,
+6-amino-2-naphthylsulfonate; 5AS, 5-aminosalicylate; 3ABS, 3-aminobenzenesulfonate; 3A6MBN-PSA,
+3-amino-6-methylbenzene-N-phenylsulfonamide; 44DA33DMBE 4,4'-diamino-3,3'-
+dimethoxybiphenyl; IA4EB, l-amino-4-ethoxybenzene; MIN, mineralized products; ELIM, elimination
+pollutant(s); DeCI-AOX, dechlorination AOX; > DeCI-AOX, increased dechlorination of
+AOX; 4CPAc, 4-chlorophenylacetic acid; ELIM-DOC, elimination of dissolved organic carbon;
+ELIM-COD, elimination chemical oxygen demand.
+System: ANBI, anaerobic bacterial isolate; AN-AB L anaerobically incubated resting cells of aerobic
+bacterial isolates; ANS, anaerobic sludge; AN-SED, anaerobically incubated sediments; AN-SOIL,
+anaerobically incubated soil; ANFB, anaerobic flu idized/expanded bed; UASB, upward-flow anaerobic
+sludge blanket; ANE anaerobic fixed bed/filter; A N-R BC, anaerobic rotating biological contacter;
+ABI, aerobic bacterial isolate; AS activated sludge; A-SED, aerobically incubated sediments; ASOIL,
+aerobically incubated soil; AFB, aerobic fluidized bed; ATE aerobic trickling filter; ALR,
+airlift loop reactor; A-RBC, aerobic rotating biological contacter.
+* References: 1 = (Kafkewitz et al. 1992); 2 = (Fahmy 1992); 3 = (Hakulinen & Salkinoja-Salouen
+1982); 4 = (Haggblom & Salkinoia-Salonen 1991 ); 5 = (LaFond & Ferguson 1991); 6 = (Ferguson
+1994); 7 = (Fatbepure & Vogel 1991 ); 8 = (Anid et al. 1991 ); 9 = (Bedard et al. [ 987); l 0 = (Beunick
+& Rehm 1988); 11 = (Pfaender & Alexander 1972); 12 = (Fogel et a[. 1982); 13 = (Dickel et al.
+1993); 14 = (Beunink & Rehm 1990); 15 = Glacsscr el al. 1992); 16 = (Haug et aI. 1991); 17 =
+(Brown & Hamburger 1987); 18 = (Zaoyan el a[. 1992); 19 = (Jianrong et al. 1994). 
+64
+out typical anaerobic bioconversions under conditions
+of oxygen limitation. Therefore, anaerobic and aerobic
+biodegradative capacities can be utilized synchronously
+in one bioreactor.
+Anaerobic microniches in aerobic environments
+Paradoxically, aerobic bacteria create anaerobic environments
+by the consumption of oxygen. Oxygen has a
+low solubility and a slow diffusibility in water (Cussler
+1992; Geankoplis 1983). Consequently when there is
+an excess of readily metabolizable substrate compared
+to the oxygen supply, anaerobic environments are created.
+Aerobic wastewater treatment is only made possible
+by forced convective transport of oxygen achieved
+by vigorous mixing. Even in well aerated systems as
+soon as there is a barrier to mixing, the 02 supply will
+become rate limiting. In wastewater treatment systems
+or during bioremediation of soils and sediments, such
+barriers are known to be caused by biofilms, settled
+layers of particles or soil aggregates, which provide
+resistance to convective mass transport (Cussler 1992;
+Geankoplis 1983). Thus, oxygen supply to deep positions
+is almost exclusively limited to the slow process
+of diffusion (De Beer 1990; Hooijmans 1990). Based
+on these observations, anaerobic microniches can be
+expected to occur inside particulate matrices which are
+located in aerobic macroenvironments.
+In aerobic bioreactors with immobilized biomass,
+oxygen limitation is due to the biofilm itself. Under
+steady state conditions, zones of decreasing oxygen
+concentration will be formed towards the centre of
+the biofilm. The depth of penetration will depend on
+the diffusion and consumption of oxygen. The diffusion
+will be most influenced by the oxygen concentration
+in the bulk liquid phase and the thickness of
+the biofilm; while oxygen consumption is influenced
+by the presence of readily metabolizable substrates.
+Several investigators have used microsensors to determine
+the oxygen profiles within aerobic biofilms or
+within gel beads containing microorganisms actively
+respiring substrates, usually resulting in gradients
+from the oxic outer layers to the anoxic layers in the
+centre (De Beer 1990; Hooijmans 1990; Peters et al.
+1987; Revsbech et al. 1989; Wijffels et al. 1991).
+Model systems with the 02 consuming enzyme, Llactate-oxygen-2-oxidoreductase,
+immobilized in gel
+beads, clearly indicated the role of increasing oxygen
+uptake rate (established by varying the enzyme concentration)
+on the decreasing depth of oxygen penetration
+(Hooijmans 1990). Similar results were also obtained
+by varying the O2-uptake rate with different concentrations
+of Escherichia coli immobilized in gel beads
+supplied with glucose as substrate (Hooijmans 1990) as
+illustrated in Fig. 7. When the concentration of active
+aerobic bacteria exceeds 1 g biomass L-1 of immobilized
+phase, a general finding is that oxygen rarely
+penetrates more than a few hundred #m due to the relatively
+rapid uptake of oxygen compared to the slow
+diffusion. In subtrate limited systems such as soils, the
+02 uptake rate is slower and consequently deeper 02
+penetration would be expected. Oxygen microprofiles
+of typical silt loam soil aggregates indicate a penetration
+of 3 mm (Tiedje et al. 1984). Consequently, anaerobic
+microorganisms located inside reactor biofilms or
+soil aggregates would be adequately protected against
+contact with oxygen, allowing the occurrence of denitrification,
+sulphate reduction or methanogenesis.
+The occurrence of these anaerobic microniches in
+environments with a well aerated bulk phase is best
+illustrated by the isolation of strict anaerobes from
+aerobic activated sludge. The fact that methanogens
+are present in aerobic sludge was demonstrated when
+Methanothrix soehngenii could be enriched from such
+samples (Huser et al. 1982). Activated sludge is often
+used successfully as seed for the start-up of anaerobic
+wastewater treatment reactors (Noyola & Moreno
+1994; Wu et al. 1987). The success can be attributed
+to the presence of methanogenic bacteria in the aerobic
+sludge. Methanobacterium, Methanococcus and
+Methanosarcina were observed in both the original aerobic
+activated sludge flocs and the anaerobic granular
+sludge formed. According to fluorescent microscopic
+examination, several anaerobic nuclei were identified
+deep inside flocs of the original aerobic sludge (Wu et
+al. 1987). A strictly anaerobic tetrachloroethene reducing
+bacterium was also isolated from aerobic activated
+sludge (Neumann et al. 1994).
+Additionally, oxic marine sediments are considered
+to be reducing environments covered only by a thin
+highly oxidized surface layer (Battersby et al. 1985;
+Jurgensen 1977). The obligate anaerobe Desulfovibrio
+sp. was isolated from within sediment aggregates,
+while the sulphide oxidizing bacterium Beggiatoa sp.
+was found in the surface layer. The occurrence of pyrite
+in the oxidized layer can only be explained by the rapid
+oxidation of Fe 2+ to Fe 3+ on the one hand, and the
+formation of H2S from sulfate reduction on the other
+(Jurgensen 1977). The occurrence of denitrification in
+soil while oxygen is present in the macroporosity was
+shown to be related to anaerobic zones formed within
+the soil aggregates (Tiedje et al. 1984). The rate 
+of denitrification was shown to be highly correlated
+to the anaerobic volume fraction of the soil aggregate
+as calculated on the basis of oxygen diffusion- and
+consumption-rates.
+Tolerance of strict anaerobes to oxygen
+Many anaerobes have the ability to survive periodic
+exposure to oxygen which might be encountered in
+fluctuating conditions of oxygen supply. Oxygen is
+considered as a suspect toxic compound since severaI
+investigations reported a detrimental effect, especially
+for several metbanogens which are usually regarded as
+strict anaerobes (Hungate 1969; Whitman et al. 1992).
+Oxygen is a powerful reactant because reduced species
+such as superoxide and eventually hydrogen peroxide
+are spontaneously generated which are potentially toxic
+radicals to all living cells (Gottschalk & Peinemann
+1992; Morris 1979). The toxic effect can damage the
+chromosomal DNA, as was suggested for Roseburia
+cecicola which is a strict anaerobe considered intolerant
+to oxygen (Martin & Savage 1988). Obligate
+anaerobic bacteria, contrary to the aerobic and facultative
+bacteria, can be defined as those microorganisms
+unable to synthesize a respiratory chain with oxygen
+as terminal electron acceptor and oxidize organic substrates
+to carbon dioxide and water. They are considered
+to live strictly without oxygen (Gottschalk &
+Peinemann 1992). The ability of strict anaerobes to
+survive and coexist in aerobic environments can be
+attributed to a limited tolerance of some anaerobes for
+direct contact with oxygen, such as would be the case
+if they were exposed to oxygen in pure culture. On
+the other hand, all strict anaerobes may be expected to
+tolerate oxygen to a certain extent if they are present
+in mixed culture together with facultative bacteria that
+consume the oxygen, forming protected microniches.
+
+Tolerance to oxygen in pure culture
+Aerobic and facultative bacteria are regarded as possessing
+appropriate protective mechanisms against the
+oxygen radicals. The main hypotheses for the protective
+mechanisms is the ability to produce two enzymes,
+superoxide dismutase (SOD) and catalase. SOD seems
+to be indispensable to all the aerobes (Gottschalk &
+Peinemann 1992; Morris 1979), despite the claim that
+a few aerobes lack it (Fee 1982). The total lack of SOD
+has also been suggested as the reason for oxygen intolerance
+among strict obligate anaerobes (Morris 1979).
+3.5
+65
+3.0
+= 2.5
+2,0
+"~ 1.5
+==
+~. 1.o
+o 0.5
+0.0
+0
+Concentration Biornass in Gel Slab (g/l)
+30
+Fig. 7. Depth of 02 penetration measured by a microsensor in
+calcium-alginate slabs, immobilized with Escherichia coli actively
+respiring glucose, as a function of the biomass concentration (Hooijmans
+1990).
+o
+O I.O
+5O
+e-,
+ta0
+"~ = 40
+¢, et-.cr
+'- ~ et//./~
+3o
+:~ 20 ,c .= ~ ,c
+= 10 A,t ¢,o eet al ~ r=. 0.661
+Nedal¢o only r=- O. 998
+°~ 0 ...........
+0 2 4 6 8 10 12
+maximum aerobic activity
+(g 0 2/g VSS. d)
+Fig. 8. The 50% inhibitory concentration (50% IC) of oxygen
+to acetoclastic methanogenic activity as a function of the rate of
+02 uptake by facultative anaerobes in different samples of granular
+sludge obtained from upward-flow anaerobic sludge blanket (UASB)
+reactors (Kato et al. 1993b). The sludges were exposed to 02 during
+three days and the methanogenic activity was monitored with acetate
+directly after the exposure. The granular sludges had mean aggregate
+diameters of 1.3 to 2.8 ram) and were obtained from UASB treating
+domestic sewage (A); 'Nedalco' alcohol distillery (m); wheat
+starch processing (e); paper manufacturing (O); and recycle paper
+manufacturing ([3) wastewaters. Substrate during oxygen exposure;
+et, ethanol; ac, acetate; ns, no substrate supplied; cr, granular sludge
+was crushed.
+Curiously enough, many obligate anaerobes do contain
+SOD and they can tolerate to some extent low levels
+of direct contact with oxygen (Morris 1979; Rolfe et
+al. 1978). These findings reveal that the obligate anaerobes
+differ in their sensitivity to oxygen, varying from
+those with strict intolerance to others possessing some
+intrinsic tolerance.
+Both the oxygen tension and the redox potential are
+claimed to be the factor responsible for the sensitivity. 
+66
+1.°. I ~F 2F ~F ,F -r~F ~ ~1
+I o" 0.6 -7!-- --
+0 0.4
+0.2
+~" O0 ,
+®l
+0 '-- "0
+0 ~ 4~
+o ~ ~ 9 ~2 ~s ;s 21
+"lime (days)
+Fig. 9. Coexistence of methanogenic, facultative heterotrophic
+and methanotrophic bacteria in granular sludge during 6 repeated
+batch feedings (IF to 6F) supplied with 2 g COD/L ethanol and
+18% 02 (Kato et al. 1993a). A. Parallel production of methane
+with O2 uptake and methane consumption (4F to 6F). II, methane
+production (g COD/L of liqtiid); O, oxygen uptake (g O2/L of
+liquid). B. Dissolved oxygen present in the bulk liquid medium. *,
+calculated from oxygen measurement in the head space and Henry's
+law; A, directly measured.
+Substrate
+BLLK LIQUID PHASE
+O~
+~ana
+Fig. lO. Conceptual model detailing the coexistence of aerobic and
+anaerobic microniches in granular sludge exposed to oxygen and
+substrate.
+The effect of oxygen on 8 different species of anaerobic
+bacteria was shown to be related to the oxygen tension
+(0.2 to 3 atm); although each species had a different
+sensitivity to oxygen (Fredete et al. 1967). Low medium
+redox potential did not enable those microorganisms
+classified as intolerant anaerobes, e.g. Clostridium
+haemolycum, to grow at 02 tensions of 0.5%.
+However, moderate anaerobes, e.g. Bacteroides fragilis;
+could grow between 0.5% and as high as 2 to 8%
+02. Microaerophiles, e.g. Vibrio sputorum and V.fetus,
+grew poorly in the absence of oxygen but maximally
+at intermediate 02 levels of 5 to 10% (Loesche 1969).
+The exclusion of molecular oxygen together with an
+environment of very low redox potential was postulated
+as being essential for the anaerobic microorganisms,
+especially the methanogens (Gottschalk & Peinemann
+1992; Hungate 1969). However, some experiments
+showed the separate effects of oxygen and redox potential
+on anaerobic cultures, and oxygen concentration
+was by far the most important factor contributing to
+the toxicity (O'Brien & Morris 1971; Walden & Hentges
+1975).
+The continuous anaerobic culture ofB. fragilis submitted
+to different conditions of redox alone revealed
+that there was no detectable change in the viable cell
+density. However, the introduction of oxygen to 10-
+100% of atmospheric saturation during 6 h resulted in
+a steady decline in the viable cell density. The mechanism
+of oxygen-mediated inhibition was assumed to
+be due to the formation of superoxide radicals. However,
+the effect was bacteriostatic rather than bactericidal.
+The explanation for the bacteriostatic effect
+was that cells of B. fragilis contained SOD, which was
+demonstrated in parallel investigations (Onderdonk et
+al. 1976).
+The most noteworthy group of strict anaerobic bacteria
+involved in wastewater treatment processes are
+the methanogens. Since the early works on the isolation
+of pure cultures of Methanosarcina barkeri and
+Methanobacteriumformicicum, the widespread view
+is that the methanogens are fastidious microorganisms
+requiring strict anaerobic conditions for growth and
+methane production. Anaerobic conditions for working
+with methanogenic bacterial cultures are ensured
+by the Hungate-technique which is still employed
+today with some modifications (Hungate 1969). Possible
+traces of oxygen are eliminated by the addition
+of reducing agents such as cysteine or sulphide, to
+poise the redox potential within the low range. Indeed
+many methanogens are acutely sensitive to oxygen.
+Methanococcus voltae and Methanococcus vannielii
+were shown to be highly intolerant to oxygen which
+corresponded to their lack of SOD (Kiener & Leisinger
+1983). Also, two thermophilic methanogens isolated
+from a 55°C anaerobic kelp digester were shown
+to cease immediately both growth and methane production,
+after being exposed to only 0.1% oxygen in
+the head space (Ferguson & Mah 1983). Methanobac- 
+terium ruminantium, Methanobacterium mobile and
+Methanobacterium sp. strain AZ were also found
+to be highly sensitive to oxygen since their growth
+and methane production were completely prevented at
+0.01 ppm dissolved oxygen (Zehnder & Wuhrmann
+1977).
+However, other investigations indicate that at least
+some methanogens do have intrinsic tolerance to oxygen.
+Only a slow decline was observed in the methane
+production of Methanobacterium sp. strain M.o.H.
+actively metabolizing H2 when it was exposed to
+oxygen (Roberton & Wolfe 1970). Oxygen tolerance
+was also observed among several species of bacteria
+in the order Methanomicrobiales and Methanobacterium
+bryantii, and was attributed to SOD, which
+was detected and correlated to the defense against
+oxygen toxicity (Kiener & Leisinger 1983; Kirby et
+al. 1981). Methanobacterium thermoautotrophicum,
+Methanobrevibacter arboriphilus and Methanosarcina
+barkeri strains, which were originally isolated from
+sludge digesters, survived for hours in the presence of
+air without decrease in the number of colony forming
+units (Kiener & Leisinger 1983; Kirby et al.
+1981). Enrichment cultures of Methanothrix soehngenii
+derived from anaerobic sludge digesters were
+exposed to pure oxygen for 48 hours. The exposure
+did not cause cell lysis nor loss in methane producing
+activity compared to controls (Huser et al. 1982).
+Methanobacterium and Methanosarcina strains are
+also commonly isolated from dry and oxic paddy soil,
+demonstrating that they can survive under aerobic conditions
+between the flooding periods. That methanogenesis
+starts within a few days after flooding was
+confirmed in research with the isolated pure cultures of
+Methanosarcina barkeri strain Fusaro, Methanosarcina
+sp. strain MVF4 and Methanobacterium sp. strain
+HVF5 (Fetzer et al. 1993).
+Aside from the intrinsic tolerance due to the SOD
+that some methanogenic species possess, other factors
+have been postulated to be involved in protection
+against oxygen. Methanosarcina barkeri strain Fusaro
+was shown to have a number of redox carriers decreasing
+the redox potential when chemical oxidant agents
+were used. However, this reducing capacity was not
+enough to avoid the inhibition by oxygen at concentrations
+higher than 0.5% in the gas phase. Nonetheless,
+the capacity to adjust the redox potential in its
+own redox environment may partly explain good survival
+in dry and oxic soil (Fetzer & Conrad 1993).
+The existence of cells in aggregates can also affect
+the oxygen tolerance. This seemed to be the case for
+67
+a Methanosarcina strain that showed higher oxygen
+tolerance in cell aggregates compared with dispersed
+cells (Kiener & Leisinger 1983).
+Tolerance to oxygen in mixed culture
+Natural mixed cultures represent complex consortia
+of microorganisms, where the consumption of oxygen
+in an anaerobic reactor can very likely occur
+due to the presence of facultative bacteria in the
+anaerobic sludges. When oxygen was placed in the
+headspace of serum bottles or chemostats containing
+natural methanogenic consortia, 02 consumption started
+directly (Gerritse et al. 1990; Kato et al. 1993a;
+Shelton & Tiedje 1984). The initial specific 02 consuming
+activity of granular anaerobic sludge recovered
+from various UASB reactors and fed with ethanol
+ranged from 1 to 11 g 02 g-1 VSS d -1 (Kato et
+al. 1993b), indicating ample activity of facultative
+bacteria in natural mixed cultures of anaerobic bacteria.
+Thus regardless of the intrinsic tolerance that
+has been reported for some strict anaerobes such as
+methanogens, the creation of anaerobic environments
+by facultative bacteria is probably the most important
+factor for the protection of methanogens in anaerobic
+sludges against 02 exposure. The 50% inhibiting
+concentration (50% IC) of various samples of anaerobic
+granular sludge exposed to oxygen for three days
+ranged from 7 to 41% 02 in the head space at the start
+of the exposure period. These values corresponded to
+dissolved oxygen concentrations ranging from 0.05 to
+6.1 mg L -1 in the bulk liquid phase at the end of the
+exposure period (Kato et al. 1993b). The 50% IC values
+were found to be highly correlated to specific 02 uptake
+rates of the sludges tested which clearly indicates that
+the consumption of oxygen was a major factor in the
+remarkably high tolerance to oxygen (Fig. 8). Considering
+that the penetration of oxygen in active biofilms
+would only be a few hundred micrometers and that the
+granules had diameters ranging from 1.3 to 2.8 mm,
+voluminous anaerobic zones were most likely present
+inside the granules where the methanogenic bacteria
+were protected from contact with 02.
+Anaerobic activity of aerobic bacteria
+Anaerobic activity is not restricted to strict anaerobic
+bacteria. The cells of aerobically grown bacteria
+may be able to carry out typical anaerobic reactions in
+reducing environments. Since aerobes can grow faster
+than anaerobes, utilizing cells of aerobic bacteria can 
+68
+facilitate the implantation of a mixed anaerobic-aerobic
+process. Many aerobic bacteria are able to reduce aromatic
+electron-withdrawing substituents when incubated
+anaerobically just as anaerobes can. Moreover, some
+strains of aerobic bacteria can carry out unique reactions
+under anaerobic conditions.
+Aerobic activated sludge was used in anaerobic
+incubations to reductively dechlorinate 4,4'-
+dichlorobiphenyl to 4-chlorobiphenyl (Mavoungou
+et al. 1991). Anaerobically incubated activated
+sludge also caused the reduction of 2,4-dinitrotoluene
+to 2-nitroso-4-nitrotoluene, 4-nitroso-2-nitrotoluene,
+2-amino-4-nitrotoluene and 4-amino-2-nitrotoluene
+when a suitable electron donor was provided (Liu
+et al. 1984). Likewise, cells from activated sludge
+could decolourize several azo dyes under anaerobic
+conditions (Wuhrmann et al. 1980). In a sequenced
+anaerobic-aerobic reactor system for the biodegradation
+of the azo dye, Mordant-Yellow-3, biomass recovered
+from the aerobic post treatment step was recycled
+to the anaerobic stage where the azo bond was reductively
+cleaved (Glaesser et al. 1992). Although it is not
+clear whether strict anaerobes or aerobes in the aerobic
+activated sludge were responsible for these reductions,
+the studies do clearly demonstrate that reduction
+of 'xenobiotic' electron withdrawing substituents is
+not necessarily restricted to mature anaerobic consortia.
+
+The ability of aerobic bacteria to cause anaerobic
+biotransformations is best illustrated in studies with
+isolated pure cultures. Anaerobically incubated cell
+free extracts ofHydrogenomonas sp. grown aerobically
+on diphenylmethane were able to reduce the polychlorinated
+aromatic hydrocarbon, DDT, to dechlorinated
+intermediates (Pfaender & Alexander 1972). Four
+studies indicated the ability of aerobically grown pure
+cultures of bacteria to reductively cleave a variety of
+azo dyes during anaerobic incubations of the harvested
+cells (Haug et al. 1991; Mechsner & Wuhrmann 1982;
+Ryan et al. 1968; Wuhrmann et al. 1980).
+Anaerobically incubated resting cells or cell free
+extracts of aerobes have been shown to hydroxylate
+chloro- and nitroaromatics. Aerobically grown cells
+of Acinetobacter sp. strain 4CB 1 and those of another
+bacterial isolate, strain NTB-1, could convert 4-
+chlorobenzoate to 4-hydroxybenzoate in the absence of
+elemental oxygen (Adriaens et al. 1989; Groenewegen
+et al. 1992). Strain NTB- 1 required nitrate for this reaction
+and a Coenzyme-A-thioester of 4-chlorobenzoate
+was shown to be involved in the reaction mechanism
+(Groenewegen et al. 1992). Acinetobacter sp. strain
+4CB 1 could also convert 3,4-dichlorobenzoic acid to 4-
+carboxy- 1,2-benzoquinone in the absence of 02 (Adriaens
+et al. 1989). Washed cells and cell free extract
+of the aerobically cultivated Comamonas acidovorans
+sp. strain NBA-10, converted 4-nitrobenzoate to 3,4-
+dihydroxybenzoate under anaerobic conditions (Groenewegen
+& de Bont 1992). 4-Nitrobenzoate was first
+reduced to 4-hydroxylaminobenzoate, and this intermediate
+was converted to 3,4-dihydroxybenzoate by a
+novel enzyme.
+Anaerobic-aerobic cocultures
+Coexistence of anaerobes and aerobes
+The coexistence of anaerobes and aerobes in coculture
+does not only require that the anaerobes are protected
+from O2-toxicity. The anaerobes must also be able to
+compete for substrate in order to survive for extended
+periods. Aerobic facultative heterotrophs which can
+utilize oxygen for respiration, can obtain higher levels
+of energy from the substrate and consequently are
+expected to grow faster than anaerobic bacteria competing
+for the same substrate. Thus in cultures where
+the aerobes are present in suspension, each unit of 02
+added to the coculture would be reflected by a unit of
+BOD stolen from the anaerobes (Gerritse et al. 1990;
+Kato et al. 1993a; Shelton & Tiedje 1984). Thus anaerobic
+microorganisms can only be maintained in such
+cocultures if the supply of substrate in terms of BOD
+is greater than the transfer of 02 into the liquid phase.
+Since the aerobic or facultative bacteria adequately
+consume the limited O2 supplied, the resulting dissolved
+oxygen concentration in the bulk liquid phase
+will be very low (Gerritse & Gottschal 1993; Gerritse
+et al. 1990).
+Studies with anaerobic-aerobic cocultures reveal
+that methanogens can be maintained in aerated conditions
+if the 02 supply is not excessive (Gerritse &
+Gottschal 1993; Gerritse et al. 1990; Scott et al. 1983).
+In one study, three defined cocultures of anaerobic
+and aerobic bacteria were established in 02 limited
+chemostats: 1) Methanobacteriumformicicum together
+with the aerobic heterotroph Comamonas testosteroni;
+2) M. formicicum together with the aerobic
+methanotroph Methyloeystis sp.; and 3) Methanosarcina
+barkeri together with C. testosteroni (Gerritse &
+Gottschal 1993). Growth of the methanogenic and aerobic
+bacteria occurred over extended periods of time
+(200 h). Cocultures with C. testosteroni were found
+to be more stable than those with the methanotroph. 
+The former bacteria had a higher affinity for 0 2 resulting
+in lower levels of dissolved oxygen which protected
+the methanogens better against 02 poisoning. The
+methanotroph, however, was able to consume methane
+produced by M. formicicum. The dissolved oxygen in
+the chemostats was lower than the detection limit of
+0.0064 mg L -1. However, based on growth kinetics,
+it was calculated that the dissolved oxygen concentration
+ranged from 0.0002 to 0.0013 mg L -1. The
+growth rate of M. formicicum was reduced by 50%
+at dissolved oxygen concentrations of approximately
+0.00064 mg L-1 while such reductions in the growth
+rate were not observed for M. barkeri at concentrations
+up to 0.0013 mg L -1. Similar experiments were also
+conducted in chemostats with an undefined mixed culture
+enriched under anaerobic conditions with formate,
+peptone and yeast extract as substrate, resulting in a
+formate degrading methanogenic consortia (Gerritse et
+al. 1990). A gradual increase in the 02 supply initially
+enhanced the rate of methane production by 20%.
+This phenomenon has also been observed by others
+and is attributed to the production of unknown 'growth
+factors' by the facultative bacteria (Pirt & Lee 1983;
+Scott et al. 1983). As the 02 input was increased further,
+methanogens could be maintained in the chemostat
+until all volatile organic acid fermentation products
+(derived from the fermentation of peptone and
+yeast extract) were fully consumed by the facultative
+bacteria. Afterwards, further increments of 02 supply
+resulted in the wash-out of methanogens and accumulation
+of formate since the fermentation products were
+needed to consume incoming 02.
+The coexistence of anaerobes and aerobes in one
+environment has also been studied with other obligate
+anaerobic bacteria. Sulfate reduction has repeatedly
+been observed under aerated conditions if facultative or
+aerobic bacteria simultaneously consume 02 (Battersby
+et al. 1985; Cypionka et al. 1985; Jurgensen 1977;
+Marschall et al. 1993). The obligate anaerobic fermentative
+bacterium, Veillonella alcalescens, was maintained
+in a chemostat coculture with the obligate aerobe,
+Pseudomonas testosteroni when both were supplied
+with the common substrate lactic acid (Gerritse
+et al. 1990). Another anaerobic fermentative bacterium,
+Zymomonas mobil&, was able to convert glucose
+to ethanol in an aerated coculture with the fungus,
+Aspergillus awamori (Tanaka et al. 1986).
+In complex biofilms, anaerobic-aerobic cocultures
+can be maintained in 02 unlimited environments. Oxygen
+tolerant granular anaerobic sludge was able to convert
+from 3 to 25% of the ethanol substrate to methane
+69
+in 3 days while at least 23 to 2 mg L-1 of dissolved
+oxygen prevailed in the medium (Kato et al. 1993a).
+Methane was produced in conditions where the 02
+supply exceeded the substrate BOD supply by a factor
+of 11. This finding can only be explained by the
+occurrence of microaerophilic or anaerobic microniches
+deep inside the biofilm where the 02 content is so
+low that the aerobic respiration rate is limited due to
+the low oxygen flux. Ethanol and volatile fatty acids
+have higher aqueous solubilities than 02 and as such
+would consequently be expected to have higher diffusive
+mass transport into the biofilms than oxygen.
+Thus, these substrates could potentially penetrate the
+biofilm more than oxygen and be present in the anaerobic
+microniches at suitable concentrations. To test
+the hypothesis that methanogens can compete for substrate
+in 02 unlimited conditions for prolonged periods
+of time, methanogenic granular sludge was incubated
+in a repeated batch experiment with 18% 02 in the
+head space (Kato et al. 1993a). For 18 days, uptake of
+02 occurred simultaneously with methane production
+while the dissolved oxygen concentration in the bulk
+media fluctuated between 2 and 6 mg L- 1 (Fig. 9). By
+the 10th day of this experiment, the methane produced
+started to become consumed by aerobic methanotrophic
+bacteria which had developed in the coculture. After
+18 days of exposure to 02, healthy methanogenic activity
+was still evident when 02 was excluded from the
+head space. A conceptual model illustrating the aerobic
+and anaerobic zones in a sludge granule and the
+flow of substrates and products between these zones is
+illustrated in Fig. 10.
+Denitrification was also shown to occur in the
+anaerobic zones of biofilms recovered from an aerobic
+trickling filter treating municipal wastewater (Revsbech
+et al. 1989). The bulk liquid phase contained
+6.4 mg L-1 of dissolved oxygen. However at a depth
+of several hundred #m, 02 was no longer detectable.
+Micro-profiles of denitrification were generated by
+detecting N20 in biofilms where the further reduction
+of this denitrification intermediate was inhibited with
+acetylene. The results obtained with this technique
+illustrated that denitrification was located in the anaerobic
+zone between a biofilm depth of 400 to 2000 #m.
+Photosynthesis, promoted by exposing the biofilm to
+light, inhibited denitrification due to the endogenous
+dissolved oxygen formed deep in the biofilm. 
+70
+Biodegradation of pollutants in anaerobic-aerobic
+cocultures
+The occurrence of anaerobic zones in aerobic biofilms
+was initially viewed as a disadvantageous rate limitation
+in the overall kinetics of aerobic bioconversions.
+However, this disadvantage can now be used to
+promote the complete biodegradation of typical recalcitrant
+xenobiotic aromatic compounds characterized
+by electron-withdrawing substituents. The anaerobic
+zones that develop in the biofilms can be used to house
+microorganisms displaying anaerobic activity towards
+the reduction of these xenobiotic substituents. Concomitantly,
+microorganisms in the aerobic zones of the
+biofilm can be used to mineralize the reduced products,
+enabling the benefits of sequenced anaerobic-aerobic
+treatment in one bioreactor. Three examples are reported
+in the literature where the recalcitrant behaviour of
+aromatic pollutants was overcome in cocultures constructed
+from anaerobic and aerobic bacteria.
+In the first study, an anaerobic-aerobic coculture
+was applied to the degradation of a mixture of DDT
+and 4,4'-dichlorodiphenylmethane (DDM) (Beunick
+& Rehm 1988). A DDT dechlorinating bacterium,
+Enterobacter cloacae, isolated from digested sewage
+sludge was coimmobilized into calcium alginate beads
+together withAlcaligenes sp. strain Iso DPM4, an obligate
+aerobic bacterium that was able to cometabolize
+DDM with diphenylmethane as a primary substrate.
+The coculture placed into an aerated fermentor where
+the bulk liquid phase dissolved oxygen concentration
+ranged from 2.4 to 8 mg L -1, was able to simultaneously
+dechlorinate DDT and mineralize DDM. That
+dechlorination was possible under the aerobic conditions
+prevailing, was attributed to anaerobic microniches
+in the centre of the gel beads.
+In the second study, a similar coculture was constructed
+in calcium alginate beads for the biodegradation
+of 4-chloro-2-nitrophenol (4C2NP) (Beunink &
+Rehm 1990). E. cloacae was able to reduce 4C2NP
+to 4-chloro-2-aminophenol (4C2AP) and 4-chloro-2-
+acetaminophenol (4C2AAP) in anaerobic conditions.
+The obligate aerobe, Alcaligenes sp. strain TK2, was
+able to mineralize 4C2AP in aerobic conditions. While
+E. cloacae was unable to metabolize 4C2AP in either
+aerobic or anaerobic conditions and Alcaligenes sp.
+strain TK2 was unable to metabolize 4C2NP, the coculture
+immobilized in 3 mm diameter beads and placed
+in a well aerated airlift reactor was able to mineralize
+4C2NP completely to CO2, C1- and NH4 +. The distribution
+of each microorganism in the gel indicated
+that E. cloacae was present in the anaerobic core of
+the beads, while Alcaligenes was located in the aerobic
+outer periphery. Thus the complete mineralization
+can be rationalized by the migration of 4C2NP into the
+anaerobic zone and subsequent migration of 4C2AP
+and 4C2AAP to the aerobic zone. The importance of
+a thick bead diameter on the creation of anaerobic
+zones was illustrated by the lack of 4C2NP reduction
+in cocultures immobilized in small 1 mm diameter
+beads.
+In the third study, an anaerobic enrichment culture
+derived from fresh water sediments, which was able to
+dechlorinate 2,3,6-trichlorobenzoic acid (236TCBc) to
+2,5-dichlorobenzoic acid (25DCBc), was immobilized
+on a vermiculite support during continuous operation
+(Gerritse & Gottschal 1992). A 25DCBc mineralizing
+obligate aerobe, Pseudomonas aeruginosa was also
+introduced into the reactor. While the anaerobic enrichment
+culture alone was not able to further metabolize
+25DCBc and while P. aeruginosa in pure culture was
+not able to degrade 236TCBc, the aerated coculture
+was able to completely mineralize 236TCBc, with 95%
+recovery oforganochlorine as CI-. Reductive dechlorination
+of 236TCBc to 25DCBc apparently occurred in
+the immobilized biomass where anaerobic zones were
+most likely established. The further mineralization of
+25DCBc was most likely carried out by the free suspended
+cells of P aeruginosa in the bulk liquid phase.
+The dissolved oxygen concentration in the reactor bulk
+liquid ranged from 0.013 to 0.03 mg L -I .
+Conclusions
+Anaerobic and aerobic metabolic activities are a prerequisite
+for the complete biodegradation of recalcitrant
+aromatic pollutants which contain electronwithdrawing
+substituents. While aromatic pollutants
+with chloro, nitro and azo substituents are often recalcitrant
+or troublesome for oxygenolytic attack by aerobes,
+these substituents are readily reduced by both
+anaerobic microorganisms and by resting cells of aerobic
+microorganisms incubated anaerobically. In turn,
+the reduced products, such as lower chlorinated aromatics
+or aromatic amines, are persistent to further
+anaerobic degradation. However, they are readily mineralized
+by bacteria under aerobic conditions. Environmental
+biotechnology should therefore attempt to
+provide both anaerobic and aerobic environments in
+order to promote the mineralization of these xenobiotic
+pollutants. The anaerobic and aerobic environments 
+can be provided in sequenced reactors. However since
+anaerobic microniches are easily established in aerated
+biofilms, the best of both worlds can be obtained in
+a single bioreactor. Therefore, the recalcitrant nature
+of polychloro- and polynitro-aromatics as well as azo
+dyes can be overcome by utilizing anaerobic-aerobic
+cocultures.
+Polymerization of polyhydroxylated and chlorinated
+phenols as well as nitroaromatics and aromatic
+amines in aerobic environments is a second factor related
+to the aerobic recalcitrance of aromatic pollutants. If
+these compounds can be mineralized by anaerobic consortia,
+than anaerobic biotreatment is recommended in
+order to ensure complete biodegradation and prevent
+the formation of recalcitrant humic polymers. However,
+if these compounds are only modified in anaerobic
+environments by o-dealkylation and reduction of
+the substituents, the resulting products may even be
+more susceptible to polymerization in a subsequent
+aerobic enviromnent. Since polymerization has been
+shown to detoxify aromatic pollutants, the activation
+of aromatic pollutants for polymerization can potentially
+be encouraged by an anaerobic pretreatment step
+prior to oxidation. On the other hand, mineralization of
+polymerizable pollutants can possibly be achieved in
+anaerobic-aerobic cocultures. Pollutants activated by
+biotransformations in the anaerobic zone of the biofilm
+would migrate to the aerobic bacteria where they could
+be rapidly mineralized. In this manner, contact with
+the more oxidized bulk liquid phase, where these compounds
+would be susceptible to polymerization, could
+be avoided. 

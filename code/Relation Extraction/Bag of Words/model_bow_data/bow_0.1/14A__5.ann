@@ -1,0 +1,17 @@
+T1	Microbes 106 120	Proteobacteria
+T2	Microbes 136 147	Xanthomonas
+T3	Microbes 1000 1014	Proteobacteria
+T4	ReactionOrProcess 1320 1324	DGGE
+T5	ReactionOrProcess 1355 1359	DGGE
+T6	Substrate 1819 1828	petroleum
+T7	Substrate 1829 1841	hydrocarbons
+T8	Substrate 1829 1841	hydrocarbons
+T9	Substrate 1819 1841	petroleum hydrocarbons
+T10	Environment 2047 2052	soils
+T11	ReactionOrProcess 2314 2318	DGGE
+T12	Environment 2575 2592	cold-adapted soil
+T13	Environment 2588 2592	soil
+T14	ReactionOrProcess 3066 3075	oxidation
+T15	ReactionOrProcess 3355 3359	DGGE
+T16	Nutrient 3572 3578	carbon
+T17	Nutrient 3582 3590	nitrogen

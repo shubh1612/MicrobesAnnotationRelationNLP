@@ -1,0 +1,123 @@
+T1	Environment 198 204	marine
+T2	Environment 136 150	offshore spill
+T3	Substrate 77 80	oil
+T4	Environment 363 368	plume
+T5	Environment 359 368	oil plume
+T6	Substrate 350 362	deep-sea oil
+T7	Substrate 359 362	oil
+T8	Property 350 368	deep-sea oil plume
+T9	Environment 515 520	plume
+T10	Environment 547 552	plume
+T11	Environment 647 650	sea
+T12	Environment 642 650	deep sea
+T13	Substrate 441 474	aerobic and anaerobic hydrocarbon
+T14	Substrate 453 474	anaerobic hydrocarbon
+T15	Substrate 463 474	hydrocarbon
+T16	Property 623 634	attenuation
+T17	ReactionOrProcess 463 486	hydrocarbon degradation
+T18	ReactionOrProcess 597 611	bioremediation
+T19	ReactionOrProcess 587 611	intrinsic bioremediation
+T20	ReactionOrProcess 453 486	anaerobic hydrocarbon degradation
+T21	ReactionOrProcess 475 486	degradation
+T22	Environment 842 847	plume
+T23	Substrate 744 750	sulfur
+T24	Nutrient 714 720	carbon
+T25	Nutrient 722 730	nitrogen
+T26	Nutrient 755 759	iron
+T27	Nutrient 732 742	phosphorus
+T28	Environment 901 907	marine
+T29	Substrate 981 984	oil
+T30	ReactionOrProcess 963 977	biodegradation
+R1	CarriedOn Arg1:T30 Arg2:T29
+T31	Environment 1223 1228	plume
+T32	Substrate 1460 1469	crude oil
+T33	Substrate 1203 1206	oil
+T34	Substrate 1338 1341	oil
+T35	Substrate 1466 1469	oil
+T36	Substrate 1587 1590	Oil
+T37	Substrate 1795 1798	oil
+T38	Environment 1827 1832	plume
+T39	Environment 1823 1832	oil plume
+T40	Substrate 1812 1826	deep-water oil
+T41	Substrate 1823 1826	oil
+T42	ReactionOrProcess 2083 2094	degradation
+T43	ReactionOrProcess 2073 2094	microbial degradation
+T44	Environment 2159 2162	sea
+T45	Environment 2201 2220	offshore oil spills
+T46	Environment 2154 2162	deep sea
+T47	Substrate 2201 2213	offshore oil
+T48	Substrate 2210 2213	oil
+T49	Substrate 2293 2296	oil
+T50	Environment 2349 2355	marine
+T51	Substrate 2437 2440	oil
+T52	Property 2441 2453	contaminants
+T53	ReactionOrProcess 2422 2433	degradation
+R2	CarriedOn Arg1:T53 Arg2:T51
+T54	Environment 2626 2631	plume
+T55	Environment 2622 2631	oil plume
+T56	Substrate 2617 2625	deep oil
+T57	Substrate 2622 2625	oil
+T58	ReactionOrProcess 2598 2609	degradation
+R3	CarriedOn Arg1:T58 Arg2:T56
+R4	CarriedOn Arg1:T58 Arg2:T57
+T59	Environment 2776 2781	plume
+T60	Environment 2772 2781	oil plume
+T61	Substrate 2767 2775	deep oil
+T62	Substrate 2772 2775	oil
+T63	Environment 2987 2992	plume
+T64	Environment 3060 3065	plume
+T65	Environment 3022 3027	water
+T66	Property 2950 2970	chemical composition
+T67	Environment 3207 3210	sea
+T68	Environment 3202 3210	deep sea
+T69	Substrate 3094 3097	oil
+T70	ReactionOrProcess 3098 3107	depletion
+T71	ReactionOrProcess 3159 3173	biodegradation
+T72	Environment 3274 3279	plume
+T73	Environment 3298 3306	seawater
+T74	Environment 3281 3306	oil-contaminated seawater
+T75	Substrate 3455 3458	oil
+T76	Environment 4034 4040	marine
+T77	Substrate 4005 4008	oil
+T78	Substrate 4210 4213	oil
+T79	Environment 4320 4325	plume
+T80	Environment 4316 4325	oil plume
+T81	Substrate 4261 4272	hydrocarbon
+T82	Substrate 4316 4319	oil
+T83	ReactionOrProcess 4278 4289	degradation
+T84	Environment 4435 4441	marine
+T85	Substrate 4358 4361	oil
+T86	Substrate 4555 4558	oil
+T87	Environment 4762 4770	seawater
+T88	Substrate 5187 5190	oil
+T89	Property 4988 4997	dissolved
+T90	Environment 5335 5340	water
+T91	Environment 5489 5494	plume
+T92	Environment 5485 5494	oil plume
+T93	Substrate 5469 5488	MC252 dispersed oil
+T94	Substrate 5475 5488	dispersed oil
+T95	Substrate 5485 5488	oil
+T96	Property 5475 5484	dispersed
+T97	Environment 5673 5678	plume
+T98	Environment 5743 5751	seawater
+T99	Substrate 6026 6042	isopropylbenzene
+T100	Substrate 6146 6164	p-isopropyltoluene
+T101	Substrate 5994 6001	benzene
+T102	Substrate 6003 6010	toluene
+T103	Substrate 6198 6206	o-xylene
+T104	Substrate 5841 5848	nitrite
+T105	Substrate 6044 6059	n-propylbenzene
+T106	Substrate 6104 6126	1,2,4-trimethylbenzene
+T107	Substrate 6182 6193	naphthalene
+T108	Substrate 6012 6024	ethylbenzene
+T109	Substrate 6215 6224	p-xylenes
+T110	Substrate 6166 6180	n-butylbenzene
+T111	Substrate 5823 5830	ammonia
+T112	Substrate 5937 5940	oil
+T113	Substrate 5989 5992	oil
+T114	Substrate 6085 6102	tert-butylbenzene
+T115	Property 5781 5792	temperature
+T116	Nutrient 5831 5839	nitrogen
+T117	Nutrient 5864 5868	iron
+T118	Nutrient 5773 5779	oxygen
+T119	ReactionOrProcess 6327 6336	extracted

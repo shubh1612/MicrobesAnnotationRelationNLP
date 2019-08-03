@@ -1,0 +1,16 @@
+T1	Property 147 157	solubility
+T2	ReactionOrProcess 67 81	biodegradation
+T3	Nutrient 12 18	oxygen
+T4	Environment 319 330	groundwater
+T5	Substrate 415 422	benzene
+T6	Substrate 195 202	nitrate
+T7	Property 187 194	soluble
+T8	Property 288 300	denitrifying
+T9	ReactionOrProcess 405 434	efficient benzene degradation
+T10	ReactionOrProcess 288 300	denitrifying
+T11	ReactionOrProcess 423 434	degradation
+T12	Nutrient 217 234	electron acceptor
+T13	Environment 549 560	groundwater
+T14	Substrate 496 503	benzene
+T15	Property 590 598	alkaline
+T16	ReactionOrProcess 504 518	biodegradation

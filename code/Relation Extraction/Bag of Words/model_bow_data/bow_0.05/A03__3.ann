@@ -1,0 +1,67 @@
+T1	ReactionOrProcess 123 136	anaerobically
+T2	Environment 230 239	sediments
+T3	Environment 417 425	sediment
+T4	Property 307 318	crystalline
+T5	Substrate 503 511	ethylene
+T6	Property 566 579	concentration
+T7	Nutrient 427 434	Fe(III)
+T8	Property 688 702	concentrations
+T9	Environment 734 742	sediment
+T10	Substrate 758 762	MTBE
+T11	Substrate 767 770	TBA
+T12	Substrate 857 861	MTBE
+T13	Substrate 866 869	TBA
+T14	Property 839 853	concentrations
+T15	Environment 939 956	aquatic sediments
+T16	Environment 947 956	sediments
+T17	Environment 939 946	aquatic
+T18	Environment 939 956	aquatic sediments
+T19	Substrate 1039 1043	MTBE
+T20	Substrate 1048 1051	TBA
+T21	ReactionOrProcess 1015 1026	degradation
+R1	CarriedOn Arg1:T21 Arg2:T19
+R2	CarriedOn Arg1:T21 Arg2:T20
+T22	Property 1231 1237	purity
+T23	ReactionOrProcess 1446 1454	detector
+T24	Substrate 1520 1524	MTBE
+T25	Substrate 1529 1532	TBA
+T26	ReactionOrProcess 1649 1659	oxygenates
+T27	ReactionOrProcess 1505 1516	degradation
+R3	CarriedOn Arg1:T27 Arg2:T24
+R4	CarriedOn Arg1:T27 Arg2:T25
+T28	ReactionOrProcess 1754 1779	flame ionization detector
+T29	ReactionOrProcess 1771 1779	detector
+T30	ReactionOrProcess 1754 1770	flame ionization
+T31	Environment 1841 1850	sediments
+T32	Property 1781 1794	Concentration
+T33	Property 1781 1795	Concentrations
+T34	Environment 2000 2009	sediments
+T35	Environment 1992 1999	aquifer
+T36	Substrate 1948 1952	MTBE
+T37	ReactionOrProcess 1938 1964	anaerobic MTBE degradation
+T38	ReactionOrProcess 1953 1964	degradation
+T39	Substrate 2060 2064	MTBE
+T40	Substrate 2116 2120	MTBE
+T41	ReactionOrProcess 2065 2076	degradation
+T42	Environment 2175 2184	sediments
+T43	Environment 2219 2228	sediments
+T44	Substrate 2153 2157	MTBE
+T45	Property 2259 2270	crystalline
+T46	Substrate 2408 2412	MTBE
+T47	Nutrient 2388 2390	HS
+T48	Substrate 2484 2488	MTBE
+T49	Environment 2525 2534	sediments
+T50	Substrate 2631 2635	MTBE
+T51	Substrate 2662 2666	MTBE
+T52	Substrate 2578 2582	MTBE
+T53	Environment 2906 2914	sediment
+T54	Substrate 2883 2887	MTBE
+T55	ReactionOrProcess 2906 2926	sediment degradation
+T56	ReactionOrProcess 2915 2926	degradation
+T57	Environment 3045 3053	sediment
+T58	Environment 3037 3044	aquifer
+T59	Substrate 2992 2996	MTBE
+T60	Substrate 3117 3121	MTBE
+T61	ReactionOrProcess 3013 3022	replicate
+T62	ReactionOrProcess 3054 3064	enrichment
+T63	Nutrient 3157 3173	humic substances

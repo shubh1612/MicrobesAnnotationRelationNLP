@@ -1,0 +1,66 @@
+T1	Property 42 50	aromatic
+T2	Substrate 361 379	aromatic compounds
+T3	Substrate 361 379	aromatic compounds
+T4	Property 361 369	aromatic
+T5	ReactionOrProcess 339 350	degradation
+T6	ReactionOrProcess 329 350	anaerobic degradation
+T7	Substrate 866 887	anaerobic hydrocarbon
+T8	Substrate 876 887	hydrocarbon
+T9	ReactionOrProcess 876 899	hydrocarbon degradation
+T10	ReactionOrProcess 866 899	anaerobic hydrocarbon degradation
+T11	ReactionOrProcess 888 899	degradation
+T12	Substrate 1427 1448	aromatic hydrocarbons
+T13	Substrate 1427 1448	aromatic hydrocarbons
+T14	Substrate 1239 1248	n-alkanes
+T15	Substrate 1436 1448	hydrocarbons
+T16	Substrate 1436 1448	hydrocarbons
+T17	Property 1427 1435	aromatic
+T18	Substrate 1691 1711	aromatic hydrocarbon
+T19	Substrate 1677 1711	aliphatic and aromatic hydrocarbon
+T20	Substrate 1700 1711	hydrocarbon
+T21	Property 1691 1699	aromatic
+T22	ReactionOrProcess 1700 1723	hydrocarbon degradation
+T23	ReactionOrProcess 1691 1723	aromatic hydrocarbon degradation
+T24	ReactionOrProcess 1712 1723	degradation
+T25	Environment 1951 1959	sediment
+T26	Environment 1989 1997	sediment
+T27	Microbes 2473 2490	Thauera aromatica
+T28	Microbes 2500 2508	Azoarcus
+T29	ReactionOrProcess 2367 2373	BlastN
+R1	CarriedOn Arg1:T29 Arg2:T28
+T30	ReactionOrProcess 2573 2579	BlastN
+T31	Environment 2786 2794	sediment
+T32	ReactionOrProcess 2849 2852	PCR
+T33	Substrate 2962 2976	alkylsuccinate
+T34	Substrate 3046 3057	hydrocarbon
+T35	Substrate 3321 3329	n-alkane
+T36	Substrate 3321 3342	n-alkane hydrocarbons
+T37	Substrate 3330 3342	hydrocarbons
+T38	Substrate 3330 3342	hydrocarbons
+T39	Substrate 3309 3342	aromatic or n-alkane hydrocarbons
+T40	Substrate 3321 3342	n-alkane hydrocarbons
+T41	Property 3309 3317	aromatic
+T42	Substrate 3439 3446	alkanes
+T43	Substrate 3433 3446	chain alkanes
+T44	Nutrient 3464 3470	carbon
+T45	Substrate 3626 3642	branched alkanes
+T46	Substrate 3635 3642	alkanes
+T47	Substrate 3675 3683	n-Alkane
+T48	Substrate 3697 3709	hydrocarbons
+T49	Substrate 3697 3709	hydrocarbons
+T50	Substrate 3688 3696	n-alkene
+T51	Substrate 3919 3933	Alkylsuccinate
+T52	Substrate 4021 4030	n-alkanes
+T53	ReactionOrProcess 3993 4017	anaerobic biodegradation
+T54	ReactionOrProcess 4003 4017	biodegradation
+R2	CarriedOn Arg1:T53 Arg2:T52
+R3	CarriedOn Arg1:T54 Arg2:T52
+T55	Substrate 4588 4621	aerobic and anaerobic hydrocarbon
+T56	Substrate 4600 4621	anaerobic hydrocarbon
+T57	Substrate 4610 4621	hydrocarbon
+T58	Environment 4899 4907	sediment
+T59	Environment 5057 5065	sediment
+T60	Environment 5033 5065	oligotrophic subsurface sediment
+T61	Environment 4883 4907	deep-subsurface sediment
+T62	Environment 5046 5056	subsurface
+T63	Environment 5046 5065	subsurface sediment

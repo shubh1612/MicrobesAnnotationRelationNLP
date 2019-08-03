@@ -1,0 +1,85 @@
+T1	Environment 77 92	soil microcosms
+T2	Environment 82 92	microcosms
+T3	Environment 77 81	soil
+T4	Substrate 44 52	gasoline
+T5	ReactionOrProcess 53 67	biodegradation
+T6	Environment 169 173	soil
+T7	Substrate 141 149	gasoline
+T8	Microbes 248 266	Pseudomonas putida
+T9	ReactionOrProcess 401 412	degradation
+T10	Microbes 494 505	alcaligenes
+T11	Microbes 460 480	Burkholderia cepacia
+T12	Microbes 482 505	Pseudomonas alcaligenes
+T13	Microbes 440 458	Pseudomonas putida
+T14	Environment 514 525	native soil
+T15	Environment 514 536	native soil microflora
+T16	Environment 521 525	soil
+T17	Substrate 637 648	n-tridecane
+T18	Substrate 596 606	n-undecane
+T19	Substrate 615 625	n-dodecane
+T20	ReactionOrProcess 753 767	bioremediation
+T21	Environment 801 805	soil
+T22	Environment 810 817	aquifer
+T23	Substrate 829 837	gasoline
+T24	Substrate 829 850	gasoline hydrocarbons
+T25	Substrate 838 850	hydrocarbons
+T26	Substrate 829 850	gasoline hydrocarbons
+T27	Substrate 838 850	hydrocarbons
+T28	Environment 1027 1032	water
+T29	Substrate 937 951	major gasoline
+T30	Substrate 943 951	gasoline
+T31	Substrate 975 982	toluene
+T32	Substrate 987 993	xylene
+T33	Property 1058 1069	carcinogens
+T34	Property 1016 1023	soluble
+T35	Environment 1097 1102	water
+T36	Environment 1228 1239	groundwater
+T37	Environment 1219 1223	soil
+T38	Environment 1264 1268	soil
+T39	Substrate 1205 1213	gasoline
+T40	ReactionOrProcess 1276 1286	extraction
+T41	ReactionOrProcess 1309 1323	bioremediation
+T42	ReactionOrProcess 1264 1286	soil vapour extraction
+T43	ReactionOrProcess 1250 1262	air-sparging
+T44	Environment 1383 1401	contaminated sites
+T45	Environment 1485 1509	treatments separate soil
+T46	Environment 1505 1509	soil
+T47	Environment 1496 1509	separate soil
+T48	Property 1514 1526	contaminants
+T49	Environment 1675 1679	soil
+T50	Substrate 1644 1656	hydrocarbons
+T51	Substrate 1644 1656	hydrocarbons
+T52	Property 1830 1842	contaminants
+T53	Environment 2000 2018	contaminated sites
+T54	Property 2086 2096	pollutants
+T55	ReactionOrProcess 1938 1952	Bioremediation
+T56	Property 2314 2323	pollutant
+T57	ReactionOrProcess 2292 2306	mineralization
+T58	Property 2524 2534	pollutants
+T59	ReactionOrProcess 2512 2519	degrade
+T60	ReactionOrProcess 2586 2597	degradation
+T61	Environment 2726 2743	unsterilized soil
+T62	Environment 2739 2743	soil
+T63	Substrate 2673 2681	gasoline
+T64	ReactionOrProcess 2744 2754	inoculated
+T65	ReactionOrProcess 2655 2669	biodegradation
+R1	CarriedOn Arg1:T65 Arg2:T63
+T66	Environment 2889 2900	gas station
+T67	Substrate 2801 2809	gasoline
+T68	Substrate 2962 2969	ethanol
+T69	Substrate 2937 2945	gasoline
+T70	Substrate 2927 2945	Brazilian gasoline
+T71	ReactionOrProcess 3072 3087	chromatographic
+T72	Environment 3102 3106	soil
+T73	Substrate 3140 3148	gasoline
+T74	Environment 3190 3201	Soil sample
+T75	Environment 3190 3202	Soil samples
+T76	Environment 3190 3194	Soil
+T77	ReactionOrProcess 3262 3274	hand digging
+T78	Environment 3290 3294	soil
+T79	ReactionOrProcess 3413 3427	biodegradation
+T80	Environment 3446 3450	soil
+T81	ReactionOrProcess 3473 3479	sieved
+T82	Environment 3688 3693	water
+T83	Property 3688 3710	water holding capacity
+T84	Environment 3789 3793	soil

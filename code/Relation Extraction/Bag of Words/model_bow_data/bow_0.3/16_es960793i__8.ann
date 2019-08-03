@@ -1,0 +1,128 @@
+T1	Environment 124 134	oily soils
+T2	Environment 124 134	oily soils
+T3	Environment 129 134	soils
+T4	Property 71 82	luminescent
+T5	Environment 268 287	bioremediated soils
+T6	Environment 282 287	soils
+T7	Environment 268 287	bioremediated soils
+T8	Environment 435 445	oily soils
+T9	Environment 435 445	oily soils
+T10	Environment 440 445	soils
+T11	ReactionOrProcess 521 535	bioremediation
+T12	ReactionOrProcess 494 503	bioassays
+T13	Environment 577 592	untreated soils
+T14	Environment 587 592	soils
+T15	Environment 577 592	untreated soils
+T16	Substrate 760 770	crude oils
+T17	Substrate 760 770	crude oils
+T18	Substrate 754 770	light crude oils
+T19	Substrate 721 724	TPH
+T20	Substrate 766 770	oils
+T21	Environment 866 879	control soils
+T22	Environment 809 828	bioremediated soils
+T23	Environment 823 828	soils
+T24	Environment 874 879	soils
+T25	Environment 809 828	bioremediated soils
+T26	Substrate 898 907	crude oil
+T27	Substrate 904 907	oil
+T28	Environment 1141 1151	oily soils
+T29	Environment 1013 1032	bioremediated soils
+T30	Environment 1141 1151	oily soils
+T31	Environment 1027 1032	soils
+T32	Environment 1146 1151	soils
+T33	Environment 1013 1032	bioremediated soils
+T34	Substrate 963 966	TPH
+T35	Property 954 962	residual
+T36	Environment 1193 1203	oily soils
+T37	Environment 1193 1203	oily soils
+T38	Environment 1410 1414	soil
+T39	Environment 1198 1203	soils
+T40	Environment 1401 1414	oil-free soil
+T41	Substrate 1285 1295	crude oils
+T42	Substrate 1285 1295	crude oils
+T43	Substrate 1278 1295	medium crude oils
+T44	Substrate 1291 1295	oils
+T45	Environment 1472 1491	bioremediated soils
+T46	Environment 1486 1491	soils
+T47	Environment 1472 1491	bioremediated soils
+T48	Substrate 1517 1526	crude oil
+T49	Substrate 1527 1539	hydrocarbons
+T50	Substrate 1517 1539	crude oil hydrocarbons
+T51	Substrate 1527 1539	hydrocarbons
+T52	Substrate 1523 1526	oil
+T53	Substrate 1517 1539	crude oil hydrocarbons
+T54	Environment 1694 1699	sandy
+T55	Environment 1705 1709	soil
+T56	Environment 1694 1709	sandy peat soil
+T57	Substrate 1726 1729	oil
+T58	Property 1694 1699	sandy
+T59	Environment 1798 1802	soil
+T60	Substrate 1785 1794	crude oil
+T61	Substrate 1791 1794	oil
+T62	Property 1767 1780	Concentration
+T63	Property 1767 1781	Concentrations
+T64	Environment 1950 1955	soils
+T65	Substrate 2111 2120	polar oil
+T66	Substrate 2019 2022	oil
+T67	Substrate 2117 2120	oil
+T68	Environment 2272 2287	untreated soils
+T69	Environment 2282 2287	soils
+T70	Environment 2272 2287	untreated soils
+T71	Substrate 2310 2320	light oils
+T72	Substrate 2316 2320	oils
+T73	Environment 2460 2464	soil
+T74	Environment 2451 2464	oil-free soil
+T75	ReactionOrProcess 2340 2354	bioremediation
+T76	Environment 2531 2535	soil
+T77	Substrate 2570 2580	light oils
+T78	Substrate 2576 2580	oils
+T79	ReactionOrProcess 2493 2503	inhibition
+R1	CarriedOn Arg1:T79 Arg2:T77
+R2	CarriedOn Arg1:T79 Arg2:T78
+T80	Environment 2699 2704	soils
+T81	Substrate 2694 2697	oil
+T82	ReactionOrProcess 2587 2596	reduction
+R3	CarriedOn Arg1:T82 Arg2:T81
+T83	Substrate 2745 2754	petroleum
+T84	Substrate 2777 2781	BTEX
+T85	Substrate 2734 2754	undegraded petroleum
+T86	Substrate 2850 2859	petroleum
+T87	Substrate 2860 2872	hydrocarbons
+T88	Substrate 2860 2872	hydrocarbons
+T89	Substrate 2850 2872	petroleum hydrocarbons
+T90	Substrate 3034 3046	hydrocarbons
+T91	Substrate 3028 3046	light hydrocarbons
+T92	Substrate 3028 3046	light hydrocarbons
+T93	Substrate 3065 3074	aromatics
+T94	Substrate 3034 3046	hydrocarbons
+T95	Property 3010 3024	concentrations
+T96	Property 3065 3074	aromatics
+T97	Environment 3364 3368	soil
+T98	Substrate 3426 3437	diesel fuel
+T99	Substrate 3418 3421	oil
+T100	Substrate 3426 3432	diesel
+T101	Substrate 3564 3574	crude oils
+T102	Substrate 3564 3574	crude oils
+T103	Substrate 3570 3574	oils
+T104	Substrate 3558 3574	heavy crude oils
+T105	Substrate 3558 3574	heavy crude oils
+T106	Substrate 3793 3814	residual hydrocarbons
+T107	Substrate 3802 3814	hydrocarbons
+T108	Substrate 3802 3814	hydrocarbons
+T109	Substrate 3793 3814	residual hydrocarbons
+T110	Property 3793 3801	residual
+T111	ReactionOrProcess 3679 3687	degraded
+R4	CarriedOn Arg1:T111 Arg2:T106
+R5	CarriedOn Arg1:T111 Arg2:T107
+R6	CarriedOn Arg1:T111 Arg2:T108
+R7	CarriedOn Arg1:T111 Arg2:T109
+T112	Environment 3940 3945	soils
+T113	Substrate 3982 4003	residual hydrocarbons
+T114	Substrate 3991 4003	hydrocarbons
+T115	Substrate 3991 4003	hydrocarbons
+T116	Substrate 3982 4003	residual hydrocarbons
+T117	Property 3982 3990	residual
+T118	Environment 4189 4193	soil
+T119	Substrate 4112 4123	hydrocarbon
+T120	Substrate 4181 4184	oil
+T121	Property 4200 4213	concentration

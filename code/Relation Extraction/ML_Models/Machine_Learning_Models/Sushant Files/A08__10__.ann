@@ -1,0 +1,51 @@
+T1	Environment 142 151	sediments
+T2	Substrate 156 159	oil
+T3	ReactionOrProcess 62 86	anaerobic bioremediation
+T4	Substrate 640 662	biological hydrocarbon
+T5	Substrate 526 538	hydrocarbons
+T6	Substrate 861 872	hydrocarbon
+T7	Property 778 795	anoxic conditions
+T8	Substrate 1066 1073	alkanes
+T9	Substrate 1038 1050	hydrocarbons
+T10	Substrate 1201 1208	alkanes
+T11	Substrate 1223 1244	reactive hydrocarbons
+T12	Substrate 1386 1393	Alkanes
+T13	Nutrient 1506 1510	H2O2
+T14	Substrate 1707 1714	alkanes
+T15	Substrate 2151 2158	alkanes
+T16	Substrate 2554 2561	alkanes
+T17	Nutrient 2457 2463	oxygen
+T18	Enzyme 2624 2638	Monooxygenases
+T19	ReactionOrProcess 2764 2773	oxidation
+T20	Nutrient 2741 2745	iron
+T21	Enzyme 2994 3007	monooxygenase
+T22	Enzyme 2956 2970	monooxygenases
+T23	ReactionOrProcess 2863 2872	reduction
+T24	Nutrient 2830 2836	oxygen
+T25	Substrate 3303 3310	methane
+T26	Nutrient 3014 3020	oxygen
+T27	Substrate 3334 3341	alkanes
+T28	Property 3371 3383	temperatures
+T29	ReactionOrProcess 3342 3355	anaerobically
+T30	ReactionOrProcess 3518 3527	oxidation
+T31	ReactionOrProcess 3393 3401	reducing
+T32	ReactionOrProcess 3454 3463	oxidizing
+T33	ReactionOrProcess 3326 3333	oxidize
+T34	Nutrient 3538 3542	iron
+T35	Nutrient 3495 3501	oxygen
+T36	Substrate 3898 3909	methanogens
+T37	Substrate 4141 4153	hydrocarbons
+T38	Substrate 4177 4201	polar aromatic compounds
+T39	Substrate 4247 4258	hydrocarbon
+T40	Substrate 4656 4663	alkanes
+T41	Substrate 4520 4527	methane
+T42	ReactionOrProcess 4497 4516	anaerobic oxidation
+T43	ReactionOrProcess 4857 4871	methanogenesis
+T44	ReactionOrProcess 4891 4905	methanogenesis
+T45	Substrate 5066 5073	methane
+T46	Substrate 5203 5210	methane
+T47	Substrate 5241 5248	methane
+T48	Substrate 5484 5491	methane
+R1	Inhibit_Catalyse Arg1:T18 Arg2:T19
+R2	Inhibit_Catalyse Arg1:T21 Arg2:T23
+R3	Inhibit_Catalyse Arg1:T22 Arg2:T23

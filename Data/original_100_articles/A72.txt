@@ -1,0 +1,9 @@
+A72
+Chapter 3 - Microbial Naphthenic Acid Degradation
+. Author links open the author workspace.CorinneWhitby
+Department of Biological Sciences, University of Essex, Wivenhoe Park, Colchester, Essex, CO4 3SQ, United Kingdom
+Show more
+https://doi.org/10.1016/S0065-2164(10)70003-4Get rights and content
+Abstract
+
+Naphthenic acids (NAs) are an important group of trace organic pollutants predominantly comprising saturated aliphatic and alicyclic carboxylic acids. NAs are ubiquitous; occurring naturally in hydrocarbon deposits (petroleum, oil sands, bitumen, and crude oils) and also have widespread industrial uses. Consequently, NAs can enter the environment from both natural and anthropogenic processes. NAs are highly toxic, recalcitrant compounds that persist in the environment for many years, and it is important to develop efficient bioremediation strategies to decrease both their abundance and toxicity in the environment. However, the diversity of microbial communities involved in NA-degradation, and the mechanisms by which NAs are biodegraded, are poorly understood. This lack of knowledge is mainly due to the difficulties in identifying and purifying individual carboxylic acid compounds from complex NA mixtures found in the environment, for microbial biodegradation studies. This paper will present an overview of NAs, their origin and fate in the environment, and their toxicity to the biota. The review describes the microbial degradation of both naturally occurring and chemically synthesized NAs. Proposed pathways for aerobic NA biodegradation, factors affecting NA biodegradation rates, and possible bioremediation strategies are also discussed.

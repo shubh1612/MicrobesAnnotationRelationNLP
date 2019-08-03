@@ -1,0 +1,63 @@
+T1	ReactionOrProcess 35 46	degradation
+T2	Substrate 322 340	aromatic compounds
+T3	Substrate 322 340	aromatic compounds
+T4	Property 322 330	aromatic
+T5	ReactionOrProcess 307 318	degradation
+R1	CarriedOn Arg1:T5 Arg2:T2
+R2	CarriedOn Arg1:T5 Arg2:T3
+T6	Substrate 442 451	aromatics
+T7	Property 442 451	aromatics
+T8	ReactionOrProcess 452 463	degradation
+T9	Microbes 566 608	known aromatic compound-utilizing bacteria
+T10	Property 572 580	aromatic
+T11	ReactionOrProcess 510 530	complete degradation
+T12	ReactionOrProcess 519 530	degradation
+T13	Substrate 1078 1096	aromatic compounds
+T14	Substrate 972 978	phenol
+T15	Substrate 1013 1019	phenol
+T16	Substrate 1078 1096	aromatic compounds
+T17	Property 1078 1086	aromatic
+T18	Property 917 923	stable
+T19	ReactionOrProcess 1060 1074	detoxification
+T20	ReactionOrProcess 979 990	degradation
+R3	CarriedOn Arg1:T19 Arg2:T13
+R4	CarriedOn Arg1:T19 Arg2:T16
+R5	CarriedOn Arg1:T20 Arg2:T13
+R6	CarriedOn Arg1:T20 Arg2:T16
+T21	Substrate 1268 1286	aromatic compounds
+T22	Substrate 1440 1458	aromatic compounds
+T23	Substrate 1268 1286	aromatic compounds
+T24	Substrate 1440 1458	aromatic compounds
+T25	Property 1268 1276	aromatic
+T26	Property 1440 1448	aromatic
+T27	Nutrient 1310 1316	carbon
+T28	Nutrient 1477 1483	carbon
+T29	Property 1592 1600	aromatic
+T30	ReactionOrProcess 1592 1612	aromatic degradation
+T31	ReactionOrProcess 1582 1612	bacterial aromatic degradation
+T32	ReactionOrProcess 1601 1612	degradation
+T33	Substrate 1851 1869	aromatic compounds
+T34	Substrate 1851 1869	aromatic compounds
+T35	Property 1851 1859	aromatic
+T36	Property 1873 1881	aromatic
+T37	Property 2020 2028	aromatic
+T38	ReactionOrProcess 1910 1923	hydroxylation
+T39	Nutrient 1996 2002	oxygen
+T40	Substrate 2251 2269	aromatic compounds
+T41	Substrate 2251 2269	aromatic compounds
+T42	Property 2251 2259	aromatic
+T43	ReactionOrProcess 2657 2665	degraded
+T44	Property 3236 3244	Aromatic
+T45	ReactionOrProcess 3245 3255	catabolism
+T46	Substrate 4119 4128	aromatics
+T47	Property 4009 4017	aromatic
+T48	Property 4119 4128	aromatics
+T49	Nutrient 4143 4149	carbon
+T50	Substrate 4278 4296	aromatic compounds
+T51	Substrate 4278 4296	aromatic compounds
+T52	Property 4278 4286	aromatic
+T53	ReactionOrProcess 4270 4277	degrade
+T54	Substrate 4363 4372	aromatics
+T55	Property 4363 4372	aromatics
+T56	ReactionOrProcess 4373 4383	catabolism
+T57	ReactionOrProcess 4741 4744	PCR

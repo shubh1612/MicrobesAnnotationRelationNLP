@@ -1,0 +1,66 @@
+T1	ReactionOrProcess 57 68	reamplified
+T2	ReactionOrProcess 48 52	DGGE
+T3	ReactionOrProcess 13 16	PCR
+T4	Microbes 216 230	Geobacteraceae
+T5	Environment 207 215	sediment
+T6	ReactionOrProcess 187 203	MPN-PCR analysis
+T7	Microbes 252 266	Geobacteraceae
+T8	Environment 283 300	methanogenic site
+T9	ReactionOrProcess 232 248	MPN-PCR analysis
+T10	Property 505 524	secondary structure
+T11	ReactionOrProcess 812 816	PLFA
+T12	Environment 853 861	sediment
+T13	Environment 992 1000	sediment
+T14	Property 1066 1077	temperature
+T15	ReactionOrProcess 1014 1024	sonication
+T16	ReactionOrProcess 838 847	extracted
+T17	ReactionOrProcess 1039 1049	incubation
+T18	ReactionOrProcess 827 832	PLFAs
+T19	Environment 1122 1130	sediment
+T20	ReactionOrProcess 1134 1148	centrifugation
+T21	Environment 1196 1204	sediment
+T22	Substrate 1232 1250	methylene chloride
+T23	ReactionOrProcess 1209 1215	washed
+T24	Environment 1357 1362	water
+T25	ReactionOrProcess 1468 1482	centrifugation
+T26	ReactionOrProcess 1525 1534	pipetting
+T27	ReactionOrProcess 1607 1619	fractionated
+T28	ReactionOrProcess 1657 1661	PLFA
+T29	Microbes 1933 1947	Geobacteraceae
+T30	ReactionOrProcess 1985 2014	anaerobic benzene degradation
+T31	Microbes 2085 2099	Geobacteraceae
+T32	Substrate 2221 2228	benzene
+T33	Property 2120 2137	benzene-oxidizing
+T34	ReactionOrProcess 2229 2240	degradation
+T35	Environment 2496 2503	aquifer
+T36	Substrate 2463 2470	benzene
+T37	ReactionOrProcess 2471 2480	oxidation
+T38	ReactionOrProcess 2373 2387	lipid analysis
+T39	ReactionOrProcess 2393 2410	culturing studies
+T40	ReactionOrProcess 2314 2328	biodegradation
+T41	Property 2635 2652	benzene-oxidizing
+T42	Microbes 2735 2749	Geobacteraceae
+T43	Substrate 2688 2695	benzene
+T44	ReactionOrProcess 2696 2710	mineralization
+T45	Environment 2831 2850	uncontaminated site
+T46	Environment 2862 2884	methanogenic sediments
+T47	ReactionOrProcess 2751 2783	Anaerobic benzene mineralization
+T48	Environment 3052 3061	sediments
+T49	Substrate 3041 3048	benzene
+T50	ReactionOrProcess 3103 3132	slight benzene mineralization
+T51	ReactionOrProcess 2996 3010	mineralization
+T52	Microbes 3277 3291	Geobacteraceae
+T53	Environment 3311 3333	methanogenic sediments
+T54	ReactionOrProcess 3178 3194	MPN-PCR analysis
+T55	Microbes 3395 3409	Geobacteraceae
+T56	Microbes 3697 3711	Geobacteraceae
+T57	ReactionOrProcess 3747 3751	PLFA
+T58	Environment 3938 3957	uncontaminated site
+T59	Property 3790 3804	concentrations
+T60	ReactionOrProcess 3785 3789	PLFA
+R1	FoundIn Arg1:T4 Arg2:T5
+R2	FoundIn Arg1:T7 Arg2:T8
+R3	Of Arg1:T31 Arg2:T33
+R4	ActOn Arg1:T31 Arg2:T32
+R5	ActOn Arg1:T42 Arg2:T43
+R6	FoundIn Arg1:T52 Arg2:T53

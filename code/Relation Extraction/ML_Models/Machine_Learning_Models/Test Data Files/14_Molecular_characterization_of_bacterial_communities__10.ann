@@ -1,0 +1,61 @@
+T1 Substrate 22 29 benzene
+T2 Substrate 118 125 benzene
+T3 Property 286 300 concentrations
+T4 ReactionOrProcess 102 114 fermentation
+T5 Microbes 423 433 Syntrophus
+T6 Microbes 953 966 Desulfovibrio
+T7 Substrate 796 803 benzene
+T8 Property 853 860 reducer
+T9 Microbes 983 993 consortium
+T10 Environment 978 982 sand
+T11 Property 1087 1103 sulfate-reducing
+T12 Microbes 1500 1517 Cryptanaerobacter
+T13 Substrate 1547 1554 benzene
+T14 Substrate 1664 1671 benzene
+T15 Property 1224 1232 reducers
+T16 ReactionOrProcess 1672 1683 degradation
+T17 Microbes 1726 1736 consortium
+T18 Substrate 1793 1800 benzene
+T19 Property 1762 1770 aromatic
+T20 Microbes 1996 2013 Cryptanaerobacter
+T21 Microbes 2110 2120 consortium
+T22 Substrate 1946 1953 benzene
+T23 ReactionOrProcess 2071 2081 enrichment
+T24 ReactionOrProcess 2155 2161 T-RFLP
+T25 ReactionOrProcess 2370 2376 T-RFLP
+T26 Microbes 2474 2491 Cryptanaerobacter
+T27 Substrate 2537 2544 benzene
+T28 Substrate 2777 2784 benzene
+T29 Substrate 2820 2827 benzene
+T30 Substrate 2917 2924 benzene
+T31 Property 2792 2810 sole carbon source
+T32 ReactionOrProcess 2903 2913 incubation
+T33 ReactionOrProcess 2828 2839 degradation
+T34 Environment 3129 3133 sand
+T35 ReactionOrProcess 3091 3120 anaerobic benzene degradation
+T36 Microbes 3221 3238 Cryptanaerobacter
+T37 Microbes 3271 3290 Deltaproteobacteria
+T38 Environment 3583 3587 sand
+T39 Environment 3654 3658 sand
+T40 ReactionOrProcess 3873 3884 degradation
+T41 Environment 4261 4272 Groundwater
+T42 Environment 4316 4320 sand
+T43 ReactionOrProcess 4273 4284 Remediation
+R2 CarriedOn Arg1:T4 Arg2:T2
+R4 ActOn Arg1:T6 Arg2:T7
+R7 ActOn Arg1:T12 Arg2:T13
+R11 CarriedOn Arg1:T16 Arg2:T14
+R13 ActOn Arg1:T17 Arg2:T18
+R16 CarriedOn Arg1:T23 Arg2:T20
+R17 CarriedOn Arg1:T23 Arg2:T21
+R18 CarriedOn Arg1:T23 Arg2:T22
+R19 ActOn Arg1:T26 Arg2:T27
+R20 CarriedOn Arg1:T32 Arg2:T28
+R21 CarriedOn Arg1:T32 Arg2:T29
+R22 CarriedOn Arg1:T32 Arg2:T30
+R23 CarriedOn Arg1:T33 Arg2:T28
+R24 CarriedOn Arg1:T33 Arg2:T29
+R25 CarriedOn Arg1:T33 Arg2:T30
+R26 OccursIn Arg1:T35 Arg2:T34
+R27 OccursIn Arg1:T43 Arg2:T41
+R28 OccursIn Arg1:T43 Arg2:T42

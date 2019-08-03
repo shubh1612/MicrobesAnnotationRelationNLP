@@ -1,0 +1,32 @@
+T1	Substrate 118 121	oil
+T2	ReactionOrProcess 272 285	DGGE analysis
+T3	Microbes 750 773	Alcanivorax borkumensis
+T4	Microbes 638 658	Pseudomonas stutzeri
+T5	ReactionOrProcess 521 527	cloned
+T6	ReactionOrProcess 829 836	excised
+T7	ReactionOrProcess 844 848	DGGE
+T8	ReactionOrProcess 1017 1021	DGGE
+T9	ReactionOrProcess 1195 1228	effective hydrocarbon degradation
+T10	ReactionOrProcess 1244 1248	DGGE
+T11	ReactionOrProcess 1394 1398	DGGE
+T12	ReactionOrProcess 1517 1521	DGGE
+T13	ReactionOrProcess 1640 1647	excised
+T14	ReactionOrProcess 1657 1661	DGGE
+T15	ReactionOrProcess 1883 1887	DGGE
+T16	Substrate 2325 2328	oil
+T17	Property 2429 2439	fertilized
+T18	ReactionOrProcess 2333 2341	degraded
+T19	ReactionOrProcess 2587 2598	degradation
+T20	ReactionOrProcess 2509 2524	oil degradation
+T21	ReactionOrProcess 2692 2715	hydrocarbon degradation
+T22	Substrate 2823 2826	oil
+T23	ReactionOrProcess 2848 2856	degraded
+T24	Substrate 3027 3030	oil
+T25	Nutrient 2965 2971	carbon
+T26	Substrate 3116 3119	oil
+T27	Substrate 3224 3227	oil
+T28	ReactionOrProcess 3199 3213	bioremediation
+T29	ReactionOrProcess 3351 3365	bioremediation
+T30	ReactionOrProcess 3399 3414	oil degradation
+T31	Substrate 3778 3781	oil
+T32	ReactionOrProcess 3788 3802	bioremediation

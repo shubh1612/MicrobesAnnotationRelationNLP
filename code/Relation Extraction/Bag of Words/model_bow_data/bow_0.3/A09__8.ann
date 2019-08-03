@@ -1,0 +1,47 @@
+T1	Substrate 146 149	oil
+T2	Environment 404 418	pristine sands
+T3	Environment 404 418	pristine sands
+T4	Environment 370 391	clean Pensacola sands
+T5	Environment 349 354	Beach
+T6	Environment 349 360	Beach sands
+T7	Environment 355 360	sands
+T8	Environment 386 391	sands
+T9	Environment 413 418	sands
+T10	Environment 720 724	sand
+T11	Environment 1017 1022	beach
+T12	Environment 1017 1028	beach sands
+T13	Environment 1023 1028	sands
+T14	Substrate 1267 1270	oil
+T15	Environment 1350 1355	beach
+T16	Environment 1350 1361	beach sands
+T17	Environment 1356 1361	sands
+T18	Substrate 1521 1531	visual oil
+T19	Substrate 1528 1531	oil
+T20	Microbes 1712 1731	Gammaproteobacteria
+T21	Microbes 1736 1755	Alphaproteobacteria
+T22	Environment 1779 1784	beach
+T23	Environment 1779 1789	beach sand
+T24	Environment 1785 1789	sand
+T25	Substrate 1817 1820	oil
+T26	Microbes 1873 1887	Actinobacteria
+T27	Microbes 1849 1868	Alphaproteobacteria
+T28	Microbes 2142 2158	Rhodobacteraceae
+T29	Microbes 2075 2094	Alphaproteobacteria
+T30	Environment 2388 2393	Beach
+T31	Environment 2388 2398	Beach sand
+T32	Environment 2394 2398	sand
+T33	Substrate 2568 2579	hydrocarbon
+T34	Substrate 2671 2674	oil
+T35	ReactionOrProcess 2568 2594	hydrocarbon biodegradation
+T36	ReactionOrProcess 2580 2594	biodegradation
+T37	Environment 2761 2777	marine sediments
+T38	Environment 2768 2777	sediments
+T39	Environment 2761 2767	marine
+T40	Environment 2761 2777	marine sediments
+T41	Substrate 2708 2711	oil
+T42	Property 2930 2944	biosurfactants
+T43	ReactionOrProcess 2712 2723	degradation
+T44	ReactionOrProcess 2708 2723	oil degradation
+T45	Substrate 3195 3206	hydrocarbon
+T46	ReactionOrProcess 3195 3218	hydrocarbon degradation
+T47	ReactionOrProcess 3207 3218	degradation

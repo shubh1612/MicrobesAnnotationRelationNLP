@@ -1,0 +1,110 @@
+T1	Environment 120 128	sediment
+T2	ReactionOrProcess 59 63	DGGE
+T3	ReactionOrProcess 160 174	lyophilization
+T4	ReactionOrProcess 98 101	PCR
+T5	ReactionOrProcess 233 244	reamplified
+T6	ReactionOrProcess 224 228	DGGE
+T7	ReactionOrProcess 189 192	PCR
+T8	Microbes 392 406	Geobacteraceae
+T9	Environment 383 391	sediment
+T10	ReactionOrProcess 363 379	MPN-PCR analysis
+T11	Microbes 428 442	Geobacteraceae
+T12	Environment 459 476	methanogenic site
+T13	ReactionOrProcess 408 424	MPN-PCR analysis
+T14	Property 680 699	secondary structure
+T15	Environment 1027 1035	sediment
+T16	Environment 1165 1173	sediment
+T17	Property 1239 1250	temperature
+T18	ReactionOrProcess 1187 1197	sonication
+T19	ReactionOrProcess 1012 1021	extracted
+T20	ReactionOrProcess 1212 1222	incubation
+T21	ReactionOrProcess 987 991	PLFA
+T22	Environment 1295 1303	sediment
+T23	ReactionOrProcess 1307 1321	centrifugation
+T24	Environment 1369 1377	sediment
+T25	Substrate 1405 1423	methylene chloride
+T26	ReactionOrProcess 1382 1388	washed
+T27	Environment 1530 1535	water
+T28	ReactionOrProcess 1641 1655	centrifugation
+T29	ReactionOrProcess 1698 1707	pipetting
+T30	ReactionOrProcess 1780 1792	fractionated
+T31	ReactionOrProcess 1830 1834	PLFA
+T32	Substrate 2110 2117	benzene
+T33	ReactionOrProcess 2118 2132	mineralization
+T34	Environment 2253 2272	uncontaminated site
+T35	Environment 2284 2306	methanogenic sediments
+T36	ReactionOrProcess 2173 2205	Anaerobic benzene mineralization
+T37	Environment 2473 2482	sediments
+T38	Substrate 2462 2469	benzene
+T39	ReactionOrProcess 2524 2553	slight benzene mineralization
+T40	ReactionOrProcess 2417 2431	mineralization
+T41	Microbes 2706 2720	Geobacteraceae
+T42	Environment 2741 2763	methanogenic sediments
+T43	ReactionOrProcess 2599 2615	MPN-PCR analysis
+T44	Microbes 2825 2839	Geobacteraceae
+T45	Environment 3396 3415	uncontaminated site
+T46	Property 3246 3260	concentrations
+T47	ReactionOrProcess 3204 3208	PLFA
+T48	Environment 3451 3468	methanogenic site
+T49	Substrate 3489 3504	heavy petroleum
+T50	ReactionOrProcess 3569 3573	PLFA
+T51	ReactionOrProcess 3432 3436	PLFA
+T52	Environment 3619 3627	sediment
+T53	ReactionOrProcess 3628 3632	PLFA
+T54	Environment 3705 3724	uncontaminated site
+T55	ReactionOrProcess 3771 3780	reduction
+T56	Environment 3930 3949	uncontaminated site
+T57	ReactionOrProcess 3899 3903	PLFA
+T58	ReactionOrProcess 3804 3808	PLFA
+T59	ReactionOrProcess 4022 4031	extracted
+T60	ReactionOrProcess 4008 4012	PLFA
+T61	Environment 4109 4118	sediments
+T62	Property 4255 4264	saturated
+T63	ReactionOrProcess 4156 4161	PLFAs
+T64	ReactionOrProcess 4265 4270	PLFAs
+T65	Environment 4437 4456	uncontaminated site
+T66	Property 4319 4332	concentration
+T67	ReactionOrProcess 4357 4362	PLFAs
+R1	OccursIn Arg1:T2 Arg2:T1
+R2	OccursIn Arg1:T3 Arg2:T1
+R3	OccursIn Arg1:T4 Arg2:T1
+R4	FoundIn Arg1:T8 Arg2:T9
+R5	CarriedOn Arg1:T10 Arg2:T8
+R6	OccursIn Arg1:T10 Arg2:T9
+R7	FoundIn Arg1:T11 Arg2:T12
+R8	CarriedOn Arg1:T13 Arg2:T11
+R9	OccursIn Arg1:T13 Arg2:T12
+R10	OccursIn Arg1:T18 Arg2:T15
+R11	OccursIn Arg1:T18 Arg2:T16
+R12	OccursIn Arg1:T19 Arg2:T15
+R13	OccursIn Arg1:T19 Arg2:T16
+R14	OccursIn Arg1:T20 Arg2:T15
+R15	OccursIn Arg1:T20 Arg2:T16
+R16	OccursIn Arg1:T21 Arg2:T15
+R17	OccursIn Arg1:T21 Arg2:T16
+R18	OccursIn Arg1:T23 Arg2:T22
+R19	CarriedOn Arg1:T26 Arg2:T25
+R20	OccursIn Arg1:T26 Arg2:T24
+R21	OccursIn Arg1:T28 Arg2:T27
+R22	CarriedOn Arg1:T33 Arg2:T32
+R23	OccursIn Arg1:T36 Arg2:T34
+R24	OccursIn Arg1:T36 Arg2:T35
+R25	CarriedOn Arg1:T39 Arg2:T38
+R26	CarriedOn Arg1:T40 Arg2:T38
+R27	OccursIn Arg1:T39 Arg2:T37
+R28	OccursIn Arg1:T40 Arg2:T37
+R29	FoundIn Arg1:T41 Arg2:T42
+R30	CarriedOn Arg1:T43 Arg2:T41
+R31	OccursIn Arg1:T43 Arg2:T42
+R32	OccursIn Arg1:T47 Arg2:T45
+R33	CarriedOn Arg1:T50 Arg2:T49
+R34	CarriedOn Arg1:T51 Arg2:T49
+R35	OccursIn Arg1:T50 Arg2:T48
+R36	OccursIn Arg1:T51 Arg2:T48
+R37	OccursIn Arg1:T53 Arg2:T52
+R38	OccursIn Arg1:T55 Arg2:T54
+R39	OccursIn Arg1:T57 Arg2:T56
+R40	OccursIn Arg1:T58 Arg2:T56
+R41	OccursIn Arg1:T63 Arg2:T61
+R42	OccursIn Arg1:T64 Arg2:T61
+R43	OccursIn Arg1:T67 Arg2:T65

@@ -1,0 +1,90 @@
+T1	Substrate 150 157	toluene
+T2	Substrate 57 69	ethylbenzene
+T3	Microbes 193 211	enrichment culture
+T4	Substrate 286 298	ethylbenzene
+T5	Substrate 222 234	ethylbenzene
+T6	Substrate 387 399	ethylbenzene
+T7	ReactionOrProcess 413 420	oxidize
+T8	ReactionOrProcess 771 776	redox
+T9	Microbes 924 928	PbN1
+T10	Microbes 908 916	Azoarcus
+T11	Substrate 938 953	n-propylbenzene
+T12	Substrate 969 981	ethylbenzene
+T13	Substrate 1066 1078	ethylbenzene
+T14	ReactionOrProcess 1012 1021	oxidation
+T15	Environment 1351 1359	sediment
+T16	Substrate 1224 1235	Naphthalene
+T17	Substrate 1237 1249	phenanthrene
+T18	ReactionOrProcess 1283 1316	anaerobic naphthalene degradation
+T19	ReactionOrProcess 1401 1410	reduction
+T20	Substrate 1450 1461	naphthalene
+T21	ReactionOrProcess 1426 1446	Complete degradation
+T22	Microbes 1632 1653	denitrifying bacteria
+T23	Substrate 1590 1601	naphthalene
+T24	ReactionOrProcess 1602 1611	oxidation
+T25	Substrate 1755 1766	naphthalene
+T26	Microbes 2049 2067	enrichment culture
+T27	ReactionOrProcess 2163 2172	reduction
+T28	Environment 2352 2360	sediment
+T29	Substrate 2295 2307	phenanthrene
+T30	Substrate 2466 2478	phenanthrene
+T31	Substrate 2264 2294	tricyclic aromatic hydrocarbon
+T32	Property 2314 2331	anoxic conditions
+T33	ReactionOrProcess 2245 2256	Degradation
+T34	Substrate 2688 2697	crude oil
+T35	Substrate 2599 2631	polycyclic aromatic hydrocarbons
+T36	ReactionOrProcess 2735 2746	degradation
+T37	ReactionOrProcess 2763 2773	enrichment
+T38	Substrate 3062 3069	benzene
+T39	Substrate 3004 3015	naphthalene
+T40	Substrate 3020 3033	alkylbenzenes
+T41	Substrate 3126 3139	alkylbenzenes
+T42	Microbes 3241 3259	enrichment culture
+T43	Substrate 3353 3360	toluene
+T44	Microbes 3557 3576	enrichment cultures
+T45	Environment 3542 3552	microcosms
+T46	Environment 3733 3786	petroleum-contaminated or fuel-contaminated sediments
+T47	Environment 3791 3799	aquifers
+T48	Substrate 3508 3520	hydrocarbons
+T49	ReactionOrProcess 3679 3693	bioremediation
+T50	ReactionOrProcess 3476 3500	anaerobic biodegradation
+T51	ReactionOrProcess 3397 3430	anaerobic hydrocarbon degradation
+T52	ReactionOrProcess 3431 3455	Anaerobic bioremediation
+T53	Environment 3885 3890	water
+T54	Property 3939 3948	dissolved
+T55	Property 3904 3918	concentrations
+T56	ReactionOrProcess 3818 3842	augmented bioremediation
+T57	Nutrient 3854 3872	electron acceptors
+T58	Nutrient 3949 3955	oxygen
+T59	Environment 4007 4012	water
+T60	Substrate 4093 4100	toluene
+T61	Property 3970 3983	concentration
+T62	ReactionOrProcess 4051 4058	oxidize
+T63	Substrate 4104 4111	Nitrate
+T64	Property 4139 4146	soluble
+T65	Substrate 4327 4334	toluene
+T66	Property 4202 4212	solubility
+T67	Property 4232 4245	concentration
+T68	Property 4221 4231	saturation
+T69	ReactionOrProcess 4297 4316	anaerobic oxidation
+T70	Substrate 4467 4474	benzene
+T71	Substrate 4338 4359	Aromatic hydrocarbons
+T72	Property 4428 4440	carcinogenic
+T73	Property 4403 4408	toxic
+T74	Microbes 4650 4669	enrichment cultures
+T75	Substrate 4524 4533	petroleum
+T76	Property 4586 4603	anoxic conditions
+T77	ReactionOrProcess 4509 4520	degradation
+R1	ActOn Arg1:T3 Arg2:T4
+R2	ActOn Arg1:T3 Arg2:T5
+R3	ActOn Arg1:T9 Arg2:T11
+R4	ActOn Arg1:T9 Arg2:T12
+R5	ActOn Arg1:T10 Arg2:T11
+R6	ActOn Arg1:T10 Arg2:T12
+R7	ActOn Arg1:T22 Arg2:T23
+R8	FoundIn Arg1:T44 Arg2:T45
+R9	FoundIn Arg1:T44 Arg2:T46
+R10	FoundIn Arg1:T44 Arg2:T47
+R11	ActOn Arg1:T44 Arg2:T48
+R12	Of Arg1:T74 Arg2:T76
+R13	ActOn Arg1:T74 Arg2:T75

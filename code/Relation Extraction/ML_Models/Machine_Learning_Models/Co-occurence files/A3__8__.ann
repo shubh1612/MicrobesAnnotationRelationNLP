@@ -1,0 +1,92 @@
+T1	Microbes 221 240	enrichment cultures
+T2	Property 188 205	benzene-oxidizing
+T3	Microbes 730 744	Geobacteraceae
+T4	Environment 764 773	sediments
+T5	Microbes 840 854	Geobacteraceae
+T6	ReactionOrProcess 826 836	enrichment
+T7	ReactionOrProcess 779 783	PLFA
+T8	Microbes 1018 1032	Geobacteraceae
+T9	ReactionOrProcess 882 886	PLFA
+T10	Substrate 1182 1189	benzene
+T11	ReactionOrProcess 1260 1264	DGGE
+T12	ReactionOrProcess 1190 1201	degradation
+T13	ReactionOrProcess 1313 1317	DGGE
+T14	Environment 1504 1511	aquifer
+T15	Property 1634 1646	temperatures
+T16	Environment 1727 1746	triplicate sediment
+T17	ReactionOrProcess 1865 1869	DGGE
+T18	ReactionOrProcess 1772 1775	PCR
+T19	ReactionOrProcess 1747 1762	DNA extractions
+T20	Environment 2137 2156	uncontaminated site
+T21	ReactionOrProcess 1994 1998	DGGE
+T22	Environment 2273 2288	surficial soils
+T23	ReactionOrProcess 2205 2209	PLFA
+T24	Environment 2323 2333	subsurface
+T25	Environment 2452 2472	subsurface sediments
+T26	Nutrient 2412 2418	carbon
+T27	Environment 2528 2538	subsurface
+T28	Environment 2636 2650	surficial soil
+T29	Environment 2803 2821	methanogenic zones
+T30	Environment 2829 2836	aquifer
+T31	ReactionOrProcess 2680 2684	DGGE
+T32	Environment 2994 3018	uncontaminated sediments
+T33	Environment 2957 2979	contaminated sediments
+T34	Environment 3259 3283	uncontaminated sediments
+T35	Substrate 3136 3140	BTEX
+T36	Property 3141 3153	contaminants
+T37	Substrate 3356 3360	BTEX
+T38	Substrate 3384 3388	BTEX
+T39	ReactionOrProcess 3389 3400	degradation
+T40	Substrate 3442 3446	BTEX
+T41	Property 3447 3456	degraders
+T42	Microbes 3552 3565	Geobacter spp
+T43	ReactionOrProcess 3538 3548	Enrichment
+T44	Substrate 3582 3589	benzene
+T45	ReactionOrProcess 3590 3601	degradation
+T46	Microbes 3643 3657	Geobacteraceae
+T47	Microbes 3821 3835	Geobacteraceae
+T48	Environment 3692 3701	sediments
+T49	Environment 3753 3762	sediments
+T50	Substrate 3772 3779	benzene
+T51	ReactionOrProcess 3793 3801	degraded
+T52	ReactionOrProcess 3717 3720	PCR
+T53	ReactionOrProcess 3671 3684	DGGE analysis
+R1	Of Arg1:T1 Arg2:T2
+R2	FoundIn Arg1:T3 Arg2:T4
+R3	CarriedOn Arg1:T6 Arg2:T5
+R4	CarriedOn Arg1:T7 Arg2:T5
+R5	CarriedOn Arg1:T9 Arg2:T8
+R6	CarriedOn Arg1:T11 Arg2:T10
+R7	CarriedOn Arg1:T12 Arg2:T10
+R8	OccursIn Arg1:T17 Arg2:T16
+R9	OccursIn Arg1:T18 Arg2:T16
+R10	OccursIn Arg1:T19 Arg2:T16
+R11	OccursIn Arg1:T21 Arg2:T20
+R12	OccursIn Arg1:T23 Arg2:T22
+R13	OccursIn Arg1:T31 Arg2:T29
+R14	OccursIn Arg1:T31 Arg2:T30
+R15	CarriedOn Arg1:T39 Arg2:T37
+R16	CarriedOn Arg1:T39 Arg2:T38
+R17	CarriedOn Arg1:T43 Arg2:T42
+R18	CarriedOn Arg1:T45 Arg2:T44
+R19	FoundIn Arg1:T46 Arg2:T48
+R20	FoundIn Arg1:T46 Arg2:T49
+R21	FoundIn Arg1:T47 Arg2:T48
+R22	FoundIn Arg1:T47 Arg2:T49
+R23	ActOn Arg1:T46 Arg2:T50
+R24	ActOn Arg1:T47 Arg2:T50
+R25	CarriedOn Arg1:T51 Arg2:T46
+R26	CarriedOn Arg1:T51 Arg2:T47
+R27	CarriedOn Arg1:T52 Arg2:T46
+R28	CarriedOn Arg1:T52 Arg2:T47
+R29	CarriedOn Arg1:T53 Arg2:T46
+R30	CarriedOn Arg1:T53 Arg2:T47
+R31	CarriedOn Arg1:T51 Arg2:T50
+R32	CarriedOn Arg1:T52 Arg2:T50
+R33	CarriedOn Arg1:T53 Arg2:T50
+R34	OccursIn Arg1:T51 Arg2:T48
+R35	OccursIn Arg1:T51 Arg2:T49
+R36	OccursIn Arg1:T52 Arg2:T48
+R37	OccursIn Arg1:T52 Arg2:T49
+R38	OccursIn Arg1:T53 Arg2:T48
+R39	OccursIn Arg1:T53 Arg2:T49

@@ -1,0 +1,39 @@
+T1	ReactionOrProcess 680 691	degradation
+T2	Substrate 1065 1083	aromatic compounds
+T3	Substrate 1065 1083	aromatic compounds
+T4	Property 1065 1073	aromatic
+T5	ReactionOrProcess 1050 1061	degradation
+R1	CarriedOn Arg1:T5 Arg2:T2
+R2	CarriedOn Arg1:T5 Arg2:T3
+T6	Substrate 1157 1172	catabolic genes
+T7	Substrate 1157 1172	catabolic genes
+T8	Property 1179 1188	dispersed
+T9	Substrate 1627 1636	aromatics
+T10	Property 1627 1636	aromatics
+T11	ReactionOrProcess 1637 1648	degradation
+T12	Microbes 1961 1970	Ralstonia
+T13	Microbes 1906 1915	P. putida
+T14	Substrate 1836 1847	naphthalene
+T15	ReactionOrProcess 1836 1859	naphthalene degradation
+T16	ReactionOrProcess 1848 1859	degradation
+R3	CarriedOn Arg1:T15 Arg2:T12
+R4	CarriedOn Arg1:T15 Arg2:T13
+R5	CarriedOn Arg1:T16 Arg2:T12
+R6	CarriedOn Arg1:T16 Arg2:T13
+T17	Substrate 2090 2101	naphthalene
+T18	ReactionOrProcess 2090 2113	naphthalene degradation
+T19	ReactionOrProcess 2102 2113	degradation
+T20	Substrate 2443 2453	salicylate
+T21	ReactionOrProcess 2428 2439	degradation
+R7	CarriedOn Arg1:T21 Arg2:T20
+T22	Microbes 2480 2487	E. coli
+T23	Substrate 2610 2621	naphthalene
+T24	Substrate 2594 2600	phenol
+T25	Substrate 2761 2767	phenol
+T26	Substrate 2846 2852	phenol
+T27	Environment 3477 3487	wastewater
+T28	Enzyme 3617 3641	catechol 2,3-dioxygenase
+T29	Substrate 3597 3603	phenol
+T30	Substrate 4359 4365	phenol
+T31	Substrate 4573 4579	phenol
+T32	Substrate 4739 4745	phenol

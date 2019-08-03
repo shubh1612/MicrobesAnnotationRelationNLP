@@ -1,0 +1,35 @@
+T1	Property 36 48	temperatures
+T2	Property 129 141	temperatures
+T3	ReactionOrProcess 27 35	freezing
+T4	ReactionOrProcess 189 197	freezing
+T5	ReactionOrProcess 252 256	DGGE
+T6	Microbes 406 421	Actinomycetales
+T7	Substrate 454 476	petroleum hydrocarbons
+T8	ReactionOrProcess 446 453	degrade
+T9	Environment 582 596	Siberian soils
+T10	Property 1021 1034	Gram-negative
+T11	Microbes 1302 1316	Proteobacteria
+T12	Microbes 1838 1852	Proteobacteria
+T13	Microbes 1893 1907	Proteobacteria
+T14	Microbes 2028 2042	Proteobacteria
+T15	ReactionOrProcess 2143 2152	incubated
+T16	Substrate 2275 2278	TPH
+T17	ReactionOrProcess 2714 2723	oxidation
+T18	ReactionOrProcess 3123 3132	oxidation
+T19	ReactionOrProcess 3329 3338	oxidation
+T20	Substrate 3543 3546	TPH
+T21	Substrate 3807 3810	TPH
+T22	ReactionOrProcess 3744 3754	inhibition
+T23	Environment 3896 3900	soil
+T24	Substrate 3826 3829	TPH
+T25	Environment 4066 4070	soil
+T26	Environment 4127 4144	contaminated soil
+T27	Substrate 4037 4047	hexadecane
+T28	ReactionOrProcess 4048 4062	mineralization
+T29	Environment 4250 4267	cold-adapted soil
+T30	Substrate 4338 4360	petroleum hydrocarbons
+R1	CarriedOn Arg1:T8 Arg2:T7
+R2	CarriedOn Arg1:T22 Arg2:T21
+R3	CarriedOn Arg1:T28 Arg2:T27
+R4	OccursIn Arg1:T28 Arg2:T25
+R5	OccursIn Arg1:T28 Arg2:T26

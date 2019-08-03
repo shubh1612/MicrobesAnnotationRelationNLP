@@ -1,0 +1,35 @@
+T1	Property 276 289	concentration
+T2	ReactionOrProcess 593 603	extraction
+T3	ReactionOrProcess 627 638	extractions
+T4	ReactionOrProcess 660 663	PCR
+T5	ReactionOrProcess 589 603	DNA extraction
+T6	Microbes 800 809	alkB gene
+T7	ReactionOrProcess 1911 1914	PCR
+T8	Environment 1990 1994	soil
+T9	Environment 2181 2210	hydrocarbon-contaminated soil
+T10	Environment 2206 2210	soil
+T11	Substrate 2221 2232	hydrocarbon
+T12	Property 2181 2205	hydrocarbon-contaminated
+T13	ReactionOrProcess 2221 2244	hydrocarbon degradation
+T14	ReactionOrProcess 2233 2244	degradation
+T15	Substrate 2510 2517	alkanes
+T16	Substrate 2625 2634	n-alkanes
+T17	Substrate 2847 2856	n-alkanes
+T18	Substrate 2952 2961	n-alkanes
+T19	Substrate 2752 2759	alkanes
+T20	Property 2900 2913	concentration
+T21	ReactionOrProcess 2734 2748	biodegradation
+R1	CarriedOn Arg1:T21 Arg2:T17
+R2	CarriedOn Arg1:T21 Arg2:T18
+R3	CarriedOn Arg1:T21 Arg2:T19
+T22	Substrate 2988 2997	n-alkanes
+T23	Property 3042 3055	concentration
+T24	Substrate 3122 3131	n-alkanes
+T25	Property 3199 3209	fertilized
+T26	ReactionOrProcess 3160 3171	evaporation
+T27	ReactionOrProcess 3274 3288	biodegradation
+T28	Environment 3389 3394	soils
+T29	Substrate 3434 3453	total heterotrophic
+T30	Property 3440 3453	heterotrophic
+T31	ReactionOrProcess 3422 3425	PCR
+T32	Environment 3793 3797	soil

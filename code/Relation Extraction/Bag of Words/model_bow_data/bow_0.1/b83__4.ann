@@ -1,0 +1,40 @@
+T1	Microbes 236 248	Sphingomonas
+T2	Enzyme 115 124	oxygenase
+T3	Property 128 136	aromatic
+T4	Substrate 304 310	sulfur
+T5	Nutrient 299 303	iron
+T6	Property 456 464	residues
+T7	Substrate 551 557	sulfur
+T8	Nutrient 546 550	iron
+T9	Property 1156 1164	residues
+T10	Nutrient 1272 1276	iron
+T11	Substrate 1602 1613	naphthalene
+T12	ReactionOrProcess 1580 1589	degrading
+T13	Substrate 1778 1781	bph
+T14	Substrate 1987 1998	naphthalene
+T15	ReactionOrProcess 1999 2008	degrading
+T16	Substrate 2316 2336	aromatic hydrocarbon
+T17	Substrate 2286 2295	carbazole
+T18	Substrate 2310 2336	other aromatic hydrocarbon
+T19	Substrate 2325 2336	hydrocarbon
+T20	Property 2316 2324	aromatic
+T21	ReactionOrProcess 2537 2546	extracted
+T22	ReactionOrProcess 2627 2636	extracted
+T23	Substrate 2698 2707	carbazole
+T24	Substrate 2781 2790	carbazole
+T25	Substrate 3018 3027	carbazole
+T26	Enzyme 3151 3160	oxygenase
+T27	Substrate 3324 3333	carbazole
+T28	Substrate 3476 3487	naphthalene
+T29	Substrate 3561 3570	carbazole
+T30	ReactionOrProcess 3590 3599	oxidation
+T31	ReactionOrProcess 3774 3784	catabolism
+T32	Substrate 4272 4290	aromatic compounds
+T33	Substrate 4272 4290	aromatic compounds
+T34	Property 4272 4280	aromatic
+T35	ReactionOrProcess 4251 4262	degradation
+R1	CarriedOn Arg1:T35 Arg2:T32
+R2	CarriedOn Arg1:T35 Arg2:T33
+T36	Substrate 4389 4392	bph
+T37	ReactionOrProcess 4456 4463	degrade
+T38	Substrate 4739 4748	carbazole

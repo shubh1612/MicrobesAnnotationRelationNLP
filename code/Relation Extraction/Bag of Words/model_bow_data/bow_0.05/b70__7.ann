@@ -1,0 +1,7 @@
+T1	Substrate 107 116	petroleum
+T2	Substrate 97 116	Brazilian petroleum
+T3	Substrate 168 178	hexadecane
+T4	ReactionOrProcess 168 193	hexadecane biodegradation
+T5	ReactionOrProcess 179 193	biodegradation
+T6	ReactionOrProcess 276 290	biodegradation
+T7	Substrate 503 512	petroleum

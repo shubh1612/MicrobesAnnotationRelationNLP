@@ -1,0 +1,86 @@
+T1	Environment 220 224	soil
+T2	Substrate 262 269	toluene
+T3	ReactionOrProcess 185 189	PLFA
+T4	Environment 390 394	soil
+T5	Substrate 284 291	toluene
+T6	Substrate 376 383	toluene
+T7	Property 333 347	concentrations
+T8	ReactionOrProcess 455 459	PLFA
+T9	Environment 685 695	microcosms
+T10	Substrate 753 760	toluene
+T11	Property 722 735	concentration
+T12	Substrate 851 858	toluene
+T13	Property 859 872	concentration
+T14	Property 766 780	concentrations
+T15	ReactionOrProcess 804 808	PLFA
+T16	Environment 1019 1023	soil
+T17	Substrate 969 976	toluene
+T18	Substrate 1160 1167	toluene
+T19	ReactionOrProcess 943 953	incubation
+T20	ReactionOrProcess 1144 1154	incubation
+T21	ReactionOrProcess 932 936	PLFA
+T22	ReactionOrProcess 1024 1028	PLFA
+R1	CarriedOn Arg1:T19 Arg2:T17
+R2	CarriedOn Arg1:T19 Arg2:T18
+R3	CarriedOn Arg1:T20 Arg2:T17
+R4	CarriedOn Arg1:T20 Arg2:T18
+R5	CarriedOn Arg1:T21 Arg2:T17
+R6	CarriedOn Arg1:T21 Arg2:T18
+R7	CarriedOn Arg1:T22 Arg2:T17
+R8	CarriedOn Arg1:T22 Arg2:T18
+T23	Environment 1187 1191	soil
+T24	Substrate 1260 1267	toluene
+T25	ReactionOrProcess 1192 1196	PLFA
+R9	CarriedOn Arg1:T25 Arg2:T24
+T26	Environment 1476 1480	soil
+T27	Substrate 1548 1555	toluene
+T28	ReactionOrProcess 1618 1627	incubated
+T29	ReactionOrProcess 1715 1719	PLFA
+T30	ReactionOrProcess 1599 1613	biodegradation
+T31	Nutrient 1536 1542	carbon
+T32	Environment 1811 1815	soil
+T33	Substrate 1730 1737	Toluene
+T34	ReactionOrProcess 1775 1785	enrichment
+T35	ReactionOrProcess 1816 1820	PLFA
+T36	Environment 1998 2002	soil
+T37	ReactionOrProcess 1889 1899	incubation
+T38	ReactionOrProcess 2003 2007	PLFA
+T39	Nutrient 1959 1965	carbon
+T40	ReactionOrProcess 2074 2084	incubation
+T41	ReactionOrProcess 2106 2110	PLFA
+T42	ReactionOrProcess 2185 2195	incubation
+T43	ReactionOrProcess 2224 2228	PLFA
+T44	Substrate 2372 2379	toluene
+T45	Substrate 2521 2528	toluene
+T46	Property 2446 2452	colony
+T47	ReactionOrProcess 2453 2463	morphology
+T48	ReactionOrProcess 2510 2520	metabolize
+T49	ReactionOrProcess 2577 2588	enrichments
+T50	Substrate 2751 2758	toluene
+T51	Property 2759 2768	degraders
+T52	Property 2600 2606	colony
+T53	ReactionOrProcess 2607 2617	morphology
+R10	CarriedOn Arg1:T53 Arg2:T50
+T54	Microbes 2983 2996	actinomycetes
+T55	Environment 2867 2871	soil
+T56	ReactionOrProcess 2872 2883	enrichments
+R11	CarriedOn Arg1:T56 Arg2:T54
+T57	Substrate 3044 3051	toluene
+T58	ReactionOrProcess 3052 3062	enrichment
+T59	Environment 3390 3394	soil
+T60	Substrate 3435 3442	toluene
+T61	ReactionOrProcess 3443 3454	incubations
+T62	ReactionOrProcess 3395 3399	PLFA
+T63	Substrate 3531 3538	toluene
+T64	ReactionOrProcess 3484 3488	PLFA
+T65	Environment 3593 3597	soil
+T66	Substrate 3621 3628	toluene
+T67	ReactionOrProcess 3605 3615	incubation
+T68	ReactionOrProcess 3576 3580	PLFA
+T69	ReactionOrProcess 3672 3677	PLFAs
+T70	Environment 3723 3735	initial soil
+T71	Environment 3731 3735	soil
+T72	Substrate 3802 3809	toluene
+T73	Substrate 3763 3770	toluene
+T74	ReactionOrProcess 3736 3747	incubations
+T75	ReactionOrProcess 3810 3821	incubations

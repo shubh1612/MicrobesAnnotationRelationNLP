@@ -1,0 +1,67 @@
+T1	Environment 142 151	sediments
+T2	Substrate 156 159	oil
+T3	ReactionOrProcess 72 86	bioremediation
+T4	ReactionOrProcess 62 86	anaerobic bioremediation
+R1	CarriedOn Arg1:T3 Arg2:T2
+R2	CarriedOn Arg1:T4 Arg2:T2
+T5	Substrate 640 662	biological hydrocarbon
+T6	Substrate 526 538	hydrocarbons
+T7	Substrate 651 662	hydrocarbon
+T8	Substrate 526 538	hydrocarbons
+T9	Substrate 861 872	hydrocarbon
+T10	Property 778 795	anoxic conditions
+T11	Substrate 1066 1073	alkanes
+T12	Substrate 1038 1050	hydrocarbons
+T13	Substrate 1038 1050	hydrocarbons
+T14	Substrate 1201 1208	alkanes
+T15	Substrate 1232 1244	hydrocarbons
+T16	Substrate 1223 1244	reactive hydrocarbons
+T17	Substrate 1223 1244	reactive hydrocarbons
+T18	Substrate 1232 1244	hydrocarbons
+T19	Substrate 1386 1393	Alkanes
+T20	Nutrient 1506 1510	H2O2
+T21	Substrate 1707 1714	alkanes
+T22	Substrate 2151 2158	alkanes
+T23	Substrate 2554 2561	alkanes
+T24	Nutrient 2457 2463	oxygen
+T25	Enzyme 2624 2637	Monooxygenase
+T26	Enzyme 2624 2638	Monooxygenases
+T27	ReactionOrProcess 2764 2773	oxidation
+T28	Nutrient 2741 2745	iron
+T29	Enzyme 2994 3007	monooxygenase
+T30	Enzyme 2956 2970	monooxygenases
+T31	ReactionOrProcess 2863 2872	reduction
+T32	Nutrient 2830 2836	oxygen
+T33	Substrate 3303 3310	methane
+T34	Nutrient 3014 3020	oxygen
+T35	Substrate 3334 3341	alkanes
+T36	Property 3371 3383	temperatures
+T37	ReactionOrProcess 3342 3355	anaerobically
+T38	ReactionOrProcess 3518 3527	oxidation
+T39	ReactionOrProcess 3393 3401	reducing
+T40	ReactionOrProcess 3454 3463	oxidizing
+T41	ReactionOrProcess 3326 3333	oxidize
+T42	Nutrient 3538 3542	iron
+T43	Nutrient 3495 3501	oxygen
+T44	Substrate 3898 3909	methanogens
+T45	Substrate 4141 4153	hydrocarbons
+T46	Substrate 4141 4153	hydrocarbons
+T47	Substrate 4183 4201	aromatic compounds
+T48	Substrate 4183 4201	aromatic compounds
+T49	Substrate 4177 4201	polar aromatic compounds
+T50	Property 4183 4191	aromatic
+T51	Substrate 4247 4258	hydrocarbon
+T52	Substrate 4656 4663	alkanes
+T53	Substrate 4520 4527	methane
+T54	ReactionOrProcess 4507 4516	oxidation
+T55	ReactionOrProcess 4497 4516	anaerobic oxidation
+R3	CarriedOn Arg1:T54 Arg2:T52
+R4	CarriedOn Arg1:T54 Arg2:T53
+R5	CarriedOn Arg1:T55 Arg2:T52
+R6	CarriedOn Arg1:T55 Arg2:T53
+T56	ReactionOrProcess 4857 4871	methanogenesis
+T57	ReactionOrProcess 4891 4905	methanogenesis
+T58	Substrate 5066 5073	methane
+T59	Substrate 5203 5210	methane
+T60	Substrate 5241 5248	methane
+T61	Substrate 5484 5491	methane

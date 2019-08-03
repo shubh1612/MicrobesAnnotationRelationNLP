@@ -1,0 +1,133 @@
+T1	Microbes 39 56	Oceanospirillales
+T2	Environment 80 85	plume
+T3	Microbes 226 243	Oceanospirillales
+T4	Environment 309 314	plume
+T5	Environment 426 431	plume
+T6	Environment 479 484	plume
+T7	Microbes 749 756	archaea
+T8	Environment 784 789	plume
+T9	Environment 846 851	plume
+T10	Microbes 952 959	archaea
+T11	Microbes 1232 1239	archaea
+T12	Microbes 1314 1321	archaea
+T13	Environment 1935 1940	plume
+T14	Environment 2031 2036	plume
+T15	Substrate 1959 1970	hydrocarbon
+T16	ReactionOrProcess 1959 1982	hydrocarbon degradation
+T17	ReactionOrProcess 1971 1982	degradation
+T18	Environment 2245 2250	plume
+T19	ReactionOrProcess 2121 2135	biodegradation
+T20	Substrate 2338 2349	hydrocarbon
+T21	ReactionOrProcess 2338 2361	hydrocarbon degradation
+T22	ReactionOrProcess 2350 2361	degradation
+T23	Environment 2486 2491	plume
+T24	Substrate 2415 2424	n-alkanes
+T25	ReactionOrProcess 2400 2411	degradation
+R1	CarriedOn Arg1:T25 Arg2:T24
+T26	Enzyme 2545 2559	monooxygenases
+T27	ReactionOrProcess 2519 2528	oxidation
+T28	Enzyme 2766 2780	monooxygenases
+T29	ReactionOrProcess 2987 2996	oxidation
+T30	ReactionOrProcess 2892 2903	degradation
+T31	Enzyme 3126 3139	monooxygenase
+T32	Environment 3210 3215	plume
+T33	Environment 3236 3241	plume
+T34	Environment 3594 3599	plume
+T35	Substrate 3517 3525	n-alkane
+T36	Substrate 3559 3563	BTEX
+T37	Substrate 3568 3571	PAH
+T38	Substrate 3332 3350	aromatic compounds
+T39	Substrate 3463 3472	crude oil
+T40	Substrate 3455 3472	Macondo crude oil
+T41	Substrate 3469 3472	oil
+T42	Substrate 3332 3350	aromatic compounds
+T43	Property 3572 3586	concentrations
+T44	Property 3332 3340	aromatic
+T45	ReactionOrProcess 3393 3411	alkane degradation
+T46	ReactionOrProcess 3317 3328	degradation
+T47	ReactionOrProcess 3400 3411	degradation
+R2	CarriedOn Arg1:T45 Arg2:T35
+R3	CarriedOn Arg1:T45 Arg2:T36
+R4	CarriedOn Arg1:T45 Arg2:T37
+R5	CarriedOn Arg1:T45 Arg2:T38
+R6	CarriedOn Arg1:T45 Arg2:T39
+R7	CarriedOn Arg1:T45 Arg2:T40
+R8	CarriedOn Arg1:T45 Arg2:T41
+R9	CarriedOn Arg1:T45 Arg2:T42
+R10	CarriedOn Arg1:T46 Arg2:T35
+R11	CarriedOn Arg1:T46 Arg2:T36
+R12	CarriedOn Arg1:T46 Arg2:T37
+R13	CarriedOn Arg1:T46 Arg2:T38
+R14	CarriedOn Arg1:T46 Arg2:T39
+R15	CarriedOn Arg1:T46 Arg2:T40
+R16	CarriedOn Arg1:T46 Arg2:T41
+R17	CarriedOn Arg1:T46 Arg2:T42
+R18	CarriedOn Arg1:T47 Arg2:T35
+R19	CarriedOn Arg1:T47 Arg2:T36
+R20	CarriedOn Arg1:T47 Arg2:T37
+R21	CarriedOn Arg1:T47 Arg2:T38
+R22	CarriedOn Arg1:T47 Arg2:T39
+R23	CarriedOn Arg1:T47 Arg2:T40
+R24	CarriedOn Arg1:T47 Arg2:T41
+R25	CarriedOn Arg1:T47 Arg2:T42
+T48	Environment 3732 3737	plume
+T49	Substrate 3654 3661	toluene
+T50	Substrate 3666 3669	PAH
+T51	Substrate 3640 3652	ethylbenzene
+T52	ReactionOrProcess 3670 3681	degradation
+T53	Environment 4045 4050	plume
+T54	Substrate 4120 4127	alkanes
+T55	Substrate 3888 3906	aromatic compounds
+T56	Substrate 3984 3996	hydrocarbons
+T57	Substrate 3984 3996	hydrocarbons
+T58	Substrate 3888 3906	aromatic compounds
+T59	Property 3888 3896	aromatic
+T60	ReactionOrProcess 3822 3840	alkane degradation
+T61	ReactionOrProcess 3829 3840	degradation
+T62	ReactionOrProcess 3873 3884	degradation
+T63	ReactionOrProcess 3954 3965	degradation
+T64	ReactionOrProcess 4105 4116	degradation
+R26	CarriedOn Arg1:T60 Arg2:T54
+R27	CarriedOn Arg1:T60 Arg2:T55
+R28	CarriedOn Arg1:T60 Arg2:T56
+R29	CarriedOn Arg1:T60 Arg2:T57
+R30	CarriedOn Arg1:T60 Arg2:T58
+R31	CarriedOn Arg1:T61 Arg2:T54
+R32	CarriedOn Arg1:T61 Arg2:T55
+R33	CarriedOn Arg1:T61 Arg2:T56
+R34	CarriedOn Arg1:T61 Arg2:T57
+R35	CarriedOn Arg1:T61 Arg2:T58
+R36	CarriedOn Arg1:T62 Arg2:T54
+R37	CarriedOn Arg1:T62 Arg2:T55
+R38	CarriedOn Arg1:T62 Arg2:T56
+R39	CarriedOn Arg1:T62 Arg2:T57
+R40	CarriedOn Arg1:T62 Arg2:T58
+R41	CarriedOn Arg1:T63 Arg2:T54
+R42	CarriedOn Arg1:T63 Arg2:T55
+R43	CarriedOn Arg1:T63 Arg2:T56
+R44	CarriedOn Arg1:T63 Arg2:T57
+R45	CarriedOn Arg1:T63 Arg2:T58
+R46	CarriedOn Arg1:T64 Arg2:T54
+R47	CarriedOn Arg1:T64 Arg2:T55
+R48	CarriedOn Arg1:T64 Arg2:T56
+R49	CarriedOn Arg1:T64 Arg2:T57
+R50	CarriedOn Arg1:T64 Arg2:T58
+T65	Environment 4186 4191	plume
+T66	Environment 4293 4298	plume
+T67	Substrate 4327 4336	n-alkanes
+T68	Substrate 4171 4178	alkanes
+T69	Substrate 4271 4274	oil
+T70	ReactionOrProcess 4153 4167	biodegradation
+R51	CarriedOn Arg1:T70 Arg2:T67
+R52	CarriedOn Arg1:T70 Arg2:T68
+R53	CarriedOn Arg1:T70 Arg2:T69
+T71	Environment 4400 4405	plume
+T72	Environment 4517 4522	plume
+T73	Substrate 4380 4392	hydrocarbons
+T74	Substrate 4380 4392	hydrocarbons
+T75	Property 4467 4477	saturation
+T76	ReactionOrProcess 4449 4458	depletion
+T77	ReactionOrProcess 4362 4376	biodegradation
+T78	Nutrient 4442 4448	oxygen
+R54	CarriedOn Arg1:T77 Arg2:T73
+R55	CarriedOn Arg1:T77 Arg2:T74

@@ -1,0 +1,80 @@
+T1	Environment 196 200	soil
+T2	Substrate 66 74	gasoline
+T3	Substrate 53 74	intermediate gasoline
+T4	Substrate 118 129	naphthalene
+T5	Substrate 177 188	naphthalene
+T6	ReactionOrProcess 32 45	hybridization
+T7	Substrate 233 241	gasoline
+T8	Substrate 323 331	gasoline
+T9	Substrate 310 331	intermediate gasoline
+T10	Property 266 280	concentrations
+T11	Substrate 526 537	hydrocarbon
+T12	Property 440 445	toxic
+T13	ReactionOrProcess 381 391	inhibition
+R1	CarriedOn Arg1:T13 Arg2:T11
+T14	ReactionOrProcess 620 630	incubation
+T15	ReactionOrProcess 563 576	hybridization
+T16	Environment 723 727	soil
+T17	Substrate 678 686	gasoline
+T18	Substrate 712 720	gasoline
+T19	ReactionOrProcess 651 664	hybridization
+T20	Substrate 951 959	gasoline
+T21	ReactionOrProcess 1002 1012	incubation
+T22	ReactionOrProcess 882 895	hybridization
+T23	Microbes 1150 1154	xylE
+T24	Substrate 1062 1069	toluene
+T25	ReactionOrProcess 1047 1058	degradation
+T26	ReactionOrProcess 1114 1127	hybridization
+R2	CarriedOn Arg1:T25 Arg2:T23
+R3	CarriedOn Arg1:T25 Arg2:T24
+T27	Substrate 1286 1294	gasoline
+T28	ReactionOrProcess 1246 1259	hybridization
+T29	ReactionOrProcess 1360 1373	hybridization
+T30	Substrate 1464 1472	gasoline
+T31	Property 1473 1487	concentrations
+T32	ReactionOrProcess 1537 1547	incubation
+T33	ReactionOrProcess 1596 1606	inhibition
+T34	ReactionOrProcess 1722 1736	volatilization
+T35	ReactionOrProcess 1706 1717	degradation
+T36	ReactionOrProcess 1766 1779	hybridization
+T37	ReactionOrProcess 1635 1645	inhibition
+T38	Microbes 1880 1884	xylE
+T39	Microbes 2050 2054	xylE
+T40	Substrate 1944 1952	gasoline
+T41	Substrate 1994 2002	gasoline
+T42	Property 1967 1972	toxic
+T43	Microbes 2144 2148	xylE
+T44	ReactionOrProcess 2062 2075	Hybridization
+R4	CarriedOn Arg1:T44 Arg2:T43
+T45	Microbes 2321 2335	Pseudomonas sp
+T46	ReactionOrProcess 2272 2293	sequences hybridizing
+R5	CarriedOn Arg1:T46 Arg2:T45
+T47	Substrate 2365 2380	catabolic genes
+T48	Substrate 2365 2380	catabolic genes
+T49	ReactionOrProcess 2445 2458	hybridization
+T50	ReactionOrProcess 2524 2537	hybridization
+T51	ReactionOrProcess 2621 2634	hybridization
+T52	Microbes 2786 2790	xylE
+T53	Substrate 2750 2761	naphthalene
+T54	Substrate 2708 2726	aromatic compounds
+T55	Substrate 2702 2726	total aromatic compounds
+T56	Substrate 2737 2744	xylenes
+T57	Substrate 2708 2726	aromatic compounds
+T58	Property 2684 2698	concentrations
+T59	Property 2708 2716	aromatic
+T60	ReactionOrProcess 2767 2780	hybridization
+T61	Microbes 2833 2842	nahA gene
+T62	Environment 2800 2809	Microcosm
+T63	ReactionOrProcess 2814 2827	hybridization
+T64	Environment 2905 2909	soil
+T65	Environment 2931 2935	soil
+T66	Substrate 2867 2875	gasoline
+T67	Substrate 2894 2902	gasoline
+T68	ReactionOrProcess 2947 2960	hybridization
+T69	ReactionOrProcess 3079 3089	replicates
+T70	Environment 3283 3292	microcosm
+T71	Environment 3171 3175	soil
+T72	Environment 3208 3212	soil
+T73	Substrate 3246 3255	petroleum
+T74	ReactionOrProcess 3155 3165	extraction
+T75	ReactionOrProcess 3151 3165	DNA extraction

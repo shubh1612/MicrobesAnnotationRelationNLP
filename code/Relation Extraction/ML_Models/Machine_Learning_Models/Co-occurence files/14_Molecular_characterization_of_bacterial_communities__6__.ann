@@ -1,0 +1,100 @@
+T1	Microbes 270 283	Desulfovibrio
+T2	Microbes 145 155	consortium
+T3	Environment 140 144	sand
+T4	Microbes 329 342	Desulfovibrio
+T5	Microbes 513 530	Cryptanaerobacter
+T6	Microbes 694 713	Deltaproteobacteria
+T7	Microbes 824 837	Bacteroidetes
+T8	Microbes 887 908	Epsilonproteobacteria
+T9	Microbes 738 752	Actinobacteria
+T10	Microbes 861 871	Clostridia
+T11	Microbes 1053 1063	consortium
+T12	ReactionOrProcess 1112 1118	T-RFLP
+T13	ReactionOrProcess 1198 1204	T-RFLP
+T14	Microbes 1386 1405	Deltaproteobacteria
+T15	ReactionOrProcess 1627 1633	T-RFLP
+T16	Microbes 1911 1928	Cryptanaerobacter
+T17	Microbes 2038 2048	consortium
+T18	Microbes 2123 2133	consortium
+T19	Environment 2147 2151	sand
+T20	Substrate 2110 2117	benzene
+T21	Substrate 2169 2176	toluene
+T22	Substrate 2182 2188	xylene
+T23	Substrate 2198 2204	phenol
+T24	Property 2082 2090	aromatic
+T25	ReactionOrProcess 2160 2168	degraded
+T26	Substrate 2413 2420	benzene
+T27	Substrate 2335 2342	toluene
+T28	Substrate 2324 2330	phenol
+T29	ReactionOrProcess 2377 2398	anaerobic degradation
+T30	Environment 2449 2459	microcosms
+T31	Substrate 2490 2497	benzene
+T32	Substrate 2519 2526	toluene
+T33	Substrate 2499 2505	phenol
+T34	Nutrient 2549 2555	carbon
+T35	Environment 2654 2681	sulfate-reducing conditions
+T36	ReactionOrProcess 2639 2647	degraded
+T37	ReactionOrProcess 2761 2770	depletion
+T38	Substrate 2902 2908	phenol
+T39	Substrate 2930 2937	benzene
+T40	Substrate 3056 3063	toluene
+T41	Property 3100 3113	concentration
+T42	ReactionOrProcess 3041 3050	oxidation
+T43	Environment 3274 3284	microcosms
+T44	Environment 3345 3349	sand
+T45	Substrate 3428 3435	Benzene
+T46	ReactionOrProcess 3440 3448	degraded
+T47	Substrate 3490 3496	phenol
+T48	ReactionOrProcess 3502 3510	degraded
+T49	Substrate 3625 3632	benzene
+T50	Substrate 3592 3599	toluene
+T51	Microbes 3843 3853	consortium
+T52	Environment 3743 3747	sand
+T53	ReactionOrProcess 3724 3733	extracted
+T54	ReactionOrProcess 3770 3776	T-RFLP
+T55	ReactionOrProcess 3865 3876	degradation
+T56	Nutrient 3894 3900	carbon
+T57	Microbes 3934 3951	Cryptanaerobacter
+T58	Substrate 4101 4108	benzene
+T59	Substrate 4038 4045	toluene
+T60	Substrate 4060 4066	phenol
+R1	FoundIn Arg1:T1 Arg2:T3
+R2	FoundIn Arg1:T2 Arg2:T3
+R3	CarriedOn Arg1:T12 Arg2:T11
+R4	FoundIn Arg1:T17 Arg2:T19
+R5	FoundIn Arg1:T18 Arg2:T19
+R6	Of Arg1:T17 Arg2:T24
+R7	Of Arg1:T18 Arg2:T24
+R8	ActOn Arg1:T17 Arg2:T20
+R9	ActOn Arg1:T17 Arg2:T21
+R10	ActOn Arg1:T17 Arg2:T22
+R11	ActOn Arg1:T17 Arg2:T23
+R12	ActOn Arg1:T18 Arg2:T20
+R13	ActOn Arg1:T18 Arg2:T21
+R14	ActOn Arg1:T18 Arg2:T22
+R15	ActOn Arg1:T18 Arg2:T23
+R16	CarriedOn Arg1:T25 Arg2:T17
+R17	CarriedOn Arg1:T25 Arg2:T18
+R18	CarriedOn Arg1:T25 Arg2:T20
+R19	CarriedOn Arg1:T25 Arg2:T21
+R20	CarriedOn Arg1:T25 Arg2:T22
+R21	CarriedOn Arg1:T25 Arg2:T23
+R22	OccursIn Arg1:T25 Arg2:T19
+R23	CarriedOn Arg1:T29 Arg2:T26
+R24	CarriedOn Arg1:T29 Arg2:T27
+R25	CarriedOn Arg1:T29 Arg2:T28
+R26	OccursIn Arg1:T36 Arg2:T35
+R27	CarriedOn Arg1:T42 Arg2:T39
+R28	CarriedOn Arg1:T42 Arg2:T40
+R29	CarriedOn Arg1:T46 Arg2:T45
+R30	CarriedOn Arg1:T48 Arg2:T47
+R31	FoundIn Arg1:T51 Arg2:T52
+R32	CarriedOn Arg1:T53 Arg2:T51
+R33	CarriedOn Arg1:T54 Arg2:T51
+R34	CarriedOn Arg1:T55 Arg2:T51
+R35	OccursIn Arg1:T53 Arg2:T52
+R36	OccursIn Arg1:T54 Arg2:T52
+R37	OccursIn Arg1:T55 Arg2:T52
+R38	ActOn Arg1:T57 Arg2:T58
+R39	ActOn Arg1:T57 Arg2:T59
+R40	ActOn Arg1:T57 Arg2:T60

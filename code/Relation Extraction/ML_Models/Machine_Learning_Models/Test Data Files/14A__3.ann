@@ -1,0 +1,35 @@
+T1 ReactionOrProcess 599 603 DGGE
+T2 ReactionOrProcess 576 595 Dendrogram analysis
+T3 ReactionOrProcess 1045 1054 inoculate
+T4 ReactionOrProcess 1094 1103 incubated
+T5 ReactionOrProcess 1020 1031 enumeration
+T6 ReactionOrProcess 1238 1248 incubation
+T7 Environment 1280 1285 water
+T8 ReactionOrProcess 1325 1334 oxidation
+T9 Nutrient 1365 1371 carbon
+T10 Substrate 1689 1716 total petroleum hydrocarbon
+T11 Substrate 1895 1907 diesel fuels
+T12 Substrate 1994 2003 petroleum
+T13 Substrate 2004 2015 hydrocarbon
+T14 Property 2016 2030 concentrations
+T15 Nutrient 1933 1939 carbon
+T16 Nutrient 1950 1958 nitrogen
+T17 Nutrient 2063 2069 carbon
+T18 Nutrient 2080 2088 nitrogen
+T19 Property 2230 2235 sandy
+T20 Nutrient 2405 2411 carbon
+T21 Environment 2554 2559 soils
+T22 Environment 2582 2587 soils
+T23 Nutrient 2490 2498 nitrogen
+T24 Nutrient 2608 2614 carbon
+T25 Nutrient 2624 2632 nitrogen
+T26 Microbes 2894 2941 total heterotrophic cold-adapted microorganisms
+T27 Environment 2958 2962 soil
+T28 Substrate 3394 3397 TPH
+T29 Environment 3537 3555 contaminated sites
+T30 Environment 3698 3703 soils
+T31 ReactionOrProcess 3614 3617 PCR
+T32 Environment 3835 3847 soil samples
+T33 ReactionOrProcess 3738 3742 DGGE
+R2 OccursIn Arg1:T31 Arg2:T30
+R3 OccursIn Arg1:T33 Arg2:T32

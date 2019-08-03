@@ -1,0 +1,32 @@
+T1	Enzyme 30 53	Naphthalene Dioxygenase
+T2	Environment 101 107	Waters
+T3	Environment 93 100	Aquifer
+T4	Environment 65 100	Coal-Tar-Waste-Contaminated Aquifer
+T5	Substrate 30 41	Naphthalene
+T6	Enzyme 267 290	naphthalene dioxygenase
+T7	Environment 151 162	groundwater
+T8	Environment 205 212	aquifer
+T9	Environment 177 212	coal-tar-waste-contaminated aquifer
+T10	Substrate 267 278	naphthalene
+T11	Microbes 965 983	anaerobic bacteria
+T12	Microbes 802 814	Methylomonas
+T13	Microbes 820 831	Gallionella
+T14	Microbes 766 782	aerobic bacteria
+T15	Microbes 790 800	Nitrospira
+T16	Microbes 1016 1032	Desulfotomaculum
+T17	Microbes 1000 1010	Syntrophus
+T18	Microbes 990 998	Azoarcus
+T19	ReactionOrProcess 1152 1155	PCR
+T20	Microbes 1707 1763	nitrate-reducing aromatic hydrocarbon-degrading bacteria
+T21	Microbes 1691 1701	Syntrophus
+T22	Microbes 1724 1763	aromatic hydrocarbon-degrading bacteria
+T23	Microbes 1678 1689	Gallionella
+T24	Environment 1615 1626	groundwater
+T25	Environment 1778 1789	groundwater
+T26	Environment 1707 1723	nitrate-reducing
+T27	Substrate 1832 1843	naphthalene
+T28	Substrate 1819 1826	methane
+T29	Property 1575 1591	sulfate-reducing
+T30	Property 1724 1732	aromatic
+T31	Nutrient 1813 1817	iron
+T32	Nutrient 1805 1817	ferrous iron

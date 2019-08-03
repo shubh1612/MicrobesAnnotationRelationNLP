@@ -1,0 +1,58 @@
+T1	Environment 107 124	coastal oil spill
+T2	Substrate 6 15	crude oil
+T3	Substrate 107 118	coastal oil
+T4	Substrate 12 15	oil
+T5	Substrate 115 118	oil
+T6	ReactionOrProcess 16 30	bioremediation
+T7	ReactionOrProcess 12 30	oil bioremediation
+T8	Microbes 232 240	inoculum
+T9	Substrate 146 149	oil
+T10	Substrate 159 162	oil
+T11	Substrate 170 173	oil
+T12	Substrate 194 197	oil
+T13	Substrate 313 336	phospholipid fatty acid
+T14	Substrate 565 576	hydrocarbon
+T15	ReactionOrProcess 394 409	electrophoresis
+T16	ReactionOrProcess 485 500	decontamination
+R1	CarriedOn Arg1:T15 Arg2:T14
+R2	CarriedOn Arg1:T16 Arg2:T14
+T17	Property 698 711	gram-negative
+T18	ReactionOrProcess 603 607	PLFA
+T19	Environment 764 775	oiled plots
+T20	Property 796 809	gram-negative
+T21	ReactionOrProcess 822 832	adaptation
+T22	ReactionOrProcess 741 745	PLFA
+T23	ReactionOrProcess 883 887	DGGE
+T24	ReactionOrProcess 883 896	DGGE analysis
+T25	Environment 1048 1059	oiled plots
+T26	Microbes 1460 1476	α-proteobacteria
+T27	Substrate 1381 1384	oil
+T28	Property 1420 1433	gram-negative
+T29	ReactionOrProcess 1332 1339	excised
+R3	CarriedOn Arg1:T29 Arg2:T26
+R4	CarriedOn Arg1:T29 Arg2:T27
+T30	Microbes 1522 1538	α-Proteobacteria
+T31	Environment 1662 1673	oiled plots
+T32	ReactionOrProcess 1759 1763	DGGE
+T33	ReactionOrProcess 1580 1584	PLFA
+T34	ReactionOrProcess 1759 1772	DGGE analysis
+T35	Substrate 2509 2520	hydrocarbon
+T36	ReactionOrProcess 2509 2535	hydrocarbon biodegradation
+T37	ReactionOrProcess 2521 2535	biodegradation
+T38	ReactionOrProcess 2669 2678	degrading
+T39	Substrate 2835 2859	phospholipid fatty acids
+T40	Substrate 3122 3125	Lip
+T41	Property 3497 3510	gram-negative
+T42	Property 3661 3666	toxic
+T43	Environment 4005 4042	hydrocarbon-contaminated environments
+T44	Property 3935 3948	gram-negative
+T45	Property 4005 4029	hydrocarbon-contaminated
+T46	Property 4322 4341	denaturing gradient
+T47	ReactionOrProcess 4322 4361	denaturing gradient gel electrophoresis
+T48	ReactionOrProcess 4346 4361	electrophoresis
+T49	ReactionOrProcess 4322 4332	denaturing
+T50	Environment 4958 4978	controlled oil spill
+T51	Substrate 4958 4972	controlled oil
+T52	Substrate 4969 4972	oil
+T53	Property 4909 4920	attenuation
+T54	ReactionOrProcess 4934 4948	bioremediation

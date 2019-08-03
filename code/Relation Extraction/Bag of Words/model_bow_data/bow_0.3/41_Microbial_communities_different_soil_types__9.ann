@@ -1,0 +1,60 @@
+T1	Substrate 199 210	hydrocarbon
+T2	Environment 539 552	control soils
+T3	Environment 587 605	oil-affected soils
+T4	Environment 587 605	oil-affected soils
+T5	Environment 391 395	soil
+T6	Environment 547 552	soils
+T7	Environment 600 605	soils
+T8	Environment 384 395	Arctic soil
+T9	Substrate 350 363	long-term oil
+T10	Substrate 360 363	oil
+T11	ReactionOrProcess 402 412	inoculated
+T12	Substrate 654 657	oil
+T13	ReactionOrProcess 834 838	DGGE
+T14	Environment 1085 1089	soil
+T15	Substrate 1158 1164	diesel
+T16	Environment 1344 1368	diesel-contaminated soil
+T17	Environment 1306 1310	soil
+T18	Environment 1364 1368	soil
+T19	Substrate 1217 1220	oil
+T20	ReactionOrProcess 1239 1253	bioremediation
+T21	Environment 1683 1687	soil
+T22	ReactionOrProcess 1836 1846	Extraction
+T23	ReactionOrProcess 1863 1868	PLFAs
+T24	Environment 1976 1980	soil
+T25	Substrate 1929 1932	oil
+T26	Substrate 1957 1963	diesel
+T27	ReactionOrProcess 1991 1995	PLFA
+T28	ReactionOrProcess 1892 1896	PLFA
+R1	CarriedOn Arg1:T27 Arg2:T26
+R2	CarriedOn Arg1:T28 Arg2:T26
+T29	Environment 2153 2157	soil
+T30	Substrate 2024 2030	Diesel
+T31	ReactionOrProcess 2134 2144	incubation
+T32	ReactionOrProcess 2191 2195	PLFA
+T33	Environment 2225 2229	soil
+T34	Environment 2380 2384	soil
+T35	Substrate 2337 2343	diesel
+T36	Environment 2501 2505	soil
+T37	Substrate 2530 2536	diesel
+T38	ReactionOrProcess 2395 2399	PLFA
+R3	CarriedOn Arg1:T38 Arg2:T37
+T39	Environment 2628 2632	soil
+T40	Substrate 2547 2553	Diesel
+T41	ReactionOrProcess 2654 2658	PLFA
+T42	Environment 2943 2956	control soils
+T43	Environment 2915 2933	contaminated soils
+T44	Environment 2860 2864	soil
+T45	Environment 2951 2956	soils
+T46	Environment 2928 2933	soils
+T47	Environment 2915 2933	contaminated soils
+T48	Substrate 2796 2802	diesel
+T49	Substrate 3062 3068	diesel
+T50	ReactionOrProcess 3128 3132	PLFA
+T51	ReactionOrProcess 3044 3049	PLFAs
+T52	ReactionOrProcess 3091 3096	PLFAs
+T53	Substrate 3356 3359	oil
+T54	Substrate 3419 3422	oil
+T55	Property 3487 3500	Gram-negative
+T56	ReactionOrProcess 3360 3374	bioremediation
+T57	ReactionOrProcess 3356 3374	oil bioremediation

@@ -1,0 +1,90 @@
+T1 Microbes 49 63 proteobacteria
+T2 Environment 77 87 subsurface
+T3 Environment 104 111 aquifer
+T4 Microbes 145 162 Desulfosporosinus
+T5 Environment 193 204 groundwater
+T6 Environment 339 350 groundwater
+T7 Environment 407 428 contaminated aquifers
+T8 Environment 497 508 groundwater
+T9 Environment 648 654 plumes
+T10 Substrate 461 481 Aromatic hydrocarbon
+T11 Substrate 658 679 aromatic hydrocarbons
+T12 Property 482 493 attenuation
+T13 ReactionOrProcess 633 644 remediation
+T14 Environment 900 911 groundwater
+T15 Property 752 764 methanogenic
+T16 ReactionOrProcess 883 892 depletion
+T17 ReactionOrProcess 716 735 toluene degradation
+T18 ReactionOrProcess 777 791 methanogenesis
+T19 Environment 943 970 sulfate-reducing conditions
+T20 Substrate 913 920 Benzene
+T21 ReactionOrProcess 928 936 degraded
+T22 Environment 1056 1063 aquifer
+T23 Environment 1190 1206 nitrate-reducing
+T24 Environment 1156 1163 aquifer
+T25 Substrate 1106 1113 benzene
+T26 ReactionOrProcess 1125 1133 degraded
+T27 Environment 1355 1366 groundwater
+T28 Environment 1315 1322 aquifer
+T29 Substrate 1222 1229 benzene
+T30 Property 1329 1343 concentrations
+T31 Property 1252 1263 attenuation
+T32 Environment 1565 1576 groundwater
+T33 Environment 1599 1604 water
+T34 Environment 1726 1732 plumes
+T35 Substrate 1736 1757 aromatic hydrocarbons
+T36 Property 1711 1722 attenuation
+T37 Environment 1909 1930 anaerobic groundwater
+T38 Environment 2057 2067 subsurface
+T39 Environment 2301 2311 subsurface
+T40 Environment 2352 2356 soil
+T41 Environment 2198 2209 vadose zone
+T42 Substrate 2246 2280 carcinogenic aromatic hydrocarbons
+T43 Substrate 2169 2190 aromatic hydrocarbons
+T44 ReactionOrProcess 2154 2165 remediation
+T45 Environment 2424 2430 plumes
+T46 Environment 2505 2530 underground storage tanks
+T47 Environment 2776 2783 aquifer
+T48 Substrate 2715 2720 LNAPL
+T49 Substrate 2616 2627 hydrocarbon
+T50 Environment 2991 3002 groundwater
+T51 Substrate 2879 2900 volatile hydrocarbons
+T52 ReactionOrProcess 2861 2875 biodegradation
+T53 Environment 3137 3148 groundwater
+T54 Environment 3030 3034 Soil
+T55 Substrate 3125 3136 hydrocarbon
+T56 Substrate 3205 3210 LNAPL
+T57 Substrate 3261 3283 free phase hydrocarbon
+T58 Property 3196 3204 Residual
+T59 Environment 3375 3379 soil
+T60 Environment 3711 3715 soil
+T61 Substrate 3638 3645 benzene
+T62 Substrate 3647 3654 toluene
+T63 Substrate 3608 3629 aromatic hydrocarbons
+T64 Substrate 3667 3673 xylene
+T65 Substrate 3578 3599 volatile hydrocarbons
+T66 Nutrient 3733 3739 carbon
+T67 Nutrient 3722 3728 oxygen
+T68 Environment 3979 3983 soil
+T69 Environment 4035 4039 soil
+T70 Environment 4014 4019 water
+T71 Nutrient 3963 3969 oxygen
+R4 CarriedOn Arg1:T13 Arg2:T10
+R5 CarriedOn Arg1:T13 Arg2:T11
+R6 OccursIn Arg1:T13 Arg2:T8
+R7 OccursIn Arg1:T13 Arg2:T9
+R8 OccursIn Arg1:T16 Arg2:T14
+R9 OccursIn Arg1:T17 Arg2:T14
+R10 OccursIn Arg1:T18 Arg2:T14
+R11 CarriedOn Arg1:T21 Arg2:T20
+R12 OccursIn Arg1:T21 Arg2:T19
+R13 CarriedOn Arg1:T26 Arg2:T25
+R14 OccursIn Arg1:T26 Arg2:T23
+R15 OccursIn Arg1:T26 Arg2:T24
+R16 CarriedOn Arg1:T44 Arg2:T42
+R17 CarriedOn Arg1:T44 Arg2:T43
+R18 OccursIn Arg1:T44 Arg2:T39
+R19 OccursIn Arg1:T44 Arg2:T40
+R20 OccursIn Arg1:T44 Arg2:T41
+R21 CarriedOn Arg1:T52 Arg2:T51
+R22 OccursIn Arg1:T52 Arg2:T50

@@ -1,0 +1,62 @@
+T1	Substrate 4 11	benzene
+T2	ReactionOrProcess 12 23	degradation
+T3	Microbes 537 545	inoculum
+T4	Environment 561 571	microcosms
+T5	Environment 488 492	sand
+T6	ReactionOrProcess 601 608	cloning
+T7	Environment 662 672	microcosms
+T8	ReactionOrProcess 878 907	anaerobic benzene degradation
+T9	Environment 1012 1032	contaminated aquifer
+T10	Substrate 1100 1107	benzene
+T11	Environment 1213 1220	aquifer
+T12	Substrate 1186 1193	benzene
+T13	Property 1171 1182	contaminant
+T14	Substrate 1312 1319	
+T15	Property 1320 1334	concentrations
+T16	Environment 1410 1417	aquifer
+T17	Environment 1468 1476	aquifers
+T18	Environment 1633 1642	sediments
+T19	Environment 1628 1632	sand
+T20	Environment 1581 1588	aquifer
+T21	Environment 1685 1693	aquifers
+T22	Nutrient 1730 1747	electron acceptor
+T23	Environment 1829 1836	aquifer
+T24	Property 1778 1789	attenuation
+T25	Environment 2161 2168	aquifer
+T26	Substrate 2091 2098	toluene
+T27	Nutrient 2130 2147	electron acceptor
+T28	Environment 2484 2504	sulfidic groundwater
+T29	Environment 2284 2291	aquifer
+T30	Environment 2520 2527	aquifer
+T31	Substrate 2228 2245	anaerobic benzene
+T32	ReactionOrProcess 2246 2260	bioremediation
+T33	Environment 2569 2573	sand
+T34	Environment 2645 2657	aerobic sand
+T35	Environment 2616 2620	sand
+T36	ReactionOrProcess 2666 2672	sieved
+T37	Environment 2829 2840	groundwater
+T38	Substrate 2868 2875	benzene
+T39	Substrate 2877 2884	
+T40	Substrate 2886 2898	ethylbenzene
+T41	Substrate 2903 2910	xylenes
+T42	Nutrient 2999 3007	ammonium
+T43	Nutrient 3037 3046	potassium
+T44	Microbes 3244 3254	consortium
+T45	Environment 3263 3273	Microcosms
+T46	Nutrient 3437 3445	nitrogen
+T47	Environment 3501 3505	sand
+T48	Environment 3856 3861	water
+T49	Substrate 3689 3696	
+T50	Substrate 3724 3731	toluene
+T51	Substrate 3707 3713	phenol
+T52	Nutrient 3784 3790	carbon
+T53	ReactionOrProcess 3886 3896	replicates
+R1	CarriedOn Arg1:T2 Arg2:T1
+R2	FoundIn Arg1:T3 Arg2:T4
+R3	FoundIn Arg1:T3 Arg2:T5
+R4	CarriedOn Arg1:T6 Arg2:T3
+R7	CarriedOn Arg1:T32 Arg2:T31
+R9	OccursIn Arg1:T32 Arg2:T29
+R11	OccursIn Arg1:T36 Arg2:T34
+R12	OccursIn Arg1:T36 Arg2:T35
+R13	FoundIn Arg1:T44 Arg2:T45

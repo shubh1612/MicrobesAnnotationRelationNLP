@@ -1,0 +1,52 @@
+T1	Substrate 356 363	toluene
+T2	Microbes 561 579	enrichment culture
+T3	Microbes 538 549	strain BuS5
+T4	Environment 607 623	marine sediments
+T5	Substrate 479 492	chain alkanes
+T6	Substrate 505 512	propane
+T7	ReactionOrProcess 529 537	reducing
+T8	Substrate 785 792	propane
+T9	Substrate 680 686	butane
+T10	Nutrient 734 740	carbon
+T11	Nutrient 859 865	carbon
+T12	Microbes 1043 1062	enrichment cultures
+T13	Substrate 1006 1013	propane
+T14	Property 1030 1042	sulfidogenic
+T15	ReactionOrProcess 974 994	anaerobic activation
+T16	Substrate 1179 1193	cyclic alkanes
+T17	Property 1300 1317	anoxic conditions
+T18	ReactionOrProcess 1282 1293	degradation
+T19	Substrate 1563 1570	toluene
+T20	Property 1596 1614	strictly anaerobic
+T21	Enzyme 1733 1756	alkylsuccinate synthase
+T22	Substrate 1811 1820	n-alkanes
+T23	Substrate 1877 1889	cycloalkanes
+T24	Enzyme 2123 2146	alkylsuccinate synthase
+T25	Property 2213 2225	sulfidogenic
+T26	Substrate 2357 2364	nitrate
+T27	ReactionOrProcess 2365 2373	reducing
+T28	Microbes 2466 2480	Proteobacteria
+T29	Microbes 2597 2616	enrichment cultures
+T30	Substrate 2703 2710	alkanes
+T31	Property 2554 2566	methanogenic
+T32	Property 2717 2729	methanogenic
+T33	ReactionOrProcess 2587 2596	degrading
+T34	Property 2891 2903	sulfidogenic
+T35	Substrate 3026 3035	n-alkanes
+T36	Substrate 3156 3163	alkanes
+T37	Nutrient 3245 3251	carbon
+T38	Substrate 3434 3441	alkanes
+T39	ReactionOrProcess 3487 3497	metabolize
+T40	Nutrient 3556 3562	carbon
+T41	Nutrient 3640 3646	carbon
+R1	FoundIn Arg1:T2 Arg2:T4
+R2	FoundIn Arg1:T3 Arg2:T4
+R3	ActOn Arg1:T2 Arg2:T5
+R4	ActOn Arg1:T2 Arg2:T6
+R5	ActOn Arg1:T3 Arg2:T5
+R6	ActOn Arg1:T3 Arg2:T6
+R7	Of Arg1:T12 Arg2:T14
+R8	ActOn Arg1:T12 Arg2:T13
+R9	Of Arg1:T29 Arg2:T31
+R10	Of Arg1:T29 Arg2:T32
+R11	ActOn Arg1:T29 Arg2:T30

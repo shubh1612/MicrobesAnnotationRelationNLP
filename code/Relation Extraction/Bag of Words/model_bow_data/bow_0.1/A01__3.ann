@@ -1,0 +1,32 @@
+T1	Enzyme 95 118	alkylsuccinate synthase
+T2	Substrate 95 109	alkylsuccinate
+T3	ReactionOrProcess 540 543	PCR
+T4	Property 710 721	temperature
+T5	Property 816 827	temperature
+T6	ReactionOrProcess 848 857	extension
+T7	ReactionOrProcess 1053 1059	cloned
+T8	ReactionOrProcess 995 1003	purified
+T9	ReactionOrProcess 1183 1186	PCR
+T10	ReactionOrProcess 2007 2017	replicates
+T11	Environment 2349 2354	water
+T12	ReactionOrProcess 2237 2248	EXTRACTIONS
+T13	ReactionOrProcess 2364 2373	acidified
+T14	ReactionOrProcess 2305 2311	thawed
+T15	Environment 2487 2492	water
+T16	ReactionOrProcess 2598 2609	evaporation
+T17	Environment 3204 3209	water
+T18	Property 3250 3261	temperature
+T19	Substrate 3450 3465	alkylsuccinates
+T20	Property 3612 3621	retention
+T21	ReactionOrProcess 3612 3621	retention
+T22	Environment 3731 3739	sediment
+T23	Environment 3817 3825	sediment
+T24	Environment 3722 3739	deep-sea sediment
+T25	Environment 4112 4120	sediment
+T26	Environment 4103 4120	deep-sea sediment
+T27	Microbes 4323 4330	archaea
+T28	Environment 4406 4414	sediment
+T29	Microbes 4536 4543	archaea
+T30	Microbes 4607 4620	Euryarchaeota
+T31	Environment 4573 4581	sediment
+T32	Environment 4564 4581	deep-sea sediment

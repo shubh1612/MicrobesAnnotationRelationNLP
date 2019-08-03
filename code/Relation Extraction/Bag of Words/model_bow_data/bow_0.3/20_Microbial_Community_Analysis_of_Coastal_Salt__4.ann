@@ -1,0 +1,63 @@
+T1	Substrate 37 46	crude oil
+T2	Substrate 43 46	oil
+T3	Substrate 107 110	oil
+T4	ReactionOrProcess 89 99	weathering
+T5	Environment 185 194	sediments
+T6	Environment 203 216	Marsh samples
+T7	Substrate 158 167	n-alkanes
+T8	Property 140 154	concentrations
+T9	Substrate 325 332	alkanes
+T10	Substrate 313 331	Short-chain alkane
+T11	Substrate 313 332	Short-chain alkanes
+T12	Property 384 398	concentrations
+T13	Environment 487 496	sediments
+T14	Environment 481 496	marsh sediments
+T15	Environment 481 496	marsh sediments
+T16	Environment 1021 1034	Marsh samples
+T17	Microbes 1167 1177	Firmicutes
+T18	Microbes 1182 1193	Tenericutes
+T19	Environment 1361 1371	subsurface
+T20	Environment 1425 1438	Marsh samples
+T21	Microbes 1508 1521	Bacteroidetes
+T22	Microbes 1636 1650	Proteobacteria
+T23	Microbes 1655 1666	Tenericutes
+T24	Microbes 1785 1795	Firmicutes
+T25	Environment 1893 1902	sediments
+T26	Environment 1952 1961	sediments
+T27	Environment 1942 1960	Surficial sediment
+T28	Environment 1942 1961	Surficial sediments
+T29	Environment 2006 2016	subsurface
+T30	Environment 2031 2044	Marsh samples
+T31	Environment 1942 1961	Surficial sediments
+T32	Environment 2300 2309	sediments
+T33	Environment 2294 2309	Marsh sediments
+T34	Environment 2294 2309	Marsh sediments
+T35	Property 2255 2267	fluorescence
+T36	Environment 2610 2623	Marsh samples
+T37	Microbes 2744 2754	Firmicutes
+T38	Microbes 2825 2839	Actinobacteria
+T39	Microbes 3640 3650	Firmicutes
+T40	Microbes 3732 3742	Clostridia
+T41	Microbes 3808 3826	Betaproteobacteria
+T42	Microbes 3792 3803	Tenericutes
+T43	Microbes 3965 3980	Verrucomicrobia
+T44	Microbes 3993 4006	Bacteroidetes
+T45	Microbes 4072 4091	Gammaproteobacteria
+T46	Microbes 4019 4032	Cyanobacteria
+T47	Microbes 4045 4059	Planctomycetes
+T48	Environment 4275 4284	sediments
+T49	Environment 4269 4284	marsh sediments
+T50	Environment 4269 4284	marsh sediments
+T51	Environment 4433 4442	sediments
+T52	Environment 4427 4442	Marsh sediments
+T53	Environment 4427 4442	Marsh sediments
+T54	Environment 4592 4605	Marsh samples
+T55	Environment 4803 4812	sediments
+T56	ReactionOrProcess 4744 4755	remediation
+T57	ReactionOrProcess 4736 4755	organic remediation
+T58	Nutrient 4702 4708	carbon
+T59	Environment 4868 4876	sediment
+T60	Environment 4862 4876	Marsh sediment
+T61	ReactionOrProcess 5021 5032	remediation
+T62	ReactionOrProcess 5013 5032	organic remediation
+T63	Nutrient 4997 5003	carbon

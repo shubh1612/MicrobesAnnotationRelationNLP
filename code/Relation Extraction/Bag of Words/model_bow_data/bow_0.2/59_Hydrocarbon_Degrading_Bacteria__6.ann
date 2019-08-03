@@ -1,0 +1,61 @@
+T1	Environment 88 99	oiled sands
+T2	Environment 113 118	Beach
+T3	Environment 94 99	sands
+T4	Microbes 221 233	Marinobacter
+T5	Environment 339 344	beach
+T6	Environment 339 350	beach sands
+T7	Environment 345 350	sands
+T8	Microbes 535 548	Acinetobacter
+T9	Microbes 580 592	Marinobacter
+T10	Substrate 655 658	oil
+T11	Substrate 774 777	oil
+T12	Substrate 697 700	Oil
+T13	Property 765 773	residual
+T14	ReactionOrProcess 701 712	degradation
+T15	ReactionOrProcess 697 712	Oil degradation
+R1	CarriedOn Arg1:T14 Arg2:T11
+R2	CarriedOn Arg1:T15 Arg2:T11
+T16	Substrate 883 886	oil
+T17	Substrate 1086 1089	oil
+T18	Property 1053 1073	rapid aerobic growth
+T19	Nutrient 1102 1108	carbon
+T20	Microbes 1220 1233	Acinetobacter
+T21	Substrate 1349 1358	crude oil
+T22	Substrate 1257 1260	oil
+T23	Substrate 1355 1358	oil
+T24	ReactionOrProcess 1359 1367	degraded
+T25	ReactionOrProcess 1261 1272	degradation
+T26	ReactionOrProcess 1257 1272	oil degradation
+R3	CarriedOn Arg1:T25 Arg2:T21
+R4	CarriedOn Arg1:T26 Arg2:T21
+T27	Substrate 1620 1646	chloroform-extractable oil
+T28	Substrate 1580 1583	oil
+T29	Substrate 1643 1646	oil
+T30	ReactionOrProcess 1584 1595	degradation
+T31	ReactionOrProcess 1580 1595	oil degradation
+R5	CarriedOn Arg1:T30 Arg2:T27
+R6	CarriedOn Arg1:T31 Arg2:T27
+T32	Substrate 1725 1728	oil
+T33	Microbes 2030 2043	Acinetobacter
+T34	Nutrient 2203 2209	carbon
+T35	Environment 2451 2457	marine
+T36	Property 2515 2529	concentrations
+T37	Nutrient 2510 2514	NaCl
+T38	Environment 2766 2772	marine
+T39	Substrate 2800 2812	hydrocarbons
+T40	Substrate 2800 2812	hydrocarbons
+T41	ReactionOrProcess 2678 2689	Utilization
+T42	Nutrient 2828 2834	carbon
+R7	CarriedOn Arg1:T41 Arg2:T39
+R8	CarriedOn Arg1:T41 Arg2:T40
+T43	Nutrient 2966 2972	carbon
+T44	Microbes 3056 3069	Acinetobacter
+T45	Microbes 3075 3087	Marinobacter
+T46	Nutrient 3133 3139	carbon
+T47	Nutrient 3212 3218	carbon
+T48	Environment 3316 3321	beach
+T49	Environment 3316 3327	beach sands
+T50	Environment 3322 3327	sands
+T51	Substrate 3917 3920	oil
+T52	Substrate 4063 4066	oil
+T53	Substrate 4409 4412	oil

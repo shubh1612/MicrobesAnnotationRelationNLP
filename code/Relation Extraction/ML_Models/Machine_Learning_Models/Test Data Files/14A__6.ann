@@ -1,0 +1,24 @@
+T1 ReactionOrProcess 40 49 oxidation
+T2 ReactionOrProcess 372 381 oxidation
+T3 ReactionOrProcess 278 285 oxidize
+T4 Substrate 456 459 TPH
+T5 Environment 465 470 soils
+T6 Substrate 578 609 long-term petroleum hydrocarbon
+T7 Microbes 635 672 heterotrophic cold-adapted population
+T8 Substrate 629 648 total heterotrophic
+T9 Substrate 799 808 petroleum
+T10 Property 809 833 hydrocarbon-contaminated
+T11 Microbes 1171 1195 heterotrophic population
+T12 Substrate 1165 1184 total heterotrophic
+T13 Environment 1296 1308 soil samples
+T14 ReactionOrProcess 1375 1379 DGGE
+T15 ReactionOrProcess 2104 2114 enrichment
+T16 Substrate 2203 2225 petroleum hydrocarbons
+T17 Substrate 2604 2615 hydrocarbon
+T18 ReactionOrProcess 2649 2653 DGGE
+T19 Environment 2981 3000 uncontaminated site
+T20 Property 3407 3413 stable
+T21 Nutrient 3742 3748 carbon
+T22 ReactionOrProcess 3964 3974 enrichment
+R3 OccursIn Arg1:T14 Arg2:T13
+R4 CarriedOn Arg1:T18 Arg2:T17

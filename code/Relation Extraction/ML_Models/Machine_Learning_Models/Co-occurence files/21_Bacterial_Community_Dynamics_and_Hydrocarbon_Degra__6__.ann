@@ -1,0 +1,20 @@
+T1	ReactionOrProcess 35 58	hydrocarbon degradation
+T2	ReactionOrProcess 257 268	degradation
+T3	Substrate 722 725	oil
+T4	ReactionOrProcess 960 973	DGGE analysis
+T5	Substrate 1199 1202	oil
+T6	ReactionOrProcess 1145 1154	replicate
+T7	ReactionOrProcess 1062 1076	DNA extraction
+T8	ReactionOrProcess 1310 1319	replicate
+T9	ReactionOrProcess 1320 1324	DGGE
+T10	ReactionOrProcess 1549 1553	DGGE
+T11	ReactionOrProcess 1692 1696	DGGE
+T12	ReactionOrProcess 2020 2024	DGGE
+T13	ReactionOrProcess 2636 2640	DGGE
+T14	ReactionOrProcess 3238 3266	Principal-component analysis
+T15	ReactionOrProcess 3948 3958	replicates
+T16	Nutrient 4640 4646	carbon
+T17	Substrate 4722 4725	oil
+T18	Substrate 4751 4754	oil
+R1	CarriedOn Arg1:T6 Arg2:T5
+R2	CarriedOn Arg1:T7 Arg2:T5

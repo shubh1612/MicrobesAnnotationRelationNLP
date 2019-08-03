@@ -1,0 +1,157 @@
+A88
+Microbial community composition at an ethane pyrolysis plant site at different hydrocarbon inputs
+Authors
+E.Anne Greene,
+Jason G. Kay,
+Les G. Stehmeier,
+Gerrit Voordouw
+First published: June 2002Full publication history
+DOI: 10.1111/j.1574-6941.2002.tb00956.x  View/save citation
+Cited by (CrossRef): 2 articles Check for updates Citation tools
+*Corresponding author. Tel.: +1 (403) 220 6388; Fax: +1 (403) 289 9311. voordouw@ucalgary.ca
+Abstract
+
+Aerobic biodegradation of C5+, a contaminant at ethane pyrolysis plants, consisting mainly of benzene, toluene, xylene, styrene, dicyclopentadiene (DCPD) and naphthalene, removes all components except the recalcitrant DCPD. The number (N) of total culturable heterotrophs in contaminated and uncontaminated soil cultures increased up to three orders of magnitude upon incubation with C5+, or with C5+ components other than DCPD. Exposure of soil cultures to C5+ for 2–4 weeks and to DCPD for a further 43–52 weeks caused N to increase 3, then decrease two orders of magnitude. Early microbial communities (up to 13 weeks) were dominated by Pseudomonas spp. and late communities (40–60 weeks) by Alcaligenes spp., especially in contaminated soil cultures. The hydrocarbon used (C5+ or one of its components) was a less important determinant of community composition than incubation time. Rates of aerobic degradation of benzene, toluene and styrene by the soil cultures were greater for the pure components than for the components in the C5+ mixture. The difference was less pronounced for m-xylene. The exception, naphthalene, was degraded more slowly when in pure form. However, the combined rate of all C5+ components in the mixture was similar to the highest rates observed for pure components. We conclude that soil communities efficiently metabolize a C5+ mixture or its pure components and that the community composition is hardly affected by different hydrocarbon inputs. Consequently, determination of the community composition does not provide a good indicator of the hydrocarbons being metabolized.
+1Introduction
+
+C5+ is a byproduct of ethane pyrolysis that consists mainly of benzene, toluene, xylenes, styrene, dicyclopentadiene (DCPD) and naphthalene [1]. C5+ components are used in industrial processes, singly or in mixtures [2,3]. Many are also components of gasoline [4,5]. Large-scale, wide-spread use of C5+ and its components increases the risk of their accidental release during transport or handling at industrial sites. In view of their toxicity and potential carcinogenicity [3], clean up of C5+-contaminated soils is important. Field studies have indicated that C5+ is effectively bioremediated under aerobic conditions [6]. The process has two phases. In phase I easily degradable components of C5+ (all except DCPD) are removed in 3–4 months. In phase II a much slower degradation of DCPD is observed (40% in 9 months). Although DCPD is not as toxic or carcinogenic as some of the rapidly degraded C5+ components it has a persistent odor that can be detected at a very low threshold concentration of 6 ppb [7]. Public perception that a site has been successfully bioremediated therefore depends critically on the removal of all C5+ components, including DCPD.
+
+Reverse sample genome probing (RSGP) has been used previously to characterize microbial communities in soils from a C5+-contaminated site, exposed to C5+ or toluene for 2–4 weeks [8,9] or to C5+ for up to 17 weeks [10]. The effects of exposure of soil microbial communities to C5+ components other than toluene or to C5+ followed by long-term exposure to DCPD have not yet been examined and form the focus of the current study.
+2Materials and methods
+
+2.1Source of inocula and culture conditions
+
+Contaminated surface soil was obtained from a polyethylene plant in central Alberta, Canada in 1998. Samples were collected with a hand auger, from a depth of 0.9–1.2 m. Three areas, C1, C2 and C3, at a single location near an ethane pyrolysis plant building were sampled. All three soils consisted of clay till and fill material. Soil was transported to the laboratory in glass jars and stored at 4°C until used. Uncontaminated subsurface soil samples were obtained from three locations at the same site, in 1999, using an auger rig. Soil U1 was taken from a depth of 12–12.5 m, and consisted of clay till and unconsolidated sand. Soil U2 was taken from a depth of 12.5 m, and was an unconsolidated sandy material with a strong orange color. Soil U3 was an equal mixture of clay till taken from a depth of 5.5 m and unconsolidated sand with orange patches taken from a depth of 14 m. Uncontaminated soil samples were collected in metal tins and transported to the laboratory, where they were transferred to glass jars and stored at 4°C until used.
+
+Cultures, consisting of 1 g soil in 10 ml B+NP medium [11], were incubated in sealed dessicators equilibrated with 148.5 g of vacuum pump oil (vpo) and 1.5 g of synthetic C5+ (56% benzene, 25% DCPD, 7% toluene, 4% styrene, 4%m-xylene and 4% naphthalene by weight), or with 148.5 g of vpo and 1.5 g of individual C5+ components. Dilution with vpo reduces the vapor pressure and corresponding aqueous concentration of C5+ or its components to approximately 1% of their maximal values. Before inoculation, soils were aseptically homogenized and solids larger than 0.5 cm in diameter were removed. Some cultures incubated with C5+ for 2 or 4 weeks were then transferred to dessicators equilibrated with 1% DCPD only, or 0.5% naphthalene and 0.5% DCPD. Replicate cultures were removed from the dessicators at each time point. An aliquot of each culture was taken for plate counts and the remainder was extracted to collect DNA for RSGP.
+
+The rates of aerobic removal of C5+ hydrocarbons were studied using cultures consisting of 10 g of soil and 50 ml of B+NP medium [11], in 158-ml serum bottles sealed with Teflon stoppers. At time zero, 2 μl of even synthetic C5+ mixture (equal amounts of benzene, toluene, xylene, styrene, DCPD and naphthalene by weight), 2 μl of a C5+ component or 2 mg of naphthalene were added to the cultures, which were incubated at room temperature. After hydrocarbon removal was complete, or at the end of the experiment, a small sample was taken for plate counting; DNA was extracted from the remainder for RSGP analysis.
+
+Plate counts were done on 1/4 strength Luria–Bertani agar [12]. Colonies were counted after 1 week of incubation at room temperature.
+2.2Analysis of microbial community composition
+
+A modified version of the method of Marmur [13], described by Shen et al. [8], was used to isolate DNA from soil-inoculated cultures. Humic acids were removed using Sepharose 4B spin columns [14]. Total community DNA (100 ng) was combined with 0.25 ng bacteriophage λ DNA, denatured and labelled by extension from random hexamer primers, with [α-32P]dCTP in the deoxyribonucleoside-triphosphate (dNTP) mixture [8,15]. The labelled probe was then hybridized with the RSGP master filter as described previously [10]. Hybridization conditions and phospho-imager detection of bound probe were as described previously [8,10,15] The relative fractions fx were calculated from these hybridization data by setting Σfx=1.
+
+Community compositions were compared using SYSTAT 7.0 statistical analysis software. Dendrograms were generated with the hierarchical clustering function. Communities in these dendrograms are designated by the soil type and the incubation conditions, using abbreviations B, D, N, S, T, and X for benzene, DCPD, naphthalene, styrene, toluene and m-xylene, respectively, and no letter designation for C5+. Thus, C2–4 was soil C2 incubated for 4 weeks in C5+, C1–12X was soil C1 incubated for 12 weeks in m-xylene, C1–4–52D was soil C1 incubated for 4 weeks in C5+ then for 52 weeks in DCPD, whereas C2–2–2ND was soil C2, incubated for 2 weeks in C5+ then for 2 weeks in naphthalene plus DCPD.
+2.3Hydrocarbon analyses and rate determinations
+
+Hydrocarbons were quantified by injecting 10 μl of culture headspace into a Hewlett-Packard HP5890 gas chromatograph equipped with a flame ionization detector and a 30 m×0.53 mm SPB-624 column (Supelco, Bellefonte, PA, USA). The carrier gas was He (flow rate 2.64 ml min−1). The injector and detector temperatures were 210 and 250°C, respectively. The oven temperature program was 60°C for 3 min, increasing by 10°C min−1 to a final temperature of 200°C for 5 min.
+
+The degradation rates for various C5+ hydrocarbons were calculated using the method of Tchobanoglous [16]. Substrate removal data was plotted as zero-order or first-order kinetics. Most rates followed zero-order kinetics better than first-order kinetics; thus, zero-order rates are reported.
+2.4Chemicals and reagents
+
+Reagent grade chemicals were from BDH (Toronto, ON, Canada), Fisher (Fair Lawn, NJ, USA), or Sigma/Aldrich (St. Louis, MO, USA). Agar (Bacto agar), tryptone and yeast extract were from Difco (Detroit, MI, USA). Bacteriophage λ DNA, DNA polymerase I Klenow fragment and dNTPs were purchased from Amersham Pharmacia Biotech (Baie d'Urfé, QC, Canada). [α-32P]dCTP (10 mCi ml−1, 3000 Ci mmol−1) was obtained from ICN (Mississauga, ON, Canada). Benzene (high-performance liquid chromatography grade), DCPD (reagent grade) and naphthalene (99%) were from Sigma/Aldrich; toluene (99.5%), m-xylene and styrene (reagent grade) were from BDH. Vpo 19 was from VWR Scientific (West Chester, PA, USA). Sepharose 4B was from Sigma/Aldrich. All compressed gases were from Praxair Products, Inc. (Calgary, AB, Canada).
+3Results
+
+3.1Bacterial growth in soil cultures incubated with C5+ or its components
+
+Because the culturable heterotroph counts for contaminated soil cultures C1, C2 and C3 and uncontaminated soil cultures U1, U2 and U3 followed similar trends, averages are shown as a function of time in Fig. 1C and U, respectively. Cultures had between 104 and 106 colony forming units (cfu) per ml at time zero. Incubation in dessicators with 1% C5+ for 2, 4 or 12 weeks increased the cell numbers to between 108 and 109 cfu ml−1. Similar results were obtained for both contaminated and uncontaminated soils when the cultures were incubated with C5+ or its components benzene, toluene or styrene. A clear difference was seen with m-xylene: uncontaminated soil cultures developed higher cell numbers than contaminated soil cultures (∼8×108 and ∼9×107 cfu ml−1, respectively). Incubation with naphthalene gave increases to only ∼8×107 cfu ml−1 for both types of soil. Increases in cell numbers at 4 or 12 weeks were lowest for incubations with DCPD (106–107 cfu ml−1). These results agree with the notion that soil microbial communities can use the C5+ components benzene, toluene, styrene, xylenes and naphthalene much better than DCPD, as a carbon and energy source.
+
+Figure 1. 
+Figure 1. Open in figure viewerDownload Powerpoint slide
+Logarithm of the average number of culturable heterotrophs as a function of time for soil cultures incubated in dessicators with 1% of the indicated hydrocarbons in vpo.
+3.2Effects of transfer from C5+ to DCPD or naphthalene and DCPD on cell numbers
+
+C5+ components other than DCPD were removed by natural attenuation after 3–4 months in a field study under aerobic conditions [6]. Thus, soil microorganisms degrading C5+ are eventually exposed primarily to DCPD. To mimic this exposure pattern in the laboratory, we incubated cultures in dessicators with 1% synthetic C5+ for 2 or 4 weeks, then with 1% DCPD for up to 1 year. Because microorganisms cannot use DCPD efficiently as a carbon source for growth [6] but can oxidize DCPD co-metabolically [8], cultures were also transferred after 2 or 4 weeks in C5+ to 0.5% DCPD and 0.5% naphthalene.
+
+Incubation in C5+ for 2 or 4 weeks and subsequent transfer to DCPD only or DCPD and naphthalene caused the number of heterotrophs to rise from ∼106 cfu ml−1 at time zero to ∼109 cfu ml−1 at 13 weeks, then fall to ∼107 cfu ml−1 (DCPD only) or to ∼108 cfu ml−1 (DCPD and naphthalene) at 40–60 weeks. Interestingly, the increase in cell numbers did not stop immediately upon transfer (i.e. at 2 or 4 weeks) to a less favorable carbon source. Although cultures from contaminated soils (Fig. 2C) and uncontaminated soils (Fig. 2U) followed the same trend, the former reached somewhat higher cell densities at 13 weeks when naphthalene was also present. The difference between 40–60 week incubations in DCPD or DCPD and naphthalene was also more pronounced for contaminated soils. Little difference was seen between cell numbers in cultures exposed to C5+ for either 2 or 4 weeks prior to transfer. Cultures incubated in C5+ for 12 weeks did not reach a higher cell density than those incubated for only 2 or 4 weeks (Fig. 1). The decline in cell numbers at 40–60 weeks is due to the lack of a readily usable carbon source, and to limitation of nitrogen and phosphorus nutrients, which were not replenished during the incubation.
+
+Figure 2. 
+Figure 2. Open in figure viewerDownload Powerpoint slide
+Logarithm of the average number of culturable heterotrophs as a function of time for soil cultures incubated in dessicators with 1% C5+ and then with 1% DCPD or 0.5% DCPD and 0.5% naphthalene in vpo.
+3.3Composition of communities emerging during growth on C5+ components
+
+For determining the effects of individual C5+ components on soil microbial communities, soil cultures incubated with 1% benzene, toluene, m-xylene, styrene, DCPD, naphthalene, or 1% C5+ for 2, 4 or 12 weeks were compared by RSGP. A total of 42 cultures were harvested at each of these three times. Insufficient DNA was obtained from 14 cultures, leaving community DNAs from 112 cultures for RSGP analysis.
+
+Communities from contaminated soils grouped into two main clades (Fig. 3, I and II). Clade I consisted predominantly of early communities (obtained after 2–4 weeks of incubation), whereas clade II had a higher proportion of late communities (obtained after 12 weeks of incubation). Surprisingly, communities did not tree according to the hydrocarbon used as carbon and energy source (B, D, N, S, T, X, or C5+).
+
+Figure 3. 
+Figure 3. Open in figure viewerDownload Powerpoint slide
+Dendrogram of microbial communities emerging in soil cultures incubated with C5+ or its components for 2, 4 or 12 weeks. Cell numbers for these soil cultures are indicated in Fig. 1. Clades I and II are explained in the text, as are the codes used for the soil types, substrates and incubation conditions.
+Communities from uncontaminated soils had more evenly distributed compositions than those derived from contaminated soils when incubated under the same conditions as in Fig. 3 (not shown). These compositions did not tree according to carbon source used, length of incubation (2, 4 or 12 weeks) or source of inoculum (U1, U2 or U3).
+3.4Effects of the C5+ to DCPD transition on community structure
+
+A total of 120 soil cultures were used for DNA isolation. Five cultures containing soil U2 yielded insufficient DNA, therefore 115 community DNAs were used for RSGP analysis. The community compositions obtained for contaminated soil cultures are compared in Fig. 4A. The community compositions have been grouped in distinct clades I to V. Representative community compositions for these clades are shown in Fig. 4B. Clade I comprises mainly communities that were exposed for a relatively short time to C5+, to C5+ then to DCPD, or to C5+ then to DCPD and naphthalene. All communities in this clade share a high fraction of Pseudomonas sp. standard 11 (Fig. 4B, C2–2–4D). These communities are similar to those of clade I in Fig. 3 and to early communities (2–4 weeks) enriched by bi-weekly transfer on C5+[10].
+
+Figure 4. 
+Figure 4. Open in figure viewer
+A: Dendrogram of microbial communities that emerged in contaminated soil cultures incubated with C5+ for 2 or 4 weeks, followed by incubation with DCPD or naphthalene and DCPD for up to 1 year. Cell numbers for these soil cultures are indicated in Fig. 2C. Clades I–V are explained in the text, as are the codes used for the soil types, substrates and incubation conditions. B: Representative community compositions as determined by RSGP for each clade. The fraction of each standard (Y-axis) is plotted against standard number (X-axis). A list of all 55 standard genomes on the master filter is given in Table 1.
+Figure 4. 
+Figure 4. Open in figure viewer
+A: Dendrogram of microbial communities that emerged in contaminated soil cultures incubated with C5+ for 2 or 4 weeks, followed by incubation with DCPD or naphthalene and DCPD for up to 1 year. Cell numbers for these soil cultures are indicated in Fig. 2C. Clades I–V are explained in the text, as are the codes used for the soil types, substrates and incubation conditions. B: Representative community compositions as determined by RSGP for each clade. The fraction of each standard (Y-axis) is plotted against standard number (X-axis). A list of all 55 standard genomes on the master filter is given in Table 1.
+The community compositions obtained after medium-term incubation in C5+ or long-term incubation in DCPD or DCPD and naphthalene gave several clades in the dendrogram (Fig. 4A). Clade II represented relatively even distributions, as shown for C1–2–43D in Fig. 4B. Contaminated soil C1 served as the inoculum for most of the communities in this clade. Clade III consisted of communities dominated by Alcaligenes sp. standard 47 (Fig. 4B, C3–4–52D). Clade IV contained communities in which Bordetella sp. standard 15, Alcaligenes sp. standard 47 and/or Alcaligenes sp. standard 52 were the main community components (Fig. 4B, C3–2–52ND and C1–4–52D). Some communities, emerging after long-term incubation with DCPD, had Alcaligenes sp. standard 52 as the main community component (Fig. 4A, clade V; Fig. 4B, C2–2–43D).
+
+When uncontaminated soils U1, U2 or U3 were incubated in C5+ for 2 or 4 weeks followed by incubation in DCPD or DCPD and naphthalene, communities with a more even distribution were obtained. The dendrogram for communities derived from uncontaminated soils gave only a single clade representing these evenly distributed communities (not shown).
+3.5Aerobic degradation of C5+ and individual C5+ components
+
+Incubation in dessicators allows long-term exposure of soil cultures to a defined concentration of C5+ or its components. Addition of C5+ or its components to serum bottles containing a soil sample allowed both degradation rates and community composition to be evaluated. Combined samples of the three contaminated (Csoil) or the three uncontaminated (Usoil) soil samples were used for these studies. No C5+ components were lost from any of the sterile control cultures after 99 days of incubation (data not shown).
+
+Rates for aerobic degradation of C5+ components were up to 10-fold lower for the C5+ mixture than for individual components (Table 2). Uncontaminated soils degraded styrene more slowly, but m-xylene more rapidly than contaminated soils (Table 2). The faster degradation rate of m-xylene by uncontaminated soil agrees with the higher cell numbers that developed for this substrate in cultures with uncontaminated soils (Fig. 1). Only naphthalene degradation was faster in the C5+ mixture than when the compound was added individually. Because naphthalene is a solid at room temperature, its solution in other C5+ components may have made it more accessible to biodegradation.
+
+Table 2.  Zero-order degradation rates for aerobic degradation of C5+ compounds or of C5+ mixture.
+aContaining equal amounts of benzene, toluene, m-xylene, styrene, DCPD and naphthalene by weight.
+Soil type	Compound	Rate (mg l−1 day−1)
+ 	 	individual compounds	C5+ mixturea
+Usoil	benzene	33±3.4	5.4±1.9
+ 	toluene	26±16	1.6±0.3
+ 	m-xylene	8.2	3.0±1.1
+ 	styrene	7.8±4.1	4.2±1.0
+ 	naphthalene	2.7±0.3	3.7±0.3
+ 	 	 	20.6±1.2
+Csoil	benzene	26±8.0	2.7±0.6
+ 	toluene	35±10	2.0±0.6
+ 	m-xylene	3.3±0.8	1.9±0.4
+ 	styrene	32±15	5.2±1.2
+ 	naphthalene	1.3±0.5	2.2±0.7
+ 	 	 	17.9±0.8
+The number of culturable heterotrophs in incubations without added carbon source was 106–107 cfu ml−1. Hydrocarbon degradation resulted in cell number increases to 2×108 cfu ml−1. The microorganisms present as main community components were determined by RSGP. In incubations with contaminated soil, Pseudomonas sp. standard 11 appeared throughout except when no hydrocarbon was added. Cultures to which toluene, naphthalene or C5+ mixture were added also had strains Pseudomonas sp. standard 25 and Pseudomonas sp. standard 36 as major community members. Without added hydrocarbon, standard 17 and Alcaligenes sp. standard 47 were major components.
+
+In uncontaminated soil cultures more variable communities emerged. However, Pseudomonas sp. standard 11 was observed in cultures to which toluene, naphthalene, DCPD, styrene or C5+ mixture were added. Standard 17 was enriched in the absence of added hydrocarbon.
+4Discussion
+
+The bioremediation of C5+ by soil microbial communities is complex because C5+ consists of many components that may inhibit or stimulate each other's degradation and a wide diversity of microorganisms with degradative capacities can be isolated from C5+-contaminated soils (Table 1). Genomically distinct, culturable isolates capable of aerobically degrading C5+ components include representatives of the genera Agrobacterium (one isolate), Alcaligenes (three isolates), Arthrobacter (one isolate), Azospirillum (one isolate), Bacillus (two isolates), Bordetella (two isolates), Microbacterium (two isolates), Pseudomonas (18 isolates), Rhodococcus (three isolates), Sphingomonas (one isolate), and Xanthomonas (one isolate). The range of C5+ components degraded by these isolates [10] is listed in Table 1. Benzene degradation is most widespread (31 of 36 isolates with C5+ degrading capacity), whereas naphthalene degradation is much less prevalent (10 of 36 isolates). Enrichment cultures, obtained by transferring samples from either contaminated or uncontaminated soils to fresh medium every 2 weeks and incubating with 1% C5+, displayed a very similar community succession as determined by RSGP [10]. Communities were dominated by Pseudomonas sp. standard 11 after one or two transfers (2–4 weeks) and by Alcaligenes spp. standards 45 and 47 after seven or eight transfers (15–17 weeks).
+
+Table 1.  Genomically distinct, culturable microorganisms (standards) of which the genomes are represented on the master filter used for RSGP analysis [10]
+aNearest homolog in the RDP database as determined by the program SIMILARITY_RANK [20].
+bB is benzene; T is toluene; X is a mixture of o- p- and m-xylene; S is styrene; N is naphthalene; – indicates no growth.
+cNot determined.
+dInferred from cross-hybridization with other Bordetella spp. genomes on the filter.
+Position	Nearest homologa	Hydrocarbons usedb	Position	Nearest homologa	Hydrocarbons usedb
+1	Bordetella bronchiseptica	–	29	Bacillus polymyxa	ndc
+2	Pseudomonas syringae	B	30	Bacteroides distasonis	ndc
+3	Azospirillum sp.	B, T, S, N	31	Bacteroides heparinolyticus	ndc
+4	Sphingomonas parapaucimobilis	–	32	Clostridium xylanolyticum	ndc
+5	Bacillus macroides	B, T, X	33	Clostridium sp.	ndc
+6	Xanthomonas campestris	X	34	Desulfovibrio longus	ndc
+7	Bacillus pseudomegaterium	T, N	35	Desulfovibrio desulfuricans	ndc
+8	Pseudomonas syringae	B, T, X, S, N	36	Pseudomonas putida	B, T
+9	Agrobacterium rubi	B, T, N	37	Unidentified bacterium	B, T
+10	‘Flavobacterium’ lutescens	–	38	Pseudomonas stutzeri	B. T, X
+11	Pseudomonas syringae	B, T, X	39	Microbacterium lacticum	B
+12	Bordetella parapertussis	B	40	Pseudomonas fluorescens	B, T
+13	Bordetella parapertussis	–	41	Pseudomonas putida	B
+14	(Bordetella sp.)d	T	42	Pseudomonas sp.	B, X, S, N
+15	Bordetella parapertussis	–	43	Pseudomonas corrugata	B, S
+16	Sphingomonas yanoikuyae	B, T	44	Pseudomonas syringae	S
+17	Unidentified bacterium	–	45	Pseudomonas aureofaciens	S
+18	Pseudomonas flavescens	B, T	46	Pseudomonas agarici	B, T, X
+19	Pseudomonas flavescens	–	47	Alcaligenes sp.	B, T, X, S
+20	Pseudomonas flavescens	B, T	48	Alcaligenes sp.	B, T, X
+21	Rhodococcus sp.	B, T, X, S	49	Pseudomonas sp.	B, T, X
+22	Bacillus cereus/thuringiensis	ndc	50	Rhodococcus marinoascens	B, T, X, S
+23	Nocardioides luteus	ndc	51	Microbacterium laevaniformans	B, T, X, S
+24	Flavobacterium ferrugineum	ndc	52	Alcaligenes sp.	B, N
+25	Pseudomonas syringae	B, N	53	Arthrobacter oxydans	B, T, N
+26	Rhodococcus globerulus	B, T, X, S, N	54	Pseudomonas pseudoalcaligenes	B, N
+27	Pseudomonas syringae	B, T, S	55	Pseudomonas sp. strain BI*7	–
+28	Bacillus benzeovorans	ndc	 	 	 
+In the current study we incubated cultures containing 1 g of soil in 10 ml of medium without transfer of the resulting enrichment cultures to fresh medium. The properties of the soil inoculum, the hydrocarbons provided as carbon and energy source and the incubation time could all be determinants of community composition. The soil inoculum (contaminated or uncontaminated soil) had an influence on community composition. Many communities from uncontaminated soils had more even distributions than those from contaminated soils (not shown). This result was in contrast to the previous enrichment study [10] and indicates that the presence and nature of the soil sample is a determinant of community composition. Dendrograms of these evenly distributed compositions did not correlate according to inoculum source (U1, U2 or U3), carbon source or time of incubation.
+
+Community compositions from contaminated soils had distinct features (Fig. 4B). Incubation of contaminated soil cultures with C5+ or its individual components (1% in vpo) gave communities grouped in two main clades (Fig. 3). These did not strongly correlate with the C5+ component used, but correlated better with the incubation time. Clade I represented primarily communities from soil cultures incubated for 2 or 4 weeks (24 of 28 cultures; 86%), whereas clade II had a higher proportion of soil cultures incubated for 12 weeks (11 of 22 cultures; 50%). The early communities had Pseudomonas sp. standard 11 (Table 1) as a major component. Early communities enriched with toluene [8,9] or C5+[10], obtained in previous work, also had standard 11 as a major component. This community type thus arises, irrespective of whether C5+ or its various components serve as the carbon and energy source. Few communities in this clade arose from incubation with DCPD (1 of 28) or m-xylene (1 of 28). Clade II represented more evenly distributed communities. Communities arising from incubation with m-xylene were more prominent in this clade (6 of 22) and these grouped together in the dendrogram (Fig. 3). In shifting the available carbon and energy source from C5+ to either DCPD alone or naphthalene and DCPD we also observed early communities that were dominated by Pseudomonas sp. standard 11 (Fig. 4, clade I). Late communities were more diverse than in the enrichment study carried out in the absence of soil [10] and could be even (Fig. 4, clade II), or dominated by Alcaligenes spp. standard 47 and/or 52 (Fig. 4, clades III, IV and V).
+
+It is of interest that this pattern of succession is similar to that observed in the previous enrichment study [10] and that it is observed irrespective of the nature of the hydrocarbon input. A possible explanation for this observation is that the microbial community in these soils is organized as a stable food web. At short exposure times to hydrocarbon this web is frequently dominated by Pseudomonas sp. standard 11 even for incubations with naphthalene and styrene which are not metabolized by this organism (Table 1). This may indicate that a substantial fraction of the hydrocarbon input is converted by the community to a common intermediate that is, at least initially, best utilized by Pseudomonas spp. Tsao et al. [17] have investigated the fate of [14C]benzene, toluene and xylenes upon incubation with soils. Metabolism of toluene and xylenes, but also of benzene, resulted in a large fraction (12–32%) of label to be incorporated in humus. Tsao et al. [17] suggested that the humus-associated fraction is made through catechol intermediates arising from the metabolism of BTX compounds, when added singly or in mixtures. The production of 4-methylcatechol and many other intermediates in batch reactors inoculated with industrial wastewater was demonstrated when the acceptable load of toluene (150 μl l−1; 1.3 mM) and xylenes (15 μl l−1; 0.1 mM) was increased up to two-fold. Substrates were completely transformed to a variety of intermediates, which accumulated both outside and inside the cells under these conditions [18]. The concentrations of hydrocarbons used in this study were lower than used by Leon et al. [18]. When a soil culture is exposed to excess of 1% toluene in vpo the equilibrium aqueous concentration is approximately 0.14 mM [9]. Nevertheless, we propose that continuous exposure to unlimited amounts at these lower concentrations leads to the production of intermediates that are subsequently used as carbon and energy sources by the resident community. The emergence of similar communities could thus indicate that similar intermediates are produced with different hydrocarbon inputs. Unfortunately, this precludes the definition of a specific community signature for degradation of C5+ or its components that can be used to monitor the feasibility or progress of degradation of, for example, DCPD.
+
+Aerobic activity was observed against all C5+ components except DCPD. Degradation was slower for components in the C5+ mixture than when they were present singly, except in the case of naphthalene. Alvarez and Vogel [19] similarly observed faster removal of benzene, toluene and p-xylene individually than when these compounds were added as a mixture. In contrast, Tsao et al. [17] found that mixtures of benzene and toluene were degraded faster than the individual compounds in a soil microcosm. It is apparent that both the source of inoculum and the sample treatment are important factors which influence biodegradation rates in various soil cultures studied by different research groups. Inhibitory effects seen here may be caused by the presence of highly recalcitrant DCPD, which may inhibit enzymes catalyzing the primary attack of degradable hydrocarbons. Also it should be noted that the sum of the degradation rates of components in the C5+ mixture is relatively high (20.6±1.2 mg l−1 day−1) for uncontaminated and (17.9±0.8 mg l−1 day−1) for contaminated soil, respectively. These combined rates are comparable to the highest rates observed for individual components. Thus, the soil microbial community efficiently processes hydrocarbon mixtures, like C5+, as well as individual components, producing similar amounts of biomass, except for naphthalene and of course DCPD (Fig. 1). The main finding of our study is that the community composition is rather invariant, when processing different hydrocarbon inputs. Determination of community composition, as with RSGP, is thus not a good indicator of the types of hydrocarbon being processed.
+Acknowledgements
+
+This work was supported by a Strategic Grant from the Natural Sciences and Engineering Research Council of Canada (NSERC) to G.V. E.A.G. was supported by an NSERC postdoctoral fellowship during part of this work.

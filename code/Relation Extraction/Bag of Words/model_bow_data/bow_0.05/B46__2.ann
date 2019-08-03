@@ -1,0 +1,73 @@
+T1	Microbes 233 244	alcaligenes
+T2	Microbes 249 270	Klebsiella pneumoniae
+T3	Microbes 199 219	Burkholderia cepacia
+T4	Microbes 221 244	Pseudomonas alcaligenes
+T5	Microbes 51 69	Pseudomonas putida
+T6	Environment 151 155	soil
+T7	Substrate 175 183	gasoline
+T8	Property 409 415	purity
+T9	Nutrient 335 339	agar
+T10	Microbes 462 470	inoculum
+T11	Environment 446 456	microcosms
+T12	Microbes 633 641	inoculum
+T13	ReactionOrProcess 722 744	incubated with shaking
+T14	ReactionOrProcess 600 610	incubation
+T15	ReactionOrProcess 722 731	incubated
+T16	Microbes 840 848	inoculum
+T17	Environment 917 921	soil
+T18	Property 794 810	dry weight curve
+T19	Environment 987 991	soil
+T20	Substrate 1190 1198	gasoline
+T21	Nutrient 1105 1113	NH4H2PO4
+T22	Nutrient 1095 1101	K2HPO4
+T23	Nutrient 1087 1091	NaCl
+T24	Nutrient 1149 1153	KNO3
+T25	Nutrient 1130 1140	MgSO4.7H2O
+T26	Substrate 1298 1309	hydrocarbon
+T27	ReactionOrProcess 1329 1338	incubated
+T28	Nutrient 1423 1427	agar
+T29	Substrate 1445 1453	gasoline
+T30	Property 1702 1708	colony
+T31	ReactionOrProcess 1702 1718	colony formation
+T32	ReactionOrProcess 1639 1648	incubated
+T33	Environment 1795 1805	fresh soil
+T34	Environment 1801 1805	soil
+T35	Environment 1820 1824	soil
+T36	ReactionOrProcess 1724 1738	biodegradation
+T37	Nutrient 1827 1833	NH4NO3
+T38	Nutrient 1866 1874	nitrogen
+T39	Property 1950 1963	concentration
+T40	Nutrient 1887 1893	oxygen
+T41	Microbes 2034 2042	inoculum
+T42	Environment 2110 2114	soil
+T43	Environment 2199 2203	soil
+T44	Microbes 2220 2228	inoculum
+T45	Environment 2395 2406	native soil
+T46	Environment 2242 2251	microcosm
+T47	Environment 2395 2417	native soil microflora
+T48	Environment 2306 2310	soil
+T49	Environment 2402 2406	soil
+T50	Environment 2473 2477	soil
+T51	Property 2259 2272	concentration
+T52	Environment 2580 2597	unsterilized soil
+T53	Environment 2560 2572	sterile soil
+T54	Environment 2568 2572	soil
+T55	Environment 2593 2597	soil
+T56	ReactionOrProcess 2534 2551	pour plate method
+T57	Microbes 2697 2705	inoculum
+T58	Environment 2624 2628	soil
+T59	Environment 2603 2608	water
+T60	Environment 2657 2662	water
+T61	Property 2657 2679	water holding capacity
+T62	Substrate 2734 2742	Gasoline
+T63	Property 2763 2776	concentration
+T64	ReactionOrProcess 2858 2867	incubated
+T65	Environment 2921 2933	sterile soil
+T66	Environment 2929 2933	soil
+T67	ReactionOrProcess 2938 2947	incubated
+T68	ReactionOrProcess 3002 3016	biodegradation
+T69	ReactionOrProcess 3086 3096	inoculated
+T70	ReactionOrProcess 3022 3036	biodegradation
+T71	ReactionOrProcess 3219 3236	pour plate method
+T72	Nutrient 3252 3256	agar
+T73	ReactionOrProcess 3307 3317	incubation

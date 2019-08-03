@@ -1,0 +1,138 @@
+T1	Microbes 61 64	X7B
+T2	Substrate 47 50	BTH
+T3	Substrate 98 101	BTH
+T4	ReactionOrProcess 69 78	extracted
+T5	Microbes 152 155	X7B
+T6	Substrate 191 194	BTH
+T7	Substrate 207 213	sulfur
+T8	ReactionOrProcess 291 300	extracted
+T9	Substrate 612 615	BTH
+T10	Substrate 721 724	BTH
+T11	Microbes 822 831	M. goodii
+T12	Microbes 832 835	X7B
+T13	Microbes 822 835	M. goodii X7B
+T14	Substrate 832 861	X7B.Petroleum-based fuel oils
+T15	Substrate 960 970	thiophenes
+T16	Substrate 871 879	gasoline
+T17	Substrate 884 894	diesel oil
+T18	Substrate 982 986	DBTs
+T19	Substrate 972 976	BTHs
+T20	Substrate 891 894	oil
+T21	Substrate 857 861	oils
+T22	Substrate 884 890	diesel
+T23	Substrate 802 808	sulfur
+T24	Substrate 932 938	sulfur
+T25	Property 794 818	organic sulfur compounds
+T26	Property 924 948	organic sulfur compounds
+T27	ReactionOrProcess 771 782	Degradation
+R1	CarriedOn Arg1:T27 Arg2:T11
+R2	CarriedOn Arg1:T27 Arg2:T13
+R3	CarriedOn Arg1:T27 Arg2:T14
+R4	CarriedOn Arg1:T27 Arg2:T15
+R5	CarriedOn Arg1:T27 Arg2:T16
+R6	CarriedOn Arg1:T27 Arg2:T17
+R7	CarriedOn Arg1:T27 Arg2:T18
+R8	CarriedOn Arg1:T27 Arg2:T19
+R9	CarriedOn Arg1:T27 Arg2:T20
+R10	CarriedOn Arg1:T27 Arg2:T21
+R11	CarriedOn Arg1:T27 Arg2:T22
+R12	CarriedOn Arg1:T27 Arg2:T23
+R13	CarriedOn Arg1:T27 Arg2:T24
+T28	Microbes 1013 1016	X7B
+T29	Substrate 1060 1063	DBT
+T30	Substrate 1032 1038	sulfur
+T31	Substrate 1074 1080	sulfur
+T32	Property 1024 1048	organic sulfur compounds
+T33	Microbes 1106 1118	M. goodii X7
+T34	Microbes 1106 1115	M. goodii
+T35	Microbes 1116 1119	X7B
+T36	Microbes 1106 1119	M. goodii X7B
+T37	Substrate 1161 1167	sulfur
+T38	Property 1181 1194	concentration
+T39	Microbes 1598 1601	X7B
+T40	Microbes 1571 1574	X7B
+T41	Substrate 1298 1301	DBT
+T42	Substrate 1311 1314	DBT
+T43	Substrate 1316 1319	BTH
+T44	Substrate 1539 1545	sulfur
+T45	Substrate 1686 1692	sulfur
+T46	Property 1666 1671	toxic
+T47	ReactionOrProcess 1468 1478	incubation
+R14	CarriedOn Arg1:T47 Arg2:T39
+R15	CarriedOn Arg1:T47 Arg2:T40
+T48	Microbes 1851 1854	X7B
+T49	Substrate 1751 1757	sulfur
+T50	ReactionOrProcess 1811 1819	degraded
+T51	ReactionOrProcess 1732 1741	reduction
+R16	CarriedOn Arg1:T50 Arg2:T48
+R17	CarriedOn Arg1:T51 Arg2:T48
+R18	CarriedOn Arg1:T51 Arg2:T49
+T52	Microbes 1867 1876	M. goodii
+T53	Microbes 1877 1880	X7B
+T54	Microbes 1867 1880	M. goodii X7B
+T55	ReactionOrProcess 1954 1969	desulfurization
+T56	Microbes 2009 2012	X7B
+T57	Substrate 2080 2086	sulfur
+T58	Nutrient 1979 1986	glucose
+T59	Microbes 2129 2138	M. goodii
+T60	Microbes 2139 2142	X7B
+T61	Microbes 2129 2142	M. goodii X7B
+T62	Substrate 2117 2125	gasoline
+T63	Substrate 2186 2194	gasoline
+T64	ReactionOrProcess 2195 2210	desulfurization
+T65	ReactionOrProcess 2095 2113	Biodesulfurization
+R19	CarriedOn Arg1:T65 Arg2:T59
+R20	CarriedOn Arg1:T65 Arg2:T60
+R21	CarriedOn Arg1:T65 Arg2:T61
+R22	CarriedOn Arg1:T65 Arg2:T62
+R23	CarriedOn Arg1:T65 Arg2:T63
+T66	Microbes 2329 2338	M. goodii
+T67	Microbes 2339 2342	X7B
+T68	Microbes 2329 2342	M. goodii X7B
+T69	Substrate 2414 2422	gasoline
+T70	Substrate 2360 2371	hydrocarbon
+T71	Substrate 2376 2382	sulfur
+T72	Substrate 2452 2460	gasoline
+T73	Substrate 2602 2605	oil
+T74	Substrate 2546 2552	sulfur
+T75	ReactionOrProcess 2533 2542	depletion
+T76	ReactionOrProcess 2428 2448	GC-AED chromatograms
+R24	CarriedOn Arg1:T75 Arg2:T73
+R25	CarriedOn Arg1:T75 Arg2:T74
+R26	CarriedOn Arg1:T76 Arg2:T72
+R27	CarriedOn Arg1:T76 Arg2:T73
+R28	CarriedOn Arg1:T76 Arg2:T74
+T77	Substrate 2644 2652	gasoline
+T78	Substrate 2712 2720	gasoline
+T79	Substrate 2702 2720	untreated gasoline
+T80	Substrate 2733 2744	hydrocarbon
+T81	Substrate 2836 2847	hydrocarbon
+T82	Microbes 2957 2966	M. goodii
+T83	Microbes 2967 2970	X7B
+T84	Microbes 2957 2970	M. goodii X7B
+T85	Substrate 2906 2914	gasoline
+T86	Substrate 2884 2890	sulfur
+T87	ReactionOrProcess 3002 3011	reduction
+T88	Substrate 3226 3234	gasoline
+T89	Substrate 3204 3210	sulfur
+T90	ReactionOrProcess 3159 3174	desulfurization
+R29	CarriedOn Arg1:T90 Arg2:T88
+T91	ReactionOrProcess 3332 3338	washed
+T92	ReactionOrProcess 3269 3284	desulfurization
+T93	Nutrient 3355 3359	NaCl
+T94	Substrate 3380 3388	gasoline
+T95	Property 3575 3583	residual
+T96	ReactionOrProcess 3584 3599	desulfurization
+T97	Microbes 3689 3692	X7B
+T98	Property 3652 3660	residual
+T99	Microbes 3711 3720	M. goodii
+T100	Microbes 3721 3724	X7B
+T101	Microbes 3711 3724	M. goodii X7B
+T102	Substrate 3854 3862	gasoline
+T103	Substrate 3814 3817	oil
+T104	Substrate 3832 3838	sulfur
+T105	ReactionOrProcess 3736 3745	incubated
+R30	CarriedOn Arg1:T105 Arg2:T102
+T106	ReactionOrProcess 3921 3936	desulfurization
+T107	Substrate 4020 4026	sulfur
+T108	ReactionOrProcess 4129 4138	reduction

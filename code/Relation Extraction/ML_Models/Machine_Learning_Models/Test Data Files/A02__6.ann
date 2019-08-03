@@ -1,0 +1,142 @@
+T1 Environment 172 178 marine
+T2 Environment 67 76 oil plume
+T3 Substrate 30 33 PAH
+T4 Substrate 155 158 oil
+T5 ReactionOrProcess 34 45 degradation
+T6 Microbes 363 380 Oceanospirillales
+T7 Environment 445 450 plume
+T8 Environment 568 573 plume
+T9 Substrate 557 560 oil
+T10 Microbes 849 866 Oceanospirillales
+T11 Environment 977 982 plume
+T12 ReactionOrProcess 1020 1039 organic degradation
+T13 Substrate 1220 1223 oil
+T14 ReactionOrProcess 1192 1216 intrinsic bioremediation
+T15 Environment 1453 1463 subsurface
+T16 Substrate 1416 1425 petroleum
+T17 ReactionOrProcess 1327 1342 denitrification
+T18 ReactionOrProcess 1267 1291 Anaerobic HC degradation
+T19 ReactionOrProcess 1426 1440 biodegradation
+T20 ReactionOrProcess 1347 1361 methanogenesis
+T21 ReactionOrProcess 1308 1325 sulfate reduction
+T22 Environment 1852 1879 sulfate-reducing conditions
+T23 Substrate 1671 1700 polycyclic aromatic compounds
+T24 Substrate 1610 1619 petroleum
+T25 Substrate 1635 1642 alkanes
+T26 Property 1890 1902 methanogenic
+T27 ReactionOrProcess 1813 1826 anaerobically
+T28 ReactionOrProcess 1804 1812 degraded
+T29 ReactionOrProcess 2098 2113 denitrification
+T30 ReactionOrProcess 2140 2149 reduction
+T31 ReactionOrProcess 2040 2054 methanogenesis
+T32 ReactionOrProcess 2006 2023 sulfate reduction
+T33 Environment 2269 2274 plume
+T34 Environment 2408 2413 plume
+T35 ReactionOrProcess 2344 2373 anaerobic toluene degradation
+T36 ReactionOrProcess 2443 2467 anaerobic HC degradation
+T37 ReactionOrProcess 2567 2590 Hydrocarbon degradation
+T38 Environment 2845 2850 plume
+T39 ReactionOrProcess 2907 2918 degradation
+T40 Environment 2941 2947 marine
+T41 Substrate 3107 3110 oil
+T42 Property 3080 3092 contaminants
+T43 Environment 3199 3205 marine
+T44 Substrate 3138 3141 oil
+T45 ReactionOrProcess 3265 3274 degrading
+T46 ReactionOrProcess 3152 3161 stimulate
+T47 Environment 3667 3672 plume
+T48 Nutrient 3567 3571 iron
+T49 Environment 3876 3882 marine
+T50 ReactionOrProcess 3956 3967 degradation
+T51 Nutrient 3847 3851 iron
+T52 Environment 4213 4222 oil plume
+T53 Substrate 3995 4002 methane
+T54 Substrate 4198 4205 methane
+T55 Substrate 4274 4281 methane
+T56 Substrate 4038 4041 oil
+T57 Substrate 4084 4087 Oil
+T58 Enzyme 4463 4476 monooxygenase
+T59 Enzyme 4498 4519 methane monooxygenase
+T60 Substrate 4346 4353 methane
+T61 ReactionOrProcess 4417 4431 methanogenesis
+T62 Environment 4712 4717 plume
+T63 Substrate 4609 4616 methane
+T64 ReactionOrProcess 4617 4626 oxidation
+T65 Environment 5038 5047 oil plume
+T66 Environment 4913 4921 deep sea
+T67 Substrate 4898 4905 alkanes
+T68 Substrate 4823 4830 methane
+T69 Substrate 4949 4956 methane
+T70 Substrate 5033 5041 deep oil
+T71 ReactionOrProcess 4831 4840 oxidation
+T72 ReactionOrProcess 4890 4897 degrade
+T73 Environment 5108 5118 deep plume
+T74 Substrate 5071 5078 methane
+T75 Substrate 5062 5069 propane
+T76 Property 5119 5130 temperature
+T77 Environment 5298 5303 plume
+T78 Environment 5437 5442 plume
+T79 Substrate 5383 5394 methanogens
+T80 Substrate 5443 5450 methane
+T81 ReactionOrProcess 5413 5424 degradation
+T82 Substrate 5541 5548 methane
+T83 ReactionOrProcess 5549 5558 oxidation
+T84 Substrate 5850 5853 oil
+T85 ReactionOrProcess 6017 6028 degradation
+T86 Substrate 6226 6229 oil
+R1 CarriedOn Arg1:T5 Arg2:T3
+R2 CarriedOn Arg1:T5 Arg2:T4
+R3 OccursIn Arg1:T5 Arg2:T1
+R4 OccursIn Arg1:T5 Arg2:T2
+R5 FoundIn Arg1:T6 Arg2:T7
+R6 FoundIn Arg1:T6 Arg2:T8
+R7 ActOn Arg1:T6 Arg2:T9
+R8 OccursIn Arg1:T12 Arg2:T11
+R9 CarriedOn Arg1:T14 Arg2:T13
+R10 CarriedOn Arg1:T17 Arg2:T16
+R11 CarriedOn Arg1:T18 Arg2:T16
+R12 CarriedOn Arg1:T19 Arg2:T16
+R13 CarriedOn Arg1:T20 Arg2:T16
+R14 CarriedOn Arg1:T21 Arg2:T16
+R15 OccursIn Arg1:T17 Arg2:T15
+R16 OccursIn Arg1:T18 Arg2:T15
+R17 OccursIn Arg1:T19 Arg2:T15
+R18 OccursIn Arg1:T20 Arg2:T15
+R19 OccursIn Arg1:T21 Arg2:T15
+R20 CarriedOn Arg1:T27 Arg2:T23
+R21 CarriedOn Arg1:T27 Arg2:T24
+R22 CarriedOn Arg1:T27 Arg2:T25
+R23 CarriedOn Arg1:T28 Arg2:T23
+R24 CarriedOn Arg1:T28 Arg2:T24
+R25 CarriedOn Arg1:T28 Arg2:T25
+R26 OccursIn Arg1:T27 Arg2:T22
+R27 OccursIn Arg1:T28 Arg2:T22
+R28 OccursIn Arg1:T35 Arg2:T34
+R29 OccursIn Arg1:T39 Arg2:T38
+R30 CarriedOn Arg1:T45 Arg2:T44
+R31 CarriedOn Arg1:T46 Arg2:T44
+R32 OccursIn Arg1:T45 Arg2:T43
+R33 OccursIn Arg1:T46 Arg2:T43
+R35 CarriedOn Arg1:T61 Arg2:T60
+R36 Inhibit_Catalyse Arg1:T58 Arg2:T61
+R37 Inhibit_Catalyse Arg1:T59 Arg2:T61
+R38 CarriedOn Arg1:T64 Arg2:T63
+R39 OccursIn Arg1:T64 Arg2:T62
+R40 CarriedOn Arg1:T71 Arg2:T67
+R41 CarriedOn Arg1:T71 Arg2:T68
+R42 CarriedOn Arg1:T71 Arg2:T69
+R43 CarriedOn Arg1:T71 Arg2:T70
+R44 CarriedOn Arg1:T72 Arg2:T67
+R45 CarriedOn Arg1:T72 Arg2:T68
+R46 CarriedOn Arg1:T72 Arg2:T69
+R47 CarriedOn Arg1:T72 Arg2:T70
+R48 OccursIn Arg1:T71 Arg2:T65
+R49 OccursIn Arg1:T71 Arg2:T66
+R50 OccursIn Arg1:T72 Arg2:T65
+R51 OccursIn Arg1:T72 Arg2:T66
+R52 CarriedOn Arg1:T81 Arg2:T79
+R53 CarriedOn Arg1:T81 Arg2:T80
+R54 OccursIn Arg1:T81 Arg2:T77
+R55 OccursIn Arg1:T81 Arg2:T78
+R56 CarriedOn Arg1:T83 Arg2:T82
+R57 CarriedOn Arg1:T85 Arg2:T84

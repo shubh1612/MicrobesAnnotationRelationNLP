@@ -1,0 +1,36 @@
+T1	ReactionOrProcess 45 67	maximum biodegradation
+T2	ReactionOrProcess 175 185	incubation
+T3	ReactionOrProcess 235 245	reductions
+T4	ReactionOrProcess 266 280	biodegradation
+T5	Environment 363 384	PAH-contaminated soil
+T6	Environment 496 523	crude oil-contaminated soil
+T7	ReactionOrProcess 478 492	bioremediation
+T8	ReactionOrProcess 646 674	principal-component analysis
+T9	ReactionOrProcess 525 553	
+T10	Environment 787 797	microcosms
+T11	ReactionOrProcess 765 769	DGGE
+T12	ReactionOrProcess 836 850	biostimulation
+T13	Environment 928 942	untreated soil
+T14	Environment 1009 1027	biostimulated soil
+T15	Environment 1183 1197	untreated soil
+T16	ReactionOrProcess 1327 1337	incubation
+T17	ReactionOrProcess 1083 1097	biostimulation
+T18	ReactionOrProcess 1441 1451	incubation
+T19	ReactionOrProcess 1690 1704	biostimulation
+T20	ReactionOrProcess 1866 1880	biostimulation
+T21	Substrate 2043 2046	TPH
+T22	ReactionOrProcess 2014 2024	incubation
+T23	ReactionOrProcess 2047 2061	biodegradation
+T24	ReactionOrProcess 2196 2224	
+T25	ReactionOrProcess 2241 2280	denaturing gradient gel electrophoresis
+T26	ReactionOrProcess 2322 2332	incubation
+T27	Environment 2392 2404	aerated soil
+T28	Environment 2447 2459	aerated soil
+T29	Environment 2353 2379	4M indicate untreated soil
+T30	Environment 2385 2389	soil
+T31	Environment 2596 2614	biostimulated soil
+T32	ReactionOrProcess 2732 2736	DGGE
+T33	ReactionOrProcess 3013 3017	DGGE
+R1	OccursIn Arg1:T7 Arg2:T6
+R2	OccursIn Arg1:T11 Arg2:T10
+R7	CarriedOn Arg1:T23 Arg2:T21

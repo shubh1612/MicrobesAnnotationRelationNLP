@@ -1,0 +1,43 @@
+T1	Substrate 30 37	benzene
+T2	Substrate 59 66	toluene
+T3	Substrate 150 161	naphthalene
+T4	Substrate 88 95	xylenes
+T5	Substrate 117 124	styrene
+T6	Nutrient 170 176	carbon
+T7	Substrate 370 382	hydrocarbons
+T8	Substrate 370 382	hydrocarbons
+T9	Substrate 483 490	styrene
+T10	Nutrient 503 509	carbon
+T11	Environment 804 808	soil
+T12	Environment 791 808	contaminated soil
+T13	Substrate 719 731	hydrocarbons
+T14	Substrate 719 731	hydrocarbons
+T15	ReactionOrProcess 711 718	degrade
+T16	Environment 991 1000	sediments
+T17	Environment 976 1000	uncontaminated sediments
+T18	Environment 976 1000	uncontaminated sediments
+T19	Environment 831 835	soil
+T20	Environment 938 943	soils
+T21	ReactionOrProcess 817 827	Enrichment
+T22	Nutrient 1053 1059	carbon
+T23	ReactionOrProcess 1129 1140	enrichments
+T24	ReactionOrProcess 1279 1290	enrichments
+T25	ReactionOrProcess 1222 1232	incubation
+T26	ReactionOrProcess 1362 1366	RSGP
+T27	ReactionOrProcess 1438 1442	RSGP
+T28	Environment 1545 1549	soil
+T29	Environment 1530 1549	uncontaminated soil
+T30	ReactionOrProcess 1504 1515	enrichments
+T31	ReactionOrProcess 1486 1490	RSGP
+T32	Environment 2046 2050	soil
+T33	Environment 2033 2050	contaminated soil
+T34	ReactionOrProcess 2007 2018	enrichments
+T35	Environment 2551 2563	soil samples
+T36	Environment 2551 2555	soil
+T37	ReactionOrProcess 2489 2500	enrichments
+T38	ReactionOrProcess 2684 2695	enrichments
+T39	ReactionOrProcess 2891 2901	enrichment
+T40	ReactionOrProcess 2832 2843	enrichments
+T41	ReactionOrProcess 2990 2994	RSGP
+T42	ReactionOrProcess 3192 3196	RSGP
+T43	ReactionOrProcess 3206 3217	enrichments

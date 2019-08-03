@@ -1,0 +1,44 @@
+T1	ReactionOrProcess 84 95	enrichments
+T2	Microbes 530 544	Proteobacteria
+T3	Microbes 620 634	Actinobacteria
+T4	Microbes 552 570	Betaproteobacteria
+T5	ReactionOrProcess 461 471	enrichment
+R1	CarriedOn Arg1:T5 Arg2:T3
+T6	ReactionOrProcess 894 903	replicate
+T7	Microbes 1560 1574	Proteobacteria
+T8	Microbes 1582 1601	Gammaproteobacteria
+T9	Substrate 1266 1275	petroleum
+T10	Substrate 1254 1275	biodegraded petroleum
+T11	ReactionOrProcess 1254 1265	biodegraded
+R2	CarriedOn Arg1:T11 Arg2:T7
+R3	CarriedOn Arg1:T11 Arg2:T8
+T12	ReactionOrProcess 1682 1693	enrichments
+T13	ReactionOrProcess 1905 1915	enrichment
+T14	Environment 1993 2004	terrestrial
+T15	Environment 2044 2060	nitrate-reducing
+T16	Substrate 1993 2008	terrestrial oil
+T17	Substrate 2005 2008	oil
+T18	Microbes 2384 2399	Actinomycetales
+T19	ReactionOrProcess 2352 2362	enrichment
+T20	Environment 2566 2575	sediments
+T21	Environment 2545 2551	marine
+T22	Environment 2577 2582	soils
+T23	Substrate 2682 2694	hydrocarbons
+T24	Substrate 2682 2694	hydrocarbons
+T25	Property 2698 2716	sole carbon source
+T26	Nutrient 2703 2709	carbon
+T27	ReactionOrProcess 2855 2866	enrichments
+T28	Substrate 2941 2950	petroleum
+T29	Substrate 3114 3123	petroleum
+T30	ReactionOrProcess 3080 3089	oxidation
+T31	ReactionOrProcess 3124 3137	accumulations
+R4	CarriedOn Arg1:T30 Arg2:T29
+T32	Substrate 3331 3340	petroleum
+T33	Substrate 3243 3256	Thermotogales
+T34	Environment 3526 3534	Oilfield
+T35	ReactionOrProcess 3479 3487	reducing
+T36	ReactionOrProcess 3607 3617	enrichment
+T37	Substrate 3770 3779	petroleum
+T38	Property 3830 3843	Gram-negative
+T39	ReactionOrProcess 3904 3928	organic acid degradation
+T40	ReactionOrProcess 3917 3928	degradation

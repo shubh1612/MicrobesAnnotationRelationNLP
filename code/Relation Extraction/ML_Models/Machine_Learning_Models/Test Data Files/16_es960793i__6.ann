@@ -1,0 +1,119 @@
+T1 Environment 495 505 Oily Soils
+T2 ReactionOrProcess 465 491 Hydrocarbon Biodegradation
+T3 Environment 511 523 initial soil
+T4 Substrate 692 702 light oils
+T5 Substrate 554 565 hydrocarbon
+T6 Property 524 538 concentrations
+T7 Environment 733 745 soil samples
+T8 Substrate 818 829 hydrocarbon
+T9 Environment 891 895 soil
+T10 Substrate 871 883 hydrocarbons
+T11 Substrate 867 870 oil
+T12 ReactionOrProcess 896 910 bioremediation
+T13 Environment 1021 1026 soils
+T14 Substrate 994 1005 hydrocarbon
+T15 Environment 1206 1219 organic soils
+T16 Substrate 1124 1134 light oils
+T17 ReactionOrProcess 1154 1162 degraded
+T18 Environment 1280 1285 soils
+T19 Substrate 1252 1255 TPH
+T20 Substrate 1309 1312 oil
+T21 Environment 1356 1361 soils
+T22 Substrate 1385 1395 light oils
+T23 Substrate 1349 1352 TPH
+T24 Environment 1573 1578 soils
+T25 Substrate 1534 1552 light hydrocarbons
+T26 ReactionOrProcess 1501 1511 reductions
+T27 Environment 1831 1836 soils
+T28 Substrate 1841 1845 oils
+T29 ReactionOrProcess 1724 1735 degradation
+T30 Environment 1902 1929 organic Norwood/Baccto soil
+T31 Environment 2036 2040 soil
+T32 Environment 2077 2097 organic Norwood soil
+T33 Substrate 2016 2025 heavy oil
+T34 Substrate 1979 1982 oil
+T35 Substrate 2059 2063 oils
+T36 ReactionOrProcess 1859 1870 degradation
+T37 Environment 2142 2152 oily soils
+T38 Substrate 2116 2127 hydrocarbon
+T39 Substrate 2240 2252 hydrocarbons
+T40 Environment 2421 2433 soil samples
+T41 Environment 2279 2283 soil
+T42 Substrate 2254 2257 TPH
+T43 Property 2344 2358 concentrations
+T44 Environment 2629 2641 organic soil
+T45 Substrate 2744 2747 TPH
+T46 Substrate 2669 2697 polar petroleum hydrocarbons
+T47 ReactionOrProcess 2605 2614 extracted
+T48 Substrate 2880 2906 soils containing petroleum
+T49 Substrate 2873 2876 TPH
+T50 Substrate 3043 3053 light oils
+T51 Substrate 2956 2971 heavy crude oil
+T52 Environment 3238 3262 bioremediated oily soils
+T53 Substrate 3067 3079 hydrocarbons
+T54 Property 3088 3097 saturates
+T55 Property 3102 3111 aromatics
+T56 ReactionOrProcess 3112 3121 extracted
+T57 ReactionOrProcess 3156 3175 gas chromatographic
+T58 Substrate 3322 3334 hydrocarbons
+T59 ReactionOrProcess 3304 3318 biodegradation
+T60 Environment 3577 3586 oily soil
+T61 Substrate 3533 3544 hydrocarbon
+T62 Property 3545 3559 concentrations
+T63 ReactionOrProcess 3475 3486 degradation
+T64 Environment 3732 3751 organic carbon soil
+T65 Environment 3804 3808 soil
+T66 Substrate 3691 3703 hydrocarbons
+T67 ReactionOrProcess 3709 3717 degraded
+T68 Environment 3855 3871 biotreated soils
+T69 Environment 3945 3949 soil
+T70 Substrate 3955 3964 light oil
+T71 Substrate 3883 3904 heavy and medium oils
+T72 Substrate 3810 3831 Residual hydrocarbons
+T73 Environment 4087 4097 oily soils
+T74 Environment 4127 4137 oily soils
+T75 Substrate 4030 4033 TPH
+T76 Substrate 3972 3983 hydrocarbon
+T77 Property 4034 4042 residues
+T78 Property 3984 3998 concentrations
+T79 ReactionOrProcess 4157 4171 bioremediation
+T80 Environment 4210 4220 Oily Soils
+T81 Substrate 4360 4367 benzene
+T82 Substrate 4369 4376 toluene
+T83 Substrate 4378 4390 ethylbenzene
+T84 Substrate 4396 4403 xylenes
+T85 Substrate 4333 4359 water-soluble hydrocarbons
+T86 Environment 4474 4484 oily soils
+T87 Substrate 4447 4451 BTEX
+T88 Property 4438 4446 residual
+T89 ReactionOrProcess 4502 4516 bioremediation
+R1 OccursIn Arg1:T2 Arg2:T1
+R2 CarriedOn Arg1:T12 Arg2:T10
+R3 CarriedOn Arg1:T12 Arg2:T11
+R4 OccursIn Arg1:T12 Arg2:T9
+R5 CarriedOn Arg1:T17 Arg2:T16
+R6 OccursIn Arg1:T17 Arg2:T15
+R7 CarriedOn Arg1:T26 Arg2:T25
+R8 OccursIn Arg1:T26 Arg2:T24
+R9 CarriedOn Arg1:T29 Arg2:T28
+R11 CarriedOn Arg1:T36 Arg2:T33
+R12 CarriedOn Arg1:T36 Arg2:T34
+R13 CarriedOn Arg1:T36 Arg2:T35
+R14 OccursIn Arg1:T36 Arg2:T30
+R17 CarriedOn Arg1:T47 Arg2:T45
+R18 CarriedOn Arg1:T47 Arg2:T46
+R19 OccursIn Arg1:T47 Arg2:T44
+R20 CarriedOn Arg1:T56 Arg2:T53
+R21 CarriedOn Arg1:T57 Arg2:T53
+R22 OccursIn Arg1:T56 Arg2:T52
+R23 OccursIn Arg1:T57 Arg2:T52
+R24 CarriedOn Arg1:T59 Arg2:T58
+R25 CarriedOn Arg1:T63 Arg2:T61
+R26 OccursIn Arg1:T63 Arg2:T60
+R27 CarriedOn Arg1:T67 Arg2:T66
+R28 OccursIn Arg1:T67 Arg2:T64
+R29 OccursIn Arg1:T67 Arg2:T65
+R32 OccursIn Arg1:T79 Arg2:T73
+R33 OccursIn Arg1:T79 Arg2:T74
+R34 CarriedOn Arg1:T89 Arg2:T87
+R35 OccursIn Arg1:T89 Arg2:T86

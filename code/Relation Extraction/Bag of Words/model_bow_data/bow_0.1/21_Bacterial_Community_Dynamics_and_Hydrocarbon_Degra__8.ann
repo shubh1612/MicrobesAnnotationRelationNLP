@@ -1,0 +1,47 @@
+T1	Substrate 118 121	oil
+T2	ReactionOrProcess 272 276	DGGE
+T3	ReactionOrProcess 272 285	DGGE analysis
+T4	Microbes 750 773	Alcanivorax borkumensis
+T5	Microbes 638 658	Pseudomonas stutzeri
+T6	ReactionOrProcess 521 527	cloned
+T7	ReactionOrProcess 829 836	excised
+T8	ReactionOrProcess 844 848	DGGE
+T9	ReactionOrProcess 1017 1021	DGGE
+T10	Substrate 1195 1216	effective hydrocarbon
+T11	Substrate 1205 1216	hydrocarbon
+T12	ReactionOrProcess 1205 1228	hydrocarbon degradation
+T13	ReactionOrProcess 1217 1228	degradation
+T14	ReactionOrProcess 1195 1228	effective hydrocarbon degradation
+T15	ReactionOrProcess 1244 1248	DGGE
+T16	ReactionOrProcess 1394 1398	DGGE
+T17	ReactionOrProcess 1517 1521	DGGE
+T18	ReactionOrProcess 1640 1647	excised
+T19	ReactionOrProcess 1657 1661	DGGE
+T20	ReactionOrProcess 1883 1887	DGGE
+T21	Substrate 2325 2328	oil
+T22	Property 2429 2439	fertilized
+T23	ReactionOrProcess 2333 2341	degraded
+T24	Substrate 2509 2512	oil
+T25	ReactionOrProcess 2513 2524	degradation
+T26	ReactionOrProcess 2587 2598	degradation
+T27	ReactionOrProcess 2509 2524	oil degradation
+T28	Substrate 2692 2703	hydrocarbon
+T29	ReactionOrProcess 2692 2715	hydrocarbon degradation
+T30	ReactionOrProcess 2704 2715	degradation
+T31	Substrate 2823 2826	oil
+T32	ReactionOrProcess 2848 2856	degraded
+T33	Substrate 3027 3030	oil
+T34	Nutrient 2965 2971	carbon
+T35	Substrate 3116 3119	oil
+T36	Substrate 3224 3227	oil
+T37	Substrate 3399 3402	oil
+T38	ReactionOrProcess 3199 3213	bioremediation
+T39	ReactionOrProcess 3351 3365	bioremediation
+T40	ReactionOrProcess 3403 3414	degradation
+T41	ReactionOrProcess 3399 3414	oil degradation
+R1	CarriedOn Arg1:T38 Arg2:T36
+R2	CarriedOn Arg1:T38 Arg2:T37
+R3	CarriedOn Arg1:T39 Arg2:T36
+R4	CarriedOn Arg1:T39 Arg2:T37
+T42	Substrate 3778 3781	oil
+T43	ReactionOrProcess 3788 3802	bioremediation

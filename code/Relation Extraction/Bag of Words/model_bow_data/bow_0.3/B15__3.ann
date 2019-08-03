@@ -1,0 +1,49 @@
+T1	Microbes 13 26	P. aeruginosa
+T2	Microbes 13 30	P. aeruginosa RR1
+T3	Microbes 16 26	aeruginosa
+T4	Substrate 88 95	benzene
+T5	Substrate 97 104	toluene
+T6	Substrate 109 113	PAHs
+T7	Substrate 128 140	phenanthrene
+T8	Substrate 146 152	pyrene
+T9	Property 159 177	sole carbon source
+T10	Nutrient 164 170	carbon
+T11	Microbes 203 216	P. aeruginosa
+T12	Microbes 203 222	P. aeruginosa CM323
+T13	Microbes 206 216	aeruginosa
+T14	Environment 239 266	hydrocarbonpolluted subsoil
+T15	Substrate 285 292	benzene
+T16	Substrate 312 319	toluene
+T17	Substrate 354 358	PAHs
+T18	Substrate 324 336	ethylbenzene
+T19	Substrate 297 303	xylene
+T20	Substrate 425 437	hydrocarbons
+T21	Substrate 425 437	hydrocarbons
+T22	Property 655 666	temperature
+T23	ReactionOrProcess 580 594	bioremediation
+T24	Microbes 873 883	consortium
+T25	Microbes 924 937	P. aeruginosa
+T26	Microbes 927 937	aeruginosa
+T27	Property 1096 1108	temperatures
+T28	Environment 1244 1268	diesel-contaminated soil
+T29	Environment 1264 1268	soil
+T30	Substrate 1234 1240	diesel
+T31	ReactionOrProcess 1209 1230	IU5-based degradation
+T32	ReactionOrProcess 1219 1230	degradation
+R1	CarriedOn Arg1:T31 Arg2:T30
+R2	CarriedOn Arg1:T32 Arg2:T30
+T33	Substrate 1386 1408	aliphatic hydrocarbons
+T34	Substrate 1396 1408	hydrocarbons
+T35	Substrate 1386 1408	aliphatic hydrocarbons
+T36	Substrate 1396 1408	hydrocarbons
+T37	Substrate 1468 1474	diesel
+T38	ReactionOrProcess 1365 1372	degrade
+R3	CarriedOn Arg1:T38 Arg2:T33
+R4	CarriedOn Arg1:T38 Arg2:T34
+R5	CarriedOn Arg1:T38 Arg2:T35
+R6	CarriedOn Arg1:T38 Arg2:T36
+R7	CarriedOn Arg1:T38 Arg2:T37
+T39	Substrate 1574 1596	aliphatic hydrocarbons
+T40	Substrate 1584 1596	hydrocarbons
+T41	Substrate 1574 1596	aliphatic hydrocarbons
+T42	Substrate 1584 1596	hydrocarbons

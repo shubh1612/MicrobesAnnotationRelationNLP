@@ -1,0 +1,21 @@
+T1	ReactionOrProcess 423 427	DGGE
+T2	Substrate 643 646	oil
+T3	ReactionOrProcess 576 586	inhibition
+T4	ReactionOrProcess 764 768	DGGE
+T5	ReactionOrProcess 937 941	DGGE
+T6	ReactionOrProcess 929 932	PCR
+T7	Nutrient 1238 1244	carbon
+T8	ReactionOrProcess 1387 1391	DGGE
+T9	ReactionOrProcess 1357 1360	PCR
+T10	ReactionOrProcess 1444 1448	DGGE
+T11	ReactionOrProcess 1775 1779	DGGE
+T12	Nutrient 2022 2028	carbon
+T13	Substrate 2476 2479	oil
+T14	ReactionOrProcess 2494 2508	bioremediation
+T15	ReactionOrProcess 2285 2289	DGGE
+T16	Environment 3164 3173	sediments
+T17	Environment 3137 3146	microcosm
+T18	Environment 3192 3197	beach
+T19	ReactionOrProcess 3728 3732	DGGE
+R1	CarriedOn Arg1:T3 Arg2:T2
+R2	CarriedOn Arg1:T14 Arg2:T13

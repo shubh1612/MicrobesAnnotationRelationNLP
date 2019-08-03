@@ -1,0 +1,35 @@
+T1	Environment 203 207	soil
+T2	Environment 307 311	soil
+T3	Environment 487 492	water
+T4	Environment 1191 1195	soil
+T5	Environment 1432 1437	water
+T6	Substrate 1289 1298	petroleum
+T7	Substrate 1284 1298	high petroleum
+T8	Property 1299 1313	concentrations
+T9	Environment 1615 1619	soil
+T10	Environment 1648 1653	water
+T11	Environment 1968 1973	plume
+T12	Substrate 1950 1961	hydrocarbon
+T13	ReactionOrProcess 1933 1942	extension
+R1	CarriedOn Arg1:T13 Arg2:T12
+T14	Property 1997 2010	concentration
+T15	Environment 2242 2250	dry soil
+T16	Environment 2246 2250	soil
+T17	Property 2359 2373	concentrations
+T18	Property 2300 2312	contaminants
+T19	Property 2353 2358	toxic
+T20	Environment 2459 2464	plume
+T21	Substrate 2452 2458	xylene
+T22	Environment 2574 2585	groundwater
+T23	Property 2603 2612	saturated
+T24	Substrate 2727 2736	petroleum
+T25	Environment 2982 2986	soil
+T26	Property 3015 3029	concentrations
+T27	ReactionOrProcess 3039 3050	degradation
+T28	Environment 3183 3187	soil
+T29	Substrate 3164 3172	gasoline
+T30	ReactionOrProcess 3146 3160	biodegradation
+R2	CarriedOn Arg1:T30 Arg2:T29
+T31	Environment 3312 3317	soils
+T32	Environment 3403 3408	soils
+T33	Substrate 3459 3470	hydrocarbon

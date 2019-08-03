@@ -1,0 +1,109 @@
+T1	Environment 130 137	aquifer
+T2	Substrate 156 168	hydrocarbons
+T3	Substrate 156 168	hydrocarbons
+T4	ReactionOrProcess 233 247	bioremediation
+T5	ReactionOrProcess 223 247	intrinsic bioremediation
+T6	Property 295 307	methanogenic
+T7	Property 295 307	methanogenic
+T8	ReactionOrProcess 330 338	reducing
+T9	ReactionOrProcess 360 368	reducing
+T10	ReactionOrProcess 282 287	redox
+T11	Nutrient 344 348	iron
+T12	Environment 424 431	aquifer
+T13	ReactionOrProcess 528 534	cloned
+T14	ReactionOrProcess 448 451	PCR
+T15	Property 1334 1346	methanogenic
+T16	Property 1334 1346	methanogenic
+T17	Microbes 1534 1544	Syntrophus
+T18	Microbes 1522 1532	Syntrophus
+T19	Substrate 1534 1548	Syntrophus spp
+T20	ReactionOrProcess 1584 1593	oxidation
+T21	ReactionOrProcess 1574 1593	anaerobic oxidation
+T22	ReactionOrProcess 1826 1840	methanogenesis
+T23	Environment 1951 1958	aquifer
+T24	Substrate 1895 1906	hydrocarbon
+T25	Property 1926 1938	methanogenic
+T26	Property 1926 1938	methanogenic
+T27	Property 2067 2089	syntrophic association
+T28	ReactionOrProcess 1895 1918	hydrocarbon degradation
+T29	ReactionOrProcess 2067 2089	syntrophic association
+T30	ReactionOrProcess 1907 1918	degradation
+T31	ReactionOrProcess 1975 1989	methanogenesis
+T32	Environment 2214 2225	groundwater
+T33	Environment 2205 2209	soil
+T34	Environment 2146 2170	underground storage tank
+T35	Environment 2182 2209	petroleum-contaminated soil
+T36	Property 2110 2121	attenuation
+T37	Environment 2362 2373	groundwater
+T38	Environment 2349 2373	contaminated groundwater
+T39	Environment 2428 2432	soil
+T40	Environment 2415 2432	contaminated soil
+T41	Property 2298 2309	attenuation
+T42	Environment 2475 2486	groundwater
+T43	Environment 2462 2486	contaminated groundwater
+T44	Environment 2539 2543	soil
+T45	Environment 2526 2543	contaminated soil
+T46	Property 2609 2620	attenuation
+T47	Environment 2688 2705	contaminated site
+T48	Property 2757 2768	attenuation
+T49	Property 2718 2729	attenuation
+T50	Environment 2860 2871	groundwater
+T51	Environment 2879 2883	soil
+T52	Environment 2849 2871	historical groundwater
+T53	Property 2951 2964	concentration
+T54	Property 2927 2938	contaminant
+T55	Property 3037 3048	contaminant
+T56	ReactionOrProcess 3069 3083	volatilization
+T57	Environment 3291 3296	water
+T58	Substrate 3187 3199	hydrocarbons
+T59	Substrate 3259 3271	hydrocarbons
+T60	Substrate 3349 3361	hydrocarbons
+T61	Substrate 3302 3309	methane
+T62	Substrate 3187 3199	hydrocarbons
+T63	Substrate 3259 3271	hydrocarbons
+T64	Substrate 3349 3361	hydrocarbons
+T65	ReactionOrProcess 3168 3182	bioremediation
+T66	ReactionOrProcess 3158 3182	intrinsic bioremediation
+T67	Nutrient 3275 3281	carbon
+R1	CarriedOn Arg1:T65 Arg2:T58
+R2	CarriedOn Arg1:T65 Arg2:T59
+R3	CarriedOn Arg1:T65 Arg2:T60
+R4	CarriedOn Arg1:T65 Arg2:T61
+R5	CarriedOn Arg1:T65 Arg2:T62
+R6	CarriedOn Arg1:T65 Arg2:T63
+R7	CarriedOn Arg1:T65 Arg2:T64
+R8	CarriedOn Arg1:T66 Arg2:T58
+R9	CarriedOn Arg1:T66 Arg2:T59
+R10	CarriedOn Arg1:T66 Arg2:T60
+R11	CarriedOn Arg1:T66 Arg2:T61
+R12	CarriedOn Arg1:T66 Arg2:T62
+R13	CarriedOn Arg1:T66 Arg2:T63
+R14	CarriedOn Arg1:T66 Arg2:T64
+T68	Environment 3538 3547	microcosm
+T69	Substrate 3457 3479	biological hydrocarbon
+T70	Substrate 3468 3479	hydrocarbon
+T71	Property 3697 3709	contaminants
+T72	ReactionOrProcess 3527 3536	depletion
+T73	Nutrient 3509 3526	electron acceptor
+T74	ReactionOrProcess 4087 4096	extracted
+T75	ReactionOrProcess 4142 4145	PCR
+T76	ReactionOrProcess 4161 4168	cloning
+T77	Environment 4350 4370	contaminated aquifer
+T78	Environment 4247 4251	soil
+T79	Environment 4363 4370	aquifer
+T80	ReactionOrProcess 4392 4406	bioremediation
+T81	ReactionOrProcess 4382 4406	intrinsic bioremediation
+T82	Environment 4490 4510	contaminated aquifer
+T83	Environment 4503 4510	aquifer
+T84	Environment 4773 4778	plume
+T85	Substrate 4722 4729	benzene
+T86	Substrate 4731 4738	toluene
+T87	Substrate 4740 4752	ethylbenzene
+T88	Substrate 4758 4765	xylenes
+T89	Property 4704 4717	Concentration
+T90	Property 4812 4826	concentrations
+T91	Property 4704 4718	Concentrations
+T92	Environment 4964 4971	aquifer
+T93	Substrate 4986 4995	petroleum
+T94	Substrate 4980 5007	total petroleum hydrocarbon
+T95	Substrate 4996 5007	hydrocarbon

@@ -1,0 +1,109 @@
+T1	Environment 69 90	oil contaminated soil
+T2	Environment 73 98	contaminated soil samples
+T3	Environment 86 98	soil samples
+T4	Environment 61 90	several oil contaminated soil
+T5	Environment 86 90	soil
+T6	Environment 73 90	contaminated soil
+T7	Substrate 114 122	gasoline
+T8	Substrate 69 72	oil
+T9	Substrate 127 133	diesel
+T10	Property 69 85	oil contaminated
+T11	ReactionOrProcess 10 21	enumeration
+R1	CarriedOn Arg1:T11 Arg2:T7
+R2	CarriedOn Arg1:T11 Arg2:T8
+R3	CarriedOn Arg1:T11 Arg2:T9
+T12	Property 415 424	lipolytic
+T13	Nutrient 462 470	nitrogen
+T14	Microbes 580 590	consortium
+T15	Substrate 523 532	crude oil
+T16	Substrate 529 532	oil
+T17	Property 604 616	temperatures
+T18	ReactionOrProcess 515 522	degrade
+R4	CarriedOn Arg1:T18 Arg2:T14
+T19	Microbes 703 713	consortium
+T20	Substrate 632 649	Maximum crude oil
+T21	Substrate 640 649	crude oil
+T22	Substrate 646 649	oil
+T23	ReactionOrProcess 646 664	oil biodegradation
+T24	ReactionOrProcess 650 664	biodegradation
+R5	CarriedOn Arg1:T23 Arg2:T19
+R6	CarriedOn Arg1:T24 Arg2:T19
+T25	Microbes 843 857	Pseudomonas sp
+T26	Substrate 877 886	crude oil
+T27	Substrate 883 886	oil
+T28	Microbes 914 924	consortium
+T29	Environment 966 991	contaminated environments
+T30	Substrate 962 965	oil
+T31	Property 962 978	oil contaminated
+T32	ReactionOrProcess 943 958	bioaugmentation
+R7	CarriedOn Arg1:T32 Arg2:T30
+T33	Substrate 993 1002	Petroleum
+T34	Substrate 1111 1120	petroleum
+T35	Property 1149 1160	contaminant
+T36	Substrate 1271 1279	gasoline
+T37	Substrate 1351 1359	gasoline
+T38	Substrate 1399 1402	oil
+T39	Substrate 1361 1367	diesel
+T40	Environment 1463 1480	accidental spills
+T41	Substrate 1581 1589	gasoline
+T42	Substrate 1594 1600	diesel
+T43	Property 1541 1552	contaminant
+T44	Environment 1722 1733	groundwater
+T45	Substrate 1776 1788	hydrocarbons
+T46	Substrate 1883 1895	hydrocarbons
+T47	Substrate 1776 1788	hydrocarbons
+T48	Substrate 1883 1895	hydrocarbons
+T49	Substrate 2128 2140	hydrocarbons
+T50	Substrate 2128 2140	hydrocarbons
+T51	Property 2086 2106	chemical composition
+T52	ReactionOrProcess 2055 2064	reduction
+R8	CarriedOn Arg1:T52 Arg2:T49
+R9	CarriedOn Arg1:T52 Arg2:T50
+T53	Substrate 2358 2369	hydrocarbon
+T54	Environment 2596 2602	porous
+T55	Substrate 2441 2444	oil
+T56	Substrate 2869 2878	petroleum
+T57	Substrate 2879 2891	hydrocarbons
+T58	Substrate 2879 2891	hydrocarbons
+T59	Substrate 2800 2803	oil
+T60	Substrate 2869 2891	petroleum hydrocarbons
+T61	ReactionOrProcess 3010 3020	weathering
+T62	ReactionOrProcess 2782 2796	biodegradation
+T63	ReactionOrProcess 2922 2936	biodegradation
+R10	CarriedOn Arg1:T62 Arg2:T56
+R11	CarriedOn Arg1:T62 Arg2:T57
+R12	CarriedOn Arg1:T62 Arg2:T58
+R13	CarriedOn Arg1:T62 Arg2:T59
+R14	CarriedOn Arg1:T62 Arg2:T60
+R15	CarriedOn Arg1:T63 Arg2:T56
+R16	CarriedOn Arg1:T63 Arg2:T57
+R17	CarriedOn Arg1:T63 Arg2:T58
+R18	CarriedOn Arg1:T63 Arg2:T59
+R19	CarriedOn Arg1:T63 Arg2:T60
+T64	Microbes 3217 3227	consortium
+T65	Substrate 3108 3116	gasoline
+T66	Substrate 3246 3260	high crude oil
+T67	Substrate 3251 3260	crude oil
+T68	Substrate 3257 3260	oil
+T69	Substrate 3121 3127	diesel
+T70	ReactionOrProcess 3231 3238	degrade
+T71	Environment 3302 3314	soil samples
+T72	Environment 3302 3306	soil
+T73	Substrate 3351 3359	Gasoline
+T74	Substrate 3427 3430	oil
+T75	Substrate 3377 3383	diesel
+T76	ReactionOrProcess 3431 3440	degrading
+T77	ReactionOrProcess 3414 3423	isolation
+R20	CarriedOn Arg1:T77 Arg2:T74
+T78	Microbes 3593 3615	heterotrophic bacteria
+T79	Microbes 3617 3630	actinomycetes
+T80	Property 3593 3606	heterotrophic
+T81	ReactionOrProcess 3564 3575	Enumeration
+T82	ReactionOrProcess 3580 3589	isolation
+T83	Nutrient 3734 3738	agar
+T84	Nutrient 3755 3759	agar
+T85	Nutrient 3719 3723	agar
+R21	CarriedOn Arg1:T81 Arg2:T78
+R22	CarriedOn Arg1:T81 Arg2:T79
+R23	CarriedOn Arg1:T82 Arg2:T78
+R24	CarriedOn Arg1:T82 Arg2:T79

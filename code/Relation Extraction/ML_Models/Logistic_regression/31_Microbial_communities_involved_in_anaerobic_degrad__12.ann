@@ -1,0 +1,103 @@
+T1	Environment 83 98	anoxic habitats
+T2	Substrate 32 39	alkanes
+T3	Substrate 131 134	oil
+T4	ReactionOrProcess 4 28	anaerobic biodegradation
+T5	Substrate 267 270	oil
+T6	ReactionOrProcess 314 328	bioremediation
+T7	ReactionOrProcess 249 263	biodegradation
+T8	Substrate 432 441	petroleum
+T9	Substrate 481 484	oil
+T10	Substrate 1001 1022	saturated hydrocarbon
+T11	Substrate 946 955	crude oil
+T12	Substrate 585 610	deep-subsurface petroleum
+T13	Property 889 900	methanogens
+T14	Substrate 712 715	oil
+T15	Property 872 884	sulfidogenic
+T16	ReactionOrProcess 928 942	biodegradation
+T17	Substrate 1095 1104	Petroleum	
+T18	ReactionOrProcess 1156 1177	anaerobic degradation
+T19	Substrate 1318 1333	biodegraded oil
+T20	Substrate 1409 1416	alkanes
+T21	Substrate 1277 1284	methane
+T22	Substrate 1405 1408	oil
+T23	Substrate 1476 1483	alkanes
+T24	Substrate 1537 1552	light crude oil
+T25	Substrate 1472 1475	oil
+T26	Substrate 1723 1726	oil
+T27	ReactionOrProcess 1744 1754	extraction
+T28	ReactionOrProcess 1444 1468	methanogenic degradation
+T29	ReactionOrProcess 1584 1611	methanogenic biodegradation
+T30	Environment 1772 1777	water
+T31	Substrate 1814 1823	crude oil
+T32	Substrate 2002 2009	methane
+T33	Substrate 1995 1998	oil
+T34	Property 1986 1994	residual
+T35	Substrate 2285 2292	alkanes
+T36	Substrate 2117 2124	methane
+T37	Substrate 2281 2284	oil
+T38	Property 2254 2266	methanogenic
+T39	Substrate 2437 2444	alkanes
+T40	ReactionOrProcess 2409 2433	anaerobic biodegradation
+T41	Environment 2647 2662	anoxic habitats
+T42	Substrate 2556 2563	alkanes
+T43	Property 2696 2708	methanogenic
+T44	ReactionOrProcess 2497 2506	isolation
+T45	Microbes 3109 3119	Firmicutes
+T46	Substrate 3171 3183	hydrocarbons
+T47	ReactionOrProcess 3156 3167	degradation
+T48	Microbes 3243 3253	Firmicutes
+T49	Substrate 3330 3333	oil
+T50	Microbes 3408 3418	Firmicutes
+T51	Microbes 3584 3603	enrichment cultures
+T52	Substrate 3557 3573	methanogenic oil
+T53	Substrate 3527 3530	oil
+T54	ReactionOrProcess 3574 3583	degrading
+T55	ReactionOrProcess 3516 3526	metabolize
+T56	Property 3605 3617	Sulfidogenic	
+T57	Nutrient 3716 3733	electron acceptor
+T58	Nutrient 3779 3796	electron acceptor
+T59	Property 3850 3861	degradative
+T60	Microbes 3922 3954	Desulfoglaeba alkanexedens ALDCT
+T61	Substrate 3989 3996	alkanes
+T62	Substrate 4033 4044	methanogens
+T63	ReactionOrProcess 3981 3988	degrade
+T64	Substrate 4175 4181	sulfur
+T65	ReactionOrProcess 4111 4120	oxidation
+T66	Nutrient 4185 4203	electron acceptors
+T67	Substrate 4317 4327	crude oils
+T68	Property 4281 4305	organic sulfur compounds
+T69	Nutrient 4354 4372	electron acceptors
+T70	Microbes 4413 4425	T. sibiricus
+T71	Environment 4630 4667	high temperature petroleum reservoirs
+T72	Substrate 4479 4486	alkanes
+T73	Property 4574 4600	complex metabolic food web
+T74	Nutrient 4515 4533	electron acceptors
+T75	Microbes 4741 4753	Thermococcus
+R1	CarriedOn Arg1:T4 Arg2:T2
+R2	CarriedOn Arg1:T4 Arg2:T3
+R5	CarriedOn Arg1:T7 Arg2:T5
+R7	CarriedOn Arg1:T16 Arg2:T11
+R15	CarriedOn Arg1:T27 Arg2:T26
+R16	CarriedOn Arg1:T28 Arg2:T23
+R17	CarriedOn_No Arg1:T28 Arg2:T24
+R18	CarriedOn Arg1:T28 Arg2:T25
+R24	CarriedOn Arg1:T40 Arg2:T39
+R28	CarriedOn Arg1:T47 Arg2:T45
+R29	CarriedOn Arg1:T47 Arg2:T46
+R33	ActOn Arg1:T51 Arg2:T52
+R36	CarriedOn Arg1:T54 Arg2:T51
+R38	CarriedOn_No Arg1:T55 Arg2:T51
+R39	CarriedOn Arg1:T54 Arg2:T52
+R41	CarriedOn Arg1:T55 Arg2:T52
+R42	CarriedOn Arg1:T55 Arg2:T53
+R43	ActOn Arg1:T60 Arg2:T61
+R45	CarriedOn Arg1:T63 Arg2:T60
+R46	CarriedOn Arg1:T63 Arg2:T61
+R47	CarriedOn Arg1:T63 Arg2:T62
+T76	Environment 585 621	deep-subsurface petroleum reservoirs
+T77	Microbes 753 767	geobioreactors
+T78	Microbes 811 835	anaerobic microorganisms
+T79	Property 860 870	syntrophic
+T80	Microbes 3079 3100	fermentative bacteria
+T81	Nutrient 4141 4152	thiosulfate
+T82	Microbes 4762 4774	Archaeglobus

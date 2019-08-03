@@ -1,0 +1,79 @@
+T2	Microbes 140 159	Gammaproteobacteria
+T3	Substrate 257 268	hydrocarbon
+T4	Microbes 305 324	Alphaproteobacteria	
+T5	Environment 435 452	deep-sea sediment
+T6	Environment 774 779	water
+T7	Substrate 851 862	hydrocarbon
+T8	ReactionOrProcess 676 695	aerobic degradation
+T9	Environment 1041 1046	water
+T10	Substrate 964 976	hydrocarbons
+T11	ReactionOrProcess 992 1011	aerobic degradation
+T12	Environment 1271 1289	deep-sea sediments
+T13	Substrate 1454 1479	recalcitrant hydrocarbons
+T14	Substrate 1230 1241	hydrocarbon
+T16	ReactionOrProcess 1352 1383	aerobic hydrocarbon degradation
+T17	ReactionOrProcess 1430 1439	degrading
+T18	Substrate 1838 1850	hydrocarbons
+T19	ReactionOrProcess 1810 1834	Anaerobic biodegradation	
+T20	Substrate 2203 2232	polycyclic aromatic compounds
+T21	Substrate 2143 2152	n-alkanes
+T22	Substrate 2119 2131	hydrocarbons
+T23	Substrate 2154 2163	n-alkenes
+T24	Substrate 2165 2187	alicyclic hydrocarbons
+T25	ReactionOrProcess 2095 2105	metabolize
+T26	Substrate 2384 2395	hydrocarbon
+T27	Substrate 2446 2457	hydrocarbon
+T28	ReactionOrProcess 2411 2422	degradation
+T29	Microbes 2616 2635	Deltaproteobacteria	
+T30	Substrate 2704 2739	aromatic and aliphatic hydrocarbons
+T31	Microbes 2876 2895	Deltaproteobacteria
+T32	Environment 2916 2924	sediment
+T33	Substrate 3062 3069	alkanes
+T34	Substrate 2990 2994	PAHs
+T35	Microbes 3123 3142	Deltaproteobacteria
+T36	Substrate 3216 3219	oil
+T37	Microbes 3406 3442	Desulfatibacillum alkenivorans AK-01
+T38	Microbes 3504 3523	Deltaproteobacteria
+T39	Substrate 3623 3635	hydrocarbons
+T40	ReactionOrProcess 3598 3619	anaerobic degradation
+T41	Microbes 3889 3908	Deltaproteobacteria
+T42	Substrate 3759 3784	anthropogenic hydrocarbon
+T43	ReactionOrProcess 3974 4007	anaerobic hydrocarbon degradation
+T44	Microbes 4110 4129	Deltaproteobacteria
+T45	Environment 4329 4338	sediments
+T46	Substrate 4349 4365	recalcitrant oil
+T47	Substrate 4278 4285	methane
+T48	Substrate 4155 4166	hydrocarbon
+T50	Environment 4477 4486	sediments
+T51	Environment 4741 4750	sediments
+T52	Substrate 4775 4790	alkylsuccinates
+T53	Substrate 4629 4663	aliphatic and aromatic hydrocarbon
+T54	Substrate 5278 5300	aliphatic hydrocarbons
+T55	Environment 5474 5482	sediment
+T56	Substrate 5367 5382	alkylsuccinates
+T57	Substrate 5563 5576	alkylbenzenes
+T58	ReactionOrProcess 5535 5559	anaerobic biodegradation
+T59	Environment 5695 5704	sediments
+R5	CarriedOn Arg1:T11 Arg2:T10
+R11	CarriedOn Arg1:T17 Arg2:T13
+R16	CarriedOn Arg1:T19 Arg2:T18
+R17	CarriedOn Arg1:T25 Arg2:T20
+R18	CarriedOn Arg1:T25 Arg2:T21
+R19	CarriedOn Arg1:T25 Arg2:T22
+R22	CarriedOn Arg1:T28 Arg2:T26
+R24	ActOn Arg1:T29 Arg2:T30
+R25	FoundIn Arg1:T31 Arg2:T32
+R31	CarriedOn Arg1:T40 Arg2:T39
+R33	CarriedOn_No Arg1:T43 Arg2:T41
+R45	CarriedOn Arg1:T58 Arg2:T57
+T1	Microbes 55 76	Oceanospirillales spp
+T60	Microbes 472 487	Roseovarius spp
+T61	Microbes 493 508	Maricaulis spp.
+T62	ReactionOrProcess 1493 1514	anaerobic processing.
+R1	CarriedOn Arg1:T62 Arg2:T13	
+T15	Microbes 2067 2091	anaerobic microorganisms
+T63	Enzyme 2524 2546	glycyl radical enzymes
+T64	Substrate 3074 3081	alkenes
+T65	Microbes 3447 3471	G. metallireducens GS-15
+T66	Microbes 4236 4256	deltaproteobacterial
+T49	Nutrient 4680 4697	fumarate addition

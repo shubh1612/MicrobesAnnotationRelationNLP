@@ -1,0 +1,408 @@
+A18_2
+Microcosms were set up with a PAHs-contaminated soil using biostimulation (addition of ground corn cob) and bioaugmentation (inoculated with Monilinia sp. W5-2). Degradation of polycyclic aromatic hydrocarbons and microbial community were examined at the end of incubation period. After 30 days, bioaugmented microcosms showed a 35 ± 0% decrease in total PAHs, while biostimulated and control microcosms showed 16 ± 9% and 3 ± 0% decrease in total PAHs, respectively. Bioaugmented microcosms also revealed 70 ± 8% and 72 ± 2% decreases in benzo[a]pyrene and anthracene, respectively, while the values for biostimulated and control microcosms were much lower. Detoxification of soils in bioaugmented microcosms was confirmed by genetic toxicity assay, suggesting important role of fungal remediation. Molecular fingerprint profiles and selective enumeration showed biostimulation with ground corn cob increased both number and abundance of indigenous aromatic hydrocarbons degraders and changed microbial community composition in soil, which is beneficial to natural attenuation of PAHs. At the same time, bioaugmentation with Monilinia strain W5-2 imposed negligible effect on indigenous microbial community. This study suggests that fungal remediation is promising in eliminating PAHs, especially the part of recalcitrant and highly toxic benzo[a]pyrene, in contaminated soil. It is also the first description of soil bioremediation with Monilinia sp.
+
+Keywords
+
+Bioaugmentation Biostimulation Fungal remediation Microbial community PAHs Soil 
+Download fulltext PDF
+Introduction
+Polycyclic aromatic hydrocarbons (PAHs) are a class of toxic, mutagenic and carcinogenic chemicals that are ubiquitous in environment. The high-molecular-weight (HMW) PAHs are more hydrophobic and recalcitrant, so less degradable to microorganisms than the low-molecular-weight (LMW) PAHs. Although the LMW PAHs-degrading bacteria are widely spread in soil (Juhasz and Naidu 2000), less bacteria metabolize HMW PAHs, especially the highly toxic benzo[a]pyrene.
+
+Fungal remediation, or mycoremediation, which means fungal treatment or fungal-based remediation, is a promising technique for cleanup of contaminated soil. The PAHs-transforming capability of fungi mainly comes from their extracellular ligninolytic enzymes, i.e. lignin peroxidase (LiP), manganese peroxidase (MnP) and laccase. In addition, some fungi degrade PAHs via mechanism similar with mammals (using intracellular cytochrome P450 enzymes) (Barnforth and Singleton 2005; Cerniglia 1997). White rot fungi (WRF) are among the most extensively studied species for they are capable of degrading a wide range of xenobiotic compounds, including PAHs (Bogan et al. 1999; Collins et al. 1996; Pickard et al. 1999). However, the colonization potential of WRF in soil is reported to be limited (Andersson et al. 2001; McErlean et al. 2006), and the depletion of PAHs by WRF may be hindered by limiting environmental factors (Tortella and Diez 2005). It is reported that some litter-decomposing fungi can colonize soil and degrade PAHs (Steffen et al. 2002), and indigenous non-ligninolytic fungi isolated from soil transform PAHs significantly (D’Annibale et al. 2006; Potin et al. 2004), suggesting that known PAHs-degrading fungi are relatively less compared to the highly diverse fungi kingdom and there is a huge fungi pool in terrestrial ecosystem from which potent PAHs degrading strains remain to be explored. So effort should be put into isolation and identification of PAHs-removing and environmentally adaptive fungi from terrestrial ecosystem.
+
+In addition, the impact of remedial treatment on indigenous microorganism community cannot simply be ignored. Fungi usually do not mediate complete mineralization of pollutants, so sequential fungal-bacterial degradation is necessary for soil detoxification. In soil, bacterial-fungal and interfungal interaction is widespread (Thorn 1997). It has been suggested that fungal inoculation reduce the number of indigenous bacteria along with depletion of pollutants (Andersson et al. 2003) or change the soil bacterial community (Corgie et al. 2006). So microbial effect of fungi used in remediation should be investigated before field utility.
+
+In the present study, soil microcosms were set up with different treatments (biostimulation with nutrient and bioaugmentation with fungal inoculum) to test the potential of fungal remediation on an aged PAHs-contaminated soil, which was not compatible with agricultural/residential/parkland uses according to Canadian Environmental Quality Guidelines due to the high PAHs contents. At the end of incubation, PAHs and indigenous aromatic hydrocarbons degraders (AHD) were determined, and microbial community compositions were analyzed by denaturing gradient gel electrophoresis (DGGE). Results indicate the fungus tested has high potential in removing PAHs, especially the highly toxic benzo[a]pyrene, without apparently negative effect on indigenous microorganisms.
+
+Materials and methods
+Soil
+Bulk soil used in this microcosm study was collected from a liquefied petroleum gas station located in Wuxi, Jiangsu, China. The soil pH was 6.4, organic matter 19.2 g kg−1, total nitrogen 1.0 g kg−1, total phosphorus 0.5 g kg−1, total potassium 14.2 g kg−1, CEC 21.5 cmol kg−1, and concentration of 15 individual PAHs are described in Table 1. Before used, the soil was air-dried, passed through a 2 mm sieve, and stored at 4°C in darkness.
+Table 1
+Reduction of PAHs with biostimulation and bioaugmentation after 30-day incubationa
+PAHs
+Initial (μg kg−1 soil)
+Bioaugmented
+Biostimulated
+Control
+Concentration (μg kg−1 soil)
+% Loss
+Concentration (μg kg−1 soil)
+% Loss
+Concentration (μg kg−1 soil)
+% Loss
+Naphthalene
+N.D.b
+N.D.b
+–
+N.D.b
+–
+N.D.b
+–
+Phenanthrene
+591 ± 19a
+394 ± 8b
+33 ± 1
+446 ± 127ab
+25 ± 21
+517 ± 15a
+13 ± 3
+Anthracene
+78.9 ± 0.3a
+22.4 ± 1.4b
+72 ± 2
+43.9 ± 12.0ab
+44 ± 15
+50.3 ± 13.7a
+36 ± 17
+Acenaphthylene + Fluorenec
+88.8 ± 0.9a
+54.8 ± 37.8ab
+38 ± 43
+34.7 ± 20.6ab
+61 ± 23
+31.6 ± 2.6b
+65 ± 3
+Fluoranthene
+2150 ± 41a
+1555 ± 1b
+28 ± 0
+1822 ± 241ab
+15 ± 11
+2180 ± 17a
+0d
+Pyrene
+1608 ± 63a
+1126 ± 3b
+30 ± 0
+1332 ± 185ab
+17 ± 12
+1551 ± 90a
+4 ± 6
+Benz[a]anthracene
+857 ± 32a
+555 ± 20b
+35 ± 2
+717 ± 73ab
+16 ± 9
+819 ± 34a
+4 ± 4
+Chrysene
+951 ± 1a
+658 ± 18b
+31 ± 2
+819 ± 87ab
+14 ± 9
+950 ± 27a
+0 ± 3
+Benzo[b]fluoranthene
+1267 ± 8a
+862 ± 33b
+32 ± 3
+1107 ± 99ab
+13 ± 8
+1277 ± 8a
+0d
+Benzo[k]fluoranthene
+508 ± 13a
+351 ± 11b
+31 ± 2
+444 ± 30ab
+13 ± 6
+523 ± 5a
+0d
+Benzo[a]pyrene
+924 ± 139a
+280 ± 71b
+70 ± 8
+774 ± 3a
+16 ± 0
+745 ± 163a
+19 ± 18
+Dibenzo[a,h]anthracene
+101.9 ± 4.9a
+72.2 ± 2.0b
+29 ± 2
+90.7 ± 5.7a
+11 ± 6
+116.6 ± 4.2a
+0d
+Benzo[g,h,i]perylene
+967 ± 26a
+622 ± 49b
+36 ± 5
+845 ± 71ab
+13 ± 7
+983 ± 21a
+0d
+Indenol[1,2,3-cd]pyrene
+742 ± 36a
+512 ± 42b
+31 ± 6
+669 ± 76ab
+10 ± 10
+790 ± 11a
+0d
+Total
+10835 ± 220a
+7065 ± 40b
+35 ± 0
+9144 ± 1 013ab
+16 ± 9
+10534 ± 16a
+3 ± 0
+a  Values with the same letter are not significantly different (p > 0.05)
+
+b  Not detected
+
+c  Data show the sum of acenaphthylene and fluorene due to incompletely separated peaks
+
+d  Inference from comparison of values for initial soil and control microcosms
+
+Fungus and inoculum preparation
+Fungus strain W5-2 was isolated previously from a historically PAHs-contaminated soil collected from Wuxi, Jiangsu, China based on a laccase activity assay (Coll et al. 1993). The morphological characteristics of strain W5-2 including its spores were compared with those of the known species of fungi (Wei 1979) and it was strongly suggested that strain W5-2 belongs to the genus Monilinia. The fungus was maintained on Potato Dextrose Agar (PDA) plates at 4°C.
+
+For bioaugmentation, 7-day-old mycelium in liquid media was homogenized and 1 ml suspensions were inoculated into 250 ml flasks containing 49 ml media. After incubation in dark at 180 rpm and 28°C for 7 days, the precultures were centrifuged and washed with dH2O. The mycelium was homogenized with dH2O to yield a biomass concentration of approximately 3 g l−1. For bioaugmentation, 50 ml suspension was inoculated.
+
+The liquid media included (g l−1): glucose 20, KH2PO4 2, MgSO4 · 7H2O 0.5, CaCl2 0.1, yeast extract 0.2.
+
+Microcosms
+Microcosms were run in triplicates, containing 1 kg non-sterile soil (dry weight). For bioaugmented microcosms, soils were inoculated with 50 ml mycelium suspensions of Monilinia sp. W5-2 pre-mixed with 50 g ground corn cob. The water holding capacity (WHC) of microcosms was adjusted to 60%. Biostimulated microcosms were set up with the same treatment as described above except addition of fungus culture. Control microcosms were run at the same time with no addition of inoculum and nutrient. All microcosms were incubated at room temperature for 30 days in darkness.
+
+PAHs extraction and HPLC
+Five grams frozen dried soil samples (in triplicates) were extracted with 60 ml dichloromethane in a Soxhlet apparatus for 24 h. Extracts were concentrated using a rotary evaporator and purified with column chromatography filled with activated silica gel before analysis by HPLC.
+
+Determination of 15 out of 16 EPA PAHs (except acenaphthene) was carried out according to the method of Ping et al (2007). Briefly, analysis was conducted on a Shimadzu Class-VP HPLC system (Shimadzu, Japan), with a fluorescence detector (RF-10AXL). A reversed phase column C18 (VP-ODS 150 × 4.6 mm I. D., particle size 5 μm), using a mobile phase of water and acetonitrile mixture (1:9, v/v) at a constant solvent flow rate of 0.5 ml min−1, was used to separate 15 PAHs. The excitation and emission wavelengths for individual PAH were set separately.
+
+The percentage of PAHs loss (%D) was given by the formula: %D = 100[(MI − MT)/MI], where MT was the concentration of PAHs in each treatment and MI was the initial PAHs concentration present in soil. The mean (m) and the standard deviation (SD) were calculated and are shown in Table 1.
+
+Genotoxic assay
+Soil was extracted as described previously (Plaza et al. 2005). Briefly, 5 g soil (in triplicates) was extracted by dichloromethane for 24 h. Once the extract volume was reduced to approximately 5 ml by rotary evaporating, 1.5 ml of dimethyl sulfoxide (DMSO) was added and the final volume should be 1.5 ml under reduced pressure. The umu test (without S9 addition) with Salmonella typhimurium NM2009 was performed on microplates following International Organization for Standardization (ISO) standard (ISO 2000). By definition, the genotoxicity of sample is the lowest reciprocal dilution factor that is not genotoxic.
+
+Enumeration of AHD
+AHD were counted at the end of incubation using a miniaturized most probable number (MPN) method in 96-well microplates with five replicates per dilution (Wrenn and Venosa 1996). Briefly, phenanthrene, anthracene, fluorene, and dibenzothiophene were added as the sole carbon sources to support the proliferation of aromatics-degrading bacteria. Serially diluted samples were inoculated into the wells and the microplates were incubated at room temperature for 3 weeks. The wells turned yellow or brown owing to the accumulation of partial oxidation products of aromatic substrates were treated as positive. Published MPN tables were used to decide the MPN.
+
+DNA extraction and PCR amplification
+Soil DNA was extracted from 0.5 g soil using the FastDNA Spin Kit for Soil (Q-BIOgen, Irvine, CA) according to user’s manual. A 230-bp fragment, of which 180-bp is from the 16S rRNA gene of bacteria, was amplified by using GC-clamp primers described previously (Muyzer et al. 1993) on a PTC-100 thermalcycler (MJ Research, Inc., Watertown, MS). Each 50 μl PCR mixture contained 1 × PCR buffer, 200 μM nucleotide mixture, 1.5 mM MgCl2, 0.5 μM (each) primer, 1 U of Taq DNA polymerase (Promega, Shanghai, China), and 1 μl DNA extract was added. The PCR procedure consisted of a touchdown reaction and additional 10 cycles described previous (Dilly et al. 2004). For eukaryotic population, primer pair 403f/662r-gc was used to amplify partial sequences of eukaryotic 28S rRNA gene. PCR was conducted following Sigler and Turco (2002).
+
+DGGE
+DGGE was performed on a DCode Universal Mutation Detection System (Bio-Rad Laboratories, Hercules, CA). PCR products were all separated in an 8% acrylamide gels with a denaturing gradient from 30 to 60% (100% denaturant corresponds to 7 M urea and 40% formamide). Gels were running in 1 × TAE buffer at 60°C and 75 V for 800 min, and stained for 30 min in 1 × TAE containing SYBR Green I (Roche, Mannheim, Germany), documented by Gel Doc™ EQ gel documentation system (Bio-Rad Laboratories, Hercules, CA).
+
+Analysis of DGGE profiles
+DGGE image was digitalized and processed by Gelcompar II package (Applied Maths, Inc., Austin, TX) with default values. After normalization, bands with relative peak area intensities were included in further analysis. Shannon-Wiener diversity index of microbial community was calculated as H′=−∑i=1SPi×lnPiH′=−∑i=1SPi×ln⁡Pi where Piis the percentage of the total intensity accounted for by the ith band. Cluster analysis of bacterial profiles was performed using Gelcompar II to construct a dendrogram using unweighted pair group method (UPGMA) based on Pearson’s similarity coefficient calculated from the complete densitometric curves.
+
+Sequence analysis
+Concise DGGE bands were excised and reamplified as described (Wilms et al. 2006). For purification, a second DGGE was run and bands with identical position to parent bands were excised, amplified again with primer pairs without GC clamp. Sequencing of PCR products were carried out by Invitrogen (Shanghai, China). DNA sequences were compared to those in the GenBank (Altschul et al. 1997). Due to a limitation of eukaryotic ribosomal sequences database, we did not perform the sequencing of DGGE bands in eukaryotic profile.
+
+Statistical analysis
+Student’s t test was performed using SPSS package (version 11.5; SPSS Inc., Chicago, IL) on the primary data in each case to evaluate the statistical difference between two treatments. Significance levels of 0.05 were applied to the results to determine their statistical significance.
+
+Nucleotide accession numbers
+The 19 nucleotide sequences determined in this study were deposited in the GenBank database under accession descried in Table 4.
+
+Results
+PAHs biodegradation
+Fourteen EPA PAHs were observed with naphthalene not detected in initial soil (Table 1). According to Canadian Environmental Quality Guidelines released by Canadian Council of Ministers of the Environment (CCME) (2004), this soil was not suitable for agricultural land uses as well as residential or parkland uses due to high concentration of PAHs, especially benzo[b]fluoranthene and benzo[a]pyrene.
+
+Loss of total and individual PAHs was summarized in Table 1. After 30 days of incubation, microcosms receiving bioaugmentation showed a 35 ± 0% depletion in total PAHs. Benzo[a]pyrene and anthracene were the most degradable ones with 70 ± 8% and 72 ± 2% removed from soil, respectively. Compared with control, significant degradation was observed in both total PAHs (p < 0.01) and benzo[a]pyrene (p < 0.05) in bioaugmented microcosms. At the same time, only 16 ± 9% of total PAHs, 16 ± 0% of benzo[a]pyrene and 44 ± 15% of anthracene disappeared in biostimulated microcosms. No significant difference was observed between biostimulated and control microcosms.
+
+Calculated degradation based on ring number of PAHs was described as Fig. 1. For biostimulated and control microcosms, percentages of degradation decreased in the following order: 3-ring > 4-ring > 5- and 6-ring, which coincided with the general idea that PAHs with less rings are more easily degradable. However, for bioaugmented microcosms, 5- and 6-ring PAHs were more degradable due to high removal of benzo[a]pyrene.
+
+Fig. 1
+Percentage of degradation for PAHs with different number of rings. A: bioaugmented microcosms; S: biostimulated microcosms; CK: control microcosms
+Genotoxic potential differences
+Results from umu test showed that values of genotoxic factor for initial soil, biostimulated and control microcosms were all 12, while the bioaugmented microcosms had a lower value, i.e. 6. According to the definition of genotoxic factor, larger value denotes higher toxic potential (ISO 2000). So it seemed that inoculation of W5-2 decreased mutagenic potential of soil, which is consistent with the decreases of total PAHs and benzo[a]pyrene confirmed by of HPLC.
+
+Enumeration of AHD
+A miniaturized MPN method was employed to evaluate the bacterial potential of degrading PAHs. The results were described in Table 2. Compared with the initial soil, significant proliferation (p < 0.05) of AHD population was observed on all microcosms after 30 days incubation. Both bioaugmented and biostimulated microcosms showed more AHD (p < 0.05) compared with control, implying positive effect of nutrient (ground corn cob) on indigenous microbial population. Furthermore, there were more AHD in biostimulated microcosms than those receiving bioaugmentation, suggesting a weak impact on indigenous bacteria by Monilinia sp. W5-2.
+Table 2
+Enumeration of AHD after 30-day incubationa
+ 	
+Initial
+Bioaugmented
+Biostimulated
+Control
+Number of AHD (× 104 g−1 dry soil)
+1.56 ± 0.40a
+22.65 ± 6.71b
+47.56 ± 13.13b
+8.12 ± 2.29c
+a  Values with the same letter are not significantly different (p > 0.05)
+
+Impact of mycoremediation on microbial community composition
+Bacterial community profiles elucidated by DGGE are presented as Fig. 2A. As the initial soil was concerned, six bands consisted of the main bacterial population (band 1–6), showing a less diverse community. In the cases of biostimulated and bioaugmented microcosms, a significant shift in population structure was denoted by appearance of new bands. At the end of incubation, profiles for bioaugmented and biostimulated microcosms were highly similar, forming one cluster, while profiles for initial soil and control microcosms forming another (Fig. 3A). Indicated by Fig. 2B which shows the eukaryotic communities, differences were observed between initial soil, control microcosms and biostimulated and bioaugmented microcosms, with two clusters formed (Fig. 3B). So it is apparent that the addition of ground corn cob changed the indigenous microbial community greatly, and Monilinia strain W5-2 posed little impact on microbial community.
+
+Fig. 2
+DGGE profiles of (A) bacterial and (B) eukaryotic community compositions in soils with different treatments. The numbered bands were excised and sequenced. IS: initial soil; A: bioaugmented microcosms; S: biostimulated microcosms; CK: control microcosms
+
+Fig. 3
+Cluster analysis of (A) bacterial and (B) eukaryotic community composition for initial soil (IS), bioaugmented microcosms (A), biostimulated microcosms (S), and control microcosms (CK). Two samples from each treatment were run
+Based on DGGE profile, the microbial diversity was estimated (Table 3). After 30 days of incubation, bacterial communities diversity (elucidated by Shannon-Wiener index) in both bioaugmented and biostimulated microcosms increased significantly (p < 0.05). However, no significant difference was detected between bioaugmented/biostimulated and control microcosms (Table 3). At the other hand, there was no obvious change among fungal diversity index, though the species composition in mycoremediation microcosms shifted after 30 days incubation.
+Table 3
+Shannon-Wiener diversity index for bacteria and eukaryotic organisms after 30-day incubationa
+ 	
+Initial
+Bioaugmented
+Biostimulated
+Control
+H′ of bacteria
+2.27 ± 0.05a
+2.77 ± 0.06b
+2.73 ± 0.09b
+2.55 ± 0.13ab
+H′ of fungi
+2.68 ± 0.12a
+2.77 ± 0.04a
+2.78 ± 0.04a
+2.77 ± 0.04a
+a  Values with the same letter are not significantly different (p > 0.05); duplicates were run on DGGE gel to calculate the Shannon-Wiener diversity index
+
+Bands retrieved and sequencing
+Twenty three characteristic bands in bacterial DGGE profile were excised and subsequently sequenced. Nineteen sequences were retrieved successfully. The short fragments of bacterial 16S rRNA gene V3 region were compared with similar sequences by searching GenBank using BLAST (Altschul et al. 1997). While the short sequence was not adequate to specify a microorganism, the closest phylotype can be acquired by searching 16S rRNA gene database. Results of taxonomic information of bands are presented in Table 4.
+Table 4
+The closest sequence match of known phylogenetic affiliation to band sequences extracted from DGGE gel
+Banda
+Sourceb
+Genbank accessories
+Closest organisms in Genbank database (accession no.)
+Similarityc
+Phylogenetic groupd
+2
+IS
+DQ792750
+Acinetobacter sp. (DQ904586)
+0.97
+Moraxellaceae (γ)
+3
+IS
+DQ792751
+Bacillus megaterium (DQ904610)
+0.98
+Bacillaceae (Firmicutes)
+4
+IS
+DQ792752
+Bacillus funiculus strain MXC3–4–2 (AB271137)
+1.00
+Bacillaceae (Firmicutes)
+5
+IS
+DQ792753
+Bacillus sp. strain KL-152 (AY030333)
+0.94
+Bacillaceae (Firmicutes)
+6
+IS
+DQ792754
+Bacillus niabensis strain 4T19 (AY998119)
+1.00
+Bacillaceae (Firmicutes)
+7
+A
+DQ792755
+Environmental clone (AY921817)
+0.97
+Crenotrichaceae (Bacteroidetes)
+8
+A
+DQ792756
+Environmental clone (AY095419)
+1.00
+TM7
+9
+A
+DQ792757
+Acidobacteriaceae bacterium Gsoil 1619 (AB245338)
+1.00
+Unclassified bacteria
+10
+A
+DQ792758
+Pseudomonas pseudoalcaligenes (AB257323)
+0.98
+Pseudomonadaceae (γ)
+11
+A
+DQ792759
+Clostridium (AJ229250)
+0.99
+Clostridiaceae (Firmicutes)
+12
+A
+DQ792760
+Environmental clone (AY728702)
+1.00
+Flexibacteraceae (Bacteroidetes)
+14
+A
+DQ792761
+Environmental clone (EF074596)
+0.96
+Crenotrichaceae (Bacteroidetes)
+15
+A
+DQ792762
+Pseudomonas sp. BWDY-42 (DQ213044)
+0.98
+Pseudomonadaceae (γ)
+17
+A
+DQ792763
+Bacillus sp. MI-3a (DQ223133)
+0.99
+Bacillaceae (Firmicutes)
+18
+S
+EF127899
+Chitinophaga sp. (AB245374)
+0.99
+Crenotrichaceae (Bacteroidetes)
+20
+CK
+DQ792764
+Environmental clone (AF445701)
+0.99
+TM7
+21
+CK
+DQ792765
+Environmental clone (AY095419)
+0.98
+TM7
+22
+CK
+DQ792766
+Environmental clone. (AF269018)
+0.91
+Clostridiaceae (Firmicutes)
+23
+CK
+DQ792767
+Environmental clone (AB234250)
+0.97
+Methylophilaceae (β)
+a  Band number as indicated on Fig. 2, and sequences of band 1,13,16,19 were not retrieved due to failure of sequencing
+
+b  IS: initial soil; A: bioaugmented microcosms; S: biostimulated microcosms; CK: control microcosms
+
+c  Sequences were matched with the closest relative from the GenBank database
+
+d  β, γ: β-, and γ-Proteobacteria, respectively
+
+Discussion
+Presence of large number of appropriate microorganisms is key to successful bioremediation (Chang and Devinny 2000). Both biostimulation and bioaugmentation are among the most used techniques in bioremediation by promoting degradative microorganisms. Theoretically, PAHs-degrading microorganisms are ubiquitous at contaminated sites. Nevertheless, HMW PAHs-transforming bacteria are relatively rare in soil. For example, in the present study, increase of AHD in biostimulated microcosms did not result in significant decrease of 5- and 6-ring PAHs (Table 1). In this case, bioaugmentation should be considered.
+
+Fungi as main soil microorganisms are important in the detoxification and cleaning up of contaminated soil (Bennet et al. 2002). Many fungi, such as WRF, have high potential in degrading PAHs (Andersson et al. 2003; Canet et al. 2001; D’Annibale et al. 2006; Gramss et al. 1999; Novotny et al. 1999; Potin et al. 2004). However, two effects of fungal remediation should be highlighted: removing of total/individual PAHs and effect on indigenous microorganisms, which combine to decide the potential of fungal remediation. In the present study, both PAHs removal and microbial effect of a filamentous indigenous soil fungus, Monilinia sp. W5-2 were monitored to test its remedial potential. Although specifically tracking of Monilinia sp. W5-2 was not available, the white filamentous mycelium was observed in bioaugmented microcosms after several days since inoculation, indicating a successful colonization of the inoculum.
+
+After 30 days of incubation, significant removal was observed for total and individual PAHs in the bioaugmented microcosms, indicating the crucial role of Monilinia strain W5-2. Decrease of HMW PAHs in bioaugmented microcosms (Fig. 1) was also comparable with other literature (Potin et al. 2004). Although biostimulation did decrease PAHs to some extent, no statistical significant difference was found (Table 1).
+
+It is remarkable that inoculation of fungus led to more removal of benzo[a]pyrene and anthracene (70 ± 8% and 72 ± 2%, respectively) than other individual PAHs. We confirmed this with extracellular fluids (data not shown). It is reported that benzo[a]pyrene and anthracene have low ionization potentials (IPs) (7.11 eV and 7.43 eV, respectively.) (NIST 2006), which makes them susceptible to attack of ligninolytic enzyme such as laccase and MnP. Field et al (1992) and Collins et al (1996) reported that anthracene and benzo[a]pyrene can be transformed in liquid culture or culture fluid of several fungi; Steffen et al (2002) indicated that some fungi transform benzo[a]pyrene almost completely in liquid culture; a study previously conducted in our lab showed a positive correlation between IPs of individual PAH and degradation by a commercial laccase in reaction mix. In case of soil, fungi also showed preferential degradation of HMW PAHs in microcosm study (Potin et al. 2004). All of these implied ligninolytic enzymes’ role in mycoremediation. However, no significant correlation was observed between IPs and percentages of degradation in the present study.
+
+Molecular weight, which also means bioavailablity of PAHs, is a crucial factor affecting the bioremediation of PAHs (Barnforth and Singleton 2005). In the case of control and biostimulated microcosms, only 2% and 13% of 5- and 6-ring PAHs were transformed, respectively (Fig. 1). Fungi can improve bioavailablity of HMW PAHs by releasing extracellular enzymes, penetrating into solid particles, or serving as vectors for the dispersion of pollutant-degrading bacteria (Kohlmeier et al. 2005). However, the mechanism of favorable HMW PAHs transformation by Monilinia strain W5-2 is to be explored.
+
+The toxicity of PAHs metabolites is of particular concern (Barnforth and Singleton 2005). Bioassays provide important information for the assessment of bioremediation (Eisentraeger et al. 2005). Here we tested the genotoxicity of soils with a genetically modified organisms Salmonella typhimurium NM2009. Although the genotoxic factor is not a noncontinuous measure and cannot be evaluated statistically according to the international standard (Ehrlichmann et al. 2000), the decrease of genotoxic factor after introduction of Monilinia sp. W5-2 reveals partial detoxification of mycoremediation strategy. Similar results were also described by other authors (D’Annibale et al. 2006).
+
+Exotic fungal inocula may have positive or negative effect on indigenous bacteria community (Andersson et al. 2003). As is well known, the synergistic effect and sequential fungal-bacterial degradation among microorganisms are important for mineralization of organic compounds (Johnsen et al. 2005), so shift in microbial community composition may have an important effect on mineralization of pollutants. In the present study, selective enumeration indicated a substantial increase of AHD in biostimulated and bioaugmented microcosms (Table 2). No significant difference was observed between bioaugmented and biostimulated microcosms. This result can be attributed to addition of ground corn cob, which may be served as carbon source to stimulate proliferation of indigenous bacteria.
+
+It can be seen from DGGE profiles and sequences alignment that dominant bacterial species (bands 3–6) in initial soil are Bacillaceae (Fig. 2A), which are widely spread species in soil. After incubation, the bacterial diversity increased (Table 3) coupling with significant shift of microbial community composition in biostimulated and bioaugmented microcosms (Fig. 2); furthermore, the presence of Pseudomonadaceae, which is one of the main PAHs degrading taxonomic groups in soil (Johnsen et al. 2005), indicating increased abundance of potent PAHs degraders in soil bacteria population. There is only small difference between DGGE profiles for bioaugmented and biostimulated microcosms (Fig. 2 and 3), implying inoculation of Monilinia sp. W5-2 had little impact on microbial community composition. Therefore Monilinia sp. W5-2 is a promising candidate strain for bioremediation of PAHs-contaminated soil based on the high removal of PAHs as well as the negligible effect on indigenous microorganisms.
+
+There are abundant fungi species with about 80,000 already named in our world (Bennet et al. 2002). Compared with this diverse kingdom, species of fungi used in bioremediation are still very less. To our knowledge, it is the first report that cleaning up PAHs-contaminated soil using Monilinia sp. Monilinia is not ligninolytic but cellulolytic fungus, which was reported that can produce oxidases such as cellobiose oxidase (Dekker 1980). Though mechanism of transformation, interaction with soil microorganisms, and other issues of are still to be elucidated, Monilinia sp. W5-2 is promising in bioremediation of PAHs contaminated soil due to its high potential in removing PAHs (especially benzo[a]pyrene), which leads to decreased ecological risks, and relatively less disturbance on indigenous microbial population. Our future studies will focus on the metabolism pathway of PAHs by Monilinia sp. W5-2 and field studies.

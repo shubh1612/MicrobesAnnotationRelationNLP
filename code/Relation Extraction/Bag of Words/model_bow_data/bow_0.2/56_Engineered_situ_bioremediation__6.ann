@@ -1,0 +1,68 @@
+T1	ReactionOrProcess 30 45	bioaugmentation
+T2	ReactionOrProcess 95 109	biostimulation
+T3	Environment 185 189	soil
+T4	Environment 507 511	soil
+T5	Property 387 397	surfactant
+T6	Property 318 327	pollutant
+T7	ReactionOrProcess 488 502	biodegradation
+T8	Property 844 857	biodegradable
+T9	Property 807 819	contaminants
+T10	Substrate 900 912	hydrocarbons
+T11	Substrate 900 912	hydrocarbons
+T12	ReactionOrProcess 886 896	weathering
+R1	CarriedOn Arg1:T12 Arg2:T10
+R2	CarriedOn Arg1:T12 Arg2:T11
+T13	Substrate 1133 1140	alkanes
+T14	Property 1068 1088	chemical composition
+T15	ReactionOrProcess 1265 1276	degradation
+T16	ReactionOrProcess 1255 1276	microbial degradation
+T17	Substrate 1439 1446	alkanes
+T18	Property 1376 1386	surfactant
+T19	Property 1546 1558	contaminants
+T20	ReactionOrProcess 1572 1580	degraded
+T21	Environment 1789 1800	groundwater
+T22	Environment 1805 1809	soil
+T23	Substrate 1769 1772	TPH
+T24	ReactionOrProcess 1742 1751	reduction
+R3	CarriedOn Arg1:T24 Arg2:T23
+T25	Substrate 2052 2063	hydrocarbon
+T26	ReactionOrProcess 2112 2122	adaptation
+T27	ReactionOrProcess 2279 2295	slow degradation
+T28	ReactionOrProcess 2249 2265	fast degradation
+T29	ReactionOrProcess 2190 2201	degradation
+T30	ReactionOrProcess 2254 2265	degradation
+T31	ReactionOrProcess 2284 2295	degradation
+T32	Substrate 2563 2594	polycyclic aromatic hydrocarbon
+T33	Substrate 2574 2594	aromatic hydrocarbon
+T34	Substrate 2583 2594	hydrocarbon
+T35	Substrate 2545 2594	heterotrophic and polycyclic aromatic hydrocarbon
+T36	Property 2545 2558	heterotrophic
+T37	Property 2563 2573	polycyclic
+T38	Property 2574 2582	aromatic
+T39	ReactionOrProcess 2423 2446	first-order degradation
+T40	ReactionOrProcess 2601 2610	degrading
+T41	ReactionOrProcess 2435 2446	degradation
+R4	CarriedOn Arg1:T39 Arg2:T32
+R5	CarriedOn Arg1:T39 Arg2:T33
+R6	CarriedOn Arg1:T39 Arg2:T34
+R7	CarriedOn Arg1:T39 Arg2:T35
+R8	CarriedOn Arg1:T41 Arg2:T32
+R9	CarriedOn Arg1:T41 Arg2:T33
+R10	CarriedOn Arg1:T41 Arg2:T34
+R11	CarriedOn Arg1:T41 Arg2:T35
+T42	Substrate 2720 2723	TPH
+T43	ReactionOrProcess 2720 2735	TPH degradation
+T44	ReactionOrProcess 2724 2735	degradation
+T45	Substrate 2978 2987	petroleum
+T46	ReactionOrProcess 2988 2999	degradation
+T47	ReactionOrProcess 3162 3176	bioremediation
+T48	ReactionOrProcess 3407 3417	enrichment
+T49	ReactionOrProcess 3632 3647	bioaugmentation
+T50	ReactionOrProcess 3533 3542	degrading
+T51	Substrate 3864 3876	hydrocarbons
+T52	Substrate 3864 3876	hydrocarbons
+T53	Property 3884 3902	sole carbon source
+T54	ReactionOrProcess 3747 3758	degradation
+T55	Nutrient 3889 3895	carbon
+R12	CarriedOn Arg1:T54 Arg2:T51
+R13	CarriedOn Arg1:T54 Arg2:T52

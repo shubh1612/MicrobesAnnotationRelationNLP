@@ -1,0 +1,29 @@
+T1	Substrate 12 19	methane
+T2	Substrate 136 143	methane
+T3	Substrate 165 177	hydrocarbons
+T4	Substrate 484 491	methane
+T5	Substrate 642 654	hydrocarbons
+T6	Substrate 844 875	Mesozoic subsurface hydrocarbon
+T7	Substrate 957 964	methane
+T8	Substrate 1038 1045	methane
+T9	Substrate 1127 1139	hydrocarbons
+T10	Substrate 1207 1214	methane
+T11	Substrate 1382 1389	methane
+T12	ReactionOrProcess 1425 1434	reduction
+T13	ReactionOrProcess 1456 1470	methanogenesis
+T14	ReactionOrProcess 1746 1759	fractionation
+T15	Substrate 1824 1831	
+T16	ReactionOrProcess 1988 2001	fractionation
+T17	Substrate 2109 2116	methane
+T18	Substrate 2199 2211	hydrocarbons
+T19	ReactionOrProcess 2284 2297	fractionation
+T20	Nutrient 2268 2274	carbon
+T21	Substrate 2513 2520	methane
+T22	Substrate 2605 2617	hydrocarbons
+T23	Environment 2779 2782	sea
+T24	ReactionOrProcess 2657 2670	fractionation
+T25	Nutrient 2674 2680	carbon
+T26	Environment 2961 2964	sea
+T27	Substrate 3037 3049	hydrocarbons
+T28	Substrate 3138 3145	
+T29	Substrate 3243 3255	hydrocarbons

@@ -1,0 +1,139 @@
+T1	Substrate 131 140	petroleum
+T2	Nutrient 234 242	nitrogen
+T3	Environment 366 403	hydrocarbon-contaminated environments
+T4	Property 366 390	hydrocarbon-contaminated
+T5	Microbes 658 671	Geobacter spp
+T6	Substrate 506 513	alkanes
+T7	ReactionOrProcess 514 525	degradation
+R1	CarriedOn Arg1:T7 Arg2:T5
+T8	Substrate 786 798	hydrocarbons
+T9	Substrate 786 798	hydrocarbons
+T10	Substrate 908 911	oil
+T11	Property 814 826	sulfidogenic
+T12	ReactionOrProcess 799 810	utilization
+R2	CarriedOn Arg1:T12 Arg2:T10
+T13	Environment 1194 1203	sediments
+T14	Environment 1124 1133	sediments
+T15	Environment 1096 1133	petroleum-rich hydrothermal sediments
+T16	Environment 1111 1133	hydrothermal sediments
+T17	Environment 1169 1203	hydrocarbon-contaminated sediments
+T18	Environment 1111 1133	hydrothermal sediments
+T19	Environment 1169 1203	hydrocarbon-contaminated sediments
+T20	Substrate 1135 1150	underground oil
+T21	Substrate 1039 1048	petroleum
+T22	Substrate 1078 1085	methane
+T23	Substrate 1059 1070	hydrocarbon
+T24	Substrate 1147 1150	oil
+T25	Property 1169 1193	hydrocarbon-contaminated
+T26	Microbes 1481 1499	Desulfobacteraceae
+T27	Property 1346 1362	sulfate-reducing
+T28	Property 1561 1577	strict anaerobes
+T29	ReactionOrProcess 1600 1609	oxidation
+T30	ReactionOrProcess 1591 1609	complete oxidation
+T31	Substrate 1709 1731	saturated hydrocarbons
+T32	Substrate 1719 1731	hydrocarbons
+T33	Substrate 1719 1731	hydrocarbons
+T34	Substrate 1647 1654	nitrate
+T35	Substrate 1709 1731	saturated hydrocarbons
+T36	Property 1665 1681	sulfate-reducers
+T37	Property 1709 1718	saturated
+T38	Property 1655 1663	reducers
+T39	ReactionOrProcess 1687 1700	anaerobically
+T40	ReactionOrProcess 1687 1708	anaerobically oxidize
+T41	ReactionOrProcess 1647 1663	nitrate reducers
+T42	ReactionOrProcess 1701 1708	oxidize
+T43	Property 1833 1849	sulfate-reducers
+T44	Property 1799 1832	Eight mesophilic alkane-degrading
+T45	Microbes 1987 2016	Desulfococcus oleovorans Hxd3
+T46	Microbes 1987 2000	Desulfococcus
+T47	Microbes 1937 1950	Desulfococcus
+T48	Microbes 2070 2081	strain Pnd3
+T49	Environment 2117 2125	sediment
+T50	Environment 2087 2125	petroleum-contaminated marine sediment
+T51	Environment 2110 2116	marine
+T52	Environment 2110 2125	marine sediment
+T53	Microbes 2153 2170	Desulfatibacillum
+T54	Microbes 2264 2281	Desulfatibacillum
+T55	Microbes 2153 2189	Desulfatibacillum alkenivorans AK-01
+T56	Microbes 2264 2306	Desulfatibacillum aliphaticivorans CV2803T
+T57	Environment 2333 2349	marine sediments
+T58	Environment 2228 2237	sediments
+T59	Environment 2340 2349	sediments
+T60	Environment 2195 2237	petroleum-contaminated estuarine sediments
+T61	Environment 2218 2237	estuarine sediments
+T62	Environment 2312 2349	hydrocarbon-polluted marine sediments
+T63	Environment 2218 2237	estuarine sediments
+T64	Environment 2333 2339	marine
+T65	Environment 2195 2237	petroleum-contaminated estuarine sediments
+T66	Environment 2333 2349	marine sediments
+T67	Substrate 2408 2417	n-alkanes
+T68	ReactionOrProcess 2398 2407	oxidizing
+T69	Substrate 2447 2455	n-hexane
+T70	Substrate 2460 2468	n-decane
+T71	Substrate 2523 2531	p-xylene
+T72	Property 2542 2568	sulfate-reducing community
+T73	Property 2542 2558	sulfate-reducing
+T74	Property 2523 2541	p-xylene degrading
+T75	ReactionOrProcess 2469 2478	oxidizing
+T76	ReactionOrProcess 2532 2541	degrading
+T77	Microbes 2704 2716	strain oXyS1
+T78	Microbes 2770 2795	Desulfosarcina variabilis
+T79	Microbes 2596 2614	Desulfobacteraceae
+T80	Microbes 2800 2824	Desulfosarcina cetonicum
+T81	Microbes 2747 2761	Desulfosarcina
+T82	Microbes 2770 2784	Desulfosarcina
+T83	Microbes 2800 2814	Desulfosarcina
+T84	Substrate 2672 2693	aromatic hydrocarbons
+T85	Substrate 2672 2693	aromatic hydrocarbons
+T86	Substrate 2681 2693	hydrocarbons
+T87	Substrate 2681 2693	hydrocarbons
+T88	Property 2672 2680	aromatic
+T89	ReactionOrProcess 2694 2703	degrading
+R3	CarriedOn Arg1:T89 Arg2:T78
+R4	CarriedOn Arg1:T89 Arg2:T80
+R5	CarriedOn Arg1:T89 Arg2:T81
+R6	CarriedOn Arg1:T89 Arg2:T82
+R7	CarriedOn Arg1:T89 Arg2:T83
+T90	Microbes 2856 2876	alkane-oxidizing SRB
+T91	Microbes 2878 2889	strain BuS5
+T92	Environment 2905 2929	marine hydrocarbon seeps
+T93	Environment 2905 2911	marine
+T94	Substrate 2905 2923	marine hydrocarbon
+T95	Substrate 2912 2923	hydrocarbon
+T96	Substrate 2956 2963	propane
+T97	Substrate 2968 2974	butane
+T98	Microbes 3008 3036	Desulfosarcina/Desulfococcus
+T99	Microbes 3008 3022	Desulfosarcina
+T100	Microbes 3128 3147	enrichment cultures
+T101	Environment 3187 3196	sediments
+T102	Environment 3172 3196	Gulf of Mexico sediments
+T103	Substrate 3208 3214	butane
+T104	ReactionOrProcess 3128 3138	enrichment
+R8	CarriedOn Arg1:T104 Arg2:T103
+T105	Microbes 3402 3413	strain BuS5
+T106	Microbes 3272 3294	SRB clone Butane12-GMe
+T107	Microbes 3333 3361	Desulfosarcina/Desulfococcus
+T108	Microbes 3333 3347	Desulfosarcina
+T109	Environment 3684 3693	sediments
+T110	Environment 3673 3693	non-marine sediments
+T111	Environment 3673 3693	non-marine sediments
+T112	Substrate 3538 3547	n-alkanes
+T113	Substrate 3590 3608	mesophilic propane
+T114	Substrate 3601 3608	propane
+T115	Property 3500 3547	capable of degradation of short-chain n-alkanes
+T116	Property 3613 3647	pentane oxidizing sulfate-reducing
+T117	Property 3631 3647	sulfate-reducing
+T118	ReactionOrProcess 3648 3659	enrichments
+T119	ReactionOrProcess 3621 3630	oxidizing
+T120	ReactionOrProcess 3511 3522	degradation
+R9	CarriedOn Arg1:T120 Arg2:T112
+R10	CarriedOn Arg1:T120 Arg2:T113
+R11	CarriedOn Arg1:T120 Arg2:T114
+T121	Microbes 3749 3768	enrichment cultures
+T122	Microbes 3793 3804	strain BuS5
+T123	Substrate 3942 3951	n-alkanes
+T124	Property 3864 3880	sulfate-reducing
+T125	ReactionOrProcess 3749 3759	enrichment
+T126	ReactionOrProcess 3912 3926	biodegradation
+R12	CarriedOn Arg1:T125 Arg2:T123
+R13	CarriedOn Arg1:T126 Arg2:T123

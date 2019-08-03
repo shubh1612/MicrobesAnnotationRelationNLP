@@ -1,0 +1,30 @@
+T1	Environment 136 140	soil
+T2	Property 141 152	temperature
+T3	Property 182 193	temperature
+T4	ReactionOrProcess 117 128	fluctuation
+T5	Property 260 271	temperature
+T6	ReactionOrProcess 348 359	utilization
+T7	ReactionOrProcess 589 600	remediation
+T8	ReactionOrProcess 927 938	remediation
+T9	ReactionOrProcess 843 854	utilization
+T10	ReactionOrProcess 1000 1011	utilization
+T11	Nutrient 1030 1036	carbon
+T12	Substrate 1355 1366	hydrocarbon
+T13	Property 1650 1660	pollutants
+T14	ReactionOrProcess 1899 1910	remediation
+T15	Environment 2127 2131	soil
+T16	ReactionOrProcess 1988 1999	utilization
+T17	ReactionOrProcess 2167 2176	isolation
+T18	Environment 2398 2410	soil samples
+T19	Environment 2398 2402	soil
+T20	Nutrient 2540 2546	carbon
+T21	ReactionOrProcess 2761 2772	utilization
+T22	Microbes 3111 3129	anaerobic bacteria
+T23	Microbes 3102 3129	obligate anaerobic bacteria
+T24	ReactionOrProcess 3332 3343	utilization
+T25	Nutrient 3318 3324	carbon
+T26	Environment 3612 3624	soil samples
+T27	Environment 3612 3616	soil
+T28	Environment 3723 3727	soil
+T29	ReactionOrProcess 3602 3611	replicate
+T30	ReactionOrProcess 3577 3588	utilization

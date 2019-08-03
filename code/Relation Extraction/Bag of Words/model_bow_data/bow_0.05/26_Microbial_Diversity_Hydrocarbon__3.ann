@@ -1,0 +1,42 @@
+T1	ReactionOrProcess 162 170	purified
+T2	Substrate 464 492	deoxynucleoside triphosphate
+T3	Substrate 426 431	MgCl2
+T4	Property 442 455	concentration
+T5	Property 503 516	concentration
+T6	Property 370 384	concentrations
+T7	ReactionOrProcess 286 289	PCR
+T8	ReactionOrProcess 389 392	PCR
+T9	ReactionOrProcess 249 252	PCR
+T10	ReactionOrProcess 257 264	cloning
+R1	CarriedOn Arg1:T7 Arg2:T2
+R2	CarriedOn Arg1:T7 Arg2:T3
+R3	CarriedOn Arg1:T8 Arg2:T2
+R4	CarriedOn Arg1:T8 Arg2:T3
+R5	CarriedOn Arg1:T9 Arg2:T2
+R6	CarriedOn Arg1:T9 Arg2:T3
+T11	ReactionOrProcess 722 734	denaturation
+T12	ReactionOrProcess 628 637	incubated
+T13	ReactionOrProcess 864 873	extension
+T14	Microbes 1392 1399	Archaea
+T15	ReactionOrProcess 1484 1491	excised
+T16	ReactionOrProcess 1493 1501	purified
+T17	ReactionOrProcess 1433 1436	PCR
+T18	ReactionOrProcess 1619 1625	cloned
+T19	ReactionOrProcess 1592 1600	purified
+T20	ReactionOrProcess 1601 1604	PCR
+T21	ReactionOrProcess 1646 1653	Cloning
+T22	ReactionOrProcess 1671 1678	Cloning
+T23	Property 1908 1916	alkaline
+T24	Substrate 2212 2240	deoxynucleoside triphosphate
+T25	Property 2190 2203	concentration
+T26	Property 2251 2264	concentration
+T27	Property 2114 2128	concentrations
+T28	ReactionOrProcess 2051 2062	reamplified
+T29	ReactionOrProcess 2066 2069	PCR
+R7	CarriedOn Arg1:T28 Arg2:T24
+R8	CarriedOn Arg1:T29 Arg2:T24
+T30	ReactionOrProcess 2377 2385	purified
+T31	ReactionOrProcess 2536 2547	reamplified
+T32	ReactionOrProcess 2553 2556	PCR
+T33	ReactionOrProcess 2847 2862	electrophoresis
+T34	ReactionOrProcess 3538 3559	Phylogenetic analyses

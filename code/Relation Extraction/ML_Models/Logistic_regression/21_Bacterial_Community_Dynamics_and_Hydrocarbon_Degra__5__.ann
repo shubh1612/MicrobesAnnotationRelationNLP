@@ -1,0 +1,35 @@
+T1	Property 13 27	concentrations
+T2	Property 93 107	concentrations
+T3	Nutrient 4 12	nitrogen
+T4	Property 235 248	concentration
+T5	Substrate 402 405	oil
+T6	ReactionOrProcess 274 288	bioremediation
+T7	ReactionOrProcess 312 323	degradation
+T8	ReactionOrProcess 292 307	oil degradation
+T9	Nutrient 350 356	carbon
+T10	Nutrient 419 425	Carbon
+T11	Nutrient 564 570	carbon
+T12	ReactionOrProcess 734 746	fluctuations
+T13	Nutrient 750 756	carbon
+T14	ReactionOrProcess 940 952	fluctuations
+T15	Nutrient 1013 1019	carbon
+T16	Nutrient 1183 1189	carbon
+T17	Nutrient 1394 1400	carbon
+T18	ReactionOrProcess 1512 1526	Bioremediation
+T19	Nutrient 1876 1882	carbon
+T20	Environment 2059 2067	sediment
+T21	Property 2013 2022	Dissolved
+T22	ReactionOrProcess 2077 2087	oxygenated
+T23	Nutrient 2023 2029	oxygen
+T24	Substrate 2106 2109	Oil
+T25	Substrate 2240 2243	oil
+T26	Substrate 2427 2455	total petroleum hydrocarbons
+T27	ReactionOrProcess 2397 2411	biodegradation
+T28	Substrate 2512 2519	alkanes
+T29	Substrate 2555 2567	naphthalenes
+T30	Substrate 2472 2495	resolvable hydrocarbons
+T31	Substrate 2638 2651	phenanthrenes
+T32	Substrate 2656 2671	benzothiophenes
+T33	ReactionOrProcess 2695 2703	degraded
+T34	ReactionOrProcess 2802 2817	oil degradation
+T35	ReactionOrProcess 3075 3098	hydrocarbon degradation

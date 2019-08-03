@@ -1,0 +1,3572 @@
+B51
+Bioremediation Journal
+
+ISSN: 1088-9868 (Print) 1547-6529 (Online) Journal homepage: http://www.tandfonline.com/loi/bbrm20
+
+Population Changes of Soil Microbial Communities
+Induced by Hydrocarbon and Heavy Metal
+Contamination
+Roger Dobler , Matthias Saner & Reinhard Bachofen
+To cite this article: Roger Dobler , Matthias Saner & Reinhard Bachofen (2000) Population
+Changes of Soil Microbial Communities Induced by Hydrocarbon and Heavy Metal Contamination,
+Bioremediation Journal, 4:1, 41-56, DOI: 10.1080/10588330008951131
+To link to this article: http://dx.doi.org/10.1080/10588330008951131
+
+Published online: 02 May 2007.
+
+Submit your article to this journal
+
+Article views: 82
+
+View related articles
+
+Citing articles: 19 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=bbrm20
+Download by: [Indian Institute of Technology - Delhi]
+
+Date: 09 July 2017, At: 04:59
+
+Population Changes of Soil Microbial
+Communities Induced by Hydrocarbon
+and Heavy Metal Contamination
+Roger Dobler, Matthias Saner, and Reinhard Bachofen*
+University of Zurich, Institute for Plant Biology, Zollikerstr. 107, CH-8008 Zurich, Switzerland
+Abstract: Substrate utilization tests with Biolog®plates were used to obtain information on shifts in community
+composition and on changes in the metabolic diversity and activity of microorganisms in soil polluted with
+hydrocarbons. and/or heavy metals. Differences between the patterns of substrate utilization of endogenous
+microorganisms of pristine and contaminated soils were investigated by multivariate analysis. Population changes
+and shifts in metabolic diversity were observed both after hydrocarbon pollution or heavy metal contamination.
+The overall activity on the 95 Biolog" Gram-negative (GN) substrates correlated well with the respiration rate of
+the soil. Soils contaminated with hydrocarbons showed higher metabolic potentials than the corresponding
+controls. In contrast, heavy metal pollution caused both lower metabolic activity and a loss in diversity. The
+Biolog" assay was found to be suitable to describe changes in functional diversity of soils caused by hydrocarbon
+contamination or heavy metal stress.
+
+Introduction
+Soil is a highly heterogeneous environment consisting
+of abiotic solid, liquid, and gaseous phases together
+with various living organisms. Pore space and particle
+surfaces provide space for a wide range of microorganisms that play an important role in the mineralization
+of organic matter and the recycling of elements. In
+addition, a large number of contaminants found in soil
+are degraded and detoxified by microorganisms. Despite an increasing number of analytical techniques,
+diversity and physiological variability of terrestrial
+microbial communities are still underexplored. Only a
+small part of the species found in soil communities can
+be characterized by cultivation.
+Recently, biochemical and molecular biological
+methods have opened up new possibilities to obtain
+information on composition, and temporal and spatial
+changes in bacterial communities. Patterns of commu-
+
+*
+
+nity-level, single-carbon-source utilization have been
+used to compare microbial communities from different
+habitats (Garland and Mills, 1991; Haack et aI., 1995;
+Winding, 1994; Wiinsche et aI., 1995; Zak et al., 1994)
+to monitor the impact of pesticide treatment (Engelen
+et aI., 1998), of heavy metals (Knight et al., 1997), or
+of flooding (Bossio and Scow, 1995) on the microbial
+community.
+The Biolog'" system is based on the reduction of a
+tetrazolium dye as a measurement of electron transport
+activity and the ability to oxidize 95 different carbon
+sources. It was originally designed for the identification and classification of pure cultures of heterotrophic
+bacteria (Bochner, 1989a, 1989b; Bochner and
+Savageau, 1977). Later, Garland and Mills (1991) extended the method to classify microbial communities
+of different environmental samples and to characterize
+their functional potential. With these 95 different carbon sources, microbial communities produce a repro-
+
+Corresponding author: Tel: +31-16348280; Fax: +41-16348204; E-mail: bachofen@botinst.unizh.ch.
+
+1058-8337/00/$.50
+© 2000 by Battelle Memorial Institute
+
+Bioremediation Journal 4(1):41-56 (2000)
+
+41
+
+ducible and site-specific activity pattern. Multivariate
+analysis of these patterns is then used to search for
+relationships between samples from the different habitats. This assay, also called physiological profiling,
+seems to be suitable for investigations of microbial
+communities across spatial, temporal, or experimental
+gradients.
+The disposal or accidental release of organic and
+inorganic compounds into the environment has resulted in a worldwide pollution of soil, groundwater,
+and aquatic ecosystems, a main pollutant being hydrocarbons. Biodegradation of hydrocarbons by natural
+populations of microorganisms is well known. Many
+microorganisms are able to utilize these compounds as
+a source of energy and carbon (Bossert and Bartha,
+1984; Cerniglia et al., 1992; Song et al., 1986).
+The massive pollution of the environment by hydrocarbons initiated the development of various technologies to treat contaminated soils, including physical, chemical, and biological remediation methods
+(Skladany and Metting, Jr., 1993). Bioremediation is
+often preferred, because the contaminants can be transformed to nonhazardous compounds at low costs, particularly by using in situ or on-site bioremediation
+techniques. The metabolic abilities of the microorganisms determine the rate and degree of mineralization of
+hydrocarbons, thus interest in quantifying impacts on
+the biotic component of the soil ecosystem increases.
+Traditionally, contaminated sites have been investigated using microbiological techniques like estimations of total cell counts, viable cell counts on different
+media, or quantitation of physiologically specialized
+groups (Alef, 1994; Alef and Nannipieri, 1995; Kampfer
+et al., 1991) and the determination of the microbial
+respiration activity of soil (Klein, 1992; Miethe et al.,
+1994). Substrate utilization patterns allow a rapid assessment of the dynamics of microbial soil communities during bioremediation as well as an estimation of
+their biodegradative potential.
+This article describes the changes in substrate utilization of the microbial community during the
+
+remediation of hydrocarbons and the effect of heavy
+metals in static and constantly agitated soil.
+
+Materials and Methods
+Soil Preparation
+Samples of pristine soil originated from the Botanical
+Garden of Zurich and were taken from the top layer
+of the A-horizon. The highly contaminated soil
+came from a hydrocarbon-polluted site near Geneva,
+Switzerland, and was obtained from the EBIOX
+Remediation Company. All soil samples were homogenized and sieved and fractions <2 mm were used for
+the experiments. For artificial contamination of control soil, soil material was mixed with defined amounts
+of hydrocarbons or heavy metals (Table 1). These
+substances were sprayed on the soil using a trigger
+spray bottle, while the soil was mechanically mixed.
+Phenanthrene was pulverized in a mortar and added as
+a fine powder (2 g/kg). Original, pristine soil was used
+as a reference to assess natural changes in community
+composition during incubation.
+Soil pH was measured in 1 M KCl solution. Dry
+weight (dwt) was measured after drying at 105°C for
+24 h. Water content (wet) and maximum water-holding capacity (WHC max) were determined by percolation with water after standing for an hour according to
+published methods (Alef, 1994; Alef and Nannipieri,
+1995).
+In static incubation systems, soil samples of 1 kg
+were incubated in polycarbonatejars in the greenhouse
+at a mean temperature of 26°C and a humidity of 70%
+to prevent drying. The water content of the soil was
+kept constant at 25 to 30% (40 to 48% of maximum
+water-holding capacity) during incubation. Samples
+were taken at the beginning, 11 to 18 days, and 5 to 7
+months after the addition of the pollutants, depending
+on the experiment (exact duration is given in the legends to figures and tables). The microorganisms were
+then extracted from the soil and the extract was used to
+inoculate the microtiter plates.
+
+Table 1. Composition of soil samples contaminated with diesel oil (0) or phenanth~ene (Ph), .additionally spiked
+with copper (Cu) or arsenic (As) in an artificially aerated system (US: uncontaminated SOil)
+US
+
+Aerated
+1000 9 soila
+
+a
+
+D
+
+D
+
+D/Cu
+
+Ph
+
+Ph
+
+Ph/Cu
+
+Ph/As
+
+Not aerated
+1000 9 soila
+10 g diesel
+
+Aerated
+1000 9 soila
+10 9 diesel
+
+Aerated
+1000 9 soila
+10 9 diesel
+1 9 Cu
+
+Not aerated
+1000 9 soila
+10 9 Ph
+
+Aerated
+1000 g soila
+10 9 Ph
+
+Aerated
+1000 9 soila
+10 9 Ph
+1 9 Cu
+
+Aerated
+1000 9 soila
+10 9 Ph
+1 9 As
+
+Fresh, moist soil: water content
+(" 0.7 x 107)
+
+42
+
+= 27%
+
+(43% of maximum water holding capacity), pH
+
+= 6.8, cfu/g dwt on R2A medium = 4.6 x 107
+
+Dobler, Saner, and Bachofen
+
+To simulate an active bioremediation process, the
+polycarbonate jars were equipped with a gassing system. Compressed air was released from the bottom
+into the soil at a rate of 2.5 L/min. The reaction vessels
+were kept at 22°C and the air was humidified by passage through a washing bottle containing sterile water.
+Experiments under constantly agitated and aerated conditions were performed in a specially designed
+100-L bioreactor (Saner et aI., 1996a) using 22 kg of
+fresh soil. In this system, the soil is slowly agitated and
+kept homogeneous at its original water content (24%)
+by a planetoid mixing system. The activity of aerobic
+soil organisms is measured as CO 2 production and O2
+uptake in the efflux by on-line mass spectrometry
+(PGA100, Leybold, Koln, Germany). Additionally, the
+soil temperature is a good indicator of general biological activity of the soil. Before the addition of the
+substrate hydrocarbons, the soil was mixed and aerated for 24 h. To minimize nutrition limitations in the
+soil, a basal medium made in distilled water was used
+(3.3 giL Na zHP0 4 , 1.6 giL KH zP0 4 , 0.1 giL
+MgS0 407HzO, 0.02 gIL CaClzoHzO, 1.0 gIL NH4CI).
+This basal medium was supplemented by a vitamin
+and trace element solution (Pfennig and Lippert, 1966).
+
+Microbial Populations
+Microorganisms were extracted from the soil following the directions of Klein (1992). Ten-gram samples
+of fresh, sieved soil were suspended in 100 mL sterile
+0.2% tetrasodium pyrophosphate solution and shaken
+in 250 mL flasks for 30 minutes (150 rpm) at room
+temperature. After sedimentation at 1 g for about 5
+minutes, the supernatant was taken to represent the
+entire bacterial community. The diluted suspensions
+(sterile 0.9% NaCI-solution) were used directly to inoculate Gram-negative (ON) Biolog" plates and to
+determine the cell number. For actinomycetes and fungi,
+the suspension was diluted in a gel-forming colloid
+(0.2% Carageenan Type II) instead of 0.9 % NaCI.
+This enhances growth and keeps the cells uniformly
+suspended in the wells (BIOLOG, 1993, 1994).
+The number of viable cells was determined by
+standard plate count as colony-forming units (cfu) with
+serial dilutions and three replicates of each on R2A
+medium (Reasoner and Geldreich, 1985). Incubation
+was at room temperature, and the colonies were counted
+after 10 days.
+Substrate utilization patterns of soil microbial
+communities were obtained with Biolog" GN
+microplate test panels with three replicate suspensions
+from each sample. Soil suspensions were diluted 100fold with 0.9% saline to minimize background absorbance; 125 JlL were used for the inoculation of the
+
+Population Changes of Soil Microbial Communities
+
+wells. The plates were incubated at room temperature
+and the absorbance (590 nm) of the 96 wells was
+recorded over 120 h (Reader 2001, Anthos Labtec
+Instruments G.m.b.H., Salzburg, Austria). An incubation time of 72 h proved to be optimal for the soil
+samples.
+Sporulating and filamentous (SF) microorganisms
+were tested on Biolog" SF-N microplates using the
+same inoculum as before. One hundred microliters
+each of chloramphenicol (10 mg/L), streptomycin sulfate (10 mg/L), and benzylpenicillin (20 mg/L) were
+added to suppress bacterial growth in the soil suspension. The plates were incubated at room temperature
+for several days. For .actinomycetes and fungi, the
+incubation period was extended to 216 h. The 120-h
+readings were taken to best represent the community
+of sporulating and filamentous microbes. The SF-N
+microplates are identical to the GN microplates except
+the substrate wells lack the tetrazolium redox dye.
+Optical density (OD) readings were made at 590 nrn
+and indicated turbidity and thus growth. After inoculation, the SF-N microplates were incubated and the
+absorption of each well was read after 24 to 120 hand
+the data analyzed using Microsoft Excel".
+The color intensity of Biolog" GN microtiterplates
+is expressed as average well color development
+(AWCD) and calculated as the mean of the 95 absorbance values corrected for the control background. In
+SF-N plates lacking the electron acceptor dye, average
+well turbidity (AWT = OD 590) was calculated similarly to express the overall growth in the 95 wells.
+
+Chemical Analyses
+Hydrocarbons were extracted from soil with an equal
+amount of ethylacetate, the slurry treated with ultrasound, shaken, and centrifuged (Eschenbach et aI.,
+1994; Saner et al., 1996a). Extracts were analyzed by
+gas chromatography (DANI gas chromatograph [GC]
+86.10 HT, with flame ionization detector [FID] 86/10
+or the Gas Chromatograph Detector (GCD)-System
+Hewlett Packard [HP] G1800A) on Altech Econo-Cap
+capillary columns using 1 ~L of extract (injector temperature 250°C; carrier gas 1.0 mL/min helium; FID
+275°C, split 1:50; temperature program: 1 min hold at
+35°C, 35 to 200°C at 10°C/min ramp, 200 to 250°C at
+5°C/min ramp). Diesel oil was quantified by adding up
+the peak areas in the retention time interval from 3 to
+14.5 min.
+
+Statistical Treatment of Data
+To compare samples with substantial variation in
+AweD (or AWT), the data were normalized by
+dividing the values for individual wells by the AWCD
+
+43
+
+(or AWT) for the sample (Garland, 1996a). In addition, the AWCD/AWT ratio for specific categories
+of carbon sources was computed using the classification of Garland and Mills (1991) with 11 categories. This allowed for comparison of the activity on
+polymers, carbohydrates, and carboxylic and amino
+acids between soil samples. The number of substrates used by a microbial community is called
+substrate richness (S) and was defined as the number of background-corrected absorbance values
+greater than 0.5 absorbance units after 72-h incubation on GN microplates or after 120h on SF-N
+microplates. Pearson correlation coefficients (r) of
+the background-corrected absorbance values at 590
+nm were calculated between single samples and the
+standard deviation (StD) among replicates was computed.
+Data used in community ecology are often multivariate. The relationships between the patterns of
+color formation also require multivariate statistical
+analysis to reduce. the multidimensional data into a
+more readily interpretable form. Characterization is
+done on the basis of a number of variables, here the
+respiratory activities of the microbial communities
+on the 95 different substrates. Comparisons must be
+made between plate readings of equivalent incubation times. The multivariate method of ordination
+was used to concentrate the data and to find causal
+or descriptive relations among samples (Gauch,
+1982). From the numerous ordination techniques,
+principal components analysis (PCA) has been chosen using background-corrected absorbance values.
+PCA is an operation that projects the multivariate
+data onto a reduced number of dimensions (principal components) that capture a subset of the total
+variance in the data set (Pileou, 1984). With the
+software DataMost (1994), best results were achieved
+by selecting a variances-covariances matrix. The
+data are summarized, but still display the original
+pattern. For interpretation, the samples were plotted
+using the component values as graphical coordinates.
+
+Results
+Population Changes during a 5-Month
+Incubation of Soil with Hydrocarbons
+in a Static System
+Changes in community composition were followed in
+a natural soil system that had been artificially contaminated with diesel oil or with phenanthrene. Diesel oil
+was used as a model compound for general environmental pollution by hydrocarbons, and phenanthrene
+
+44
+
+represents a complex aromatic substance known to be
+degraded by soil microorganisms (Fuenmayor and
+Rodriguez Lemoine, 1992; Stringfellow and Aitken,
+1994).
+A 5-month incubation of pristine and highly polluted soil, parallel to experimentally contaminated soil
+(1 % diesel or 0.2% phenanthrene) was carried out
+under static aerobic conditions and analyzed after 11
+and 166 days. During the first 11 days, only slight
+changes in the composition of the endogenous microbial communities were observed. PCA (Figure 1)
+showed high similarities between the different samples,
+They were only separated by the first principal component (PC) (accounting for 80% of the variation in the
+data). The second PC, which accounted for 7% of
+variation, did not differ significantly. The small differences in metabolic potential between the artificially
+contaminated soil and the control were also reflected
+in high correlation coefficients (difference between
+uncontaminated soil after 11 days [US 11 d]) and
+phenanthrene-contaminated soil after 11 days [Ph 11
+d]: r = 0.852; between uncontaminated soil [US 11 d]
+and diesel-contaminated soil after 11 days [D 11 d]: r
+= 0.835). During this short incubation time, the number of metabolized carbon sources decreased slightly
+in all experiments (Table 2). The community extracted
+from the reference sample showed a loss in substrate
+richness of five Biolog" substrates, while in the artificially phenanthrene-contaminated soil five substrates
+were no longer used and two substrates were new, and
+in diesel oil-contaminated soil three were no longer
+used and four become newly utilizable.
+The relationships between the substrate utilization
+patterns recorded after 166 days of incubation were
+illustrated by the plot of principal components (Figure
+1). This graph indicated that considerable changes
+occurred in the metabolic patterns of the different soil
+samples over this much longer incubation time. The
+patterns became clearly separated by the first two principal components. The scatters of replicates, as indicated by error bars, did not overlap between the samples.
+Seventy-two percent of total variance in the data were
+explained by the first and 11% by the second PC axis.
+Considerable shifts took place within the number of
+metabolized substrates (Table 2). Furthermore, the
+overall activity on the 95 Biolog" substrates decreased
+generally during the second part of the incubation
+(Figure 2), as did the substrate richness. The decrease
+in AWCD after 166 days was mainly due to a loss of
+activity on polymer and carbohydrate substrates (Figure 3).
+The small change during the first 11 days discussed above suggests that the microbial population
+
+Dobler, Saner, and Bachofen
+
+First and second PC of substrate
+utilization patterns after 11 days
+0.5
+
+o US initial
+
+0.4
+
+• US after 11 days
+o AL initial
+
+0.3
+
+N
+
+0.1
+
+•
+
+Ph after 11 days
+
+A Dafter 11 days
+
+r-t-fr
+
+0
+
+D-
+
+• AL after 11 days
+
+if
+
+0.2
+
+O
+-0.1
+
+-0.2
+-0.3
+-0.4
+-0.75
+
+-0.7
+
+-0.65
+
+-0.6
+
+-0.55
+
+-0.5
+
+PC1
+
+First and second PC of substrate
+utilization patterns after 166 days
+0.5
+0.4
+
+0:
+
+Q
+
+0.3
+
+N
+
+0.2
+
+o US initial
+
+0.1
+
+• US after 166 day s
+
+0
+
+C-
+
+O
+-0.1
+
+o
+
+~
+
+AL initial
+
+• AL after 166 days
+
+$
+
+• Ph ater 166 days
+-0.2
+
+t-Il-l
+
+I
+
+j(
+
+I
+
+fA 0 after 166 days
+
+-0.3
+
+-0.4
+-0.75
+
+-0.7
+
+-0.65
+
+related to differences in the response in samples with
+different coordinate values for that PC (Garland and
+Mills, 1991). Samples with higher coordinate values
+for PC 1 show a greater response for carbon sources
+positively correlated to PC 1 when compared with
+samples with low PC 1 scores. Poor correlation of a
+carbon source to a PC does not mean that it was poorly
+utilized by the samples, but rather that its utilization
+was not different among samples with higher and lower
+coordinate values for that PC. Analysis of PCI indicates that soil microbial communities with low scores
+on this component (Figure 1) utilized the substrates
+listed in Table 3 to a relatively lesser degree. Apart
+from uridine, carbon sources positively correlated to
+PCI were mostly polymers and carbohydrates (correlation coefficients of AWCD to PC 1 of the polymers:
+r = 0.909; and carbohydrates: r = 0.773). Microbial
+communities associated with high scores on the second component in PC analysis show a greater relative
+utilization of the positively-correlated substrates
+(o-mannose, t.-arabinose, t-rhamnose, n-sorbitol, and
+itaconic acid) and a smaller utilization of negatively
+correlated substrates (bromo-succinic acid, n-saccharic acid, n-glucuronic acid, and citric acid). The high
+number of carbohydrates positively correlated to PC2
+leads also to a high correlation coefficient of these
+carbon sources (r :::: 0.940). The contaminated soil
+from a remediation site was clearly different from its
+composition at time zero and at the end the experiment.
+
+-0.6
+
+-0.55
+
+-0.5
+
+-0,45
+
+-0.4
+
+PC1
+
+Figure 1. Ordination produced from PCA (variances-covariances matrix used) of profiles (72-h 00590 readings on Biolog®
+GN microplates) of microbial communities from contaminated
+and uncontaminated samples. Mean scores of each sample
+for the first and second principal components are plotted.
+Error bars indicate standard deviations of three replicates.
+US: uncontaminated soil; AL: (highly) contaminated soil; Ph:
+soil after phenanthrene addition (0.2%); D: soil after diesel oil
+addition (1%).
+
+responded to the pollutants during prolonged incubation. The carbon sources that correlate to PC I and PC2
+and differentiate best between the communities after 5
+months are listed in Table 3.
+The degree to which a PC explains the variance in
+the color response of an individual carbon source is
+
+Population Changes of Soil Microbial Communities
+
+Population Changes during a 7-Month
+Incubation of Soil with Heavy Metals
+in a Static System
+Pristine soil was experimentally amended with the
+heavy metals cadmium, mercury, copper, and arsenic
+to concentrations of 1000 ppm, and microbial carbon
+source utilization was analyzed after 18 and 217 days.
+Samples from the various treatments had different
+patterns of carbon source utilization. The plot of the
+first and second PC illustrated that arsenic and copper
+stress induced a strong impact on the microbial community in only 18 days of incubation, while mercury
+and cadmium had only minor effects within this time
+scale (Figure 4). Seventy-eight percent of total variance accounted for the first PC. The second PC, which
+explained 7% of the variance, clearly distinguished the
+arsenic- and copper-treated samples from others that
+were still closely related and formed a cluster together
+with the control. The samples contaminated with the
+different heavy metals were characterized by the lowered activity of the arsenic and copper samples in
+degrading ~-methyl-o-glucoside, glucosc-c-phosphatc,
+
+45
+
+Table 2. Number of substrates metabolized (substrate richness: backgroundcorrected 72-h 00 590 readings from Biolog® GN microplates ~O.5) by the different
+microbial communities before and after incubation of 11 and 166 days. The
+mean 00 values of three replicates were taken for calculation. Control:
+uncontaminated soil; AL: (highly) contaminated soil; phenanthrene: soil after
+phenanthrene addition {O.2%}; diesel: soil after diesel oil addition (1%)
+Changes relative to control
+Substrate richness
+Sample
+
+(5)
+
+Control (initial)
+Control (11 d)
+Control (166 d)
+Phenanthrene (11 d)
+Phenanthrene (166 d)
+Diesel (11 d)
+Diesel (166 d)
+AL (initial)
+AI (11 d)
+AL (166 d)
+
+74
+69
+45
+71
+49
+75
+48
+59
+66
+47
+
+No longer used
+substrates
+
+New substrates
+
+27
+
+0
+2
+2
+1
+4
+1
+
+1
+15
+
+8
+3
+
+5
+31
+5
+26
+
+3
+
+Figure 2. AWCD (A) and substrate richness (S) (B) on Biolog® GN microplates inoculated with soil samples before and after
+incubation of 11 and 166 days. The OD590 values after 72 h were used for calculation. Error bars indicate the standard deviation
+of replicates. Soil description as in Figure 1"
+
+46
+
+Dobler, Saner, and Bachofen
+
+2.0
+
+• Awco
+
+1.8
+
+Ii AweD carbohydrates
+iii
+
+1.6
+
+polymers
+
+AWeD carboxylic acids
+
+DAWCD amino acids
+
+1.4
+
+E
+c
+
+1.2
+
+Ol
+
+1.0
+
+o
+
+0.8
+
+o
+
+~
+
+o
+
+0.6
+
+0.4
+0.2
+
+0.0
+US initial
+
+US 166d
+
+Ph 166d
+
+D 166d
+
+AL initial
+
+Al 166d
+
+Figure 3. AWCD on four selected categories of carbon sources (polymers, carbohydrates, carboxylic acids, and amino acids) on
+Biolog® GN microplates inoculated with soil samples before and after incubation of 166 days. The 00 590 values after 72 h were
+used for calculation. Error bars indicate the standard deviation of replicates. Soil description as in Figure 1.
+
+Table 3. Correlation (Pearson coefficient) of carbon source utilization
+variables to principal components (PC1 and PC2) for analysis of all soil
+samples taken after 5 months. Positive correlation indicates greater
+response in samples with higher coordinate scores for the axis. Negative
+correlation indicates greater utilization in samples with lower coordinate
+scores for the axis
+PC1
+Carbon source
+Dextrin
+o-melibiose
+L-fucose
+Cellobiose
+Glucose-6-phosphate
+a-cyclodextrin
+Maltose
+Glycyl-L-aspartic acid
+Uridine
+
+PC2
+Correlation (r)
+
+Carbon source
+
+0.906
+0.903
+0.892
+0.887
+0.879
+0.876
+0.875
+0.875
+0.874
+
+o-mannose
+L-arabinose
+L-rhamnose
+o-sorbitol
+Itaconic acid
+N-acetyl-galactosam ine
+Maltose
+Glycyl-L-aspartic acid
+Alaninamide
+o-fucose
+Bromo-succinic acid
+o-saccharic acid
+o-glucuronic acid
+Citric acid
+a-o-glucose
+
+uridine, N-acetyl-D-glucosamine, i.-alanine, and minositol when compared with the rest of the samples.
+These carbon sources were mainly responsible for the
+separation on the second PC. Overall substrate rich-
+
+Population Changes of Soil Microbial Communities
+
+Correlation (r)
+
+0.955
+0.948
+0.945
+0.932
+0.913
+0.896
+0.879
+0.875
+0.865
+0.860
+-0.859
+-0.838
+-0.817
+-0.797
+-0.773
+
+ness remained on the same level for all treatments after
+18 days (Figure 5). However, the number of substrates
+metabolized confirmed the shift in substrate utilization
+of the arsenic and copper sample. Microorganisms
+
+47
+
+First a nd second PC of substrate
+
+utilization patterns after 18 days
+0.3
+
+0.2
+
+r~
+
+0.1
+
+N
+
+o
+
+0 US initial
+
+•
+
+E
+a
+
+o
+
+Q. ~O.1
+
+US after 18 days
+As after 18 days
+Cd after 18 days
+
+<> eu after 18 day s
+·0.2
+
+J-1Il
+
+~O.3
+
+tA Hg after 18 days
+
+t---f----i
+
+~O.4
+
+-0.7
+
+-0.75
+
+·0.65
+
+-0.6
+
+·0.55
+
+-0.5
+
+-0.45
+
+PC1
+
+First and second PC of substrate
+
+utilization patterns after 217 days
+0.2 . , - - - - - - - - - - - - - - - - - - . . ,
+0.1
+
+o
+
+o
+
+US initial
+
+•
+
+US after 217 days
+
+('II
+
+C)
+
+a.
+
+~O.1
+
+II As
+-0.2
+
+III Cd after 217 days
+~
+
+-0.3
+
+~OA
+
+after 217 days
+
+Cu after 217 days
+
+A Hg after 217 days
+
+-t--....,---,...---..-.......- - r - - - r - - . . , - -......
+
+-0.75 -0.65 -0.55 -0.45 -0.35 -0.25 -0,15 -0,05 0.05
+
+PC1
+
+Figure 4. Ordination produced from PCA (variances-covariances matrix used) of profiles (72-h 00 590 readings on Biolog® GN
+microplates) of microbial communities from uncontaminated and contaminated samples. Mean scores of each sample for the first
+and second principal components are plotted. Error bars indicate standard deviations of three replicates. US: uncontaminated soil;
+As: soil after arsenic addition (1 mg/g); Cd: soil after cadmium addition (1 mg/g); Cu: soil after copper addition (1 mg/g); Hg: soil
+after mercury addition (1 mg/g).
+
+48
+
+Dobler, Saner, and Bachofen
+
+extracted from the arsenic-contaminated soil had
+changes in utilization in 20 substrates: 14 were no
+longer used while six were new. After the addition of
+copper, 13 substrates were no longer used. The corresponding control values were -7 and + 1. Interestingly,
+AWCD as a measure of respiratory activity showed
+only small differences on the 95 Biolog" substrates
+after heavy metal contamination when compared with
+the control.
+After 217 days, the results were quite different.
+The substrate richness and the AWCD both decreased
+to low levels in all the contaminated samples as well as
+in the control. With As, Cd, Cu, and Hg, 71, 71, 72,
+and 63 substrates, respectively, were no longer used.
+Only with Hg were nine substrates newly utilizable.
+The corresponding control showed a loss of ability to
+metabolize 49 substrates and an addition of 23 new
+substrates. In the cadmium- and copper-treated samples,
+
+the AWCD reached mean values of less than 0.05
+absorbance units and produced the largest distance to
+the control sample (US initial, Figure 5). The decrease
+in substrate richness and metabolic activity of the pristine control sample was probably due to exhaustion of
+nutrients after the long incubation time (Figure 6).
+
+Population Changes during a ShortTerm Incubation of Soil with
+Hydrocarbons and Heavy Metals in an
+Artificially Aerated System
+It is well known that mineralization of hydrocarbons is
+strongly stimulated under oxic conditions. The simple
+aeration system used in these experiments simulates in
+situ remediation techniques such as air venting. Soil
+contaminated with diesel oil or phenanthrene (l % of
+dwt each) was additionally spiked with copper or ar-
+
+A
+1.40
+
+IlllAWCD after18 days
+• AWeD after 217 days
+
+1.20
+
+1.00
+
+SCD
+
+0.80
+
+It')
+
+C 0.60
+0
+
+DAD
+0.20
+0.00
+US initial
+
+As
+
+Cd
+
+Hg
+
+Cu
+
+80
+
+U)
+
+oS
+~
+
+70
+
+1h
+
+.Q
+
+:;
+
+60
+
+w
+
+oe(I)~
+
+50
+
+.&g
+
+40
+
+NO
+=/\
+(IS
+
+US
+
+..,
+
+-a;C 30
+sQ.
+
+-..
+0
+
+20
+
+(I)
+
+..a
+E
+:;
+e
+
+10
+
+a
+
+us Initial
+
+US
+
+As
+
+Cd
+
+Cu
+
+Hg
+
+Figure 5. AWeD and substrate richness (S) on Biolog® GN microplates inoculated with soil samples before and after incubation
+of 18 and 217 days. The 00 590 values after 72 h were used for calculation. Error bars indicate the standard deviation of three
+replicates. Soil description as in Figure 4.
+
+Population Changes of Soil Microbial Communities
+
+49
+
+not volatilization was responsible for most of the loss.
+A minor initial loss in diesel oil was caused by evaporation of the highly volatile components. The addition
+of copper negatively affected the degradation of diesel
+oil components.
+Carbon source utilization profiles were analyzed
+after three weeks (Figure 7). In PCA of the carbon
+source utilization, the first covariance PC axis accounted for 78%, and the second axis accounted for
+7% of the variation in the data. PC axis 1 had the
+highest correlations to the substrates i.-aspartic acid,
+glucose-6-phosphate, glucose-I-phosphate, and su-
+
+senic (0.1 % of dwt each) and the hydrocarbons quantified during a 3-week incubation. The phenanthrene
+content dropped to 10% of the starting value in the
+static system due to microbial activity (Figure 6).
+Aeration did not stimulate the degradation rate, indicating that a factor other than the diffusion of oxygen
+was rate limiting. As expected, the addition of copper
+or arsenic resulted in a significant inhibition of phenanthrene degradation. In diesel oil-contaminated soil, the
+amount of total hydrocarbons decreased to 40% of the
+original value, independent of the use of the aeration
+system, indicating that hydrocarbon degradation and
+
+A
+2.0E+07...-------------_
+1.8E+07
+As
+1.6E+07
+
+-e
+
+I
+
+1.4E+07
+
+___ Ph (ae)
+
+1.2&07
+
+-o-Ph
+
+1.0807
+8.0&06
+6.0E+06
+
+---- Ph/As (ae)
+--.- Ph/Cu (ae)
+
+4.0E+06
+2.0E+06 .,.....,.......,...,.....,.-.,......,,--.--..-.........-..,--1
+
+o 2 4 6 8 10 12 14 16 18 20
+Time (d)
+
+B
+1.8E+07
+
+~
+c
+
+1.6Et-07
+
+:=
+
+-e
+!
+
+1.4807
+
+eu
+
+1.2E+07
+
+C'CS
+
+1.0Er07
+
+~
+
+Cu
+
+.;
+
+-0-0
+--.-D (ae)
+--A- D/Cu (ae)
+
+eu
+a>
+
+Co
+
+H
+
+8.0E+06
+6.0Ei-06
+
+a 2 4 6 8 10 12 14 16 18 20
+Time (d)
+
+Figure 6. Hydrocarbon content during short-term incubation in an aerated system of soil artificially contaminated with diesel oil or
+phenanthrene additionally spiked with heavy metals. Five samples were aerated (ae) at a rate of 2.5 Umin. Ph: soil after
+phenanthrene addition (10 mg/g); PhAs: soil after phenanthrene (10 mg/g) and arsenic (1 mg/g) addition; PhCu: soil after
+phenanthrene (10 mg/g) and copper (1 mg/g) addition; D: soil after diesel oil addition (10 mg/g); DCu: soil after diesel oil (10 mgl
+g) and copper (1 mg/g) addition.
+
+50
+
+Dobler, Saner, and Bachofen
+
+erose. These were the substrates for which consistent
+differences were observed in the degree of substrate
+utilization between the communities. The second PC
+axis was highly correlated to the oxidation of inosine,
+D-galactonic acid lactone, D-galactose, cellobiose, glucose-l-phosphate, r-arabinose, maltose, and gentiobiose. Although the degradation rate for diesel was
+similar, parallel samples (one aerated and the other
+not) differed significantly in community analysis.
+Thus, forced aeration changed the soil community
+composition much more than the rate of diesel degradation.
+The largest shifts in the substrate utilization pattern were observed in samples contaminated with heavy
+metals. These samples also showed the lowest substrate richness and overall activity. Cu and As addition
+resulted in a loss of ability to degrade 20 to 25 substrates and hardly a gain of new ones. Again, the
+ability to degrade polymers and carbohydrates was
+mainly altered by the presence of copper or arsenic.
+The number of colony-forming units indicated that
+heavy metal-adapted microbial populations were still
+highly capable of growing on a complex medium such
+as R2A. The colonies were smaller, but their number
+had increased strongly in the presence of diesel or
+
+phenanthrene irrespective of whether Cu or As were
+added. This showed that within 3 weeks additional
+carbon sources led to excess growth of heavy metaltolerant microorganisms that can be cultivated on R2A
+medium. Particularly diesel oil, which contains a variety of hydrocarbons, led to an increased number of
+cultivable cells.
+
+Population Changes during a 1-Week
+Incubation of Soil with Hydrocarbons
+in an Agitated Aerated Soil Bioreactor
+In contrast to the previous experiments with a static
+system with soil in pots, these experiments were conducted in a sophisticated soil reactor developed for
+testing soil prior to large-scale bioremediation projects
+(Saner et al., 1996a, 1996b). Figure 8 shows the time
+course with CO 2 liberation and temperature, which is
+also a good measure of biological activity. After substrate addition (dodecane [2 gIL], naphthalene [0.5 gIL],
+and anthracene [0.5 gIL]), an initial peak in CO 2
+emerged from the soil, but within a few hours CO 2
+production ceased. CO 2 evolution recovered after adding the basal mineral medium containing trace elements and vitamins. The day-night fluctuation of the
+soil temperature indicates changes in ambient tem-
+
+0.2
+
+N
+
+o
+
+0...
+
+0
+
+~O.2
+
+US Initial
+US after 21d (ae)
+0 Dafter 21d
+13 Dafter 21d (ae)
+¢ OCu after 21d (ae)
+6- Ph after 21d
+~ Fh after 21d (ae)
+0
+
+0.4
+
+•
+
+~+
+. 7+:
+~
+1
+
+•
+~
+
+f
+
+..
+
+r~
+
+FhAs after 21d (ae)
+A1Cu after 21d (ae)
+
+r-j-i
+
+-0.4
+-0.75
+
+-0.65
+
+-0.55
+
+-0.45
+
+PC1
+Figure 7. Ordination produced from PCA (varlances-covariances matrix used) of profiles (72-h 00 590 readings on Biolog® GN
+microplates) of microbial communities from contaminated and uncontaminated samples. Mean scores of each sample for the first
+and second principal components are plotted. Error bars indicate standard deviations of three replicates. Soil description as in
+Figure 6.
+
+Population Changes of Soil Microbial Communities
+
+51
+
+mineralization of the substrates mono-methyl succinate, o-trehalose, D, i.-carnitine, r.-asparagine, M-inosital, t-phenylalanine, methyl-pyruvate, and phenyl
+ethylamine. Substrate richness was only slightly altered; all samples showed a decrease in substrates
+utilized from 67 at initiation, to 60 or 61 at the end of
+the experiment.
+
+perature in the laboratory. The addition of the mineral
+medium initiated a temperature increase due to higher
+biological activity after nutrient supply.
+Substrate utilization patterns with ON and SF-N
+plates were obtained after 1, 3, and 5 days of operation
+and compared with the initial conditions. The overall
+activity (AWCD) on the ON plates correlated well
+with respiration activity found during the remediation
+process. Ordination produced from PCA of microbial
+communities indicated a temporal trend toward lower
+values on the first and second PC (Figure 9). Evaluation of the variables that highly correlated with the first
+axis showed an increase in utilization of ~-hydroxybu­
+tyric acid, quinic acid, and L-aspartic acid during the
+remediation time. Correlation to the second axis indicated a decrease in utilization of D-melibiose as carbon
+source.
+The PCA of patterns derived from SF-N plates,
+indicative of the metabolic activity of sporulating and
+filamentous microorganisms, resulted in a different
+ordination plot (Figure 10). Only the sample taken
+after 5 days was separated from previous ones. Fungi
+on SF-N plates showed a much slower response to the
+hydrocarbon mixture than bacteria on ON plates. This
+suggested that under these conditions the effect of
+slower-growing microorganisms was observed. The
+clear separation on day 5 was caused by an increase in
+
+Discussion
+Cell number and species diversity of microorganisms
+are strongly determined by the regime of the dominating environmental factors. Without doubt, pollutants
+entering an ecosystem will have a strong influence on
+biodiversity, inducing both a loss in prevailing physiological activities and a gain of new ones. Thus, it is
+of great interest to follow the changes in microbial
+diversity during the remediation process.
+The results presented illustrate that the analysis of
+the substrate utilization pattern as exemplified by the
+Biolog" system is a rapid and simple approach to
+assess the potential functional biodiversity of soil microorganisms without the tedious isolation and identification of single community members. Samples are
+differentiated in time series or show community changes
+due to different treatments. Different temporal trends
+become apparent in the communities. PCA separates
+
+....B
+
+27.5
+
+Biolog sample
+
+0.3
+
+27.0
+0.25
+
+s::
+
+~\
+
+26.0
+
+-<;-
+
+~
+
+26.5
+
+.
+
+"\
+
+25.5
+
+0.2
+
+o
+
+~
+
+.s
+s::
+
+\
+
+(I,)
+
+\
+
+'\1
+
+(.)
+
+J
+
+0.15
+
+c
+0
+t.(
+N
+
+o
+
+25.0
+
+U
+
+0.1
+
+24.5
+
+addition of basal medium
+
+B
+
+cnight
+
+24
+
+48
+
+72
+
+B
+C*
+
+96
+
+120
+
+o
+
+144
+
+Time (h)
+
+Figure 8. Time course of soil temperature and the CO2 concentration in the reactor headspace during remediation of artificially
+hydrocarbon (HC)-contaminated soil in a closed agitated soil bioreactor (addition of dodecane, 2 giL; naphthalene, 0.5 gIL; and
+anthracene, 0.5 giL). The hydrocarbons were added 24 h and basal medium 72 h after initiation, respectively. The B indicates the
+time at which a soil sample was taken for Biolog® analysis.
+
+52
+
+Dobler, Saner, and Bachofen
+
+3.0
+2.0
+....
+
+1.0
+N
+
+U
+
+c,
+
+0.0
+
+• 2nd Day
+Initial
+
+-1.0
+
+0
+
+-2.0
+
+f
+
+-3.0
+
+-15
+
+-14
+
+-13
+
+-12
+
+Day
+
+f:.
+
+4th
+
+X
+
+6th Day
+
+-11
+
+-10
+
+-9
+
+PC1
+
+Figure 9. Ordination produced from PCA (variances-covariances matrix used) of profiles (72-h 00 590 readings on Biolog®
+GN microplates) of microbial communities extracted before
+(start) and during remediation process after 1, 3, and 5 days,
+respectively. Mean scores of each sample for the first and
+second principal components are plotted. Error bars indicate
+standard deviations of three replicates.
+
+0.1
+
+r;
+
+0.1
+
+I
+
+h
+
+H
+
+0.0
+N
+
+0
+
+e,
+
+-0.1
+
+-0.1
+
+-0.2
+-0.35
+
+•
+0
+
++
+
+Initial
+2nd Day
+
+A 4th Day
+X
+
+6th Day
+
+-0.25
+
+-0.30
+
+-0.20
+
+PC1
+
+Figure 10. Ordination produced from PCA (variances-covariances matrix used) of profiles (120-h OD590 readings on Biolog®
+SF-N microplates) of fungal communities before (start) and
+during remediation process after 1, 3, and 5 days, respectively. Mean scores of each sample for the first and second
+principal components are plotted. Error bars indicate standard
+deviation of three replicates.
+
+Population Changes of Soil Microbial Communities
+
+soil samples typically on the basis of responses that are
+high in one community and correspondingly low in
+other ones. The correlation of the carbon sources tested
+with the principal components can be used to evaluate
+the functional basis for differences among the samples.
+Additionally, patterns of overall substrate use (AWCD)
+can be viewed separately from the utilization of particular categories of substrates. This provides information at different levels of functional resolution.
+Like other culture-based procedures, the method
+is selective. It only detects activities from bacteria
+capable of growing on the substrates and the nutrient
+medium provided by Biolog". Oligotrophic microorganisms and obligate anaerobic bacteria do not respond. Furthermore, the Biolog" community assay reflects a functional potential rather than an in situ activity
+(Garland and Mills, 1991). Haack et al. (1995) showed
+that Biolog" carbon source utilization profiles of whole
+microbial communities are reproducible and unique
+for different communities, but they are not simply the
+sum of those activities exhibited by community members when tested separately. Thus, differences in substrate utilization profiles for replicate soil samples indicate real differences in community composition,
+mainly due to microscale heterogeneity in the soil.
+Comparing the microorganisms that grow in each
+Biolog" well to the total community that is present in
+the sample might help to increase the value of substrate utilization patterns for biodiversity analysis.
+Molecular methods based on DNA or 16S rRNA can
+provide an estimate of the fraction of community
+members that respond to the Biolog" assay conditions.
+Analyses of dominant nucleic acid fragments in the
+Biolog" wells by temperature gradient gel electrophoresis have been shown to give evidence for a reduction in diversity and selective enrichment of a few
+strains in the presence of the Biolog" substrates (Smalla
+et aI., 1998).
+Several statistical approaches allow the evaluation of multivariate data, such as Biolog" substrate
+utilization patterns. Here, PCA has been chosen to
+illustrate the relationships between samples concerning their catabolic potential. PCA ordination technique
+separates different samples along the first and second
+PC, which typically account for more than 80% of the
+variation in the data set. The major relationships among
+samples are visualized by examining the relative similarity of the principal component scores of their carbon
+source utilization patterns. Differences among samples
+are analyzed by evaluating the correlation of the original variables to the principal components. Other forms
+of ordination are canonical correspondence analysis
+(Bossio and Scow, 1995; Grayston et aI., 1994) or
+
+53
+
+detrended correspondence analysis (Garland, 1996a;
+Garland, 1996b), of which all have been applied successfully to establish distinctions among community
+substrate utilization profiles.
+Replicate soil samples, mean scores, and standard
+deviation among the replicates for the first and second
+PC help to evaluate whether the Biolog'" assay will
+distinguish between different samples. The length of
+error bars reflects mainly microscale spatial heterogeneity in the soil. Short incubation times after the stress
+application, for example, the addition of a pollutant, do
+not sufficiently resolve in the patterns of substrate
+utilization. However, over longer incubation times, the
+Biolog" assay allows one to follow changes in soil
+microbial communities.
+The microbial communities analyzed were all
+highly active in the presence of hydrocarbon contamination, confirming that the ability to utilize these compounds is widespread among microorganisms, even
+from environments where no hydrocarbon pollution is
+expected. Hydrocarbon-contaminated samples generally show higher metabolic potentials, when compared
+with uncontaminated samples, after the same incubation time, suggesting that microbial communities in
+soil are mainly limited by the available carbon. Often
+a high initial activity in soil samples is observed, probably due to the soil preparation, as homogenization
+and sieving enlarge the surface area and facilitate oxygen availability Therefore, the activity and substrate
+richness at the beginning of the experiments is probably overestimated.
+Heavy metals, especially copper and arsenic, had
+a drastic inhibitory effect on average activity as well as
+on the richness of the microorganisms according to the
+Biolog" analysis. Plating on rich medium, however,
+indicated that the cell number growing under these
+conditions increased. Thus, a stress-resistant population of low diversity had multiplied faster than the
+population in the control soil.
+Although aeration in a static system had no effect
+on the degradation rate of diesel or phenanthrene, the
+microbial population extracted from these soils differed greatly. Active aeration compared with oxygen
+supply by simple diffusion changed oxygen gradients
+and increased oxic sites. Thus, the degradation of hydrocarbons must have been limited by factors other
+than oxygen.
+Agitation combined with aeration greatly increases
+oxygen mass transfer within the soil (Saner et al.,
+1996a, 1996b). This suggests that oxygen was not the
+limiting factor for hydrocarbon degradation in this
+system. The addition of the basic inorganic nutrients
+supplied with trace elements and vitamins stimulated
+
+the metabolism as indicated by CO2 liberation and
+temperature increase. The fast-reacting organisms (GNplates) resulted in population changes by the second
+day, while slow-growing organisms hardly separated
+on PC analysis until day 5.
+Several approaches may help to draw more information from substrate utilization patterns between
+microbial communities:
+1. Use of additional specific carbon sources on
+Biolog MT microplates lacking the carbon
+source. Functional shifts might be more readily
+detected in contaminated samples if alternative carbon sources are selected (e.g. the contaminants or substrates that are known not to
+be generally utilized) (Insam, 1997).
+2. Continuous recording of the kinetics of the
+color formation instead of end-point measurements. Such profiles could further characterize the community change over time and increase the analytical power of the method.
+3. Strict control of the inoculation size, because
+this influences the kinetics of color development (Garland et al., 1997; Winding and
+Hendriksen, 1997), that is, by basing inoculation on equal DNA or protein in a sample.
+
+Acknowledgments
+
+e :
+
+54
+
+We thank the Swiss National Science Foundation (Swiss
+Priority Program Environment) for financial support.
+
+References
+Alef, K. 1994. Biologische Bodensanierung - Methodenbuch. 269 pp. VCH Verlagsgesellschaft: Weinheirn,
+Germany.
+Alef, K. and P. Nannipieri. (Eds.). 1995. Methods in Applied
+Soil Microbiology and Biochemistry. 576 pp. Acad.
+Press: London.
+BIOLOG. 1993. GNMicroPlate: Instructionsfor Use. Biolog,
+Inc.: Hayward, California.
+BIOLOG. 1994. Test Panels for Actinomycetes and Fungi
+and other Sporulating and Filamentous Microorganisms. Biolog, Inc.: Hayward, California.
+
+Bochner, B.R. and M.A. Savageau. 1977. Generalized Indicator Plate for Genetic, Metabolic, and Taxonomic Studies with Microorganisms. Appl. Environ. Microbiol.
+33:434-444.
+Bochner, B.R. 1989a. Sleuthing out Bacterial Identities.
+Nature 339:157-158.
+
+Bochner, B.R. 1989b. Breathprints at the Microbial Level.
+ASM News 55:536-539.
+
+Bossert, I. and R. Bartha. 1984. The Fate of Petroleum in
+Soil Ecosystems. In: Petroleum Microbiology, pp. 434-
+
+Dobler, Saner, and Bachofen
+
+476. (R.M. Atlas, Ed.). Macmillan Publishing: New
+York.
+Bossio, D.A. and K.M. Scow. 1995. Impact of Carbon and
+Flooding on the Metabolic Diversity of Microbial Communities in Soils. Appl. Environ. Microbiol. 61:40434050.
+Cerniglia, C.E., lB. Sutherland, and S.A. Crow. 1992. Fungal Metabolism of Aromatic Hydrocarbons. In: Microbial Degradation of Natural Products, pp. 193-217.
+(G. Winkelmann, Ed.). VCR Verlagsgesellschaft:
+Weinheim, Germany.
+DataMost. 1994. StatMost for Windows - Statistical Analysis and Scientific Graphics. DataMost Corporation, Salt
+Lake City.
+Engelen, B., K. Meinken, F. von Wintzingerode, H. Heuer,
+H.P. Malkomes, and H. Backhaus. 1998. Monitoring
+Impact of a Pesticide Treatment on Bacterial Soil Communities by Metabolic and Genetic Fingerprinting in
+Addition to Conventional Testing Procedures. Appl.
+Environ. Microbiol. 64:2814-2821.
+
+Eschenbach, A., M. Kaestner, R. Bierl, G. Schaefer, and B.
+Mahro. 1994. Evaluation of a New, Effective Method to
+Extract Polycyclic Aromatic Hydrocarbons from Soil
+Samples. Chemosphere 28:683-692.
+Fuenmayor, C.S.L. and V. Rodriguez Lemoine. 1992. Characterization of Polycyclic Aromatic Hydrocarbons
+Degradative Soil Pseudomonas. Acta Cientifica
+Venezolana 43:349-354.
+
+Garland, lL. and A.L. Mills. 1991. Classification and Characterization of Heterotrophic Microbial Communities
+on the Basis of Patterns of Community-Level SoleCarbon-Source Utilization. Appl. Environ. Microbiol.
+57:2351-2359.
+Garland, J.L. 1996a. Analytical Approaches to the Characterization of Samples of Microbial Communities Using
+Patterns of Potential C Source Utilization. Soil Biol.
+Biochem. 28:213-221.
+
+Garland, lL. 1996b. Patterns of Potential C Source Utilization by Rhizosphere Communities. Soil Biol. Biochem.
+28:223-230.
+Garland, lL., K.L. Cook, C.A. Loader, and B.A. Hungate.
+1997. The Influence of Microbial Community Structure
+and Function on Community-Level Physiological Profiles. In: Microbial Communities, Functional versus
+Structural Approaches, pp. 171-183. (H. Insam and A.
+Rangger, Eds.). Springer: Berlin.
+Gauch, H.G. 1982. Multivariate Analysis in Community
+Ecology. 298 pp. Cambridge University Press: Cambridge.
+Grayston, S.l, C.D. Campell, andD. Vaughan. 1994. Microbial Diversity in the Rhizospheres of Different Tree
+Species. In: Soil Biota-Management in Sustainable
+Farming Systems, pp. 155-157. (C.E. Parkhurst, B.M.
+Doube, W. S. R. Gupta, and P. R. Grace, Eds.). CSIRO
+Press: Adelaide.
+Haack, S.K., H. Garchow, MJ. Klug, and L. Forney. 1995.
+Analysis of Factors Affecting the Accuracy, Reproduc-
+
+Population Changes of Soil Microbial Communities
+
+ibility, and Interpretation of Microbial Community
+Carbon Source Utilization Patterns. Appl. Environ.
+Microbiol. 61:1458-1468.
+
+Insam, H. 1997. A New Set of Substrates Proposed for
+Community Characterization in Environmental Samples.
+In: Microbial Communities, Functional versus Structural Approaches, pp. 259-260. (H. Insam and A.
+Rangger, Eds.). Springer: Berlin.
+Kampfer, P., M. Steiof, and W. Dott. 1991. Microbiological
+Characterization of a Fuel-Oil Contaminated Site Including Numerical Identification of Heterotrophic Water and Soil Bacteria. Microb. Ecol. 21:227-251.
+Klein, J. 1992. Labormethoden zur Beurteilung der
+Biologischen Bodensanierung. Zweiter Bericht des
+Interdisziplinaren Arbeitskreises UmweltbiotechnologieBoden Ad-hoc-Arbeitsgrupppe Labormethoden zur
+Beurteilung der biologischen Bodensanierung.
+DECHEMA, Frankfurt am Main.
+Knight, B.P., S.P. McGrath, and A.M. Chaudri. 1997. Biomass Carbon Measurements and Substrate Utilization
+Patterns of Microbial Populations from Soils Amended
+with Cadmium, Copper, or Zinc. Appl. Environ.
+Microbiol. 63:39-43.
+
+Miethe, D., V. Riis, and W. Babel. 1994. The Relationship
+Between the Microbial Activity of the Autochthonous
+Microorganisms of Pristine and Contaminated Soils
+and Their Potential for the Degradation of Mineral Oil
+Hydrocarbons. Acta Biotechnol. 14:131-140.
+Pfennig, N. and K.D. Lippert. 1966. Uber das Vitamin B12Bediirfnis phototropher Schwefelbakterien. Arch.
+Microbiol. 55: 245-256.
+Pileou, E.C. 1984. The Interpretation of Ecological Data.
+263 pp., New York: John Wiley.
+Reasoner, D.l and E.E. Geldreich. 1985. A New Medium
+for the Enumeration and Subculture of Bacteria from
+Potable Water. Appl. Environ. Microbiol. 49:1-7.
+Saner, M., R. Bachofen, and K. Schneider. 1996a. Simulation of Onsite Vacuum Heap Aeration and Soil Surface
+Enlargement by a Closed Agitated Soil Bioreactor.
+Microbiol. Res. 151:29-35.
+
+Saner, M., D. Bollier, K. Schneider, andR. Bachofen. 1996b.
+Mass Transfer Improvement of Contaminants and Nutrients in Soil in a New Type of Closed Soil Bioreactor.
+J. Biotechnol. 48:25-35.
+
+Skladany, G.J. and F.B. Metting Jr. 1993. Bioremediation of
+Contaminated Soil. In: Soil Microbial Ecology, Applications in Agricultural and Environmental Management, pp. 483-513. (F. B. Metting n., Ed.). New York:
+
+Marcel Dekker, Inc.
+Smalla, K., U. Wachtendorf, H. Heuer, W.T. Liu, and L.
+Forney. 1998. Analysis of BIOLOG GN Substrate Utilization Patterns by Microbial Communities. Appl.
+Environ. Microbiol. 64:1220-1225.
+
+Song, H.G., T.A. Pederson, and R. Bartha. 1986. Hydrocarbon Mineralization in Soil: Relative Bacterial and Fungal Contribution. Soil Biol. Biochem. 18: 109-111.
+
+55
+
+Stringfellow, W.T. and M.D. Aitken. 1994. Comparative
+Physiology of Phenanthrene Degradation by Two Dissimilar Pseudomonades Isolated from a Creosote-Contaminated Soil. Can. J. Microbiol. 40:432-438.
+Winding, A. 1994. Fingerprinting Bacterial Soil Communities Using Biolog" Microtitre Plates. In: Beyond the
+Biomass. Compositional and Functional Analysis of
+Soil Microbial Communities, pp. 85-93. (K. Ritz, l
+Dighton, and K.E. Giller, Eds.). John Wiley & Sons:
+Chichester, UK.
+Winding, A. and N.B. Hendriksen. 1997. Biolog" Substrate
+Utilization Assay for Metabolic Fingerprints of Soil
+
+56
+
+Bacteria: Incubation Effects. In: Microbial Communities, Functional Versus Structural Approaches, pp. 195205. CR. Insam and A. Rangger, Eds.). Springer: Berlin.
+Wunsche, L., L. Briiggemann, and W. Babel. 1995. Determination of Substrate Utilization Patterns of Soil Microbial Communities - An Approach to Assess Population Changes after Hydrocarbon Pollution. FEMS
+Microbial. Eco!. 17:295-305.
+Zak, r.c, M.R. Willig, D.L. Moorhead, and H.G. Wildman.
+1994. Functional Diversity of Microbial Communities:
+A Quantitative Approach. Soil Biol. Biochem. 26: 11011108.
+
+Dobler, Saner, and Bachofen
+
+Bioremediation Journal
+
+ISSN: 1088-9868 (Print) 1547-6529 (Online) Journal homepage: http://www.tandfonline.com/loi/bbrm20
+
+Population Changes of Soil Microbial Communities
+Induced by Hydrocarbon and Heavy Metal
+Contamination
+Roger Dobler , Matthias Saner & Reinhard Bachofen
+To cite this article: Roger Dobler , Matthias Saner & Reinhard Bachofen (2000) Population
+Changes of Soil Microbial Communities Induced by Hydrocarbon and Heavy Metal Contamination,
+Bioremediation Journal, 4:1, 41-56, DOI: 10.1080/10588330008951131
+To link to this article: http://dx.doi.org/10.1080/10588330008951131
+
+Published online: 02 May 2007.
+
+Submit your article to this journal
+
+Article views: 82
+
+View related articles
+
+Citing articles: 19 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=bbrm20
+Download by: [Indian Institute of Technology - Delhi]
+
+Date: 09 July 2017, At: 04:59
+
+Population Changes of Soil Microbial
+Communities Induced by Hydrocarbon
+and Heavy Metal Contamination
+Roger Dobler, Matthias Saner, and Reinhard Bachofen*
+University of Zurich, Institute for Plant Biology, Zollikerstr. 107, CH-8008 Zurich, Switzerland
+Abstract: Substrate utilization tests with Biolog®plates were used to obtain information on shifts in community
+composition and on changes in the metabolic diversity and activity of microorganisms in soil polluted with
+hydrocarbons. and/or heavy metals. Differences between the patterns of substrate utilization of endogenous
+microorganisms of pristine and contaminated soils were investigated by multivariate analysis. Population changes
+and shifts in metabolic diversity were observed both after hydrocarbon pollution or heavy metal contamination.
+The overall activity on the 95 Biolog" Gram-negative (GN) substrates correlated well with the respiration rate of
+the soil. Soils contaminated with hydrocarbons showed higher metabolic potentials than the corresponding
+controls. In contrast, heavy metal pollution caused both lower metabolic activity and a loss in diversity. The
+Biolog" assay was found to be suitable to describe changes in functional diversity of soils caused by hydrocarbon
+contamination or heavy metal stress.
+
+Introduction
+Soil is a highly heterogeneous environment consisting
+of abiotic solid, liquid, and gaseous phases together
+with various living organisms. Pore space and particle
+surfaces provide space for a wide range of microorganisms that play an important role in the mineralization
+of organic matter and the recycling of elements. In
+addition, a large number of contaminants found in soil
+are degraded and detoxified by microorganisms. Despite an increasing number of analytical techniques,
+diversity and physiological variability of terrestrial
+microbial communities are still underexplored. Only a
+small part of the species found in soil communities can
+be characterized by cultivation.
+Recently, biochemical and molecular biological
+methods have opened up new possibilities to obtain
+information on composition, and temporal and spatial
+changes in bacterial communities. Patterns of commu-
+
+*
+
+nity-level, single-carbon-source utilization have been
+used to compare microbial communities from different
+habitats (Garland and Mills, 1991; Haack et aI., 1995;
+Winding, 1994; Wiinsche et aI., 1995; Zak et al., 1994)
+to monitor the impact of pesticide treatment (Engelen
+et aI., 1998), of heavy metals (Knight et al., 1997), or
+of flooding (Bossio and Scow, 1995) on the microbial
+community.
+The Biolog'" system is based on the reduction of a
+tetrazolium dye as a measurement of electron transport
+activity and the ability to oxidize 95 different carbon
+sources. It was originally designed for the identification and classification of pure cultures of heterotrophic
+bacteria (Bochner, 1989a, 1989b; Bochner and
+Savageau, 1977). Later, Garland and Mills (1991) extended the method to classify microbial communities
+of different environmental samples and to characterize
+their functional potential. With these 95 different carbon sources, microbial communities produce a repro-
+
+Corresponding author: Tel: +31-16348280; Fax: +41-16348204; E-mail: bachofen@botinst.unizh.ch.
+
+1058-8337/00/$.50
+© 2000 by Battelle Memorial Institute
+
+Bioremediation Journal 4(1):41-56 (2000)
+
+41
+
+ducible and site-specific activity pattern. Multivariate
+analysis of these patterns is then used to search for
+relationships between samples from the different habitats. This assay, also called physiological profiling,
+seems to be suitable for investigations of microbial
+communities across spatial, temporal, or experimental
+gradients.
+The disposal or accidental release of organic and
+inorganic compounds into the environment has resulted in a worldwide pollution of soil, groundwater,
+and aquatic ecosystems, a main pollutant being hydrocarbons. Biodegradation of hydrocarbons by natural
+populations of microorganisms is well known. Many
+microorganisms are able to utilize these compounds as
+a source of energy and carbon (Bossert and Bartha,
+1984; Cerniglia et al., 1992; Song et al., 1986).
+The massive pollution of the environment by hydrocarbons initiated the development of various technologies to treat contaminated soils, including physical, chemical, and biological remediation methods
+(Skladany and Metting, Jr., 1993). Bioremediation is
+often preferred, because the contaminants can be transformed to nonhazardous compounds at low costs, particularly by using in situ or on-site bioremediation
+techniques. The metabolic abilities of the microorganisms determine the rate and degree of mineralization of
+hydrocarbons, thus interest in quantifying impacts on
+the biotic component of the soil ecosystem increases.
+Traditionally, contaminated sites have been investigated using microbiological techniques like estimations of total cell counts, viable cell counts on different
+media, or quantitation of physiologically specialized
+groups (Alef, 1994; Alef and Nannipieri, 1995; Kampfer
+et al., 1991) and the determination of the microbial
+respiration activity of soil (Klein, 1992; Miethe et al.,
+1994). Substrate utilization patterns allow a rapid assessment of the dynamics of microbial soil communities during bioremediation as well as an estimation of
+their biodegradative potential.
+This article describes the changes in substrate utilization of the microbial community during the
+
+remediation of hydrocarbons and the effect of heavy
+metals in static and constantly agitated soil.
+
+Materials and Methods
+Soil Preparation
+Samples of pristine soil originated from the Botanical
+Garden of Zurich and were taken from the top layer
+of the A-horizon. The highly contaminated soil
+came from a hydrocarbon-polluted site near Geneva,
+Switzerland, and was obtained from the EBIOX
+Remediation Company. All soil samples were homogenized and sieved and fractions <2 mm were used for
+the experiments. For artificial contamination of control soil, soil material was mixed with defined amounts
+of hydrocarbons or heavy metals (Table 1). These
+substances were sprayed on the soil using a trigger
+spray bottle, while the soil was mechanically mixed.
+Phenanthrene was pulverized in a mortar and added as
+a fine powder (2 g/kg). Original, pristine soil was used
+as a reference to assess natural changes in community
+composition during incubation.
+Soil pH was measured in 1 M KCl solution. Dry
+weight (dwt) was measured after drying at 105°C for
+24 h. Water content (wet) and maximum water-holding capacity (WHC max) were determined by percolation with water after standing for an hour according to
+published methods (Alef, 1994; Alef and Nannipieri,
+1995).
+In static incubation systems, soil samples of 1 kg
+were incubated in polycarbonatejars in the greenhouse
+at a mean temperature of 26°C and a humidity of 70%
+to prevent drying. The water content of the soil was
+kept constant at 25 to 30% (40 to 48% of maximum
+water-holding capacity) during incubation. Samples
+were taken at the beginning, 11 to 18 days, and 5 to 7
+months after the addition of the pollutants, depending
+on the experiment (exact duration is given in the legends to figures and tables). The microorganisms were
+then extracted from the soil and the extract was used to
+inoculate the microtiter plates.
+
+Table 1. Composition of soil samples contaminated with diesel oil (0) or phenanth~ene (Ph), .additionally spiked
+with copper (Cu) or arsenic (As) in an artificially aerated system (US: uncontaminated SOil)
+US
+
+Aerated
+1000 9 soila
+
+a
+
+D
+
+D
+
+D/Cu
+
+Ph
+
+Ph
+
+Ph/Cu
+
+Ph/As
+
+Not aerated
+1000 9 soila
+10 g diesel
+
+Aerated
+1000 9 soila
+10 9 diesel
+
+Aerated
+1000 9 soila
+10 9 diesel
+1 9 Cu
+
+Not aerated
+1000 9 soila
+10 9 Ph
+
+Aerated
+1000 g soila
+10 9 Ph
+
+Aerated
+1000 9 soila
+10 9 Ph
+1 9 Cu
+
+Aerated
+1000 9 soila
+10 9 Ph
+1 9 As
+
+Fresh, moist soil: water content
+(" 0.7 x 107)
+
+42
+
+= 27%
+
+(43% of maximum water holding capacity), pH
+
+= 6.8, cfu/g dwt on R2A medium = 4.6 x 107
+
+Dobler, Saner, and Bachofen
+
+To simulate an active bioremediation process, the
+polycarbonate jars were equipped with a gassing system. Compressed air was released from the bottom
+into the soil at a rate of 2.5 L/min. The reaction vessels
+were kept at 22°C and the air was humidified by passage through a washing bottle containing sterile water.
+Experiments under constantly agitated and aerated conditions were performed in a specially designed
+100-L bioreactor (Saner et aI., 1996a) using 22 kg of
+fresh soil. In this system, the soil is slowly agitated and
+kept homogeneous at its original water content (24%)
+by a planetoid mixing system. The activity of aerobic
+soil organisms is measured as CO 2 production and O2
+uptake in the efflux by on-line mass spectrometry
+(PGA100, Leybold, Koln, Germany). Additionally, the
+soil temperature is a good indicator of general biological activity of the soil. Before the addition of the
+substrate hydrocarbons, the soil was mixed and aerated for 24 h. To minimize nutrition limitations in the
+soil, a basal medium made in distilled water was used
+(3.3 giL Na zHP0 4 , 1.6 giL KH zP0 4 , 0.1 giL
+MgS0 407HzO, 0.02 gIL CaClzoHzO, 1.0 gIL NH4CI).
+This basal medium was supplemented by a vitamin
+and trace element solution (Pfennig and Lippert, 1966).
+
+Microbial Populations
+Microorganisms were extracted from the soil following the directions of Klein (1992). Ten-gram samples
+of fresh, sieved soil were suspended in 100 mL sterile
+0.2% tetrasodium pyrophosphate solution and shaken
+in 250 mL flasks for 30 minutes (150 rpm) at room
+temperature. After sedimentation at 1 g for about 5
+minutes, the supernatant was taken to represent the
+entire bacterial community. The diluted suspensions
+(sterile 0.9% NaCI-solution) were used directly to inoculate Gram-negative (ON) Biolog" plates and to
+determine the cell number. For actinomycetes and fungi,
+the suspension was diluted in a gel-forming colloid
+(0.2% Carageenan Type II) instead of 0.9 % NaCI.
+This enhances growth and keeps the cells uniformly
+suspended in the wells (BIOLOG, 1993, 1994).
+The number of viable cells was determined by
+standard plate count as colony-forming units (cfu) with
+serial dilutions and three replicates of each on R2A
+medium (Reasoner and Geldreich, 1985). Incubation
+was at room temperature, and the colonies were counted
+after 10 days.
+Substrate utilization patterns of soil microbial
+communities were obtained with Biolog" GN
+microplate test panels with three replicate suspensions
+from each sample. Soil suspensions were diluted 100fold with 0.9% saline to minimize background absorbance; 125 JlL were used for the inoculation of the
+
+Population Changes of Soil Microbial Communities
+
+wells. The plates were incubated at room temperature
+and the absorbance (590 nm) of the 96 wells was
+recorded over 120 h (Reader 2001, Anthos Labtec
+Instruments G.m.b.H., Salzburg, Austria). An incubation time of 72 h proved to be optimal for the soil
+samples.
+Sporulating and filamentous (SF) microorganisms
+were tested on Biolog" SF-N microplates using the
+same inoculum as before. One hundred microliters
+each of chloramphenicol (10 mg/L), streptomycin sulfate (10 mg/L), and benzylpenicillin (20 mg/L) were
+added to suppress bacterial growth in the soil suspension. The plates were incubated at room temperature
+for several days. For .actinomycetes and fungi, the
+incubation period was extended to 216 h. The 120-h
+readings were taken to best represent the community
+of sporulating and filamentous microbes. The SF-N
+microplates are identical to the GN microplates except
+the substrate wells lack the tetrazolium redox dye.
+Optical density (OD) readings were made at 590 nrn
+and indicated turbidity and thus growth. After inoculation, the SF-N microplates were incubated and the
+absorption of each well was read after 24 to 120 hand
+the data analyzed using Microsoft Excel".
+The color intensity of Biolog" GN microtiterplates
+is expressed as average well color development
+(AWCD) and calculated as the mean of the 95 absorbance values corrected for the control background. In
+SF-N plates lacking the electron acceptor dye, average
+well turbidity (AWT = OD 590) was calculated similarly to express the overall growth in the 95 wells.
+
+Chemical Analyses
+Hydrocarbons were extracted from soil with an equal
+amount of ethylacetate, the slurry treated with ultrasound, shaken, and centrifuged (Eschenbach et aI.,
+1994; Saner et al., 1996a). Extracts were analyzed by
+gas chromatography (DANI gas chromatograph [GC]
+86.10 HT, with flame ionization detector [FID] 86/10
+or the Gas Chromatograph Detector (GCD)-System
+Hewlett Packard [HP] G1800A) on Altech Econo-Cap
+capillary columns using 1 ~L of extract (injector temperature 250°C; carrier gas 1.0 mL/min helium; FID
+275°C, split 1:50; temperature program: 1 min hold at
+35°C, 35 to 200°C at 10°C/min ramp, 200 to 250°C at
+5°C/min ramp). Diesel oil was quantified by adding up
+the peak areas in the retention time interval from 3 to
+14.5 min.
+
+Statistical Treatment of Data
+To compare samples with substantial variation in
+AweD (or AWT), the data were normalized by
+dividing the values for individual wells by the AWCD
+
+43
+
+(or AWT) for the sample (Garland, 1996a). In addition, the AWCD/AWT ratio for specific categories
+of carbon sources was computed using the classification of Garland and Mills (1991) with 11 categories. This allowed for comparison of the activity on
+polymers, carbohydrates, and carboxylic and amino
+acids between soil samples. The number of substrates used by a microbial community is called
+substrate richness (S) and was defined as the number of background-corrected absorbance values
+greater than 0.5 absorbance units after 72-h incubation on GN microplates or after 120h on SF-N
+microplates. Pearson correlation coefficients (r) of
+the background-corrected absorbance values at 590
+nm were calculated between single samples and the
+standard deviation (StD) among replicates was computed.
+Data used in community ecology are often multivariate. The relationships between the patterns of
+color formation also require multivariate statistical
+analysis to reduce. the multidimensional data into a
+more readily interpretable form. Characterization is
+done on the basis of a number of variables, here the
+respiratory activities of the microbial communities
+on the 95 different substrates. Comparisons must be
+made between plate readings of equivalent incubation times. The multivariate method of ordination
+was used to concentrate the data and to find causal
+or descriptive relations among samples (Gauch,
+1982). From the numerous ordination techniques,
+principal components analysis (PCA) has been chosen using background-corrected absorbance values.
+PCA is an operation that projects the multivariate
+data onto a reduced number of dimensions (principal components) that capture a subset of the total
+variance in the data set (Pileou, 1984). With the
+software DataMost (1994), best results were achieved
+by selecting a variances-covariances matrix. The
+data are summarized, but still display the original
+pattern. For interpretation, the samples were plotted
+using the component values as graphical coordinates.
+
+Results
+Population Changes during a 5-Month
+Incubation of Soil with Hydrocarbons
+in a Static System
+Changes in community composition were followed in
+a natural soil system that had been artificially contaminated with diesel oil or with phenanthrene. Diesel oil
+was used as a model compound for general environmental pollution by hydrocarbons, and phenanthrene
+
+44
+
+represents a complex aromatic substance known to be
+degraded by soil microorganisms (Fuenmayor and
+Rodriguez Lemoine, 1992; Stringfellow and Aitken,
+1994).
+A 5-month incubation of pristine and highly polluted soil, parallel to experimentally contaminated soil
+(1 % diesel or 0.2% phenanthrene) was carried out
+under static aerobic conditions and analyzed after 11
+and 166 days. During the first 11 days, only slight
+changes in the composition of the endogenous microbial communities were observed. PCA (Figure 1)
+showed high similarities between the different samples,
+They were only separated by the first principal component (PC) (accounting for 80% of the variation in the
+data). The second PC, which accounted for 7% of
+variation, did not differ significantly. The small differences in metabolic potential between the artificially
+contaminated soil and the control were also reflected
+in high correlation coefficients (difference between
+uncontaminated soil after 11 days [US 11 d]) and
+phenanthrene-contaminated soil after 11 days [Ph 11
+d]: r = 0.852; between uncontaminated soil [US 11 d]
+and diesel-contaminated soil after 11 days [D 11 d]: r
+= 0.835). During this short incubation time, the number of metabolized carbon sources decreased slightly
+in all experiments (Table 2). The community extracted
+from the reference sample showed a loss in substrate
+richness of five Biolog" substrates, while in the artificially phenanthrene-contaminated soil five substrates
+were no longer used and two substrates were new, and
+in diesel oil-contaminated soil three were no longer
+used and four become newly utilizable.
+The relationships between the substrate utilization
+patterns recorded after 166 days of incubation were
+illustrated by the plot of principal components (Figure
+1). This graph indicated that considerable changes
+occurred in the metabolic patterns of the different soil
+samples over this much longer incubation time. The
+patterns became clearly separated by the first two principal components. The scatters of replicates, as indicated by error bars, did not overlap between the samples.
+Seventy-two percent of total variance in the data were
+explained by the first and 11% by the second PC axis.
+Considerable shifts took place within the number of
+metabolized substrates (Table 2). Furthermore, the
+overall activity on the 95 Biolog" substrates decreased
+generally during the second part of the incubation
+(Figure 2), as did the substrate richness. The decrease
+in AWCD after 166 days was mainly due to a loss of
+activity on polymer and carbohydrate substrates (Figure 3).
+The small change during the first 11 days discussed above suggests that the microbial population
+
+Dobler, Saner, and Bachofen
+
+First and second PC of substrate
+utilization patterns after 11 days
+0.5
+
+o US initial
+
+0.4
+
+• US after 11 days
+o AL initial
+
+0.3
+
+N
+
+0.1
+
+•
+
+Ph after 11 days
+
+A Dafter 11 days
+
+r-t-fr
+
+0
+
+D-
+
+• AL after 11 days
+
+if
+
+0.2
+
+O
+-0.1
+
+-0.2
+-0.3
+-0.4
+-0.75
+
+-0.7
+
+-0.65
+
+-0.6
+
+-0.55
+
+-0.5
+
+PC1
+
+First and second PC of substrate
+utilization patterns after 166 days
+0.5
+0.4
+
+0:
+
+Q
+
+0.3
+
+N
+
+0.2
+
+o US initial
+
+0.1
+
+• US after 166 day s
+
+0
+
+C-
+
+O
+-0.1
+
+o
+
+~
+
+AL initial
+
+• AL after 166 days
+
+$
+
+• Ph ater 166 days
+-0.2
+
+t-Il-l
+
+I
+
+j(
+
+I
+
+fA 0 after 166 days
+
+-0.3
+
+-0.4
+-0.75
+
+-0.7
+
+-0.65
+
+related to differences in the response in samples with
+different coordinate values for that PC (Garland and
+Mills, 1991). Samples with higher coordinate values
+for PC 1 show a greater response for carbon sources
+positively correlated to PC 1 when compared with
+samples with low PC 1 scores. Poor correlation of a
+carbon source to a PC does not mean that it was poorly
+utilized by the samples, but rather that its utilization
+was not different among samples with higher and lower
+coordinate values for that PC. Analysis of PCI indicates that soil microbial communities with low scores
+on this component (Figure 1) utilized the substrates
+listed in Table 3 to a relatively lesser degree. Apart
+from uridine, carbon sources positively correlated to
+PCI were mostly polymers and carbohydrates (correlation coefficients of AWCD to PC 1 of the polymers:
+r = 0.909; and carbohydrates: r = 0.773). Microbial
+communities associated with high scores on the second component in PC analysis show a greater relative
+utilization of the positively-correlated substrates
+(o-mannose, t.-arabinose, t-rhamnose, n-sorbitol, and
+itaconic acid) and a smaller utilization of negatively
+correlated substrates (bromo-succinic acid, n-saccharic acid, n-glucuronic acid, and citric acid). The high
+number of carbohydrates positively correlated to PC2
+leads also to a high correlation coefficient of these
+carbon sources (r :::: 0.940). The contaminated soil
+from a remediation site was clearly different from its
+composition at time zero and at the end the experiment.
+
+-0.6
+
+-0.55
+
+-0.5
+
+-0,45
+
+-0.4
+
+PC1
+
+Figure 1. Ordination produced from PCA (variances-covariances matrix used) of profiles (72-h 00590 readings on Biolog®
+GN microplates) of microbial communities from contaminated
+and uncontaminated samples. Mean scores of each sample
+for the first and second principal components are plotted.
+Error bars indicate standard deviations of three replicates.
+US: uncontaminated soil; AL: (highly) contaminated soil; Ph:
+soil after phenanthrene addition (0.2%); D: soil after diesel oil
+addition (1%).
+
+responded to the pollutants during prolonged incubation. The carbon sources that correlate to PC I and PC2
+and differentiate best between the communities after 5
+months are listed in Table 3.
+The degree to which a PC explains the variance in
+the color response of an individual carbon source is
+
+Population Changes of Soil Microbial Communities
+
+Population Changes during a 7-Month
+Incubation of Soil with Heavy Metals
+in a Static System
+Pristine soil was experimentally amended with the
+heavy metals cadmium, mercury, copper, and arsenic
+to concentrations of 1000 ppm, and microbial carbon
+source utilization was analyzed after 18 and 217 days.
+Samples from the various treatments had different
+patterns of carbon source utilization. The plot of the
+first and second PC illustrated that arsenic and copper
+stress induced a strong impact on the microbial community in only 18 days of incubation, while mercury
+and cadmium had only minor effects within this time
+scale (Figure 4). Seventy-eight percent of total variance accounted for the first PC. The second PC, which
+explained 7% of the variance, clearly distinguished the
+arsenic- and copper-treated samples from others that
+were still closely related and formed a cluster together
+with the control. The samples contaminated with the
+different heavy metals were characterized by the lowered activity of the arsenic and copper samples in
+degrading ~-methyl-o-glucoside, glucosc-c-phosphatc,
+
+45
+
+Table 2. Number of substrates metabolized (substrate richness: backgroundcorrected 72-h 00 590 readings from Biolog® GN microplates ~O.5) by the different
+microbial communities before and after incubation of 11 and 166 days. The
+mean 00 values of three replicates were taken for calculation. Control:
+uncontaminated soil; AL: (highly) contaminated soil; phenanthrene: soil after
+phenanthrene addition {O.2%}; diesel: soil after diesel oil addition (1%)
+Changes relative to control
+Substrate richness
+Sample
+
+(5)
+
+Control (initial)
+Control (11 d)
+Control (166 d)
+Phenanthrene (11 d)
+Phenanthrene (166 d)
+Diesel (11 d)
+Diesel (166 d)
+AL (initial)
+AI (11 d)
+AL (166 d)
+
+74
+69
+45
+71
+49
+75
+48
+59
+66
+47
+
+No longer used
+substrates
+
+New substrates
+
+27
+
+0
+2
+2
+1
+4
+1
+
+1
+15
+
+8
+3
+
+5
+31
+5
+26
+
+3
+
+Figure 2. AWCD (A) and substrate richness (S) (B) on Biolog® GN microplates inoculated with soil samples before and after
+incubation of 11 and 166 days. The OD590 values after 72 h were used for calculation. Error bars indicate the standard deviation
+of replicates. Soil description as in Figure 1"
+
+46
+
+Dobler, Saner, and Bachofen
+
+2.0
+
+• Awco
+
+1.8
+
+Ii AweD carbohydrates
+iii
+
+1.6
+
+polymers
+
+AWeD carboxylic acids
+
+DAWCD amino acids
+
+1.4
+
+E
+c
+
+1.2
+
+Ol
+
+1.0
+
+o
+
+0.8
+
+o
+
+~
+
+o
+
+0.6
+
+0.4
+0.2
+
+0.0
+US initial
+
+US 166d
+
+Ph 166d
+
+D 166d
+
+AL initial
+
+Al 166d
+
+Figure 3. AWCD on four selected categories of carbon sources (polymers, carbohydrates, carboxylic acids, and amino acids) on
+Biolog® GN microplates inoculated with soil samples before and after incubation of 166 days. The 00 590 values after 72 h were
+used for calculation. Error bars indicate the standard deviation of replicates. Soil description as in Figure 1.
+
+Table 3. Correlation (Pearson coefficient) of carbon source utilization
+variables to principal components (PC1 and PC2) for analysis of all soil
+samples taken after 5 months. Positive correlation indicates greater
+response in samples with higher coordinate scores for the axis. Negative
+correlation indicates greater utilization in samples with lower coordinate
+scores for the axis
+PC1
+Carbon source
+Dextrin
+o-melibiose
+L-fucose
+Cellobiose
+Glucose-6-phosphate
+a-cyclodextrin
+Maltose
+Glycyl-L-aspartic acid
+Uridine
+
+PC2
+Correlation (r)
+
+Carbon source
+
+0.906
+0.903
+0.892
+0.887
+0.879
+0.876
+0.875
+0.875
+0.874
+
+o-mannose
+L-arabinose
+L-rhamnose
+o-sorbitol
+Itaconic acid
+N-acetyl-galactosam ine
+Maltose
+Glycyl-L-aspartic acid
+Alaninamide
+o-fucose
+Bromo-succinic acid
+o-saccharic acid
+o-glucuronic acid
+Citric acid
+a-o-glucose
+
+uridine, N-acetyl-D-glucosamine, i.-alanine, and minositol when compared with the rest of the samples.
+These carbon sources were mainly responsible for the
+separation on the second PC. Overall substrate rich-
+
+Population Changes of Soil Microbial Communities
+
+Correlation (r)
+
+0.955
+0.948
+0.945
+0.932
+0.913
+0.896
+0.879
+0.875
+0.865
+0.860
+-0.859
+-0.838
+-0.817
+-0.797
+-0.773
+
+ness remained on the same level for all treatments after
+18 days (Figure 5). However, the number of substrates
+metabolized confirmed the shift in substrate utilization
+of the arsenic and copper sample. Microorganisms
+
+47
+
+First a nd second PC of substrate
+
+utilization patterns after 18 days
+0.3
+
+0.2
+
+r~
+
+0.1
+
+N
+
+o
+
+0 US initial
+
+•
+
+E
+a
+
+o
+
+Q. ~O.1
+
+US after 18 days
+As after 18 days
+Cd after 18 days
+
+<> eu after 18 day s
+·0.2
+
+J-1Il
+
+~O.3
+
+tA Hg after 18 days
+
+t---f----i
+
+~O.4
+
+-0.7
+
+-0.75
+
+·0.65
+
+-0.6
+
+·0.55
+
+-0.5
+
+-0.45
+
+PC1
+
+First and second PC of substrate
+
+utilization patterns after 217 days
+0.2 . , - - - - - - - - - - - - - - - - - - . . ,
+0.1
+
+o
+
+o
+
+US initial
+
+•
+
+US after 217 days
+
+('II
+
+C)
+
+a.
+
+~O.1
+
+II As
+-0.2
+
+III Cd after 217 days
+~
+
+-0.3
+
+~OA
+
+after 217 days
+
+Cu after 217 days
+
+A Hg after 217 days
+
+-t--....,---,...---..-.......- - r - - - r - - . . , - -......
+
+-0.75 -0.65 -0.55 -0.45 -0.35 -0.25 -0,15 -0,05 0.05
+
+PC1
+
+Figure 4. Ordination produced from PCA (variances-covariances matrix used) of profiles (72-h 00 590 readings on Biolog® GN
+microplates) of microbial communities from uncontaminated and contaminated samples. Mean scores of each sample for the first
+and second principal components are plotted. Error bars indicate standard deviations of three replicates. US: uncontaminated soil;
+As: soil after arsenic addition (1 mg/g); Cd: soil after cadmium addition (1 mg/g); Cu: soil after copper addition (1 mg/g); Hg: soil
+after mercury addition (1 mg/g).
+
+48
+
+Dobler, Saner, and Bachofen
+
+extracted from the arsenic-contaminated soil had
+changes in utilization in 20 substrates: 14 were no
+longer used while six were new. After the addition of
+copper, 13 substrates were no longer used. The corresponding control values were -7 and + 1. Interestingly,
+AWCD as a measure of respiratory activity showed
+only small differences on the 95 Biolog" substrates
+after heavy metal contamination when compared with
+the control.
+After 217 days, the results were quite different.
+The substrate richness and the AWCD both decreased
+to low levels in all the contaminated samples as well as
+in the control. With As, Cd, Cu, and Hg, 71, 71, 72,
+and 63 substrates, respectively, were no longer used.
+Only with Hg were nine substrates newly utilizable.
+The corresponding control showed a loss of ability to
+metabolize 49 substrates and an addition of 23 new
+substrates. In the cadmium- and copper-treated samples,
+
+the AWCD reached mean values of less than 0.05
+absorbance units and produced the largest distance to
+the control sample (US initial, Figure 5). The decrease
+in substrate richness and metabolic activity of the pristine control sample was probably due to exhaustion of
+nutrients after the long incubation time (Figure 6).
+
+Population Changes during a ShortTerm Incubation of Soil with
+Hydrocarbons and Heavy Metals in an
+Artificially Aerated System
+It is well known that mineralization of hydrocarbons is
+strongly stimulated under oxic conditions. The simple
+aeration system used in these experiments simulates in
+situ remediation techniques such as air venting. Soil
+contaminated with diesel oil or phenanthrene (l % of
+dwt each) was additionally spiked with copper or ar-
+
+A
+1.40
+
+IlllAWCD after18 days
+• AWeD after 217 days
+
+1.20
+
+1.00
+
+SCD
+
+0.80
+
+It')
+
+C 0.60
+0
+
+DAD
+0.20
+0.00
+US initial
+
+As
+
+Cd
+
+Hg
+
+Cu
+
+80
+
+U)
+
+oS
+~
+
+70
+
+1h
+
+.Q
+
+:;
+
+60
+
+w
+
+oe(I)~
+
+50
+
+.&g
+
+40
+
+NO
+=/\
+(IS
+
+US
+
+..,
+
+-a;C 30
+sQ.
+
+-..
+0
+
+20
+
+(I)
+
+..a
+E
+:;
+e
+
+10
+
+a
+
+us Initial
+
+US
+
+As
+
+Cd
+
+Cu
+
+Hg
+
+Figure 5. AWeD and substrate richness (S) on Biolog® GN microplates inoculated with soil samples before and after incubation
+of 18 and 217 days. The 00 590 values after 72 h were used for calculation. Error bars indicate the standard deviation of three
+replicates. Soil description as in Figure 4.
+
+Population Changes of Soil Microbial Communities
+
+49
+
+not volatilization was responsible for most of the loss.
+A minor initial loss in diesel oil was caused by evaporation of the highly volatile components. The addition
+of copper negatively affected the degradation of diesel
+oil components.
+Carbon source utilization profiles were analyzed
+after three weeks (Figure 7). In PCA of the carbon
+source utilization, the first covariance PC axis accounted for 78%, and the second axis accounted for
+7% of the variation in the data. PC axis 1 had the
+highest correlations to the substrates i.-aspartic acid,
+glucose-6-phosphate, glucose-I-phosphate, and su-
+
+senic (0.1 % of dwt each) and the hydrocarbons quantified during a 3-week incubation. The phenanthrene
+content dropped to 10% of the starting value in the
+static system due to microbial activity (Figure 6).
+Aeration did not stimulate the degradation rate, indicating that a factor other than the diffusion of oxygen
+was rate limiting. As expected, the addition of copper
+or arsenic resulted in a significant inhibition of phenanthrene degradation. In diesel oil-contaminated soil, the
+amount of total hydrocarbons decreased to 40% of the
+original value, independent of the use of the aeration
+system, indicating that hydrocarbon degradation and
+
+A
+2.0E+07...-------------_
+1.8E+07
+As
+1.6E+07
+
+-e
+
+I
+
+1.4E+07
+
+___ Ph (ae)
+
+1.2&07
+
+-o-Ph
+
+1.0807
+8.0&06
+6.0E+06
+
+---- Ph/As (ae)
+--.- Ph/Cu (ae)
+
+4.0E+06
+2.0E+06 .,.....,.......,...,.....,.-.,......,,--.--..-.........-..,--1
+
+o 2 4 6 8 10 12 14 16 18 20
+Time (d)
+
+B
+1.8E+07
+
+~
+c
+
+1.6Et-07
+
+:=
+
+-e
+!
+
+1.4807
+
+eu
+
+1.2E+07
+
+C'CS
+
+1.0Er07
+
+~
+
+Cu
+
+.;
+
+-0-0
+--.-D (ae)
+--A- D/Cu (ae)
+
+eu
+a>
+
+Co
+
+H
+
+8.0E+06
+6.0Ei-06
+
+a 2 4 6 8 10 12 14 16 18 20
+Time (d)
+
+Figure 6. Hydrocarbon content during short-term incubation in an aerated system of soil artificially contaminated with diesel oil or
+phenanthrene additionally spiked with heavy metals. Five samples were aerated (ae) at a rate of 2.5 Umin. Ph: soil after
+phenanthrene addition (10 mg/g); PhAs: soil after phenanthrene (10 mg/g) and arsenic (1 mg/g) addition; PhCu: soil after
+phenanthrene (10 mg/g) and copper (1 mg/g) addition; D: soil after diesel oil addition (10 mg/g); DCu: soil after diesel oil (10 mgl
+g) and copper (1 mg/g) addition.
+
+50
+
+Dobler, Saner, and Bachofen
+
+erose. These were the substrates for which consistent
+differences were observed in the degree of substrate
+utilization between the communities. The second PC
+axis was highly correlated to the oxidation of inosine,
+D-galactonic acid lactone, D-galactose, cellobiose, glucose-l-phosphate, r-arabinose, maltose, and gentiobiose. Although the degradation rate for diesel was
+similar, parallel samples (one aerated and the other
+not) differed significantly in community analysis.
+Thus, forced aeration changed the soil community
+composition much more than the rate of diesel degradation.
+The largest shifts in the substrate utilization pattern were observed in samples contaminated with heavy
+metals. These samples also showed the lowest substrate richness and overall activity. Cu and As addition
+resulted in a loss of ability to degrade 20 to 25 substrates and hardly a gain of new ones. Again, the
+ability to degrade polymers and carbohydrates was
+mainly altered by the presence of copper or arsenic.
+The number of colony-forming units indicated that
+heavy metal-adapted microbial populations were still
+highly capable of growing on a complex medium such
+as R2A. The colonies were smaller, but their number
+had increased strongly in the presence of diesel or
+
+phenanthrene irrespective of whether Cu or As were
+added. This showed that within 3 weeks additional
+carbon sources led to excess growth of heavy metaltolerant microorganisms that can be cultivated on R2A
+medium. Particularly diesel oil, which contains a variety of hydrocarbons, led to an increased number of
+cultivable cells.
+
+Population Changes during a 1-Week
+Incubation of Soil with Hydrocarbons
+in an Agitated Aerated Soil Bioreactor
+In contrast to the previous experiments with a static
+system with soil in pots, these experiments were conducted in a sophisticated soil reactor developed for
+testing soil prior to large-scale bioremediation projects
+(Saner et al., 1996a, 1996b). Figure 8 shows the time
+course with CO 2 liberation and temperature, which is
+also a good measure of biological activity. After substrate addition (dodecane [2 gIL], naphthalene [0.5 gIL],
+and anthracene [0.5 gIL]), an initial peak in CO 2
+emerged from the soil, but within a few hours CO 2
+production ceased. CO 2 evolution recovered after adding the basal mineral medium containing trace elements and vitamins. The day-night fluctuation of the
+soil temperature indicates changes in ambient tem-
+
+0.2
+
+N
+
+o
+
+0...
+
+0
+
+~O.2
+
+US Initial
+US after 21d (ae)
+0 Dafter 21d
+13 Dafter 21d (ae)
+¢ OCu after 21d (ae)
+6- Ph after 21d
+~ Fh after 21d (ae)
+0
+
+0.4
+
+•
+
+~+
+. 7+:
+~
+1
+
+•
+~
+
+f
+
+..
+
+r~
+
+FhAs after 21d (ae)
+A1Cu after 21d (ae)
+
+r-j-i
+
+-0.4
+-0.75
+
+-0.65
+
+-0.55
+
+-0.45
+
+PC1
+Figure 7. Ordination produced from PCA (varlances-covariances matrix used) of profiles (72-h 00 590 readings on Biolog® GN
+microplates) of microbial communities from contaminated and uncontaminated samples. Mean scores of each sample for the first
+and second principal components are plotted. Error bars indicate standard deviations of three replicates. Soil description as in
+Figure 6.
+
+Population Changes of Soil Microbial Communities
+
+51
+
+mineralization of the substrates mono-methyl succinate, o-trehalose, D, i.-carnitine, r.-asparagine, M-inosital, t-phenylalanine, methyl-pyruvate, and phenyl
+ethylamine. Substrate richness was only slightly altered; all samples showed a decrease in substrates
+utilized from 67 at initiation, to 60 or 61 at the end of
+the experiment.
+
+perature in the laboratory. The addition of the mineral
+medium initiated a temperature increase due to higher
+biological activity after nutrient supply.
+Substrate utilization patterns with ON and SF-N
+plates were obtained after 1, 3, and 5 days of operation
+and compared with the initial conditions. The overall
+activity (AWCD) on the ON plates correlated well
+with respiration activity found during the remediation
+process. Ordination produced from PCA of microbial
+communities indicated a temporal trend toward lower
+values on the first and second PC (Figure 9). Evaluation of the variables that highly correlated with the first
+axis showed an increase in utilization of ~-hydroxybu­
+tyric acid, quinic acid, and L-aspartic acid during the
+remediation time. Correlation to the second axis indicated a decrease in utilization of D-melibiose as carbon
+source.
+The PCA of patterns derived from SF-N plates,
+indicative of the metabolic activity of sporulating and
+filamentous microorganisms, resulted in a different
+ordination plot (Figure 10). Only the sample taken
+after 5 days was separated from previous ones. Fungi
+on SF-N plates showed a much slower response to the
+hydrocarbon mixture than bacteria on ON plates. This
+suggested that under these conditions the effect of
+slower-growing microorganisms was observed. The
+clear separation on day 5 was caused by an increase in
+
+Discussion
+Cell number and species diversity of microorganisms
+are strongly determined by the regime of the dominating environmental factors. Without doubt, pollutants
+entering an ecosystem will have a strong influence on
+biodiversity, inducing both a loss in prevailing physiological activities and a gain of new ones. Thus, it is
+of great interest to follow the changes in microbial
+diversity during the remediation process.
+The results presented illustrate that the analysis of
+the substrate utilization pattern as exemplified by the
+Biolog" system is a rapid and simple approach to
+assess the potential functional biodiversity of soil microorganisms without the tedious isolation and identification of single community members. Samples are
+differentiated in time series or show community changes
+due to different treatments. Different temporal trends
+become apparent in the communities. PCA separates
+
+....B
+
+27.5
+
+Biolog sample
+
+0.3
+
+27.0
+0.25
+
+s::
+
+~\
+
+26.0
+
+-<;-
+
+~
+
+26.5
+
+.
+
+"\
+
+25.5
+
+0.2
+
+o
+
+~
+
+.s
+s::
+
+\
+
+(I,)
+
+\
+
+'\1
+
+(.)
+
+J
+
+0.15
+
+c
+0
+t.(
+N
+
+o
+
+25.0
+
+U
+
+0.1
+
+24.5
+
+addition of basal medium
+
+B
+
+cnight
+
+24
+
+48
+
+72
+
+B
+C*
+
+96
+
+120
+
+o
+
+144
+
+Time (h)
+
+Figure 8. Time course of soil temperature and the CO2 concentration in the reactor headspace during remediation of artificially
+hydrocarbon (HC)-contaminated soil in a closed agitated soil bioreactor (addition of dodecane, 2 giL; naphthalene, 0.5 gIL; and
+anthracene, 0.5 giL). The hydrocarbons were added 24 h and basal medium 72 h after initiation, respectively. The B indicates the
+time at which a soil sample was taken for Biolog® analysis.
+
+52
+
+Dobler, Saner, and Bachofen
+
+3.0
+2.0
+....
+
+1.0
+N
+
+U
+
+c,
+
+0.0
+
+• 2nd Day
+Initial
+
+-1.0
+
+0
+
+-2.0
+
+f
+
+-3.0
+
+-15
+
+-14
+
+-13
+
+-12
+
+Day
+
+f:.
+
+4th
+
+X
+
+6th Day
+
+-11
+
+-10
+
+-9
+
+PC1
+
+Figure 9. Ordination produced from PCA (variances-covariances matrix used) of profiles (72-h 00 590 readings on Biolog®
+GN microplates) of microbial communities extracted before
+(start) and during remediation process after 1, 3, and 5 days,
+respectively. Mean scores of each sample for the first and
+second principal components are plotted. Error bars indicate
+standard deviations of three replicates.
+
+0.1
+
+r;
+
+0.1
+
+I
+
+h
+
+H
+
+0.0
+N
+
+0
+
+e,
+
+-0.1
+
+-0.1
+
+-0.2
+-0.35
+
+•
+0
+
++
+
+Initial
+2nd Day
+
+A 4th Day
+X
+
+6th Day
+
+-0.25
+
+-0.30
+
+-0.20
+
+PC1
+
+Figure 10. Ordination produced from PCA (variances-covariances matrix used) of profiles (120-h OD590 readings on Biolog®
+SF-N microplates) of fungal communities before (start) and
+during remediation process after 1, 3, and 5 days, respectively. Mean scores of each sample for the first and second
+principal components are plotted. Error bars indicate standard
+deviation of three replicates.
+
+Population Changes of Soil Microbial Communities
+
+soil samples typically on the basis of responses that are
+high in one community and correspondingly low in
+other ones. The correlation of the carbon sources tested
+with the principal components can be used to evaluate
+the functional basis for differences among the samples.
+Additionally, patterns of overall substrate use (AWCD)
+can be viewed separately from the utilization of particular categories of substrates. This provides information at different levels of functional resolution.
+Like other culture-based procedures, the method
+is selective. It only detects activities from bacteria
+capable of growing on the substrates and the nutrient
+medium provided by Biolog". Oligotrophic microorganisms and obligate anaerobic bacteria do not respond. Furthermore, the Biolog" community assay reflects a functional potential rather than an in situ activity
+(Garland and Mills, 1991). Haack et al. (1995) showed
+that Biolog" carbon source utilization profiles of whole
+microbial communities are reproducible and unique
+for different communities, but they are not simply the
+sum of those activities exhibited by community members when tested separately. Thus, differences in substrate utilization profiles for replicate soil samples indicate real differences in community composition,
+mainly due to microscale heterogeneity in the soil.
+Comparing the microorganisms that grow in each
+Biolog" well to the total community that is present in
+the sample might help to increase the value of substrate utilization patterns for biodiversity analysis.
+Molecular methods based on DNA or 16S rRNA can
+provide an estimate of the fraction of community
+members that respond to the Biolog" assay conditions.
+Analyses of dominant nucleic acid fragments in the
+Biolog" wells by temperature gradient gel electrophoresis have been shown to give evidence for a reduction in diversity and selective enrichment of a few
+strains in the presence of the Biolog" substrates (Smalla
+et aI., 1998).
+Several statistical approaches allow the evaluation of multivariate data, such as Biolog" substrate
+utilization patterns. Here, PCA has been chosen to
+illustrate the relationships between samples concerning their catabolic potential. PCA ordination technique
+separates different samples along the first and second
+PC, which typically account for more than 80% of the
+variation in the data set. The major relationships among
+samples are visualized by examining the relative similarity of the principal component scores of their carbon
+source utilization patterns. Differences among samples
+are analyzed by evaluating the correlation of the original variables to the principal components. Other forms
+of ordination are canonical correspondence analysis
+(Bossio and Scow, 1995; Grayston et aI., 1994) or
+
+53
+
+detrended correspondence analysis (Garland, 1996a;
+Garland, 1996b), of which all have been applied successfully to establish distinctions among community
+substrate utilization profiles.
+Replicate soil samples, mean scores, and standard
+deviation among the replicates for the first and second
+PC help to evaluate whether the Biolog'" assay will
+distinguish between different samples. The length of
+error bars reflects mainly microscale spatial heterogeneity in the soil. Short incubation times after the stress
+application, for example, the addition of a pollutant, do
+not sufficiently resolve in the patterns of substrate
+utilization. However, over longer incubation times, the
+Biolog" assay allows one to follow changes in soil
+microbial communities.
+The microbial communities analyzed were all
+highly active in the presence of hydrocarbon contamination, confirming that the ability to utilize these compounds is widespread among microorganisms, even
+from environments where no hydrocarbon pollution is
+expected. Hydrocarbon-contaminated samples generally show higher metabolic potentials, when compared
+with uncontaminated samples, after the same incubation time, suggesting that microbial communities in
+soil are mainly limited by the available carbon. Often
+a high initial activity in soil samples is observed, probably due to the soil preparation, as homogenization
+and sieving enlarge the surface area and facilitate oxygen availability Therefore, the activity and substrate
+richness at the beginning of the experiments is probably overestimated.
+Heavy metals, especially copper and arsenic, had
+a drastic inhibitory effect on average activity as well as
+on the richness of the microorganisms according to the
+Biolog" analysis. Plating on rich medium, however,
+indicated that the cell number growing under these
+conditions increased. Thus, a stress-resistant population of low diversity had multiplied faster than the
+population in the control soil.
+Although aeration in a static system had no effect
+on the degradation rate of diesel or phenanthrene, the
+microbial population extracted from these soils differed greatly. Active aeration compared with oxygen
+supply by simple diffusion changed oxygen gradients
+and increased oxic sites. Thus, the degradation of hydrocarbons must have been limited by factors other
+than oxygen.
+Agitation combined with aeration greatly increases
+oxygen mass transfer within the soil (Saner et al.,
+1996a, 1996b). This suggests that oxygen was not the
+limiting factor for hydrocarbon degradation in this
+system. The addition of the basic inorganic nutrients
+supplied with trace elements and vitamins stimulated
+
+the metabolism as indicated by CO2 liberation and
+temperature increase. The fast-reacting organisms (GNplates) resulted in population changes by the second
+day, while slow-growing organisms hardly separated
+on PC analysis until day 5.
+Several approaches may help to draw more information from substrate utilization patterns between
+microbial communities:
+1. Use of additional specific carbon sources on
+Biolog MT microplates lacking the carbon
+source. Functional shifts might be more readily
+detected in contaminated samples if alternative carbon sources are selected (e.g. the contaminants or substrates that are known not to
+be generally utilized) (Insam, 1997).
+2. Continuous recording of the kinetics of the
+color formation instead of end-point measurements. Such profiles could further characterize the community change over time and increase the analytical power of the method.
+3. Strict control of the inoculation size, because
+this influences the kinetics of color development (Garland et al., 1997; Winding and
+Hendriksen, 1997), that is, by basing inoculation on equal DNA or protein in a sample.
+
+Acknowledgments
+
+e :
+
+54
+
+We thank the Swiss National Science Foundation (Swiss
+Priority Program Environment) for financial support.
+
+References
+Alef, K. 1994. Biologische Bodensanierung - Methodenbuch. 269 pp. VCH Verlagsgesellschaft: Weinheirn,
+Germany.
+Alef, K. and P. Nannipieri. (Eds.). 1995. Methods in Applied
+Soil Microbiology and Biochemistry. 576 pp. Acad.
+Press: London.
+BIOLOG. 1993. GNMicroPlate: Instructionsfor Use. Biolog,
+Inc.: Hayward, California.
+BIOLOG. 1994. Test Panels for Actinomycetes and Fungi
+and other Sporulating and Filamentous Microorganisms. Biolog, Inc.: Hayward, California.
+
+Bochner, B.R. and M.A. Savageau. 1977. Generalized Indicator Plate for Genetic, Metabolic, and Taxonomic Studies with Microorganisms. Appl. Environ. Microbiol.
+33:434-444.
+Bochner, B.R. 1989a. Sleuthing out Bacterial Identities.
+Nature 339:157-158.
+
+Bochner, B.R. 1989b. Breathprints at the Microbial Level.
+ASM News 55:536-539.
+
+Bossert, I. and R. Bartha. 1984. The Fate of Petroleum in
+Soil Ecosystems. In: Petroleum Microbiology, pp. 434-
+
+Dobler, Saner, and Bachofen
+
+476. (R.M. Atlas, Ed.). Macmillan Publishing: New
+York.
+Bossio, D.A. and K.M. Scow. 1995. Impact of Carbon and
+Flooding on the Metabolic Diversity of Microbial Communities in Soils. Appl. Environ. Microbiol. 61:40434050.
+Cerniglia, C.E., lB. Sutherland, and S.A. Crow. 1992. Fungal Metabolism of Aromatic Hydrocarbons. In: Microbial Degradation of Natural Products, pp. 193-217.
+(G. Winkelmann, Ed.). VCR Verlagsgesellschaft:
+Weinheim, Germany.
+DataMost. 1994. StatMost for Windows - Statistical Analysis and Scientific Graphics. DataMost Corporation, Salt
+Lake City.
+Engelen, B., K. Meinken, F. von Wintzingerode, H. Heuer,
+H.P. Malkomes, and H. Backhaus. 1998. Monitoring
+Impact of a Pesticide Treatment on Bacterial Soil Communities by Metabolic and Genetic Fingerprinting in
+Addition to Conventional Testing Procedures. Appl.
+Environ. Microbiol. 64:2814-2821.
+
+Eschenbach, A., M. Kaestner, R. Bierl, G. Schaefer, and B.
+Mahro. 1994. Evaluation of a New, Effective Method to
+Extract Polycyclic Aromatic Hydrocarbons from Soil
+Samples. Chemosphere 28:683-692.
+Fuenmayor, C.S.L. and V. Rodriguez Lemoine. 1992. Characterization of Polycyclic Aromatic Hydrocarbons
+Degradative Soil Pseudomonas. Acta Cientifica
+Venezolana 43:349-354.
+
+Garland, lL. and A.L. Mills. 1991. Classification and Characterization of Heterotrophic Microbial Communities
+on the Basis of Patterns of Community-Level SoleCarbon-Source Utilization. Appl. Environ. Microbiol.
+57:2351-2359.
+Garland, J.L. 1996a. Analytical Approaches to the Characterization of Samples of Microbial Communities Using
+Patterns of Potential C Source Utilization. Soil Biol.
+Biochem. 28:213-221.
+
+Garland, lL. 1996b. Patterns of Potential C Source Utilization by Rhizosphere Communities. Soil Biol. Biochem.
+28:223-230.
+Garland, lL., K.L. Cook, C.A. Loader, and B.A. Hungate.
+1997. The Influence of Microbial Community Structure
+and Function on Community-Level Physiological Profiles. In: Microbial Communities, Functional versus
+Structural Approaches, pp. 171-183. (H. Insam and A.
+Rangger, Eds.). Springer: Berlin.
+Gauch, H.G. 1982. Multivariate Analysis in Community
+Ecology. 298 pp. Cambridge University Press: Cambridge.
+Grayston, S.l, C.D. Campell, andD. Vaughan. 1994. Microbial Diversity in the Rhizospheres of Different Tree
+Species. In: Soil Biota-Management in Sustainable
+Farming Systems, pp. 155-157. (C.E. Parkhurst, B.M.
+Doube, W. S. R. Gupta, and P. R. Grace, Eds.). CSIRO
+Press: Adelaide.
+Haack, S.K., H. Garchow, MJ. Klug, and L. Forney. 1995.
+Analysis of Factors Affecting the Accuracy, Reproduc-
+
+Population Changes of Soil Microbial Communities
+
+ibility, and Interpretation of Microbial Community
+Carbon Source Utilization Patterns. Appl. Environ.
+Microbiol. 61:1458-1468.
+
+Insam, H. 1997. A New Set of Substrates Proposed for
+Community Characterization in Environmental Samples.
+In: Microbial Communities, Functional versus Structural Approaches, pp. 259-260. (H. Insam and A.
+Rangger, Eds.). Springer: Berlin.
+Kampfer, P., M. Steiof, and W. Dott. 1991. Microbiological
+Characterization of a Fuel-Oil Contaminated Site Including Numerical Identification of Heterotrophic Water and Soil Bacteria. Microb. Ecol. 21:227-251.
+Klein, J. 1992. Labormethoden zur Beurteilung der
+Biologischen Bodensanierung. Zweiter Bericht des
+Interdisziplinaren Arbeitskreises UmweltbiotechnologieBoden Ad-hoc-Arbeitsgrupppe Labormethoden zur
+Beurteilung der biologischen Bodensanierung.
+DECHEMA, Frankfurt am Main.
+Knight, B.P., S.P. McGrath, and A.M. Chaudri. 1997. Biomass Carbon Measurements and Substrate Utilization
+Patterns of Microbial Populations from Soils Amended
+with Cadmium, Copper, or Zinc. Appl. Environ.
+Microbiol. 63:39-43.
+
+Miethe, D., V. Riis, and W. Babel. 1994. The Relationship
+Between the Microbial Activity of the Autochthonous
+Microorganisms of Pristine and Contaminated Soils
+and Their Potential for the Degradation of Mineral Oil
+Hydrocarbons. Acta Biotechnol. 14:131-140.
+Pfennig, N. and K.D. Lippert. 1966. Uber das Vitamin B12Bediirfnis phototropher Schwefelbakterien. Arch.
+Microbiol. 55: 245-256.
+Pileou, E.C. 1984. The Interpretation of Ecological Data.
+263 pp., New York: John Wiley.
+Reasoner, D.l and E.E. Geldreich. 1985. A New Medium
+for the Enumeration and Subculture of Bacteria from
+Potable Water. Appl. Environ. Microbiol. 49:1-7.
+Saner, M., R. Bachofen, and K. Schneider. 1996a. Simulation of Onsite Vacuum Heap Aeration and Soil Surface
+Enlargement by a Closed Agitated Soil Bioreactor.
+Microbiol. Res. 151:29-35.
+
+Saner, M., D. Bollier, K. Schneider, andR. Bachofen. 1996b.
+Mass Transfer Improvement of Contaminants and Nutrients in Soil in a New Type of Closed Soil Bioreactor.
+J. Biotechnol. 48:25-35.
+
+Skladany, G.J. and F.B. Metting Jr. 1993. Bioremediation of
+Contaminated Soil. In: Soil Microbial Ecology, Applications in Agricultural and Environmental Management, pp. 483-513. (F. B. Metting n., Ed.). New York:
+
+Marcel Dekker, Inc.
+Smalla, K., U. Wachtendorf, H. Heuer, W.T. Liu, and L.
+Forney. 1998. Analysis of BIOLOG GN Substrate Utilization Patterns by Microbial Communities. Appl.
+Environ. Microbiol. 64:1220-1225.
+
+Song, H.G., T.A. Pederson, and R. Bartha. 1986. Hydrocarbon Mineralization in Soil: Relative Bacterial and Fungal Contribution. Soil Biol. Biochem. 18: 109-111.
+
+55
+
+Stringfellow, W.T. and M.D. Aitken. 1994. Comparative
+Physiology of Phenanthrene Degradation by Two Dissimilar Pseudomonades Isolated from a Creosote-Contaminated Soil. Can. J. Microbiol. 40:432-438.
+Winding, A. 1994. Fingerprinting Bacterial Soil Communities Using Biolog" Microtitre Plates. In: Beyond the
+Biomass. Compositional and Functional Analysis of
+Soil Microbial Communities, pp. 85-93. (K. Ritz, l
+Dighton, and K.E. Giller, Eds.). John Wiley & Sons:
+Chichester, UK.
+Winding, A. and N.B. Hendriksen. 1997. Biolog" Substrate
+Utilization Assay for Metabolic Fingerprints of Soil
+
+56
+
+Bacteria: Incubation Effects. In: Microbial Communities, Functional Versus Structural Approaches, pp. 195205. CR. Insam and A. Rangger, Eds.). Springer: Berlin.
+Wunsche, L., L. Briiggemann, and W. Babel. 1995. Determination of Substrate Utilization Patterns of Soil Microbial Communities - An Approach to Assess Population Changes after Hydrocarbon Pollution. FEMS
+Microbial. Eco!. 17:295-305.
+Zak, r.c, M.R. Willig, D.L. Moorhead, and H.G. Wildman.
+1994. Functional Diversity of Microbial Communities:
+A Quantitative Approach. Soil Biol. Biochem. 26: 11011108.
+
+Dobler, Saner, and Bachofen
+
+

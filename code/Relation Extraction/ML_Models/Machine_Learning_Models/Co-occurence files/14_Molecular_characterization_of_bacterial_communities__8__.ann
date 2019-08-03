@@ -1,0 +1,79 @@
+T1	Microbes 150 160	consortium
+T2	Microbes 323 342	Deltaproteobacteria
+T3	Environment 248 252	sand
+T4	Property 306 322	sulfate-reducing
+T5	Microbes 505 518	Desulfovibrio
+T6	Property 570 578	reducers
+T7	Microbes 701 718	Desulfovibrio spp
+T8	Environment 781 808	sulfate-reducing conditions
+T9	ReactionOrProcess 751 774	syntrophic associations
+T10	Microbes 1037 1050	Desulfovibrio
+T11	ReactionOrProcess 1103 1112	oxidation
+T12	Environment 1187 1191	sand
+T13	Substrate 1361 1372	methanogens
+T14	Microbes 1502 1512	consortium
+T15	Environment 1497 1501	sand
+T16	ReactionOrProcess 1545 1556	degradation
+T17	Nutrient 1628 1634	carbon
+T18	Microbes 1701 1711	consortium
+T19	Environment 1696 1700	sand
+T20	Property 1813 1822	aromatics
+T21	ReactionOrProcess 1805 1812	degrade
+T22	ReactionOrProcess 1864 1871	oxidize
+T23	Microbes 1881 1899	Desulfobacteraceae
+T24	Microbes 1978 1988	consortium
+T25	Environment 1973 1977	sand
+T26	Substrate 2062 2069	toluene
+T27	Substrate 2071 2077	phenol
+T28	Property 1941 1949	aromatic
+T29	ReactionOrProcess 1920 1931	degradation
+T30	Microbes 2193 2212	Deltaproteobacteria
+T31	Property 2176 2192	sulfate-reducing
+T32	ReactionOrProcess 2261 2270	oxidation
+T33	ReactionOrProcess 2317 2346	anaerobic benzene degradation
+T34	ReactionOrProcess 2282 2299	sulfate reduction
+T35	Microbes 2382 2392	Syntrophus
+T36	Substrate 2449 2463	Syntrophus spp
+T37	Environment 2720 2729	microcosm
+T38	Substrate 2571 2582	methanogens
+T39	Property 2559 2567	reducers
+T40	ReactionOrProcess 2689 2698	oxidation
+T41	Microbes 2963 2982	enrichment cultures
+T42	Environment 3134 3161	sulfate-reducing conditions
+T43	Environment 3111 3127	marine sediments
+T44	Microbes 3220 3239	Deltaproteobacteria
+T45	Microbes 3167 3177	consortium
+T46	Substrate 3366 3373	benzene
+T47	ReactionOrProcess 3374 3388	mineralization
+T48	Microbes 3554 3564	consortium
+T49	Property 3518 3534	sulfate-reducing
+R1	FoundIn Arg1:T2 Arg2:T3
+R2	Of Arg1:T2 Arg2:T4
+R3	Of Arg1:T5 Arg2:T6
+R4	OccursIn Arg1:T9 Arg2:T8
+R5	CarriedOn Arg1:T11 Arg2:T10
+R6	FoundIn Arg1:T14 Arg2:T15
+R7	CarriedOn Arg1:T16 Arg2:T14
+R8	OccursIn Arg1:T16 Arg2:T15
+R9	FoundIn Arg1:T18 Arg2:T19
+R10	FoundIn Arg1:T23 Arg2:T25
+R11	FoundIn Arg1:T24 Arg2:T25
+R12	Of Arg1:T23 Arg2:T28
+R13	Of Arg1:T24 Arg2:T28
+R14	ActOn Arg1:T23 Arg2:T26
+R15	ActOn Arg1:T23 Arg2:T27
+R16	ActOn Arg1:T24 Arg2:T26
+R17	ActOn Arg1:T24 Arg2:T27
+R18	CarriedOn Arg1:T29 Arg2:T23
+R19	CarriedOn Arg1:T29 Arg2:T24
+R20	CarriedOn Arg1:T29 Arg2:T26
+R21	CarriedOn Arg1:T29 Arg2:T27
+R22	OccursIn Arg1:T29 Arg2:T25
+R23	Of Arg1:T30 Arg2:T31
+R24	CarriedOn Arg1:T32 Arg2:T30
+R25	CarriedOn Arg1:T33 Arg2:T30
+R26	CarriedOn Arg1:T34 Arg2:T30
+R27	CarriedOn Arg1:T40 Arg2:T38
+R28	OccursIn Arg1:T40 Arg2:T37
+R29	CarriedOn Arg1:T47 Arg2:T46
+R30	Of Arg1:T48 Arg2:T49

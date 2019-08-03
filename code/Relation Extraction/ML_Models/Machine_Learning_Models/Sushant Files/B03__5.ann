@@ -1,0 +1,47 @@
+T1	Microbes 113 126	Geobacter spp
+T2	ReactionOrProcess 67 72	PLFAs
+T3	Property 158 171	gram-negative
+T4	Environment 289 308	uncontaminated site
+T5	Environment 241 249	sediment
+T6	ReactionOrProcess 226 235	extracted
+T7	ReactionOrProcess 220 225	PLFAs
+T8	Environment 336 344	sediment
+T9	Environment 386 405	triplicate sediment
+T10	ReactionOrProcess 429 433	DGGE
+T11	ReactionOrProcess 504 508	DGGE
+T12	ReactionOrProcess 662 675	DGGE analysis
+T13	Environment 855 864	sediments
+T14	Property 875 886	contaminant
+T15	ReactionOrProcess 786 790	DGGE	
+T16	ReactionOrProcess 908 923	DNA extractions
+T17	Environment 1057 1076	uncontaminated site
+T18	ReactionOrProcess 1002 1015	DGGE analysis	
+T19	Property 1091 1108	benzene-oxidizing
+T20	Environment 1353 1372	uncontaminated site
+T21	ReactionOrProcess 1310 1339	anaerobic benzene degradation
+T22	ReactionOrProcess 1411 1415	DGGE
+T23	Environment 1693 1712	uncontaminated site
+T24	ReactionOrProcess 1652 1656	DGGE
+T25	Environment 2035 2054	uncontaminated site
+T26	Environment 2266 2285	uncontaminated site
+T27	ReactionOrProcess 2221 2225	DGGE
+T28	Microbes 2432 2446	proteobacteria
+T29	Microbes 2398 2417	Geothrix fermentans
+T30	Microbes 2364 2372	Gthrx-84
+T31	Substrate 2577 2584	toluene
+T32	Property 2585 2593	degrader
+T33	Microbes 2869 2888	enrichment cultures
+T34	Environment 2808 2827	uncontaminated site
+T35	Property 2851 2868	benzene-oxidizing
+R1	CarriedOn Arg1:T2 Arg2:T1
+R2	OccursIn Arg1:T6 Arg2:T4
+R3	OccursIn Arg1:T6 Arg2:T5
+R5	OccursIn Arg1:T7 Arg2:T5
+R9	OccursIn Arg1:T18 Arg2:T17
+R10	OccursIn Arg1:T21 Arg2:T20
+R11	OccursIn Arg1:T24 Arg2:T23
+R13	Of_No Arg1:T32 Arg2:T28
+R19	FoundIn Arg1:T33 Arg2:T34
+R20	Of Arg1:T35 Arg2:T33
+T36	Microbes 172 180	bacteria
+R4	Of Arg1:T3 Arg2:T36	

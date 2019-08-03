@@ -1,0 +1,61 @@
+T1	Environment 204 215	groundwater
+T2	Environment 225 235	microcosms
+T3	Property 311 323	contaminants
+T4	ReactionOrProcess 292 303	degradation
+T5	ReactionOrProcess 282 303	microbial degradation
+T6	Microbes 334 351	Desulfosporosinus
+T7	Microbes 445 462	Desulfosporosinus
+T8	Environment 368 373	plume
+T9	Environment 435 440	plume
+T10	Property 383 399	sulfate-reducing
+T11	Property 626 642	sulfate-reducing
+T12	ReactionOrProcess 588 592	PLFA
+T13	Microbes 694 711	Desulfosporosinus
+T14	Environment 668 673	plume
+T15	Environment 1101 1112	groundwater
+T16	Microbes 1212 1229	Desulfosporosinus
+T17	Microbes 1429 1446	Desulfosporosinus
+T18	Microbes 1531 1548	Desulfosporosinus
+T19	Environment 1481 1492	groundwater
+T20	Microbes 1559 1576	Desulfosporosinus
+T21	Microbes 1768 1785	Desulfosporosinus
+T22	Environment 1853 1864	groundwater
+T23	Environment 1835 1840	plume
+T24	Environment 1887 1892	plume
+T25	Environment 1812 1817	water
+T26	Environment 1966 1977	groundwater
+T27	Environment 2056 2083	sulfate-reducing conditions
+T28	Environment 1995 2000	plume
+T29	Environment 2116 2121	plume
+T30	Environment 2088 2093	water
+T31	Substrate 2041 2048	toluene
+T32	Property 2056 2072	sulfate-reducing
+T33	Environment 2169 2180	groundwater
+T34	Environment 2283 2290	aquifer
+T35	Environment 2417 2424	aquifer
+T36	Substrate 2452 2473	aromatic hydrocarbons
+T37	Substrate 2452 2473	aromatic hydrocarbons
+T38	Substrate 2461 2473	hydrocarbons
+T39	Substrate 2461 2473	hydrocarbons
+T40	Property 2452 2460	aromatic
+T41	ReactionOrProcess 2581 2594	hybridization
+T42	Environment 2965 2976	groundwater
+T43	Substrate 2993 3002	crude oil
+T44	Substrate 2999 3002	oil
+T45	Property 2884 2903	denaturing gradient
+T46	ReactionOrProcess 2884 2923	denaturing gradient gel electrophoresis
+T47	ReactionOrProcess 2908 2923	electrophoresis
+T48	ReactionOrProcess 2876 2879	PCR
+T49	ReactionOrProcess 2884 2894	denaturing
+R1	CarriedOn Arg1:T46 Arg2:T43
+R2	CarriedOn Arg1:T46 Arg2:T44
+R3	CarriedOn Arg1:T47 Arg2:T43
+R4	CarriedOn Arg1:T47 Arg2:T44
+R5	CarriedOn Arg1:T48 Arg2:T43
+R6	CarriedOn Arg1:T48 Arg2:T44
+R7	CarriedOn Arg1:T49 Arg2:T43
+R8	CarriedOn Arg1:T49 Arg2:T44
+T50	Environment 3136 3147	groundwater
+T51	Nutrient 3218 3236	electron acceptors
+T52	Property 3379 3395	sulfate-reducing
+T53	Environment 3440 3451	groundwater

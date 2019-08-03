@@ -1,0 +1,96 @@
+T1	Substrate 20 27	alkanes
+T2	Substrate 89 98	n-alkanes
+T3	Property 217 226	saturated
+T4	Property 316 325	saturated
+T5	Property 472 482	saturation
+T6	Substrate 639 646	alkanes
+T7	ReactionOrProcess 716 725	reduction
+T8	Substrate 1124 1142	p-isopropyltoluene
+T9	Substrate 1062 1083	Aromatic hydrocarbons
+T10	Substrate 1062 1082	Aromatic hydrocarbon
+T11	Substrate 1062 1083	Aromatic hydrocarbons
+T12	Substrate 1185 1196	naphthalene
+T13	Substrate 1071 1083	hydrocarbons
+T14	Substrate 1071 1083	hydrocarbons
+T15	Property 1062 1070	Aromatic
+T16	Substrate 1304 1311	methane
+T17	Substrate 1251 1262	hydrocarbon
+T18	ReactionOrProcess 1269 1291	biological degradation
+T19	ReactionOrProcess 1280 1291	degradation
+T20	Substrate 1382 1389	methane
+T21	Substrate 1506 1513	methane
+T22	Nutrient 1619 1625	carbon
+T23	Microbes 1707 1714	archaea
+T24	Substrate 1656 1663	methane
+T25	Property 1688 1706	strictly anaerobic
+T26	ReactionOrProcess 1909 1921	fermentation
+T27	Microbes 1966 1993	methanogenic microorganisms
+T28	Substrate 2047 2054	methane
+T29	Property 1966 1978	methanogenic
+T30	Property 1966 1978	methanogenic
+T31	Substrate 2288 2295	methane
+T32	Property 2237 2243	stable
+T33	Nutrient 2254 2260	carbon
+T34	Substrate 2322 2332	Methanogen
+T35	Property 2322 2334	Methanogenic
+T36	Property 2322 2334	Methanogenic
+T37	Nutrient 2398 2404	carbon
+T38	Nutrient 2442 2460	electron acceptors
+T39	Substrate 2479 2501	saturated hydrocarbons
+T40	Substrate 2489 2501	hydrocarbons
+T41	Substrate 2548 2555	methane
+T42	Substrate 2489 2501	hydrocarbons
+T43	Substrate 2479 2501	saturated hydrocarbons
+T44	Property 2479 2488	saturated
+T45	Property 2467 2475	aromatic
+T46	Substrate 2574 2580	ethane
+T47	Substrate 2600 2607	alkanes
+T48	Substrate 2785 2797	hydrocarbons
+T49	Substrate 2757 2768	methanogens
+T50	Substrate 2785 2797	hydrocarbons
+T51	Property 2823 2837	concentrations
+T52	Substrate 2839 2860	Aromatic hydrocarbons
+T53	Substrate 2839 2859	Aromatic hydrocarbon
+T54	Substrate 2839 2860	Aromatic hydrocarbons
+T55	Substrate 2848 2860	hydrocarbons
+T56	Substrate 2848 2860	hydrocarbons
+T57	Property 2839 2847	Aromatic
+T58	ReactionOrProcess 2883 2905	biological degradation
+T59	ReactionOrProcess 2894 2905	degradation
+T60	Substrate 3045 3052	toluene
+T61	Substrate 2942 2955	phenylacetate
+T62	Substrate 3001 3014	phenylalanine
+T63	Substrate 3321 3341	aromatic hydrocarbon
+T64	Substrate 3330 3341	hydrocarbon
+T65	Property 3321 3329	aromatic
+T66	ReactionOrProcess 3347 3358	degradation
+T67	ReactionOrProcess 3247 3261	methanogenesis
+R1	CarriedOn Arg1:T67 Arg2:T63
+R2	CarriedOn Arg1:T67 Arg2:T64
+T68	Environment 3518 3534	marine sediments
+T69	Environment 3525 3534	sediments
+T70	Environment 3518 3524	marine
+T71	Environment 3518 3534	marine sediments
+T72	Substrate 3397 3432	Saturated and aromatic hydrocarbons
+T73	Substrate 3411 3432	aromatic hydrocarbons
+T74	Substrate 3397 3432	Saturated and aromatic hydrocarbons
+T75	Substrate 3411 3432	aromatic hydrocarbons
+T76	Substrate 3420 3432	hydrocarbons
+T77	Substrate 3420 3432	hydrocarbons
+T78	Property 3397 3406	Saturated
+T79	Property 3411 3419	aromatic
+T80	Substrate 3544 3563	intense hydrocarbon
+T81	Substrate 3552 3563	hydrocarbon
+T82	Substrate 3603 3606	oil
+T83	ReactionOrProcess 3615 3628	accumulations
+T84	Substrate 3634 3668	Saturated and aromatic hydrocarbon
+T85	Substrate 3634 3669	Saturated and aromatic hydrocarbons
+T86	Substrate 3648 3669	aromatic hydrocarbons
+T87	Substrate 3634 3669	Saturated and aromatic hydrocarbons
+T88	Substrate 3648 3669	aromatic hydrocarbons
+T89	Substrate 3657 3669	hydrocarbons
+T90	Substrate 3657 3669	hydrocarbons
+T91	Substrate 3708 3711	oil
+T92	Property 3634 3643	Saturated
+T93	Property 3634 3642	Saturate
+T94	Property 3648 3656	aromatic

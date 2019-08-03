@@ -1,0 +1,48 @@
+T1	ReactionOrProcess 252 281	anaerobic toluene degradation
+T2	ReactionOrProcess 381 391	replicates
+T3	Property 902 911	aromatics
+T4	ReactionOrProcess 800 811	degradation
+T5	ReactionOrProcess 929 942	hybridization
+T6	Nutrient 726 732	Carbon
+T7	Nutrient 743 749	carbon
+T8	Nutrient 823 829	carbon
+T9	Environment 1075 1080	plume
+T10	Substrate 1004 1007	lip
+T11	Substrate 1197 1208	various oil
+T12	ReactionOrProcess 1182 1193	degradation
+T13	Enzyme 1353 1374	methane monooxygenase
+T14	Environment 1396 1401	plume
+T15	Microbes 1474 1488	Methanoculleus
+T16	Environment 1567 1576	oil plume
+T17	Environment 1719 1724	plume
+T18	Enzyme 1860 1881	methane monooxygenase
+T19	Environment 1891 1896	plume
+T20	Substrate 1929 1938	Petroleum
+T21	Substrate 2015 2018	oil
+T22	Nutrient 1971 1979	nitrogen
+T23	Nutrient 1920 1928	Nitrogen
+T24	Environment 2299 2304	plume
+T25	Substrate 2208 2215	ammonia
+T26	ReactionOrProcess 2159 2168	reduction
+T27	ReactionOrProcess 2553 2568	denitrification
+T28	Environment 2857 2866	oil plume
+T29	Environment 3242 3247	plume
+T30	Environment 3358 3363	plume
+T31	Substrate 3869 3876	nitrite
+T32	Substrate 4085 4092	nitrite
+T33	Substrate 4298 4305	nitrite
+T34	Substrate 4440 4447	nitrite
+T35	Substrate 3836 3843	nitrate
+T36	Substrate 4008 4015	nitrate
+T37	Substrate 4246 4253	nitrate
+T38	ReactionOrProcess 4049 4064	denitrification
+T39	ReactionOrProcess 4199 4214	denitrification
+T40	ReactionOrProcess 4349 4358	reduction
+T41	ReactionOrProcess 3919 3928	reduction
+T42	Nutrient 4362 4370	ammonium
+T43	Environment 4821 4826	plume
+T44	Environment 4615 4620	plume
+T45	Substrate 4547 4553	Sulfur
+T46	ReactionOrProcess 4562 4571	reduction
+T47	Microbes 4982 4993	Clostridium
+R1	FoundIn Arg1:T15 Arg2:T16

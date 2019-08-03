@@ -1,0 +1,57 @@
+T1	Substrate 37 46	n-alkanes
+T2	ReactionOrProcess 20 29	reduction
+R1	CarriedOn Arg1:T2 Arg2:T1
+T3	Substrate 107 115	n-alkane
+T4	Substrate 205 214	n-alkanes
+T5	ReactionOrProcess 188 197	reduction
+R2	CarriedOn Arg1:T5 Arg2:T4
+T6	Substrate 313 322	n-alkanes
+T7	Property 268 282	concentrations
+T8	Substrate 441 449	n-alkane
+T9	Substrate 351 360	n-alkanes
+T10	Substrate 450 459	tridecane
+T11	Substrate 508 517	n-alkanes
+T12	Substrate 689 698	n-alkanes
+T13	ReactionOrProcess 674 685	degradation
+R3	CarriedOn Arg1:T13 Arg2:T12
+T14	Environment 960 964	soil
+T15	Substrate 881 890	petroleum
+T16	Substrate 891 903	hydrocarbons
+T17	Substrate 891 903	hydrocarbons
+T18	Substrate 881 903	petroleum hydrocarbons
+T19	ReactionOrProcess 860 877	rapid degradation
+T20	ReactionOrProcess 866 877	degradation
+R4	CarriedOn Arg1:T19 Arg2:T15
+R5	CarriedOn Arg1:T19 Arg2:T16
+R6	CarriedOn Arg1:T19 Arg2:T17
+R7	CarriedOn Arg1:T19 Arg2:T18
+R8	CarriedOn Arg1:T20 Arg2:T15
+R9	CarriedOn Arg1:T20 Arg2:T16
+R10	CarriedOn Arg1:T20 Arg2:T17
+R11	CarriedOn Arg1:T20 Arg2:T18
+T21	ReactionOrProcess 980 991	degradation
+T22	Environment 1252 1256	soil
+T23	ReactionOrProcess 1078 1084	T-RFLP
+T24	ReactionOrProcess 1100 1106	T-RFLP
+T25	Environment 1405 1421	landfarming soil
+T26	Environment 1307 1319	soil samples
+T27	Environment 1342 1354	control soil
+T28	Environment 1329 1354	non-polluted control soil
+T29	Environment 1307 1311	soil
+T30	Environment 1417 1421	soil
+T31	Environment 1350 1354	soil
+T32	ReactionOrProcess 1278 1287	extracted
+T33	Environment 1545 1561	landfarming soil
+T34	Environment 1557 1561	soil
+T35	Substrate 1528 1537	n-alkanes
+T36	Environment 1591 1595	soil
+T37	Environment 1835 1839	soil
+T38	ReactionOrProcess 1774 1780	T-RFLP
+T39	ReactionOrProcess 2087 2093	T-RFLP
+T40	Environment 2318 2330	soil samples
+T41	Environment 2318 2322	soil
+T42	ReactionOrProcess 2287 2293	T-RFLP
+T43	Environment 2480 2484	soil
+T44	ReactionOrProcess 2416 2422	T-RFLP
+T45	ReactionOrProcess 2502 2508	T-RFLP
+T46	ReactionOrProcess 3117 3123	T-RFLP

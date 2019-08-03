@@ -1,0 +1,184 @@
+T1	Environment 0 20	Contaminated aquifer
+T2	Environment 0 21	Contaminated aquifers
+T3	Environment 13 21	aquifers
+T4	Substrate 74 81	benzene
+T5	ReactionOrProcess 63 93	syntrophic benzene degradation
+T6	ReactionOrProcess 82 93	degradation
+T7	Nutrient 145 162	electron acceptor
+T8	Environment 373 378	plume
+T9	Substrate 255 262	benzene
+T10	Substrate 365 372	benzene
+T11	Substrate 245 262	anaerobic benzene
+T12	Property 400 406	stable
+T13	ReactionOrProcess 245 274	anaerobic benzene degradation
+T14	ReactionOrProcess 263 274	degradation
+T15	Nutrient 299 316	electron acceptor
+T16	Environment 588 609	contaminated aquifers
+T17	Environment 601 609	aquifers
+T18	Substrate 565 572	benzene
+T19	Substrate 679 686	benzene
+T20	Substrate 555 572	anaerobic benzene
+T21	Substrate 669 686	anaerobic benzene
+T22	ReactionOrProcess 555 584	anaerobic benzene degradation
+T23	ReactionOrProcess 669 698	anaerobic benzene degradation
+T24	ReactionOrProcess 645 658	fractionation
+T25	ReactionOrProcess 573 584	degradation
+T26	ReactionOrProcess 687 698	degradation
+T27	Environment 773 784	groundwater
+T28	Property 712 728	sulfate-reducing
+T29	Microbes 888 906	enrichment culture
+T30	Substrate 993 1000	benzene
+T31	Substrate 945 958	Thermotogales
+T32	ReactionOrProcess 1019 1027	degraded
+T33	ReactionOrProcess 888 898	enrichment
+R1	CarriedOn Arg1:T33 Arg2:T30
+T34	Substrate 1029 1036	Benzene
+T35	ReactionOrProcess 1037 1048	degradation
+T36	Nutrient 1178 1182	iron
+T37	Nutrient 1206 1223	electron acceptor
+T38	Substrate 1361 1368	benzene
+T39	ReactionOrProcess 1346 1383	Iron-dependent benzene mineralization
+T40	ReactionOrProcess 1369 1383	mineralization
+T41	Nutrient 1346 1350	Iron
+T42	Environment 1746 1753	aquifer
+T43	Environment 1570 1578	aquifers
+T44	Substrate 1600 1607	benzene
+T45	Substrate 1680 1689	crude oil
+T46	Substrate 1686 1689	oil
+T47	ReactionOrProcess 1588 1619	iron-driven benzene degradation
+T48	ReactionOrProcess 1608 1619	degradation
+T49	Environment 1866 1877	groundwater
+T50	Environment 1853 1861	sediment
+T51	Environment 1828 1838	microcosms
+T52	Environment 1914 1921	aquifer
+T53	Substrate 1777 1784	Benzene
+T54	ReactionOrProcess 1785 1796	degradation
+T55	ReactionOrProcess 1800 1814	mineralization
+T56	Environment 2117 2122	plume
+T57	Environment 2137 2147	microcosms
+T58	Substrate 2030 2037	benzene
+T59	ReactionOrProcess 2038 2049	degradation
+T60	Microbes 2294 2313	enrichment cultures
+T61	Environment 2318 2326	sediment
+T62	ReactionOrProcess 2294 2304	enrichment
+T63	Microbes 2465 2484	enrichment cultures
+T64	Microbes 2515 2529	Geobacteraceae
+T65	Environment 2451 2460	sediments
+T66	Environment 2430 2460	benzene-mineralizing sediments
+T67	Environment 2430 2460	benzene-mineralizing sediments
+T68	Substrate 2533 2540	benzene
+T69	ReactionOrProcess 2465 2475	enrichment
+T70	ReactionOrProcess 2541 2555	mineralization
+R2	CarriedOn Arg1:T69 Arg2:T64
+R3	CarriedOn Arg1:T69 Arg2:T68
+T71	Microbes 2657 2676	enrichment cultures
+T72	Microbes 2588 2602	Geobacteraceae
+T73	Environment 2691 2699	landfill
+T74	ReactionOrProcess 2657 2667	enrichment
+T75	Microbes 2768 2782	Geobacteraceae
+T76	Environment 2861 2878	contaminated site
+T77	Microbes 2970 2984	Peptococcaceae
+T78	Substrate 3019 3030	13C-benzene
+T79	Microbes 3145 3159	Actinobacteria
+T80	Microbes 3109 3125	Desulfobulbaceae
+T81	Microbes 3272 3286	Peptococcaceae
+T82	Substrate 3208 3215	benzene
+T83	Substrate 3312 3319	benzene
+T84	Environment 3569 3580	groundwater
+T85	Environment 3548 3557	sediments
+T86	Environment 3500 3510	microcosms
+T87	Environment 3562 3580	anoxic groundwater
+T88	Environment 3523 3557	hydrocarbon-contaminated sediments
+T89	Environment 3356 3372	nitrate-reducing
+T90	Environment 3523 3557	hydrocarbon-contaminated sediments
+T91	Substrate 3431 3438	benzene
+T92	Substrate 3330 3337	Benzene
+T93	Substrate 3464 3471	nitrate
+T94	Property 3523 3547	hydrocarbon-contaminated
+T95	ReactionOrProcess 3425 3450	first benzene degradation
+T96	ReactionOrProcess 3338 3349	degradation
+T97	ReactionOrProcess 3439 3450	degradation
+T98	Nutrient 3475 3492	electron acceptor
+R4	CarriedOn Arg1:T95 Arg2:T91
+R5	CarriedOn Arg1:T95 Arg2:T93
+R6	CarriedOn Arg1:T96 Arg2:T91
+R7	CarriedOn Arg1:T96 Arg2:T93
+R8	CarriedOn Arg1:T97 Arg2:T91
+R9	CarriedOn Arg1:T97 Arg2:T93
+T99	Substrate 3635 3642	benzene
+T100	Substrate 3709 3716	benzene
+T101	Substrate 3732 3739	benzene
+T102	Substrate 3797 3804	benzene
+T103	Substrate 3688 3695	nitrate
+T104	Substrate 3582 3589	Nitrate
+T105	ReactionOrProcess 3700 3708	degraded
+T106	ReactionOrProcess 3643 3654	degradation
+T107	Nutrient 3766 3772	carbon
+R10	CarriedOn Arg1:T106 Arg2:T103
+T108	Environment 3950 3961	groundwater
+T109	Environment 3915 3925	microcosms
+T110	Environment 3943 3961	anoxic groundwater
+T111	Environment 3865 3881	nitrate-reducing
+T112	Environment 3934 3938	soil
+T113	Substrate 3839 3846	Benzene
+T114	ReactionOrProcess 3847 3858	degradation
+T115	Microbes 4054 4073	enrichment cultures
+T116	Property 4029 4035	stable
+T117	ReactionOrProcess 4054 4064	enrichment
+T118	Substrate 4246 4253	benzene
+T119	Substrate 4208 4215	benzene
+T120	Substrate 4178 4185	benzene
+T121	Substrate 4313 4320	nitrite
+T122	Substrate 4292 4299	nitrate
+T123	ReactionOrProcess 4300 4309	reduction
+T124	ReactionOrProcess 4254 4265	degradation
+T125	Nutrient 4218 4224	carbon
+T126	Environment 4384 4400	nitrate-reducing
+T127	Substrate 4571 4578	nitrate
+T128	Property 4460 4472	methanogenic
+T129	Property 4460 4472	methanogenic
+T130	Property 4440 4456	sulfate-reducing
+T131	ReactionOrProcess 4491 4502	enrichments
+T132	ReactionOrProcess 4548 4553	redox
+T133	Microbes 4810 4823	Pelotomaculum
+T134	Microbes 4788 4802	Peptococcaceae
+T135	Microbes 4728 4746	Betaproteobacteria
+T136	Microbes 4768 4781	Dechloromonas
+T137	Microbes 4755 4763	Azoarcus
+T138	ReactionOrProcess 4665 4674	incubated
+R11	CarriedOn Arg1:T138 Arg2:T133
+R12	CarriedOn Arg1:T138 Arg2:T134
+R13	CarriedOn Arg1:T138 Arg2:T136
+T139	Substrate 5038 5045	benzene
+T140	Property 5046 5054	degrader
+T141	ReactionOrProcess 5106 5116	incubation
+T142	Nutrient 4950 4956	carbon
+T143	Nutrient 4933 4937	iron
+T144	Nutrient 4968 4985	electron acceptor
+T145	Environment 5319 5327	sediment
+T146	Environment 5328 5338	microcosms
+T147	Substrate 5296 5303	benzene
+T148	Substrate 5123 5130	Benzene
+T149	Substrate 5178 5185	nitrate
+T150	Substrate 5286 5303	anaerobic benzene
+T151	ReactionOrProcess 5286 5315	anaerobic benzene degradation
+T152	ReactionOrProcess 5131 5142	degradation
+T153	ReactionOrProcess 5304 5315	degradation
+T154	Nutrient 5211 5217	carbon
+T155	Nutrient 5203 5207	iron
+T156	Nutrient 5264 5281	electron acceptor
+T157	Nutrient 5148 5166	electron acceptors
+T158	Substrate 5356 5363	benzene
+T159	ReactionOrProcess 5364 5375	degradation
+T160	Nutrient 5447 5451	iron
+T161	Environment 5629 5637	sediment
+T162	Substrate 5602 5609	benzene
+T163	Nutrient 5679 5696	electron acceptor
+T164	Microbes 5911 5930	enrichment cultures
+T165	Substrate 5725 5732	benzene
+T166	Substrate 5799 5806	benzene
+T167	Substrate 5813 5820	nitrate
+T168	Substrate 5715 5732	anaerobic benzene
+T169	Property 5733 5742	degraders
+T170	ReactionOrProcess 5911 5921	enrichment
+T171	Nutrient 5824 5841	electron acceptor

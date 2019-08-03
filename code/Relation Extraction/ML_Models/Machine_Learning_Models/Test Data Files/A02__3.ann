@@ -1,0 +1,83 @@
+T1 ReactionOrProcess 195 208 hybridization
+T2 Environment 916 924 seawater
+T3 Substrate 896 899 oil
+T4 Substrate 1101 1110 petroleum
+T5 Substrate 1089 1096 xylenes
+T6 Substrate 1043 1046 oil
+T7 Substrate 983 986 Oil
+T8 Property 1052 1065 concentration
+T9 Property 1075 1083 volatile
+T10 Environment 1134 1142 Seawater
+T11 Property 1174 1185 temperature
+T12 Property 1187 1196 dissolved
+T13 Nutrient 1197 1203 oxygen
+T14 Environment 1375 1384 oil plume
+T15 Substrate 1516 1537 chlorinated aromatics
+T16 Substrate 1488 1492 BTEX
+T17 Substrate 1453 1460 alkanes
+T18 Substrate 1474 1486 cycloalkanes
+T19 Substrate 1579 1599 polycyclic aromatics
+T20 Substrate 1539 1561 heterocyclic aromatics
+T21 Substrate 1604 1629 aromatic carboxylic acids
+T22 Substrate 1228 1231 Oil
+T23 Property 1505 1514 aromatics
+T24 ReactionOrProcess 1443 1452 degrading
+T25 ReactionOrProcess 1285 1296 degradation
+T26 ReactionOrProcess 1342 1353 degradation
+T27 Substrate 1753 1760 alkanes
+T28 Property 1845 1861 oil contaminated
+T29 ReactionOrProcess 1728 1737 oxidation
+T30 Microbes 1930 1940 alkB genes
+T31 Microbes 2058 2071 Mycobacterium
+T32 Environment 2182 2191 oil plume
+T33 ReactionOrProcess 2263 2286 aerobic PAH degradation
+T34 Environment 2414 2419 plume
+T35 Environment 2459 2464 plume
+T36 Substrate 2366 2369 PAH
+T37 ReactionOrProcess 2370 2381 degradation
+T38 Environment 2515 2520 plume
+T39 Environment 2675 2680 plume
+T40 ReactionOrProcess 2624 2653 anaerobic toluene degradation
+T41 Nutrient 2483 2489 oxygen
+T42 Microbes 2767 2775 Azoarcus
+T43 Microbes 2780 2784 EbN1
+T44 Microbes 2847 2855 Azoarcus
+T45 Property 2797 2805 aromatic
+T46 Microbes 2860 2864 EbN1
+T47 Microbes 3086 3096 nahA genes
+T48 Substrate 3156 3167 naphthalene
+T49 ReactionOrProcess 3143 3152 oxidation
+T50 ReactionOrProcess 3267 3277 replicates
+R1 CarriedOn Arg1:T24 Arg2:T15
+R2 CarriedOn Arg1:T24 Arg2:T16
+R3 CarriedOn Arg1:T24 Arg2:T17
+R4 CarriedOn Arg1:T24 Arg2:T18
+R5 CarriedOn Arg1:T24 Arg2:T19
+R6 CarriedOn Arg1:T24 Arg2:T20
+R7 CarriedOn Arg1:T24 Arg2:T21
+R8 CarriedOn Arg1:T24 Arg2:T22
+R9 CarriedOn Arg1:T25 Arg2:T15
+R10 CarriedOn Arg1:T25 Arg2:T16
+R11 CarriedOn Arg1:T25 Arg2:T17
+R12 CarriedOn Arg1:T25 Arg2:T18
+R13 CarriedOn Arg1:T25 Arg2:T19
+R14 CarriedOn Arg1:T25 Arg2:T20
+R15 CarriedOn Arg1:T25 Arg2:T21
+R16 CarriedOn Arg1:T25 Arg2:T22
+R17 CarriedOn Arg1:T26 Arg2:T15
+R18 CarriedOn Arg1:T26 Arg2:T16
+R19 CarriedOn Arg1:T26 Arg2:T17
+R20 CarriedOn Arg1:T26 Arg2:T18
+R21 CarriedOn Arg1:T26 Arg2:T19
+R22 CarriedOn Arg1:T26 Arg2:T20
+R23 CarriedOn Arg1:T26 Arg2:T21
+R24 CarriedOn Arg1:T26 Arg2:T22
+R26 OccursIn Arg1:T25 Arg2:T14
+R27 OccursIn Arg1:T26 Arg2:T14
+R28 CarriedOn Arg1:T29 Arg2:T27
+R29 CarriedOn Arg1:T37 Arg2:T36
+R30 OccursIn Arg1:T37 Arg2:T34
+R31 OccursIn Arg1:T37 Arg2:T35
+R33 OccursIn Arg1:T40 Arg2:T39
+R37 CarriedOn Arg1:T49 Arg2:T47
+R38 CarriedOn Arg1:T49 Arg2:T48

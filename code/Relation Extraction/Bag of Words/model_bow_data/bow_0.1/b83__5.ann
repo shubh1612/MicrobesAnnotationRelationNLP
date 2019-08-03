@@ -1,0 +1,52 @@
+T1	Property 158 166	aromatic
+T2	Property 626 634	aromatic
+T3	Microbes 1008 1020	Sphingomonas
+T4	Environment 1046 1051	soils
+T5	Environment 1203 1207	soil
+T6	Substrate 1586 1595	carbazole
+T7	Substrate 1450 1453	bph
+T8	ReactionOrProcess 1171 1174	PCR
+T9	ReactionOrProcess 1596 1607	degradation
+R1	CarriedOn Arg1:T8 Arg2:T6
+R2	CarriedOn Arg1:T8 Arg2:T7
+T10	Substrate 1847 1856	carbazole
+T11	ReactionOrProcess 1840 1846	cloned
+T12	Environment 2307 2325	contaminated soils
+T13	Environment 2298 2325	creosote contaminated soils
+T14	Environment 2320 2325	soils
+T15	Environment 2205 2210	water
+T16	Environment 2307 2325	contaminated soils
+T17	Substrate 2166 2175	carbazole
+T18	Microbes 2442 2454	Sphingomonas
+T19	Substrate 2603 2612	carbazole
+T20	ReactionOrProcess 2497 2500	PCR
+R3	CarriedOn Arg1:T20 Arg2:T19
+T21	Substrate 2874 2883	carbazole
+T22	Substrate 3070 3079	carbazole
+T23	ReactionOrProcess 2981 2984	PCR
+T24	ReactionOrProcess 3009 3012	PCR
+T25	ReactionOrProcess 3035 3038	PCR
+T26	ReactionOrProcess 3130 3133	PCR
+T27	ReactionOrProcess 3176 3179	PCR
+T28	Environment 3245 3267	PAH contaminated soils
+T29	Environment 3249 3267	contaminated soils
+T30	Environment 3226 3240	Pristine soils
+T31	Environment 3235 3240	soils
+T32	Environment 3262 3267	soils
+T33	Environment 3249 3267	contaminated soils
+T34	Environment 3226 3239	Pristine soil
+T35	Environment 3226 3240	Pristine soils
+T36	Substrate 3245 3248	PAH
+T37	Environment 3532 3543	soil sample
+T38	Environment 3590 3610	uncontaminated soils
+T39	Environment 3532 3536	soil
+T40	Environment 3605 3610	soils
+T41	Environment 3519 3536	contaminated soil
+T42	Environment 3590 3610	uncontaminated soils
+T43	ReactionOrProcess 3366 3369	PCR
+T44	Environment 3743 3761	contaminated soils
+T45	Environment 3756 3761	soils
+T46	Environment 3743 3761	contaminated soils
+T47	Substrate 3901 3916	catabolic genes
+T48	Substrate 3901 3916	catabolic genes
+T49	Substrate 4106 4115	carbazole

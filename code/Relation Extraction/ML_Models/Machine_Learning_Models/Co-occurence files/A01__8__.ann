@@ -1,0 +1,30 @@
+T1	Environment 48 57	sediments
+T2	Substrate 131 156	monoaromatic hydrocarbons
+T3	Environment 321 341	anaerobic conditions
+T4	Substrate 284 302	aromatic compounds
+T5	Environment 480 504	Mexico deep-sea sediment
+T6	Substrate 535 538	oil
+T7	Microbes 772 791	Deltaproteobacteria
+T8	Substrate 687 694	alkanes
+T9	Substrate 681 685	PAHs
+T10	Substrate 803 824	anaerobic hydrocarbon
+T11	ReactionOrProcess 758 768	enrichment
+T12	Environment 951 976	Mexico deep-sea sediments
+T13	Substrate 902 927	anthropogenic hydrocarbon
+T14	Substrate 1023 1026	oil
+T15	ReactionOrProcess 997 1011	bioremediation
+T16	ReactionOrProcess 1041 1062	anaerobic degradation
+T17	Substrate 1187 1190	oil
+R1	ActOn Arg1:T7 Arg2:T8
+R2	ActOn Arg1:T7 Arg2:T9
+R3	ActOn Arg1:T7 Arg2:T10
+R4	CarriedOn Arg1:T11 Arg2:T7
+R5	CarriedOn Arg1:T11 Arg2:T8
+R6	CarriedOn Arg1:T11 Arg2:T9
+R7	CarriedOn Arg1:T11 Arg2:T10
+R8	CarriedOn Arg1:T15 Arg2:T13
+R9	CarriedOn Arg1:T15 Arg2:T14
+R10	CarriedOn Arg1:T16 Arg2:T13
+R11	CarriedOn Arg1:T16 Arg2:T14
+R12	OccursIn Arg1:T15 Arg2:T12
+R13	OccursIn Arg1:T16 Arg2:T12

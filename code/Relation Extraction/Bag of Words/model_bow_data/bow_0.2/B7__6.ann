@@ -1,0 +1,49 @@
+T1	Environment 173 192	uncontaminated site
+T2	Substrate 58 67	petroleum
+T3	Property 68 79	contaminant
+T4	ReactionOrProcess 14 18	DGGE
+T5	Environment 407 426	uncontaminated site
+T6	Environment 359 367	sediment
+T7	ReactionOrProcess 344 353	extracted
+T8	ReactionOrProcess 338 343	PLFAs
+T9	Environment 539 558	uncontaminated site
+T10	ReactionOrProcess 478 482	PLFA
+T11	Property 708 720	methanogenic
+T12	Property 708 720	methanogenic
+T13	ReactionOrProcess 782 786	DGGE
+T14	Microbes 1174 1182	Gthrx-84
+T15	Microbes 1268 1282	Geobacteraceae
+T16	Environment 1286 1294	sediment
+T17	Microbes 1344 1358	Geobacteraceae
+T18	Microbes 1460 1474	Geobacteraceae
+T19	Microbes 1556 1570	Geobacteraceae
+T20	Environment 1383 1392	sediments
+T21	Substrate 1418 1425	benzene
+T22	ReactionOrProcess 1330 1340	enrichment
+T23	ReactionOrProcess 1426 1437	degradation
+R1	CarriedOn Arg1:T22 Arg2:T17
+R2	CarriedOn Arg1:T22 Arg2:T18
+R3	CarriedOn Arg1:T22 Arg2:T19
+R4	CarriedOn Arg1:T22 Arg2:T21
+T24	Microbes 1683 1697	Geobacteraceae
+T25	Environment 1599 1645	uncontaminated and benzene-oxidizing sediments
+T26	Environment 1636 1645	sediments
+T27	Environment 1618 1645	benzene-oxidizing sediments
+T28	Environment 1618 1645	benzene-oxidizing sediments
+T29	Property 1618 1635	benzene-oxidizing
+T30	ReactionOrProcess 1576 1580	DGGE
+R5	CarriedOn Arg1:T30 Arg2:T24
+T31	Environment 1856 1865	sediments
+T32	Environment 1838 1865	benzene-oxidizing sediments
+T33	Environment 1838 1865	benzene-oxidizing sediments
+T34	Property 1838 1855	benzene-oxidizing
+T35	ReactionOrProcess 1816 1819	PCR
+T36	Microbes 2092 2114	Pelobacter propionicus
+T37	Microbes 2075 2087	G. chapellei
+T38	ReactionOrProcess 2220 2230	extraction
+T39	ReactionOrProcess 2152 2155	PCR
+T40	ReactionOrProcess 2321 2324	PCR
+T41	Microbes 2811 2825	proteobacteria
+T42	Environment 3219 3227	sediment
+T43	Environment 3153 3172	uncontaminated zone
+T44	ReactionOrProcess 3130 3134	DGGE

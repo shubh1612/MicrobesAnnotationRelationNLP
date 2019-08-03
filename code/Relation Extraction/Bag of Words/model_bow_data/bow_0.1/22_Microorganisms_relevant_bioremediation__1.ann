@@ -1,0 +1,115 @@
+T1	Microbes 20 39	microbial consortia
+T2	ReactionOrProcess 75 89	bioremediation
+T3	ReactionOrProcess 354 368	bioremediation
+T4	ReactionOrProcess 425 439	bioremediation
+T5	Environment 540 565	contaminated environments
+T6	ReactionOrProcess 441 455	Bioremediation
+T7	ReactionOrProcess 599 613	bioremediation
+T8	Property 755 775	degrading pollutants
+T9	Property 765 775	pollutants
+T10	ReactionOrProcess 807 821	bioremediation
+T11	ReactionOrProcess 755 764	degrading
+T12	Environment 957 975	contaminated sites
+T13	ReactionOrProcess 1018 1032	bioremediation
+T14	Microbes 1208 1237	natural microbial populations
+T15	ReactionOrProcess 1101 1116	rRNA approaches
+R1	CarriedOn Arg1:T15 Arg2:T14
+T16	Microbes 1298 1327	natural microbial populations
+T17	Property 1441 1460	pollutant-degrading
+T18	Property 1552 1571	pollutant-degrading
+T19	ReactionOrProcess 1614 1628	bioremediation
+T20	ReactionOrProcess 1730 1744	bioremediation
+T21	ReactionOrProcess 1848 1862	bioremediation
+T22	Property 2054 2063	pollutant
+T23	ReactionOrProcess 1969 1984	bioaugmentation
+T24	ReactionOrProcess 2064 2078	biodegradation
+T25	ReactionOrProcess 2216 2230	bioremediation
+T26	Substrate 2259 2266	methane
+T27	Property 2406 2433	degrading target pollutants
+T28	Property 2540 2559	pollutant-degrading
+T29	Property 2303 2312	pollutant
+T30	Property 2423 2433	pollutants
+T31	ReactionOrProcess 2267 2276	oxidation
+T32	ReactionOrProcess 2406 2415	degrading
+T33	ReactionOrProcess 2313 2327	biodegradation
+T34	ReactionOrProcess 2355 2364	isolation
+T35	ReactionOrProcess 2457 2466	isolation
+T36	ReactionOrProcess 2496 2505	isolation
+T37	Property 2643 2673	pollutant-degradation kinetics
+T38	Microbes 2765 2778	methanotrophs
+T39	Environment 2908 2912	soil
+T40	Substrate 2817 2824	methane
+T41	ReactionOrProcess 2825 2834	oxidation
+T42	ReactionOrProcess 2930 2951	phylogenetic analyses
+T43	Microbes 3034 3047	methanotrophs
+T44	Substrate 3070 3077	methane
+T45	ReactionOrProcess 3062 3069	degrade
+T46	Microbes 3325 3338	methanotrophs
+T47	Enzyme 3264 3286	methane mono-oxygenase
+T48	Environment 3368 3377	sediments
+T49	Environment 3363 3367	lake
+T50	Environment 3353 3357	soil
+T51	Environment 3393 3397	soil
+T52	Substrate 3264 3271	methane
+T53	Microbes 3403 3416	Methanotrophs
+T54	Environment 3518 3526	sediment
+T55	Environment 3509 3513	soil
+T56	Substrate 3477 3484	methane
+T57	ReactionOrProcess 3452 3460	reducing
+T58	ReactionOrProcess 3465 3473	emission
+R2	CarriedOn Arg1:T57 Arg2:T56
+R3	CarriedOn Arg1:T58 Arg2:T56
+T59	Microbes 3541 3554	methanotrophs
+T60	Microbes 3721 3734	methanotrophs
+T61	Substrate 3605 3608	TCE
+T62	Substrate 3569 3586	trichloroethylene
+T63	Substrate 3638 3645	methane
+T64	Property 3684 3697	TCE-degrading
+T65	ReactionOrProcess 3555 3568	co-metabolize
+T66	ReactionOrProcess 3609 3623	bioremediation
+T67	ReactionOrProcess 3670 3679	stimulate
+T68	Substrate 3741 3748	methane
+T69	ReactionOrProcess 3749 3763	biostimulation
+T70	Microbes 3766 3779	Methanotrophs
+T71	Enzyme 3978 3991	monooxygenase
+T72	Enzyme 3970 3991	methane monooxygenase
+T73	Substrate 3800 3807	methane
+T74	Substrate 3970 3977	methane
+T75	Property 3962 3969	soluble
+T76	Property 3857 3876	denaturing gradient
+T77	ReactionOrProcess 3857 3896	denaturing gradient gel electrophoresis
+T78	ReactionOrProcess 3881 3896	electrophoresis
+T79	ReactionOrProcess 3808 3822	biostimulation
+T80	ReactionOrProcess 3857 3867	denaturing
+T81	Environment 4175 4181	marine
+T82	Environment 4012 4018	Marine
+T83	Substrate 4012 4028	Marine petroleum
+T84	Substrate 4019 4028	petroleum
+T85	Substrate 4029 4040	hydrocarbon
+T86	ReactionOrProcess 4029 4052	hydrocarbon degradation
+T87	ReactionOrProcess 4041 4052	degradation
+T88	Microbes 4318 4332	Proteobacteria
+T89	Environment 4483 4494	spilled-oil
+T90	Environment 4196 4207	Spilled-oil
+T91	Environment 4250 4255	sandy
+T92	Environment 4256 4261	beach
+T93	Environment 4399 4410	oiled plots
+T94	Environment 4250 4261	sandy beach
+T95	Property 4250 4255	sandy
+T96	ReactionOrProcess 4208 4222	bioremediation
+T97	ReactionOrProcess 4495 4509	bioremediation
+T98	ReactionOrProcess 4368 4372	DGGE
+T99	ReactionOrProcess 4483 4509	spilled-oil bioremediation
+T100	ReactionOrProcess 4196 4222	Spilled-oil bioremediation
+R4	CarriedOn Arg1:T96 Arg2:T88
+R5	CarriedOn Arg1:T97 Arg2:T88
+R6	CarriedOn Arg1:T99 Arg2:T88
+R7	CarriedOn Arg1:T100 Arg2:T88
+T101	Microbes 4700 4714	Cycloclasticus
+T102	Microbes 4632 4648	γ-Proteobacteria
+T103	Environment 4751 4760	oil sands
+T104	Environment 4555 4560	beach
+T105	Environment 4755 4760	sands
+T106	Substrate 4740 4754	fertilized oil
+T107	Substrate 4751 4754	oil
+T108	Property 4740 4750	fertilized

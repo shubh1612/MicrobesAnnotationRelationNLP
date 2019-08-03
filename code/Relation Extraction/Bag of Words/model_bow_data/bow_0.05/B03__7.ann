@@ -1,0 +1,122 @@
+T1	Microbes 199 213	Geobacteraceae
+T2	Environment 38 57	uncontaminated site
+T3	Microbes 338 352	proteobacteria
+T4	Microbes 416 434	enrichment culture
+T5	Microbes 381 399	enrichment culture
+T6	Environment 597 606	sediments
+T7	Substrate 474 481	benzene
+T8	Substrate 363 370	Benzene
+T9	Property 363 380	Benzene-oxidizing
+T10	Property 520 531	crystalline
+T11	ReactionOrProcess 381 391	enrichment
+T12	ReactionOrProcess 416 426	enrichment
+T13	Nutrient 558 575	electron acceptor
+T14	Environment 731 738	aquifer
+T15	Substrate 763 770	benzene
+T16	ReactionOrProcess 755 762	degrade
+T17	Microbes 819 838	enrichment cultures
+T18	Environment 888 907	uncontaminated site
+T19	Environment 869 878	sediments
+T20	Substrate 801 808	Benzene
+T21	ReactionOrProcess 819 829	enrichment
+T22	Microbes 944 962	enrichment culture
+T23	ReactionOrProcess 944 954	enrichment
+T24	Substrate 1170 1177	benzene
+T25	ReactionOrProcess 1148 1161	anaerobically
+T26	ReactionOrProcess 1131 1141	enrichment
+T27	ReactionOrProcess 1148 1169	anaerobically oxidize
+T28	ReactionOrProcess 1162 1169	oxidize
+T29	Microbes 1238 1257	enrichment cultures
+T30	Property 1220 1237	benzene-oxidizing
+T31	ReactionOrProcess 1179 1183	DGGE
+T32	ReactionOrProcess 1238 1248	enrichment
+T33	ReactionOrProcess 1179 1192	DGGE analysis
+R1	CarriedOn Arg1:T31 Arg2:T29
+R2	CarriedOn Arg1:T33 Arg2:T29
+T34	Microbes 1655 1668	G. fermentans
+T35	Microbes 1513 1533	Variovorax paradoxus
+T36	Substrate 1563 1570	toluene
+T37	Property 1571 1579	degrader
+T38	Microbes 1736 1755	enrichment cultures
+T39	Microbes 1911 1924	Geobacter spp
+T40	Environment 1722 1731	sediments
+T41	Substrate 1814 1821	benzene
+T42	Substrate 1804 1821	anaerobic benzene
+T43	ReactionOrProcess 1804 1836	anaerobic benzene mineralization
+T44	ReactionOrProcess 1736 1746	enrichment
+T45	ReactionOrProcess 1772 1776	PLFA
+T46	ReactionOrProcess 1822 1836	mineralization
+R3	CarriedOn Arg1:T43 Arg2:T39
+R4	CarriedOn Arg1:T44 Arg2:T39
+R5	CarriedOn Arg1:T45 Arg2:T39
+R6	CarriedOn Arg1:T46 Arg2:T39
+T47	Microbes 2008 2021	Geobacter spp
+T48	Substrate 2093 2111	aromatic compounds
+T49	Substrate 2085 2111	oxidize aromatic compounds
+T50	Substrate 2093 2111	aromatic compounds
+T51	Property 2093 2101	aromatic
+T52	ReactionOrProcess 2121 2130	reduction
+T53	ReactionOrProcess 2085 2092	oxidize
+T54	Microbes 2324 2337	Geobacter spp
+T55	Substrate 2388 2395	benzene
+T56	ReactionOrProcess 2377 2387	metabolize
+T57	Microbes 2478 2491	Geobacter spp
+T58	Substrate 2568 2575	benzene
+T59	ReactionOrProcess 2561 2587	active benzene degradation
+T60	ReactionOrProcess 2576 2587	degradation
+T61	Microbes 2717 2735	enrichment culture
+T62	Environment 2919 2950	petroleum-contaminated aquifers
+T63	Environment 2942 2950	aquifers
+T64	Substrate 2774 2781	benzene
+T65	ReactionOrProcess 2717 2727	enrichment
+T66	ReactionOrProcess 2782 2793	degradation
+R7	CarriedOn Arg1:T65 Arg2:T64
+T67	Environment 3015 3022	aquifer
+T68	Substrate 3072 3079	benzene
+T69	ReactionOrProcess 3083 3096	anaerobically
+T70	ReactionOrProcess 3097 3105	degraded
+T71	ReactionOrProcess 2989 2993	PLFA
+T72	Environment 3253 3262	sediments
+T73	Environment 3245 3252	aquifer
+T74	Substrate 3165 3172	benzene
+T75	Substrate 3288 3295	benzene
+T76	ReactionOrProcess 3173 3182	oxidation
+T77	ReactionOrProcess 3420 3437	electron shuttles
+T78	ReactionOrProcess 3202 3211	reduction
+T79	ReactionOrProcess 3296 3307	degradation
+T80	Nutrient 3389 3405	humic substances
+T81	Substrate 3461 3482	aromatic hydrocarbons
+T82	Substrate 3494 3501	toluene
+T83	Substrate 3461 3482	aromatic hydrocarbons
+T84	Substrate 3506 3517	naphthalene
+T85	Substrate 3470 3482	hydrocarbons
+T86	Substrate 3455 3481	Other aromatic hydrocarbon
+T87	Substrate 3455 3482	Other aromatic hydrocarbons
+T88	Substrate 3470 3482	hydrocarbons
+T89	Property 3461 3469	aromatic
+T90	ReactionOrProcess 3528 3536	degraded
+T91	Substrate 3683 3690	benzene
+T92	Substrate 3630 3642	hydrocarbons
+T93	Substrate 3630 3642	hydrocarbons
+T94	ReactionOrProcess 3609 3620	degradation
+T95	ReactionOrProcess 3691 3702	degradation
+R8	CarriedOn Arg1:T94 Arg2:T91
+R9	CarriedOn Arg1:T94 Arg2:T92
+R10	CarriedOn Arg1:T94 Arg2:T93
+R11	CarriedOn Arg1:T95 Arg2:T91
+R12	CarriedOn Arg1:T95 Arg2:T92
+R13	CarriedOn Arg1:T95 Arg2:T93
+T96	Substrate 3941 3948	benzene
+T97	Substrate 4016 4023	benzene
+T98	Substrate 4006 4023	anaerobic benzene
+T99	Property 3772 3780	reducers
+T100	ReactionOrProcess 3933 3940	degrade
+T101	ReactionOrProcess 4006 4035	anaerobic benzene degradation
+T102	ReactionOrProcess 4024 4035	degradation
+T103	Microbes 4123 4137	Geobacteraceae
+T104	Microbes 4256 4270	Geobacteraceae
+T105	Environment 4190 4217	benzene-degrading sediments
+T106	Environment 4208 4217	sediments
+T107	Environment 4290 4299	sediments
+T108	Environment 4190 4217	benzene-degrading sediments
+T109	ReactionOrProcess 4069 4072	PCR

@@ -1,0 +1,100 @@
+T1	Microbes 0 13	Mycobacterium
+T2	Microbes 0 24	Mycobacterium goodii X7B
+T3	Microbes 21 24	X7B
+T4	Substrate 107 123	dibenzothiophene
+T5	Substrate 203 217	benzothiophene
+T6	ReactionOrProcess 191 202	desulfurize
+T7	ReactionOrProcess 161 171	4S pathway
+T8	ReactionOrProcess 93 106	desulfurizing
+T9	ReactionOrProcess 223 238	desulfurization
+T10	Substrate 443 451	gasoline
+T11	Substrate 396 402	sulfur
+T12	Substrate 425 431	sulfur
+T13	Property 381 402	remove organic sulfur
+T14	Property 425 439	sulfur species
+T15	Microbes 588 591	X7B
+T16	Substrate 458 488	Dushanzi straight-run gasoline
+T17	Substrate 480 488	gasoline
+T18	Substrate 458 488	Dushanzi straight-run gasoline
+T19	Substrate 526 532	sulfur
+T20	Substrate 612 618	sulfur
+T21	Property 518 542	organic sulfur compounds
+T22	Microbes 803 812	M. goodii
+T23	Microbes 813 816	X7B
+T24	Microbes 803 816	M. goodii X7B
+T25	Substrate 846 854	gasoline
+T26	ReactionOrProcess 724 732	emission
+T27	ReactionOrProcess 683 709	flame ionization detection
+T28	ReactionOrProcess 714 742	GC atomic emission detection
+T29	ReactionOrProcess 680 709	GC flame ionization detection
+T30	ReactionOrProcess 683 699	flame ionization
+R1	CarriedOn Arg1:T26 Arg2:T22
+R2	CarriedOn Arg1:T26 Arg2:T23
+R3	CarriedOn Arg1:T26 Arg2:T24
+R4	CarriedOn Arg1:T27 Arg2:T22
+R5	CarriedOn Arg1:T27 Arg2:T23
+R6	CarriedOn Arg1:T27 Arg2:T24
+R7	CarriedOn Arg1:T28 Arg2:T22
+R8	CarriedOn Arg1:T28 Arg2:T23
+R9	CarriedOn Arg1:T28 Arg2:T24
+R10	CarriedOn Arg1:T29 Arg2:T22
+R11	CarriedOn Arg1:T29 Arg2:T23
+R12	CarriedOn Arg1:T29 Arg2:T24
+R13	CarriedOn Arg1:T30 Arg2:T22
+R14	CarriedOn Arg1:T30 Arg2:T23
+R15	CarriedOn Arg1:T30 Arg2:T24
+R16	CarriedOn Arg1:T26 Arg2:T25
+R17	CarriedOn Arg1:T27 Arg2:T25
+R18	CarriedOn Arg1:T28 Arg2:T25
+R19	CarriedOn Arg1:T29 Arg2:T25
+R20	CarriedOn Arg1:T30 Arg2:T25
+T31	Substrate 933 939	sulfur
+T32	ReactionOrProcess 897 906	incubated
+T33	Microbes 1046 1049	X7B
+T34	Substrate 1149 1157	gasoline
+T35	ReactionOrProcess 1127 1145	biodesulfurization
+R21	CarriedOn Arg1:T35 Arg2:T34
+T36	Substrate 1159 1165	Sulfur
+T37	ReactionOrProcess 1199 1209	combustion
+T38	Substrate 1368 1377	petroleum
+T39	ReactionOrProcess 1349 1364	desulfurization
+R22	CarriedOn Arg1:T39 Arg2:T38
+T40	Substrate 1471 1479	gasoline
+T41	Substrate 1453 1459	sulfur
+T42	Substrate 1590 1598	gasoline
+T43	Property 1725 1735	saturation
+T44	ReactionOrProcess 1763 1787	fluid catalytic cracking
+T45	ReactionOrProcess 1620 1640	hydrodesulfurization
+T46	ReactionOrProcess 1571 1586	desulfurization
+T47	ReactionOrProcess 1683 1692	reduction
+R23	CarriedOn Arg1:T46 Arg2:T42
+T48	Substrate 1902 1911	thiophene
+T49	Substrate 1985 1993	gasoline
+T50	Substrate 1948 1953	thiol
+T51	Substrate 1877 1891	benzothiophene
+T52	Substrate 1965 1971	sulfur
+T53	Substrate 2058 2066	gasoline
+T54	ReactionOrProcess 2172 2183	degradation
+T55	ReactionOrProcess 2003 2021	biodesulfurization
+T56	Substrate 2218 2234	dibenzothiophene
+T57	Microbes 2339 2363	Rhodococcus erythropolis
+T58	ReactionOrProcess 2312 2327	desulfurization
+R24	CarriedOn Arg1:T58 Arg2:T57
+T59	Substrate 2452 2455	DBT
+T60	ReactionOrProcess 2483 2489	cloned
+T61	ReactionOrProcess 2456 2471	desulfurization
+T62	Substrate 2589 2592	BTH
+T63	ReactionOrProcess 2593 2608	desulfurization
+T64	Microbes 2757 2770	Sinorhizobium
+T65	Substrate 2910 2913	DBT
+T66	Substrate 2918 2921	BTH
+T67	ReactionOrProcess 2886 2901	desulfurization
+R25	CarriedOn Arg1:T67 Arg2:T65
+R26	CarriedOn Arg1:T67 Arg2:T66
+T68	Property 3118 3130	temperatures
+T69	Property 3396 3408	temperatures
+T70	ReactionOrProcess 3304 3319	desulfurization
+T71	Substrate 3496 3499	DBT
+T72	Substrate 3504 3507	BTH
+T73	Property 3543 3555	temperatures
+T74	ReactionOrProcess 3508 3523	desulfurization

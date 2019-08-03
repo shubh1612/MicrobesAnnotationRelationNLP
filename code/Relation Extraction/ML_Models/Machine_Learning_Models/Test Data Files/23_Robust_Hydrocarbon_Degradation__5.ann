@@ -1,0 +1,51 @@
+T1 Substrate 88 95 alkanes
+T2 Substrate 74 77 TPH
+T3 ReactionOrProcess 56 70 biodegradation
+T4 ReactionOrProcess 192 206 bioremediation
+T5 Environment 796 805 microcosm
+T6 Environment 946 956 microcosms
+T7 Environment 1205 1214 microcosm
+T8 Substrate 1246 1249 oil
+T9 Environment 1292 1302 microcosms
+T10 Environment 1492 1512 same beach sediments
+T11 ReactionOrProcess 1282 1291 replicate
+T12 ReactionOrProcess 1606 1615 replicate
+T13 ReactionOrProcess 1469 1473 DGGE
+T14 ReactionOrProcess 1265 1278 DGGE analysis
+T15 Environment 1677 1687 microcosms
+T16 Environment 1804 1814 microcosms
+T17 Environment 1863 1873 microcosms
+T18 Substrate 1978 1981 oil
+T19 Property 2275 2281 stable
+T20 Environment 2392 2401 microcosm
+T21 Environment 2311 2321 microcosms
+T22 Substrate 2428 2431 oil
+T23 Environment 3132 3141 microcosm
+T24 Environment 3170 3180 microcosms
+T25 ReactionOrProcess 3210 3224 bioremediation
+T26 Environment 3464 3474 microcosms
+T27 Environment 3334 3344 microcosms
+T28 ReactionOrProcess 3282 3286 DGGE
+T29 Environment 3642 3652 microcosms
+T30 Environment 3781 3791 microcosms
+T31 ReactionOrProcess 3632 3641 replicate
+T32 Substrate 3986 3989 oil
+T33 ReactionOrProcess 4046 4052 cloned
+T34 ReactionOrProcess 3994 4008 bioremediation
+R1 CarriedOn Arg1:T3 Arg2:T1
+R2 CarriedOn Arg1:T3 Arg2:T2
+R3 OccursIn Arg1:T11 Arg2:T9
+R4 OccursIn Arg1:T11 Arg2:T10
+R5 OccursIn Arg1:T12 Arg2:T9
+R6 OccursIn Arg1:T12 Arg2:T10
+R7 OccursIn Arg1:T13 Arg2:T9
+R8 OccursIn Arg1:T13 Arg2:T10
+R9 OccursIn Arg1:T14 Arg2:T9
+R10 OccursIn Arg1:T14 Arg2:T10
+R11 OccursIn Arg1:T25 Arg2:T24
+R12 OccursIn Arg1:T28 Arg2:T26
+R13 OccursIn Arg1:T28 Arg2:T27
+R14 OccursIn Arg1:T31 Arg2:T29
+R15 OccursIn Arg1:T31 Arg2:T30
+R16 CarriedOn Arg1:T33 Arg2:T32
+R17 CarriedOn Arg1:T34 Arg2:T32

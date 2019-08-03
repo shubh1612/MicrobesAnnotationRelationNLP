@@ -1,0 +1,39 @@
+T1	Microbes 375 382	E. coli
+T2	Environment 1026 1036	microcosms
+T3	Environment 1074 1082	seawater
+T4	Environment 1092 1102	microcosms
+T5	Environment 1086 1091	beach
+T6	Nutrient 1053 1061	nitrogen
+T7	Environment 1328 1338	microcosms
+T8	Nutrient 1218 1224	carbon
+T9	Environment 1397 1407	microcosms
+T10	Environment 1561 1571	microcosms
+T11	Nutrient 1532 1538	carbon
+T12	Nutrient 1650 1656	carbon
+T13	Environment 1817 1827	microcosms
+T14	Substrate 1948 1955	alkanes
+T15	Substrate 1971 1974	PAH
+T16	Substrate 1912 1915	TPH
+T17	ReactionOrProcess 1894 1908	biodegradation
+R1	CarriedOn Arg1:T17 Arg2:T14
+R2	CarriedOn Arg1:T17 Arg2:T15
+R3	CarriedOn Arg1:T17 Arg2:T16
+T18	Substrate 2061 2064	oil
+T19	Substrate 2148 2151	oil
+T20	ReactionOrProcess 2065 2076	degradation
+T21	ReactionOrProcess 2061 2076	oil degradation
+T22	Nutrient 2104 2110	carbon
+T23	Environment 2227 2237	microcosms
+T24	Substrate 2374 2377	oil
+T25	Nutrient 2284 2290	carbon
+T26	Environment 2508 2518	microcosms
+T27	Environment 2576 2586	microcosms
+T28	Property 2497 2507	fertilized
+T29	Nutrient 2466 2472	carbon
+T30	Nutrient 2606 2612	carbon
+T31	Nutrient 2708 2714	carbon
+T32	Nutrient 2796 2802	carbon
+T33	Environment 3190 3199	microcosm
+T34	Environment 3124 3133	microcosm
+T35	Nutrient 3045 3051	carbon
+T36	Nutrient 3334 3340	carbon

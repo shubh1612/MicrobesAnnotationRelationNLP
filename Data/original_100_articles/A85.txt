@@ -1,0 +1,1205 @@
+Bacterial degradation of pyridine, indole, quinoline, and their derivatives under different redox conditions
+Appl Microbiol Biotechnol (1998) 49: 237±250
+
+Ó Springer-Verlag 1998
+
+MINI REVIEW
+
+S. Fetzner
+
+Bacterial degradation of pyridine, indole, quinoline,
+and their derivatives under different redox conditions
+
+Received: 26 September 1997 / Received revision: 23 December 1997 / Accepted: 27 December 1997
+
+Abstract Bacteria have evolved a diverse potential to
+transform and even mineralize numerous organic compounds of both natural and xenobiotic origin. This article describes the occurrence of N-heteroaromatic
+compounds and presents a review of the bacterial
+degradation of pyridine and its derivatives, indole,
+isoquinoline, and quinoline and its derivatives. The
+bacterial metabolism of these compounds under dierent redox conditions ± by aerobic, nitrate-reducing,
+sulfate-reducing and methanogenic bacteria ± is discussed. However, in natural habitats, various environmental factors, such as sorption phenomena, also in¯uence
+bacterial conversion processes. Thus, both laboratory
+and ®eld studies are necessary to aid our understanding
+of biodegradation in natural ecosystems and assist the
+development of strategies for bioremediation of polluted
+sites. Occurring predominantly near (former) woodtreatment facilities, creosote is a frequent contaminant
+of soil, subsoil, groundwater, and aquifer sediments.
+In situ as well as withdrawal-and-treatment techniques
+have been designed to remediate such sites, which are
+polluted with complex mixtures of aromatic and heterocyclic compounds.
+
+Occurrence of N-heteroaromatic compounds
+In nature, N-heterocyclic compounds perform a variety
+of biological functions. They exist as electron carriers
+[NAD(P)H, ¯avine nucleotides] and as constituents of
+the nucleotides in RNA, DNA and in energy-storage
+molecules (ATP, GTP). Other naturally occurring
+N-heterocycles include pyridoxine (vitamin B6), various
+S. Fetzner
+Carl von Ossietzky-UniversitaÈt Oldenburg,
+Fachbereich 7 ± Biologie, Postfach 2503,
+D-26111 Oldenburg, Germany
+Tel.: +49 441 798 3295
+Fax: +49 441 798 3250
+
+porphyrines, melamine, and also mycotoxins and alkaloids. Quinoline derivatives have been isolated from seadwelling sponges (Alvarez et al. 1991), myxobacteria
+(BoÈhlendorf et al. 1996), the cyanobacterium Lyngbya
+majuscula (Orjala and Gerwick 1997), pseudomonads,
+fungi, and ± most abundantly ± from higher plants
+(Sainsbury et al. 1978, 1987). Quinine alkaloids produced by subtropical Cinchona and Remija sp. are used
+as schizontocides against the erythrocytic stage of the
+malaria parasite (and also as beverage bitters).
+Numerous man-made compounds ± pharmaceuticals,
+dyes, industrial solvents, and pesticides (such as s-triazines, paraquat, diquat, and picloram) ± are also based
+on N-heterocyclic compounds. N-heteroaromatics are
+produced mainly from coal tar. Tars are produced by
+low-temperature carbonization, coking, or gasi®cation
+of fossil raw material or biomass (coal, lignite, peat,
+wood, oil shale). Shale oil contains especially high concentrations of nitrogen compounds (Bett et al. 1983).
+Approximately 15 ´ 106 t year)1 coal tars are produced
+worldwide, mainly high-temperature coal tars from
+coking plants. These are the basic material for industrial
+carbon products (approx. 4 ´ 106 t year)1), technically
+pure condensed aromatic hydrocarbons (approx.
+1 ´ 106 t year)1), technically pure heteroaromatics such
+as carbazole, quinoline, pyridine, and indole (several
+thousand t year)1), phenols (several hundred thousand
+t year)1), thermoplastic indenecoumarone resins (approx. 100 ´ 103 t year)1), and aromatic oils used as
+wood preservatives, solvents, and gas-washing oils
+(>2 ´ 106 t year)1) (Collin and HoÈke 1995). The approximate contents of N-heteroaromatic compounds in
+high-temperature coal tar are 0.9% carbazole, 0.2%±
+0.3% quinoline, 0.2% indole, 0.1%±0.2% isoquinoline,
+0.1%±0.2% 2-methylquinoline, 0.1% acridine, 0.03%
+pyridine, and 0.02% 2-methylpyridine (Collin and HoÈke
+1989, 1993, 1995). Quinoline (world production >2000 t
+year)1; Collin and HoÈke 1993) and carbazole are obtained exclusively from coal tar. In contrast, pyridine
+bases, although constituents of tars, are produced by
+synthesis. The amounts of pyridine bases produced
+
+238
+
+worldwide (in 1989) were estimated as follows: pyridine,
+26000 t year)1, 2-methylpyridine 8000 t year)1, 3-methylpyridine 9000 t year)1, 4-methylpyridine 1500 t
+year)1, 5-ethyl-2-methylpyridine 8000 t year)1 (Shimizu
+et al. 1993).
+In situ processes of shale oil production generate approximately equal volumes of retort waste water highly
+contaminated with organic solutes (Sims and O'Loughlin
+1989; Leenheer et al. 1982). Pyridine and quinoline (including isoquinoline) derivatives, for instance, are major
+components in the basic fraction of shale oil process
+waters with concentrations in the range 20±100 mg l)1
+and 2±50 mg l)1 respectively (roughly estimated from
+several reports: Richard and Junk 1984; Dobson et al.
+1985; Zhu et al. 1988; Leenheer et al. 1982).
+Although azaarenes may enter the environment
+through a variety of sources, coal gasi®cation sites, oil
+processing facilities, coal-tar wastes, and creosote are the
+major ones (Table 1). Creosote is a distillate of coal tar.
+It contains more than 200 individual compounds and
+consists of up to 75%±85% (by weight) polynuclear
+aromatic hydrocarbons, 5%±15% monoaromatic hydrocarbons, 1%±12% phenolic, and 3%±13% N-, S-,
+and O-heterocyclic compounds (Mueller et al. 1989;
+Godsy et al. 1994, Dyreborg et al. 1997). Quinoline,
+isoquinoline, carbazole, 2,4-dimethylpyridine (each in
+concentrations of about 10 mg l)1), acridine, 2- and
+4-methylquinoline, pyrrole, and pyrrolidine (5 mg l)1
+
+each) are the major N-heterocyclic compounds in creosote (Mueller et al. 1989). Many of the more than 700
+wood-preserving plants in the U.S. use creosote as the
+primary wood-preserving chemical. Creosoting operations within the U.S. were reported to consume approximately 4.5 ´ 107 kg creosote annually (Mattraw
+and Franks 1986).
+Heteroaromatic compounds generally are more polar
+than their homocyclic analogs and possess lower octanol/water partition coecients (Kow) (for log Kow values,
+see Hansch and Leo 1979; Sims and O'Loughlin 1989;
+Ondrus and Steinheimer 1990). Owing to their relatively
+high water solubilities and weak sorption to soil and
+aquifer organic material, many heteroaromatic pollutants are readily transported to subsurface environments, resulting in contamination of subsoil and
+groundwater (for reviews on groundwater pollution, and
+analysis, see Canter and Sabatini 1994; Hale and Aneiro
+1997; Mayer et al. 1997). Table 1 lists some cases of
+groundwater pollution by N-heterocyclic compounds.
+These contaminated ecosystems generally contain complex mixtures of coal tar compounds (polynuclear aromatic hydrocarbons, phenolics, and heterocycles). At the
+American Creosote Works Superfund site near Pensacola, Florida, an abandoned wood-treatment facility,
+groundwater samples contained up to several milligrams
+per liter each of quinoline, isoquinoline, and their oxo
+derivatives, depending on the distance of the sampling
+
+Table 1 Detection of pyridine, indole, isoquinoline, quinoline and their derivatives and some other N-heteroaromatic compounds in
+polluted groundwaters
+N-heterocyclic pollutants
+
+Origin of groundwater pollution
+
+References
+
+Methylpyridine
+
+Coal distillation, synthesis of pesticides,
+rubber, vinyl pyridine, solvent
+Coal gasi®cation site
+
+Dunlap et al. 1976
+
+Oil shale facility
+Leachate from municipal refuse
+Former wood-treatment plant
+(American Creosote Works Superfund
+site, Pensacola, Fla.)
+
+Riley et al. 1981
+Harmsen 1983
+Pereira et al. 1987a;b;
+Ondrus and Steinheimer 1990;
+Godsy et al. 1992, 1994
+
+Former coal-tar distillation and
+wood-preserving facility
+
+Pereira et al. 1983;
+Ondrus and Steinheimer 1990
+
+Coal and oil gasi®cation site with
+nonaqueous phase liquids
+
+Turney and Goerlitz 1990
+
+Former gas plant
+
+Edler et al. 1997
+
+Three dierent creosote sites
+
+Johansen et al. 1997a
+
+Subsurface nonaqueous-phase liquids
+at coke ovens site (steel production)
+Subsurface nonaqueous-phase
+liquids at former wood-treating facility
+
+Baechler and MacFarlane 1992
+
+Pyridine, alkyl(C-1 to C-5)pyridines,
+dialkyl(C-1,C-2)pyridines, quinoline,
+isoquinoline, methylquinolines, dimethylquinolines,
+(methyl)tetrahydroquinolines
+Alkylpyridines
+3-Methylindole
+Quinoline, 2(1H)quinolinone, isoquinoline,
+1(2H)isoquinolinone, 2- and 4-methylquinoline,
+(di)methylquinolinones, 2-methylisoquinolinone,
+benzoquinolines, carbazole, acridine, 9(10H)acridinone
+Alkyl(C-1,C-2)pyridines, phenylpyridines,
+quinoline, (di)methylquinolines,
+isoquinoline, (iso)quinolinones, methylquinolinones,
+benzoquinolines, 1,2,3,4-tetrahydro(methyl)quinolines,
+acridine, 9(10H)acridinone
+Pyridine, (mono-/di-/tri-) methylpyridines, 2-ethyl-6methylpyridine, (mono-/di-) methylquinolines,
+isoquinoline, (iso) quinolinones, carbazole
+1(2H)Isoquinolinone, methyl and dimethyl
+derivatives of 2(1H)quinolinone, 6(5H)phenanthridinone
+About 50 organic tar compounds; among 17
+N-/S-/O-heteroaromatic compounds: carbazole,
+2(1H)quinolinone, 1(2H) isoguinolinone, basic
+N-compounds
+Coal-tar compounds
+Creosote compounds
+
+Stuermer et al. 1982
+
+Mueller et al. 1997
+
+239
+
+wells from the source of contamination (Pereira et al.
+1987a, b; Godsy et al. 1992, 1994; Ondrus and Steinheimer 1990). A literature survey of the maximum concentrations of N±heteroaromatic compounds in
+creosote-contaminated groundwater was reported by
+Johansen et al. (1997a).
+The contamination of groundwater by transport of
+N-heteroaromatic compounds through soil and subsoils
+is a major environmental concern, since many of these
+compounds are considered toxic and/or mutagenic and
+cancerogenic (Hirao et al. 1976; Nagao et al. 1977;
+Santodonato and Howard 1981; LaVoie et al. 1988;
+Willems et al. 1992). Apart from groundwater and
+aquifers, N-heteroaromatic compounds have also been
+identi®ed in aquatic sediments, industrial and urban air,
+tobacco smoke, sea water, and the tissue of ®sh (Santodonato and Howard 1981; Adams et al. 1983; Barrick
+et al. 1984; Warshawsky 1992).
+There are a number of review articles on the microbial metabolism of both natural and xenobiotic Nheteroaromatic compounds. This mini-review describes
+the pathways of bacterial degradation of pyridine and its
+derivatives, indole, isoquinoline, and quinoline and its
+derivatives. The biodegradation of these coal tar compounds under dierent redox conditions is compared,
+environmental factors that in¯uence bacterial degradation processes are discussed brie¯y, and some biotechnological applications are indicated. For literature on
+the degradation of purines, pyrimidines, tryptophan,
+pyridoxine, acridine, and s-triazines, see, for example,
+the reviews of Vogels and van der Drift 1976; Scazzocchio 1994; Callely 1978; Berry et al. 1987a; Bollag and
+Kaiser 1991; Koenig and Andreesen 1992; Kaiser et al.
+1996; Cook 1987.
+
+Bacterial degradation under aerobic conditions
+Degradation of N-heteroaromatic compounds very often is initiated by a hydroxylation adjacent to the Nheteroatom. This feature applies to pyridine (Fig. 1) and
+derivatives such as nicotinate (Fig. 2), picolinate, isonicotinate (Fig. 3) as well as to isoquinoline (Fig. 4),
+quinoline and various quinoline derivatives (Fig. 5), and
+xanthine. The incorporated oxygen typically is derived
+from water, and a number of molybdenum-containing
+hydroxylases catalyzing these hydroxylation reactions
+have been characterized thoroughly (for reviews on the
+enzymology and genetics of this type of hydroxylation,
+see Hille 1996; RomaÄo and Huber 1998; Fetzner et al.
+1998). The utilization of pyrrole-2-carboxylate by Arthrobacter sp. strain Py1 and Rhodococcus sp. strain Sedi2,
+however, is initiated by an oxygenation reaction, catalyzed by distinct NADH-dependent pyrrole-2-carboxylate monooxygenases (Hormann and Andreesen 1991,
+1994; Becker et al. 1997).
+Aerobic degradation in many cases involves several
+hydroxylation steps, followed by dioxygenolytic cleavage
+
+of the (hetero)aromatic ring. However, there are also
+aerobic pathways involving reductive steps prior to ring
+cleavage.
+Pyridine and derivatives
+Chemically, the pyridine ring is susceptible to reduction
+and to attack by nucleophilic agents (preferably at C-2
+and C-4). These characteristic properties have been
+exploited by microorganisms for evolving mechanisms
+for pyridine ring degradation. Two general strategies of
+bacterial pyridine degradation involve (i) hydroxylation
+reactions, followed by reduction, and (ii) (aerobic) reductive pathway(s) not initiated by hydroxylations (for
+detailed reviews on the biodegradation of pyridine and
+its derivatives, see Shukla 1984; Sims and O'Loughlin
+1989; Kaiser et al. 1996). Biodegradability of pyridine
+derivatives was found generally to follow the order
+pyridinecarboxylic acids > pyridine  monohydroxypyridines > methylpyridines > aminopyridines  chloropyridines (Naik et al. 1972; Sims and Sommers 1985,
+1986; Sims and O'Loughlin 1989).
+Pyridine
+The ability to degrade pyridine is widespread in microorganisms. Hypothetical pathways for the aerobic microbial degradation of pyridine are summarized in
+Fig. 1. From a number of organisms (Fig. 1A±F), only
+aliphatic intermediates of pyridine degradation have
+been identi®ed, and some (pyridine-induced) enzymes
+converting (proposed) aliphatic intermediates detected.
+However, the mechanism(s) of cleavage of the pyridine
+ring remain(s) unknown (Fig. 1A± F). In earlier studies,
+hydroxylated pyridine derivatives were not observed
+during the transformation of pyridine. In contrast, UV
+and IR spectroscopy and gas chromatography/mass
+spectrometry analyses of extracts of the culture broth of
+Rhodococcus opacus and Arthrobacter crystallopoietes
+strains revealed the formation of a number of hydroxylated metabolites during pyridine utilization. Products
+of pyridine ring cleavage were also detected, but studies
+on the enzymes that would be involved in the proposed
+pathways were not performed (Fig. 1G, H; Ze®rov et al.
+1994).
+Alkylpyridines
+For 2-methylpyridine utilization by an Arthrobacter
+strain, a reductive pathway involving succinic semialdehyde (cf. Fig. 1) as intermediate was suggested
+(Shukla 1974, 1984). Degradation of 2- and 4-ethylpyridine by a mixed culture from soil was found to involve ring hydroxylation and reduction prior to ring
+cleavage (Feng et al. 1994).
+
+240
+
+Fig. 1 Pathways of aerobic bacterial degradation of pyridine.
+A Corynebacterium sp. (Shukla and Kaul 1974; Shukla 1984), B
+Bacillus sp. (Watson and Cain 1975; Shukla 1984), C Micrococcus
+luteus (Sims et al. 1986), D Nocardia sp. PNO (Shukla and Kaul 1986),
+E Nocardia sp. Z1 (Watson and Cain 1975), F Azoarcus evansii pF6
+(Rhee et al. 1997), G Rhodococcus opacus, and H Arthrobacter
+crystallopoietes (Ze®rov et al. 1994). Pyridine 1; 1,4-dihydropyridine 2;
+N-formylaminovinylacetaldehyde 3; N-formylaminovinylacetic acid 4;
+succinic semialdehyde 5; succinic acid 6; 2-hydroxy-1,2,3,4-tetrahydropyridine 7; glutaric dialdehyde 8; glutaric semialdehyde 9; glutaric
+acid 10; glutaryl-coenzyme A 11; 2-hydroxy-1,2-dihydropyridine
+12; 2,6-dihydroxy-1,2,3,6-tetrahydropyridine 13; 2-hydroxypyridine
+14; 2,6-dihydroxy-1,2-dihydropyridine 15; 2,6-dihydroxypyridine 16;
+3-pentenoic acid monoamide 17; 3-hydroxypyridine 18; 2,3-dihydroxypyridine 19; 5-amino-2-oxo-4-pentenoic acid 20; succinic
+semialdehyde 21; 2,3-dihydro-2,5,6-trihydroxypyridine 22; 2,3,6-trihydroxypyridine 23; maleamic acid 24; tartaric acid monoamide 25.
+(Compounds depicted in brackets were not detected)
+
+Hydroxypyridines
+Degradation of hydroxypyridines occurs via hydroxylation of the ring yielding a di- or trihydroxypyridine
+intermediate, followed by ring cleavage (cf. Fig. 1; Houghton and Cain 1972; Shukla 1984; Kaiser et al. 1996).
+3,4-Dihydroxypyridine undergoes meta cleavage (2,3dioxygenolysis) in an Agrobacterium sp. (Watson et al.
+1974). In Nocardia sp. strain PNO, 2-hydroxypyridine is
+hydroxylated to 2,5-dihydroxypyridine (and presumably
+to 2,3,6-trihydroxypyridine) prior to ring cleavage and
+formation of maleamate (Shukla and Kaul 1986). 2,5Dihydroxypyridine was found to undergo 5,6-dioxygenolytic ring cleavage and subsequent hydrolysis to
+maleamate and formate in Achromobacter sp. (cf. Fig. 2;
+Cain et al. 1974).
+
+Pyridine carboxylic acids
+Nicotinic acid may undergo degradation via the maleamate pathway, as outlined in Fig. 2A, B. Surprisingly,
+Azorhizobium caulinodans, as does Clostridium barkeri,
+reduces 6-hydroxynicotinate to 6-oxo-1,4,5,6-tetrahydronicotinate, which subsequently undergoes hydrolytic
+degradation (Fig. 2C). In contrast to the fermentative
+pathway (Fig. 7), the Azorhizobium pathway involves
+glutaric acid as intermediate (Fig. 2C; Kitts et al. 1992).
+Succinic semialdehyde (see Fig. 1) was characterized as a
+key intermediate of isonicotinic acid degradation by
+Bacillus brevis, and a pathway involving oxygenative
+cleavage of the partially reduced pyridine ring was proposed (Singh and Shukla 1986). In contrast, Mycobacterium sp. INA1 (Kretzer et al. 1993), Pseudomonas sp.
+(Ensign and Rittenberg 1965) and Micrococcus (formerly, Sarcina) sp. (Gupta and Shukla 1979)
+degrade
+isonicotinic acid via 2-hydroxy- and 2,6-dihydroxyisonicotinic acid. Further degradation by Mycobacterium
+sp. strain INA1 involves coenzyme A activation and ring
+reduction prior to ring cleavage and 2-oxoglutarate
+formation (Fig. 3; Kretzer et al. 1993). Picolinic acid,
+which may occur as degradation product of the herbicide
+diquat, is initially hydroxylated at C-6, and there is a
+second hydroxylation at C-3. Decarboxylation produces
+2,5-dihydroxypyridine, which is further metabolized via
+the maleamate pathway (cf. Fig. 2) in a Bacillus sp. and
+in a gram-negative isolate (Shukla and Kaul 1973;
+Shukla et al. 1977). Dipicolinic acid, a typical constituent
+of the core of the bacterial endospore, is degraded by
+Achromobacter via hydroxylation at C-3 and ring
+cleavage between C-2 and C-3. Subsequent hydrolysis
+
+241
+
+and rearrangement reactions generate oxalate, ammonia, and 2-oxoglutarate (Kobayashi and Arima 1962).
+Indole
+Claus and Kutzner (1983) investigated indole catabolism
+by Alcaligenes sp. strain IN3. Indole was metabolized
+via isatin and anthranilate (cf. Fig. 8) to gentisate, which
+was subsequently cleaved to maleylpyruvate.
+Isoquinoline
+Several bacterial strains utilizing isoquinoline have been
+isolated. All isolates metabolized isoquinoline via
+1(2H)isoquinolinone (Aislabie et al. 1989, 1994; RoÈger
+et al. 1990). For Brevundimonas diminuta strain 7, a
+putative degradation pathway via phthalate, 4,5-dihydroxyphthalate, and protocatechuate was suggested by
+RoÈger et al. (1995) (Fig. 4).
+Quinoline and derivatives
+
+Fig. 2 Pathways of aerobic bacterial degradation of nicotinic acid.
+A Pseudomonas sp. (Behrman and Stanier 1957), B Bacillus sp.
+(Ensign and Rittenberg 1964; Hirschberg and Ensign 1971; Nagel and
+Andreesen 1989, 1990, 1991), C Azorhizobium caulinodans (Kitts et al.
+1992). Nicotinic acid 1; 6-hydroxynicotinic acid 2; 2,5-dihydroxypyridine 3; N-formylmaleamic acid 4; maleamic acid 5; maleic acid 6;
+fumaric acid 7; 2,6-dihydroxynicotinic acid 8; 2,3,6-trihydroxypyridine
+9; 6-oxo-1,4,5,6-tetrahydronicotinic acid 10; 2-formylglutaryl-5-amide
+11; 2-formylglutaric acid 12; glutaric semialdehyde 13; glutaric acid 14;
+glutaryl-coenzyme A 15; acetoacetyl-coenzyme A 16. (Compounds
+depicted in brackets were not detected)
+
+Fig. 3 Aerobic degradation of
+isonicotinic acid by Mycobacterium sp. INA1 (Kretzer et al.
+1993). Isonicotinic acid 1;
+2-hydroxyisonicotinic acid 2;
+citrazinic acid 3; citrazyl-coenzyme A 4; 2,6-dioxopiperidine4-carboxyl-coenzyme A 5; propane-1,2,3-tricarboxylic acid 6;
+cis-aconitic acid 7; isocitric acid
+8; 2-oxoglutaric acid 9
+
+Currently, four pathways of aerobic degradation of
+quinoline (derivatives) are known, namely, the 5,6dihydroxy-2(1H)quinolinone pathway, the 7,8-dihydroxy-2(1H)quinolinone pathway, the anthranilate
+pathway, and the 8-hydroxycoumarin pathway (Fig. 5;
+for reviews on the pathways and on the enzymes involved, see Schwarz and Lingens 1994; Fetzner et al.
+1998). In both the 5,6- and the 7,8-dihydroxy2(1H)quinolinone pathway, after initial hydroxylation
+adjacent to the N-heteroatom, the benzene moiety of the
+quinoline ring is transformed to a dihydroxy derivative
+(5,6- or 7,8- respectively), which subsequently undergoes
+ring cleavage (Fig. 5a, b). Formation and dioxygenolytic
+cleavage of dihydroxy compounds is a common strategy
+of aerobic bacteria to degrade aromatic compounds. In
+contrast, in both the anthranilate pathway (Fig. 5c;
+Hund et al. 1990; Bott et al. 1990) and the 8-hydroxycoumarin pathway (Fig. 5d; Shukla 1986, 1989; Schwarz
+et al. 1989), the pyridine ring is degraded prior to benzene ring cleavage. In the anthranilate pathway of
+quinaldine (Fig. 5c) and 4(1H)quinolinone degradation,
+2,4-dioxygenases catalyze the cleavage of the pyridine
+
+242
+
+Fig. 4 Hypothetical pathway of aerobic degradation of isoquinoline
+by Brevundimonas diminuta 7 (RoÈger et al. 1995). Isoquinoline 1;
+1(2H)isoquinolinone 2; phthalic acid 3; 4,5-dihydroxyphthalic acid 4;
+protocatechuic acid 5. (Compound in brackets: not detected)
+
+moiety of 2-methyl-3-hydroxy-4(1H)quinolinone and 3hydroxy-4(1H)-quinolinone respectively. These dioxygenases are rather exceptional, since they catalyze the
+cleavage of two carbon-carbon bonds of the respective
+substrate with concomitant release of carbon monoxide
+(Fig. 6; Bauer et al. 1994, 1996).
+
+Fig. 5a±d Degradation of quinoline and its derivatives by aerobic
+bacteria. a 5,6-Dihydroxy-2(1H)quinolinone pathway: early steps of
+the degradation pathway of 3-methylquinoline by Comamonas testosteroni 63 (Schach et al. 1993, 1995). 3-Methylquinoline 1; 3-methyl2(1H)quinolinone 2; 5,6-dihydro-5,6-dihydroxy-3-methyl-2(1H)quinolinone 3; 6-hydroxy-3-methyl-2(1H)quinolinone 4; 5,6-dihydroxy-3methyl-2(1H)quinolinone 5; 3-methyl-2,4,6-trihydroxypyridine 6. b
+7,8-Dihydroxy-2(1H)quinolinone pathway: proposed early steps of
+degradation of 4-methylquinoline by Pseudomonas putida K1 (RuÈger
+et al. 1993). 4-Methylquinoline 1; 4-methyl-2(1H)quinolinone 2; 7,8dihydro-7,8-dihydroxy-4-methyl-2(1H) quinolinone 3; 8-hydroxy-4methyl-2(1H)quinolinone 4; 7,8-dihydroxy-4-methyl-2(1H)quinolinone 5; 6-hydroxy-5-(2-carboxyethenyl)-4-methyl-2(1H)pyridone 6.
+(Compound in brackets: not detected). c Anthranilate pathway:
+degradation of quinaldine (2-methylquinoline) by Arthrobacter sp.
+RuÈ61a (Hund et al. 1990; Bauer et al. 1994). Quinaldine (2-methylquinoline) 1; 2-methyl-4(1H)-quinolinone 2; 3-hydroxy-2-methyl4(1H)quinolinone 3; N-acetylanthranilic acid 4; anthranilic acid 5;
+catechol 6. An analogous pathway, via 3-hydroxy-4(1H)quinolinone,
+N-formylanthranilate, and anthranilate, was found for the utilization
+of 4(1H)quinolinone by Pseudomonas putida 33/1 (Bott et al. 1990;
+Bauer et al. 1994). d Early steps of the 8-hydroxycoumarin pathway of
+aerobic quinoline degradation (Shukla 1986, 1989; Schwarz et al.
+1989). Quinoline 1; 2(1H)quinolinone 2; 8-hydroxy-2(1H)quinolinone
+3; 8-hydroxycoumarin 4; 2,3-dihydroxyphenylpropionic acid 5
+
+243
+
+Fig. 6 2,4-Dioxygenolysis. Reactions catalyzed by (1H)-3-hydroxy-4oxoquinoline 2,4-dioxygenase (R  H) (Pseudomonas putida 33/1)
+and by (1H)-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (R  CH3)
+(Arthrobacter sp. RuÈ61a). The 2,4-dioxygenolytic (h) mode of ring
+cleavage was proven by dioxygen incorporation studies, allowing the
+enzyme-catalyzed reaction to proceed in a 50% (16O)O2 /50% (18O)O2
+atmosphere (Bauer et al. 1996). (In brackets: proposed catalytic
+intermediate)
+
+Bacterial transformation or degradation
+under anoxic conditions
+Anaerobiosis occurs in any habitat in which oxygen
+consumption exceeds its supply. Examples include
+compacted or ¯ooded soils, sediments from eutrophic
+lakes, land®lls, lagoons, and some groundwater. One of
+the most important anoxic habitats is the saturated
+subsurface soil. Heteroaromatic compounds showing
+relatively good water solubility, low sorption and thus
+high aqueous mobility have often been found in subsurface environments (Table 1).
+
+Comparison of the bacterial conversion
+under nitrate-reducing, sulfate-reducing
+and methanogenic conditions
+In order to predict the fate of heterocyclic aromatic
+compounds in a habitat, it is important to evaluate the
+physical, chemical and physiological factors of the environment that aect the bioavailability and the metabolism of bioconversion or biodegradation, such as
+temperature, pH, moisture, salinity, oxygen concentration, availability of electron donors and electron acceptors, sorption of chemicals to particulate material,
+and concentration of chemicals. The availability of a
+speci®c electron acceptor, for instance, may govern
+biotransformation (Bollag and Kaiser 1991; Kaiser and
+Bollag 1991, 1992). Under certain redox conditions,
+complete mineralization of a compound may be observed, while under others transformation may be incomplete or may not occur at all.
+Kuhn and Su¯ita (1989) compared the anaerobic
+biodegradation of some pyridine derivatives (0.2 mM
+initial concentration) by anoxic aquifer slurries incubated under sulfate-reducing or methanogenic conditions. Nicotinic acid was the most readily depleted
+compound under both redox conditions, having disappeared after 1 month. Pyridine was removed after 8
+months under both redox conditions, whereas 2- and 4methylpyridine disappeared only under sulfate-reducing
+and methanogenic conditions, respectively. 3-Methyl-
+
+pyridine was partially transformed in 8 months only
+under sulfate-reducing conditions. Liu et al. (1994a)
+evaluated the in¯uence of redox conditions on the anaerobic biotransformation of pyridine, quinoline, indole
+and carbazole in anoxic freshwater sediment slurries.
+Pyridine (10 mg l)1) was rapidly lost from the sediment
+slurries within 4 weeks under denitrifying conditions but
+persisted for up to 3 months under sulfate-reducing and
+methanogenic conditions. Quinoline (10 mg l)1) was
+completely transformed to 2(1H)quinolinone under
+methanogenic and sulfate-reducing conditions after incubation for 23 and 45 days respectively. The hydroxylated product accumulated and was not further
+transformed. (In contrast, quinoline has been shown to
+be biodegraded under methanogenic conditions by
+Godsy et al. 1992, 1994) Under denitrifying conditions,
+less than 23% of the initial concentration of quinoline
+was transformed after 83 days. Indole (10 mg l)1) was
+completely removed from the sediment slurries under
+methanogenic, nitrate-reducing, and sulfate-reducing
+conditions after 17, 18, and 27 days respectively. Stoichiometric amounts of oxindole accumulated under
+sulfate-reducing conditions, whereas under methanogenic and denitrifying conditions it was further
+degraded via unknown compounds. No evidence for
+anaerobic biotransformation of carbazole was noted.
+Carbazole strongly sorbed to the sediments and was the
+least bioavailable of the N-heterocyclic compounds investigated (Liu et al. 1994a). In another comparative
+study, soil samples from a creosote-contaminated site in
+Denmark were used as inoculum to examine the degradation of indole and quinoline under nitrate-reducing,
+sulfate-reducing, and methanogenic conditions. Indole
+and quinoline were transformed under all three redox
+conditions, with highest degradation rates observed
+under sulfate-reducing conditions. Maximum conversion rates were as follows: denitrifying conditions, indole
+1.9 lmol l)1 day)1, quinoline 0.5 lmol l)1 day)1; methanogenic conditions, indole 6.6 lmol l)1 day)1, quinoline 1.8 lmol l)1 day)1; sulfate-reducing conditions,
+indole 16.0 lmol l)1 day)1, quinoline 13.1 lmol l)1
+day)1 (Licht et al. 1996). Similarly, Dyreborg et al.
+(1997), investigating the potential of groundwater microorganisms to degrade some N-, S-, and O-heteroaromatic compounds, reported that quinoline was degraded
+by anaerobic microcosms with degradation rates that
+were slightly higher under sulfate-reducing conditions
+than under denitrifying and methanogenic conditions.
+Pyridine and derivatives
+Pyridine
+Degradation of pyridine has been observed to occur
+under nitrate-reducing, sulfate-reducing and methanogenic conditions (Kaiser and Bollag 1991, 1992;
+Kuhn and Su¯ita 1989; Bak and Widdel 1986; Ronen
+
+244
+
+and Bollag 1991, 1992; Battersby and Wilson 1989).
+Azoarcus evansii strain pF6 degrades pyridine under
+both aerobic and nitrate-reducing conditions through
+the same pathway (Fig. 1F; Rhee et al. 1997). Hydroxy
+intermediates were not involved in this pathway. In
+contrast, Kaiser and Bollag (1991) suggested that 3hydroxypyridine might be an intermediate in pyridine
+degradation by mixed cultures obtained from sewage
+sludge under nitrate- and sulfate-reducing conditions.
+Alkylpyridines
+2-, 3-, and 4-methylpyridine were utilized by various
+sulfate-reducing mixed cultures (Kuhn and Su¯ita 1989;
+Kaiser and Bollag 1992; Kaiser et al. 1993). 4-Methyl2(1H)pyridone was identi®ed as intermediate of 4methylpyridine degradation (Kaiser et al. 1993). Complete mineralization of 4-methylpyridine by aquifer
+slurries also occurred under methanogenic conditions
+(Kuhn and Su¯ita 1989).
+Hydroxypyridines
+2-, 3-, and 4-hydroxypyridine disappeared completely
+from a sulfate-reducing mixed culture obtained from
+polluted subsurface soil (Kaiser and Bollag 1992). Mixed
+cultures from sewage sludge completely degraded 3-hydroxypyridine under sulfate- and nitrate-reducing conditions (Kaiser and Bollag 1991).
+Pyridine carboxylic acids
+Nicotinic acid was degraded in anoxic aquifer slurries
+under methanogenic conditions, whereas, in this study,
+pyridine was not mineralized (Adrian and Su¯ita 1994).
+Nicotinic acid was degraded by sulfate-reducing and
+methanogenic aquifer slurries (Kuhn and Su¯ita 1989).
+The sulfate-reducing bacterium Desulfococcus niacini
+completely mineralizes nicotinic acid via unknown intermediates (Imho-Stuckle and Pfennig 1983). In the
+fermentative pathway of nicotinic acid degradation by
+Clostridium barkeri, the initial step is ring hydroxylation,
+followed by a ring reduction ± ring cleavage sequence as
+shown in Fig. 7 (Stadtman et al. 1972). A fermentative
+bacterium in a de®ned two-membered coculture from
+marine sediment degraded dipicolinate to propionate,
+acetate, NH3 and CO2 (Seyfried and Schink 1990).
+Indole
+Complete microbial degradation of indole has frequently been observed under nitrate-reducing as well as
+under sulfate-reducing and methanogenic conditions
+(Wang et al. 1984; Berry et al. 1987b; Madsen et al.
+1988; Shanker and Bollag 1990; Liu et al. 1994a; Licht
+et al. 1996). The transformation pathway of indole by
+
+Fig. 7 Pathway of nicotinic acid fermentation by Clostridium barkeri
+(Stadtman et al. 1972). Nicotinic acid 1; 1,6-dihydro-6-oxonicotinic
+acid 2; 6-oxo-1,4,5,6-tetrahydronicotinic acid 3; 2-methyleneglutaric
+acid 4; methylitaconic acid 5; dimethylmaleic acid 6; propionic acid 7;
+pyruvic acid 8; acetic acid 9
+
+Desulfobacterium indolicum preceeds via oxindole, isatin,
+and anthranilate (Fig. 8; Johansen et al. 1997b). The
+same catabolic steps were suggested for indole mineralization by a denitrifying microbial community obtained
+from sewage sludge (Madsen and Bollag 1989). This
+anaerobic pathway shows similarities to the early steps
+of the aerobic indole catabolism described above (Claus
+and Kutzner 1983).
+Isoquinoline, quinoline and its derivatives
+Isoquinoline and quinoline can be degraded anaerobically. Isoquinoline has been removed from municipal
+sludge in a primary digester (Parker et al. 1994) and
+from creosote-contaminated aquifer material and
+groundwater (Godsy et al. 1992, 1994) under methanogenic conditions. Anoxic sediment slurries from both
+a freshwater and an oceanic (3.7% salinity) environment
+showed a complete loss of quinoline (approximately
+0.2 mM) within 3 months (Liu and Kuo 1996). Quinoline completely disappeared from a mixed culture from
+creosote-polluted soil under nitrate-reducing, sulfatereducing and methanogenic conditions (Licht et al.
+1996). Whereas, in some studies, 2(1H)quinolinone accumulated from quinoline under sulfate-reducing and
+methanogenic conditions (Pereira et al. 1988; Liu et al.
+1994a), complete degradation under methanogenic
+conditions was also observed (Battersby and Wilson
+1989; Godsy et al. 1992, 1994; Liu et al. 1994b). Licht
+et al. (1997) proposed that the sulfate-reducing bacterium D. indolicum, which is able to grow on indole and
+quinoline (Bak and Widdel 1986), uses the same inducible enzyme to hydroxylate both indole and quinoline,
+
+245
+
+Sorption of N-heteroaromatic compounds
+to soil and other solids
+
+Fig. 8 Early steps of anaerobic degradation of indole by Desulfobacterium indolicum (Johansen et al. 1997b) and hypothetical metabolic
+steps of indole degradation by a denitrifying microbial community
+enriched from sewage sludge (Madsen and Bollag 1989). Indole 1;
+oxindole 2; isatin 3; isatoic acid 4; anthranilic acid 5; dioxindole 6.
+(Compound in brackets: not detected)
+
+forming oxindole and 2(1H)quinolinone respectively.
+D. indolicum, after this initial hydroxylation at position
+2, forms 3,4-dihydro-2(1H)quinolinone (Fig. 9), which is
+further transformed into unidenti®ed products. 6- and 8methylquinoline were converted to 6- and 8-methyl-3,4dihydro-2(1H)quinolinone in stoichiometric amounts,
+whereas 3- and 4-methyl-2(1H)quinolinone were not
+reduced by D. indolicum (Johansen et al. 1997b). The
+degradation of quinoline in a bio®lm system under
+denitrifying conditions likewise proceeded via
+2(1H)quinolinone and 3,4-dihydro-2(1H)-quinolinone,
+which subsequently was converted to unidenti®ed compounds. 3-, 4-, 6-, and 8-methylquinoline also were hydroxylated at C-2. The hydroxylated metabolites of the
+quinolines methylated at the heterocyclic ring were not
+transformed further, whereas the 6- and 8-methyl2(1H)quinolinones were hydrogenated at position 3 and
+4. The resulting methylated 3,4-dihydro-2(1H)quinolinones accumulated (Johansen et al. 1997c).
+
+Fig. 9 Early steps of anaerobic degradation of quinoline by
+Desulfobacterium indolicum (Johansen et al. 1997b) and anaerobic
+transformation of quinoline by a denitrifying mixed culture (Johansen
+et al. 1997c). Quinoline 1; 2(1H)quinolinone 2; 3,4-dihydro-2(1H)
+quinolinone 3
+
+As a rule, sorption phenomena play an important role
+in the transport of organic contaminants in sediment
+and soil/water systems, and in¯uence biotic processes.
+Catallo (1996) examined the transformation of N-, O-,
+and S-heterocyclic compounds in estuarine sediment
+water microcosms. Under continuously stirred conditions in the microcosms, degradation processes were
+limited by increased particle surface area and reduced
+electrochemical conditions (i.e., degradation was fastest in oxidized sediments of large particle size). In
+quiescent systems, transformation rates were also
+faster with increasing particle size, but were promoted
+by reducing electrochemical conditions. Most biochemical and chemical transformations appeared to
+occur in the aqueous phases of the sediment slurries,
+rather than at the surface sites on particles. Hence,
+reducing redox conditions in the unstirred systems
+promoted liberation of heteroaromatic compounds
+from iron colloids and particles into the aqueous
+phase where chemical and microbial processes proceed
+at more rapid rates. Other processes that liberate the
+heteroaromatics from sediment surfaces to the aqueous
+phase, such as protonation to soluble ion pairs, were
+also expected to increase the degradation rates of some
+heterocyclic compounds in the sediment microcosms
+(Catallo 1996).
+Sorption tends to decrease the degradation rate of
+organic chemicals by reducing their bioavailability. On
+the other hand, pollutants showing low sorption to soil
+are readily leached into subsoil and groundwater. For
+quinoline (pKa  4.9), a dominant role of cation exchange in partitioning between water and low-organiccarbon materials (subsoils, clay, amorphous silica) has
+been suggested in several reports (Zachara et al. 1986,
+1990; McBride et al. 1992; Szecsody and Streile 1992). In
+the presence of clays (montmorillonite, hectorite), Smith
+et al. (1992) found that microbial utilization of quinoline
+was desorption-rate-limited and suggested that sorption
+of the quinolinium ion (QH+) reduces its bioavailability.
+However, Helmy et al. (1983) discussed the possibility
+that the neutral species of quinoline in a chemisorption
+mechanism replaces the surface hydroxyls bonded to
+structural atoms (Al, Fe) of the clay.
+In contrast to low-organic-carbon clay, where sorption is thought to occur mainly by cation exchange (and
+chemisorption), the partitioning of azaarenes, such as
+quinoline and acridine, between organic-rich wastewater
+sludge and water appeared to be dominated by the
+mechanism of hydrophobic interaction. The cationic
+species (acidic pH) were less readily sorbed by the sludge
+than the neutral azaarenes (Southworth and Keller
+1984). Thus, the adsorption/desorption balance of
+azaarenes depends on the nature of the sorbent as well as
+on physicochemical conditions such as salinity and pH.
+
+246
+
+In situ transformations and bioremediation
+strategies; trends and prospects
+Because of the complexity of natural ecosystems, extrapolations of laboratory studies to in situ environments are very dicult, if not impossible (Mandelbaum
+et al. 1997). For a compound to be degraded biologically under ®eld conditions, some basic criteria must be
+met. Bioavailability of the substrate must be considered,
+especially with respect to sorption phenomena and
+concentration of the compound, an appropriate microbial community possessing the requisite catabolic ability
+must be present, and environmental parameters must be
+conducive to growth of the degrading microorganisms.
+Investigating the biotransformation of pyridine derivatives under dierent redox conditions by slurries of
+unpolluted as well as polluted surface and subsurface
+soils, Kaiser and Bollag (1992) showed that long-term
+adaptation of the indigenous micro¯ora may well be a
+crucial factor for biodegradation. Concerning the presence of appropriate microbial communities, diverse and
+abundant microbial populations have been found even
+in deep subsurface samples (Shanker et al. 1991; Thomas et al. 1997). Aerobic microbial mineralization of
+indole and pyridine occurred in sediment samples taken
+from dierent depths (up to 526 m), and sulfate-reducing bacteria capable of indole transformation were
+also present in several samples taken from the deep
+(several hundred meters) subsurface (Shanker et al.
+1991).
+However, polluted ecosystems generally contain
+complex mixtures of compounds, which dier in their
+toxicity to microorganisms. When toxic pollutants are
+present together with contaminants that, as sole substrates, are easily biodegradable, degradation of the
+latter may be aected or even prevented. Typical creosote compounds, such as pyrrole, thiophene, and benzofuran, for instance, were found to inhibit the aerobic
+degradation of toluene (Dyreborg et al. 1996).
+Field studies by in situ monitoring of organic contaminants provide insight into the transport and fate of
+the respective compound(s) in the habitat. In a longterm ®eld experiment to evaluate the mobility, persistence and fate in groundwater of compounds present in
+coal tar creosote, creosote was placed into a well-characterized sand aquifer that showed mostly aerobic conditions. With increasing distance from the source of
+contamination, the concentration of naphthalene was
+reduced while that of quinoline increased, re¯ecting the
+relative aqueous solubilities and mobilities of the two
+compounds. Also observed, after 471 days at sampling
+sites most distant from the source, was the presence of
+quinolinone (Fowler et al. 1994).
+The transport and fate of the water-soluble fraction
+of creosote in a contaminated aquifer were studied
+thoroughly at the American Creosote Works Superfund
+site at Pensacola, Florida (see Table 1). Whereas wells
+located near the source of contamination contained, for
+
+instance, quinoline and isoquinoline as well as
+2(1H)quinolinone and 1(2H)isoquinolinone, samples
+from wells at more distant sites only contained the oxo
+compounds. This ®nding was attributed to microbial
+transformation (Pereira et al. 1987a, b). Under the predominantly anoxic conditions of the Pensacola aquifer,
+removal of N-heteroaromatics appeared to occur:
+25 mg l)1 quinoline and 2 mg l)1 isoquinoline were reported to disappear on a 47-m stretch between two
+sampling wells downhill from the contamination source
+(Grbic-Galic 1989). Godsy et al. (1992, 1994) also reported ®eld evidence for methanogenic degradation of
+quinoline and isoquinoline to CH4 and CO2 in the anoxic groundwater ecosystem near Pensacola. In situ
+observations like these suggest that transformations of
+N-heteroaromatic compounds are indeed occurring in
+subsurface environments.
+Bioremediation techniques exploit the ability of
+microorganisms to degrade organic substances. In situ
+stimulation of the indigenous micro¯ora, in situ inoculation of specialized microbial strains, or withdrawaland-treatment techniques such as land farming, trickling
+®lters or bioreactors are a few means to treat contaminated soils and aquifers. Most studies, however, have
+concentrated on the removal of gasoline, polycyclic aromatic hydrocarbons, phenolic wastes, or chlorinated
+hydrocarbons (Lee et al. 1988; Mueller et al. 1989;
+Grbic-Galic 1989).
+For the treatment of groundwater polluted with alkylpyridines, a two-stage ®xed-®lm reactor, using an
+aerobic mixed culture enriched from subsurface sediment as inoculum, was developed. It removed alkylpyridines with an eciency of 98%±100% from a
+synthetic groundwater (Ronen et al. 1996).
+An integrated bioreclamation approach, including
+land farming with added water and nutrients, bioreactors for heavily contaminated groundwater, irrigation of
+contaminated rocks with bioreactor euent, and in situ
+aquifer treatment by addition of nutrients and H2O2,
+was used to remediate soil, groundwater, and aquifer
+sediments contaminated with the wood preservatives
+creosote and pentachlorophenol (Fredrickson et al.
+1993). For bioremediation of the American Creosote
+Works Superfund site at Pensacola and other creosotecontaminated sites, which all contain complex mixtures
+of pollutants, multiphasic treatment strategies were developed. Soil washing technology with dewatering and
+chemical fractionation of substances through a ®ltration
+process, and biodegradation of targeted compounds
+using patented bacteria capable of utilizing distinct
+compounds as carbon and energy sources for growth
+were used to treat creosote-contaminated soils and
+subsoil materials (Mueller et al. 1991, 1993). To treat the
+creosote-contaminated groundwater of the Pensacola
+site, Mueller et al. (1993) developed a (pilot-scale) twostage, sequential inoculation, continuous-¯ow bioreactor system. A mixture of 15 selected bacterial strains that
+had been isolated from creosote-contaminated soil were
+used as inocula for the bioreactor. This type of biore-
+
+247
+
+actor system on the ®eld scale was shown to degrade
+about 70% of the polycyclic aromatic hydrocarbons and
+heterocycles present in the groundwater (Middaugh et
+al. 1994).
+Since there may be speci®c problems associated with
+aerobic in situ treatment, such as biofouling or ± quite
+frequently ± the impossibility of introducing sucient
+oxygen (especially in aquifers with low permeabilities), it
+seems important to evaluate the applicability of anaerobic transformations. Ronen and Bollag (1992) inoculated subsurface sediment from a polluted site with a
+pyridine-degrading Alcaligenes sp. At high inoculum
+size, pyridine was rapidly mineralized under nitrate-reducing conditions. Amending the sediment with nitrate
+and phosphate improved pyridine mineralization.
+It is obvious that dierent microbial communities
+have dierent capabilities to convert the same substrates, and that the physicochemical properties of the
+environment considerably in¯uence biotransformation
+processes. Thus, for each speci®c site, both laboratory
+and ®eld studies will be necessary to predict the fate of a
+compound in this habitat. A thorough understanding of
+microbial catabolic pathways and of the environmental
+factors that in¯uence biodegradation is prerequisite for
+the development of bioremediation techniques.
+Acknowledgement The ®nancial support of the author's work by
+the Deutsche Forschungsgemeinschaft is gratefully acknowledged.
+
+References
+Adams JD, LaVoie EJ, Shigematsu A, Owens P, Homann D
+(1983) Quinoline and methylquinolines in cigarette smoke:
+comparative data and the eect of ®ltration. J Anal Toxicol 7:
+293±296
+Adrian NR, Su¯ita JM (1994) Anaerobic biodegradation of halogenated and nonhalogenated N-, S-, and O-heterocyclic
+compounds in aquifer slurries. Environ Toxicol Chem 13: 1551±
+1557
+Aislabie J, Rothenburger S, Atlas RM (1989) Isolation of microorganisms capable of degrading isoquinoline under aerobic
+conditions. Appl Environ Microbiol 55: 3247±3249
+Aislabie J, Richards NK, Lyttle TC (1994) Description of bacteria
+able to degrade isoquinoline in pure culture. Can J Microbiol
+40: 555±560
+Alvarez M, Salas M, Joule JA (1991) Marine, nitrogen-containing
+heterocyclic natural products. Structures and syntheses of
+compounds containing quinoline and/or isoquinoline units.
+Heterocycles 32: 759±794
+Baechler FE, MacFarlane DS (1992) Sydney Tar Ponds clean up:
+hydrogeologic assessment. In: Weyer KU (ed) Proceedings of
+the 1992 International Conference on Coke Oven Complexes
+and Subsurface Contaminating Immiscible Fluids. Balkema:
+Rotterdam, Neth. pp 543±550
+Bak F, Widdel F (1986) Anaerobic degradation of indolic compounds by sulfate-reducing enrichment cultures, and description of Desulfobacterium indolicum gen. nov., sp.nov. Arch
+Microbiol 146: 170±176
+Barrick RC, Furlong ET, Carpenter R (1984) Hydrocarbon and
+azaarene markers of coal transport to aquatic sediments. Environ Sci Technol 18: 846±854
+Battersby NS, Wilson V (1989) Survey of the anaerobic biodegradation potential of organic chemicals in digesting sludge. Appl
+Environ Microbiol 55: 433±439
+
+Bauer I, Beyer A de, Tshisuaka B, Fetzner S, Lingens F (1994)
+A novel type of oxygenolytic ring cleavage: 2,4-oxygenation
+and decarbonylation of 1H-3-hydroxy-4-oxoquinaldine and
+1H-3-hydroxy-4-oxoquinoline. FEMS Microbiol Lett 117:
+299±304
+Bauer I, Max N, Fetzner S, Lingens F (1996) 2,4-Dioxygenases
+catalyzing N-heterocyclic-ring cleavage and formation of carbon monoxide. Puri®cation and some properties of 1H-3-hydroxy-4-oxo-quinaldine 2,4-dioxygenase from Arthrobacter sp.
+RuÈ61a and comparison with 1H-3-hydroxy-4-oxoquinoline 2,4dioxygenase from Pseudomonas putida 33/1. Eur J Biochem 240:
+576±583
+Becker D, SchraÈder Th, Andreesen JR (1997) Two-component
+¯avin-dependent pyrrole-2-carboxylate monooxygenase from
+Rhodococcus sp. Eur J Biochem 249: 739±747
+Behrman EJ, Stanier RY (1957) The bacterial oxidation of nicotinic acid. J Biol Chem 228: 923±945
+Berry DF, Francis AJ, Bollag JM (1987a) Microbial metabolism of
+homocyclic and heterocyclic aromatic compounds under anaerobic conditions. Microbiol Rev 51: 43±59
+Berry DF, Madsen EL, Bollag JM (1987b) Conversion of indole to
+oxindole under methanogenic conditions. Appl Environ Microbiol 53: 180±182
+Bett G, Harvey TG, Matheson TW, Pratt KC (1983) Determination of polar compounds in Rundle shale oil. Fuel 62: 1445±
+1454
+BoÈhlendorf B, Forche E, Bedorf N, Gerth K, Irschik H, Jansen R,
+Kunze B, Trowitzsch-Kienast W, Reichenbach H, HoÈ¯e G
+(1996) Antibiotics from gliding bacteria. LXXIII. Indole and
+quinoline derivatives as metabolites of tryptophan in myxobacteria. Liebigs Ann 1996: 49±53
+Bollag JM, Kaiser JP (1991) The transformation of heterocyclic
+aromatic compounds and their derivatives under anaerobic
+conditions. Crit Rev Environ Control 21: 297±329
+Bott G, Schmidt M, Rommel TO, Lingens F (1990) Degradation of
+1H-4-oxoquinoline by Pseudomonas putida 33/1. Biol Chem
+Hoppe-Seyler 371: 999±1003
+Cain RB, Houghton C, Wright KA (1974) Microbial metabolism
+of the pyridine ring. Metabolism of 2- and 3-hydroxypyridines
+by the maleamate pathway in Achromobacter sp. Biochem J
+140: 293±300
+Callely AG (1978) The microbial degradation of heterocyclic
+compounds. Prog Ind Microbiol 14: 205±281
+Canter LW, Sabatini DA (1994) Contamination of public ground
+water supplies by Superfund sites. Int J Environ Stud 46: 35±57
+Catallo WJ (1996) Transformation of N-, O-, and S-heterocycles
+(NOSHs) in estuarine sediments: eects of redox potential and
+sediment particle size. Chemosphere 33: 2543±2563
+Claus G, Kutzner HJ (1983) Degradation of indole by Alcaligenes
+spec. System Appl Microbiol 4: 169-180
+Collin G, HoÈke H (1989) Indole. In: Elvers B, Hawkins S, Ravenscroft M, Schulz G (eds) Ullmann's encyclopedia of industrial chemistry, vol. A14. VCH, Weinheim, pp 167±170
+Collin G, HoÈke H (1993) Quinoline and isoquinoline. In: Elvers B,
+Hawkins S, Russey W, Schulz G (eds) Ullmann's encyclopedia
+of industrial chemistry, vol. A22. VCH, Weinheim, pp 465±469
+Collin G, HoÈke H (1995) Tar and pitch. In: Elvers B, Hawkins S,
+Russey W (eds) Ullmann's encyclopedia of industrial chemistry,
+vol A26. VCH, Weinheim, pp 91±127
+Cook AM (1987) Biodegradation of s-triazine xenobiotics. FEMS
+Microbiol Rev 46: 93±116
+Dobson KR, Stephenson M, Green®eld PF, Bell PRF (1985)
+Identi®cation and treatability of organics in oil shale retort
+water. Water Res 19: 849±856
+Dunlap WJ, Shew DC, Roberton JM, Toussaint CR (1976) Organic pollutants contributed to groundwater by a land®ll. In:
+Genetelli EJ, Cirello J (eds) Gas and leachate from land®lls ±
+formation, collection and treatment. EPA-600/9±76±004. US
+Environmental Protection Agency, Cincinnati, Ohio, pp 96±110
+Dyreborg S, Arvin E, Broholm K (1996) The in¯uence of creosote
+compounds on the aerobic degradation of toluene. Biodegradation 7: 97±107
+
+248
+Dyreborg S, Arvin E, Broholm K (1997) Biodegradation of NSOcompounds under dierent redox-conditions. J Contam Hydrol
+25: 177±197
+Edler B, Zwiener C, Frimmel FH (1997) Particle beam LC/MS
+screening of polar compounds of contaminated ground water
+samples from a former gas plant. Fresenius J Anal Chem 359:
+288-292
+Ensign JC, Rittenberg SC (1964) The pathway of nicotinic acid
+oxidation by a Bacillus species. J Biol Chem 239: 2285±2291
+Ensign JC, Rittenberg SC (1965) The formation of a blue pigment
+in the bacterial oxidation of isonicotinic acid. Arch Mikrobiol
+51: 384±392
+Feng Y, Kaiser JP, Minard RD, Bollag JM (1994) Microbial
+transformation of ethylpyridines. Biodegradation 5: 121±128
+Fetzner S, Tshisuaka B, Lingens F, Kappl R, HuÈttermann J (1998)
+Bacterial degradation of quinoline and -derivatives ± pathways
+and their biocatalysts. Angew. Chem. Int. Ed. 37: 4000±4021
+Fowler MG, Brooks PW, Northcott M, King MWG, Barker JF,
+Snowdon LR (1994) Preliminary results from a ®eld experiment
+investigating the fate of some creosote components in a natural
+aquifer. Org Geochem 22: 641±649
+Fredrickson JK, Bolton H Jr, Brockman FJ (1993) In situ and onsite bioreclamation. Environ Sci Technol 27: 1711±1716
+Godsy EM, Goerlitz DF, Grbic-Galic D (1992) Methanogenic
+biodegradation of creosote contaminants in natural and simulated ground-water ecosystems. Ground Water 30: 232±242
+Godsy EM, Goerlitz DF, Grbic-Galic D (1994) Methanogenic
+biodegradation of creosote derived components in an aquifer at
+Pensacola, Florida. In: Outton AR (ed) Toxic Substances Hydrological Science Selected Paper Conference 1994. American
+Institute of Hydrology: Minneapolis, Minn. pp 1±18
+Grbic-Galic D (1989) Microbial degradation of homocyclic and
+heterocyclic aromatic hydrocarbons under anaerobic conditions. Dev Ind Microbiol 30: 237±253
+Gupta RC, Shukla OP (1979) Isonicotinic and 2-hydroxy-isonicotinic acid hydroxylases of Sarcina sp. Indian J Biochem Biophys
+16: 72±75
+Hale RC, Aneiro KM (1997) Determination of coal tar and creosote constituents in the aquatic environment. J Chromatogr A
+774: 79±95
+Hansch C, Leo A (1979) Substituent constants for correlation
+analysis in chemistry and biology. Wiley, New York
+Harmsen J (1983) Identi®cation of organic compounds in leachate
+from a waste tip. Water Res 17: 699±705
+Helmy AK, Bussetti SG de, Ferreiro EA (1983) Adsorption of
+quinoline from aqueous solutions by some clays oxides. Clays
+Clay Minerals 31: 29±36
+Hille R (1996) The mononuclear molybdenum enzymes. Chem Rev
+96: 2757±2816
+Hirao K, Shinohara Y, Tsuda H, Fukushima S, Takahashi M, Ito
+N (1976) Carcinogenic activity of quinoline on rat liver. Cancer
+Res 36: 329±335
+Hirschberg R, Ensign JC (1971) Oxidation of nicotinic acid by a
+Bacillus species: puri®cation and properties of nicotinic acid and
+6-hydroxynicotinic acid hydroxylases. J Bacteriol 108: 751±756
+Hormann K, Andreesen JR (1991) A ¯avin-dependent oxygenase
+reaction initiates the degradation of pyrrole-2-carboxylate
+in Arthrobacter strain Py1 (DSM 6386). Arch Microbiol 157:
+43±48
+Hormann K, Andreesen JR (1994) Puri®cation and characterization of a pyrrole-2-carboxylate oxygenase from Arthrobacter
+strain Py1. Biol Chem Hoppe-Seyler 375: 211±218
+Houghton C, Cain RB (1972) Microbial metabolism of the pyridine
+ring. Formation of pyridinediols (dihydroxypyridines) as intermediates in the degradation of pyridine compounds by
+micro-organisms. Biochem J 130: 879±893
+Hund HK, Beyer A de, Lingens F (1990) Degradation of quinaldine by Arthrobacter sp. Biol Chem Hoppe-Seyler 371: 1005±
+1008
+Imho-Stuckle D, Pfennig N (1983) Isolation and characterization
+of a nicotinic acid-degrading sulfate-reducing bacterium, Desulfococcus niacini sp. nov. Arch Microbiol 136: 194±198
+
+Johansen SS, Hansen AB, Mosbaek H, Arvin E (1997a) Identi®cation of heteroaromatic and other organic compounds in
+ground water at creosote-contaminated sites in Denmark.
+Ground Water Monit Rem 17: 106±115
+Johansen SS, Licht D, Arvin E, Mosbaek H, Hansen AB (1997b)
+Metabolic pathways of quinoline, indole and their methylated
+analogs by Desulfobacterium indolicum (DSM 3383). Appl Microbiol Biotechnol 47: 292±300
+Johansen SS, Arvin E, Mosbaek H, Hansen AB (1997c) Degradation pathway of quinolines in a bio®lm system under denitrifying conditions. Environ Toxicol Chem 16: 1821±1828
+Kaiser JP, Bollag JM (1991) Metabolism of pyridine and 3-hydroxypyridine under aerobic, denitrifying and sulfate-reducing
+conditions. Experientia 47: 292±296
+Kaiser JP, Bollag JM (1992) In¯uence of soil inoculum and redox
+potential on the degradation of several pyridine derivatives. Soil
+Biol Biochem 24: 351±357
+Kaiser JP, Minard RD, Bollag JM (1993) Transformation of 3- and
+4-picoline under sulfate-reducing conditions. Appl Environ
+Microbiol 59: 701±705
+Kaiser JP, Feng Y, Bollag JM (1996) Microbial metabolism of
+pyridine, quinoline, acridine, and their derivatives under aerobic and anaerobic conditions. Microbiol Rev 60: 483±498
+Kitts CL, Lapointe JP, Lam VT, Ludwig RA (1992) Elucidation of
+the complete Azorhizobium nicotinate catabolism pathway.
+J Bacteriol 174: 7791±7797
+Kobayashi Y, Arima K (1962) Bacterial oxidation of dipicolinic
+acid II. Identi®cation of a-ketoglutaric acid and 3-hydroxydipicolinic acid and some properties of cell-free extracts.
+J Bacteriol 84: 765±771
+Koenig K, Andreesen JR (1992) Aerober und anaerober Abbau
+von heterocyclischen, aromatischen Verbindungen durch Bakterien. BioEngineering 8: 78±84
+Kretzer A, Frunzke K, Andreesen JR (1993) Catabolism of
+isonicotinate by Mycobacterium sp. INA1: extended description of the pathway and puri®cation of the molybdoenzyme isonicotinate dehydrogenase. J Gen Microbiol 139:
+2763±2772
+Kuhn EP, Su¯ita JM (1989) Microbial degradation of nitrogen,
+oxygen and sulfur heterocyclic compounds under anaerobic
+conditions: studies with aquifer samples.Environ Toxicol Chem
+8: 1149±1158
+LaVoie EJ, Dolan S, Little P, Wang CX, Sugie S, Rivenson A
+(1988) Carcinogenicity of quinoline, 4- and 8-methylquinoline
+and benzoquinolines in newborn mice and rats. Food Chem
+Toxicol 26: 625±629
+Lee MD, Thomas JM, Borden RC, Bedient PB, Ward CH, Wilson
+JT (1988) Biorestoration of aquifers contaminated with organic
+compounds. CRC Crit Rev Environ Control 18: 29±89
+Leenheer JA, Noyes TI, Stuber HA (1982) Determination of polar
+organic solutes in oil-shale retort water. Environ Sci Technol
+16: 714±723
+Licht D, Ahring BK, Arvin E (1996) Eects of electron acceptors,
+reducing agents, and toxic metabolites on anaerobic degradation of heterocyclic compounds. Biodegradation 7: 83±90
+Licht D, Johansen SS, Arvin E, Ahring BK (1997) Transformation
+of indole and quinoline by Desulfobacterium indolicum (DSM
+3383). Appl Microbiol Biotechnol 47: 167±172
+Liu SM, Kuo CL (1996) Microbial potential for the anaerobic
+transformation of simple homocyclic and heterocyclic compounds in sediments of the Tsengwen River, Taiwan. Chem
+Ecol 12: 41±56
+Liu SM, Jones WJ, Rogers JE (1994a) In¯uence of redox potential
+on the anaerobic biotransformation of nitrogen-heterocyclic
+compounds in anoxic freshwater sediments. Appl Microbiol
+Biotechnol 41: 717±724
+Liu SM, Jones WJ, Rogers JE (1994b) Biotransformation of
+quinoline and methylquinolines in anoxic freshwater sediment.
+Biodegradation 5: 113±120
+Madsen EL, Bollag JM (1989) Pathway of indole metabolism
+by a denitrifying microbial community. Arch Microbiol 151:
+71±76
+
+249
+Madsen EL, Francis AJ, Bollag JM (1988) Environmental factors
+aecting indole metabolism under anaerobic conditions. Appl
+Environ Microbiol 54: 74±78
+Mandelbaum RT, Shati MR, Ronen D (1997) In situ microcosms
+in aquifer bioremediation studies. FEMS Microbiol Rev 20:
+489±502
+Mattraw HC Jr, Franks BJ (1986) Description of hazardous-waste
+research at a creosote works, Pensacola, Florida. In: Mattraw
+HC, Franks BJ (eds) US Geological Survey: Water-Supply
+paper 2285. US Government Printing Oce, Washington, DC,
+pp 1±8
+Mayer AS, Carriere PPE, Gallo C, Pennell KD, Taylor TP, Williams GA, Zhong L (1997) Fate and eects of pollutants.
+Groundwater quality. Water Environ Res 69: 777±844
+McBride JF, Brockman FJ, Szecsody JE, Streile GP (1992) Kinetics
+of quinoline biodegradation, sorption and desorption in a claycoated model soil containing a quinoline-degrading bacterium.
+J Contam Hydrol 9: 133±154
+Middaugh DP, Lantz SE, Heard CS, Mueller JG (1994) Field-scale
+testing of a two-stage bioreactor for removal of creosote and
+pentachlorophenol from ground water: chemical and biological
+assessment. Arch Environ Contam Toxicol 26: 320±328
+Mueller JG, Chapman PJ, Pritchard PH (1989) Creosote-contaminated sites. Their potential for bioremediation. Environ Sci
+Technol 23: 1197±1201
+Mueller JG, Lantz SE, Thomas RL, Kline EL, Chapman PJ,
+Middaugh DP, Pritchard PH, Colvin RJ, Rozich AP, Ross D
+(1991) Bioremediation of the American Creosote Works Superfund site, Pensacola, Florida. In: Proceedings of the 84th
+Annual Meeting of the Air Waste Management Association,
+vol 11, paper 91/18.4
+Mueller JG, Lantz SE, Ross D, Colvin RJ, Middaugh DP, Pritchard PH (1993) Strategy using bioreactors and specially selected microorganisms for bioremediation of groundwater
+contaminated with creosote and pentachlorophenol. Environ
+Sci Technol 27: 691±698
+Mueller JG, Borchert SM, Desrosier RJ, Klingel EJ, Langley W,
+Smyth DJA, Sudicky EA, Shikaze SG, Tischuk M, Brourman
+MD (1997) Integrated funnel-and-gate/GZB product recovery
+and containment technologies for in situ management of a
+creosote NAPL-impacted aquifer. In: Proceedings of the 11th
+National Outdoor Action Conference Ground Water Publishing: Westerville, Ohio. pp 193±203
+Nagao M, Yahagi T, Seino Y, Sugimura T, Ito N (1977) Mutagenicities of quinoline and its derivatives. Mutat Res 42:
+335±342
+Nagel M, Andreesen JR (1989) Molybdenum-dependent degradation of nicotinic acid by Bacillus sp. DSM 2923. FEMS Microbiol Lett 59: 147±152
+Nagel M, Andreesen JR (1990) Puri®cation and characterization of
+the molybdoenzymes nicotinate dehydrogenase and 6-hydroxynicotinate dehydrogenase from Bacillus niacini. Arch
+Microbiol 154: 605±613
+Nagel M, Andreesen JR (1991) Bacillus niacini sp. nov., a nicotinate-metabolizing mesophile isolated from soil. Int J Syst
+Bacteriol 41: 134±139
+Naik MN, Jackson RB, Stokes J, Swaby RJ (1972) Microbial degradation and phytotoxicity of picloram and other substituted
+pyridines. Soil Biol Biochem 4: 313±323
+Ondrus MG, Steinheimer TR (1990) High-performance liquid
+chromatographic determination of azaarenes and their metabolites in groundwater aected by creosote wood preservatives.
+J Chromatogr Sci 28: 324±330
+Orjala J, Gerwick WH (1997) Two quinoline alkoloids from the
+Caribbean cyanobacterium Lyngbya majuscula. Phytochemistry
+45: 1087±1090
+Parker WJ, Monteith HD, Melcer H (1994) Estimation of anaerobic biodegradation rates for toxic organic compounds in municipal sludge digestion. Water Res 28: 1779±1789
+Pereira WE, Rostad CE, Garbarino JR, Hult MF (1983)
+Groundwater contamination by organic bases derived from
+coal-tar wastes. Environ Toxicol Chem 2: 283±294
+
+Pereira WE, Rostad CE, Updegra DM, Bennett JL (1987a) Fate
+and movement of azaarenes and their anaerobic biotransformation products in an aquifer contaminated by wood-treatment
+chemicals. Environ Toxicol Chem 6: 163±176
+Pereira WE, Rostad CE, Updegra DM, Bennett JL (1987b) Anaerobic microbial transformations of azaarenes in ground water
+at hazardous-waste sites. In: Averett RC, McKnight DM (eds)
+Chemical quality of water and the hydrologic cycle. Lewis,
+Chelsea, Mich, pp 111±123
+Pereira WE, Rostad CE, Leiker TJ, Updegra DM, Bennett JL
+(1988) Microbial hydroxylation of quinoline in contaminated
+groundwater: evidence for incorporation of the oxygen atom of
+water. Appl Environ Microbiol 54: 827±829
+Rhee SK, Lee GM, Yoon JH, Park YH, Bae, HS, Lee ST (1997)
+Anaerobic and aerobic degradation of pyridine by a newly
+isolated denitrifying bacterium. Appl Environ Microbiol 63:
+2578±2585
+Richard JJ, Junk GA (1984) Steam distillation, solvent extraction,
+and ion exchange for determining polar organics in shale process waters. Anal Chem 56: 1625±1628
+Riley RG, Garland TR, Shiosaki K, Mann DC, Wildung RE
+(1981) Alkylpyridines in surface waters, groundwaters, and
+subsoils of a drainage located adjacent to an oil shale facility.
+Environ Sci Technol 15: 697±701
+RoÈger P, Erben A, Lingens F (1990) Degradation of isoquinoline
+by Alcaligenes faecalis Pa and Pseudomonas diminuta 7. Biol
+Chem Hoppe-Seyler 371: 511±513
+RoÈger P, BaÈr G, Lingens F (1995) Two novel metabolites in the
+degradation pathway of isoquinoline by Pseudomonas diminuta
+7. FEMS Microbiol Lett 129: 281±286
+RomaÄo MJ, Huber R (1998) Structure and function of the xanthine-oxidase family of molybdenum enzymes. Structure and
+Bonding 90: 69±95
+Ronen Z, Bollag JM (1991) Pyridine metabolism by a denitrifying
+bacterium. Can J Microbiol 37: 725±729
+Ronen Z, Bollag JM (1992) Rapid anaerobic mineralization of
+pyridine in a subsurface sediment inoculated with a pyridinedegrading Alcaligenes sp. Appl Microbiol Biotechnol 37: 264±
+269
+Ronen Z, Bollag TM, Hsu CH, Young JC (1996) Feasibility of
+bioremediation of a ground water polluted with alkylpyridines.
+Ground Water 34: 194±199
+RuÈger A, Schwarz G, Lingens F (1993) Degradation of 4-methylquinoline and quinoline by Pseudomonas putida K1. Biol
+Chem Hoppe-Seyler 374: 479±488
+Sainsbury M (1978) The quinoline alkaloids. In: Coey S (ed)
+Rodd's chemistry of carbon compounds, 2nd edn, vol IV, part
+G. Elsevier, Amsterdam, pp 171±255
+Sainsbury M (1987) The quinoline alkaloids. In: Ansell MF (ed)
+Rodd's chemistry of carbon compounds. Supplement to vol IV
+part G. Elsevier, Amsterdam, pp 209±244
+Santodonato J, Howard PH (1981) Azaarenes: sources, distribution, environmental impact, and health eects. In: Saxena J,
+Fisher F (eds) Hazard assessment of chemicals, vol 1. Academic
+Press, New York, pp 421±441
+Scazzocchio C (1994) The purine degradation pathway, genetics,
+biochemistry and regulation. Prog Ind Microbiol 29: 221±257
+Schach S, Schwarz G, Fetzner S, Lingens F (1993) Degradation of
+3-methylquinoline by Comamonas testosteroni 63. Biol Chem
+Hoppe-Seyler 374: 175±181
+Schach S, Tshisuaka B, Fetzner S, Lingens F (1995) Quinoline 2oxidoreductase and 2-oxo-1,2-dihydroquinoline 5,6-dioxygenase from Comamonas testosteroni 63. The ®rst two enzymes in
+quinoline and 3-methylquinoline degradation. Eur J Biochem
+232: 536±544
+Schwarz G, Lingens F (1994) Bacterial degradation of N-heterocyclic compounds. In: Ratledge C (ed) Biochemistry of microbial degradation. Kluwer, London New York, pp 459±486
+Schwarz G, Bauder R, Speer M, Rommel TO, Lingens F (1989)
+Degradation of quinoline by Pseudomonas ¯uorescens 3, Pseudomonas putida 86 and Rhodococcus spec. B1. Biol Chem
+Hoppe-Seyler 370: 1183±1189
+
+250
+Seyfried B, Schink B (1990) Fermentative degradation of dipicolinic acid (pyridine-2,6-dicarboxylic acid) by a de®ned coculture of strictly anaerobic bacteria. Biodegradation 1: 1±7
+Shanker R, Bollag JM (1990) Transformation of indole by methanogenic and sulfate-reducing microorganisms isolated from
+digested sludge. Microb Ecol 20: 171±183
+Shanker R, Kaiser JP, Bollag JM (1991) Microbial transformation
+of heterocyclic molecules in deep subsurface sediments. Microb
+Ecol 22: 305±316
+Shimizu S, Watanabe N, Kataoka T, Shoji T, Abe N, Morishita S,
+Ichimura H (1993) Pyridine and pyridine derivatives. In: Elvers
+B, Hawkins S, Russey W, Schulz G (eds) Ullmann's Encyclopedia of Industrial Chemistry, vol A22. VCH Weinheim, pp
+399±430
+Shukla OP (1974) Microbial decomposition of a-picoline. Indian
+J Biochem Biophys 11: 192±200
+Shukla OP (1984) Microbial transformation of pyridine derivatives.
+J Sci Ind Res 43: 98±116
+Shukla OP (1986) Microbial transformation of quinoline by a
+Pseudomonas sp. Appl Environ Microbiol 51: 1332±1342
+Shukla OP (1989) Microbiological degradation of quinoline by
+Pseudomonas stutzeri: the coumarin pathway of quinoline catabolism. Microbios 59: 47±63
+Shukla OP, Kaul SM (1973) Microbial transformation of a-picolinate by Bacillus sp. Indian J Biochem Biophys 10: 176±178
+Shukla OP, Kaul SM (1974) A constitutive pyridine degrading
+system in Corynebacterium sp. Indian J Biochem Biophys 11:
+201±207
+Shukla OP, Kaul SM (1986) Microbiological transformation of
+pyridine N-oxide and pyridine by Nocardia sp. Can J Microbiol
+32: 330±341
+Shukla OP, Kaul SM, Khanna M (1977) Microbial transformation
+of pyridine derivatives: a-picolinate metabolism by a gramnegative coccus. Indian J Biochem Biophys 14: 292±295
+Sims GK, O'Loughlin EJ (1989) Degradation of pyridines in
+the environment. CRC Crit Rev Environ Control 19: 309±
+340
+Sims GK, Sommers LE (1985) Degradation of pyridine derivatives
+in soil. J Environ Qual 14: 580±584
+Sims GK, Sommers LE (1986) Biodegradation of pyridine derivatives in soil suspensions. Environ Toxicol Chem 5: 503±509
+Sims GK, Sommers LE, Konopka A (1986) Degradation of pyridine by Micrococcus luteus isolated from soil. Appl Environ
+Microbiol 51: 963±968
+Singh RP, Shukla OP (1986) Isolation, characterization, and metabolic activities of Bacillus brevis degrading isonicotinic acid.
+J Ferment Technol 64: 109±117
+Smith SC, Ainsworth CC, Traina SJ, Hicks RJ (1992) Eect of
+sorption on the biodegradation of quinoline. Soil Sci Soc Am
+J 56: 737±746
+
+Southworth GR, Keller JL (1984) Mobilization of azaarenes from
+wastewater treatment plant biosludge. Bull Environ Contam
+Toxicol 32: 445±452
+Stadtman ER, Stadtman TC, Pastan I, Smith LD (1972) Clostridium barkeri sp. n. J Bacteriol 110: 758±760
+Stuermer DH, Ng DJ, Morris CJ (1982) Organic contaminants in
+groundwater near an underground coal gasi®cation site in
+northeastern Wyoming. Environ Sci Technol 16: 582±587
+Szecsody JE, Streile GP (1992) Process controlling the slow sorption of quinoline onto clay during transport in columns.
+Chemosphere 24: 1127±1145
+Thomas JM, Wilson JT, Ward CH (1997) Microbial processes in
+the subsurface. Subsurf Restor 1997: 99±111
+Turney GL, Goerlitz OF (1990) Organic contamination of ground
+water at gas works park, Seattle, Washington. Ground Water
+Monit Rev 10: 187±198
+Vogels GD, Drift C van der (1976) Degradation of purines and
+pyrimidines by microorganisms. Bacteriol Rev 40: 403±468
+Wang YT, Suidan MT, Pfeer JT (1984) Anaerobic biodegradation
+of indole to methane. Appl Environ Microbiol 48: 1058±1060
+Warshawsky D (1992) Environmental sources, carcinogenicity,
+mutagenicity, metabolism and DNA binding of nitrogen and
+sulfur heterocyclic aromatics. J Environ Sci Health C Environ
+Carcinog Ecotoxicol Rev 10: 1±71
+Watson GK, Cain RB (1975) Microbial metabolism of the pyridine
+ring. Metabolic pathways of pyridine biodegradation by soil
+bacteria. Biochem J 146: 157±172
+Watson GK, Houghton C, Cain RB (1974) Microbial metabolism
+of the pyridine ring. The metabolism of pyridine-3,4-diol (3,4dihydroxypyridine) by Agrobacterium sp. Biochem J 140:
+277±292
+Willems MI, Dubois G, Boyd DR, Davies RJH, Hamilton L,
+McCullough JJ, Bladeren PJ van (1992) Comparison of the
+mutagenicity of quinoline and all monohydroxyquinolines with
+a series of arene oxide, trans-dihydrodiol, diol epoxide, N-oxide
+and arene hydrate derivatives of quinoline in the Ames/Salmonella microsome test. Mutat Res 278: 227±236
+Zachara JM, Ainsworth CC, Felice LJ, Resch CT (1986) Quinoline
+sorption to subsurface materials: role of pH and retention of
+the organic cation. Environ Sci Technol 20: 620±627
+Zachara JM, Ainsworth CC, Cowan CE, Schmidt RL (1990)
+Sorption of aminonaphthalene and quinoline on amorphous
+silica. Environ Sci Technol 24: 118±126
+Ze®rov NS, Agapova SR, Terentiev PB, Bulakhova IM, Vasyukova NI, Modyanova LV (1994) Degradation of pyridine by
+Arthrobacter crystallopoietes and Rhodococcus opacus strains.
+FEMS Microbiol Lett 118: 71±74
+Zhu S, Bell PRF, Green®eld PF (1988) Adsorption of pyridine onto
+spent Rundle oil shale in dilute aqueous solution. Water Res 22:
+1331±1337
+
+

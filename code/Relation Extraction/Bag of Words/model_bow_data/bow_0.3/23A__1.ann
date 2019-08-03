@@ -1,0 +1,96 @@
+T1	Substrate 15 18	oil
+T2	ReactionOrProcess 0 11	Degradation
+R1	CarriedOn Arg1:T2 Arg2:T1
+T3	Environment 214 222	sediment
+T4	Environment 223 233	microcosms
+T5	Environment 208 213	beach
+T6	Substrate 182 185	oil
+T7	Substrate 252 255	oil
+T8	ReactionOrProcess 192 206	bioremediation
+T9	Substrate 396 399	oil
+T10	Substrate 315 318	Oil
+T11	ReactionOrProcess 315 333	Oil biodegradation
+T12	ReactionOrProcess 319 333	biodegradation
+R2	CarriedOn Arg1:T11 Arg2:T9
+R3	CarriedOn Arg1:T12 Arg2:T9
+T13	Property 474 493	denaturing gradient
+T14	ReactionOrProcess 474 513	denaturing gradient gel electrophoresis
+T15	ReactionOrProcess 498 513	electrophoresis
+T16	ReactionOrProcess 474 484	denaturing
+T17	ReactionOrProcess 566 573	cloning
+T18	Substrate 700 703	oil
+T19	Property 770 783	concentration
+T20	Property 662 676	concentrations
+T21	ReactionOrProcess 739 760	P limited degradation
+T22	ReactionOrProcess 749 760	degradation
+T23	ReactionOrProcess 704 715	degradation
+T24	ReactionOrProcess 700 715	oil degradation
+T25	Environment 867 877	microcosms
+T26	Substrate 830 833	oil
+T27	ReactionOrProcess 834 845	degradation
+T28	ReactionOrProcess 830 845	oil degradation
+T29	Environment 1094 1104	microcosms
+T30	Environment 1176 1185	microcosm
+T31	Environment 1262 1272	microcosms
+T32	Environment 1381 1391	microcosms
+T33	ReactionOrProcess 1144 1153	replicate
+T34	ReactionOrProcess 1252 1261	replicate
+T35	ReactionOrProcess 1127 1131	DGGE
+T36	ReactionOrProcess 1233 1237	DGGE
+T37	Environment 1591 1601	microcosms
+T38	ReactionOrProcess 1603 1617	Bioremediation
+T39	ReactionOrProcess 2125 2139	bioremediation
+T40	Environment 2266 2282	large oil spills
+T41	Environment 2246 2252	marine
+T42	Substrate 2224 2227	oil
+T43	Substrate 2272 2275	oil
+T44	Substrate 2553 2556	oil
+T45	Substrate 2666 2669	oil
+T46	Property 2614 2625	degradative
+T47	Substrate 2734 2745	hydrocarbon
+T48	ReactionOrProcess 2734 2757	hydrocarbon degradation
+T49	ReactionOrProcess 2746 2757	degradation
+T50	Microbes 2945 2961	γ-proteobacteria
+T51	Environment 2857 2863	marine
+T52	Microbes 3180 3190	consortium
+T53	Substrate 3167 3176	crude oil
+T54	Substrate 3259 3262	oil
+T55	Substrate 3173 3176	oil
+T56	ReactionOrProcess 3109 3118	degrading
+T57	ReactionOrProcess 3263 3274	degradation
+T58	ReactionOrProcess 3259 3274	oil degradation
+R4	CarriedOn Arg1:T56 Arg2:T52
+R5	CarriedOn Arg1:T56 Arg2:T53
+R6	CarriedOn Arg1:T56 Arg2:T54
+R7	CarriedOn Arg1:T56 Arg2:T55
+T59	Substrate 3314 3317	oil
+T60	ReactionOrProcess 3410 3421	degradation
+T61	Nutrient 3296 3302	carbon
+T62	Nutrient 3474 3482	nitrogen
+T63	Nutrient 3487 3497	phosphorus
+T64	Substrate 3566 3577	hydrocarbon
+T65	ReactionOrProcess 3566 3589	hydrocarbon degradation
+T66	ReactionOrProcess 3685 3699	bioremediation
+T67	ReactionOrProcess 3578 3589	degradation
+T68	ReactionOrProcess 3758 3772	Bioremediation
+T69	ReactionOrProcess 3911 3922	incubations
+T70	Property 3978 3992	concentrations
+T71	Property 4026 4040	concentrations
+T72	Property 4083 4097	concentrations
+T73	Property 4079 4097	low concentrations
+T74	ReactionOrProcess 4112 4137	suboptimal biodegradation
+T75	ReactionOrProcess 4123 4137	biodegradation
+T76	ReactionOrProcess 4270 4284	bioremediation
+T77	ReactionOrProcess 4331 4345	bioremediation
+T78	Environment 4395 4404	microcosm
+T79	Environment 4389 4394	beach
+T80	Substrate 4498 4501	oil
+T81	ReactionOrProcess 4502 4513	degradation
+T82	ReactionOrProcess 4498 4513	oil degradation
+T83	Property 4665 4694	PCR-based denaturing gradient
+T84	Property 4675 4694	denaturing gradient
+T85	ReactionOrProcess 4675 4714	denaturing gradient gel electrophoresis
+T86	ReactionOrProcess 4699 4714	electrophoresis
+T87	ReactionOrProcess 4665 4685	PCR-based denaturing
+T88	ReactionOrProcess 4675 4685	denaturing
+T89	ReactionOrProcess 4852 4866	bioremediation

@@ -1,0 +1,13 @@
+T1	Microbes 303 319	Escherichia coli
+T2	Environment 206 216	wastewater
+T3	Substrate 236 254	aromatic compounds
+T4	Substrate 236 254	aromatic compounds
+T5	Property 236 244	aromatic
+T6	ReactionOrProcess 1078 1089	degradation
+T7	ReactionOrProcess 2273 2276	PCR
+T8	ReactionOrProcess 2327 2338	degradation
+T9	ReactionOrProcess 2430 2433	PCR
+T10	ReactionOrProcess 2547 2553	cloned
+T11	Microbes 2736 2743	E. coli
+T12	Microbes 3527 3541	Proteobacteria
+T13	Microbes 3624 3631	E. coli

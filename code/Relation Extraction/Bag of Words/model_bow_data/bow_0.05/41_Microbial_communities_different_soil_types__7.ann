@@ -1,0 +1,72 @@
+T1	Environment 138 151	control soils
+T2	Environment 93 111	contaminated soils
+T3	Environment 106 111	soils
+T4	Environment 146 151	soils
+T5	Environment 93 111	contaminated soils
+T6	Substrate 37 43	diesel
+T7	Environment 248 266	contaminated soils
+T8	Environment 229 233	soil
+T9	Environment 261 266	soils
+T10	Environment 248 266	contaminated soils
+T11	Environment 328 341	control soils
+T12	Environment 311 315	soil
+T13	Environment 336 341	soils
+T14	Environment 514 527	control soils
+T15	Environment 480 498	contaminated soils
+T16	Environment 493 498	soils
+T17	Environment 522 527	soils
+T18	Environment 480 498	contaminated soils
+T19	Substrate 418 424	Diesel
+T20	Environment 597 601	soil
+T21	Environment 662 666	soil
+T22	Environment 712 725	control soils
+T23	Environment 782 786	soil
+T24	Environment 720 725	soils
+T25	Environment 995 1013	contaminated soils
+T26	Environment 1008 1013	soils
+T27	Environment 995 1013	contaminated soils
+T28	ReactionOrProcess 1030 1035	PLFAs
+T29	ReactionOrProcess 1127 1132	PLFAs
+T30	Environment 1343 1356	control soils
+T31	Environment 1288 1306	contaminated soils
+T32	Environment 1301 1306	soils
+T33	Environment 1351 1356	soils
+T34	Environment 1288 1306	contaminated soils
+T35	Substrate 1213 1219	diesel
+T36	Environment 1492 1510	contaminated soils
+T37	Environment 1505 1510	soils
+T38	Environment 1492 1510	contaminated soils
+T39	Environment 1572 1590	contaminated soils
+T40	Environment 1585 1590	soils
+T41	Environment 1572 1590	contaminated soils
+T42	ReactionOrProcess 1516 1521	PLFAs
+T43	Substrate 1767 1770	oil
+T44	ReactionOrProcess 1698 1712	bioremediation
+R1	CarriedOn Arg1:T44 Arg2:T43
+T45	Environment 1898 1902	soil
+T46	Environment 1948 1953	soils
+T47	Substrate 1857 1863	diesel
+T48	ReactionOrProcess 1872 1880	degraded
+T49	Nutrient 1998 2004	carbon
+T50	Substrate 2058 2064	diesel
+T51	ReactionOrProcess 2038 2049	degradation
+R2	CarriedOn Arg1:T51 Arg2:T50
+T52	Substrate 2314 2317	oil
+T53	ReactionOrProcess 2233 2247	bioremediation
+T54	ReactionOrProcess 2173 2184	degradation
+R3	CarriedOn Arg1:T53 Arg2:T52
+R4	CarriedOn Arg1:T54 Arg2:T52
+T55	Environment 2363 2367	soil
+T56	Environment 2485 2490	soils
+T57	Substrate 2562 2565	oil
+T58	ReactionOrProcess 2500 2514	bioremediation
+T59	ReactionOrProcess 2566 2577	degradation
+T60	ReactionOrProcess 2562 2577	oil degradation
+T61	Substrate 2712 2715	oil
+T62	Substrate 2912 2918	diesel
+T63	ReactionOrProcess 2780 2794	bioremediation
+T64	ReactionOrProcess 2873 2884	degradation
+T65	Nutrient 2829 2835	oxygen
+R5	CarriedOn Arg1:T63 Arg2:T62
+R6	CarriedOn Arg1:T64 Arg2:T62
+T66	ReactionOrProcess 2984 2998	bioremediation

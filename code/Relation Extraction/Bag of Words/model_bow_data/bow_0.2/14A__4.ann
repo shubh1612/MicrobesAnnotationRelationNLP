@@ -1,0 +1,18 @@
+T1	ReactionOrProcess 1008 1012	DGGE
+T2	ReactionOrProcess 1276 1280	DGGE
+T3	ReactionOrProcess 1320 1324	DGGE
+T4	ReactionOrProcess 1448 1452	DGGE
+T5	ReactionOrProcess 1414 1417	PCR
+T6	Microbes 1895 1909	Proteobacteria
+T7	Microbes 1862 1877	Actinomycetales
+T8	Environment 1815 1820	soils
+T9	Environment 1805 1820	different soils
+T10	Microbes 2002 2017	Actinomycetales
+T11	ReactionOrProcess 2451 2455	DGGE
+T12	Microbes 2547 2561	Proteobacteria
+T13	Property 2533 2546	Gram-negative
+T14	ReactionOrProcess 2563 2567	DGGE
+T15	Microbes 2736 2750	Proteobacteria
+T16	Microbes 2826 2837	Xanthomonas
+T17	Microbes 2908 2922	Proteobacteria
+T18	Microbes 2975 2987	Sphingomonas

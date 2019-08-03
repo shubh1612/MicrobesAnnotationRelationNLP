@@ -1,0 +1,270 @@
+Novel Carbazole Degradation Genes of Sphingomonas CB3: Sequence Analysis, Transcription, and Molecular Ecology
+The degradation of aromatic compounds by bacteria aminobiphenyl-2,3-diol which is subsequently cleaved is dependent upon specific catabolic operons. The by an extradiol dioxygenase. An alternative pathway unique car locus isolated from Sphingomonas CB3 en- via indole acetic acid may also play a role in carbazole codes the first four enzymes involved in the catabolism degradation by LD2 [3]. Recently the genes involved in of the azaarene carbazole. These include a class II the degradation of carbazole by CA10 have been iso- three-component dioxygenase enzyme system, a dihy- lated using Tn-5 induced mutational inactivation [4], drodiol dehydrogenase, an extradiol (meta-cleavage) and subsequently described in detail [5,6]. The charac- dioxygenase, and a hydrolase. Homology of deduced terised genes encode a novel class III initial dioxygen- amino acid sequences is closer to corresponding bi- ase, carbazole 1,9a-dioxygenase, a divergent extradiol phenyl catabolic genes than to previously character- dioxygenase (meta-cleavage) enzyme and a meta-cleav- ised carbazole degradation genes. Gene arrangement age compound hydrolase. is also identical to that found in some bph loci. The car
+genes are transcribed when carbazole is utilised as a To date there is only one other report [5,6] on the
+sole carbon source, and although biphenyl does not molecular biology of catabolic pathways specific for the
+serve as a growth substrate for Sphingomonas CB3 it azaarene carbazole. In this paper we describe 6085-bp
+is able to act as a non-metabolisable inducer of the of nucleotide sequence of a divergent catabolic locus
+car locus. Ecologically the car genes were detected in isolated from Sphingomonas (formerly Pseudomonas)
+polycyclic aromatic hydrocarbon (PAH) contaminated strain CB3 which is able to utilise carbazole as sole
+soil associated with a former town gas site. q 1998 carbon and nitrogen source [7]. Academic Press
+MATERIALS AND METHODS
+Bacterial strains. Sphingomonas CB3 is able to grow at the exMicrobial
+catabolism of aromatic compounds follows pense of the azaarene carbazole and has been described previously
+predictable routes which fall into distinct segments: [7]. Sequencing of the 16S rDNA gene from strain CB3 has subsequently
+revealed its closest relative, at 99% homology, to be Sphingo- conversion of the growth substrate to an arene diol or monas subarctica. substituted arene diol, followed by ring cleavage, with DNA manipulation and sequencing. A clone library was gener- further catabolism of the ring-cleavage product ulti- ated in Escherichia coli DH5a using EcoRI-digested genomic DNA mately feeding through to central metabolism. Many prepared from Sphingomonas CB3 [8] ligated into pUC18. All recom- of these pathways show a high degree of conservation binant manipulations were performed according to established methat
+the level of gene organization, gene size, and homol- odologies [9] and in accordance with manufacturer’s instructions.
+ogy of the corresponding enzymes [1]. Colonies harbouring recombinant plasmids were screened for the
+expression of extradiol dioxygenase activity by the ability to form Catabolic pathways have been described for the mi- the yellow ring-fission product 2-hydroxymuconic semialdehyde on crobial degradation of carbazole by Pseudomonas sp. spraying colonies with 100 mM catechol [10].
+strains CA10 [2], and LD2 [3]. Metabolite analysis sug- A nested deletion series was generated from the overlapping clones
+gests that carbazole degradation in CA10 and LD2 oc- pJO05-01 and pJO12 using a double-stranded Nested Deletion Kit
+(Pharmacia Biotech). Plasmid DNA was isolated using a Quantum
+Prep Plasmid Miniprep Kit (Bio-Rad), and clone sequences were de- 1 Corresponding author. Landcare Research, Private Bag 3127, termined by the Waikato DNA Sequencing facility using a PRISM
+Hamilton, New Zealand. Fax: (64) 7 838 4442. E-mail: lloyd-jonesg@ Ready Reaction DNA Terminator Cycle Sequencing Kit (Perkin-Ellandcare.cri.nz.
+mer). The reactions were resolved using an ABI model 377 sequencer.
+0006-291X/98 $25.00
+Copyright q 1998 by Academic Press
+All rights of reproduction in any form reserved.
+129
+AID BBRC 8750 / 6954$$$521 05-20-98 22:18:12 bbrcg AP: BBRC
+Vol. 247, No. 1, 1998 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+PCR amplification of car genes. A primer pair, C1036 (5*-GGG- pressed in Escherichia coli DH5a. Specific activity (av- ATCTTTGAACAGGACGA-3*) and C2495 (5*-AGGAGCCTGTCA- erage of four replicates) of the extradiol dioxygenase CTGACCAT-3*), was designed to amplify a 1460-bp fragment which enzyme towards 2,3-dihydroxybiphenyl (820.6 { 19.4 contains the carAa(partial)/carAb/carAc/carAd(partial) genes. These
+primers were used to amplify the car genes from soil DNA, and also mmol/min/mg protein) and catechol (24.0 { 1.2 mmol/
+in an RT-PCR amplification experiment using CB3 mRNA as the min/mg protein) revealed that the pJO05-encoded dioxytarget.
+genase activity was characteristic of a multiple-ring Total soil DNA was extracted from 0.5 g soil samples using a bead extradiol dioxygenase showing a specificity typical of beating method followed by purification through PVPP (polyvinyl- a 2,3-dihydroxy 1,2-dioxygenase (BphC) rather than a polypyrrolidone) spin columns [11]. PCR amplification was carried
+out in 20 mM Tris-HCl (pH 8.4); 50 mM KCl; 1.5 mM MgCl catechol-2,3-dioxygenase (C23O) enzyme [12,13]. 2; dNTPs
+at 200 mM each, 2.5 units PLATINUM Taq DNA polymerase (Gib- pJO05 contained an internal EcoRI site which alcoBRL);
+0.2 mM forward and reverse primers; and template DNA lowed the extradiol dioxygenase activity encoded by at 0.1 mg/50 ml reaction. The cycling conditions (Techne Cyclogene pJO05 to be further localised, by deletion, to the deriva- Thermal Cycler) were 5 min at 947C, followed by 25 cycles of 947C
+for 2 min, 527C for 1 min, 727C for 2 min, maximal ramp rates tive pJO05-01. A second derivative pJO05-02, which
+throughout, with the final 727C segment of the cycle extended to 10 lacked an extradiol dioxygenase activity was also obmin
+before cooling to 47C. A Southern blot consisting of 20 ml of PCR tained. An additional clone pJO12, located upstream product amplified from soil DNA resolved on an agarose gel and and contiguous to pJO05, was isolated by screening a blotted to a positively charged nylon membrane (GeneScreen Plus HindIII clone library of CB3 by hybridisation using a (NEN Research Products)) was analysed by hybridisation with 32P-
+300-bp EcoRI/HindIII probe derived from pJ005-01. labelled carAa(partial)/carAb/carAc/carAd(partial) amplified from
+CB3 genomic DNA. Membranes were hybridised overnight at 657C
+in 5 1 SSC, followed by stringency washes with 2 1 SSC, 0.1% SDS Nucleotide Sequence Analysis of the Cloned car Genes for 15 min at 657C, and 0.2 1 SSC, 0.1% SDS for 15 min at 657C.
+mRNA was isolated, using an RNA extraction kit (RNeasy Mini The complete sequence of cloned inserts of pJO05- Kit Qiagen), from CB3 grown at the expense of different carbon
+sources. These included 2 mM carbazole, 10 mM acetate, and 10 01, pJO12 and 400-bp of the 5* end of clone pJO05-02
+mM acetate-grown cells induced for 2 h during late log phase, with was determined for both strands to yield 6085-bp of
+carbazole and biphenyl added to 1 mM. Purified mRNA was treated sequence (GenBank accession number AF060489). The with DNase I (GibcoBRL) and RNase inhibitor (Boehringer Mann- DNA had a G/C content of 61.1%, close to that re- heim) to ensure complete removal of DNA and to maintain the integ- ported for established Sphingomonas species inclusive rity of mRNA. RT-PCR (Titan One Tube RT-PCR System: Boehringer
+Mannheim) was used to amplify a fragment of the car locus from of the aromatic compound-degrading sphingomonads
+mRNA isolated from Sphingomonas strain CB3 grown at the expense (61.7-67.8%) [14].
+of different carbon sources. The cycling conditions (Techne Cyclogene Computer analysis of the nucleotide sequence re- Thermal Cycler) for the RT-PCR amplification were: 507C for 30 min; vealed the presence of six complete open reading 947C for 2 min; followed by 10 cycles of 947C for 30 s, 527C for 30 s,
+687C for 1 min; followed by 15 cycles of 947C for 30 s, 527C for 30 s, frames (ORFs), and one partial ORF, each transcribed
+687C for 80 s; followed by 15 cycles of 947C for 30 s, 527C for 30 s, in the same orientation (Figure 1). ORFs were initiated
+687C for 2 min; followed by 947C for 30 s, 527C for 30 s, 687C for 10 either by the canonical ATG start codon (carAbAcCD),
+min, and cool to 47C. PCR amplification controls omitted the initial or by the rarer and less efficient GTG start codon incubation at 507C. Optimal MgCl2 concentration was 1.5 mM. (carAdB) which is not uncommon in operons involved
+in the degradation of aromatic compounds [15,16,17].
+RESULTS AND DISCUSSION Each complete ORF is preceded by a potential ribosome
+binding site [18] and ends with TGA as the termination
+codon, carAa, which is incomplete, also ends with the Isolation of the car Catabolic Genes and
+Characterisation of the Extradiol Dioxygenase termination codon TGA. By comparison with analogous
+genes we estimate that the EcoRI restriction site utiThe
+extradiol dioxygenase activity detected in cell- lised for cloning is situated between 21-bp and 78-bp
+free extracts of the wild-type strain Sphingomonas CB3 downstream of the start codon of CarAa when comgrown
+at the expense of carbazole was isolated and pared to the corresponding genes from naphthalene
+expressed in a clone designated pJO05 which contained (Pseudomonas putida G7 nahAc [29]) or biphenyl cataa
+7400-bp EcoRI fragment from CB3. This extradiol bolic genes (Burkholderia LB400 bphA [20]). Further
+dioxygenase activity was induced by growth on carba- efforts to clone this region were unsuccessful. Inzole
+and was not detected in acetate- or succinate- tergenic regions were absent between three car gene
+grown cells revealing that this activity is under regula- pairs; these correspond to carAb which overlaps carAa
+tory control. Southern hybridisation using probe DNA by 11-bp, carAd overlaps carAc by 4-bp, and carB which
+derived from pJO05 confirmed its origin from CB3 ge- overlaps carAd by 14-bp. Similar overlapping genes
+nomic DNA, it was not present in digests of the large have also been described in other degradative gene
+(ú100-kb) plasmid DNA prepared from CB3 (data not clusters [16,19], and the absence of intergenic spaces
+shown). The identity of the extradiol dioxygenase en- between these gene pairs may reflect translational couzyme
+encoded by pJO05 was evaluated by analysing pling of these genes in CB3, cf. biphenyl dioxygenase
+the substrate specificity of the functional enzyme ex- of LB400 [20]. The transcript containing carAd and
+130
+AID BBRC 8750 / 6954$$$521 05-20-98 22:18:12 bbrcg AP: BBRC
+Vol. 247, No. 1, 1998 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+FIG. 1. Nucleotide sequence of 6085-bp from the car locus of Sphingomonas strain CB3. Start and stop codons are highlighted in
+bold, and putative Shine-Dalgarno sequences are underlined. Conserved amino acid residues are italicised and highlighted in bold;
+these correspond to Rieske-type [2Fe-2S] centers, and amino acid residues conserved in extradiol dioxygenases. Positions corresponding
+to the primers used for RT-PCR are indicated by double underlining.
+AID BBRC 8750 / 6954$$8750 05-20-98 22:18:12 bbrcg AP: BBRC
+Vol. 247, No. 1, 1998 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+sp. KKS102 [21] and Pseudomonas putida KF715 [22],
+where the bphC and bphD genes are closely spaced.
+This is different to the bph locus of Pseudomonas strain
+LB400 where the bphC and bphD genes are separated
+by a 3500-bp region containing bphKHJI [28].
+The properties and characteristics of predicted polypeptides
+of the CB3 car locus are summarised in Table
+1. Homology of the predicted amino acid sequences
+from CB3 to the CA10 car gene products is also shown
+and are particularly low. Sequence analysis reveals
+that the aromatic ring dioxygenase enzyme from CB3
+is a class II type three-component enzyme similar to
+biphenyl dioxygenase [27] and toluene dioxygenase
+[17]. This is disparate to the carbazole 1,9a-dioxygenase
+from CA10 [6] which is a three-component enzyme
+belonging to the class III type similar to naphthalene
+dioxygenase [29].
+The terminal oxygenase component of the carbazole
+dioxygenase from CB3 putatively encoded by carAaAb
+consists of two subunits akin to those of biphenyl dioxygenase
+[27], naphthalene dioxygenase [29] and toluene
+dioxygenase [17] which is also disparate to the single
+subunit configuration of carbazole 1,9a-dioxygenase
+from CA10 [6]. We find, however, that the CarAaAb
+amino acic sequences show low homology to comparable
+subunits. Since the specificity of the initial dioxygenases
+appears to be provided by the subunits of
+FIG. 2. Comparison of the car locus from Sphingomonas CB3 two-component terminal oxygenase of aromatic dioxywith
+published catabolic pathways. The corresponding operons in- genases [30] this may be a reflection of the narrow clude the bph loci from Pseudomonas sp. LB400 [28], Pseudomonas specificity of the car encoded pathway of Sphingomonas pseudoalcaligenes KF707 [27] and Pseudomonas putida KF715 [22], CB3. carAa encodes for a large (a) subunit of the iron and the car locus is from Pseudomonas sp. strain CA10 [22]. sulfur component of the initial dioxygenase. The predicted
+amino acid sequence contains a Rieske-type
+[2Fe-2S] motif of conserved Cys75,95 and His77,98 resicarB
+may also be subjected to some translational con- dues which is a feature of these subunits. carAb entrol
+due to the presence of the less efficient GTG start codes the small (b) subunit of the iron sulfur component
+codons in these genes. of the initial dioxygenase. CarAc shows homology to the
+Sequence analysis of the CB3 car genes revealed that ferredoxin subunits of initial dioxygenases. In common
+at the molecular level the deduced amino acid se- with ferredoxin subunits of this type, CarAc has a conquences
+of CarAaAbAcAdBCD showed greatest se- served binding motif for a Rieske-type [2Fe-2S] centre
+quence identity (31-53%) to their homologous counter- presented by Cys43,62 and His45,65. carAd encodes the
+parts from diverse biphenyl pathways. Homology also reductase subunit of the initial dioxygenase, the amino
+extended to the arrangement of these genes which is acid sequence is predicted to be a membrane-associated
+conserved between some bph loci and the CB3 car locus protein.
+(Figure 2). The only other reported car sequence shows Unlike the car genes from CA10, CB3 has a gene
+very low homology and divergent gene arrangement encoding a dihydrodiol dehydrogenase which we have
+[5,6]. For this reason the gene designations we have designated CarB. carC encodes for an extradiol dioxyadopted
+use the same nomenclature as that applied to genase enzyme. CarC contains the amino acid resithe
+biphenyl catabolic genes, namely that from carba- dues - His147, His 211 and Glu 262 - which are conserved
+zole through to anthranilic acid [2](cf. biphenyl through in extradiol dioxygenases where they are implicated in
+to benzoate [23]) the genes should have the same letter iron coordination by the active enzyme [31,32]. carD
+as the isofunctional bph genes [22,24,25,26,27], but encodes for a hydrolase which shows most homology to
+with a car prefix, i.e. carABCD. The cloned car locus biphenyl pathway hydrolases.
+from CB3 therefore encodes, by analogy to previously A closer phylogenetic analysis of the individual CB3
+described bph genes, CarAaAbAcAdBCD. Gene organi- car genes consistently places these sequences away
+sation is conserved between the car locus of strain CB3 from the main groups which represent sequences deand
+bph loci of the type bphABCD seen in Pseudomonas rived from biphenyl degrading, as well as naphthalene/
+132
+AID BBRC 8750 / 6954$$$521 05-20-98 22:18:12 bbrcg AP: BBRC
+Vol. 247, No. 1, 1998 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+TABLE 1
+Summary of Predicted Polypeptides from the car Locus of Sphingomonas Strain CB3
+Predicted
+Nucleotide No. molecular
+Gene Protein feature position of aa mass (kDa) % Similarity to other gene productsb
+carAa ISP large (a) 1–1296 431a 48.2a 36 ipbA1 (BD2); 35 bphA1(RHA1); 35 bphC1 (M5); 13 carAa (CA10)
+subunit of ID
+carAb ISP small (b) 1286–1843 185 21.5 40 ipbA2 (BD2); 40 bphA2 (P6); 40 bphA2 (RHA1); 40 tcbAb (P51)
+subunit of ID
+carAc Ferredoxin 1865–2194 109 11.5 42 bphA3 (P6); 41 ipbA3 (BD2); 40 bphA3 (RHA1); 31 carAc (CA10)
+subunit ID
+carAd Reductase 2191–3420 409 43.8 39 cumA4 (IP01); 38 ipbA4 (JR1); 36 bphG (LB400); 10 carAd (CA10)
+subunit of ID
+carB Dehydrogenase 3407–4240 277 28.4 53 bphB (LB400); 52 bphB (B-356); 52 bphB (KKS102); 52 cbpB (OU83)
+carC Extradiol 4278–5168 296 33.3 40 bphC (LB400); 40 bphC (KF715); 40 todE (F1); 11 carBb (CA10)
+dioxygenase
+carD Hydrolase 5207–6031 274 30.7 31 bphD (LB400); 31 bphD (KF715)
+a Predicted size based on incomplete carA1 gene. b Bacterial strains and Genbank accession numbers of corresponding genes Rhodococcus erythropolis BD2 (U24277); Rhodococcus sp.
+RHA1 (D32142); Rhodococcus sp. M5 (U27591); Pseudomonas sp. strain CA10 (D89064/D89065); Rhodococcus globerulus P6 (X80041);
+Pseudomonas sp. P51 (U15298); Pseudomonas fluorescens IP01 (D37828); Pseudomonas sp. JR1 (U53507); Pseudomonas strain LB400
+(M86348); Comomonas testosteroni B-356 (U57451); Pseudomonas putida OU83 (Y07655); Pseudomonas putida KF715 (M33813); Pseudomonas
+putida F1 (J04966); Pseudomonas sp. KKS102 (M26433).
+phenanthrene-degrading strains. Two examples are enzyme complex is narrow, and does not extend to biprovided.
+The first (Figure 3) reveals that CarAa is phenyl thus preventing its transformation. This would
+more closely related to, yet distinct from, the corre- appear different to the carbazole 1,9a-dioxygenase
+sponding bph sequences than to CarAa from CA10 from CA10 has been shown to readily oxidise biphenyl
+[5,6]. The second example (Figure 4) is provided by [6]. Interestingly resting cell assays have been used to
+CarC which is also divergent and placed in a position show that both naphthalene 1,2-dioxygenase and biintermediate
+to that of the corresponding genes from phenyl 2,3-dioxygenase enzymes are able to oxidise carbiphenyl
+of naphthalene degrading strains. Phyloge- bazole [33], however this oxidation does not occur in
+netic analysis revealed that the remaining CB3 car an angular position as described for the car pathway
+genes all occupy similarly divergent positions. of CA10 [2,5,6].
+The lower enzymes of the car locus would not constiPathway
+Specificity and Induction of the car Genes tute a metabolic block to biphenyl catabolism as these
+are able to transform intermediates of the biphenyl Transcriptional analysis has confirmed that this car pathway. CarCD-expressing clones transform the ar- locus is expressed during growth of CB3 at the expense ene diol 2,3-dihydroxybiphenyl to the yellow meta- of carbazole, and since no other aromatic hydrocarbon cleavage product 2-hydroxy-6-oxo-6-phenylhexa-2,4- can serve as a growth substrate we propose these are dienoate, which is further metabolised by the hydrolase unique car genes. By applying RT-PCR using the activity of CarD resulting in the disappearance of the primer pair C1036/C2495 we were able to amplify yellow meta-cleavage product (data not shown). carAa(partial)/carAb/carAc/carAd(partial) from mRNA The gene sequences of the car locus show sufficient
+extracted from carbazole-grown cells (Figure 5). No RT- homology to isofunctional genes involved in the degra- PCR product was amplified from mRNA extracted from dation of other aromatic compounds for common ances- acetate-grown CB3 cells. tries to be shared [1]. We speculate that this car operon Experiments using biphenyl and carbazole as inde- is related to ancestral bph genes which share a common pendent inducers of acetate-grown cells of CB3 re- evolutionary background evolving to degrade biphenyl vealed that both carbazole and biphenyl were able to and its naturally occurring analogues. Evidence to supact
+as inducers of the car locus (Figure 5). This is partic- port this supposition includes the following; (i) The
+ularly interesting as biphenyl does not serve as a ability of biphenyl to act as a non-metabolisable ingrowth
+substrate for CB3 and was not transformed by ducer of the car genes may signal a recent divergence
+cells of CB3 growing at the expense of carbazole. As which allowed the enzymes of this operon to utilise
+biphenyl is able to induce expression of the car operon carbazole instead of biphenyl as a growth substrate.
+it would appear that the substrate specificity of the This may have occurred through a relaxing of the speciterminal
+oxygenase component the initial dioxygenase ficity of regulation, concomitant with a change in the
+133
+AID BBRC 8750 / 6954$$$521 05-20-98 22:18:12 bbrcg AP: BBRC
+Vol. 247, No. 1, 1998 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+FIG. 4. Phenogram based on an alignment of the deduced amino
+acid sequences of selected extradiol aromatic dioxygenases. The phenogram
+was constructed with SEQBOOT (100-bootstrap analaysis),
+and the data set was passed through the PRODIST, NEIGHBOR,
+and CONSENSE programmes of the PHYLIP package (version 3.2).
+The final tree was redrawn with branch lengths scaled to reflect
+percent differences of the aligned sequences. The percentage boot- FIG. 3. Phenogram based on an alignment of the deduced amino strap values are indicated. acid sequences of selected a subunits of initial aromatic dioxygenases.
+The phenogram was constructed with SEQBOOT (100-bootstrap
+analysis), and the data set was passed through the PRODIST,
+NEIGHBOR, and CONSENSE programmes of the PHYLIP package present in Sphingomonas CB3 were also present in
+(version 3.2). The final tree was redrawn with branch lengths scaled soils associated with these industries. The carAa(par- to reflect percent differences of the aligned sequences. The percent- tial)/carAb/carAc/carAd(partial) was therefore selected age bootstrap values are indicated. as a target for PCR amplification directly from soil
+specificity of the initial dioxygenase; (ii) That some intermediates
+of the biphenyl pathway can serve as substrates
+to enzymes of the car locus; (iii) The genes and
+gene order of the car locus from CB3 show greater homology
+to characterised bph loci than to the previously
+described car genes of CA10; (iv) The dihydrodiol dehydrogenase
+encoded by carB may not be required for
+carbazole degradation. Previous studies have suggested
+that its product 2*-aminobiphenyl-2,3-diol may
+form spontaneously from the product of the initial dioxygenase
+[2,3,5,6], however these studies have yet to be
+supported by resting-cell assays using a cloned carbazole
+dioxygenase.
+Environmental Occurrence of the car Genes FIG. 5. DNase-treated RNA extracts from Sphingomonas strain
+CB3 were amplified by RT-PCR (plus PCR controls) using primers
+As with all sequencing studies it is important to bear specific for a 1460-bp fragment partially encompassing four components
+of the carbazole dioxygenase (carAa(partial)/carAb/carAc/carA- in mind the significance of the characterised genes not d(partial)). Aliquots of 10 ml were run on a 0.9% agarose gel. Lanes only from the prespective of the host wild type strain, correspond to: 1 and 13, 1-kb DNA ladder (BRL); 2, RT-PCR carbabut
+also from an environmental or ecological perspec- zole-grown CB3; 3, RT-PCR acetate-grown CB3; 4, RT-PCR acetatetive.
+Given that azaarenes such as carbazole have been grown CB3 induced with carbazole; 5, RT-PCR acetate-grown CB3
+induced with biphenyl; 6, RT-PCR blank (no target nucleic acid); 7, detected in ground water at industrial locations such PCR carbazole-grown CB3; 8, PCR acetate-grown CB3; 9, PCR ace- as town gas sites [34], coal gasification plants [35] and tate-grown CB3 induced with carbazole; 10, acetate-grown CB3 in- creosote contaminated soils [36] we were interested in duced with biphenyl; 11, PCR 0.1mg CB3 genomic DNA (5 ml aliquot);
+determining whether car genes analagous to those 12, PCR blank (no target nucleic acid).
+134
+AID BBRC 8750 / 6954$$$521 05-20-98 22:18:12 bbrcg AP: BBRC
+Vol. 247, No. 1, 1998 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+6. Sato, S.-I., Nam, J.-W., Kasuga, K., Nojiri, H., Yamane, H., and
+Omori, T. (1997) J. Bacteriol. 179, 4850–4858.
+7. Shotbolt-Brown, J., Hunter, D. W. F., and Aislabie, J. (1996)
+Can. J. Microbiol. 42, 79–82.
+8. Ausubel, F. M., Brent, M., Kingstone, R. E., Moore, D. E., Seidman,
+J. G., Smith, J. A., and Struhl, K. (1989) Current Protocols
+in Molecular Biology, Wiley, New York.
+9. Sambrook, J., Fritsch, E. F., and Maniatis, T. (1989) Molecular
+Cloning: A Laboratory Manual, Cold Spring Harbor Laboratory
+Press, New York.
+10. Wigmore, G. J., Bayly, R. C., and Di Berardino, D. (1974) J. Bacteriol.
+120, 31–37.
+11. Barthelet, M., Whyte, L. G., and Greer, C. W. (1996) FEMS Microbiol.
+Lett. 138, 17–22.
+FIG. 6. Southern blot of carAa(partial)/carAb/carAc/carAd(par- 12. Lloyd-Jones, G., de Jong, C., Ogden, R. C., Duetz, W. A., and tial) amplified from soil DNA. Aliquots of 20 ml were run on a 0.9% Williams, P. A. (1994) Appl. Environ. Microbiol. 60, 691–696. agarose gel. Lanes correspond to: 1, Town gas site soil LS; 2, Town 13. Kim, E., and Zylstra, G. J. (1995) J. Bacteriol. 177, 3095–3103. gas site soil HS; 3, Town gas soil HHS; 4, Uncontaminated soil from
+maize pasture; 5, Uncontaminated native forest soil. 14. Balkwill, D. L., Drake, G. R., Reeves, R. H., Fredrickson, J. K.,
+White, D. C., Ringelberg, D. B., Chandler, D. P., Romine, M. F.,
+Kennedy, D. W., and Spadoni, C. M. (1997) Int. J. Syst. Bacteriol.
+47, 191–201.
+DNA extracts. Pristine soils and PAH contaminated 15. Asturias, J. A., Diaz, E., and Timmis, K. N. (1995) Gene 156, 11–
+18. soils were collected from the site of a former town gas 16. Pflugmacher, U., Averhoff, B., and Gottschalk, G. (1996) Appl. site in Hamilton, New Zealand. Using a 25 cycle PCR Environ. Microbiol. 61, 3967–3977. amplification we were able to detect by hybridisation 17. Zylstra, G. J., and Gibson, D. T. (1989) J. Biol. Chem. 264, of a Southern blot the presence of carAa(partial)/carAb/ 14940–14946.
+carAc/carAd(partial) in only the most contaminated 18. Shine, J., and Dalgarno, L. (1975) Nature (London) 254, 34–38.
+soil sample HHS, but not in less heavily contaminated 19. Kessler, M., Dabbs, E. R., Averhoff, B., and Gottschalk, G. (1996)
+and uncontaminated soils (Figure 6). These results in- Microbiology 142, 3241–3251.
+dicate that the car genes are indeed present as a compo- 20. Erickson, B. D., and Mondello, F. J. (1992) J. Bacteriol. 174,
+nent of the microbial population present in some con- 2903–2912.
+21. Kimbara, K., Hashimoto, T., Fukuda, M., Koana, T., Takagi, M., taminated soils. The development of additional strate- Oishi, M., and Yano, K. (1989) J. Bacteriol. 171, 2740–2747. gies for environmental probing will ultimately benefit 22. Hayase, N., Taira, K., and Furukawa, K. (1990) J. Bacteriol. from the continued characterisation of diverse catabolic 172, 1160–1164. genes such as the car genes we have described in this 23. Catelani, D., Sorlini, C., and Treccani, V. (1971) Experientia 27, study. Further studies would be useful to determine 1173–1174.
+whether these car genes are enriched in environments 24. Furukawa, K., and Miyazaki, T. (1986) J. Bacteriol. 166, 392–
+contaminated with azaarenes such as carbazole or are 398.
+broadly distributed. 25. Yates, J. R., and Mondello, F. J. (1989) J. Bacteriol. 171, 1733–
+1735.
+26. Mondello, F. J. (1989) J. Bacteriol. 171, 1725–1732.
+ACKNOWLEDGMENTS 27. Taira, K., Hirose, J., Hayashida S., and Furukawa, K. (1992) J.
+Biol. Chem. 267, 4844–4853.
+Financial support provided by the New Zealand Foundation for 28. Hofer, B., Backhaus, S., and Timmis, K. N. (1994) Gene 144, 9–
+Research, Science and Technology (CO9615), and by the New 16.
+Zealand Lottery Board Commission is acknowledged. J.M.S. is the 29. Simon, M. J., Osslund, T. D., Saunders, R., Ensley, B. D., Suggs, recipient of a University of Waikato Postgraduate Scholarship. We S., Harcourt, A., Suen, W.-C., Cruden, D. L., Gibson, D. T., and
+thank Andrew Laurie for assistance with the phylogenetic analysis. Zylstra, G. J. (1993) Gene 127, 31–37.
+30. Furukawa, K., Hirose, J., Suyama, A., Zaiki, T., and Hayashida,
+S. (1993) J. Bacteriol. 175, 5224–5232. REFERENCES
+31. Han, S., Eltis, L. D., Timmis, K. N., Muchmore, S. W., and Bolin,
+J. T. (1995) Science 270, 976–980.
+1. Williams, P. A., and Sayers, J. R. (1994) Biodegradation 5, 195– 32. Happe, B., Eltis, L. D., Poth, H., Hedderich, R., and Timmis, 217. K. N. (1993) J. Bacteriol. 175, 7313–7320.
+2. Ouchiyama, N., Zhang, Y., Omori, T., and Kodama, T. (1993) 33. Resnik, S. M, Torok, D. S., and Gibson, D. T (1993) FEMS Micro- Biosci. Biotech. Biochem. 57, 455–460. biol. Lett. 113, 297–302.
+3. Gieg, L. M., Otter, A., and Fedorak, P. M. (1996) Environ. Sci. 34. Shepherd, J. M. (1997) Ph.D. thesis, University of Waikato, Technol. 30, 575–585. Hamilton, New Zealand.
+4. Kimura, T., Zhang, Y., Kodama, T., and Omori, T. (1996) FEMS 35. Grosser, R. J., Warshawsky, D., and Vestal, J. R. (1991) Appl.
+Microbiol. Lett. 135, 65–70. Environ. Microbiol. 61, 3490–3493.
+5. Sato, S.-I., Ouchiyama, N., Kimura, T., Nojiri, H., Yamane, H., 36. Brumley, W. C., Brownrigg, C. M., and Brilis, G. M. (1991) J.
+and Omori T. (1997) J. Bacteriol. 179, 4841–4849. Chromatogr. 558, 223–23

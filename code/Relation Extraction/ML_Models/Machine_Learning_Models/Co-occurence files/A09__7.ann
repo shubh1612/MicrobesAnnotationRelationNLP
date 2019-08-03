@@ -1,0 +1,43 @@
+T1	Microbes 828 845	Acinetobacter sp.
+T2	Microbes 873 907	Marinobacter hydrocarbonoclasticus
+T3	Environment 618 629	beach sands
+T4	Substrate 948 951	oil
+T5	Substrate 1067 1070	oil
+T6	Property 1058 1066	residual
+T7	ReactionOrProcess 990 1005	Oil degradation	
+T8	Substrate 1176 1179	oil
+T9	Substrate 1379 1382	oil
+T10	Property 1346 1366	rapid aerobic growth
+T11	Nutrient 1395 1401	carbon
+T12	Microbes 1513 1529	Acinetobacter sp
+T13	Substrate 1642 1651	crude oil
+T14	ReactionOrProcess 1652 1660	degraded
+T15	ReactionOrProcess 1550 1565	oil degradation
+T16	Substrate 1913 1939	chloroform-extractable oil
+T17	ReactionOrProcess 1873 1888	oil degradation
+T18	Substrate 2018 2021	oil
+T19	Microbes 2323 2339	Acinetobacter sp
+T20	Nutrient 2496 2502	carbon
+T21	Environment 2744 2750	marine
+T22	Property 2808 2822	concentrations
+T23	Nutrient 2803 2807	NaCl
+T24	Environment 3059 3065	marine
+T25	Substrate 3093 3105	hydrocarbons
+T26	ReactionOrProcess 2971 2982	Utilization	
+T27	Nutrient 3121 3127	carbon
+T28	Nutrient 3259 3265	carbon
+T29	Microbes 3349 3362	Acinetobacter
+T30	Microbes 3368 3380	Marinobacter
+T31	Nutrient 3426 3432	carbon
+T32	Nutrient 3505 3511	carbon
+T33	Environment 3609 3620	beach sands
+T34	Substrate 4210 4213	oil
+T35	Substrate 4356 4359	oil
+R6	CarriedOn Arg1:T14 Arg2:T13
+T36	Microbes 847 871	Pseudidiomarina maritima
+T37	Microbes 913 930	Vibrio hepatarius
+T38	Microbes 2308 2321	A. dieselolei
+T39	Microbes 2342 2365	M. hydrocarbonclasticus
+T40	Microbes 2367 2378	P. maritima
+T41	Microbes 2384 2397	V. hepatarius
+T42	ReactionOrProcess 2416 2426	MicroArray

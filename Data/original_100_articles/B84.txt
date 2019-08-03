@@ -1,0 +1,409 @@
+B84
+Microbial Degradation of Alkyl Carbazoles in Norman Wells Crude
+Oil
+PHILLIP M. FEDORAK AND DONALD W. S. WESTLAKE*
+Department of Microbiology, University of Alberta, Edmonton, Alberta, Canada T6G 2E9
+Received 26 September 1983/Accepted 24 January 1984
+Norman Wells crude oil was fractionated by sequential alumina and silicic acid column chromatography
+methods. The resulting nitrogen-rich fraction was analyzed by gas chromatography-mass spectrometry and
+showed 26 alkyl (Cl to C5) carbazoles to be the predominant compounds. An oil-degrading mixed bacterial
+culture was enriched on carbazole to enhance its ability to degrade nitrogen heterocycles. This culture was
+used to inoculate a series of flasks of mineral medium and Norman Wells crude oil. Residual oil was
+recovered from these cultures after incubation at 25°C for various times. The nitrogen-rich fraction was
+analyzed by capillary gas chromatography, using a nitrogen-specific detector. Most of the Cl-, C2-, and C3-
+carbazoles and one of the C4-isomers were degraded within 8 days. No further degradation occurred when
+incubation was extended to 28 days. The general order of susceptibility of the isomers to biodegradation was
+C1 > C2 > C3 > C4. The carbazole-enriched culture was still able to degrade n-alkanes, isoprenoids,
+aromatic hydrocarbons, and sulfur heterocycles in the crude soil.
+Crude oil is an extremely complex mixture of organic
+compounds. When introduced into the environment, it provides
+a variety of substrates for the indigenous microbial
+population. An increased understanding of the ability of
+microorganisms to change the chemical composition of oil
+has been gained as new analytical methods have been
+applied to study residual oil from laboratory experiments.
+Examples of such analytical techniques include computerized
+mass spectrometry (23), 13C nuclear magnetic resonance
+spectometry (11), capillary gas chromatography (GC)
+(5), and capillary GC coupled with a sulfur-specific detector
+(7). The analyses of oil from environmental samples have
+also shown chemical changes due, to a large extent, to
+microbial activity (2, 21, 25, 26). Early investigations focused
+on losses of the n-alkanes (1, 12), whereas more recent
+work has considered the aromatic compounds (5, 17) and the
+sulfur heterocycles (7). However, there is very little information
+on the ability of microorganisms to degrade the nitrogen
+compounds in oil.
+Petroleum contains between 0.1 and 2% nitrogen (20),
+with most crude oils containing less than 0.3% (22). The
+three major groups of nitrogen compounds in petroleum
+fractions boiling below 538°C (1,000°F) are pyridine derivatives
+(including quinolines and phenanthridines), indole
+derivatives (including pyrroles, carbazoles, and benzocarbazoles),
+and aromatic amides (19). Although nitrogen-containing
+compounds can be found throughout the boiling ranges,
+there is a tendency for such components to be found in the
+higher-boiling fractions and residues. Oils of high American
+Petroleum Institute gravity tend to have higher nitrogen
+contents than those with low gravities. The presence of
+nitrogen compounds in oils can lead to the poisoning of
+catalysts used in the cracking of oil for commercial uses (20).
+As the availability of high-quality, low-boiling crude oils
+decreases, the trend is to the increased use of oils containing
+more nitrogen.
+Many authors have used enrichment cultures to isolate
+procaryotes that are capable of degrading pure nitrogen
+heterocycles. For example, Watson and Cain (24) have
+Corresponding author.
+858
+described the metabolism of pyridine by a Bacillus sp. and a
+Nocardia sp., both of which use this compound as a sole
+carbon, nitrogen, and energy source. Stafford and Callely
+(D. A. Stafford and A. G. Callely, J. Gen. Microbiol. 63:xiv,
+1970) reported on a gram-negative isolate which can grow on
+pyridine and 4-methylpyridine but not on the 2-methyl or 3-
+methyl isomers. Quinoline served as the sole carbon source
+when ammonium was present as a nitrogen source for a
+bacterium isolated by Grant and Al-Najiar (9). Finnerty et al.
+(8) have reported studies on four bacterial isolates able to
+use carbazole as their sole source of carbon, nitrogen, and
+energy.
+In laboratory studies, Bohonos et al. (3) have used waters
+from lakes, streams, and sewage plants as sources of inocula.
+When added to six water samples, carbazole was biodegraded
+in five of these, quinoline in all six, and benzo[f]quinoline
+in two. The addition of quinoline along with
+benzoUWquinoline yielded degradation of the latter compound
+in all six waters tested. Dibenzo[c,g]carbazole was
+not degraded when tested alone or with inducing compounds
+(carbazole or naphthalene) present.
+DeLeon et al. (4) have compared fresh unweathered oil
+from the Ixtoc-1 blowout with heavily weathered oil from
+that source. Qualitatively, the nitrogen heterocycle profiles
+were almost identical, and they concluded that weathering
+does not adversely affect the distribution of higher-molecular-weight
+azaarenes such as C3- and C4-phenathridinesbenzoquinolines.
+Norman Wells crude oil, which was used for this study,
+contains a variety of alkyl carbazoles. This paper presents a
+method for analyzing these compounds and describes their
+sequential degradation by mixed microbial populations. The
+residual oil from laboratory cultures was separated by column
+chromatography to give a nitrogen-rich fraction which
+was initially characterized by GC-mass spectrometry and
+then routinely analyzed by capillary GC, using a nitrogenspecific
+detector.
+MATERIALS AND METHODS
+Sources of inocula and culture methods. In 1973, beach
+material which had been contaminated with aviation fuel was
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+DEGRADATION OF ALKYL CARBAZOLES 859
+collected from the shore of Shell Lake, Northwest Territories,
+Canada. At that time, 10 g was added to 1 liter of
+sterile mineral medium (2 g of Na2SO4, 0.2 g of
+MgSO4 * 7H20, 0.5 g of K2HPO4, 1 g of NH4Cl, 2 g of
+KNO3, and a trace of FeSO4 per liter of distilled water) and
+adjusted to pH 7.4 before autoclaving. Then 1 ml of Prudhoe
+Bay crude oil was added, and the culture was incubated at
+30°C on a rotary shaker (250 rpm; eccentricity, 3.8 cm). This
+enrichment culture has been maintained since that time by
+monthly transfers into fresh mineral medium and oil. Several
+months before the start of this study, a 10% inoculum was
+added to 200 ml of mineral medium containing 100 mg of
+carbazole. This new enrichment culture was incubated at
+25°C on a rotary shaker and transferred every 2 weeks to
+fresh mineral medium with carbazole as the sole carbon
+source.
+The carbazole-enriched culture served as a source of
+inoculum for a time course biodegradation experiment.
+Aliquots (20 ml) of this culture were added to 14 flasks
+containing 200 ml of mineral medium and 0.2 ml of Norman
+Wells crude oil. After various times of incubation at 25°C (0,
+1, 2, 4, 6, 8, and 28 days), the residual oil from two flasks was
+extracted and combined for analysis. Controls containing
+Norman Wells crude oil and 200 ml of sterile mineral
+medium were incubated and extracted at each time to
+account for any substrate loss due to volatilization.
+The original oil-degrading culture described above, which
+had not been enriched on carbazole, was also tested for its
+ability to degrade the nitrogen heterocycles in Norman Wells
+crude oil. We added 20 ml of this culture to two flasks
+containing 200 ml of mineral medium and 0.2 ml of oil. These
+were incubated at 25°C on a shaker for 28 days, and the
+residual oil was extracted for analysis.
+Extraction, fractionation, and analyses of oil fractions.
+Before extraction, 23 ,ul of a methylene chloride solution
+containing 134 mg of 7,8-benzoquinoline per ml (Aldrich
+Chemical Co., Inc.) as a GC standard was added to each
+culture flask. The medium was extracted at neutral pH,
+dried, and concentrated as outlined by Fedorak and Westlake
+(5). The concentrated extracts from duplicate flasks
+were combined and adsorbed onto 3 g of neutral alumina.
+This was added to 6 g of neutral alumina in a chromatography
+column (30 by 1.1 cm) and developed sequentially with
+30 ml of hexane, 50 ml of benzene, and 70 ml of chloroform
+to give, respectivley, the saturate, aromatic, and nitrogen
+polycyclic aromatic (NPAC) fractions as described by Later
+et al. (15). The NPAC fraction was passed through a silicic
+acid column (15), and the secondary nitrogen polycyclic
+aromatic heterocycles (2°-PANH) were eluted with 70 ml of
+hexane-benzene (1:1).
+After the solvents had been removed under vacuum, the
+three fractions were analyzed by capillary GC techniques.
+The conditions used for the analysis of the aromatic fraction
+with simultaneous, specific detection of the sulfur heterocycles
+were given by Fedorak and Westlake (7). The saturates
+and nitrogen heterocycles were analyzed with a HewlettPackard
+(model 5710) GC with a modified injection port (18)
+into which two SE52 wall-coated, fused silica columns (25 m
+by 0.2 mm) were fitted. The outlet end of one column was
+attached to a flame ionization detector, and the outlet of the
+other was attached to a nitrogen-specific detector. The
+injection port and detectors were at 300°C. The saturates
+were chromatographed by using the following oven temperature
+program: 90°C for 4 min, 4°C per min to 270°C, which
+was held for 12 min. The temperature program used for the
+nitrogen heterocycle analysis was 170 to 270°C at 2°C per
+min. Helium was used as a carrier and a make-up gas. Peak
+heights from the nitrogen-specific detector were used to
+quantitate the alkyl carbazoles (14).
+The most abundant nitrogen-containing compounds in the
+NPAC fraction of a Norman Wells oil sample, which were
+amenable to capillary GC analysis, were identified by GCmass
+spectrometry. This analysis was done by using a DB-1
+capillary column in a Varian 3700 GC in series with a
+Finnigan System MAT212 mass spectrometer linked to a
+Finnigan data system.
+Nitrogen contents of the whole oil and the 2°-PANH were
+determined by the microanalytical laboratory in the Department
+of Chemistry, University of Alberta.
+RESULTS AND DISCUSSION
+Norman Wells crude oil was found to contain 0.25%
+nitrogen. The 2°-PANH fraction of unaltered oil made up
+4.0% of the weight of the crude oil and contained 1.42%
+nitrogen. This nitrogen-rich fraction, which was used for GC
+analyses, contained 22.7% of the nitrogen present in the
+crude oil.
+GC-mass spectrometry analysis of the NPAC fraction of
+Norman Wells oil showed that major nitrogen compounds
+gave the molecular ion series mlz = 181, 195, 209, 223, and
+237. These correspond to either alkyl (Cl to C5) carbazoles
+or azafluorenes (4). There were no detectable amounts of
+quinolines, benzoquinolines, their alkyl homologs, or carbazole.
+Fractionation of the NPAC fraction on a silicic acid
+column verified that only alkyl carbazoles were present.
+Later et al. (15) showed that the alkyl carbazoles eluted with
+50 ml of hexane-benzene (1:1) as part of the 2°-PANH
+fraction. However, more polar solvents (benzene, then
+benzene-ethyl ether) were required to elute azaarenes such
+as benzoquinolines, quinolines, and azafluorenes. GC analysis
+of the NPAC and the 2°-PANH fractions with the
+nitrogen-specific detector gave nearly identical chromatograms.
+Analysis of the benzene fraction from the silicic acid
+column showed that there were some alkyl carbazoles left
+after the 50 ml of hexane-benzene, but no other resolvable
+nitrogen compounds were present. The benzene-ethyl ether
+fraction showed no peaks when analyzed with the nitrogenspecific
+detector.
+We found that 70 ml of hexane-benzene (1:1) removed all
+of the alkyl carbazoles and 7,8-benzoquinoline (the GC
+standard) from the column, and this volume was routinely
+used for elution of silicic acid columns in this study. After
+the initial GC-mass spectrometry analysis, the loss of the
+nitrogen heterocycles was monitored by GC analyses, using
+the nitrogen-specific detector.
+Although the NPAC fraction can be analyzed by our
+capillary GC method, it contains materials which are nonvolatile,
+and these remain as contaminants in the injection port
+liner. The silicic acid column removed much of the browncolored
+materials, but it did not completely eliminate the
+problem of injection port contamination. The liner had to be
+cleaned and replaced frequently so that the resolution of the
+alkyl carbazole peaks could be maintained. The 2°-PANH
+fraction did not contain exclusively nitrogen compounds
+since GC analysis with the flame ionization detector showed
+the presence of compounds which were not visualized with
+the nitrogen-specific detector. In contrast, Later et al. (15,
+16), who were analyzing distillates of synthetic fuels rather
+than crude oils, found nearly identical flame ionization and
+nitrogen-specific detector traces from their silicic acid column
+effluents.
+VOL. 47, 1984
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+860 FEDORAK AND WESTLAKE
+The 2°-PANH fraction recovered from Norman Wells
+crude oil after 28 days of incubation in sterile mineral
+medium is shown as the control in Fig. 1. This profile was
+identical to that of the 2°-PANH fraction from the native
+crude oil, indicating that none of these compounds were
+volatile under the incubation conditions used. Repeated
+attempts to detect viable microorganisms in the oil-containing
+controls failed, indicating that the Norman Wells crude
+oil contained no organisms that would attack the oil under
+the growth conditions used in these experiments.
+Twenty-six alkyl carbazoles were detected by GC-mass
+spectrometry, and these peaks have been grouped on the
+basis of their molecular weights (control, Fig. 1). Within a
+group of isomers, the peaks are numbered sequentially as
+their retention times increase. Thus, this oil contains three
+isomers of C1-carbazole, eight isomers of C2-carbazole,
+-I C3-0
+FIG. 1. Comparison of alkyl carbazole-degrading capabilities of
+an oil-degrading enrichment culture and the carbazole-enriched
+culture after 28 days of incubation. The 2°-PANH fraction of
+Norman Wells oil was analyzed with a nitrogen-specific detector.
+Numbered peaks are alkyl carbazoles; others are unidentified. BQ,
+7,8-Benzoquinoline (GC standard); CA, carbazole (introduced with
+the inoculum); C,, i alkyl carbon atoms on carbazole; X, contaminating
+peak.
+and so on. The nitrogen-specific detector readily responds to
+12 ng of the GC standard 7,8-benzoquinoline (labeled BQ)
+(Fig. 1). The 26 numbered peaks in the control chromatogram
+(Fig. 1) represent 110 pLg of alkyl carbazoles found in
+the recovered, undegraded Norman Wells crude oil and
+make up 0.04% by weight of the oil. Grimmer et al. (10)
+found alkyl carbazoles to be approximately 0.02% by weight
+of a Qatar crude oil.
+During initial investigations of the degradation of the alkyl
+carbazoles, cultures were acidified and extracted as in our
+previous studies (5, 7). This, however, led to the appearance
+of several unidentified, foreign nitrogenous compounds in
+the GC traces which complicated interpretation of the results.
+This problem was to a large extent overcome by
+extracting the cultures at neutrality. Occasionally, foreign
+peaks were observed; these are marked "X" in the figure.
+Table 1 shows the sequential loss of the alkyl carbazoles
+by the carbazole-enriched, oil-degrading mixed population.
+After only 1 day of incubation, degradation of some of the
+nitrogen heterocycles was apparent. A contaminating nitrogen
+compound masked peaks 2 and 3 in the C1 region in the
+day 1 sample, but peak 1 had been removed and therefore
+the loss was reported as .45%. Also within the first day,
+30% of the C2 carbazoles were removed from the oil. Losses
+measured at .10% were not considered significant and were
+reported as "ND." By day 2, most (86%) of the C1-
+carbazoles were removed from the oil and 53% of the C2-
+carbazoles had been degraded. Loss of the C3 isomers was
+detected on day 4, and by day 6 degradation of some of the
+C4-carbazoles was observed. The maximum loss of alkyl
+carbazoles was observed after 8 days, and no further degradation
+occurred during the next 20 days of incubation. There
+was no detectable loss of the C5-carbazoles over the 28-day
+incubation period.
+These results indicate that the mixed microbial population
+which had been enriched on carbazole as its sole carbon
+source was capable of degrading many of the alkyl carbazoles
+in Norman Wells crude oil. In general, the lower the
+number of alkyl carbons on the carbazole ring, the more
+susceptible the compound was to biodegradation. That is,
+the C1 compounds were degraded before the C2 compounds,
+which were degraded before the C3 compounds,
+and so on. This trend has also been observed for alkylsubstituted
+aromatic hydrocarbons (6) and for alkyl-substituted
+sulfur heterocycles (7).
+The data in Fig. 1 compare the alkyl carbazole-degrading
+capabilities of the carbazole enrichment culture with those of
+the non-carbazole-enriched, oil-degrading culture from
+which it was derived. After 28 days of incubation, the oildegrading
+culture has removed the Cr- and most of the C2-
+carbazoles from the oil, but there has been little activity on
+the C3 and C4 isomers. However, most of the C3-carbazoles
+and peak 2 in the C4 region had been removed or
+diminished by the carbazole enrichment culture. Thus, the
+prior exposure to carbazole increased the ability of the
+mixed culture to utilize a wider range of the alkyl carbazoles.
+The actual time or number of transfers on carbazole-containing
+medium required to enhance this activity likely was less
+than the several months used in this study. The enrichment
+culture was maintained while the analytical method was
+being developed.
+The carbazole-enriched culture was also able to degrade a
+wide range of non-nitrogen compounds in the Norman Wells
+crude oil. These included the n-alkanes and isoprenoids
+(pristane and phytane) present in the saturate fraction and
+many compounds in the aromatic fraction such as naphthaAPPL.
+ENVIRON. MICROBIOL.
+ on June 21, 2017 by INDIAN INSTITUTE OF TECHNOLOGY NEW DELHI http://aem.asm.org/ Downloaded from 
+DEGRADATION OF ALKYL CARBAZOLES 861
+TABLE 1. Percent loss of alkyl carbazoles from Norman Wells
+crude oil during incubation with a carbazole-degrading enrichment
+culture
+Incubation % Loss of isomer of carbazole:
+time (days) C, C2 3 C4 C5
+1 245a 30 NDb ND ND
+2 86 53 ND ND ND
+4 90 88 33 ND ND
+6 84 95 66 16 ND
+8 90 97 86 32 ND
+28 85 96 89 30 ND
+a Peak 1 (see Fig. 1) was completely lost. A contaminating peak
+found only on day 1 masked peaks 2 and 3 in the C1 region.
+b ND, No loss detected.
+lene, C1-, C2-, and C3-naphthalenes, phenanthrene, and C1-
+phenanthrenes. Many sulfur heterocycles were present in
+this crude oil, and Table 2 compares their sequential degradation
+with that of the alkyl carbazoles. The carbazoleenriched
+culture attacked the alkyl carbazoles more readily
+than the sulfur heterocyles. After 2 days of incubation,
+isomers of the C1- and C2-carbazoles were degraded, but
+there had been no change in the sulfur heterocycle chromatogram.
+By day 4, the C2- and C3-benzothiophenes,
+dibenzothiophene (the sulfur analog of carbazole), and the
+C1-dibenzothiophenes had been removed from the oil. During
+the same interval, several C2- and C3-carbazoles were
+degraded, and by day 6, most of the C3-carbazoles had been
+removed. The degradation of the more complex alkyl dibenzothiophenes
+lagged behind that of the alkyl carbazoles since
+8 days of incubation were needed to remove the C2-dibenzothiophenes,
+whereas the C2-carbazoles were removed in 4
+days. By day 28, some of the C3-dibenzothiophene isomers
+had been degraded. The enrichment on carbazole also appears
+to have enhanced the ability to degrade the sulfur
+heterocycles. For example, the C2-dibenzothiophenes were
+completely removed from the oil by day 8 by the carbazoleenriched
+culture (Table 2), whereas these were still present
+on day 28 in the residual oil from the oil-degrading enrichment
+culture which had not been enriched or carbazole.
+The intermediates and end products of the metabolism of
+these carbazoles are at present unknown. Since the alkyl
+carbazoles make up only 0.04% of the weight of the oil,
+detection of any intermediates in the oil matrix was not
+attempted. Finnerty et al. (8) have detected a minimum of six
+unidentified, water-soluble compounds on thin-layer chroTABLE
+2. Degradation of alkyl carbazoles and sulfur
+heterocycles in Norman Wells crude oil incubated with the
+carbazole-enriched mixed culture
+Day Carbazoles degradeda Sulfur heterocycles degraded
+1 C1, peak 1 NCb
+C2, peaks 1,3,4
+2 C1, peaks 2,3 NC
+4 C2, peaks 2,5,6,7,8 C2- and C3-benzothiophenes,
+C3, peaks 3,5 DBTC and C1 DBTs
+6 C3, peaks 1,2,4,6 NC
+8 C4, peak 2 C2 DBTs
+28 NC Some isomers of C3 DBT
+a See control chromatogram in Fig. 1 for peak designations.
+b NC, No change.
+c DBT, Dibenzothiophene.
+matography plates after growing their isolate C4 on carbazole.
+Work with dibenzothiophene, the sulfur analog of
+carbazole, has shown that the products formed from its
+metabolism still have the benzothiophene rings intact (13).
+However, in the case of the nitrogen heterocycle, it is quite
+possible that the pyrrole ring is broken, since the four
+carbazole degraders isolated by Finnerty et al. (8) also use
+this compound as a nitrogen source.
+The data presented in this paper show that mixed microbial
+populations are capable of degrading a wide variety of
+alkyl carbazoles in a crude oil. Although such compouhds
+are present in only small quantities in crude oils, their
+susceptibilities toward microbial attack have not previously
+been reported. It is likely that the same degradation sequence
+(but not the same rate) would be observed in
+environments that have received acute crude oil contaminations.
+The presence of nitrogen compounds in petroleum refinery
+feed stocks is known to poison catalysts (20); therefore,
+their selective removal from petroleum is desirable. Finnerty
+et al. (8) have only reported on the removal of carbazole
+from oils spiked with that compound. Our findings indicate
+that a range of alkyl carbazoles may also be susceptible to
+such a microbial denitrogenation process.

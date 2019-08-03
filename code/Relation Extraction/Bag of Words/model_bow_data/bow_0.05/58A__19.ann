@@ -1,0 +1,52 @@
+T1	Environment 36 41	soils
+T2	Environment 172 176	soil
+T3	Nutrient 130 136	Oxygen
+T4	Environment 315 319	soil
+T5	ReactionOrProcess 417 432	denitrification
+T6	ReactionOrProcess 443 452	reduction
+T7	ReactionOrProcess 456 470	methanogenesis
+T8	Nutrient 382 388	oxygen
+T9	Environment 627 651	aerobic activated sludge
+T10	Property 605 621	strict anaerobes
+T11	ReactionOrProcess 592 601	isolation
+T12	Environment 694 708	aerobic sludge
+T13	Substrate 667 678	methanogens
+T14	Environment 894 904	wastewater
+T15	Environment 884 904	anaerobic wastewater
+T16	Environment 1042 1056	aerobic sludge
+T17	Property 1013 1025	methanogenic
+T18	Property 1013 1025	methanogenic
+T19	Environment 1144 1168	aerobic activated sludge
+T20	Environment 1342 1356	aerobic sludge
+T21	Environment 1456 1480	aerobic activated sludge
+T22	Property 1377 1395	strictly anaerobic
+T23	ReactionOrProcess 1414 1422	reducing
+T24	Environment 1523 1539	marine sediments
+T25	Environment 1530 1539	sediments
+T26	Environment 1523 1529	marine
+T27	Environment 1523 1539	marine sediments
+T28	ReactionOrProcess 1561 1569	reducing
+T29	Microbes 1699 1712	Desulfovibrio
+T30	Environment 1742 1750	sediment
+T31	ReactionOrProcess 1782 1791	oxidizing
+T32	ReactionOrProcess 1930 1939	oxidation
+T33	ReactionOrProcess 2013 2022	reduction
+T34	ReactionOrProcess 2005 2022	sulfate reduction
+T35	Environment 2091 2095	soil
+T36	Environment 2202 2206	soil
+T37	ReactionOrProcess 2072 2087	denitrification
+T38	Nutrient 2102 2108	oxygen
+T39	Environment 2342 2346	soil
+T40	ReactionOrProcess 2252 2267	denitrification
+T41	Nutrient 2387 2393	oxygen
+T42	Property 2441 2457	strict anaerobes
+T43	Nutrient 2461 2467	oxygen
+T44	Nutrient 2532 2538	oxygen
+T45	Nutrient 2595 2601	oxygen
+T46	Property 2784 2800	strict anaerobes
+T47	Property 2644 2649	toxic
+T48	Nutrient 2610 2616	Oxygen
+T49	Property 2994 2999	toxic
+T50	Nutrient 2838 2844	Oxygen
+T51	Property 3077 3082	toxic
+T52	Nutrient 3214 3220	oxygen

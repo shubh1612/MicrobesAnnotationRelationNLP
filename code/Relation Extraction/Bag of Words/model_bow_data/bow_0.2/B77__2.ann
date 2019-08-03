@@ -1,0 +1,120 @@
+T1	Microbes 5 17	Enterobacter
+T2	Substrate 167 199	polycyclic aromatic hydrocarbons
+T3	Substrate 213 229	branched alkanes
+T4	Substrate 178 199	aromatic hydrocarbons
+T5	Substrate 121 130	petroleum
+T6	Substrate 178 199	aromatic hydrocarbons
+T7	Substrate 222 229	alkanes
+T8	Substrate 187 199	hydrocarbons
+T9	Substrate 131 143	hydrocarbons
+T10	Substrate 187 199	hydrocarbons
+T11	Substrate 131 143	hydrocarbons
+T12	Substrate 167 199	polycyclic aromatic hydrocarbons
+T13	Substrate 121 143	petroleum hydrocarbons
+T14	Property 167 177	polycyclic
+T15	Property 178 186	aromatic
+T16	ReactionOrProcess 80 87	degrade
+R1	CarriedOn Arg1:T16 Arg2:T2
+R2	CarriedOn Arg1:T16 Arg2:T3
+R3	CarriedOn Arg1:T16 Arg2:T4
+R4	CarriedOn Arg1:T16 Arg2:T5
+R5	CarriedOn Arg1:T16 Arg2:T6
+R6	CarriedOn Arg1:T16 Arg2:T7
+R7	CarriedOn Arg1:T16 Arg2:T8
+R8	CarriedOn Arg1:T16 Arg2:T9
+R9	CarriedOn Arg1:T16 Arg2:T10
+R10	CarriedOn Arg1:T16 Arg2:T11
+R11	CarriedOn Arg1:T16 Arg2:T12
+R12	CarriedOn Arg1:T16 Arg2:T13
+T17	Environment 409 422	polluted soil
+T18	Environment 418 422	soil
+T19	Property 378 389	contaminant
+T20	ReactionOrProcess 490 501	degradation
+T21	Environment 588 605	non-polluted soil
+T22	Environment 601 605	soil
+T23	Substrate 645 654	petroleum
+T24	Substrate 952 961	petroleum
+T25	Substrate 962 974	hydrocarbons
+T26	Substrate 962 974	hydrocarbons
+T27	Substrate 952 974	petroleum hydrocarbons
+T28	ReactionOrProcess 937 948	degradation
+R13	CarriedOn Arg1:T28 Arg2:T24
+R14	CarriedOn Arg1:T28 Arg2:T25
+R15	CarriedOn Arg1:T28 Arg2:T26
+R16	CarriedOn Arg1:T28 Arg2:T27
+T29	Environment 1041 1053	control soil
+T30	Environment 1049 1053	soil
+T31	Substrate 1234 1243	petroleum
+T32	ReactionOrProcess 1149 1159	enrichment
+T33	ReactionOrProcess 1177 1188	degradation
+R17	CarriedOn Arg1:T32 Arg2:T31
+R18	CarriedOn Arg1:T33 Arg2:T31
+T34	Environment 1342 1354	control soil
+T35	Environment 1329 1354	non-polluted control soil
+T36	Environment 1285 1289	soil
+T37	Environment 1350 1354	soil
+T38	Environment 1583 1596	polluted soil
+T39	Environment 1592 1596	soil
+T40	Substrate 1741 1750	petroleum
+T41	Substrate 1751 1763	hydrocarbons
+T42	Substrate 1751 1763	hydrocarbons
+T43	Substrate 1741 1763	petroleum hydrocarbons
+T44	Property 1552 1563	contaminant
+T45	ReactionOrProcess 1722 1733	degradation
+R19	CarriedOn Arg1:T45 Arg2:T40
+R20	CarriedOn Arg1:T45 Arg2:T41
+R21	CarriedOn Arg1:T45 Arg2:T42
+R22	CarriedOn Arg1:T45 Arg2:T43
+T46	Microbes 1846 1857	Alcaligenes
+T47	Microbes 1859 1871	Enterobacter
+T48	Environment 1916 1931	landfarmed soil
+T49	Environment 1927 1931	soil
+T50	ReactionOrProcess 1938 1944	T-RFLP
+T51	Environment 2149 2161	soil samples
+T52	Environment 2149 2153	soil
+T53	ReactionOrProcess 2120 2129	extracted
+T54	ReactionOrProcess 2026 2029	PCR
+T55	ReactionOrProcess 2095 2106	degradation
+T56	Enzyme 2300 2318	alkane hydroxylase
+T57	Enzyme 2322 2346	catechol 2,3-dioxygenase
+T58	Enzyme 2369 2392	naphthalene dioxygenase
+T59	Substrate 2369 2380	naphthalene
+T60	ReactionOrProcess 2218 2221	PCR
+T61	ReactionOrProcess 2280 2291	degradation
+R23	CarriedOn Arg1:T60 Arg2:T59
+R24	CarriedOn Arg1:T61 Arg2:T59
+T62	Environment 2685 2703	petroleum refinery
+T63	Substrate 2685 2694	petroleum
+T64	Substrate 2710 2713	Oil
+T65	Substrate 2704 2713	Motor Oil
+T66	Environment 2791 2802	Soil sample
+T67	Environment 2791 2803	Soil samples
+T68	Environment 2882 2894	control soil
+T69	Environment 2870 2894	nonpolluted control soil
+T70	Environment 2890 2894	soil
+T71	Environment 2791 2795	Soil
+T72	Environment 3139 3150	Soil sample
+T73	Environment 3139 3151	Soil samples
+T74	Environment 3174 3186	control soil
+T75	Environment 3262 3277	landfarmed soil
+T76	Environment 3161 3186	non-polluted control soil
+T77	Environment 3182 3186	soil
+T78	Environment 3273 3277	soil
+T79	Environment 3139 3143	Soil
+T80	Environment 3466 3482	landfarming soil
+T81	Environment 3374 3386	soil samples
+T82	Environment 3478 3490	soil samples
+T83	Environment 3374 3378	soil
+T84	Environment 3478 3482	soil
+T85	Substrate 3391 3403	hydrocarbons
+T86	Substrate 3346 3357	Hydrocarbon
+T87	Substrate 3391 3403	hydrocarbons
+T88	ReactionOrProcess 3358 3368	extraction
+T89	ReactionOrProcess 3510 3520	extraction
+T90	Environment 3592 3596	soil
+T91	Substrate 3626 3634	n-hexane
+T92	ReactionOrProcess 3601 3610	extracted
+T93	ReactionOrProcess 3705 3716	evaporation
+R25	CarriedOn Arg1:T92 Arg2:T91
+T94	Substrate 3770 3781	hydrocarbon
+T95	Property 3915 3928	concentration

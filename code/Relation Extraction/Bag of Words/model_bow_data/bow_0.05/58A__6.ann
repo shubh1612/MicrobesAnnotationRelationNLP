@@ -1,0 +1,37 @@
+T1	Environment 21 45	aerobic activated sludge
+T2	Environment 46 56	wastewater
+T3	Environment 11 45	lab-scale aerobic activated sludge
+T4	Microbes 245 264	enrichment cultures
+T5	ReactionOrProcess 245 255	enrichment
+T6	Substrate 425 433	benzenes
+T7	ReactionOrProcess 363 373	metabolize
+T8	ReactionOrProcess 553 564	biodegraded
+T9	ReactionOrProcess 596 610	biodegradation
+T10	Microbes 756 772	aerobic bacteria
+T11	ReactionOrProcess 744 752	degraded
+T12	Property 842 866	aerobic biodegradability
+T13	ReactionOrProcess 850 866	biodegradability
+T14	Environment 932 941	sediments
+T15	Environment 919 941	contaminated sediments
+T16	Environment 915 941	PCB contaminated sediments
+T17	ReactionOrProcess 946 955	incubated
+T18	ReactionOrProcess 956 967	aerobically
+T19	Environment 1175 1199	aerobic activated sludge
+T20	ReactionOrProcess 1129 1145	biodegradability
+T21	Property 1381 1394	biodegradable
+T22	Microbes 1505 1521	aerobic bacteria
+T23	ReactionOrProcess 1532 1539	degrade
+T24	Microbes 1570 1583	Acinetobacter
+T25	ReactionOrProcess 1604 1611	degrade
+T26	Microbes 1721 1732	Alcaligenes
+T27	Microbes 1963 1974	Alcaligenes
+T28	ReactionOrProcess 2003 2010	degrade
+T29	Environment 2184 2194	wastewater
+T30	Microbes 2469 2480	Alcaligenes
+T31	ReactionOrProcess 2511 2518	degrade
+T32	ReactionOrProcess 2563 2570	degrade
+T33	Microbes 2627 2643	aerobic bacteria
+T34	ReactionOrProcess 2756 2778	aerobic biodegradation
+T35	ReactionOrProcess 2685 2695	metabolize
+T36	ReactionOrProcess 2764 2778	biodegradation
+T37	ReactionOrProcess 2874 2890	biodegradability

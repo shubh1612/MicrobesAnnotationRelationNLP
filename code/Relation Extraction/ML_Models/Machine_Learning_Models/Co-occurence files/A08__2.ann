@@ -1,0 +1,57 @@
+T1	Substrate 20 27	alkanes
+T2	Substrate 89 98	n-alkanes
+T3	Property 217 226	saturated
+T4	Property 316 325	saturated
+T5	Property 472 482	saturation
+T6	Substrate 639 646	alkanes
+T7	ReactionOrProcess 716 725	reduction
+T8	Substrate 1124 1142	p-isopropyltoluene
+T9	Substrate 1062 1083	Aromatic hydrocarbons	
+T10	Substrate 1185 1196	naphthalene
+T11	Substrate 1304 1311	methane
+T12	Substrate 1251 1262	hydrocarbon
+T13	ReactionOrProcess 1269 1291	biological degradation
+T14	Substrate 1382 1389	methane
+T15	Substrate 1506 1513	methane
+T16	Nutrient 1619 1625	carbon
+T17	Microbes 1707 1714	archaea
+T18	Substrate 1656 1663	methane
+T19	Property 1688 1706	strictly anaerobic
+T20	ReactionOrProcess 1909 1921	fermentation
+T21	Microbes 1966 1993	methanogenic microorganisms
+T22	Substrate 2047 2054	methane
+T23	Substrate 2288 2295	methane
+T24	Property 2237 2243	stable
+T25	Nutrient 2254 2260	carbon
+T26	Property 2322 2334	Methanogenic	
+T27	Nutrient 2398 2404	carbon
+T28	Nutrient 2442 2460	electron acceptors
+T29	Substrate 2548 2555	methane
+T30	Substrate 2479 2501	saturated hydrocarbons
+T31	Property 2467 2475	aromatic
+T32	Substrate 2574 2580	ethane
+T33	Substrate 2600 2607	alkanes
+T34	Substrate 2757 2768	methanogens
+T35	Substrate 2785 2797	hydrocarbons
+T36	Property 2823 2837	concentrations
+T37	Substrate 2839 2860	Aromatic hydrocarbons	
+T38	ReactionOrProcess 2883 2905	biological degradation
+T39	Substrate 3045 3052	toluene
+T40	Substrate 2942 2955	phenylacetate
+T41	Substrate 3001 3014	phenylalanine
+T42	Substrate 3321 3341	aromatic hydrocarbon
+T43	ReactionOrProcess 3347 3358	degradation
+T44	ReactionOrProcess 3247 3261	methanogenesis
+T45	Environment 3518 3534	marine sediments
+T46	Substrate 3397 3432	Saturated and aromatic hydrocarbons
+T47	Substrate 3544 3563	intense hydrocarbon
+T48	Substrate 3603 3606	oil
+T50	Substrate 3634 3669	Saturated and aromatic hydrocarbons	
+T51	Substrate 3708 3711	oil
+R2	CarriedOn Arg1:T13 Arg2:T11
+R3	CarriedOn_No Arg1:T13 Arg2:T12
+R4	Of Arg1:T19 Arg2:T17
+R5	ActOn Arg1:T17 Arg2:T18
+R6	ActOn Arg1:T21 Arg2:T22
+R7	CarriedOn Arg1:T38 Arg2:T37
+R8	CarriedOn Arg1:T43 Arg2:T42

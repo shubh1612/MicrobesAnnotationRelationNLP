@@ -1,0 +1,72 @@
+T1	Environment 31 40	sediments
+T2	Environment 21 26	soils
+T3	Environment 225 230	plume
+T4	Environment 301 306	plume
+T5	Substrate 124 147	Phospholipid fatty acid
+T6	Substrate 124 148	Phospholipid fatty acids
+T7	Environment 522 527	plume
+T8	Environment 447 452	water
+T9	Environment 467 472	water
+T10	ReactionOrProcess 371 380	extracted
+T11	ReactionOrProcess 361 365	PLFA
+T12	Environment 597 608	groundwater
+T13	Environment 634 639	plume
+T14	Environment 778 789	groundwater
+T15	Environment 868 873	plume
+T16	Substrate 951 972	aromatic hydrocarbons
+T17	Substrate 951 972	aromatic hydrocarbons
+T18	Substrate 960 972	hydrocarbons
+T19	Substrate 960 972	hydrocarbons
+T20	Property 951 959	aromatic
+T21	Environment 1042 1053	groundwater
+T22	Environment 1080 1085	water
+T23	Substrate 1113 1134	aromatic hydrocarbons
+T24	Substrate 1113 1134	aromatic hydrocarbons
+T25	Substrate 1122 1134	hydrocarbons
+T26	Substrate 1122 1134	hydrocarbons
+T27	Property 1113 1121	aromatic
+T28	Environment 1227 1237	subsurface
+T29	Property 1272 1285	concentration
+T30	Environment 1320 1331	groundwater
+T31	Environment 1493 1504	groundwater
+T32	Substrate 1348 1357	petroleum
+T33	Substrate 1358 1370	hydrocarbons
+T34	Substrate 1358 1370	hydrocarbons
+T35	Substrate 1348 1370	petroleum hydrocarbons
+T36	Property 1476 1485	dissolved
+T37	Property 1463 1475	contaminants
+T38	Substrate 1672 1680	gasoline
+T39	Substrate 1584 1591	benzene
+T40	Substrate 1596 1603	toluene
+T41	Property 1566 1580	concentrations
+T42	Property 1637 1651	concentrations
+T43	Environment 1769 1780	groundwater
+T44	Environment 1729 1736	aquifer
+T45	Property 2090 2103	concentration
+T46	Property 2078 2089	contaminant
+T47	Property 2186 2200	concentrations
+T48	Property 2210 2222	contaminants
+T49	Property 2204 2209	toxic
+T50	Property 2388 2404	sulfate-reducing
+T51	Microbes 2487 2500	Desulfovibrio
+T52	Microbes 2487 2504	Desulfovibrio spp
+T53	Environment 2627 2638	groundwater
+T54	ReactionOrProcess 2668 2677	depletion
+T55	ReactionOrProcess 2579 2584	PLFAs
+T56	Environment 2786 2791	plume
+T57	Environment 2746 2750	soil
+T58	Environment 2824 2829	water
+T59	Environment 2816 2823	aquifer
+T60	Property 2774 2785	contaminant
+T61	Microbes 2895 2908	actinomycetes
+T62	Environment 2923 2936	aerobic soils
+T63	Environment 2931 2936	soils
+T64	Environment 2923 2936	aerobic soils
+T65	Environment 3112 3129	contaminated site
+T66	Substrate 3066 3090	phospholipid fatty acids
+T67	Property 2987 3003	sulfate-reducing
+T68	Property 3167 3183	sulfate-reducing
+T69	ReactionOrProcess 2959 2969	Enrichment
+T70	ReactionOrProcess 2974 2983	isolation
+R1	CarriedOn Arg1:T69 Arg2:T66
+R2	CarriedOn Arg1:T70 Arg2:T66

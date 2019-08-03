@@ -1,0 +1,66 @@
+T1	Substrate 28 63	saturated and aromatic hydrocarbons
+T2	Substrate 73 108	Saturated and aromatic hydrocarbons
+T3	ReactionOrProcess 0 24	Anaerobic biodegradation
+T4	ReactionOrProcess 238 252	biodegradation
+T5	Nutrient 282 288	oxygen
+T6	Substrate 394 406	hydrocarbons
+T7	Property 422 439	anoxic conditions
+T8	ReactionOrProcess 386 393	degrade
+T9	Substrate 523 535	hydrocarbons
+T11	Substrate 579 591	hydrocarbons
+T12	Property 655 666	temperature
+T13	Substrate 963 984	aromatic hydrocarbons
+T14	Substrate 907 914	alkanes
+T15	Substrate 836 848	hydrocarbons
+T16	Substrate 916 938	saturated hydrocarbons
+T17	Substrate 1110 1119	n-alkanes
+T18	Substrate 1040 1052	hydrocarbons
+T19	Substrate 1171 1192	Aromatic hydrocarbons	
+T20	Substrate 1277 1298	aliphatic hydrocarbon
+T21	Substrate 1313 1326	alkylbenzenes
+T22	Property 1209 1219	polycyclic
+T23	Substrate 1349 1361	hydrocarbons
+T24	Substrate 1519 1531	hydrocarbons
+T25	Substrate 1594 1614	natural hydrocarbons
+T26	Substrate 1616 1628	Hydrocarbons	
+T27	Substrate 1791 1803	hydrocarbons
+T28	Substrate 1951 1954	oil
+T29	ReactionOrProcess 1895 1907	accumulation
+T30	Substrate 1987 1999	hydrocarbons
+T31	Substrate 2323 2335	hydrocarbons
+T32	Nutrient 2355 2361	oxygen
+T33	Environment 2512 2526	deep sediments
+T34	Substrate 2483 2495	hydrocarbons
+T35	Substrate 2628 2640	hydrocarbons
+T36	Substrate 2534 2537	oil
+T37	Property 2659 2676	anoxic conditions
+T38	ReactionOrProcess 2610 2624	biodegradation
+T39	Nutrient 2433 2439	oxygen
+T40	Substrate 2806 2818	hydrocarbons
+T41	Property 2834 2851	anoxic conditions
+T42	ReactionOrProcess 2798 2805	degrade
+T43	Substrate 3023 3042	aerobic hydrocarbon
+T44	Substrate 2924 2936	hydrocarbons
+T45	Substrate 3086 3121	saturated and aromatic hydrocarbons
+T46	Substrate 3166 3169	oil
+T47	ReactionOrProcess 3197 3218	anaerobic degradation
+T48	Substrate 3372 3384	hydrocarbons
+T49	Substrate 3309 3344	aliphatic and aromatic hydrocarbons
+T50	ReactionOrProcess 3513 3524	degradation
+T51	Substrate 3608 3629	biogenic hydrocarbons
+T52	Substrate 3868 3903	Saturated and aromatic hydrocarbons	
+T53	Substrate 3972 3981	n-alkanes
+T54	Substrate 4008 4015	alkanes
+T55	Microbes 4146 4153	archaea
+T56	Substrate 4096 4103	alkanes
+T57	Substrate 4190 4197	alkanes
+R1	CarriedOn Arg1:T3 Arg2:T1
+R2	CarriedOn Arg1:T3 Arg2:T2
+R3	CarriedOn Arg1:T8 Arg2:T6
+R7	CarriedOn Arg1:T38 Arg2:T35
+R9	OccursIn Arg1:T38 Arg2:T33
+R10	CarriedOn Arg1:T42 Arg2:T40
+R13	ActOn Arg1:T55 Arg2:T56
+T10	Substrate 941 948	alkenes
+T58	Substrate 950 957	alkynes
+T59	Substrate 1029 1038	aliphatic

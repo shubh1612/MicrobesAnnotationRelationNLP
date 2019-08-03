@@ -1,0 +1,63 @@
+T1	Microbes 0 11	Micrococcus
+T2	Microbes 104 118	Pseudomonas sp
+T3	Microbes 271 281	consortium
+T4	Microbes 402 412	consortium
+T5	Substrate 441 450	crude oil
+T6	Substrate 447 450	oil
+T7	ReactionOrProcess 441 462	crude oil degradation
+T8	ReactionOrProcess 451 462	degradation
+T9	ReactionOrProcess 447 462	oil degradation
+T10	Microbes 537 547	consortium
+T11	Substrate 655 664	crude oil
+T12	Substrate 652 664	BH crude oil
+T13	Substrate 661 664	oil
+T14	ReactionOrProcess 569 580	degradation
+R1	CarriedOn Arg1:T14 Arg2:T11
+R2	CarriedOn Arg1:T14 Arg2:T12
+R3	CarriedOn Arg1:T14 Arg2:T13
+T15	Microbes 792 802	consortium
+T16	Substrate 742 751	crude oil
+T17	Substrate 739 751	BH crude oil
+T18	Substrate 748 751	oil
+T19	Substrate 764 767	oil
+T20	Property 841 852	temperature
+T21	Property 768 777	degraders
+T22	ReactionOrProcess 700 711	degradation
+R4	CarriedOn Arg1:T22 Arg2:T15
+R5	CarriedOn Arg1:T22 Arg2:T16
+R6	CarriedOn Arg1:T22 Arg2:T17
+R7	CarriedOn Arg1:T22 Arg2:T18
+R8	CarriedOn Arg1:T22 Arg2:T19
+T23	Microbes 869 882	actinomycetes
+T24	Substrate 969 972	oil
+T25	Microbes 1036 1049	actinomycetes
+T26	Substrate 1324 1336	hydrocarbons
+T27	Substrate 1190 1201	hydrocarbon
+T28	Substrate 1324 1336	hydrocarbons
+T29	Substrate 1363 1374	hydrocarbon
+T30	Substrate 1455 1458	oil
+T31	Substrate 1642 1653	hydrocarbon
+T32	Environment 1746 1758	soil samples
+T33	Environment 1746 1750	soil
+T34	Environment 1731 1750	diesel station soil
+T35	Substrate 1718 1726	gasoline
+T36	Substrate 1731 1737	diesel
+T37	Substrate 1930 1933	oil
+T38	Substrate 2024 2027	oil
+T39	ReactionOrProcess 2028 2038	enrichment
+T40	Environment 2088 2092	soil
+T41	Environment 2096 2103	aquatic
+T42	Microbes 2368 2392	heterotrophic population
+T43	Substrate 2362 2381	total heterotrophic
+T44	Substrate 2238 2268	inherent petroleum hydrocarbon
+T45	Substrate 2247 2256	petroleum
+T46	Substrate 2238 2256	inherent petroleum
+T47	Substrate 2257 2268	hydrocarbon
+T48	Substrate 2199 2202	oil
+T49	Property 2368 2381	heterotrophic
+T50	Substrate 2612 2621	petroleum
+T51	Property 2612 2631	petroleum degraders
+T52	Property 2622 2631	degraders
+T53	Environment 2736 2752	oil-spilled soil
+T54	Environment 2748 2752	soil
+T55	Property 2754 2763	lipolytic

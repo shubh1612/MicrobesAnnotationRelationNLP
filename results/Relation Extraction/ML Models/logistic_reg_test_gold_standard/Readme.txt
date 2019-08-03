@@ -1,0 +1,2 @@
+It contains two files which contain results using logistic classifier of sklearn which has been tested on the data set using different split of training data.
+The files are self explanatory in itself and all the further details have been explained in the file itself.

@@ -1,0 +1,21 @@
+T1	Environment 99 105	Marine
+T2	Substrate 27 30	oil
+T3	Substrate 160 163	oil
+T4	ReactionOrProcess 132 156	potential bioremediation
+T5	ReactionOrProcess 142 156	bioremediation
+T6	ReactionOrProcess 298 309	degradation
+T7	Substrate 507 510	oil
+T8	Substrate 855 866	spilled oil
+T9	Substrate 648 651	oil
+T10	Substrate 863 866	oil
+T11	Property 652 664	contaminants
+T12	ReactionOrProcess 630 644	bioremediation
+R1	CarriedOn Arg1:T12 Arg2:T8
+R2	CarriedOn Arg1:T12 Arg2:T9
+R3	CarriedOn Arg1:T12 Arg2:T10
+T13	Environment 942 965	unprecedented oil spill
+T14	Environment 973 979	marine
+T15	Substrate 956 959	oil
+T16	Substrate 1223 1226	oil
+T17	Substrate 942 959	unprecedented oil
+T18	Property 1227 1239	contaminants

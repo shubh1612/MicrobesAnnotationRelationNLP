@@ -1,0 +1,74 @@
+T1	Microbes 87 100	Sinorhizobium
+T2	Substrate 264 267	DBT
+T3	Substrate 256 259	BTH
+T4	Property 328 350	thermophilic bacterium
+T5	ReactionOrProcess 232 247	desulfurization
+R1	CarriedOn Arg1:T5 Arg2:T2
+R2	CarriedOn Arg1:T5 Arg2:T3
+T6	Property 390 410	mesophilic bacterium
+T7	Microbes 465 474	M. goodii
+T8	Microbes 482 516	facultative thermophilic bacterium
+T9	Microbes 475 478	X7B
+T10	Microbes 465 478	M. goodii X7B
+T11	Substrate 551 554	DBT
+T12	Substrate 544 547	BTH
+T13	Substrate 567 573	sulfur
+T14	Property 494 516	thermophilic bacterium
+T15	Property 482 516	facultative thermophilic bacterium
+T16	Microbes 613 626	Sinorhizobium
+T17	ReactionOrProcess 586 601	desulfurization
+R3	CarriedOn Arg1:T17 Arg2:T16
+T18	Substrate 806 809	BTH
+T19	ReactionOrProcess 806 821	BTH degradation
+T20	ReactionOrProcess 810 821	degradation
+T21	ReactionOrProcess 806 821	BTH degradation
+T22	Substrate 942 945	BTH
+T23	Substrate 1058 1061	BTH
+T24	ReactionOrProcess 1062 1077	desulfurization
+T25	Microbes 1192 1195	X7B
+T26	Substrate 1166 1169	BTH
+T27	Microbes 1302 1311	M. goodii
+T28	Microbes 1359 1372	Sinorhizobium
+T29	Microbes 1312 1315	X7B
+T30	Microbes 1302 1315	M. goodii X7B
+T31	Substrate 1332 1335	BTH
+T32	ReactionOrProcess 1332 1347	BTH degradation
+T33	ReactionOrProcess 1332 1355	BTH degradation pathway
+T34	ReactionOrProcess 1336 1347	degradation
+T35	ReactionOrProcess 1332 1347	BTH degradation
+T36	Substrate 1551 1554	BTH
+T37	ReactionOrProcess 1551 1566	BTH degradation
+T38	ReactionOrProcess 1555 1566	degradation
+T39	ReactionOrProcess 1551 1566	BTH degradation
+T40	Microbes 1767 1770	X7B
+T41	Substrate 1717 1720	BTH
+T42	Substrate 1836 1865	sulfur-containing xenobiotics
+T43	Substrate 1731 1737	sulfur
+T44	ReactionOrProcess 1804 1819	desulfurization
+R4	CarriedOn Arg1:T44 Arg2:T42
+T45	Microbes 1962 1965	X7B
+T46	Substrate 2059 2062	DBT
+T47	Substrate 1936 1939	BTH
+T48	Substrate 2051 2054	BTH
+T49	ReactionOrProcess 1936 1951	BTH degradation
+T50	ReactionOrProcess 1897 1905	purified
+T51	ReactionOrProcess 1940 1951	degradation
+T52	ReactionOrProcess 1936 1951	BTH degradation
+T53	ReactionOrProcess 2024 2042	biodesulfurization
+R5	CarriedOn Arg1:T50 Arg2:T45
+R6	CarriedOn Arg1:T49 Arg2:T46
+R7	CarriedOn Arg1:T50 Arg2:T46
+R8	CarriedOn Arg1:T50 Arg2:T47
+R9	CarriedOn Arg1:T50 Arg2:T48
+R10	CarriedOn Arg1:T51 Arg2:T46
+R11	CarriedOn Arg1:T52 Arg2:T46
+R12	CarriedOn Arg1:T53 Arg2:T46
+T54	Substrate 2123 2131	gasoline
+T55	Substrate 2180 2184	oils
+T56	Substrate 2105 2111	sulfur
+T57	Substrate 2235 2241	sulfur
+T58	Property 2105 2119	sulfur species
+T59	ReactionOrProcess 2148 2172	fluid catalytic cracking
+R13	CarriedOn Arg1:T59 Arg2:T55
+T60	Substrate 2302 2312	thiophenes
+T61	Substrate 2314 2318	BTHs

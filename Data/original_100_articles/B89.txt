@@ -1,0 +1,343 @@
+B89
+Appl Microbiol Biotechnol (1991) 36:120-123 
+017575989100253P App//ed
+
+Microbiology
+
+Biotechnology 
+
+© Springer-Verlag 1991 
+
+Degradation of dioxane, tetrahydrofuran and other 
+cyclic ethers by an environmental Rhodococcus strain 
+
+Dirk Bernhardt and Hans Diekmann 
+
+Institut fiir Mikrobiologie, Universitat Hannover, Schneiderberg 50, W-3000 Hannover, Federal Republic of Germany 
+Received 17 June 1991/Accepted 21 June 1991 
+
+Summary. By enrichment and isolation techniques bac- 
+terial strains with the capacity to grow on aliphatic cyc- 
+lic ethers (dioxane, tetrahydrofuran, 1,3-dioxolane) 
+have been isolated. Six strains that degrade tetrahydro- 
+furan were classified as belonging to the genus Rhodo-
+coccus. One of two strains that degrade dioxane instead 
+of or in combination with tetrahydrofuran was further 
+characterized and a hypothetical catabolic pathway 
+comprising an initial 2-hydroxylation and several oxi- 
+dation steps is postulated. 
+
+Introduction 
+
+While numerous publications deal with the microbial 
+degradation of furan (Trudgill 1984), the information 
+on biological degradability of the saturated cyclic eth- 
+ers, tetrahydrofuran, dioxane, trioxane, 1,3-dioxolane 
+and others, is scarce. Such structures may occur in nat- 
+ural compounds but are used in large quantities as sol- 
+vents and chemical bulk products. Because of their 
+high vapour pressure and water solubility, significant 
+amounts will be released into the environment. Their 
+fate is uncertain. In the assessment of biodegradability 
+of fourteen chemicals tetrahydrofuran was classified as 
+"not readily biodegradable" (Painter and King 1985), 
+but there have been other publications on the degrada- 
+tion of dioxane (Orlowska et al. 1984) or tetrahydrofu- 
+ran (Dimitrenko et al. 1987; Gvozdyak et al. 1988). 
+
+We report the isolation of strains with the ability to 
+degrade unsubstituted and substituted saturated cyclic 
+ethers from the environment and describe the growth 
+characteristics and substrate specificities of a strain be- 
+longing to the genus Rhodococcus. 
+
+Offprint requests to: H. Diekmann 
+
+Materials and methods 
+
+Organisms. All strains mentioned in Table l were isolated from 
+enrichment cultures using liquid mineral medium A containing 
+various carbon sources in concentrations from 0.02 to 0.05%. After 
+several transfers in liquid medium a sample was transferred to nu- 
+trient broth agar. Pure isolates were conserved by lyophilisation. 
+
+Culture media and growth conditions. The media used were: mi- 
+neral medium A (Trower et al. 1985); nutrient broth agar (Difco, 
+Detroit, Mich., USA); seed medium (Thaler and Diekmann 1979). 
+All incubations were at 30 ° C, in test tubes fixed at 45 ° inclination 
+or in erlenmeyer flasks on a rotatory shaker at 175 rpm. 
+
+Analytical methods and techniques. Optical density (OD) was de- 
+termined at 578 nm, and dry weight after collection of the sample 
+on membrane filters, drying at 105°C for 1 h and weighing. 
+Chemical oxygen demand (COD) was measured with the test kit 
+LCK414 (Dr. Lange, Berlin, FRG). For the gas chromatographic 
+determination of dioxane and tetrahydrofuran a Shimadzu (Kyo- 
+to, Japan) GC-9 AM equipped either with a Poropak Q (80/100) 
+column or a Chromosorb W-HP column coated with 5% OV-17 
+100-200 mesh were used. The Gram stain was performed with the 
+colour set of BioMerieux (N~rtingen, FRG), and the quinones 
+were separated and identified according to Kroppenstedt (1982). 
+
+Chemicals. Dioxane and tetrahydrofuran were from Merck 
+(Darmstadt, FRG). All other chemicals used for the degradation 
+tests were purchased from Aldrich-Chemic (Steinheim, FRG) or 
+were a gift from BASF (Ludwigshafen, FRG). 
+
+Results and discussion 
+
+Enrichment and isolation of strains 
+
+Mineral media containing dioxane, tetrahydrofuran or 
+other cyclic ethers (see Table 1) as sole carbon sources 
+in erlenmeyer flasks were inoculated with samples from 
+forest soil or sludge from the settling basin of the aero- 
+bic waste-water purification plant of a chemical firm, 
+When an increase in OD could be observed, cells were 
+transferred to fresh media. After repeated transfer in li- 
+quid media and dilution streaks on solid media a num- 
+ber of pure strains were isolated (Table 1). Despite con- 
+siderable efforts no strains were enriched or isolated 
+
+
+Table 1. Pure strains isolated from effluent samples and optical density (OD) values obtained under standard conditions 
+
+Substrates 
+
+Dioxane-2,3-diol Tetrahydrofuran Tetrahydrofuran-3-ol Tetrahydropyran Tetrahydropyran-4-ol Tetrahydropyran-4-one 
+Strain OD Strain OD Strain OD Strain OD Strain OD Strain OD 
+
+9/1 0.93 12 1.00 1 0.78 
+9/2 0.85 23 1.00 11 0.91 
+18 0.96 113 1.00 12/0 0.68 
+27/0 1.04 219 1.90 115 0.42 
+103/1 1.0 220 1.60 116 0.32 
+103/2 0.95 230 0.95 209 0.80 
+103/3 0.83 211/1 0.95 
+111 0.93 211/3 0.80 
+212/1 0.50 
+212/3 0.40 
+
+210 0.42 29 0.56 32/0 0.28 
+213 0.49 
+
+Table 2. Changes in OD when tetrahydrofuran-degrading strains 
+were grown on different substrates as the sole carbon source 
+
+Substrate Strains 
+
+12 23 113 219 220 230 
+
+Tetrahydrofuran 0.84 0.23 0.55 0.89 0.37 0.13 
+Tetrahydrofuran-3-ol 0.12 0.00 0.04 0.04 0.03 0.00 
+Butan-l-ol 0.71 0.88 0.80 0.61 0.47 0.77 
+Butan- 1,4-diol 0.04 0.00 0.05 0.00 0.05 0.00 
+Tetrahydropyran 0.10 0.00 0.25 0.10 0.00 0.10 
+Dioxane 0.00 0.00 0.31 0.34 0.00 0.00 
+Trioxane 0.00 0.00 0.00 0.00 0.00 0.00 
+Dioxane-2,3-diol 0.00 0.00 0.00 0.00 0.00 0.00 
+Cyclohexane 0.00 0.00 0.00 0.00 0.00 0.00 
+Cyclohexane-4-ol 0.00 0.00 0.00 0.00 0.00 0.00 
+Morpholine 0.03 0.00 0.00 0.05 0.00 0.00 
+
+Incubation at 30 ° C in silicone-stopper-covered test tubes contain- 
+ing 10 mM carbon source in 5 ml mineral medium 
+
+when dioxane or cyclohexane were the carbon sub-
+strates. 
+
+The enrichment, which was based on the method of 
+Parkes (1982), led to a great number of strains capable 
+of limited but significant growth on aliphatic oxygen 
+heterocyclic substrates. Strains degrading dioxane-2,3- 
+diol, tetrahydropyran, -4-ol and -4-one have not yet 
+been studied in detail. Studies with strains degrading 
+tetrahydrofuran-3-ol will be published elsewhere. 
+
+Characterization of tetrahydrofuran-degradino isolates 
+
+The six tetrahydrofuran-degrading strains showed iden- 
+tical morphological characteristics and were Gram-po-
+sitive. Extraction and analysis of respiratory quinones 
+revealed menaquinone-8 in all strains. From a compari- 
+son with R. rhodnii DSM 43336 and R. terrae DSM 
+43 249 the isolates were preliminarily classified as be- 
+longing to the genus Rhodococcus (Lechevalier 1986). 
+Their ability to grow on different substrates was com-
+pared (Table 2). 
+
+For further studies strain 219 was selected because 
+of fast growth in minimal and complex media and its 
+ability to degrade dioxane as well. The optimal temper- 
+ature was 30 ° C and the optimal pH range was 6.5-7.0. 
+At 7.5 mM tetrahydrofuran the maximal growth rate (~) 
+was 0.019 h -1 and the degradation rate was 28.5 mg te- 
+trahydrofuran, h -1. g-1 dry weight at a yield (Yx/c) up 
+to 0.55 (dry weight/substrate carbon). Tetrahydrofuran- 
+and dioxane-degrading ability was not lost during 
+growth on complex media up to an OD578 of 75, there- 
+fore it seems unlikely that the initial enzyme is plasmid- 
+encoded. After growth in complex media, a lag-phase 
+of up to 24 h was observed, but there was no indication 
+that the enzyme system for degradation was inducible. 
+
+Above a concentration of 10 mM (0.72 g-1-1) tetra- 
+hydrofuran the lag phase was prolonged, and the 
+growth rate and yield reduced, but growth was not to- 
+tally inhibited. Growth could be observed with as little 
+as 0.22raM (16mg-I -l) tetrahydrofuran. Figure 1 
+shows the disappearance of tetrahydrofuran and diox- 
+ane in shake cultures. At the end of the logarithmic 
+growth phase no tetrahydrofuran or dioxane could be 
+detected by gas chromatography. The COD measured 
+in the supernatant after centrifugation was zero, mean- 
+ing that no intermediates had accumulated and the sub- 
+stances were totally mineralized. 
+
+The ability of Rhodococcus strain 219 to grow on dif- 
+ferent oygen-or nitrogen-containing compounds was 
+tested with the 34 compounds listed in Table 3. In tests 
+when combinations of tetrahydrofuran and dioxane or 
+butan-l,4-diol were used as carbon sources it was 
+shown that neither compound inhibited the degrada-
+tion of the other. 
+
+The hypothetical catabolic pathway shown in Fig. 2 
+is in accordance with the list of compounds attacked by 
+strain 219. Preferred substrates are cyclic ethers unsub- 
+stituted in the a-position to the ring oxygen. The pre- 
+sumed primary products of tetrahydrofuran or dioxane 
+degradation, namely tetrahydrofuran-2-ol and dioxane- 
+2-ol have not been identified yet and an initial dehydro- 
+genation as hypothesised for the degradation of pyrrol- 
+idine (Jacoby and Fredericks 1959) and morpholine 
+
+
+122 
+
+OD~7~ Tetrahydrofuran [mMI 
+
+a 
+
+10
+
+s~ 
+
+8 
+
+6 
+
+4 
+
+2
+
+2i 
+
+0 w 0 
+0 48 96 144 
+
+Time (houri) 
+
+ODare Oiox~,ne 
+
+mMI 
+
+( 
+
+b
+
+8 ~ _ ~ 
+
+6 
+
+/ 
+
+4 ~ 
+
+"'--..._ 
+
+
+0 ~ ~-0 
+
+0 48 96 144 
+Time Ihoura) 
+
+
+Fig. 1. Growth of Rhodococcus sp. strain 219 and degradation ki- 
+netics. Mineral medium A (100 ml) containing 10 mM carbon sub- 
+strate in a 500-ml baffled erlenmeyer flask, covered with a silicone 
+stopper, was inoculated with cells grown in seed medium. Incuba- 
+tion was at 30 ° C and 175 rpm on a rotatory shaker. Samples were 
+analysed for optical density at 578 nm (OD578) (IZ]) and for carbon 
+source (e) in a gas chromatograph, a Tetrahydrofuran (10 mM). 
+b Dioxane (10 mM) 
+
+(Swain et al. 1991) cannot be excluded. The hypothesis 
+is based: 
+
+1. On the fact that all the tetrahydrofuran-degraders 
+(see Table 1) cannot grow on tetrahydrofuran-3-ol and 
+Table 3. Changes in OD when Rhodococcus strain 219 was incu- 
+bated with aliphatic, ali- and heterocyclic hydrocarbons 
+
+Substance OD Substance OD 
+
+Tetrahydrofuran 2.85 Succinic acid 1.46 
+Tetrahydrofuran-3-ol 0.00 Acetic acid 0.00 
+THF-2-CH2OH 0.60 Propionic acid 1.00 
+2,5-Dimethoxi-THF 0.22 Piperazine 0.08 
+Butan-l,4-diol 3.00 1-Methyl-piperazine 0.00 
+Butyrolactone 1.65 1,4-Dimethyl-piperazine 0.00 
+Furan 0.37 Piperidine 0.08 
+Dioxolane 0.37 1-Ethyl-piperidine 0.15 
+Dioxolane-2-one 1.05 1-Methyl-piperidine 0.22 
+Propylencarbonate 1.50 Morpholine 0.00 
+Dioxane 2.32 N-Methyl-morpholine 0.00 
+Dioxane-2,3-diol 0.00 4-Ethyl-morpholine 0.00 
+Tetrahydropyran 0.95 cis/trans 2,6-Dimethyl-
+Tetrahydropyran-4-ol 0.00 morpholine 0.00 
+Tetrahydropyran-4-one 0.00 Methanol 0.00 
+n-Hexane 0.00 Toluene sulphonic acid 0.00 
+1-Octanol 0.15 Nitrobenzenesulphonic 
+Fumaric acid 1.56 acid 0.00 
+
+Conditions were as in Table 2 but with substrates at 7.5 mM ex- 
+cept for butan- 1,4-diol (10 mM): THF, tetrahydrofuran 
+
+~ ~O'-~OH,.~2 0 
+
+~ 
+
+1 1 
+
+/'-k ----
+
+HOC~ 3 C~H HOC~ ~0 ~C~ ~H OCH C~H ~OC 4 C~H 
+
+Fig. 2. Hypothetical catabolic pathway for C4-substrates in Rho-
+dococcus sp. strain 219. Substrates degraded (see Table 3) are 
+shown in bold structural formula: 1, tetrahydrofuran; 2, butyro- 
+lactone; 3, butan-l,4-diol; 4, succinic acid 
+
+all tetrahydrofuran-3-ol-degraders cannot grow on te-
+trahydrofuran (not shown). 
+
+2. Butyrolactone is a substrate metabolized as fast as 
+tetrahydrofuran. 
+3. It was reported that a diureticum of the type 2-
+alkyl-2-methyl-tetrahydrofuran is metabolised in the rat 
+via a hydroxylation at the C-atom adjacent to the ether 
+oxygen (Meng and Kroneberg 1967). 
+4. Dioxane-2-one was identified as the major urinary 
+metabolite ofp-dioxane in rat (Woo et al. 1977). 
+5. By 2-hydroxylation and subsequent oxidation of the 
+secondary alcohol to the ketone a lactone emerges that 
+is a common intermediate in the degradation of cyclic 
+hydrocarbons formed by Bayer-Villiger oxidation of 
+the cyclic ketone, for instance cyclohexanone (Abril et 
+al. 1989). 
+Acknowledgements. The assistance of Miss Catrin Bock with the 
+isolation of part of the strains during her advanced microbiology 
+course and the help of Dr. Gerhard Zellner with the gas chroma- 
+tography is gratefully acknowledged. We would like to thank 
+BASF Aktiengesellschaft, Ludwigshafen for financial support.

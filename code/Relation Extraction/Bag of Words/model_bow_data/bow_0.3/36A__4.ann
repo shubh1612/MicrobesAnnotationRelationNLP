@@ -1,0 +1,15 @@
+T1	ReactionOrProcess 10 13	PCR
+T2	Enzyme 120 133	monooxygenase
+T3	ReactionOrProcess 348 351	PCR
+T4	Enzyme 685 698	monooxygenase
+T5	ReactionOrProcess 959 962	PCR
+T6	Property 1545 1556	temperature
+T7	ReactionOrProcess 1534 1544	denaturing
+T8	Property 1616 1627	temperature
+T9	Property 2035 2046	temperature
+T10	ReactionOrProcess 1961 1964	PCR
+T11	ReactionOrProcess 2077 2086	denatured
+T12	ReactionOrProcess 2181 2190	denatured
+T13	Microbes 2281 2290	alkB gene
+T14	ReactionOrProcess 3857 3860	PCR
+T15	Property 3919 3933	concentrations

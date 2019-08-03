@@ -1,0 +1,72 @@
+T1	Environment 190 201	Groundwater
+T2	Property 239 250	temperature
+T3	Property 269 278	dissolved
+T4	Property 286 300	concentrations
+T5	Property 306 312	stable
+T6	Nutrient 279 285	oxygen
+T7	Nutrient 441 449	nitrogen
+T8	Environment 681 692	groundwater
+T9	ReactionOrProcess 669 679	extraction
+T10	ReactionOrProcess 665 679	DNA extraction
+T11	Substrate 855 884	guanidinum thiocyanate buffer
+T12	Environment 1033 1044	groundwater
+T13	Environment 946 956	microcosms
+T14	Nutrient 1177 1185	nitrogen
+T15	Substrate 1259 1266	benzene
+T16	Property 1277 1290	concentration
+T17	Property 1313 1326	concentration
+T18	Environment 1354 1365	groundwater
+T19	Substrate 1390 1397	benzene
+T20	Property 1487 1498	temperature
+T21	ReactionOrProcess 1443 1452	incubated
+T22	Environment 1586 1597	groundwater
+T23	Environment 1534 1544	microcosms
+T24	Substrate 1638 1645	benzene
+T25	Property 1656 1669	concentration
+T26	Property 1692 1705	concentration
+T27	Substrate 1906 1913	benzene
+T28	Property 1922 1935	concentration
+T29	ReactionOrProcess 1944 1953	depletion
+T30	ReactionOrProcess 1883 1902	aerobic degradation
+T31	ReactionOrProcess 1874 1902	complete aerobic degradation
+T32	ReactionOrProcess 1891 1902	degradation
+T33	Nutrient 1787 1793	oxygen
+T34	Nutrient 1957 1963	oxygen
+R1	CarriedOn Arg1:T30 Arg2:T27
+R2	CarriedOn Arg1:T31 Arg2:T27
+R3	CarriedOn Arg1:T32 Arg2:T27
+T35	Environment 2045 2055	microcosms
+T36	Substrate 2020 2027	benzene
+T37	Property 2028 2041	concentration
+T38	ReactionOrProcess 2178 2203	flame ionization detector
+T39	ReactionOrProcess 2195 2203	detector
+T40	ReactionOrProcess 2178 2194	flame ionization
+T41	Property 2215 2227	temperatures
+T42	ReactionOrProcess 2273 2281	detector
+T43	Environment 2410 2420	microcosms
+T44	Property 2560 2571	temperature
+T45	Substrate 2593 2604	Hydrocarbon
+T46	ReactionOrProcess 2618 2628	extraction
+T47	Substrate 2887 2902	dichloromethane
+T48	Substrate 2879 2885	hexane
+T49	ReactionOrProcess 2749 2758	extracted
+T50	ReactionOrProcess 2776 2786	extraction
+R4	CarriedOn Arg1:T49 Arg2:T47
+R5	CarriedOn Arg1:T49 Arg2:T48
+R6	CarriedOn Arg1:T50 Arg2:T47
+R7	CarriedOn Arg1:T50 Arg2:T48
+T51	Property 2949 2963	concentrations
+T52	Substrate 3008 3015	alkanes
+T53	Substrate 3033 3045	hydrocarbons
+T54	Substrate 3020 3045	polyaromatic hydrocarbons
+T55	Substrate 3020 3045	polyaromatic hydrocarbons
+T56	Substrate 3033 3045	hydrocarbons
+T57	Property 3595 3606	temperature
+T58	Property 3699 3710	temperature
+T59	Substrate 3824 3846	saturated hydrocarbons
+T60	Substrate 3851 3855	PAHs
+T61	Substrate 3817 3846	target saturated hydrocarbons
+T62	Substrate 3834 3846	hydrocarbons
+T63	Substrate 3834 3846	hydrocarbons
+T64	Substrate 3824 3846	saturated hydrocarbons
+T65	Property 3824 3833	saturated

@@ -1,0 +1,414 @@
+A53
+J . Chem. Tech. Biotechnol. 1991, 52, 149-156
+
+Microbial Hydrocarbon Degradation-Bioremediation
+Oil Spills
+
+of
+
+Ronald M. Atlas
+Department of Biology, University of Louisville, Louisville, Kentucky 40292, USA
+(Received 18 December 1990; accepted 29 January 1991)
+
+A BSTRA CT
+Bioremediation has become a major method employed in restoration of
+oil-polluted environments that makes use of natural microbial biodegradative
+activities. Bioremediation of petroleum pollutants overcomes the fuctors
+limiting rates of microbial hydrocarbon biodegradation. Often this involves
+using the enzymatic capabilities of the indigenous hydrocarbon-degrading
+microbial populations and modfying environmental factors, particularly
+concentrations of molecular oxygen, fixed forms of nitrogen, and phosphate
+to achieve enhanced rates of’hydrocurbon biodegradation. Biodegradution
+of oily sludges and bioremediation of oil-contaminated sites has been
+achieved by oxygen addition-e.g., by tilling soils in landfarming and by
+adding hydrogen peroxide or pumping oxygen into oiled aquifers along with
+addition of nitrogen- and phosphorous-containing ,fertilizers. The success of
+seeding oil spills with microbial preparations is ambiguous. Successful
+bioreniediation of a major marine oil spill has been achieved based upon
+addition of nitrogen and phosphorus fertilizers.
+K e y words: oil bioremediation, hydrocarbon degradation, marine
+contamination, soil contamination, groundwater contamination.
+
+1 MICROBIAL DEGRADATION OF PETROLEUM HYDROCARBONS
+
+The spill of more than 200000 barrels of crude oil from the oil tanker Exxon
+Valdez in Prince William Sound, Alaska on 24 March 1989, as well as smaller
+spills in Texas, Rhode Island and the Delaware Bay, has focused attention on the
+problem of hydrocarbon contamination in marine and estuarine environments
+and the role of microbial hydrocarbon degradation in the removal of petroleum
+149
+
+J . Chem. Tech. Biotechnol. 0268-2575/91/$03.50
+
+0 1991 SCI. Printed in Great Britain
+
+R . M . Atlas
+
+150
+
+pollutants.' Biodegradation of hydrocarbons by natural populations of
+microorganisms represents one of the primary mechanisms by which petroleum
+Rates
+and other hydrocarbon pollutants are eliminated from the
+of biodegradation under optimal laboratory conditions have been reported to be
+as high as 2500-100 000 g m P 3day-' (Ref. 5), under in-situ conditions petroleum
+biodegradation rates are orders of magnitude lower, in the range 0.001-60 g m - 3
+day-'.
+2 FACTORS DETERMINING RATES OF PETROLEUM
+BIODEGRADATION
+
+The rates of petroleum hydrocarbon biodegradation in the environment are
+determined by the populations of indigenous hydrocarbon degrading microorganisms, the physiological capabilities of those populations, and various
+abiotic factors that influence growth rates of those hydrocarbon-degrading
+microbial population^.^,^ The persistence of petroleum pollutants depends on the
+quantity and quality of the hydrocarbon mixture and on the properties of the
+affected ecosystem. In one environment petroleum hydrocarbons can persist
+indefinitely, whereas under another set of conditions the same hydrocarbons can
+be completely biodegraded within a relatively few hours or days.
+Prior exposure of a microbial community to hydrocarbons is important in
+determining how rapidly subsequent hydrocarbon inputs can be b i ~ d e g r a d e d . ~
+Communities exposed to hydrocarbons become adapted, exhibiting selective
+enrichment and genetic changes resulting in increased proportions of
+hydrocarbon-degrading bacteria and bacterial plasmids encoding hydrocarbon
+catabolic genes. In unpolluted environments hydrocarbon degraders generally
+constitute less than 1 % of the microbial community, whereas in oil polluted
+ecosystems hydrocarbon degraders often represent 1-1 0% of microorganisms.6
+Since adapted microbial communities have higher proportions of hydrocarbon
+degraders, they can respond to the presence of hydrocarbon pollutants within
+hours, In the case of the Amoco Cudiz and Tunio spills along the coast of Brittany,
+France, for example, the adapted hydrocarbon-degrading populations increased
+by several orders of magnitude and biodegradation occurred as fast or faster than
+evaporation in the days following the spills.
+The physical state of petroleum hydrocarbons has a marked effect on their
+biodegradation. At very low concentrations hydrocarbons are soluble in water,
+but most oil spill incidents release petroleum hydrocarbons in concentrations far
+in excess of the solubility limits. The degree of spreading determines in part the
+surface area of oil available for microbial colonization by hydrocarbon-degrading
+microorganisms; in aquatic systems, the oil normally spreads, forming a thin slick.
+Microbial degradation of oil has been shown to occur by attack on aliphatic
+or light aromatic fractions of the oil, with high-molecular-weight aromatics, resins,
+and asphaltenes considered to be recalcitrant or exhibiting only very low rates of
+biodegradation, although some studies have reported their removaL4 Generally,
+it has been considered that straight chain alkanes are easiest to degrade.2 There
+
+Microbial hydrocarbon deyradatian-bioremedia~i~~
+of oil spills
+
+151
+
+have been some reports of low molecular weight aromatics being attacked more
+rapidly than the alkane^.^ Foght et a1.* reported that the microorganisms that
+degrade aromatic hydrocarbons may be distinct from those that attack aliphatic
+hydrocarbons. Microbial isolates that utilize hexadecane cannot grow on
+phenanthrene and vice versa. Thus, the degradation of different classes of
+hydrocarbons may be carried out by totally different populations of
+microorganisms.
+The polynuclear aromatic hydrocarbons are more difficult to biodegrade than
+one- and two-ring aromatics and are more resistant to microbial attack than
+unsubstituted hydrocarbons. As biodegradation procedes branched hydrocarbons,
+such as pristanes, and substituted polynuclear aromatics, such as C3
+phenanthrenes, usually constitute an increasing proportion of the residual
+hydrocarbon mixture. Interestingly, the induction of enzymes for polycyclic
+aromatic hydrocarbon degradation depends upon lower molecular weight
+aromatics such as naphthalene;' the finding that the enzymes for degrading at
+least some polycyclic aromatic hydrocarbons are not induced by the substrate itself
+is important and may explain the apparent resistance of these compounds to
+microbial attack. Although degraded at slower rates, these compounds are
+eventually converted to carbon dioxide and water by microorganisms.
+Mycobacteria have been isolated that degrade 4-ring polynuclear aromatic
+hydrocarbons." Keck et al." found evidence of cooxidation of aromatic
+hydrocarbons in soil; they found that 4- and 5-ring PAHs disappeared rapidly
+from soils amended with complex wastes.
+Bertrand et a1." found that the microbial degradation of asphaltenes and resins,
+which had previously been considered relatively recalcitrant to biodegradation,
+may be due to cooxidation. Rontani et al.13 also found evidence for cooxidation
+of asphaltenes; they reported degradation of asphaltenic compounds in mixed
+bacterial cultures to be dependent upon the presence of n-alkanes 12 to 18 carbon
+atoms in length.
+Temperature affects the rates of microbial hydrocarbon degrading activities by
+its effect on the physical nature and chemical composition of the oil (particularly
+the surface area available for microbial colonization and the hydrocarbons
+remaining after evaporation for microbial metabolic attack) and the rates of
+hydrocarbon metabolism by microorganism^.^^^ At low temperatures, the viscosity
+of the oil increases, the volatilization of toxic short-chain alkanes is reduced, and
+their water solubility is increased, delaying the onset of biodegradation. Rates of
+degradation are generally observed to decrease with decreasing temperature; this
+is believed to be a result primarily of decreased rates of enzymatic activity, or the
+Qlo effect. Higher temperatures increase the rates of hydrocarbon metabolism to
+a maximum, typically in the range of 30 to 40°C, above which the toxicity of
+hydrocarbons is increased. l4 There are some thermophilic alkane-utilizing bacteria,
+including obligate hydrocarbon utilizers, some of which having been isolated from
+deep sea thermal vent region^.'^.'^
+The initial steps in the biodegradation of hydrocarbons by bacteria and fungi
+involve the oxidation of the substrate by oxygenases for which molecular oxygen
+is required.2 Aerobic conditions are, therefore, necessary for this route of microbial
+
+R . M . Atlas
+
+152
+
+oxidation of hydrocarbons in the environment. The availability of oxygen in soils,
+sediments, and aquifers is often limiting and dependent on the type of soil and
+whether the soil is waterlogged. Anaerobic degradation of petroleum hydrocarbons
+by microorganisms 0ccurs.l ',I8 The rates of anaerobic hydrocarbon biodegradation,
+however, are very low and its ecological significance appears to be minor."
+Several investigators have reported that concentrations of available nitrogen
+and phosphorus in seawater are severely limiting to microbial hydrocarbon
+d e g r a d a t i ~ n . ~Some
+.~
+investigators, however, have reached the opposite
+conclusion, i.e., that nitrogen and phosphorous are not limiting in seawater.20The
+difference in results is paradoxical and appears to be based on whether the studies
+are aimed at assessing the biodegradation of hydrocarbons within an oil slick or
+the biodegradation of soluble hydrocarbons. When considering soluble
+hydrocarbons, nitrogen and phosphorus are probably not limiting since the
+solubility of the hydrocarbons is so low as to preclude establishment of an
+unfavorable C/N or C/P ratio. Investigators considering the fate of low-level
+discharges of hydrocarbons (soluble hydrocarbons) have, thus, properly concluded
+that available nutrient concentrations are adequate to support hydrocarbon
+biodegradation.
+
+3 BIOREMEDIATION OF OIL CONTAMINATED SOIL AND
+GROUNDWATER
+Recognizing that rates of hydrocarbon biodegradation often are limited by
+environmental activities or possibly by adapted microbial populations, it is
+possible to carry out programs to overcome these limitations. Bioremediation
+involves the use of microorganisms to remove pollutants.*' Effective
+bioremediation converts hydrocarbons to nontoxic products-water and carbon
+dioxide. The two general approaches to bioremediation are environmental
+modification, such as through fertilizer application and aeration, and addition of
+adapted hydrocarbon degraders by seeding.
+In soils and groundwaters oxygen is often limiting and the use of tilling, forced
+aeration, and hydrogen peroxide treatment can be useful in overcoming the rate
+limitation caused by low molecular oxygen a ~ a i l a b i l i t y . The
+~ ~ . ~use
+~ of forced
+aeration and nutrient supplementation has been used to stimulate the
+biodegradation of gasoline in g r o ~ n d w a t e r . ~Most
+~ , ~ ~groundwater supplies
+contain a microbial population capable of oil biodegradation. However, conditions
+for growth and metabolism of oil usually are limiting. Raymond et
+found
+forced aeration and nitrogen and phosphorus addition could significantly reduce
+the time necessary to remove spilled gasoline from a contaminated groundwater
+reservoir. They added ammonium sulfate, monosodium phosphate, and disodium
+phosphate to gasoline-contaminated groundwater. Air was also pumped into the
+groundwater with a small compressor. This treatment increased the number of
+hydrocarbon-utilizing microorganisms, and it was estimated that 1000 barrels of
+gasoline were removed by stimulated degradation.
+Several investigators have examined the feasibility of using landfarming for
+
+Microbial hydrocarbon degradation-bioremediation
+
+of oil spills
+
+153
+
+removal of oily waste^.^^.^^ There have been some reports on mobilization of oil
+into the soil column, but in most cases there has been little evidence for significant
+downward leaching of oil. Wang and Bartha27 recently studied the effects of
+bioremediation on residues of fuel spills in soil (2.3 cm3 cm-3 of jet fuel, heating
+oil and diesel oil, respectively). Persistence and toxicity of the fuel increased in
+the order of jet fuel < heating oil <diesel oil. Bioremediation treatment strongly
+decreased fuel persistence and toxicity and increased microbial activity as compared
+to contaminated but untreated soil. Bioremediation treatment remediated fuel
+spill-contaminated soils in 4-6 weeks to a degree that can support plant cover.
+Wang et
+reported that bioremediation treatment almost completely eliminated
+PAHs in 12 weeks. Without bioremediation, 12.5-32.5% of the higher weight PAH
+was still present at 12 weeks. After substantial initial mutagenicity and toxicity,
+the contaminated soil approached the background level of uncontaminated soil
+after 12 weeks of bioremediation. Detoxification was complete in 20 weeks. Song
+et
+bioremediated laboratory spills of gasoline, jet fuel, heating oil, diesel oil,
+and bunker C oil on soils, concluding that with bioremediation treatment it should
+be possible to reduce hydrocarbons to insignificant levels in contaminated soils
+withon one growing season.
+
+4 BIOREMEDIATION OF MARINE OIL SPILLS
+
+The Exxon Vuldez spill formed the basis for a major study on bioremediation and
+the largest application of this emerging te~hnology.~'
+The initial approach to the
+cleanup of the oil spilled from the Exxon Vuldez was physical. Washing of oiled
+shorelines with high pressure water was expensive and cleaned shorelines became
+reoiled forcing recleaning. Bioremediation, therefore, was considered as a method
+to augment other cleanup procedures. The USEPA and Exxon entered into an
+agreement jointly to explore the feasibility of using bioremediation. The project
+focused on determining whether nutrient augmentation could stimulate rates of
+biodegradation. Three types of nutrient supplementation were considered: water
+soluble (23:2 N : P garden fertilizer formulation): slow release (isobutylenediurea
+or encapsulated N + P); and oleophilic (Inipol EAP 22 = oleic acid, urea, lauryl
+phosphate). Each fertilizer was tested in laboratory simulations and in field
+demonstration plots to show the efficacy of nutrient supplementation.
+Consideration was also given to potential adverse ecological effects, particularly
+entrophication due to algal blooms and toxicity to fish and invertebrates. The
+application of the oleophilic fertilizer produced very dramatic results, stimulating
+biodegradation such that the surfaces of the oil-blackened rocks on the shoreline
+turned white and were essentially oil-free within 10 days after treatment. The use
+of Inipol and a slow release fertilizer was approved for shoreline treatment and
+was used as a major part of the cleanup effort. A joint Exxon-USEPA-State of
+Alaska monitoring effort followed the effectiveness of the bioremediation treatment
+which was estimated to increase the rates of biodegradation at least three-fold.
+Owing to its effectiveness bioremediation became the major treatment method for
+removing oil pollutants from the impacted shorelines of Prince William Sound.
+
+R . M . Atlas
+
+154
+
+Another approach for treating oil spills that has been considered but never field
+tested involves seeding with genetically engineered microorganisms. The potential
+for creating, through genetic manipulation, microbial strains able to degrade a
+variety of different types of hydrocarbons has been demonstrated. The genetic
+information for at least some enzymes involved in alkane and simple aromatic
+hydrocarbon transformation occurs on plasm id^^^*^^ and the use of a strain with
+engineered plasmids as an inoculum during seeding would preclude the problems
+associated with competition between strains in a mixed culture. However, there
+is considerable controversy surrounding the release of such genetically engineered
+microorganisms into the environment, and field testing of these organisms must
+therefore be delayed until the issues of safety, containment, and potential for
+ecological damage are resolved.33 A hydrocarbon-degrading pseudomonad was
+engineered by Chakrabarty and was the organism that the Supreme Court of the
+United States, in a landmark decision, ruled could be patented. The organism
+engineered by Chakrabarty is capable of degrading a number of low molecular
+weight aromatic hydrocarbons, but does not degrade the higher molecular weight
+persistent polynuclear aromatics and thus has not been considered for use in the
+bioremediation of oil spills. Given the current regulatory framework for the
+deliberate release of genetically engineered microorganisms, it is unlikely that any
+such organism would gain the necessary regulatory approval in time to be of much
+use in treating an oil spill.
+Seeding with nongenetically engineered bacteria was used for offshore oil spilled
+by the tanker Mega Borg. Bioremediation of the Mega Borg spill off the Texas
+coast consisted of applying a seed culture with a secret catalyst produced by Alpha
+Corporation to the oil at sea.34 The rationale for this approach to seeding is that
+indigenous microbial populations may not be capable of degrading the wide range
+of potential substrates present in such complex mixtures as petroleum. However,
+the premises that the microorganisms naturally present in an environment
+subjected to contamination with oil would be incapable of extensively degrading
+petroleum and that added microorganisms would be able to do a superior job
+need to be examined carefully. Claims were made that the seeding treatment of
+the Mega Borg spill was successful at completely removing the oil, but the
+effectiveness of the Alpha seeding to stimulate biodegradation has not been verified,
+nor has the effectiveness of the culture been confirmed by the USEPA in laboratory
+tests.
+
+5 CONCLUSIONS
+
+Environmental rates of hydrocarbon degradation are limited by the enzymatic
+capabilities of the indigenous hydrocarbon-degrading microbial populations and
+by environmental factors, particularly concentrations of molecular oxygen, fixed
+forms of nitrogen, and phosphate. Bioremediation of oil pollutants invoives
+overcoming the rate limiting factors. Biodegradation of oily sludges and
+bioremediation of oil-contaminated sites has been achieved by oxygen
+addition-e.g., by tilling soils in landfarming and by adding hydrogen peroxide
+
+Microbial hydrorarhon degradation-hioremediation
+
+of
+
+oil spills
+
+155
+
+or pumping oxygen into oiled aquifers along with addition of nitrogen- and
+phosphorus-containing fertilizers. Seeding with a special microbial preparation
+was used to treat the Texas Mega Borg spill but the success of this treatment is
+ambiguous. Exxon successfully used bioremediation, principally based upon
+addition of a n oleophilic nitrogen and phosphorus fertilizer, to degrade oil in
+rocky shorelines impacted by the 1989 Alaskan oil spill. Bioremediation has become
+a major method employed in restoration of oil-polluted environments that makes
+use of natural microbial biodegradative activities.
+
+REFERENCES
+I . Anon., Mishaps cause three oil spills off US. Oil Gas J., 87 (1989) 22.
+2. Atlas, R . M. (ed.) Petroleum Microbiology, Macmillan Publishing Co., New York, 1984,
+p. 692.
+3. National Academy of Sciences, Oil in the sea-inputs, fates, and effects. National
+Academy Press, Washington, DC, 1985.
+4. Leahy, J . G. & Colwell, R. R., Microbial degradation of hydrocarbons in the
+environment. Microbiol. Rev., 54 (1990) 305-15.
+5. Bartha, R. & Atlas, R. M., Transport and transformations of petroleum: biological
+processes. In Long-term Environmental Effects of Offshore Oil and Gas Development,
+ed D. F. Boesch & N. N. Rabalais. Elsevier Applied Science, New York, 1987, pp.
+287-341.
+6. Atlas, R. M., Microbial degradation of petroleum hydrocarbons: an environmental
+perspective. Microbiol Reu., 45 (1981) 180-209.
+7. Fedorak, P. M. & Westlake, D. W. S., Microbial degradation of aromatics and
+saturates in Prudhoe Bay crude oil as determined by glass capillary gas chromatography.
+Can. J . Microbiol., 27 (1981) 43243.
+8. Foght, J. M., Fedorak, P. M. & Westlake, D. W., Mineralization of ['4C]hexadecane
+and [''Clphenanthrene in crude oil: specificity among bacterial isolates. Can. J .
+Microbiol., 36 (1990) 169-75.
+9. Heitkamp, M. A,, Freeman, J. P., Miller, D. W. & Cerniglia, C. E., Pyrene degradation
+by a Mycobacterium sp. identification of ring oxidation and ring fission products. A p p l .
+Enuiron. Microbiol., 54 (1988) 2556-65.
+10. Heitkamp, M. A. & Cerniglia, C. E., Polycyclic aromatic degradation by a
+Mycobacterium sp. in microcosms containing sediment and water from a pristine
+ecosystem. Appl. Enuiron. Microbiol., 55 (1989) 1968-73.
+11. Keck, J., Sims, R. C., Coover, M., Park, K. & Symons, B., Evidence for cooxidation
+of polynuclear aromatic hydrocarbons in soil. Water Res., 23 (1989) 1467-76.
+12. Bertrand, J. C., Rambeloarisoa, E., Rontani, J. F., Giusti, G. & Mattei, G., Microbial
+degradation of crude oil in sea water in continuous culture. Biotechnol. Lett., 5 (1983)
+567-72.
+13. Rontani, J. F., Bosser-Joulak, F., Rambeloarisoa, E., Bertrand, J. C., Giusti, G. &
+Faure, R., Analytical study of Asthart crude oil asphaltenes biodegradation.
+Chemosphere, 14 (1985) 1413-22.
+14. Bossert, I . & Bartha, R., The fate of petroleum in soil ecosystems. In Petroleum
+Microbiology, ed. R. M. Atlas. Macmillan Publishing Co., New York, 1984,pp. 434-76.
+15. Perry, J. J., Isolation and characterization of thermophilic hydrocarbon-utilizing
+bacteria. A h . Aquat. Microhiol., 3 (1985) 109-39.
+16. Bazylinski, D. A,, Wirsen, C. 0. & Jannasch, H. W., Microbial utilization of naturally
+occurring hydrocarbons at the Guaymas basin hydrothermal vent site. A p p l . Environ.
+Microhiol., 55 (1989) 2832-6.
+
+156
+
+R . M . Atlas
+
+17. Ward, D. M. & Brock, T. D., Anaerobic metabolism of hexadecane in marine sediments.
+Geomicrobiol. J . , 1 (1978) 1-9.
+18. Grbic-Gallic, D. & Vogel, T. M., Transformation of toluene and benzene by mixed
+methanogenic-cultures. Appl. Enuiron. Microhiol., 53 (1987) 254-60.
+19. Ward, D., Atlas, R. M., Boehm, P. D. & Calder, J. A., Microbial biodegradation and
+the chemical evolution of Amoco Cadiz oil pollutants. Amhio, 9 (1980)
+277-83.
+20. Kinney, P. J., Button, D. K. & Schell, D. M., Kinetics of dissipation and
+biodegradation of crude oil in Alaska’s Cook Inlet. In Proc. Joint Conference on
+Prevention and Control of Oil Spills, American Petroleum Institute, New York, 1969,
+pp. 33340.
+21. Atlas, R. M. & Pramer, D., Focus on bioremediation. A S M News, 56 (1990) 7.
+22. American Petroleum Institute, Field study of enhanced subsurface biodegradation of
+hydrocarbons using hydrogen peroxide as an oxygen source. American Petroleum
+Institute Publ. 4448, American Petroleum Institute, Washington, DC, 1987.
+23. Morgan, P. & Watkinson, R. J., Hydrocarbon degradation in soils and methods for
+biotreatment. Crit. Rev. Biotechnol., 8 (1989) 305-33.
+Gaz.
+24. Raymond, R. L., Reclamation of hydrocarbon contaminated ground waters. 08.
+U S Patent Ojfice, 928 (1974) 260.
+25. Raymond, R. L., Jamison, V . W . & Hudson, J. O., Beneficial stimulation of bacterial
+activity in ground waters containing petroleum products. In Wat~r-1976, American
+Institute of Chemical Engineers, New York, 1976, pp. 319-27.
+26. Bartha, R. & Bossert, I., The treatment and disposal of petroleum wastes. In Petroleum
+Microbiology,ed. R . M. Atlas. Macmillan Publishing Co., New York, 1984, pp. 553-78.
+27. Wang, X. & Bartha, R., Effects of bioremediation on residues: activity and toxicity in
+soil contaminated by fuel spills. Soil Biol. Biochem., 22 (1990) 501-6.
+28. Wang, X., Yu, X. & Bartha, R., Effect of bioremediation on polycyclic aromatic
+hydrocarbon residues in soil. Enuiron. Sci. Techno!., 24 (1990) 1086-9.
+29. Song, J.-G., Wang, X. & Bartha, R., Bioremediation potential of terrestrial fuel spills.
+A p p l . Enoiron. Microbiol., 56 (1990) 652-6.
+30. Pritchard, H. P., Bioremediation of oil contaminated beach material in Prince William
+Sound, Alaska. Paper presented at the 199th National Meeting of the Arnericun Chemical
+Society, Boston, Massachusetts, 22-27 April 1990, Abstract Environment 154.
+31. Chakrabarty, A. M ., Microorganisms having multiple compatible degradative
+energy-generating plasmids and preparation thereof. O f . Gaz. US Patent Ofice, 922
+(1974) 1224.
+32. Chakrabarty, A. M., Chou, G. & Gunsalus, I. C., Genetic regulation of octane
+dissimilation plasmid in Pseudomonas. Proc. Natl. Acad. Sci. U S A , 70 (1973) 113740.
+33. Sussman, M. C., Collins, H., Skinner, F. A. & Stewart-Tull, D. E. (eds.), Release of
+Genetically-engineered Microorganisms, Academic Press, London, 1988.
+34. Mangan, K. S., University of Texas microbiologist seeks to persuade skeptical colleagues
+that bacteria could be useful in cleaning up major oil spills. Chron. Higher Education,
+37 (1990) A5-A9.
+
+

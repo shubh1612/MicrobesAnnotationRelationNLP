@@ -1,0 +1,43 @@
+T1	Environment 121 125	Lake
+T2	ReactionOrProcess 83 96	hybridization
+T3	ReactionOrProcess 4 18	hybridizations
+T4	ReactionOrProcess 148 161	hybridization
+T5	Substrate 1361 1364	oil
+T6	Substrate 1441 1444	oil
+T7	Environment 1633 1642	oil plume
+T8	Environment 1792 1797	plume
+T9	Environment 1962 1967	plume
+T10	Environment 2359 2368	oil plume
+T11	ReactionOrProcess 2515 2530	denitrification
+T12	ReactionOrProcess 2502 2513	degradation
+T13	ReactionOrProcess 2532 2549	sulfate reduction
+T14	ReactionOrProcess 2474 2493	organic remediation
+T15	Nutrient 2495 2501	carbon
+T16	Environment 2736 2741	plume
+T17	Environment 2869 2874	plume
+T18	Environment 3654 3663	oil plume
+T19	Substrate 3739 3742	Oil
+T20	Substrate 4065 4086	extractable petroleum
+T21	Substrate 4116 4119	oil
+T22	Property 4027 4038	temperature
+T23	Property 4009 4018	dissolved
+T24	Property 4046 4054	volatile
+T25	Nutrient 4135 4139	iron
+T26	Nutrient 4019 4025	oxygen
+T27	Environment 4345 4350	plume
+T28	Substrate 4225 4246	extractable petroleum
+T29	Substrate 4276 4279	oil
+T30	Property 4284 4293	dissolved
+T31	Property 4212 4220	volatile
+T32	Nutrient 4294 4300	oxygen
+T33	Environment 4398 4406	seawater
+T34	Substrate 4454 4457	oil
+T35	Environment 4608 4616	Seawater
+T36	Substrate 4640 4643	oil
+T37	Environment 4852 4860	seawater
+T38	Substrate 4774 4777	Oil
+T39	Environment 5181 5186	soils
+T40	Substrate 5261 5264	oil
+T41	Property 5265 5277	contaminants
+R1	OccursIn Arg1:T2 Arg2:T1
+R2	OccursIn Arg1:T3 Arg2:T1

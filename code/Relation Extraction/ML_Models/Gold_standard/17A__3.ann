@@ -1,0 +1,68 @@
+T1	Environment 44 54	microcosms
+T2	ReactionOrProcess 158 162	DGGE
+T3	ReactionOrProcess 227 237	incubation
+T4	Environment 408 417	microcosm
+T5	ReactionOrProcess 418 427	replicate
+T6	ReactionOrProcess 341 350	extracted
+T7	ReactionOrProcess 429 432	
+T8	ReactionOrProcess 644 648	PCRs
+T9	Substrate 885 913	deoxynucleoside triphosphate
+T10	Substrate 873 878	MgCl2
+T11	Substrate 836 844	Tris-HCl
+T12	Substrate 861 864	KCl
+T13	Property 919 932	concentration
+T14	Property 961 974	concentration
+T15	ReactionOrProcess 749 752	PCR
+T16	Property 1198 1209	temperature
+T17	ReactionOrProcess 1111 1123	denaturation
+T18	ReactionOrProcess 1354 1366	denaturation
+T19	ReactionOrProcess 1425 1434	extension
+T20	ReactionOrProcess 1479 1488	extension
+T21	Environment 1542 1556	soil microcosm
+T22	ReactionOrProcess 1490 1494	
+T23	ReactionOrProcess 1621 1634	DGGE analysis
+T24	Property 1868 1888	denaturing gradients
+T25	ReactionOrProcess 1636 1640	
+T26	ReactionOrProcess 1665 1673	purified
+T27	ReactionOrProcess 1674 1677	PCR
+T28	ReactionOrProcess 1983 1987	
+T29	ReactionOrProcess 2388 2392	DGGE
+T30	ReactionOrProcess 2410 2414	DGGE
+T31	ReactionOrProcess 2440 2444	DGGE
+T32	ReactionOrProcess 2890 2894	DGGE
+T33	ReactionOrProcess 3049 3077	principal-component analysis
+T34	Microbes 3441 3449	inoculum
+T35	Environment 3317 3321	soil
+T36	ReactionOrProcess 3252 3267	bioaugmentation
+T37	ReactionOrProcess 3352 3356	DGGE
+T38	Environment 3710 3720	microcosms
+T39	Environment 3685 3689	soil
+T40	Environment 4019 4024	water
+T41	ReactionOrProcess 4051 4062	reamplified
+T42	ReactionOrProcess 3944 3951	excised
+T43	ReactionOrProcess 4064 4070	cloned
+T44	ReactionOrProcess 3928 3932	DGGE
+T45	ReactionOrProcess 3870 3909	denaturing gradient gel electrophoresis
+T46	ReactionOrProcess 3980 3991	resuspended
+T47	Environment 4399 4402	
+T48	Environment 5306 5321	loamy clay soil
+T49	Environment 5275 5279	Soil
+T50	Environment 5295 5299	soil
+T51	Environment 5361 5365	sand
+T52	Substrate 5501 5508	nitrate
+T53	Nutrient 5385 5391	carbon
+T54	Nutrient 5402 5410	nitrogen
+T55	Nutrient 5469 5477	nitrogen
+T56	Nutrient 5524 5532	ammonium
+T57	Environment 5595 5599	soil
+T58	Environment 5660 5665	water
+T59	Environment 5716 5720	soil
+T60	Microbes 5839 5873	heterotrophic microbial population
+T61	Substrate 5833 5852	total heterotrophic
+T62	Substrate 5788 5791	PAH
+T63	Property 5792 5801	degraders
+R3	OccursIn Arg1:T5 Arg2:T4
+R14	OccursIn Arg1:T36 Arg2:T35
+R21	OccursIn Arg1:T46 Arg2:T40
+R22	Of Arg1:T60 Arg2:T63
+R23	ActOn Arg1:T60 Arg2:T61

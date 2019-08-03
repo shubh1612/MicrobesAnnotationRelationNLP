@@ -1,0 +1,84 @@
+T1	ReactionOrProcess 205 213	purified
+T2	Nutrient 214 218	agar
+T3	Property 344 350	colony
+T4	Property 413 424	temperature
+T5	Property 544 550	colony
+T6	ReactionOrProcess 544 560	colony formation
+T7	Substrate 634 642	gasoline
+T8	Substrate 625 642	unleaded gasoline
+T9	Substrate 562 573	Hydrocarbon
+T10	ReactionOrProcess 690 699	incubated
+T11	ReactionOrProcess 861 869	reducing
+T12	Nutrient 790 796	carbon
+T13	Property 889 895	Colony
+T14	Environment 983 990	aquifer
+T15	Property 1205 1210	speed
+T16	ReactionOrProcess 1162 1173	homogenized
+T17	ReactionOrProcess 1347 1358	homogenized
+T18	ReactionOrProcess 1384 1393	isolation
+T19	Microbes 1507 1525	enrichment culture
+T20	Environment 1557 1568	groundwater
+T21	ReactionOrProcess 1541 1551	inoculated
+T22	ReactionOrProcess 1507 1517	enrichment
+T23	Microbes 1597 1615	enrichment culture
+T24	Substrate 1743 1751	gasoline
+T25	Substrate 1734 1751	unleaded gasoline
+T26	ReactionOrProcess 1597 1607	enrichment
+R1	CarriedOn Arg1:T26 Arg2:T24
+R2	CarriedOn Arg1:T26 Arg2:T25
+T27	Environment 1790 1801	groundwater
+T28	Property 1874 1885	temperature
+T29	ReactionOrProcess 1840 1862	incubated with shaking
+T30	ReactionOrProcess 1763 1774	inoculation
+T31	ReactionOrProcess 1840 1849	incubated
+T32	Substrate 2054 2062	Gasoline
+T33	Property 2179 2185	purity
+T34	ReactionOrProcess 2112 2121	isolation
+T35	Substrate 2352 2360	gasoline
+T36	Substrate 2352 2373	gasoline hydrocarbons
+T37	Substrate 2361 2373	hydrocarbons
+T38	Substrate 2345 2360	common gasoline
+T39	Substrate 2352 2373	gasoline hydrocarbons
+T40	Substrate 2361 2373	hydrocarbons
+T41	Substrate 2502 2510	o-xylene
+T42	Substrate 2394 2406	hydrocarbons
+T43	Substrate 2394 2406	hydrocarbons
+T44	Substrate 2850 2857	toluene
+T45	Substrate 2897 2905	o-xylene
+T46	Substrate 2859 2871	ethylbenzene
+T47	Property 2834 2846	contaminants
+T48	ReactionOrProcess 2647 2672	flame ionization detector
+T49	ReactionOrProcess 2664 2672	detector
+T50	ReactionOrProcess 2647 2663	flame ionization
+R3	CarriedOn Arg1:T48 Arg2:T44
+R4	CarriedOn Arg1:T48 Arg2:T45
+R5	CarriedOn Arg1:T48 Arg2:T46
+R6	CarriedOn Arg1:T49 Arg2:T44
+R7	CarriedOn Arg1:T49 Arg2:T45
+R8	CarriedOn Arg1:T49 Arg2:T46
+R9	CarriedOn Arg1:T50 Arg2:T44
+R10	CarriedOn Arg1:T50 Arg2:T45
+R11	CarriedOn Arg1:T50 Arg2:T46
+T51	Substrate 2983 2991	o-xylene
+T52	Substrate 2941 2953	hydrocarbons
+T53	Substrate 2929 2953	hygroscopic hydrocarbons
+T54	Substrate 2917 2953	Unstable or hygroscopic hydrocarbons
+T55	Substrate 2969 2981	ethylbenzene
+T56	Substrate 2997 3005	p-xylene
+T57	Substrate 2941 2953	hydrocarbons
+T58	Substrate 2929 2953	hygroscopic hydrocarbons
+T59	Nutrient 3025 3033	nitrogen
+T60	Nutrient 3154 3158	agar
+T61	Substrate 3357 3368	hydrocarbon
+T62	Substrate 3493 3504	hydrocarbon
+T63	Substrate 3633 3644	hydrocarbon
+T64	Substrate 3736 3748	ethylbenzene
+T65	Property 3755 3764	dissolved
+T66	ReactionOrProcess 3682 3697	chromatographic
+T67	ReactionOrProcess 3678 3697	Gas chromatographic
+R12	CarriedOn Arg1:T66 Arg2:T64
+R13	CarriedOn Arg1:T67 Arg2:T64
+T68	Property 3958 3969	temperature
+T69	ReactionOrProcess 3940 3949	incubated
+T70	Substrate 4174 4182	gasoline
+T71	Substrate 4255 4266	hydrocarbon

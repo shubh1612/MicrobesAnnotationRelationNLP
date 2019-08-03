@@ -1,0 +1,39 @@
+T1	ReactionOrProcess 15 29	centrifugation
+T2	Environment 135 139	soil
+T3	ReactionOrProcess 388 397	incubated
+T4	Environment 577 581	soil
+T5	Nutrient 595 601	carbon
+T6	Nutrient 658 664	carbon
+T7	ReactionOrProcess 822 832	incubation
+T8	Environment 1140 1151	Soil sample
+T9	Environment 1140 1152	Soil samples
+T10	Environment 1140 1144	Soil
+T11	ReactionOrProcess 1305 1314	extracted
+T12	ReactionOrProcess 1385 1395	extraction
+T13	ReactionOrProcess 1294 1298	PLFA
+T14	ReactionOrProcess 1294 1299	PLFAs
+T15	Environment 1464 1468	soil
+T16	Substrate 1506 1516	chloroform
+T17	ReactionOrProcess 1481 1490	extracted
+T18	ReactionOrProcess 1585 1606	liquid chromatography
+T19	ReactionOrProcess 1781 1786	PLFAs
+T20	Environment 1905 1909	soil
+T21	Environment 1993 1997	soil
+T22	Substrate 1868 1871	TPH
+T23	ReactionOrProcess 2169 2179	sonication
+T24	ReactionOrProcess 2151 2161	Extraction
+T25	Nutrient 2189 2192	DCM
+T26	ReactionOrProcess 2256 2266	extraction
+T27	Nutrient 2291 2294	DCM
+T28	Nutrient 2454 2462	nitrogen
+T29	ReactionOrProcess 2524 2545	liquid chromatography
+T30	Nutrient 2606 2609	DCM
+T31	Nutrient 2675 2678	DCM
+T32	Substrate 2680 2683	TPH
+T33	ReactionOrProcess 3027 3052	flame ionization detector
+T34	ReactionOrProcess 3044 3052	detector
+T35	ReactionOrProcess 3027 3043	flame ionization
+T36	Property 3153 3164	temperature
+T37	Property 3182 3193	temperature
+T38	ReactionOrProcess 3173 3181	detector
+T39	Property 3206 3217	temperature

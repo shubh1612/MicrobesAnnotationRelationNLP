@@ -1,0 +1,70 @@
+T1	Environment 16 20	soil
+T2	Substrate 219 227	gasoline
+T3	Nutrient 134 142	NH4H2PO4
+T4	Nutrient 124 130	K2HPO4
+T5	Nutrient 116 120	NaCl
+T6	Nutrient 178 182	KNO3
+T7	Nutrient 159 169	MgSO4.7H2O
+T8	Substrate 327 338	hydrocarbon
+T9	ReactionOrProcess 358 367	incubated
+T10	Nutrient 452 456	agar
+T11	Substrate 474 482	gasoline
+T12	Property 731 737	colony
+T13	ReactionOrProcess 731 747	colony formation
+T14	ReactionOrProcess 668 677	incubated
+T15	Environment 824 834	fresh soil
+T16	Environment 830 834	soil
+T17	Environment 849 853	soil
+T18	ReactionOrProcess 753 767	biodegradation
+T19	Nutrient 856 862	NH4NO3
+T20	Nutrient 895 903	nitrogen
+T21	Property 979 992	concentration
+T22	Nutrient 916 922	oxygen
+T23	Microbes 1063 1071	inoculum
+T24	Environment 1139 1143	soil
+T25	Environment 1228 1232	soil
+T26	Microbes 1249 1257	inoculum
+T27	Environment 1424 1435	native soil
+T28	Environment 1271 1280	microcosm
+T29	Environment 1424 1446	native soil microflora
+T30	Environment 1335 1339	soil
+T31	Environment 1431 1435	soil
+T32	Environment 1502 1506	soil
+T33	Property 1288 1301	concentration
+T34	Environment 1609 1626	unsterilized soil
+T35	Environment 1589 1601	sterile soil
+T36	Environment 1597 1601	soil
+T37	Environment 1622 1626	soil
+T38	ReactionOrProcess 1563 1580	pour plate method
+T39	Microbes 1726 1734	inoculum
+T40	Environment 1653 1657	soil
+T41	Environment 1632 1637	water
+T42	Environment 1686 1691	water
+T43	Property 1686 1708	water holding capacity
+T44	Substrate 1763 1771	Gasoline
+T45	Property 1792 1805	concentration
+T46	ReactionOrProcess 1887 1896	incubated
+T47	Environment 1950 1962	sterile soil
+T48	Environment 1958 1962	soil
+T49	ReactionOrProcess 1967 1976	incubated
+T50	ReactionOrProcess 2031 2045	biodegradation
+T51	ReactionOrProcess 2115 2125	inoculated
+T52	ReactionOrProcess 2051 2065	biodegradation
+T53	ReactionOrProcess 2248 2265	pour plate method
+T54	Nutrient 2281 2285	agar
+T55	ReactionOrProcess 2336 2346	incubation
+T56	Environment 2455 2459	soil
+T57	Substrate 2427 2435	gasoline
+T58	ReactionOrProcess 2440 2449	extracted
+T59	Nutrient 2465 2468	CS2
+T60	ReactionOrProcess 2649 2674	flame ionization detector
+T61	ReactionOrProcess 2666 2674	detector
+T62	ReactionOrProcess 2649 2665	flame ionization
+T63	Property 2784 2810	hydrogen carrier flow rate
+T64	Property 2874 2885	temperature
+T65	Property 2859 2885	injection port temperature
+T66	ReactionOrProcess 2894 2919	flame ionization detector
+T67	ReactionOrProcess 2911 2919	detector
+T68	ReactionOrProcess 2894 2910	flame ionization
+T69	Property 2936 2947	temperature
+T70	Property 2969 2980	temperature

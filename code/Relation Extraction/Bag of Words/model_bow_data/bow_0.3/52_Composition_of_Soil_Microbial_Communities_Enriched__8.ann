@@ -1,0 +1,70 @@
+T1	Substrate 63 70	benzene
+T2	Substrate 75 82	toluene
+T3	Substrate 23 31	p-xylene
+T4	Property 83 92	degraders
+T5	Substrate 110 118	p-xylene
+T6	ReactionOrProcess 142 153	degradation
+T7	Substrate 260 264	BTEX
+T8	ReactionOrProcess 245 256	degradation
+T9	ReactionOrProcess 312 323	degradation
+R1	CarriedOn Arg1:T8 Arg2:T7
+R2	CarriedOn Arg1:T9 Arg2:T7
+T10	ReactionOrProcess 366 377	degradation
+T11	ReactionOrProcess 435 446	degradation
+T12	Substrate 504 511	benzene
+T13	Substrate 516 523	toluene
+T14	Substrate 486 494	o-xylene
+T15	Substrate 583 589	xylene
+T16	ReactionOrProcess 609 620	degradation
+T17	Substrate 776 783	Benzene
+T18	Substrate 857 861	DCPD
+T19	Substrate 866 881	cyclopentadiene
+T20	Substrate 896 903	Toluene
+T21	Substrate 927 938	naphthalene
+T22	Substrate 914 921	xylenes
+T23	Substrate 905 912	styrene
+T24	Property 1008 1022	concentrations
+T25	Substrate 1153 1160	benzene
+T26	ReactionOrProcess 1182 1193	degradation
+T27	ReactionOrProcess 1161 1172	degradation
+T28	Microbes 1294 1313	enrichment cultures
+T29	ReactionOrProcess 1294 1304	enrichment
+T30	Substrate 1342 1349	benzene
+T31	ReactionOrProcess 1350 1361	degradation
+T32	ReactionOrProcess 1377 1388	degradation
+T33	ReactionOrProcess 1490 1501	degradation
+T34	Substrate 1605 1616	hydrocarbon
+T35	Property 1554 1567	concentration
+T36	ReactionOrProcess 1605 1628	hydrocarbon degradation
+T37	ReactionOrProcess 1532 1542	adaptation
+T38	ReactionOrProcess 1580 1591	degradation
+T39	ReactionOrProcess 1617 1628	degradation
+T40	Nutrient 1743 1749	carbon
+T41	Substrate 1808 1815	benzene
+T42	Property 1793 1806	concentration
+T43	Microbes 2002 2021	enrichment cultures
+T44	Environment 2052 2072	uncontaminated soils
+T45	Environment 2067 2072	soils
+T46	Environment 2052 2072	uncontaminated soils
+T47	ReactionOrProcess 2002 2012	enrichment
+T48	Substrate 2134 2141	benzene
+T49	Substrate 2116 2122	xylene
+T50	Substrate 2233 2239	xylene
+T51	ReactionOrProcess 2102 2112	Inhibition
+R3	CarriedOn Arg1:T51 Arg2:T48
+R4	CarriedOn Arg1:T51 Arg2:T49
+R5	CarriedOn Arg1:T51 Arg2:T50
+T52	Substrate 2283 2290	benzene
+T53	Substrate 2325 2332	benzene
+T54	Substrate 2508 2515	benzene
+T55	Substrate 2544 2551	benzene
+T56	Property 2578 2586	toxicity
+T57	Property 2291 2304	concentration
+T58	Property 2578 2586	toxicity
+T59	ReactionOrProcess 2371 2382	enrichments
+T60	Substrate 2674 2681	benzene
+T61	ReactionOrProcess 2695 2705	enrichment
+T62	ReactionOrProcess 2792 2802	metabolize
+T63	ReactionOrProcess 2933 2940	degrade
+T64	ReactionOrProcess 3057 3068	degradation
+T65	ReactionOrProcess 3124 3135	degradation

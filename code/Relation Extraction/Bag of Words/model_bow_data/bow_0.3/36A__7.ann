@@ -1,0 +1,5 @@
+T1	ReactionOrProcess 10 13	PCR
+T2	ReactionOrProcess 240 243	PCR
+T3	Environment 491 503	soil samples
+T4	Environment 425 434	Antarctic
+T5	Environment 491 495	soil

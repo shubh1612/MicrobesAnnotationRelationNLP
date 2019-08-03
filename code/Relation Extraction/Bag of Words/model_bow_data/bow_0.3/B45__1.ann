@@ -1,0 +1,122 @@
+T1	Environment 163 172	sediments
+T2	Environment 262 266	Lake
+T3	Environment 153 172	different sediments
+T4	Substrate 136 144	gasoline
+T5	Substrate 44 51	benzene
+T6	Substrate 53 60	toluene
+T7	Substrate 62 74	ethylbenzene
+T8	Substrate 100 106	xylene
+T9	ReactionOrProcess 26 40	biodegradation
+R1	CarriedOn Arg1:T9 Arg2:T4
+R2	CarriedOn Arg1:T9 Arg2:T5
+R3	CarriedOn Arg1:T9 Arg2:T6
+R4	CarriedOn Arg1:T9 Arg2:T7
+R5	CarriedOn Arg1:T9 Arg2:T8
+T10	Environment 298 302	Lake
+T11	Microbes 321 339	Enrichment culture
+T12	Microbes 321 340	Enrichment cultures
+T13	Environment 368 376	sediment
+T14	Environment 465 470	water
+T15	Property 411 423	methanogenic
+T16	Property 411 423	methanogenic
+T17	Property 383 395	denitrifying
+T18	Property 397 409	sulfidogenic
+T19	ReactionOrProcess 433 441	reducing
+T20	ReactionOrProcess 321 331	Enrichment
+T21	ReactionOrProcess 383 395	denitrifying
+T22	Nutrient 428 432	iron
+T23	Environment 527 536	sediments
+T24	Environment 709 718	sediments
+T25	Environment 700 718	pristine sediments
+T26	Substrate 472 476	BTEX
+T27	Environment 810 818	sediment
+T28	Environment 831 840	sediments
+T29	ReactionOrProcess 778 786	reducing
+T30	Environment 932 941	sediments
+T31	Substrate 854 861	benzene
+T32	Substrate 948 955	toluene
+T33	Property 888 900	sulfidogenic
+T34	ReactionOrProcess 960 968	degraded
+T35	ReactionOrProcess 979 984	redox
+T36	Substrate 1009 1013	BTEX
+T37	ReactionOrProcess 1036 1045	reduction
+T38	Nutrient 1061 1079	electron acceptors
+T39	Substrate 1106 1114	gasoline
+T40	ReactionOrProcess 1119 1130	degradation
+T41	Environment 1232 1248	anoxic sediments
+T42	Environment 1360 1368	sediment
+T43	Environment 1239 1248	sediments
+T44	Environment 1232 1248	anoxic sediments
+T45	Substrate 1213 1217	BTEX
+T46	ReactionOrProcess 1280 1285	redox
+T47	Substrate 1519 1527	gasoline
+T48	Substrate 1401 1408	benzene
+T49	Substrate 1532 1543	diesel fuel
+T50	Substrate 1484 1493	petroleum
+T51	Substrate 1424 1431	toluene
+T52	Substrate 1374 1399	monoaromatic hydrocarbons
+T53	Substrate 1387 1399	hydrocarbons
+T54	Substrate 1374 1399	monoaromatic hydrocarbons
+T55	Substrate 1410 1422	ethylbenzene
+T56	Substrate 1448 1456	p-xylene
+T57	Substrate 1387 1399	hydrocarbons
+T58	Substrate 1532 1538	diesel
+T59	Environment 1672 1683	groundwater
+T60	Environment 1581 1586	water
+T61	Environment 1713 1718	water
+T62	Property 1587 1597	solubility
+T63	Property 1581 1597	water solubility
+T64	Substrate 1729 1736	Benzene
+T65	Property 1767 1776	pollutant
+T66	Property 1792 1807	carcinogenicity
+T67	Property 1836 1841	toxic
+T68	Environment 1890 1899	sediments
+T69	Substrate 1862 1866	BTEX
+T70	Nutrient 1929 1935	oxygen
+T71	Substrate 1995 2002	nitrate
+T72	Property 2154 2162	aromatic
+T73	ReactionOrProcess 2061 2070	degrading
+T74	Nutrient 2004 2008	iron
+T75	Nutrient 2037 2054	electron acceptor
+T76	Nutrient 2130 2136	oxygen
+T77	Substrate 2295 2299	BTEX
+T78	ReactionOrProcess 2432 2441	oxidation
+T79	ReactionOrProcess 2338 2345	degrade
+T80	Nutrient 2388 2396	nitrogen
+T81	Nutrient 2378 2384	oxygen
+T82	Environment 2580 2600	anaerobic conditions
+T83	Substrate 2516 2528	hydrocarbons
+T84	Substrate 2516 2528	hydrocarbons
+T85	ReactionOrProcess 2492 2506	biodegradation
+R6	CarriedOn Arg1:T85 Arg2:T83
+R7	CarriedOn Arg1:T85 Arg2:T84
+T86	Substrate 2756 2760	BTEX
+T87	ReactionOrProcess 2731 2744	anaerobically
+T88	Substrate 2842 2849	toluene
+T89	Property 2856 2868	denitrifying
+T90	Property 2870 2882	sulfidogenic
+T91	ReactionOrProcess 2856 2868	denitrifying
+T92	Substrate 3004 3016	ethylbenzene
+T93	ReactionOrProcess 2996 3003	degrade
+T94	Environment 3225 3232	aquifer
+T95	Environment 3256 3270	chronic spills
+T96	ReactionOrProcess 3381 3389	reducing
+T97	Environment 3468 3477	sediments
+T98	Environment 3520 3530	microcosms
+T99	Environment 3460 3467	aquifer
+T100	Substrate 3432 3436	BTEX
+T101	Property 3507 3519	denitrifying
+T102	ReactionOrProcess 3507 3519	denitrifying
+T103	ReactionOrProcess 3437 3448	degradation
+T104	Substrate 3581 3588	toluene
+T105	Substrate 3617 3625	o-xylene
+T106	Substrate 3590 3602	ethylbenzene
+T107	Substrate 3604 3612	m-xylene
+T108	Nutrient 3724 3741	electron acceptor
+T109	Environment 3830 3850	contaminated aquifer
+T110	Environment 3843 3850	aquifer
+T111	Substrate 3821 3829	gasoline
+T112	Substrate 3852 3856	BTEX
+T113	Property 3881 3893	denitrifying
+T114	Property 3898 3910	sulfidogenic
+T115	ReactionOrProcess 3881 3893	denitrifying

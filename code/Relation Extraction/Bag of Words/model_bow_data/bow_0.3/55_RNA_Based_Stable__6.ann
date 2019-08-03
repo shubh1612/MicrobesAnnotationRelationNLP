@@ -1,0 +1,45 @@
+T1	Substrate 104 111	benzene
+T2	Substrate 65 72	nitrate
+T3	ReactionOrProcess 112 123	degradation
+T4	Property 221 227	purity
+T5	ReactionOrProcess 199 210	degradation
+T6	Substrate 323 330	benzene
+T7	Property 476 488	denitrifying
+T8	ReactionOrProcess 335 348	anaerobically
+T9	ReactionOrProcess 476 488	denitrifying
+T10	Substrate 766 773	benzene
+T11	Substrate 727 734	nitrate
+T12	ReactionOrProcess 804 819	denitrification
+T13	ReactionOrProcess 774 788	mineralization
+T14	Microbes 918 926	Azoarcus
+T15	Environment 980 987	aquifer
+T16	Substrate 953 960	benzene
+T17	ReactionOrProcess 961 972	degradation
+T18	Microbes 1050 1058	Azoarcus
+T19	Substrate 1113 1120	benzene
+T20	Substrate 1103 1120	anaerobic benzene
+T21	ReactionOrProcess 1103 1132	anaerobic benzene degradation
+T22	ReactionOrProcess 1121 1132	degradation
+T23	Microbes 1214 1222	Azoarcus
+T24	Microbes 1348 1356	Azoarcus
+T25	Microbes 1396 1404	Azoarcus
+T26	Environment 1446 1453	aquifer
+T27	Microbes 1494 1513	enrichment cultures
+T28	Environment 1538 1558	anaerobic conditions
+T29	Substrate 1524 1531	benzene
+T30	ReactionOrProcess 1619 1628	isolating
+T31	ReactionOrProcess 1494 1504	enrichment
+T32	ReactionOrProcess 1514 1523	degrading
+T33	Environment 1847 1858	groundwater
+T34	Environment 1825 1858	gasoline-contaminated groundwater
+T35	ReactionOrProcess 1790 1800	enrichment
+T36	Nutrient 1746 1750	agar
+T37	Microbes 1971 1993	heterotrophic bacteria
+T38	Property 1971 1984	heterotrophic
+T39	Property 2029 2041	denitrifying
+T40	ReactionOrProcess 1953 1957	DGGE
+T41	ReactionOrProcess 2029 2041	denitrifying
+T42	ReactionOrProcess 2012 2021	isolation
+R1	CarriedOn Arg1:T40 Arg2:T37
+T43	ReactionOrProcess 2210 2220	enrichment
+T44	ReactionOrProcess 2197 2206	isolation

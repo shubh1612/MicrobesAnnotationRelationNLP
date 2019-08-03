@@ -1,0 +1,53 @@
+T1	ReactionOrProcess 133 147	biodegradation
+T2	Environment 376 380	soil
+T3	Substrate 255 258	PAH
+T4	Property 269 280	surfactants
+T5	Property 360 370	pollutants
+T6	Substrate 482 485	PAH
+T7	ReactionOrProcess 482 500	PAH biodegradation
+T8	ReactionOrProcess 486 500	biodegradation
+T9	Property 502 515	Biosurfactant
+T10	Property 502 516	Biosurfactants
+T11	ReactionOrProcess 577 591	biodegradation
+T12	Enzyme 936 946	oxygenases
+T13	Property 986 994	aromatic
+T14	Property 1138 1147	resistant
+T15	ReactionOrProcess 1151 1173	aerobic biodegradation
+T16	ReactionOrProcess 1159 1173	biodegradation
+T17	Property 1522 1535	concentration
+T18	ReactionOrProcess 1649 1657	purified
+T19	Environment 1715 1737	anaerobic environments
+T20	Substrate 1995 2004	aromatics
+T21	Property 1995 2004	aromatics
+T22	ReactionOrProcess 1967 1991	anaerobic biodegradation
+T23	ReactionOrProcess 2046 2055	reduction
+T24	ReactionOrProcess 1977 1991	biodegradation
+R1	CarriedOn Arg1:T22 Arg2:T20
+R2	CarriedOn Arg1:T24 Arg2:T20
+T25	Environment 2623 2632	sediments
+T26	Environment 2603 2632	preserved anaerobic sediments
+T27	Environment 2474 2496	anaerobic environments
+T28	Environment 2613 2632	anaerobic sediments
+T29	Environment 2613 2632	anaerobic sediments
+T30	Substrate 2562 2586	unsaturated hydrocarbons
+T31	Substrate 2562 2586	unsaturated hydrocarbons
+T32	Substrate 2458 2470	hydrocarbons
+T33	Substrate 2574 2586	hydrocarbons
+T34	Substrate 2458 2470	hydrocarbons
+T35	Substrate 2574 2586	hydrocarbons
+T36	Microbes 2873 2892	enrichment cultures
+T37	ReactionOrProcess 2873 2883	enrichment
+T38	Environment 3068 3077	sediments
+T39	Environment 3052 3077	aerobic aquifer sediments
+T40	Environment 3060 3067	aquifer
+T41	Substrate 3115 3123	benzenes
+T42	ReactionOrProcess 3037 3048	degradation
+R3	CarriedOn Arg1:T42 Arg2:T41
+T43	Environment 3333 3342	sediments
+T44	Environment 3215 3227	aerobic soil
+T45	Environment 3325 3342	aerobic sediments
+T46	Environment 3223 3227	soil
+T47	Environment 3325 3342	aerobic sediments
+T48	ReactionOrProcess 3202 3211	incubated
+T49	Environment 3429 3453	aerobic activated sludge
+T50	Substrate 3463 3470	benzene

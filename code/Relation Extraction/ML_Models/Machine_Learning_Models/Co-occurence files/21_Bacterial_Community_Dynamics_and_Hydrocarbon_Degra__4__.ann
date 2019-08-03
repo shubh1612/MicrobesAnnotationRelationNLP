@@ -1,0 +1,34 @@
+T1	ReactionOrProcess 4 7	PCR
+T2	Substrate 1432 1435	oil
+T3	ReactionOrProcess 1269 1278	replicate
+T4	ReactionOrProcess 1323 1327	DGGE
+T5	ReactionOrProcess 1314 1317	PCR
+T6	ReactionOrProcess 1298 1312	DNA extraction
+T7	ReactionOrProcess 2553 2560	Cloning
+T8	ReactionOrProcess 2746 2749	PCR
+T9	ReactionOrProcess 2819 2825	cloned
+T10	ReactionOrProcess 2801 2804	PCR
+T11	Microbes 2982 2989	E. coli
+T12	ReactionOrProcess 3290 3294	DGGE
+T13	ReactionOrProcess 3234 3238	DGGE
+T14	ReactionOrProcess 3435 3439	DGGE
+T15	ReactionOrProcess 3477 3481	DGGE
+T16	ReactionOrProcess 3565 3578	DGGE analysis
+T17	ReactionOrProcess 3651 3664	DGGE analysis
+T18	ReactionOrProcess 3765 3772	excised
+T19	ReactionOrProcess 3784 3790	cloned
+T20	ReactionOrProcess 3833 3837	DGGE
+T21	ReactionOrProcess 3902 3909	excised
+T22	ReactionOrProcess 3869 3873	DGGE
+T23	Environment 4986 4991	water
+T24	Property 4955 4969	concentrations
+T25	Property 5142 5156	concentrations
+T26	Property 5263 5277	concentrations
+T27	Nutrient 4931 4939	nitrogen
+T28	Nutrient 5118 5126	nitrogen
+T29	Nutrient 4944 4954	phosphorus
+T30	Nutrient 5131 5141	phosphorus
+R1	CarriedOn Arg1:T3 Arg2:T2
+R2	CarriedOn Arg1:T4 Arg2:T2
+R3	CarriedOn Arg1:T5 Arg2:T2
+R4	CarriedOn Arg1:T6 Arg2:T2

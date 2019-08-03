@@ -1,0 +1,129 @@
+T1	Environment 79 106	sulfate-reducing conditions
+T2	Substrate 65 72	benzene
+T3	Substrate 170 177	benzene
+T4	Property 79 95	sulfate-reducing
+T5	ReactionOrProcess 258 307	terminal restriction fragment length polymorphism
+T6	ReactionOrProcess 160 169	degrading
+T7	ReactionOrProcess 52 64	mineralizing
+T8	Nutrient 197 214	electron acceptor
+T9	Environment 444 455	groundwater
+T10	Environment 409 413	sand
+T11	Environment 484 491	aquifer
+T12	Microbes 635 652	Cryptanaerobacter
+T13	Microbes 679 698	Deltaproteobacteria
+T14	Microbes 757 767	consortium
+T15	Environment 827 854	sulfate-reducing conditions
+T16	Environment 810 820	microcosms
+T17	Property 827 843	sulfate-reducing
+T18	Property 732 738	stable
+T19	Microbes 953 966	Bacteroidetes
+T20	Microbes 886 907	Epsilonproteobacteria
+T21	Microbes 934 948	Actinobacteria
+T22	Microbes 909 919	Clostridia
+T23	Microbes 1064 1077	Desulfovibrio
+T24	Microbes 1004 1014	consortium
+T25	Microbes 1090 1107	Cryptanaerobacter
+T26	Microbes 1320 1337	Cryptanaerobacter
+T27	Substrate 1307 1314	benzene
+T28	Property 1276 1284	aromatic
+T29	Substrate 1454 1461	benzene
+T30	Substrate 1513 1520	benzene
+T31	ReactionOrProcess 1521 1532	degradation
+T32	Environment 1703 1730	sulfate-reducing conditions
+T33	Substrate 1677 1684	benzene
+T34	Property 1703 1719	sulfate-reducing
+T35	ReactionOrProcess 1666 1696	syntrophic benzene degradation
+T36	ReactionOrProcess 1685 1696	degradation
+T37	Substrate 1873 1881	gasoline
+T38	Substrate 1757 1778	Aromatic hydrocarbons
+T39	Substrate 1787 1794	benzene
+T40	Substrate 1796 1803	toluene
+T41	Substrate 1757 1778	Aromatic hydrocarbons
+T42	Substrate 1766 1778	hydrocarbons
+T43	Substrate 1805 1817	ethylbenzene
+T44	Substrate 1822 1829	xylenes
+T45	Substrate 1766 1778	hydrocarbons
+T46	Property 1757 1765	Aromatic
+T47	Environment 1932 1937	water
+T48	Environment 1993 2004	vadose zone
+T49	Environment 2011 2018	aquifer
+T50	Property 1938 1948	solubility
+T51	Property 1979 1988	saturated
+T52	Property 1953 1963	volatility
+T53	Property 1892 1897	toxic
+T54	Property 1932 1948	water solubility
+T55	Substrate 2020 2027	Benzene
+T56	Substrate 2062 2066	BTEX
+T57	Property 2056 2061	toxic
+T58	Substrate 2095 2099	BTEX
+T59	ReactionOrProcess 2121 2132	biodegraded
+T60	Environment 2302 2308	plumes
+T61	Environment 2230 2235	water
+T62	Property 2236 2246	solubility
+T63	Property 2290 2301	contaminant
+T64	Property 2230 2246	water solubility
+T65	Nutrient 2282 2288	oxygen
+T66	Microbes 2391 2410	enrichment cultures
+T67	Environment 2691 2718	sulfate-reducing conditions
+T68	Environment 2480 2496	nitrate-reducing
+T69	Substrate 2344 2351	benzene
+T70	Substrate 2334 2351	Anaerobic benzene
+T71	Property 2417 2429	methanogenic
+T72	Property 2417 2429	methanogenic
+T73	Property 2691 2707	sulfate-reducing
+T74	ReactionOrProcess 2391 2401	enrichment
+T75	ReactionOrProcess 2334 2363	Anaerobic benzene degradation
+T76	ReactionOrProcess 2352 2363	degradation
+T77	Substrate 2910 2917	benzene
+T78	Substrate 3057 3064	benzene
+T79	Substrate 2961 2965	BTEX
+T80	Substrate 3047 3064	anaerobic benzene
+T81	ReactionOrProcess 3047 3076	anaerobic benzene degradation
+T82	ReactionOrProcess 3065 3076	degradation
+T83	Environment 3230 3239	sediments
+T84	Environment 3219 3239	subsurface sediments
+T85	Environment 3138 3147	microcosm
+T86	Environment 3219 3229	subsurface
+T87	Environment 3219 3239	subsurface sediments
+T88	Substrate 3179 3186	benzene
+T89	Substrate 3169 3186	anaerobic benzene
+T90	Property 3187 3196	degraders
+T91	Substrate 3401 3408	nitrate
+T92	Property 3409 3417	reducers
+T93	ReactionOrProcess 3401 3417	nitrate reducers
+T94	Microbes 3519 3538	enrichment cultures
+T95	Property 3488 3500	methanogenic
+T96	Property 3488 3500	methanogenic
+T97	Property 3468 3484	sulfate-reducing
+T98	ReactionOrProcess 3519 3529	enrichment
+T99	Substrate 3708 3715	benzene
+T100	Property 3689 3706	anoxic conditions
+T101	ReactionOrProcess 3719 3727	degraded
+T102	Substrate 3811 3818	benzene
+T103	Substrate 3801 3818	anaerobic benzene
+T104	ReactionOrProcess 3801 3830	anaerobic benzene degradation
+T105	ReactionOrProcess 3819 3830	degradation
+T106	Environment 3970 3977	aquifer
+T107	Substrate 3919 3926	benzene
+T108	Substrate 4017 4024	benzene
+T109	ReactionOrProcess 3927 3938	degradation
+T110	Nutrient 4069 4086	electron acceptor
+T111	Substrate 4108 4115	benzene
+T112	Property 4193 4199	stable
+T113	ReactionOrProcess 4208 4221	fractionation
+T114	ReactionOrProcess 4116 4127	degradation
+T115	Microbes 4314 4333	enrichment cultures
+T116	Microbes 4480 4488	inoculum
+T117	Environment 4357 4384	sulfate-reducing conditions
+T118	Environment 4413 4423	microcosms
+T119	Property 4357 4373	sulfate-reducing
+T120	Property 4289 4295	stable
+T121	ReactionOrProcess 4314 4324	enrichment
+T122	Environment 4554 4565	groundwater
+T123	Environment 4545 4565	sulfidic groundwater
+T124	Substrate 4591 4598	benzene
+T125	Nutrient 4621 4627	carbon
+T126	Environment 4686 4690	sand
+T127	Substrate 4827 4834	benzene
+T128	Substrate 4941 4948	benzene
+T129	Nutrient 4870 4887	electron acceptor

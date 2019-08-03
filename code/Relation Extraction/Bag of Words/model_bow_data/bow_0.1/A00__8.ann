@@ -1,0 +1,68 @@
+T1	Substrate 123 134	hydrocarbon
+T2	ReactionOrProcess 123 146	hydrocarbon degradation
+T3	ReactionOrProcess 135 146	degradation
+T4	Substrate 402 413	hydrocarbon
+T5	ReactionOrProcess 402 425	hydrocarbon degradation
+T6	ReactionOrProcess 414 425	degradation
+T7	Enzyme 802 812	oxygenases
+T8	ReactionOrProcess 693 714	substrate degradation
+T9	ReactionOrProcess 761 769	degraded
+T10	ReactionOrProcess 703 714	degradation
+T11	Environment 1009 1014	plume
+T12	Environment 1090 1095	plume
+T13	ReactionOrProcess 1028 1037	extracted
+T14	ReactionOrProcess 1389 1395	blastn
+T15	Microbes 1411 1428	Oceanospirillales
+T16	Environment 1568 1573	plume
+T17	Environment 1611 1616	plume
+T18	Microbes 1728 1743	Alteromonadales
+T19	Microbes 1820 1839	Deltaproteobacteria
+T20	Environment 1812 1817	plume
+T21	Environment 1777 1782	plume
+T22	Environment 2131 2136	plume
+T23	Environment 2161 2166	plume
+T24	Environment 2215 2220	plume
+T25	Environment 2441 2446	plume
+T26	Microbes 2617 2634	Oceanospirillales
+T27	Microbes 2596 2605	Colwellia
+T28	Environment 2524 2533	microcosm
+T29	Substrate 2559 2565	ethane
+T30	Substrate 2570 2577	propane
+T31	Microbes 2817 2834	Oceanospirillales
+T32	Microbes 2725 2734	Colwellia
+T33	Substrate 2773 2779	ethane
+T34	Substrate 2784 2791	propane
+T35	ReactionOrProcess 2792 2801	oxidation
+T36	Environment 3155 3160	plume
+T37	Microbes 3327 3341	Cycloclasticus
+T38	Substrate 3397 3400	PAH
+T39	Substrate 3401 3410	aromatics
+T40	Property 3401 3410	aromatics
+T41	ReactionOrProcess 3378 3385	degrade
+R1	CarriedOn Arg1:T41 Arg2:T38
+R2	CarriedOn Arg1:T41 Arg2:T39
+T42	Microbes 3672 3684	Methylophaga
+T43	Microbes 3637 3650	methylotrophs
+T44	Environment 3735 3740	plume
+T45	Microbes 3809 3822	methanotrophs
+T46	Environment 3890 3895	plume
+T47	Microbes 4027 4044	Oceanospirillales
+T48	Environment 4119 4124	plume
+T49	Environment 4346 4351	plume
+T50	Substrate 4369 4380	hydrocarbon
+T51	ReactionOrProcess 4369 4392	hydrocarbon degradation
+T52	ReactionOrProcess 4381 4392	degradation
+T53	Environment 4644 4649	plume
+T54	ReactionOrProcess 4594 4612	active degradation
+T55	ReactionOrProcess 4601 4612	degradation
+T56	Enzyme 4810 4824	monooxygenases
+T57	ReactionOrProcess 4916 4927	degradation
+R3	Inhibit_Catalyse Arg1:T56 Arg2:T57
+T58	Environment 5073 5078	plume
+T59	Substrate 5015 5035	dominant hydrocarbon
+T60	Substrate 5024 5035	hydrocarbon
+T61	ReactionOrProcess 5024 5047	hydrocarbon degradation
+T62	ReactionOrProcess 5015 5047	dominant hydrocarbon degradation
+T63	ReactionOrProcess 4988 5006	alkane degradation
+T64	ReactionOrProcess 4995 5006	degradation
+T65	ReactionOrProcess 5036 5047	degradation

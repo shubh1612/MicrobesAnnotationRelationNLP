@@ -1,0 +1,64 @@
+T1	Nutrient 148 154	carbon
+T2	Environment 255 259	soil
+T3	Nutrient 178 184	carbon
+T4	ReactionOrProcess 368 378	incubation
+T5	ReactionOrProcess 522 531	incubated
+T6	ReactionOrProcess 588 597	incubated
+T7	Environment 715 719	soil
+T8	Substrate 961 967	diesel
+T9	Property 975 993	sole carbon source
+T10	ReactionOrProcess 994 1005	utilization
+T11	Nutrient 980 986	carbon
+T12	ReactionOrProcess 1039 1049	incubation
+T13	Environment 1282 1286	soil
+T14	Environment 1434 1438	soil
+T15	Substrate 1463 1469	diesel
+T16	Substrate 1527 1530	oil
+T17	Environment 1592 1605	treated soils
+T18	Environment 1600 1605	soils
+T19	Environment 1766 1779	control soils
+T20	Environment 1840 1853	treated soils
+T21	Environment 1774 1779	soils
+T22	Environment 1848 1853	soils
+T23	Substrate 1716 1722	diesel
+T24	Environment 2034 2038	soil
+T25	Environment 2103 2107	soil
+T26	Environment 2208 2228	diesel-treated soils
+T27	Environment 2267 2280	control soils
+T28	Environment 2170 2174	soil
+T29	Environment 2223 2228	soils
+T30	Environment 2275 2280	soils
+T31	Environment 2208 2228	diesel-treated soils
+T32	Environment 2381 2401	diesel-treated soils
+T33	Environment 2297 2310	control soils
+T34	Environment 2305 2310	soils
+T35	Environment 2396 2401	soils
+T36	Environment 2381 2401	diesel-treated soils
+T37	Environment 2489 2502	control soils
+T38	Environment 2531 2549	contaminated soils
+T39	Environment 2620 2638	contaminated soils
+T40	Environment 2565 2569	soil
+T41	Environment 2497 2502	soils
+T42	Environment 2544 2549	soils
+T43	Environment 2633 2638	soils
+T44	Environment 2531 2549	contaminated soils
+T45	Environment 2620 2638	contaminated soils
+T46	Property 2675 2688	concentration
+T47	ReactionOrProcess 2670 2674	PLFA
+T48	ReactionOrProcess 2645 2649	PLFA
+T49	Environment 2774 2794	diesel-treated soils
+T50	Environment 2789 2794	soils
+T51	Environment 2774 2794	diesel-treated soils
+T52	ReactionOrProcess 2803 2812	incubated
+T53	Environment 2827 2851	diesel-contaminated soil
+T54	Environment 2827 2852	diesel-contaminated soils
+T55	Environment 2847 2852	soils
+T56	Environment 2827 2852	diesel-contaminated soils
+T57	Substrate 2827 2833	diesel
+T58	Environment 3008 3026	contaminated soils
+T59	Environment 2969 2973	soil
+T60	Environment 3021 3026	soils
+T61	Environment 3036 3041	soils
+T62	Environment 3072 3077	soils
+T63	Environment 3008 3026	contaminated soils
+T64	ReactionOrProcess 2998 3007	incubated

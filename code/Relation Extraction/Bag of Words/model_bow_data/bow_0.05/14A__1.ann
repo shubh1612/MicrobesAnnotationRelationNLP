@@ -1,0 +1,72 @@
+T1	Environment 47 87	petroleum hydrocarbon-contaminated soils
+T2	Environment 217 235	non-impacted soils
+T3	Environment 47 87	petroleum hydrocarbon-contaminated soils
+T4	Environment 57 87	hydrocarbon-contaminated soils
+T5	Environment 188 235	hydrocarbon-contaminated and non-impacted soils
+T6	Environment 217 235	non-impacted soils
+T7	Environment 82 87	soils
+T8	Environment 230 235	soils
+T9	Environment 57 87	hydrocarbon-contaminated soils
+T10	Substrate 47 56	petroleum
+T11	Substrate 178 187	petroleum
+T12	Property 57 81	hydrocarbon-contaminated
+T13	Property 188 212	hydrocarbon-contaminated
+T14	Environment 445 449	soil
+T15	Property 356 375	Denaturing gradient
+T16	ReactionOrProcess 356 395	Denaturing gradient gel electrophoresis
+T17	ReactionOrProcess 380 395	electrophoresis
+T18	ReactionOrProcess 426 429	PCR
+T19	ReactionOrProcess 356 366	Denaturing
+T20	ReactionOrProcess 570 589	Dendrogram analysis
+T21	Microbes 1156 1170	Proteobacteria
+T22	Microbes 1117 1132	Actinomycetales
+T23	ReactionOrProcess 902 912	Extraction
+R1	CarriedOn Arg1:T23 Arg2:T21
+R2	CarriedOn Arg1:T23 Arg2:T22
+T24	ReactionOrProcess 1298 1307	oxidation
+T25	ReactionOrProcess 1373 1377	DGGE
+T26	Substrate 1597 1606	petroleum
+T27	ReactionOrProcess 1822 1841	potential pollution
+T28	Substrate 1986 1995	petroleum
+T29	Substrate 1996 2008	hydrocarbons
+T30	Substrate 1996 2008	hydrocarbons
+T31	Substrate 1934 1937	oil
+T32	Substrate 1986 2008	petroleum hydrocarbons
+T33	Environment 2200 2213	polar regions
+T34	Property 2050 2061	Temperature
+T35	ReactionOrProcess 2185 2196	degradation
+T36	Environment 2380 2384	soil
+T37	Environment 2365 2384	uncontaminated soil
+T38	Substrate 2249 2258	petroleum
+T39	Substrate 2259 2271	hydrocarbons
+T40	Substrate 2259 2271	hydrocarbons
+T41	Substrate 2347 2350	oil
+T42	Substrate 2249 2271	petroleum hydrocarbons
+T43	ReactionOrProcess 2279 2290	biodegraded
+R3	CarriedOn Arg1:T43 Arg2:T41
+T44	ReactionOrProcess 2710 2719	extracted
+T45	Property 2874 2893	Denaturing gradient
+T46	ReactionOrProcess 2874 2913	Denaturing gradient gel electrophoresis
+T47	ReactionOrProcess 2898 2913	electrophoresis
+T48	ReactionOrProcess 2874 2884	Denaturing
+T49	ReactionOrProcess 3111 3115	DGGE
+T50	ReactionOrProcess 3237 3241	DGGE
+T51	ReactionOrProcess 3374 3378	DGGE
+T52	Microbes 3999 4011	pseudomonads
+T53	Environment 4454 4458	soil
+T54	ReactionOrProcess 4378 4382	DGGE
+T55	ReactionOrProcess 4366 4369	PCR
+T56	Environment 4884 4889	soils
+T57	Substrate 4902 4911	petroleum
+T58	Substrate 4912 4924	hydrocarbons
+T59	Substrate 4912 4924	hydrocarbons
+T60	Substrate 4902 4924	petroleum hydrocarbons
+T61	Environment 5009 5013	soil
+T62	Substrate 5263 5272	petroleum
+T63	Substrate 5273 5284	hydrocarbon
+T64	ReactionOrProcess 5040 5044	DGGE
+T65	ReactionOrProcess 5040 5053	DGGE analysis
+R4	CarriedOn Arg1:T64 Arg2:T62
+R5	CarriedOn Arg1:T64 Arg2:T63
+R6	CarriedOn Arg1:T65 Arg2:T62
+R7	CarriedOn Arg1:T65 Arg2:T63

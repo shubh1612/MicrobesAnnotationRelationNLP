@@ -1,0 +1,170 @@
+T1	Microbes 39 45	nahAcd
+T2	Environment 308 318	microcosms
+T3	Substrate 142 154	hydrocarbons
+T4	Substrate 142 154	hydrocarbons
+T5	ReactionOrProcess 239 248	extracted
+T6	ReactionOrProcess 4 14	enrichment
+T7	ReactionOrProcess 127 138	degradation
+R1	CarriedOn Arg1:T6 Arg2:T1
+R2	CarriedOn Arg1:T6 Arg2:T3
+R3	CarriedOn Arg1:T6 Arg2:T4
+R4	CarriedOn Arg1:T7 Arg2:T3
+R5	CarriedOn Arg1:T7 Arg2:T4
+T8	Substrate 349 356	Toluene
+T9	Substrate 384 395	naphthalene
+T10	Substrate 358 370	ethylbenzene
+T11	Substrate 372 378	xylene
+T12	Property 396 410	concentrations
+T13	ReactionOrProcess 441 454	hybridization
+T14	ReactionOrProcess 545 558	hybridization
+T15	Environment 637 646	microcosm
+T16	Environment 718 722	soil
+T17	Environment 737 742	soils
+T18	Substrate 656 664	gasoline
+T19	Substrate 704 712	gasoline
+T20	ReactionOrProcess 763 776	hybridization
+T21	Environment 929 933	soil
+T22	Substrate 892 900	gasoline
+T23	ReactionOrProcess 851 861	enrichment
+R6	CarriedOn Arg1:T23 Arg2:T22
+T24	Substrate 1098 1106	gasoline
+T25	ReactionOrProcess 999 1012	hybridization
+R7	CarriedOn Arg1:T25 Arg2:T24
+T26	Environment 1217 1221	soil
+T27	Substrate 1165 1173	gasoline
+T28	Property 1174 1188	concentrations
+T29	Environment 1298 1302	soil
+T30	Substrate 1257 1265	gasoline
+T31	Property 1237 1242	toxic
+T32	ReactionOrProcess 1223 1233	Inhibition
+T33	Environment 1480 1489	microcosm
+T34	ReactionOrProcess 1311 1324	Hybridization
+T35	Microbes 1523 1527	xylE
+T36	Substrate 1583 1586	oil
+T37	Environment 1845 1849	soil
+T38	Environment 1619 1624	soils
+T39	Environment 1662 1687	underground storage tanks
+T40	Substrate 1630 1639	petroleum
+T41	Substrate 1900 1908	gasoline
+T42	Substrate 1913 1924	diesel fuel
+T43	Substrate 1873 1882	Petroleum
+T44	Substrate 1913 1919	diesel
+T45	Property 1983 1988	toxic
+T46	Nutrient 2053 2059	carbon
+T47	Substrate 2158 2167	petroleum
+T48	Property 2231 2240	resistant
+T49	Property 2310 2321	contaminant
+T50	Property 2269 2280	contaminant
+T51	Property 2137 2149	contaminants
+T52	Property 2248 2253	toxic
+T53	ReactionOrProcess 2180 2190	enrichment
+T54	Property 2423 2435	contaminants
+T55	ReactionOrProcess 2372 2382	adaptation
+T56	Environment 2726 2731	soils
+T57	Property 2650 2661	contaminant
+T58	Property 2775 2786	contaminant
+T59	Environment 2876 2894	contaminated soils
+T60	Environment 2889 2894	soils
+T61	Environment 2876 2894	contaminated soils
+T62	ReactionOrProcess 2861 2872	remediation
+T63	Substrate 3103 3112	petroleum
+T64	Environment 3366 3370	soil
+T65	Substrate 3163 3174	hydrocarbon
+T66	Substrate 3287 3298	hydrocarbon
+T67	Substrate 3688 3700	hydrocarbons
+T68	Substrate 3536 3547	hydrocarbon
+T69	Substrate 3688 3700	hydrocarbons
+T70	Property 3613 3627	concentrations
+T71	ReactionOrProcess 3580 3601	gene probe technology
+T72	ReactionOrProcess 3673 3684	degradation
+T73	ReactionOrProcess 3521 3532	enumeration
+R8	CarriedOn Arg1:T71 Arg2:T67
+R9	CarriedOn Arg1:T71 Arg2:T69
+R10	CarriedOn Arg1:T72 Arg2:T67
+R11	CarriedOn Arg1:T72 Arg2:T69
+R12	CarriedOn Arg1:T73 Arg2:T67
+R13	CarriedOn Arg1:T73 Arg2:T68
+R14	CarriedOn Arg1:T73 Arg2:T69
+T74	Environment 3935 3940	soils
+T75	Environment 3785 3790	soils
+T76	Substrate 3746 3757	hydrocarbon
+T77	Substrate 3972 3975	oil
+T78	Property 3758 3767	degraders
+T79	Property 3803 3817	concentrations
+T80	Property 3917 3931	concentrations
+T81	ReactionOrProcess 3842 3853	degradation
+R15	CarriedOn Arg1:T81 Arg2:T77
+T82	Microbes 4148 4169	unexposed communities
+T83	Property 4027 4041	concentrations
+T84	Property 4082 4093	contaminant
+T85	ReactionOrProcess 4121 4130	extracted
+T86	ReactionOrProcess 4238 4248	adaptation
+T87	ReactionOrProcess 4063 4074	degradation
+R16	CarriedOn Arg1:T85 Arg2:T82
+R17	CarriedOn Arg1:T87 Arg2:T82
+T88	Environment 4401 4406	soils
+T89	Substrate 4425 4433	gasoline
+T90	Substrate 4438 4449	diesel fuel
+T91	Substrate 4376 4383	toluene
+T92	Substrate 4360 4371	naphthalene
+T93	Substrate 4438 4444	diesel
+T94	ReactionOrProcess 4345 4356	degradation
+R18	CarriedOn Arg1:T94 Arg2:T89
+R19	CarriedOn Arg1:T94 Arg2:T90
+R20	CarriedOn Arg1:T94 Arg2:T91
+R21	CarriedOn Arg1:T94 Arg2:T92
+R22	CarriedOn Arg1:T94 Arg2:T93
+T95	Environment 4569 4573	soil
+T96	Substrate 4599 4607	gasoline
+T97	Substrate 4507 4521	catabolic gene
+T98	Substrate 4612 4623	diesel fuel
+T99	Substrate 4612 4618	diesel
+T100	Environment 4848 4866	contaminated sites
+T101	Substrate 4639 4660	Aromatic hydrocarbons
+T102	Substrate 4685 4692	toluene
+T103	Substrate 4639 4659	Aromatic hydrocarbon
+T104	Substrate 4639 4660	Aromatic hydrocarbons
+T105	Substrate 4669 4680	naphthalene
+T106	Substrate 4648 4660	hydrocarbons
+T107	Substrate 4697 4712	common fuel oil
+T108	Substrate 4648 4660	hydrocarbons
+T109	Substrate 4709 4712	oil
+T110	Property 4830 4844	concentrations
+T111	Property 4639 4647	Aromatic
+T112	ReactionOrProcess 4766 4777	degradation
+T113	Substrate 5168 5183	catabolic genes
+T114	Substrate 5103 5110	toluene
+T115	Substrate 5295 5302	toluene
+T116	Substrate 5087 5098	naphthalene
+T117	Substrate 5266 5277	naphthalene
+T118	Substrate 5168 5183	catabolic genes
+T119	ReactionOrProcess 5256 5265	degrading
+T120	ReactionOrProcess 5072 5083	degradation
+R23	CarriedOn Arg1:T120 Arg2:T113
+R24	CarriedOn Arg1:T120 Arg2:T114
+R25	CarriedOn Arg1:T120 Arg2:T115
+R26	CarriedOn Arg1:T120 Arg2:T116
+R27	CarriedOn Arg1:T120 Arg2:T117
+R28	CarriedOn Arg1:T120 Arg2:T118
+T121	Substrate 5488 5491	oil
+T122	ReactionOrProcess 5454 5464	adaptation
+R29	CarriedOn Arg1:T122 Arg2:T121
+T123	Environment 5696 5708	soil samples
+T124	Environment 5685 5695	subsurface
+T125	Environment 5696 5700	soil
+T126	Environment 5685 5700	subsurface soil
+T127	Substrate 5604 5611	benzene
+T128	Substrate 5613 5620	toluene
+T129	Substrate 5739 5743	BTEX
+T130	Substrate 5655 5666	naphthalene
+T131	Substrate 5622 5634	ethylbenzene
+T132	Substrate 5636 5642	xylene
+T133	Property 5521 5535	concentrations
+T134	Property 5744 5758	concentrations
+T135	ReactionOrProcess 5589 5600	degradation
+R30	CarriedOn Arg1:T135 Arg2:T127
+R31	CarriedOn Arg1:T135 Arg2:T128
+R32	CarriedOn Arg1:T135 Arg2:T129
+R33	CarriedOn Arg1:T135 Arg2:T130
+R34	CarriedOn Arg1:T135 Arg2:T131
+R35	CarriedOn Arg1:T135 Arg2:T132

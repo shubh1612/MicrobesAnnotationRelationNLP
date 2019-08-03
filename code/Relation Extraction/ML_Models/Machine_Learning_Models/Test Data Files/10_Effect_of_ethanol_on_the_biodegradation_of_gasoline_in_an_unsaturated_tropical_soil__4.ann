@@ -1,0 +1,73 @@
+T1 Property 43 54 Contaminant
+T2 Property 186 198 Contaminants
+T3 Substrate 483 491 gasoline
+T4 Substrate 506 530 ethanol-blended gasoline
+T5 Property 577 588 contaminant
+T6 Environment 742 747 soils
+T7 Substrate 711 727 gasoline–ethanol
+T8 Environment 926 930 soil
+T9 Environment 846 851 soils
+T10 Substrate 979 986 ethanol
+T11 Substrate 954 962 gasoline
+T12 Substrate 863 887 ethanol-amended gasoline
+T13 Property 899 922 longer-lasting toxicity
+T14 Environment 991 1009 contaminated soils
+T15 Substrate 1203 1210 ethanol
+T16 Substrate 1166 1174 gasoline
+T17 Property 1027 1039 contaminants
+T18 ReactionOrProcess 1090 1102 biodegrading
+T19 Environment 1221 1244 BTEX-contaminated soils
+T20 Environment 1430 1454 Ethanol-containing soils
+T21 Environment 1798 1825 gasoline-contaminated soils
+T22 Substrate 1633 1640 ethanol
+T23 Substrate 1685 1689 BTEX
+T24 ReactionOrProcess 1608 1629 immediate degradation
+T25 ReactionOrProcess 1670 1681 degradation
+T26 Environment 1929 1934 soils
+T27 Substrate 1953 1960 ethanol
+T28 Substrate 1875 1883 gasoline
+T29 Property 1857 1864 residue
+T30 Environment 2025 2029 soil
+T31 Property 2281 2289 residues
+T32 ReactionOrProcess 2205 2214 degrading
+T33 Environment 2335 2348 sterile soils
+T34 Environment 2562 2579 non-sterile soils
+T35 Environment 2516 2521 soils
+T36 Substrate 2485 2501 gasoline–ethanol
+T37 Substrate 2439 2443 BTEX
+T38 Property 2444 2452 residues
+T39 Property 2396 2407 autoclaving
+T40 Environment 2832 2836 soil
+T41 Environment 2617 2622 water
+T42 Environment 2711 2716 water
+T43 Environment 2675 2693 contaminated soils
+T44 Substrate 2627 2635 gasoline
+T45 Property 2636 2650 volatilisation
+T46 Property 2733 2747 volatilisation
+T47 Property 2721 2732 contaminant
+T48 Property 2814 2826 contaminants
+T49 Environment 2925 2930 soils
+T50 Substrate 2894 2910 gasoline–ethanol
+T51 Environment 2954 2975 sterile and dry soils
+T52 Substrate 3144 3151 ethanol
+T53 Substrate 3255 3262 ethanol
+T54 Substrate 3229 3237 gasoline
+T55 Property 3173 3187 volatilisation
+T56 Property 3161 3171 volatility
+T57 Property 3191 3203 contaminants
+T58 Environment 3281 3291 inert soil
+T59 Substrate 3364 3371 ethanol
+T60 Substrate 3327 3335 gasoline
+T61 Substrate 3416 3424 gasoline
+T62 Substrate 3514 3522 gasoline
+T63 Substrate 3606 3614 gasoline
+T64 Property 3537 3548 contaminant
+R1 CarriedOn Arg1:T18 Arg2:T15
+R2 CarriedOn Arg1:T18 Arg2:T16
+R3 OccursIn Arg1:T18 Arg2:T14
+R4 CarriedOn Arg1:T24 Arg2:T22
+R5 CarriedOn Arg1:T24 Arg2:T23
+R6 CarriedOn Arg1:T25 Arg2:T22
+R7 CarriedOn Arg1:T25 Arg2:T23
+R8 OccursIn Arg1:T24 Arg2:T21
+R9 OccursIn Arg1:T25 Arg2:T21

@@ -1,0 +1,106 @@
+T1	ReactionOrProcess 195 208	hybridization
+T2	Environment 916 924	seawater
+T3	Substrate 896 899	oil
+T4	Substrate 1101 1110	petroleum
+T5	Substrate 1089 1096	xylenes
+T6	Substrate 1043 1046	oil
+T7	Substrate 983 986	Oil
+T8	Property 1052 1065	concentration
+T9	Property 1075 1083	volatile
+T10	Environment 1134 1142	Seawater
+T11	Environment 1134 1137	Sea
+T12	Property 1174 1185	temperature
+T13	Property 1187 1196	dissolved
+T14	Nutrient 1197 1203	oxygen
+T15	Environment 1379 1384	plume
+T16	Environment 1375 1384	oil plume
+T17	Substrate 1516 1537	chlorinated aromatics
+T18	Substrate 1488 1492	BTEX
+T19	Substrate 1453 1460	alkanes
+T20	Substrate 1474 1486	cycloalkanes
+T21	Substrate 1579 1599	polycyclic aromatics
+T22	Substrate 1539 1561	heterocyclic aromatics
+T23	Substrate 1604 1629	aromatic carboxylic acids
+T24	Substrate 1590 1599	aromatics
+T25	Substrate 1505 1514	aromatics
+T26	Substrate 1528 1537	aromatics
+T27	Substrate 1552 1561	aromatics
+T28	Substrate 1375 1378	oil
+T29	Substrate 1228 1231	Oil
+T30	Property 1579 1589	polycyclic
+T31	Property 1604 1612	aromatic
+T32	Property 1590 1599	aromatics
+T33	Property 1505 1514	aromatics
+T34	Property 1528 1537	aromatics
+T35	Property 1552 1561	aromatics
+T36	ReactionOrProcess 1443 1452	degrading
+T37	ReactionOrProcess 1285 1296	degradation
+T38	ReactionOrProcess 1342 1353	degradation
+R1	CarriedOn Arg1:T36 Arg2:T17
+R2	CarriedOn Arg1:T36 Arg2:T18
+R3	CarriedOn Arg1:T36 Arg2:T20
+R4	CarriedOn Arg1:T36 Arg2:T21
+R5	CarriedOn Arg1:T36 Arg2:T22
+R6	CarriedOn Arg1:T36 Arg2:T23
+R7	CarriedOn Arg1:T36 Arg2:T24
+R8	CarriedOn Arg1:T36 Arg2:T25
+R9	CarriedOn Arg1:T36 Arg2:T26
+R10	CarriedOn Arg1:T36 Arg2:T27
+R11	CarriedOn Arg1:T37 Arg2:T17
+R12	CarriedOn Arg1:T37 Arg2:T18
+R13	CarriedOn Arg1:T37 Arg2:T19
+R14	CarriedOn Arg1:T37 Arg2:T20
+R15	CarriedOn Arg1:T37 Arg2:T21
+R16	CarriedOn Arg1:T37 Arg2:T22
+R17	CarriedOn Arg1:T37 Arg2:T23
+R18	CarriedOn Arg1:T37 Arg2:T24
+R19	CarriedOn Arg1:T37 Arg2:T25
+R20	CarriedOn Arg1:T37 Arg2:T26
+R21	CarriedOn Arg1:T37 Arg2:T27
+R22	CarriedOn Arg1:T37 Arg2:T28
+R23	CarriedOn Arg1:T38 Arg2:T17
+R24	CarriedOn Arg1:T38 Arg2:T18
+R25	CarriedOn Arg1:T38 Arg2:T19
+R26	CarriedOn Arg1:T38 Arg2:T20
+R27	CarriedOn Arg1:T38 Arg2:T21
+R28	CarriedOn Arg1:T38 Arg2:T22
+R29	CarriedOn Arg1:T38 Arg2:T23
+R30	CarriedOn Arg1:T38 Arg2:T24
+R31	CarriedOn Arg1:T38 Arg2:T25
+R32	CarriedOn Arg1:T38 Arg2:T26
+R33	CarriedOn Arg1:T38 Arg2:T27
+R34	CarriedOn Arg1:T38 Arg2:T28
+T39	Substrate 1753 1760	alkanes
+T40	Substrate 1845 1848	oil
+T41	Property 1845 1861	oil contaminated
+T42	ReactionOrProcess 1728 1737	oxidation
+R35	CarriedOn Arg1:T42 Arg2:T39
+R36	CarriedOn Arg1:T42 Arg2:T40
+T43	Microbes 1930 1940	alkB genes
+T44	Microbes 2058 2071	Mycobacterium
+T45	Environment 2186 2191	plume
+T46	Environment 2182 2191	oil plume
+T47	Substrate 2182 2185	oil
+T48	Substrate 2271 2274	PAH
+T49	ReactionOrProcess 2263 2286	aerobic PAH degradation
+T50	ReactionOrProcess 2275 2286	degradation
+T51	Environment 2414 2419	plume
+T52	Environment 2459 2464	plume
+T53	Substrate 2366 2369	PAH
+T54	ReactionOrProcess 2370 2381	degradation
+T55	Environment 2515 2520	plume
+T56	Environment 2675 2680	plume
+T57	Substrate 2634 2641	toluene
+T58	ReactionOrProcess 2624 2653	anaerobic toluene degradation
+T59	ReactionOrProcess 2634 2653	toluene degradation
+T60	ReactionOrProcess 2642 2653	degradation
+T61	Nutrient 2483 2489	oxygen
+T62	Microbes 2767 2775	Azoarcus
+T63	Microbes 2780 2784	EbN1
+T64	Microbes 2847 2855	Azoarcus
+T65	Property 2797 2805	aromatic
+T66	Microbes 2860 2864	EbN1
+T67	Microbes 3086 3096	nahA genes
+T68	Substrate 3156 3167	naphthalene
+T69	ReactionOrProcess 3143 3152	oxidation
+T70	ReactionOrProcess 3267 3277	replicates

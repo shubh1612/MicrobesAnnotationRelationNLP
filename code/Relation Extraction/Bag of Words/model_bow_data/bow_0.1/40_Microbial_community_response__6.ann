@@ -1,0 +1,32 @@
+T1	Nutrient 120 128	nitrogen
+T2	Nutrient 133 143	phosphorus
+T3	Environment 179 194	Volumetric soil
+T4	Environment 190 194	soil
+T5	Environment 195 200	water
+T6	Environment 310 315	water
+T7	Property 269 275	stable
+T8	Environment 473 478	sandy
+T9	Environment 368 372	soil
+T10	Property 473 478	sandy
+T11	Nutrient 650 656	Carbon
+T12	Environment 736 747	vadose zone
+T13	Environment 786 790	soil
+T14	Property 764 778	concentrations
+T15	Environment 983 995	natural soil
+T16	Environment 991 995	soil
+T17	ReactionOrProcess 965 979	mineralization
+T18	Environment 1127 1138	groundwater
+T19	ReactionOrProcess 1170 1184	mineralization
+T20	Property 1258 1272	concentrations
+T21	Property 1636 1650	concentrations
+T22	ReactionOrProcess 1757 1771	mineralization
+T23	Environment 1880 1884	soil
+T24	Environment 2033 2038	sandy
+T25	Environment 2039 2050	vadose zone
+T26	Property 2033 2038	sandy
+T27	Property 2197 2206	saturated
+T28	Environment 2285 2296	vadose zone
+T29	Environment 3346 3357	vadose zone
+T30	Property 3444 3456	cell density
+T31	Environment 3625 3629	soil
+T32	Environment 3641 3652	vadose zone

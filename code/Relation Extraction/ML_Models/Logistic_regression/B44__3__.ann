@@ -1,0 +1,55 @@
+T1	ReactionOrProcess 205 213	purified
+T2	Nutrient 214 218	agar
+T3	Property 344 350	colony
+T4	Property 413 424	temperature
+T5	ReactionOrProcess 544 560	colony formation
+T6	Substrate 625 642	unleaded gasoline
+T7	Substrate 562 573	Hydrocarbon
+T8	ReactionOrProcess 690 699	incubated
+T9	ReactionOrProcess 861 869	reducing
+T10	Nutrient 790 796	carbon
+T11	Property 889 895	Colony
+T12	Environment 983 990	aquifer
+T13	Property 1205 1210	speed
+T14	ReactionOrProcess 1162 1173	homogenized
+T15	ReactionOrProcess 1347 1358	homogenized
+T16	ReactionOrProcess 1384 1393	isolation
+T17	Microbes 1507 1525	enrichment culture
+T18	Environment 1557 1568	groundwater
+T19	ReactionOrProcess 1541 1551	inoculated
+T20	Microbes 1597 1615	enrichment culture
+T21	Substrate 1734 1751	unleaded gasoline
+T22	Environment 1790 1801	groundwater
+T23	Property 1874 1885	temperature
+T24	ReactionOrProcess 1840 1862	incubated with shaking
+T25	ReactionOrProcess 1763 1774	inoculation
+T26	Substrate 2054 2062	Gasoline
+T27	Property 2179 2185	purity
+T28	ReactionOrProcess 2112 2121	isolation
+T29	Substrate 2345 2360	common gasoline
+T30	Substrate 2352 2373	gasoline hydrocarbons
+T31	Substrate 2502 2510	o-xylene
+T32	Substrate 2394 2406	hydrocarbons
+T33	Substrate 2850 2857	toluene
+T34	Substrate 2897 2905	o-xylene
+T35	Substrate 2859 2871	ethylbenzene
+T36	Property 2834 2846	contaminants
+T37	ReactionOrProcess 2647 2672	flame ionization detector
+T38	Substrate 2983 2991	o-xylene
+T39	Substrate 2917 2953	Unstable or hygroscopic hydrocarbons
+T40	Substrate 2969 2981	ethylbenzene
+T41	Substrate 2997 3005	p-xylene
+T42	Nutrient 3025 3033	nitrogen
+T43	Nutrient 3154 3158	agar
+T44	Substrate 3357 3368	hydrocarbon
+T45	Substrate 3493 3504	hydrocarbon
+T46	Substrate 3633 3644	hydrocarbon
+T47	Substrate 3736 3748	ethylbenzene
+T48	Property 3755 3764	dissolved
+T49	ReactionOrProcess 3678 3697	Gas chromatographic
+T50	Property 3958 3969	temperature
+T51	ReactionOrProcess 3940 3949	incubated
+T52	Substrate 4174 4182	gasoline
+T53	Substrate 4255 4266	hydrocarbon
+R1	FoundIn Arg1:T17 Arg2:T18
+R2	ActOn Arg1:T20 Arg2:T21

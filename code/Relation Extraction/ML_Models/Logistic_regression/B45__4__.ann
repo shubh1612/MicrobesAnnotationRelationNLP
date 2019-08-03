@@ -1,0 +1,72 @@
+T1	ReactionOrProcess 98 123	flame ionization detector
+T2	Substrate 229 236	Nitrate
+T3	ReactionOrProcess 376 384	detector
+T4	Substrate 599 606	methane
+T5	Environment 959 967	sediment
+T6	Environment 1040 1045	water
+T7	ReactionOrProcess 1005 1013	degraded
+T8	ReactionOrProcess 897 908	Degradation
+T9	Property 1190 1204	concentrations
+T10	Environment 1350 1354	Lake
+T11	Substrate 1229 1233	BTEX
+T12	Substrate 1399 1406	nitrate
+T13	Substrate 1460 1467	Toluene
+T14	Substrate 1482 1494	ethylbenzene
+T15	Substrate 1469 1477	m-xylene
+T16	ReactionOrProcess 1548 1559	enrichments
+T17	Substrate 1666 1674	p-xylene
+T18	Environment 1783 1792	sediments
+T19	ReactionOrProcess 1750 1761	degradation
+T20	Substrate 1794 1801	Toluene
+T21	Substrate 1807 1815	m-xylene
+T22	ReactionOrProcess 1862 1872	incubation
+T23	Substrate 1905 1917	ethylbenzene
+T24	Substrate 1985 1993	o-xylene
+T25	Property 1968 1981	concentration
+T26	Substrate 2105 2109	BTEX
+T27	ReactionOrProcess 2077 2088	enrichments
+T28	ReactionOrProcess 2090 2101	degradation
+T29	Environment 2257 2262	water
+T30	Substrate 2421 2428	benzene
+T31	Substrate 2320 2327	Toluene
+T32	Substrate 2393 2405	ethylbenzene
+T33	Substrate 2380 2388	p-xylene
+T34	Substrate 2365 2373	m-xylene
+T35	ReactionOrProcess 2332 2340	degraded
+T36	Substrate 2487 2494	toluene
+T37	Substrate 2499 2507	m-xylene
+T38	Property 2437 2453	sulfate-reducing
+T39	ReactionOrProcess 2513 2521	degraded
+T40	ReactionOrProcess 2457 2468	enrichments
+T41	Microbes 2581 2602	methanogenic cultures
+T42	Environment 2679 2687	sediment
+T43	Environment 2724 2729	water
+T44	Substrate 2634 2638	BTEX
+T45	ReactionOrProcess 2730 2740	enrichment
+T46	ReactionOrProcess 2624 2633	degrading
+T47	Substrate 2742 2749	toluene
+T48	Substrate 2754 2766	ethylbenzene
+T49	ReactionOrProcess 2796 2806	incubation
+T50	Substrate 2862 2870	o-xylene
+T51	Substrate 2979 2986	toluene
+T52	Substrate 3032 3040	o-xylene
+T53	Substrate 3019 3027	m-xylene
+T54	ReactionOrProcess 2971 2978	degrade
+T55	Nutrient 2908 2912	Iron
+T56	Substrate 3102 3110	o-xylene
+T57	Substrate 3075 3087	ethylbenzene
+T58	Substrate 3089 3097	m-xylene
+T59	ReactionOrProcess 3121 3131	enrichment
+T60	Environment 3279 3284	water
+T61	Substrate 3189 3196	nitrate
+T62	Property 3171 3185	concentrations
+T63	Property 3247 3259	sulfidogenic
+T64	ReactionOrProcess 3327 3337	incubation
+T65	ReactionOrProcess 3230 3242	denitrifying
+T66	Substrate 3363 3367	BTEX
+T67	Substrate 3552 3556	BTEX
+T68	ReactionOrProcess 3368 3379	degradation
+T69	Nutrient 3411 3428	electron acceptor
+R1	FoundIn Arg1:T41 Arg2:T42
+R2	FoundIn Arg1:T41 Arg2:T43
+R3	ActOn Arg1:T41 Arg2:T44

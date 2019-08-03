@@ -1,0 +1,1286 @@
+9A
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+Microbial populations in contaminant plumes
+Sheridan K. Haack ´ Barbara A. Bekins
+Abstract Efficient biodegradation of subsurface contaminants
+requires two elements: (1) microbial populations
+with the necessary degradative capabilities, and
+(2) favorable subsurface geochemical and hydrological
+conditions. Practical constraints on experimental
+design and interpretation in both the hydrogeological
+and microbiological sciences have resulted in limited
+knowledge of the interaction between hydrogeological
+and microbiological features of subsurface environments.
+These practical constraints include: (1) inconsistencies
+between the scales of investigation in the
+hydrogeological and microbiological sciences, and (2)
+practical limitations on the ability to accurately define
+microbial populations in environmental samples. However,
+advances in application of small-scale sampling
+methods and interdisciplinary approaches to site investigations
+are beginning to significantly improve understanding
+of hydrogeological and microbiological
+interactions. Likewise, culture-based and molecular
+analyses of microbial populations in subsurface contaminant
+plumes have revealed significant adaptation
+of microbial populations to plume environmental conditions.
+Results of recent studies suggest that variability
+in subsurface geochemical and hydrological
+conditions significantly influences subsurface microbial-community
+structure. Combined investigations of
+site conditions and microbial-community structure
+provide the knowledge needed to understand interactions
+between subsurface microbial populations,
+plume geochemistry, and contaminant biodegradation.
+RØsumØ La biodØgradation efficace des polluants
+souterrains requiert deux ØlØments: des populations
+microbiennes possØdant les aptitudes nØcessaires à la
+dØgradation, et des conditions gØochimiques et hydrologiques
+souterraines favorables. Des contraintes pratiques
+sur la conception et l'interprØtation des
+expØriences à la fois en microbiologie et en hydrogØologie
+ont conduit à une connaissance limitØe des interactions
+entre les phØnomnes hydrogØologiques et
+microbiologiques des environnements souterrains. Ces
+contraintes pratiques sont dues à des contradictions
+entre les Øchelles d'Øtude de l'hydrogØologie et de la
+microbiologie et à des limitations pratiques sur la
+capacitØ à dØfinir avec prØcision les populations microbiennes
+dans les Øchantillons. Cependant, des progrs
+dans l'application de mØthodes d'Øchantillonnage à
+l'Øchelle locale et des approches pluridisciplinaires des
+Øtudes de terrain ont commencØ à amØliorer de façon
+significative notre comprØhension des interactions
+hydrogØologiques et microbiologiques. De plus, les
+analyses molØculaires et sur les cultures des populations
+microbiennes prØsentes dans les panaches de pollution
+souterraine ont mis en Øvidence une adaptation
+significative de ces populations aux conditions environnementales
+du panache. Les rØsultats d'Øtudes
+rØcentes laissent penser que la variabilitØ des conditions
+gØochimiques et hydrologiques souterraines
+influence significativement la structure des communautØs
+microbiennes souterraines. Des recherches
+combinØes sur les conditions de terrain et sur la structure
+des communautØs microbiennes apportent les
+informations nØcessaires à la comprØhension des interactions
+entre les populations microbiennes souterraines,
+la gØochimie du panache et la biodØgradation du
+polluant.
+Resumen Para que la biodegradación de los contaminantes
+en el subsuelo sea eficiente se requiere: (1) una
+población microbiana con capacidad de degradación y
+(2) unas condiciones hidrológicas y geoquímicas favorables.
+Las restricciones de tipo prµctico en los diseæos
+y la interpretación de experimentos, tanto hidrogeoló-
+gicos como microbiológicos, han dado lugar a un
+conocimiento limitado de la interrelación entre estas
+dos ciencias por lo que respecta al subsuelo. Estas restricciones
+incluyen: (1) inconsistencias entre las escalas
+de investigación en ambas ciencias (hidrogeología y
+microbiología) y (2) limitaciones prµcticas para definir
+poblaciones microbianas en las muestras. Sin embargo,
+Received, May 1999
+Revised, October 1999
+Accepted, October 1999
+Sheridan K. Haack ())
+US Geological Survey, 6520 Mercantile Way, Suite 5
+Lansing, Michigan 48911, USA
+Fax: +1-517-887-8937
+e-mail: skhaack@usgs.gov
+Barbara A. Bekins
+US Geological Survey, MS 496, 345 Middlefield Road
+Menlo Park, California 94025, USA
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+64
+los avances en la aplicación de mØtodos de muestreo a
+pequeæa escala y las investigaciones de campo con
+equipos interdisciplinares estµn mejorando significativamente
+el conocimiento de las interacciones entre
+hidrogeología y microbiología. Del mismo modo, los
+anµlisis moleculares y de cultivos sobre poblaciones
+microbianas en penachos contaminados han mostrado
+la adaptación de los microbios a las condiciones naturales.
+Estudios recientes sugieren que la variabilidad
+en las condiciones geoquímicas e hidrogeológicas del
+subsuelo afecta enormemente la estructura de la
+comunidad microbiana. Las investigaciones que combinan
+las condiciones del medio con la estructura de
+la comunidad microbiana proporcionarµn el conocimiento
+necesario para entender las complejas relaciones
+entre las poblaciones microbianas subsuperficiales,
+la geoquímica de los penachos de contaminación y la
+biodegradación de los contaminantes.
+Key words microbial processes ´ contamination ´
+bioremediation ´ natural attenuation ´ heterogeneity
+Introduction
+Subsurface contaminant plumes comprise environments
+in which many microbial processes are accelerated.
+Sharp geochemical and biodegradative
+gradients in these plumes provide contrasting conditions
+for field and laboratory studies (Smith 1997).
+Because of the practical importance of contaminant
+biodegradation in the subsurface, some contaminant
+plumes have been studied intensively and for long
+periods of time (e.g., Madsen et al. 1996; Smith et al.
+1996; Bekins et al. 1999; Ludvigsen et al. 1999). These
+studies serve as models for general understanding of
+subsurface microbial ecology. Some studies address
+how microbial diversity and abundance influence subsurface
+processes. They examine how unique aspects
+of microbial metabolism, genetic structure, and community
+organization can influence degradation processes.
+Other studies have examined how environmental
+controls influence microbial-community structure
+and function. Recent results suggest that variability in
+subsurface geochemical and hydrologic conditions significantly
+influences the subsurface microbial-community
+structure. Variations in the rate, mechanism,
+and completeness of biodegradative processes from
+one site to another indicate that increased understanding
+of the subsurface as a microbial habitat is needed
+to achieve a practical categorization of sites in terms
+of their remediation potential. A high level of detail
+and an interdisciplinary approach are required to
+address these issues.
+Efficient biodegradation of subsurface contaminants
+requires (1) the presence of microbial populations
+with the necessary degradative capabilities, and
+(2) favorable subsurface geochemical and hydrologic
+conditions. The purpose of this paper is to review current
+understanding of how microbial and environmental
+interactions affect biodegradation in contaminant
+plumes. Thus, two themes are addressed: (1) adaptation
+of microbial communities to contaminant plumes,
+and (2) the influence of subsurface conditions on
+microbial processes. The review is restricted to longterm
+investigations of contaminated sites and contaminants
+for which multiple studies have been conducted.
+The focus is on non-manipulated systems and experiments
+that were conducted either in situ or under
+conditions representative of a site. By concentrating
+on these types of studies, the relations between subsurface
+environmental variables and the nature and
+activities of microorganisms in contaminant plumes
+are examined. Increased understanding of how microorganisms
+respond to subsurface conditions is needed
+to interpret variations in biodegradation rate and
+extent at each site. Eventually, knowledge of processes
+controlling subsurface microbial activity could be used
+to evaluate the reasons for success or failure of
+bioremediation at individual sites. Ideally, broad
+groupings of biodegradative capacity of subsurface
+environments is possible on the basis of geological,
+hydrological, and microbiological data. This information
+is also expected to be important in the design
+of adequate long-term monitoring schemes or development
+of bioaugmentation methods for plume remediation.
+Background
+Knowledge of microbial processes in the subsurface
+draws heavily from almost a century of investigations
+of soil and aquatic microbiology and wastewater
+treatment (Ford 1993; Hurst et al. 1997). Subsurface
+samples, however, are difficult and expensive to
+obtain, so basic information on the numbers, types,
+and activities of microorganisms is not available for a
+diverse array of subsurface environments. Thus, the
+fundamental principles that govern microbial abundance,
+diversity, interactions, and activity in subsurface
+environments remain largely unknown (Chapelle
+1993; Madsen and Ghiorse 1993; Lovley and Chapelle
+1995; Amy and Haldeman 1997; Fredrickson and
+Fletcher 1999).
+Principles describing the influence of surface environmental
+factors, such as pH, temperature, nutrient
+availability, and physical structure on abundance,
+diversity, activity, and function of microbial communities,
+are transferable, in some cases, to subsurface
+environments. Many of the bacteria cultured from
+subsurface environments are similar to well studied
+bacteria in soil and surface water (Madsen and
+Ghiorse 1993). Moreover, conditions that encourage
+or inhibit bacterial growth are likely to exert similar
+effects in any environment. However, subsurface conditions
+differ in important ways from surface waters
+and soils. Microorganisms in surface habitats interact
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+65
+with a variety of plants, animals, and microfauna that
+are not generally present in the subsurface. In further
+contrast to surface environments, subsurface environments
+have a relative paucity of carbon sources, and
+the carbon sources that exist naturally have been
+poorly characterized (Madsen and Ghiorse 1993; Lovley
+and Chapelle 1995; Amy and Haldeman 1997;
+Fredrickson and Fletcher 1999). Subsurface environments
+also undergo fewer and less dramatic temporal
+variations in, e.g., temperature and carbon supply,
+than do surface environments. Finally, geochemical
+conditions in the subsurface are strongly affected by
+site geology and local groundwater flow regimes. All
+of these subsurface environmental factors have important
+effects on contaminant-plume processes.
+Three types of approaches are currently employed
+to study subsurface microbial populations at contaminated
+sites: traditional culture-based methods, molecular-based
+methods, and laboratory microcosms.
+Culture-based approaches are useful for determining
+the abundance of some physiologic types of organisms
+in a contaminated environment. Molecular methods
+may reflect more closely in situ populations, because
+culture-based results reflect only those organisms that
+grow on laboratory media (Madsen 1998). Molecular
+methods include phospholipid fatty acid (PLFA) analyses,
+which are reviewed by Green and Scow (2000)
+and nucleic-acid analyses, reviewed by Madsen (2000),
+both in this issue. PLFA analyses are useful for quantifying
+active biomass and characterizing community
+changes over time and space. Nucleic-acid methods
+can provide information on the identities of the bacteria
+present and on their catabolic functions. Laboratory
+microcosm studies using site-derived samples
+are often used to estimate degradation rates and to
+enrich specific bacterial populations for further study.
+Laboratory microcosms can provide important information
+about microbial processes at a site, if they are
+carefully monitored to replicate in situ conditions.
+Application of all of these methods at contaminated
+sites has provided new and intriguing information on
+the diversity and function of microbial populations
+and communities.
+All studies of microorganisms in the environment
+suffer from the fact that fewer than 10% (and possibly
+fewer than 1%) of the extant bacteria (Pace 1996;
+Madsen 2000) have been characterized. In a study by
+Dojka et al. (1998) using DNA-based approaches at a
+site contaminated by jet fuel and chlorinated solvents,
+almost a third of the bacteria for which DNA
+sequences were obtained can be distinguished only by
+their DNA sequence and belong to groups for which
+no cultured representative exists. Thus, numerically
+dominant and as of yet uncultured and therefore
+unknown populations of microbes exist at this contaminated
+site, and their role in this contaminated aquifer
+is certainly unknown. Likewise, when specific genes
+are not detected in environmental samples, as in several
+of the studies reviewed below, other unknown
+genes, possibly coding for similar functions, are likely
+to be present. The vast majority of catabolic gene
+sequences that are currently documented encode
+enzymes common in aerobic bacteria. In contrast,
+many, if not most, sites contaminated with bacterially
+degradable organic compounds are anaerobic, as a
+result of bacterial utilization of oxygen in the presence
+of the contaminants. Low biomass in subsurface materials
+presents a continuing challenge for all molecular
+methods and may bias results from methods in which
+nucleic-acid sequences are amplified (Tanner et al.
+1998).
+Evidence indicates that communities of organisms
+usually work in concert to degrade the organic contaminants
+at a site. Microbial communities are
+believed to be similar to communities of plants or
+animals, in that they are structured largely by interactions
+among populations and between populations
+and the abiotic environment. Commonly measured
+community features, such as the numbers and types of
+different categories of organisms, or the relative magnitude
+or rate of a process, such as degradative capacity,
+are a function of these interactions. However,
+unlike plants and animals, bacteria are distinguished
+from each other primarily by their unique metabolic
+capabilities rather than their structure or appearance.
+Therefore, understanding bacterial-community composition
+in terms of the different physiologic groups
+represented becomes particularly important for understanding
+biodegradation processes.
+Slater and Lovatt (1984) present a classification of
+seven types of microbial-community interactions in
+the degradation of organic compounds. Several of
+their interaction types have been observed in contaminant
+plumes and are described below. In some cases,
+these are assemblages in which each member degrades
+one or more compounds, but each organism can function
+independently of the others. In other cases, a consortium
+of bacteria develops, which is defined as a
+more closely coupled interaction where one member
+requires the activity of another for substrate metabolism
+to occur at all. Examples include cases of ªcombined
+metabolic attack,º where each bacterial partner
+provides an enzyme required to break down a substrate,
+and ªinterspecies product transfer,º where one
+bacterial partner uses a by-product of the first, resulting
+in a thermodynamic shift that allows degradation
+of an otherwise recalcitrant substrate. Other interactions
+described by Slater and Lovatt (1984) are
+based on cases where one bacterial partner provides
+specific nutrients, removes inhibitory substances, or
+modifies growth parameters such as pH for the second,
+which actually carries out the substrate degradation.
+The effect of consortium development is that
+consortia are capable, in concert, of carrying out a
+metabolic reaction that none of the consortium
+members could carry out on its own. Slater and Lovatt
+(1984) conclude that the key to understanding the fate
+of organic contaminants in the environment is in
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+66
+understanding community interactions rather than the
+specific capabilities of individual bacteria.
+Bacteria are also distinguished by their ability to
+exchange genetic material between taxonomic groups
+more readily than do other organisms (Reanny et al.
+1983). Genes that encode enzymes that are needed to
+degrade contaminants may be transferred from one
+bacterium to another. In order to degrade some types
+of contaminants, especially the new types of compounds
+that humans have created in recent decades,
+bacteria must acquire or develop new genes to create
+enzymes with the appropriate functions. Evidence
+exists for both gene transfer and gene development at
+contaminated sites, as described below.
+One outcome of these two unique aspects of microbial-community
+structure might be that subsurface
+microbial processes vary substantially from site to site,
+based on unique combinations of genes or organisms
+at those sites. Evidence presented below indicates that
+some bacterial biodegradative populations may occur
+at one plume but not at another. If so, substantially
+more variability in biodegradative processes across
+sites would occur than could be predicted from site
+environmental characteristics alone, and identifying
+and quantifying bacterial populations and their interactions
+in contaminant plumes would be critical for
+site assessment.
+Adaptation of Microbial Communities Within Plumes
+Increases in the numbers of contaminant-degrading
+bacteria or increases in the rate of degradation of contaminants
+inside the plume are regarded as one line of
+evidence of natural bioremediation or the success of a
+bioaugmentation strategy (National Research Council
+1993). Numerous studies have documented increases
+in the number of contaminant-degrading bacteria
+inside groundwater contaminant plumes compared to
+uncontaminated aquifer materials located nearby (reviewed
+below). This situation is commonly referred to
+as adaptation of the microbial populations or communities
+to plume conditions. However, the processes
+that lead to adaptation of bacteria within a plume are
+not well understood. Three mechanisms for this process
+have been proposed: (1) favored growth of a bacterium
+present at the site prior to contamination; (2)
+introduction of a contaminant-adapted bacterium from
+outside the area; and (3) favored growth of a bacterium
+carrying a unique metabolic pathway that arose
+in situ by genetic transfer or recombination (van der
+Meer et al. 1998). Recent use of DNA-based methods
+has provided some insights into the mechanisms of
+adaptation. In many cases, a mixed community of
+microorganisms develops whose combined activities
+result in effective degradation of the contaminants.
+Numbers and Activity of Contaminant Degraders
+Many studies have documented increases in microbial
+numbers in contaminant plumes. At an abandoned
+refinery near Hünxe, Germany, Zarda et al. (1998)
+observed greater bacterial and protozoan numbers in
+aquifer materials highly contaminated with monoaromatic
+hydrocarbons in contrast to less-contaminated
+materials. Godsy et al. (1992) report a 100-fold
+increase in culturable methanogens within the groundwater
+plume compared to the uncontaminated groundwater
+at a creosote waste site near Pensacola, Florida,
+USA, where methanogenic degradation of creosote
+contaminants is occurring. Pfiffner et al. (1997)
+describe the groundwater chemistry and the abundances
+of physiologic groups of bacteria, using culturebased
+and PLFA approaches, in four locations at a
+benzene, toluene, ethylbenzene, and xylene (BTEX)
+-contaminated site near Detroit, Michigan, USA. At
+this site, highly contaminated sediments had two to
+four times the bacterial biomass (determined from
+PLFA) of less-contaminated aquifer materials.
+Groundwater geochemistry indicates anaerobic conditions
+in the most contaminated portions of the
+plume; however, Pfiffner et al. (1997) enumerate only
+aerobic hydrocarbon-degrading populations. Aerobic
+hydrocarbon degraders were most numerous in the
+more aerobic portions of the plume and were not correlated
+with hydrocarbon concentrations on the sediments.
+Other studies document increases in specific contaminant
+degraders, but non-specific measures of total
+microbial populations sometimes did not show an
+increase. Song and Bartha (1990) note an increase in
+microbial numbers in general, and a specific increase
+in hydrocarbon degraders in surface and subsurface
+materials contaminated with jet fuel. Long et al.
+(1995) compare numbers of toluene- and decane-degrading
+bacteria in pristine, uncontaminated materials
+with aquifer materials contaminated with jet fuel or
+gasoline. They report that the proportion of decanedegrading
+bacteria was higher in all contaminated
+samples, and that toluene-degrader numbers were at
+least an order of magnitude greater in contaminated
+samples compared to pristine samples. Braddock and
+McCarthy (1996) investigated a hydrocarbon-contaminated
+site in the Arctic Ocean where the saturated
+zone thaws for about 90 days each summer. At this
+site, the numbers of hydrocarbon-oxidizing microorganisms
+were 100 times greater in samples from contaminated
+areas than in uncontaminated samples. In
+contrast to the study of Song and Bartha (1990), however,
+populations of total heterotrophs at the site (indicative
+of a general increase in bacterial populations)
+do not correlate with contaminant levels.
+Some studies show an increase in specific degradative
+activity within contaminant plumes. At a coal-tar
+waste site, naphthalene and phenanthrene leaching
+from disposed coal tar to groundwater were degraded
+in samples taken from within the plume, but not in
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+67
+uncontaminated samples (Madsen et al. 1991). In addition,
+increases in numbers of bacteria and protozoa
+occurred within the plume. Later studies at the same
+site (Madsen et al. 1996; Wilson and Madsen 1996)
+extracted a metabolite of bacterial naphthalene degradation.
+The presence of the metabolite and the comigration
+of degradative bacteria with coal-tar-derived
+aromatic hydrocarbons reflect in situ degradative
+processes occurring within the plume. Long-term studies
+of chlorobenzene-degrading bacteria at Kelly Air
+Force Base in Texas, USA, show that chlorobenzene
+degraders occur only within the chlorobenzene-contaminated
+area (van der Meer et al. 1998). Stapleton
+et al. (1998a) use the abundance of the 16S rDNA
+gene ± see Madsen (2000) for description of the use of
+this gene ± as an indicator of bacterial biomass for a
+site contaminated with BTEX, and naphthalene at
+Columbus Air Force Base, Mississippi, USA. Little
+change in microbial biomass occurred within the
+plume compared to the uncontaminated background.
+Activity assays, however, indicate that microorganisms
+in materials from within the plume are more active
+than those in materials taken from outside the plume
+in degrading benzene, toluene, and naphthalene.
+In summary, observed increases in biomass, specific
+contaminant degraders, and degradative activity indicate
+that subsurface microbial populations adapt to
+contaminant plumes. It is unclear, however, why at
+some sites specific assays for degradative microbial
+populations indicate an increase within the contaminant
+plume, whereas more general assays (e.g., for
+bacterial biomass) do not. Possible explanations
+include (1) changes in activity of already-existing populations
+without a concomitant increase in their
+numbers, (2) within-plume variability in populations
+and subsurface conditions, and (3) artifacts due to the
+method used. Combined site studies employing interactions
+between hydrogeologists and microbiologists
+are most likely to resolve these issues.
+Degradative Genes
+The nucleic-acid sequences of genes that encode
+enzymes responsible for critical or unique steps in the
+degradation of contaminants can be detected in environmental
+samples (see Madsen 2000). The sequences
+of some degradative genes have been identified
+through laboratory studies of selected bacteria known
+to degrade particular contaminants. Most of the degradative
+genes identified to date are associated with bacteria
+that are relatively easy to grow in the laboratory
+and that degrade common contaminants, such as
+toluene, naphthalene, and trichloroethylene (TCE).
+Observations of increases in these characterized
+degradative genes in contaminant plumes indicate that
+microbial populations are adapting to exploit the
+influx of contaminants at a site. Recent results also
+provide some insights into the mechanism of genetic
+adaptation.
+Hallier-Soulier et al. (1996) examined 12 types of
+subsurface materials contaminated with fuels or hydrocarbons
+for the presence of the xylE (catechol 2,
+3,-dioxygenase) gene, indicative of aromatic hydrocarbon
+degradation. The xylE gene was detected in
+greater abundance in contaminated than in pristine
+materials, but the abundance of this gene was poorly
+correlated with the number of toluene-degrading bacteria
+present. This result might indicate that toluenedegrading
+bacteria with other untested or unknown
+degradation pathways were also present. Guo et al.
+(1997) report that of five tested degradative genes, the
+presence of the xylE gene is best correlated with fueloil
+contamination at a leaking underground storage
+site in Washington state, USA. They also detected
+genes for naphthalene degradation (nahAcd) and
+toluene para-monoxygenase (tmoABCDE) at lesser
+levels, but they did not detect genes for alkane
+hydroxylase (alkB) or toluene dioxygenase
+(todC1C2BA).
+Stapleton and Sayler (1998) report on the presence
+of several genes involved in various contaminant degradation
+pathways at three sites in the USA. These
+sites are (1) the US Department of Energy Westinghouse
+Savannah River site in Aiken, South Carolina,
+contaminated with the chlorinated solvents PCE (tetrachloroethylene)
+and TCE; (2) Dover Air Force
+Base, Delaware, at locations contaminated with
+BTEX, PCE, and TCE; and (3) Columbus Air Force
+Base, Mississippi, at locations contaminated with
+BTEX and naphthalene (Stapleton and Sayler 1998).
+At Savannah River, each gene was present in the population
+prior to field remedial treatment, and several
+remedial treatments appeared to decrease some gene
+frequencies, but results are inconclusive due to low
+bacterial biomass. Nevertheless, these authors successfully
+used DNA-detection methods at the other two
+sites. At Dover Air Force Base, six genes involved in
+degradation of methane, toluene, naphthalene, and
+TCE were not detected in uncontaminated materials,
+but each gene was detected in contaminated areas
+undergoing natural attenuation. At Columbus Air
+Force Base, genes for alkane hydrolysis, anaerobic
+TCE degradation, and aerobic degradation of naphthalene,
+toluene, and xylene were quantified in an
+artificially generated plume of benzene, toluene, ethylbenzene,
+p-xylene, and naphthalene undergoing natural
+attenuation (Stapleton and Sayler 1998). In
+contrast to the Dover site, each of the degradative
+genes was also detected in uncontaminated aquifer
+materials from Columbus Air Force Base. Within the
+plume, little change in microbial biomass occurred,
+and the quantity of each gene was similar to that at
+uncontaminated locations.
+Results from the above studies highlight the limitations
+of current knowledge on degradative genes controlling
+contaminant biodegradation. At this time, the
+number of known genes available for analysis is small.
+Thus, the specific genes for which molecular
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+68
+approaches are currently available may be present in
+only part of the degrading population, as in the study
+by Hallier-Soulier et al. (1996). Presumably, at sites
+where the use of probes for known degradative genes
+was unsuccessful, unknown genes exist that contribute
+to the degradation processes. This may especially
+apply where the gene probes used are not well
+matched with site conditions, e.g., where gene probes
+for aerobic degradation pathways are used to study a
+site under primarily anaerobic conditions.
+Some studies have used gene-based approaches to
+understand how degradative capabilities are acquired
+by microbial populations in contaminant plumes.
+These studies demonstrate that bacteria can either
+share degradative genes or develop new degradative
+genes within a specific site. Herrick et al. (1993)
+analyzed samples for naphthalene degradation using a
+degradative gene sequence similar to that used by
+Guo et al. (1997). They analyzed materials from
+uncontaminated and contaminated locations at a coaltar
+waste site and observed the gene at two of four
+locations within the plume, although naphthalene mineralization
+was noted at all four locations. They did
+not detect the gene at an upgradient, uncontaminated
+site. At the same site, Herrick et al. (1997) report that
+seven plume-derived bacteria had the same sequence
+for the naphthalene degradation gene, even though
+these bacteria belonged to different species. From this
+evidence, they conclude that the naphthalene degradation
+gene was transferred recently between bacteria at
+their study site.
+Evidence exists that in some cases degradative
+genes may originate at a site. Van der Meer et al.
+(1998) studied the origin of chlorobenzene-degrading
+bacteria at Kelly Air Force Base, Texas. They conclude
+that the ability to degrade chlorobenzene, which
+is rare in aerobic bacteria, was not present initially at
+the contaminated site but occurs now in a distinctive,
+site-specific population of aerobic bacteria that have
+apparently acquired the ability through gene transfer
+and rearrangement. Chlorobenzene degraders could
+not be obtained at Kelly Air Force Base from outside
+the chlorobenzene-contaminated area, suggesting that
+degrading populations did not exist prior to the introduction
+of the contaminant. Chlorobenzene-degrading
+bacteria within the plume at Kelly Air Force Base do
+not carry the same gene sequences as do other chlorobenzene-degrading
+bacteria from other sites, suggesting
+that the gene for chlorobenzene degradation did
+not arrive with newly introduced bacteria. Instead,
+some of the genes in the predominant chlorobenzene
+degrading bacterium at the site are similar to those in
+other, non-chlorobenzene degraders from the site.
+This finding suggests that a new chlorobenzene-degradative
+gene was formed from non-degradative genes
+in bacteria indigenous to Kelly Air Force Base.
+In summary, the usefulness of DNA-based methods
+is currently limited by the number of known degradative
+genes. Molecular methods, however, are capable
+of elucidating the mechanisms by which bacteria at a
+site acquire degradative capabilities. Further studies
+identifying new genes and on the capabilities of bacteria
+to transfer or create genes are needed to fully
+understand gene abundances and site biodegradative
+capacities.
+Community Structure
+Contaminant degradation at a site may not be the
+result of the activity of a single population of bacteria.
+Instead, communities composed of multiple bacterial
+populations, with different degradative capabilities,
+probably contribute to the overall rate and capacity
+for degradation measured at a site. Understanding the
+degree to which degradation is a group as opposed to
+individual function is important to understanding the
+potential success of remediation strategies. A particularly
+interesting example is the degradation of TCE at
+Moffett Field, California, USA. TCE is a contaminant
+that cannot be used as an aerobic growth substrate by
+any known bacteria. Nonetheless, some bacteria
+produce enzymes that oxidize TCE when they grow
+on other substrates. This fortuitous reaction is called
+co-metabolism, or specifically, co-oxidation. Fries et
+al. (1997) studied populations of phenol- and toluenedegrading
+bacteria that can co-oxidize TCE following
+growth on these two primary substrates. They conclude
+that TCE degradation at Moffett Field, California,
+is the result of the combined activities of multiple
+bacterial populations, none of which degraded TCE
+particularly well. If this is the case, addition of toluene
+or phenol to stimulate TCE degradation would not
+necessarily produce the anticipated result. Instead, the
+addition of phenol or toluene that encouraged the
+growth of a bacterial population that co-oxidized TCE
+poorly would result in less TCE degradation than
+observed with the combined activities of many populations.
+Fries et al. (1997) also obtained information about
+the abundance of common TCE-degradative genes in
+these same bacteria. They characterized 273 individual
+phenol- and toluene-degrading bacteria following field
+tests of phenol- or toluene-mediated TCE degradation
+at Moffett Field. The population of phenol and
+toluene degraders was very abundant and heterogeneous
+in type and level of activity. Only one of five
+known toluene degradative pathways (toluene orthomonoxygenase,
+or TOM) was detected by genetic
+analysis in these 273 bacteria, and 86% of the bacteria
+that grew on both phenol and toluene carried this
+gene. Although the TOM pathway of toluene degradation
+has been implicated in the laboratory as one of
+the more favorable pathways for TCE co-oxidation,
+these isolates varied greatly in their ability to co-oxidize
+TCE, and at best they were moderately effective
+in comparison to laboratory strains. This result
+emphasizes the difficulty of relating laboratory results
+to field conditions. Likewise, Gram-positive bacteria,
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+69
+which make up about 30% of the 273 bacteria, did not
+carry any of the known toluene-degradation genes,
+although they could grow on either toluene or phenol.
+Therefore, they must possess other, uncharacterized,
+degradative genes.
+Similarly, Ridgway et al. (1990) studied 297 individual
+gasoline-degrading bacteria from a site contaminated
+with unleaded gasoline. Most could grow on 2
+or 3 of 15 tested gasoline components, and about 75%
+could grow on toluene. Highly related bacteria (e.g.,
+strains of the same species) often differed in their ability
+to grow on various gasoline components. These
+studies indicate that many degradative bacterial populations,
+varying greatly in their degradative capabilities,
+may exist at a single site. Understanding how
+they interact may be important in designing remedial
+strategies for a site. In particular, the role of competition
+between microorganisms for resources in contaminant
+plumes remains virtually unexplored.
+Community interactions are also important for
+understanding the adaptation of populations that use
+different electron acceptors within contaminant
+plumes. A particularly well studied microbial consortium
+requires the coexistence of methanogens and
+bacteria in the genera Syntrophus to perform methanogenic
+degradation of various contaminants (Ferry
+and Wolfe 1977; Schink 1997). Using benzoate as a
+model organic substrate, methanogenic degradation
+has been shown to be thermodynamically favorable
+only if methanogens are present to remove H2 or formate
+(e.g., Ferry and Wolfe 1977). Thus, a consortium
+of Syntrophus sp. and methanogens together can effect
+the degradation of benzoate by methanogenesis,
+although results of laboratory studies indicate that
+neither organism could carry out this degradative
+process on its own (Schocke and Schink 1997). Dojka
+et al. (1998) document coexistence of bacteria similar
+to the genera Syntrophus and Methanosaeta in regions
+of a fuel- and solvent-contaminated aquifer where
+methane concentrations were typically high. Consortia
+may be required for other biodegradation reactions,
+but studies in which no single organism can grow independently
+on the tested substrate involve unique laboratory
+challenges. Therefore, the role of microbial
+consortia in biodegradation reactions is poorly understood.
+Communities of Bacteria and Protozoa
+Protozoa sometimes occur in contaminant plumes, and
+recent studies indicate that the bacterial and protozoan
+populations are correlated. Madsen et al. (1991)
+note an increase in both bacteria and protozoa in a
+plume of coal-tar wastes. In contrast, Ludvigsen et al.
+(1999) observed no protozoa in any samples collected
+from an anaerobic leachate plume. Zarda et al. (1998)
+note increases in both bacterial and protozoan
+numbers in highly contaminated aquifer materials at a
+hydrocarbon-contaminated site. These investigators
+used both molecular and culture-based approaches to
+determine protozoan abundance. As is typically the
+case for bacteria, more protozoa were detected using
+the molecular approaches than were detected by culture.
+Nanoflagellates were the dominant component of
+the protozoan community. The ratio of protozoa to
+bacteria remained constant at around 1 : 103 in this
+aquifer, suggesting that the protozoan and bacterial
+populations are closely linked.
+Evidence suggests that protozoa are significant in
+controlling bacterial abundance. Sinclair et al. (1993)
+observed increases in protozoan numbers in the unsaturated
+zone and in saturated regions below floating
+fuel at a site contaminated with aviation gasoline and
+jet fuel. They relate protozoan abundance primarily to
+availability of oxygen, and note that protozoa
+increased along with bacteria in an area undergoing
+biotreatment with H2O2. Despite the increase in bacteria
+following biotreatment, hydraulic conductivity in
+the aquifer did not decrease significantly, suggesting
+that the bacterial clogging of the aquifer pore spaces
+was reduced by protozoan predation. Similarly, results
+from modeling of a TCE-contaminated site indicate
+that predation of bacteria by protozoa might account
+for population fluctuations in methanotrophs (Travis
+and Rosenberg 1997).
+Protozoa may also be significant in controlling bacterial
+size by selective predation. A diverse protistan
+community was observed within groundwater contaminated
+by a plume of sewage effluent near Cape Cod,
+Massachusetts, USA (Novarino et al. 1997) that
+included some species that had been hitherto undescribed
+(Novarino et al. 1994). Many protozoa (up to
+105
+/g) have been observed in both the oxic and suboxic
+zones of the contaminant plume (Kinner et al.
+1997). Results from laboratory studies suggest that the
+protistan community at Cape Cod may completely
+consume numbers equivalent to the unattached population
+of bacteria immediately downgradient from the
+contaminant source every few days (Kinner et al.
+1998). The community of protozoa at Cape Cod is
+dominated by 2±3 mm nanoflagellates that feed selectively
+on a class of unattached bacteria that are
+0.8±1.5 mm in size (Kinner et al. 1998) and that constitute
+much of the pore-water biomass within the plume
+(Harvey and Garabedian 1991).
+In summary, relatively few studies have been conducted
+on the role of protozoa in contaminant plumes.
+The results of one study indicate that protozoa do not
+always occur under anaerobic conditions. Other studies
+indicate, however, that protozoa may be significant
+under both aerobic and anaerobic conditions in controlling
+bacterial abundance. There is evidence that
+selective predation on bacteria in a specific size range
+may play a role in structuring bacterial communities.
+Presumably, the role of protozoa in recycling nutrients
+required for bacterial growth may also be important
+and needs to be explored.
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+70
+Influence of Subsurface Conditions
+Efforts to delineate site variability that may affect
+microbial populations or their activities are limited by
+the ability of investigators to define the hydrogeological
+environment of contaminant plumes at microbiologically
+relevant scales. For example, the vast
+majority of aqueous-chemistry data from contaminated
+sites is collected from wells for which the open
+interval spans more than a meter. In contrast, many of
+the studies reviewed herein demonstrate that changes
+in site geology, hydrology, and geochemistry relevant
+to microorganisms can occur on much smaller scales.
+Studies of subsurface contaminant plumes show that
+rates of microbial processes determined in situ are
+sometimes not well replicated by laboratory studies
+using site-representative materials (Chapelle et al.
+1996; Smith et al. 1996). Due to the difficulty of defining
+site characteristics accurately at microbiologically
+relevant dimensions, laboratory tests may often fail to
+reproduce the in situ characteristics significant to the
+microbial populations carrying out the process of
+interest.
+Several of the studies described above report the
+inability to detect bacteria or their genes in all the
+expected locations at a site (e.g., Herrick et al. 1993;
+Stapleton et al. 1998a). Loeffler et al. (1998) describe
+variability in the type and extent of degradation of
+TCE in samples taken from two depths in a shallow,
+sandy aquifer in Michigan, USA. Nielsen and Christensen
+(1994) note that aerobic degradation rates of
+aromatic hydrocarbons varied with location in a
+hydrocarbon plume. Kao and Borden (1997) describe
+site-specific variability in BTEX degradation under
+nitrate-reducing conditions across a survey of four
+sites in two states. At a site contaminated with jet fuel
+and solvents, Dojka et al. (1998) document that zones
+geochemically defined as iron-reducing or sulfate-reducing
+did not harbor significant populations of currently
+known iron- or sulfate-reducing bacteria.
+Anderson and Lovley (1999) note the occurrence of
+spatial variability in naphthalene and benzene biodegradation
+at a petroleum-contaminated site in Bemidji,
+Minnesota, USA.
+These results suggest that a better understanding is
+required of the hydrologic and geochemical conditions
+controlling microbial habitats in the subsurface.
+Recent studies document systematic variations over
+time and space in microbial populations in contaminant
+plumes. Using interdisciplinary approaches, the
+population variations have been related to changes in
+subsurface geochemical and hydrologic conditions.
+Thus, encouraging evidence is emerging that known
+principles of microbial adaptation to surface habitats
+can be applied to the subsurface once the hydrologic
+and geologic controls on geochemical conditions and
+nutrient supply are better understood. Figure 1 illustrates
+some currently understood factors that influence
+subsurface habitats in contaminant plumes. The
+importance of each depicted influence is documented
+in various studies that are summarized below.
+Hydrology and Geology
+Understanding site hydrology is critical to evaluation
+of contaminant-plume development. Nevertheless,
+very few studies document the effect of hydrologic
+parameters on microbial populations in contaminant
+plumes. Several studies have examined the development
+of terminal-electron-accepting-process
+(TEAP) zones, where variations in microbial physiological
+processes occur along groundwater flow paths
+and with depth in contaminant plumes (Chapelle 1993;
+Chapelle et al. 1995; Smith 1997). Characterization of
+physiological processes is important because the degradation
+potential of specific compounds varies
+depending on the TEAP. Typically, TEAP zones are
+delineated by measuring, for example, concentrations
+of electron donors and acceptors in pore-water samples
+from wells. However, interpretation of these data
+is problematic, because concentrations of these constituents
+are affected not only by microbial reactions
+but also by advective transport, dispersion, and inorganic
+reactions. In addition, because geochemical gradients
+exist in plumes on vertical scales of less than
+1 m, pore-water samples from wells with large screen
+lengths, which are typical at many contaminated sites,
+may be sampling waters from two or more TEAP
+zones. By sampling aquifers at small spatial scales,
+several studies illuminate the underlying processes
+Figure 1 Conceptual illustration of how subsurface environmental
+conditions influence microbial populations in contaminant
+plumes. Near contaminant source, some members of the microbial
+community may be inhibited by toxic concentrations of the
+contaminant, thereby leading to decreased growth and buildup
+of intermediate compounds. In vicinity of capillary fringe and
+water table, an influx of nutrients and electron acceptors with
+groundwater recharge may result in greater growth. Redox conditions
+in this area may vary with seasonal water-table fluctuations.
+Below water table, contaminant plume and associated
+redox zones follow curves of groundwater flow lines. Redox conditions
+often vary among zones of high and low permeability
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+71
+controlling the zonation of microbial physiologic types
+that correspond to various TEAPs.
+Significant vertical and horizontal variations in
+TEAP zonation and associated degradation processes
+have been noted in a variety of settings (Christensen
+et al. 1994; Norris et al. 1994). Smith et al. (1991a)
+document the requirement for closely spaced vertical
+sampling intervals to delineate microbiological TEAP
+and degradative gradients at contaminated sites. At
+the Borden aquifer in Canada, Rajaram and Gelhar
+(1991) examined vertical dispersivity in the field, and
+they report values that are on the order of molecular
+diffusion. Similarly, at a sewage-effluent plume near
+Cape Cod, Massachusetts, studies with large-scale
+tracer tests estimate the vertical dispersivity in the
+aquifer to be 0.15 cm, or >600 times smaller than longitudinal
+dispersivity (Garabedian et al. 1991; LeBlanc
+et al. 1991). The small vertical dispersivity at the Cape
+Cod site limits vertical mixing and maintains sharp
+gradients in oxygen and other solutes, even after several
+kilometers and several decades of transport
+(Smith et al. 1991a). Concomitant with the oxygen
+gradients are large changes over a vertical distance of
+a few meters in bacterial abundance, growth rates,
+and heterotrophic activity, as well as cell morphology
+(Smith et al. 1991b). In the horizontal direction, the
+plume character at Cape Cod changes more gradually
+downgradient over a scale of kilometers. An increasing
+recalcitrance of the residual dissolved organic carbon
+(DOC) occurs (Harvey and Barber 1992), and
+some studies report an increasing importance of autotrophic
+processes (such as nitrification) as an oxygenconsuming
+mechanism (Ceazan 1987; Ceazan et al.
+1988).
+At a crude-oil spill site near Bemidji, Minnesota,
+Essaid et al. (1995) note variations in hydrologic flow
+paths in response to restricted recharge through the
+non-aqueous oil body. Variations in flow paths
+resulted in dramatic changes in the overall depth of
+the anaerobic portion of the plume, where ferric iron
+reduction and methanogenesis were the dominant
+TEAPs. At the same site, Bekins et al. (1999) show
+that areas where methanogenic conditions had developed
+are clearly indicated by shifts in the numbers
+and types of culturable organisms attached to the
+materials. In the methanogenic intervals, these workers
+report increased numbers of methanogens and heterotrophic
+fermenters and fewer iron reducers. Even
+though methane concentrations were near saturation
+throughout the anoxic zone, which is 2±4 m in vertical
+thickness (Cozzarelli et al. 1996), culturable methanogens
+exist in narrow intervals spanning only
+25±50% of this zone.
+Ludvigsen et al. (1998, 1999) studied microbial populations
+and redox processes in 37 samples taken from
+an aquifer contaminated by landfill-leachate near
+Grindsted, Denmark. As in other studies, this research
+demonstrates that landfill leachate modifies aquifer
+conditions to support enhanced growth of specific
+populations of bacteria and fungi. Numbers of all bacteria
+(by direct count) and biomass (by PLFA) were
+highest in the most contaminated portion of the aquifer,
+near the landfill margin. In this same area, methane
+production and sulfate reduction were observed,
+and numbers of methanogens and sulfate reducers
+(determined by most probable number, MPN) were
+greatest. Downgradient of the landfill margins, sulfate
+reducers could still be detected, as well as iron, manganese,
+and nitrate reducers. PLFA profiles also indicate
+that a shift in community composition occurred
+along the downgradient transect, and some specific
+PLFAs support the interpretation of increased abundance
+of sulfate reducers near the landfill border.
+However, no clear relationship was observed between
+PLFA biomarkers for specific redox-related populations
+and quantitative measures of redox processes in
+the same samples. Most samples exhibited more than
+one co-occurring redox activity, although usually one
+process dominated. This work substantiates the need
+to understand the structure of both communities and
+populations in contaminant plumes in order to interpret
+degradation processes.
+Fluctuations in recharge to shallow contaminant
+plumes can create temporal variability in geochemical
+conditions that is reflected in microbial population
+changes. Vroblesky and Chapelle (1994) describe
+changes in site TEAP zonation in response to the
+influx of sulfate with recharge. McGuire et al. (1999)
+document significant temporal variation, on the scale
+of months, in TEAP zonation in a groundwater plume
+containing fuel and chlorinated solvents near Oscoda,
+Michigan, USA. Concomitant changes were noted in
+results of DNA-based analyses of microbial-community
+structure at this site over similar temporal
+intervals (Haack and Reynolds 1999). At the same
+site, methanogen populations were studied using RNA
+extracted from active bacteria in the aquifer materials
+(Reynolds and Haack 1999). Results suggest that populations
+of methanogens (or other Archaea) were
+most abundant in materials where the data indicate
+that methanogenesis or sulfate reduction is the predominant
+TEAP during most of the year. Dramatic
+changes in methanogen (or other Archaea) abundance
+occurred over vertical intervals of less than 1 m on
+each tested date.
+An understanding of site geology, hydrology, and
+hydrochemistry is required to avoid misinterpreting
+TEAP zonation. Yager et al. (1997) carefully delineate
+the hydrogeologic setting of a fractured dolomite
+aquifer contaminated with chlorinated ethenes.
+Although methane and sulfide analyses in some wells
+suggest that methanogenesis or sulfate reduction is a
+possible TEAP, the authors were able to discount
+both degradative processes at the site, on the basis of
+hydrogen-gas analysis and by recognizing that the
+source of the methane and sulfide is from a deeper
+and non-contaminated aquifer unit. Background
+hydrochemistry also affects the availability of various
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+72
+electron donors and acceptors. For example, sulfate
+reduction may not be important in certain plumes
+because sulfate is not available in site pore waters
+(Baedecker et al. 1993; Bekins et al. 1999). Yager et
+al. (1997) conclude that reductive dechlorination of
+TCE is accelerated by addition of pulverized dolomite
+from one major geologic unit at the site. These
+authors hypothesize that electron donors in the dolomite
+(possibly carbon-rich bitumen) are responsible
+for this result.
+When ferric iron minerals are present at a site, bacterially
+catalyzed oxidation of aromatic hydrocarbons
+may be coupled to ferric-iron reduction (Lovley et al.
+1989). The presence and depletion of ferric iron may
+also affect the development of other TEAP zones
+within a contaminant plume. At the crude-oil contaminated
+site near Bemidji, Minnesota, Baedecker et al.
+(1993) report that degradation of the hydrocarbons by
+iron reduction initially dominated. However, as ferric
+iron was depleted (Tuccillo et al. 1999), narrow methanogenic
+zones formed in areas of high contaminant
+flux (Bekins et al. 1999). Degradation of benzene (Anderson
+et al. 1998; Rooney-Varga et al. 1999) and
+naphthalene (Anderson and Lovley 1999) occurred at
+the Bemidji site by ferric-iron reduction only in locations
+where ferric iron was not depleted, and such
+sites tended to be in downgradient locations, away
+from methanogenic zones. At these locations, the rate
+of anaerobic benzene or naphthalene degradation is
+related to the percentage of ferric iron in the aquifer
+materials (Anderson and Lovley 1999). These active
+locations have higher abundances of bacteria in the
+Geobacteraceae family (a ferric iron-reducing group)
+but do not contain overall abundances of ferric-ironreducing
+bacteria that are different from those at
+other site locations.
+Albrechtsen et al. (1995) observe that sediment
+samples taken from near a landfill had low concentrations
+of ferric iron, whereas those collected at more
+downgradient locations had higher concentrations.
+Negligible ferric-iron reduction was observed in the
+ferric-iron-depleted samples under in situ conditions,
+although the same samples amended with ferric iron
+and acetate carried out ferric-iron reduction. Likewise,
+submeter-scale intervals of sulfate reduction at a gasoline-contaminated
+site near Galloway, New Jersey,
+USA, are attributed to local depletion of microbially
+reducible solid iron-oxyhydroxides (Cozzarelli et al.
+1999).
+Variability in the physical structure of aquifer
+materials influences bacterial transport (Harvey et al.
+1993). Lawrence and Hendry (1996) review the role of
+geologic, hydrologic, and solute variables on bacterial
+transport through geologic media. Their review indicates
+that variations in site hydrogeology may significantly
+influence the location and structure of
+subsurface microbial communities by differential
+transport of bacteria. Aelion (1996) notes increased
+contamination and decreased biodegradation of jet
+fuel in clay-dominated samples relative to more permeable
+materials, taken from closely spaced vertical
+intervals at a single site. Ulrich et al. (1998), using
+micro-scale radiography, note decreased sulfate-reducing
+activity in clay layers of unconsolidated contaminated
+materials, as compared to sand layers.
+Ludvigsen et al. (1999) report that PFLA analyses
+reveal increased populations and changes in community
+structure in clay and silt lenses compared to
+sands in an aquifer contaminated by a landfill-leachate
+plume. These observations suggest that significant
+small-scale heterogeneity in biodegradation may be
+expected, simply due to heterogeneity in aquifer materials.
+Temperature
+Various bacterial genera are adapted to temperature
+extremes (Brock and Madigan 1989). Therefore,
+biodegradation might take place in especially cold or
+hot environments. Indeed, biodegradation of contaminants
+at low temperatures is documented (Atlas 1986;
+Braddock and McCarthy 1996). Conversion of toluene
+to carbon dioxide occurred at similar rates in materials
+from Alaska incubated at 5 C and from South Carolina
+incubated at 20 C (Bradley and Chapelle 1995).
+No similar study has been conducted at a high-temperature
+site, although various thermophilic bacteria
+capable of carrying out fermentative metabolism, sulfate
+reduction, or sulfide oxidation have been isolated
+from moderately high-temperature oil-field production
+waters (Stetter et al. 1993; L'Haridon et al. 1995).
+pH
+Acidic or alkaline conditions are relatively common in
+both pristine (Hem 1989) and contaminated groundwater.
+A pH of less than 6.5 exists at sites where degradation
+of creosote (Godsy et al. 1992), crude oil
+(Baedecker et al. 1993), or jet fuel (Chapelle et al.
+1996) has occurred. Although a circumneutral pH is
+commonly assumed to be the optimum for microbial
+biodegradative activity (Norris et al. 1994), few studies
+have been conducted on the effects of pH on intrinsic
+biodegradation. Stapleton et al. (1998b) report that
+naphthalene and toluene were degraded in effluents
+from a long-term coal pile storage basin that exhibits
+pH values as low as 2.0. They suggest that either the
+microbial community possesses unique degradative
+pathways not represented in commonly studied bacteria,
+or a consortium of microorganisms is required to
+carry out the degradation in this acidic environment.
+They note that common catabolic genes associated
+with the degradation of naphthalene and toluene in
+bacteria that require neutral pH could not be detected
+by DNA-based methods in samples. Instead, an undefined
+consortium of several bacteria, a fungus, and a
+yeast from the site did metabolize 27% of the supplied
+naphthalene in 1 week in laboratory tests.
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+73
+Nutrient Availability
+Many common organic contaminants (aromatic and
+chlorinated aliphatic hydrocarbons) are composed primarily
+of carbon and hydrogen. Therefore, nitrogen
+and phosphorus limitations are likely if the contaminant
+can be used as a carbon source by indigenous
+microbial populations (Ghiorse and Wilson 1988). At
+the crude-oil spill site in Minnesota, Bekins et al.
+(1999) observed that culturable methanogens are 100
+times higher in the contaminated unsaturated zone
+than in the plume below the water table. These results
+suggest that access to nutrients entering with recharge
+water is promoting microbial growth in the unsaturated
+zone. This finding is consistent with results
+from this site of Rogers et al. (1998), who observed
+that phosphate-bearing minerals placed in contaminated
+wells were dissolved and concluded that the
+microbial population was phosphate-limited. Franzmann
+et al. (1996), using PLFA profiles at a BTEXcontaminated
+site in Perth, Australia, report that
+levels of biomass increased with proximity to the root
+zone, suggesting that plants are a source of nutrients
+in the subsurface.
+Nutrient amendment to enhance hydrocarbon degradation
+in marine oil spills and contaminated soils is
+relatively common; however, the difficulties of delivering
+nutrients to the subsurface have prevented similar
+tests for most groundwater plumes. Fuller et al. (1995)
+demonstrate that the rate of TCE and toluene degradation
+in vadose-zone materials from a gasoline-contaminated
+site was limited by the availability of
+mineral nutrients. In contrast, Smith and Duff (1988)
+demonstrate that denitrification of nitrate, a primary
+contaminant in a sewage-effluent plume at Cape Cod,
+was electron-donor (carbon) limited in a zone 5±7 m
+thick that extends for several kilometers downgradient
+from the contaminant source. N and P were added to
+a plume of TCE undergoing aerobic degradation by
+methanotrophic bacteria at the Savannah River, South
+Carolina, site; this addition, however, had little effect
+on methanotroph numbers in the plume (Travis and
+Rosenberg 1997). These few results are not enough to
+suggest the general availability of nutrients in the subsurface,
+nor their effect on degradative processes.
+Contaminant Toxicity
+Contaminants may exert toxic effects on some bacteria
+or bacterial metabolic pathways. Many contaminant
+plumes contain mixtures of known organic
+contaminants together with other poorly characterized
+organic compounds, and, in some cases, heavy metals
+or other potentially toxic inorganic compounds. Exposure
+to various combinations of these contaminants is
+likely to have significant effects on microbial-population
+structure from one plume to another, but these
+effects remain poorly described. For example, toxic
+effects on hydrocarbon degradation have been noted
+for organosulfur compounds (Londry and Suflita
+1998). In addition, landfill leachate toxicity is hypothesized
+by Ludvigsen et al. (1999) to explain low concentrations
+of PFLAs and reduced rates of
+methanogenesis and sulfate reduction in the areas of
+highest leachate concentrations. The toxic effect of
+heavy metals on microbes is extensively documented
+(e.g., Collins and Stozky 1989), and heavy metals are
+known to decrease degradation rates of organic contaminants
+(e.g., Kuo and Genthner 1996). A better
+understanding, however, is needed of the in situ
+effects of heavy metals on degradation of organic contaminants.
+Hydrocarbons can also be toxic to bacteria (Sikkema
+et al. 1995). Although Mormile and Suflita (1996) indicate
+that no inhibition of methanogenesis occurred by
+selected gasoline hydrocarbons, other studies document
+significant hydrocarbon toxicity effects. Guo et al.
+(1997) report that the detection of the xylE gene
+increased with aromatic hydrocarbon concentrations on
+materials of up to 100 mg/kg, but detection decreased
+at higher concentrations, perhaps due to toxicity. Similarly,
+decreased populations in response to increased
+gasoline concentrations are noted by Long et al. (1995).
+Fries et al. (1997) document sensitivity of toluene-degrading
+bacterial isolates from contaminated plumes to
+the concentration of toluene, and Song and Bartha
+(1990) conclude that enzymatic activity is inhibited by
+some jet-fuel components. Likewise, Warren et al.
+(1999) note toxicity of crude oil to acetate-utilizing
+methanogens. Within the crude-oil plume, acetate-utilizing
+methanogens were detected only at locations distant
+from the non-aqueous oil body. In laboratory
+microcosms, gas production from added acetate was
+inhibited by the presence of crude oil. Laboratory studies
+of acetate-utilizing methanogens from a creosotewaste-contaminated
+site indicate that they also are
+inhibited by the soluble fraction of the creosote compounds
+(Bekins et al. 1997).
+Summary and Conclusions
+Studies of contaminant plumes show that subsurface
+microbial populations adapt to contaminant plumes in
+several ways. At all studied sites, either the activity or
+the number of specific degraders has increased. In
+most cases, non-specific measures of microbial
+numbers also indicate an increase. Studies of increases
+in degradative genes within plumes using molecular
+methods are beginning to yield insights into the mechanisms
+of adaptation. Evidence exists that new contaminant-degrading
+genes unique to a site may be
+formed from previously existing non-degradative
+genes. In other cases, evidence for transfer of a contaminant-degradation
+gene between species has been
+documented. The results of many studies, however,
+are less conclusive. Two important difficulties may
+explain some of the inconclusive results. First, the use
+of molecular methods is limited to genes that either
+Hydrogeology Journal (2000) 8 : 63±76  Springer-Verlag
+74
+are known or can be isolated from the environment.
+However, ample evidence indicates that most degradative
+genes, particularly those for anaerobic degradation,
+are still unknown. Second, many studies indicate
+strong spatial variability in physiologic type and
+genetic capabilities. These results suggest that a better
+understanding is needed of how spatial variation in
+the subsurface environment results in microbial variability.
+Evidence shows that degradation reactions are carried
+out by interacting communities of microorganisms
+with different capabilities working in concert. For
+example, many types of bacteria capable of degrading
+a single compound may be present at a site, but they
+may differ in degradative genes used, degradation
+rates, or growth characteristics. Moreover, highly
+related bacteria may grow on different compounds of
+a complex mixture of organics such as gasoline. Presumably,
+this specialization reduces competition for
+substrates in contaminant plumes. The necessity for
+coordinated action of a consortium in methanogenic
+degradation of organics has been well documented in
+the laboratory, and recently known members of a
+methanogenic consortium were observed in a fueland
+solvent-contaminated aquifer. The role of protozoan
+predation in structuring microbial populations is
+important at some sites.
+Numerous features of subsurface environments
+exert significant influence on microbial community
+structure and on the processes that these communities
+carry out under pristine or contaminated conditions.
+These features include pore-water chemistry, permeability,
+grain size, mineralogy, recharge characteristics,
+temperature, and susceptibility to seasonal variations
+in factors such as temperature and recharge. Features
+such as these might be used to categorize subsurface
+environments, in much the same way that lakes,
+streams, or soils can be grouped by physical and
+chemical features that influence microbial activity.
+This review highlights promising results on the
+numbers, types, and activities of bacteria in contaminant
+plumes. As more studies become available from
+culture-based and molecular approaches, a synthesis
+of very practical information for the remediation community
+will evolve.

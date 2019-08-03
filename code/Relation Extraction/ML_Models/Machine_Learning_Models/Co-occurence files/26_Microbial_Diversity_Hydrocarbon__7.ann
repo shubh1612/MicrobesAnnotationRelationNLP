@@ -1,0 +1,21 @@
+T1	Environment 964 981	methanogenic soil
+T2	ReactionOrProcess 1539 1556	sulfate reduction
+T3	Microbes 2270 2286	Methanosaeta spp
+T4	Microbes 2212 2224	Methanosaeta
+T5	Environment 2155 2177	methanogenic zone soil
+T6	ReactionOrProcess 2375 2389	methanogenesis
+T7	ReactionOrProcess 2491 2505	methanogenesis
+T8	Environment 2580 2602	methanogenic zone soil
+T9	Substrate 2756 2770	Syntrophus spp	
+T10	ReactionOrProcess 2795 2814	anaerobic oxidation
+T11	Microbes 3094 3107	Desulfovibrio
+T12	Microbes 3065 3081	Methanospirillum
+T13	ReactionOrProcess 3150 3161	utilization
+T14	ReactionOrProcess 3332 3354	syntrophic association
+T15	Property 3557 3569	methanogenic
+T16	ReactionOrProcess 3667 3703	methanogenic hydrocarbon degradation
+T17	ReactionOrProcess 3887 3890	PCR
+T18	ReactionOrProcess 3896 3903	cloning
+T19	ReactionOrProcess 3871 3885	DNA extraction
+T20	ReactionOrProcess 4086 4095	extracted
+T21	ReactionOrProcess 4069 4082	hybridization

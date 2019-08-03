@@ -1,0 +1,21 @@
+T1	Environment 315 323	seawater
+T2	ReactionOrProcess 614 623	extracted
+T3	ReactionOrProcess 595 605	extraction
+T4	ReactionOrProcess 591 605	DNA extraction
+T5	Substrate 1047 1053	phenol
+T6	Substrate 1639 1649	chloroform
+T7	Environment 1991 1995	Soil
+T8	ReactionOrProcess 2000 2010	extraction
+T9	ReactionOrProcess 1996 2010	DNA extraction
+T10	ReactionOrProcess 2082 2106	16S rRNA gene sequencing
+T11	ReactionOrProcess 2406 2409	PCR
+T12	ReactionOrProcess 2432 2435	PCR
+T13	ReactionOrProcess 3227 3237	extraction
+T14	ReactionOrProcess 3361 3372	extractions
+T15	ReactionOrProcess 3443 3454	degradation
+T16	ReactionOrProcess 3559 3569	extraction
+T17	Environment 3624 3629	plume
+T18	Environment 3687 3692	plume
+T19	ReactionOrProcess 3585 3594	extracted
+T20	ReactionOrProcess 3778 3787	extracted
+T21	ReactionOrProcess 4052 4063	degradation

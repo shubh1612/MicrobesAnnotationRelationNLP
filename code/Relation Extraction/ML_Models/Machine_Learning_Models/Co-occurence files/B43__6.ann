@@ -1,0 +1,124 @@
+T1	Substrate 147 151	BTEX
+T2	Substrate 180 187	alkanes
+T3	Substrate 163 174	naphthalene
+T4	Substrate 112 127	common fuel oil
+T5	ReactionOrProcess 98 108	catabolism
+T6	Substrate 353 371	aromatic compounds
+T7	ReactionOrProcess 338 349	degradation
+T8	Environment 466 491	underground storage tanks
+T9	Substrate 430 441	hydrocarbon
+T10	Environment 565 570	soils
+T11	Substrate 628 635	toluene
+T12	Substrate 664 675	naphthalene
+T13	Substrate 646 658	ethylbenzene
+T14	Substrate 637 644	xylenes
+T15	Substrate 594 597	oil
+T16	ReactionOrProcess 786 796	catabolize
+T17	Microbes 1056 1060	xylE
+T18	Environment 1016 1037	noncontaminated soils
+T19	Environment 1236 1241	soils
+T20	Substrate 1210 1218	gasoline
+T21	Substrate 1165 1172	xylenes
+T22	Microbes 1296 1305	alkB gene
+T23	Substrate 1337 1344	alkanes
+T24	Substrate 1381 1402	gasoline hydrocarbons
+T25	ReactionOrProcess 1258 1271	hybridization
+T26	Substrate 1516 1519	oil
+T27	ReactionOrProcess 1610 1613	PCR
+T28	Substrate 1682 1697	catabolic genes
+T29	Environment 1918 1922	soil
+T30	Environment 1829 1834	soils
+T31	Substrate 1885 1903	aromatic compounds
+T32	ReactionOrProcess 1862 1873	utilization
+T33	Environment 1978 1996	contaminated sites
+T34	Environment 2081 2099	contaminated sites
+T35	Property 2025 2039	concentrations
+T36	Substrate 2238 2259	aromatic hydrocarbons
+T37	Substrate 2183 2198	catabolic genes
+T38	Property 2207 2221	concentrations
+T39	ReactionOrProcess 2162 2175	hybridization
+T40	Property 2302 2316	concentrations
+T41	Microbes 2431 2435	xylE
+T42	Substrate 2527 2544	aromatic compound
+T43	Property 2545 2558	concentration
+T44	Property 2369 2383	concentrations
+T45	Property 2400 2409	aromatics
+T46	ReactionOrProcess 2414 2427	hybridization
+T47	ReactionOrProcess 2478 2491	hybridization
+T48	Substrate 2613 2621	gasoline
+T49	Substrate 2577 2601	
+T50	Property 2733 2747	concentrations
+T51	Property 2626 2631	toxic
+T52	Property 2681 2689	toxicity
+T53	Environment 2785 2794	microcosm
+T54	Environment 2879 2883	soil
+T55	Substrate 2852 2860	gasoline
+T56	Property 2817 2831	concentrations
+T57	ReactionOrProcess 2749 2759	
+T58	Environment 2927 2937	microcosms
+T59	Substrate 2906 2914	gasoline
+T60	Substrate 2957 2989	aromatic hydrocarbons/g gasoline
+T61	Environment 3067 3071	soil
+T62	Property 3039 3048	aromatics
+T63	ReactionOrProcess 3114 3124	inhibition
+T64	Environment 3461 3471	microcosms
+T65	Environment 3545 3555	microcosms
+T66	Substrate 3437 3445	gasoline
+T67	Substrate 3276 3292	simple aromatics
+T68	Substrate 3351 3370	short-chain alkanes
+T69	Property 3345 3350	toxic
+T70	ReactionOrProcess 3302 3310	degraded
+T71	ReactionOrProcess 3601 3615	volatilization
+T72	Substrate 3648 3656	gasoline
+T73	Substrate 3741 3749	gasoline
+T74	Property 3724 3737	concentration
+T75	ReactionOrProcess 3802 3816	volatilization
+T76	Environment 3876 3886	microcosms
+T77	Substrate 3847 3855	gasoline
+T78	Substrate 3932 3940	gasoline
+T79	Property 3829 3843	concentrations
+T80	ReactionOrProcess 3999 4012	hybridization
+T81	Environment 4222 4231	microcosm
+T82	Environment 4106 4110	soil
+T83	Substrate 4095 4103	gasoline
+T84	Substrate 4162 4177	catabolic genes
+T85	Property 4044 4057	concentration
+T86	ReactionOrProcess 4141 4154	hybridization
+T87	Substrate 4452 4460	gasoline
+T88	Substrate 4300 4315	catabolic genes
+T89	ReactionOrProcess 4416 4426	incubation
+T90	ReactionOrProcess 4269 4282	
+T91	Substrate 4478 4485	toluene
+T92	Substrate 4499 4510	naphthalene
+T93	Substrate 4487 4494	xylenes
+T94	Substrate 4596 4614	aromatic compounds
+T95	ReactionOrProcess 4692 4703	volatilized
+T96	ReactionOrProcess 4680 4688	degraded
+T97	Property 4944 4958	concentrations
+T98	ReactionOrProcess 5000 5011	volatilized
+T99	ReactionOrProcess 4988 4996	degraded
+T100	ReactionOrProcess 4748 4761	hybridization
+T101	Nutrient 5069 5075	carbon
+T102	ReactionOrProcess 5227 5240	hybridization
+R1	CarriedOn Arg1:T5 Arg2:T1
+R2	CarriedOn Arg1:T5 Arg2:T2
+R3	CarriedOn Arg1:T5 Arg2:T3
+R4	CarriedOn Arg1:T5 Arg2:T4
+R5	CarriedOn Arg1:T7 Arg2:T6
+R12	FoundIn Arg1:T17 Arg2:T18
+R15	CarriedOn Arg1:T25 Arg2:T22
+R19	CarriedOn Arg1:T32 Arg2:T31
+R22	CarriedOn Arg1:T39 Arg2:T36
+R23	CarriedOn Arg1:T39 Arg2:T37
+R25	Of Arg1:T41 Arg2:T44
+R26	Of Arg1:T41 Arg2:T45
+R28	CarriedOn Arg1:T46 Arg2:T41
+R33	OccursIn Arg1:T57 Arg2:T53
+R37	CarriedOn Arg1:T70 Arg2:T67
+R38	CarriedOn Arg1:T70 Arg2:T68
+R45	OccursIn Arg1:T71 Arg2:T65
+R52	CarriedOn Arg1:T86 Arg2:T84
+R54	OccursIn Arg1:T86 Arg2:T82
+R55	CarriedOn Arg1:T89 Arg2:T87
+R58	CarriedOn Arg1:T90 Arg2:T88
+R60	CarriedOn Arg1:T96 Arg2:T94

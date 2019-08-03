@@ -1,0 +1,103 @@
+T1	Substrate 189 200	hydrocarbon
+T2	Substrate 185 188	oil
+T3	Substrate 245 248	oil
+T4	Property 124 135	temperature
+T5	ReactionOrProcess 214 224	weathering
+T6	Nutrient 157 163	oxygen
+T7	Environment 522 530	sediment
+T8	Environment 409 420	Beach sands
+T9	Property 255 267	Temperatures
+T10	Property 546 559	concentration
+T11	Property 478 492	concentrations
+T12	Nutrient 363 369	oxygen
+T13	Nutrient 471 477	oxygen
+T14	Nutrient 539 545	oxygen
+T15	Substrate 661 664	oil
+T16	Environment 813 821	seawater
+T17	Environment 686 696	beach sand
+T18	Environment 784 789	sands
+T19	Property 798 807	saturated
+T20	Environment 968 979	Beach sands
+T21	ReactionOrProcess 941 950	depletion
+T22	Environment 1124 1130	waters
+T23	Property 1081 1090	dissolved
+T24	ReactionOrProcess 1041 1050	depletion
+T25	Nutrient 1021 1027	carbon
+T26	Microbes 1338 1357	Gammaproteobacteria
+T27	Microbes 1362 1381	Alphaproteobacteria
+T28	Environment 1169 1181	marine sands
+T29	Environment 1241 1252	Beach sands
+T30	Environment 1438 1449	beach sands
+T31	Environment 1745 1751	marine
+T32	Environment 1600 1611	beach sands
+T33	Environment 1760 1765	soils
+T34	Environment 1899 1910	Beach sands
+T35	Substrate 1929 1932	oil
+T36	Environment 2046 2050	sand
+T37	Substrate 1990 2002	embedded oil
+T38	Environment 2225 2231	marine
+T39	Substrate 2396 2418	degradable hydrocarbon
+T40	Property 2449 2458	aromatics
+T41	ReactionOrProcess 2366 2377	utilization
+T42	Environment 2534 2545	beach sands
+T43	Substrate 2561 2564	oil
+T44	Microbes 2756 2775	Gammaproteobacteria
+T45	Microbes 2804 2823	Alphaproteobacteria
+T46	Environment 2866 2881	marine sediment
+T47	Substrate 2919 2931	hydrocarbons
+T48	Substrate 2915 2918	oil
+T49	Microbes 3046 3065	Gammaproteobacteria
+T50	Environment 3089 3100	Beach sands
+T51	Substrate 3371 3387	branched alkanes
+T52	Substrate 3321 3343	saturated hydrocarbons
+T53	ReactionOrProcess 3233 3256	hydrocarbon degradation
+T54	Microbes 3512 3525	Acinetobacter
+T55	Microbes 3527 3539	Marinobacter
+T56	Microbes 3441 3460	Gammaproteobacteria
+T57	Substrate 3776 3783	alkanes
+T58	Substrate 3725 3757	polycyclic aromatic hydrocarbons
+T59	ReactionOrProcess 3619 3642	hydrocarbon degradation
+T60	ReactionOrProcess 3717 3724	degrade
+T61	ReactionOrProcess 3873 3888	oil degradation
+T62	Microbes 3973 3989	Rhodobacteraceae
+T63	Microbes 4004 4023	Alphaproteobacteria
+T64	Substrate 4092 4095	oil
+T65	Microbes 4116 4132	Rhodobacteraceae
+T66	Environment 4212 4229	Beach oiled sands
+T67	Substrate 4290 4319	recalcitrant oil hydrocarbons
+T68	ReactionOrProcess 4270 4281	degradation
+T69	Microbes 4415 4434	Alphaproteobacteria
+T70	Environment 4341 4367	weathered marine sediments
+T71	Substrate 4391 4398	alkanes
+T72	Substrate 4629 4633	PAHs
+T73	ReactionOrProcess 4621 4628	degrade
+T74	Microbes 4756 4772	Rhodobacteraceae
+T75	Environment 4932 4938	marine
+T76	Microbes 4983 5002	Alphaproteobacteria
+T77	Substrate 5058 5061	oil
+T78	ReactionOrProcess 5041 5048	degrade
+R1	FoundIn Arg1:T26 Arg2:T28
+R2	FoundIn Arg1:T26 Arg2:T29
+R3	FoundIn Arg1:T27 Arg2:T28
+R4	FoundIn Arg1:T27 Arg2:T29
+R5	FoundIn Arg1:T44 Arg2:T46
+R6	FoundIn Arg1:T45 Arg2:T46
+R7	ActOn Arg1:T44 Arg2:T47
+R8	ActOn Arg1:T44 Arg2:T48
+R9	ActOn Arg1:T45 Arg2:T47
+R10	ActOn Arg1:T45 Arg2:T48
+R11	FoundIn Arg1:T49 Arg2:T50
+R12	ActOn Arg1:T54 Arg2:T57
+R13	ActOn Arg1:T54 Arg2:T58
+R14	ActOn Arg1:T55 Arg2:T57
+R15	ActOn Arg1:T55 Arg2:T58
+R16	ActOn Arg1:T56 Arg2:T57
+R17	ActOn Arg1:T56 Arg2:T58
+R18	ActOn Arg1:T62 Arg2:T64
+R19	ActOn Arg1:T63 Arg2:T64
+R20	FoundIn Arg1:T65 Arg2:T66
+R21	ActOn Arg1:T65 Arg2:T67
+R22	FoundIn Arg1:T69 Arg2:T70
+R23	ActOn Arg1:T69 Arg2:T71
+R24	ActOn Arg1:T69 Arg2:T72
+R25	ActOn Arg1:T76 Arg2:T77

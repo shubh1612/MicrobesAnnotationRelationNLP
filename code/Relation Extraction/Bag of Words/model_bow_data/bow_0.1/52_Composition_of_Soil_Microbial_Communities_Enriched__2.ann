@@ -1,0 +1,81 @@
+T1	Environment 28 32	soil
+T2	Environment 15 32	contaminated soil
+T3	ReactionOrProcess 65 79	bioremediation
+T4	ReactionOrProcess 149 158	isolation
+T5	Substrate 270 277	benzene
+T6	Substrate 337 348	naphthalene
+T7	Substrate 288 295	xylenes
+T8	Substrate 321 330	p-xylenes
+T9	Substrate 279 286	styrene
+T10	ReactionOrProcess 397 406	isolation
+T11	ReactionOrProcess 187 196	Isolation
+T12	Nutrient 367 373	carbon
+R1	CarriedOn Arg1:T11 Arg2:T5
+R2	CarriedOn Arg1:T11 Arg2:T6
+R3	CarriedOn Arg1:T11 Arg2:T7
+R4	CarriedOn Arg1:T11 Arg2:T8
+R5	CarriedOn Arg1:T11 Arg2:T9
+T13	Environment 474 499	contaminated soil samples
+T14	Environment 487 499	soil samples
+T15	Environment 487 491	soil
+T16	Environment 474 491	contaminated soil
+T17	ReactionOrProcess 459 470	enrichments
+T18	Nutrient 542 546	agar
+T19	Environment 714 720	vacuum
+T20	Substrate 649 660	hydrocarbon
+T21	Substrate 785 796	hydrocarbon
+T22	Substrate 726 729	oil
+T23	Property 602 613	temperature
+T24	Property 677 690	concentration
+T25	Property 763 776	concentration
+T26	ReactionOrProcess 584 593	incubated
+R6	CarriedOn Arg1:T26 Arg2:T22
+T27	Property 930 936	Purity
+T28	Nutrient 1005 1009	agar
+T29	ReactionOrProcess 1129 1144	dot blot assays
+T30	ReactionOrProcess 1316 1325	denatured
+T31	ReactionOrProcess 1402 1411	denatured
+T32	ReactionOrProcess 1616 1640	16S rRNA gene sequencing
+T33	ReactionOrProcess 1644 1647	PCR
+T34	ReactionOrProcess 1842 1875	basic local alignment search tool
+T35	Microbes 2030 2049	enrichment cultures
+T36	Microbes 2065 2084	enrichment cultures
+T37	Environment 2025 2029	soil
+T38	Environment 2110 2114	soil
+T39	Substrate 2239 2250	hydrocarbon
+T40	ReactionOrProcess 2030 2040	enrichment
+T41	ReactionOrProcess 2065 2075	enrichment
+R7	CarriedOn Arg1:T40 Arg2:T39
+R8	CarriedOn Arg1:T41 Arg2:T39
+T42	Substrate 2390 2397	benzene
+T43	Substrate 2414 2421	toluene
+T44	Substrate 2454 2465	naphthalene
+T45	Substrate 2403 2407	DCPD
+T46	Substrate 2426 2433	styrene
+T47	ReactionOrProcess 2275 2284	incubated
+R9	CarriedOn Arg1:T47 Arg2:T42
+R10	CarriedOn Arg1:T47 Arg2:T43
+R11	CarriedOn Arg1:T47 Arg2:T44
+R12	CarriedOn Arg1:T47 Arg2:T45
+R13	CarriedOn Arg1:T47 Arg2:T46
+T48	Environment 2707 2711	soil
+T49	ReactionOrProcess 2889 2893	RSGP
+T50	ReactionOrProcess 2852 2861	isolation
+T51	Nutrient 2799 2803	agar
+T52	ReactionOrProcess 3059 3063	RSGP
+T53	ReactionOrProcess 3339 3348	denatured
+T54	Microbes 3791 3810	enrichment cultures
+T55	Substrate 3708 3719	Hydrocarbon
+T56	ReactionOrProcess 3708 3731	Hydrocarbon degradation
+T57	ReactionOrProcess 3791 3801	enrichment
+T58	ReactionOrProcess 3720 3731	degradation
+T59	ReactionOrProcess 3761 3772	degradation
+R14	CarriedOn Arg1:T56 Arg2:T54
+R15	CarriedOn Arg1:T58 Arg2:T54
+R16	CarriedOn Arg1:T59 Arg2:T54
+T60	Microbes 3847 3866	enrichment cultures
+T61	ReactionOrProcess 3847 3857	enrichment
+T62	ReactionOrProcess 3945 3955	enrichment
+T63	ReactionOrProcess 4117 4123	washed
+T64	ReactionOrProcess 4139 4150	resuspended
+T65	ReactionOrProcess 4093 4107	centrifugation

@@ -1,0 +1,113 @@
+T1	Microbes 143 160	Sphingomonadaceae
+T2	Microbes 106 122	α-Proteobacteria
+T3	Microbes 213 229	γ-Proteobacteria
+T4	Environment 182 199	contaminated soil
+T5	ReactionOrProcess 55 69	bioremediation
+T6	Microbes 480 496	α-Proteobacteria
+T7	Microbes 556 572	α-Proteobacteria
+T8	Microbes 430 446	γ-Proteobacteria
+T9	Microbes 577 593	γ-Proteobacteria
+T10	ReactionOrProcess 398 408	incubation
+T11	ReactionOrProcess 313 327	biodegradation
+T12	Microbes 1034 1050	α-Proteobacteria
+T13	Microbes 853 869	γ-Proteobacteria
+T14	Microbes 1207 1223	γ-Proteobacteria
+T15	Substrate 812 815	TPH
+T16	Substrate 935 938	TPH
+T17	Property 816 829	concentration
+T18	Property 939 952	concentration
+T19	Microbes 1438 1454	α-Proteobacteria
+T20	Microbes 1459 1475	γ-Proteobacteria
+T21	Substrate 1601 1611	anthracene
+T22	Substrate 1248 1251	PAH
+T23	Substrate 1571 1583	phenanthrene
+T24	Substrate 1537 1549	fluoranthene
+T25	Substrate 1405 1413	chrysene
+T26	Substrate 1373 1379	pyrene
+T27	Property 1252 1266	concentrations
+T28	Property 1414 1428	concentrations
+T29	Substrate 1688 1692	PAHs
+T30	Microbes 1750 1766	α-Proteobacteria
+T31	Substrate 1864 1876	fluoranthene
+T32	Substrate 1881 1887	pyrene
+T33	Substrate 1988 1998	anthracene
+T34	Substrate 1974 1986	phenanthrene
+T35	Substrate 2024 2032	chrysene
+T36	Microbes 2054 2070	
+T37	Substrate 2105 2108	PAH
+T38	Property 2109 2123	concentrations
+T39	ReactionOrProcess 2175 2190	bioaugmentation
+T40	ReactionOrProcess 2306 2321	bioaugmentation
+T41	ReactionOrProcess 2194 2233	denaturing gradient gel electrophoresis
+T42	ReactionOrProcess 2287 2301	biostimulation
+T43	Microbes 2455 2463	inoculum
+T44	Environment 2478 2493	inoculated soil
+T45	ReactionOrProcess 2435 2439	DGGE
+T46	Microbes 2752 2760	inoculum
+T47	ReactionOrProcess 2854 2872	PAH biodegradation
+T48	ReactionOrProcess 2567 2578	inoculation
+T49	ReactionOrProcess 2936 2951	bioaugmentation
+T50	ReactionOrProcess 2899 2903	DGGE
+T51	ReactionOrProcess 2917 2931	biostimulation
+T52	Microbes 3071 3079	inoculum
+T53	Substrate 3201 3205	PAHs
+T54	Substrate 3210 3213	TPH
+T55	ReactionOrProcess 3021 3035	biodegradation
+T56	ReactionOrProcess 3183 3197	biodegradation
+T57	Nutrient 2974 2976	
+T58	Environment 3275 3303	A creosote-contaminated soil
+T59	Environment 3680 3684	soil
+T60	ReactionOrProcess 3558 3573	TPH degradation
+T61	Substrate 3740 3772	polycyclic aromatic hydrocarbons
+T62	ReactionOrProcess 3842 3856	bioremediation
+T63	ReactionOrProcess 3789 3804	TPH degradation
+T64	ReactionOrProcess 3725 3736	degradation
+T65	Substrate 3947 3950	PAH
+T66	Substrate 3994 3997	PAH
+T67	Property 3988 3993	toxic
+T68	ReactionOrProcess 3972 3984	accumulation
+T69	ReactionOrProcess 4019 4029	enrichment
+T70	Substrate 4242 4245	PAH
+T71	Substrate 4301 4304	PAH
+T72	Substrate 4201 4205	PAHs
+T73	Property 4246 4255	degraders
+T74	ReactionOrProcess 4188 4197	oxidation
+T75	ReactionOrProcess 4145 4157	accumulation
+T76	ReactionOrProcess 4286 4297	degradation
+T77	Environment 4516 4520	soil
+T78	Environment 4559 4563	soil
+T79	Environment 4632 4636	soil
+T80	Property 4637 4645	toxicity
+T81	ReactionOrProcess 4619 4628	reduction
+T82	Environment 4732 4740	dry soil
+T83	Environment 4878 4882	soil
+T84	Environment 4824 4829	water
+T85	Substrate 4767 4770	TPH
+T86	Property 4771 4784	concentration
+T87	ReactionOrProcess 4883 4897	bioremediation
+T88	Nutrient 4991 4999	nitrogen
+T89	ReactionOrProcess 5166 5176	inhibition
+T90	Environment 5327 5355	a creosote-contaminated soil
+R3	FoundIn Arg1:T3 Arg2:T4
+R7	OccursIn Arg1:T5 Arg2:T4
+R10	CarriedOn Arg1:T10 Arg2:T8
+R12	CarriedOn Arg1:T11 Arg2:T6
+R13	CarriedOn Arg1:T11 Arg2:T7
+R14	CarriedOn Arg1:T11 Arg2:T8
+R29	Of Arg1:T19 Arg2:T28
+R35	ActOn Arg1:T19 Arg2:T24
+R44	ActOn Arg1:T30 Arg2:T31
+R45	ActOn Arg1:T30 Arg2:T32
+R46	Of Arg1:T36 Arg2:T38
+R49	CarriedOn Arg1:T45 Arg2:T43
+R51	CarriedOn Arg1:T47 Arg2:T46
+R59	CarriedOn Arg1:T56 Arg2:T53
+R60	CarriedOn Arg1:T56 Arg2:T54
+R63	CarriedOn Arg1:T63 Arg2:T61
+R64	CarriedOn Arg1:T64 Arg2:T61
+R66	CarriedOn Arg1:T68 Arg2:T66
+R68	CarriedOn Arg1:T69 Arg2:T66
+R71	CarriedOn Arg1:T74 Arg2:T72
+R76	CarriedOn Arg1:T76 Arg2:T71
+R79	OccursIn Arg1:T81 Arg2:T79
+R82	OccursIn Arg1:T87 Arg2:T83

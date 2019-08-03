@@ -1,0 +1,44 @@
+T1	Microbes 217 229	Sphingomonas
+T2	Enzyme 244 269	catechol 2,3-dioxygenases
+T3	Substrate 314 332	aromatic compounds
+T4	Substrate 347 354	xylenes
+T5	Substrate 302 332	single-ring aromatic compounds
+T6	Substrate 314 332	aromatic compounds
+T7	Property 314 322	aromatic
+T8	ReactionOrProcess 287 298	degradation
+R1	CarriedOn Arg1:T8 Arg2:T3
+R2	CarriedOn Arg1:T8 Arg2:T4
+R3	CarriedOn Arg1:T8 Arg2:T5
+R4	CarriedOn Arg1:T8 Arg2:T6
+T9	Microbes 840 849	P. putida
+T10	Substrate 753 759	phenol
+T11	ReactionOrProcess 738 749	degradation
+R5	CarriedOn Arg1:T11 Arg2:T9
+R6	CarriedOn Arg1:T11 Arg2:T10
+T12	Substrate 899 905	phenol
+T13	Property 1056 1067	degradative
+T14	ReactionOrProcess 988 999	degradation
+T15	ReactionOrProcess 1649 1660	degradation
+T16	Enzyme 1751 1776	catechol 2,3-dioxygenases
+T17	Substrate 1824 1842	aromatic compounds
+T18	Substrate 1857 1863	phenol
+T19	Substrate 1812 1842	single-ring aromatic compounds
+T20	Substrate 1824 1842	aromatic compounds
+T21	Property 1824 1832	aromatic
+T22	ReactionOrProcess 1797 1808	degradation
+R7	CarriedOn Arg1:T22 Arg2:T17
+R8	CarriedOn Arg1:T22 Arg2:T18
+R9	CarriedOn Arg1:T22 Arg2:T19
+R10	CarriedOn Arg1:T22 Arg2:T20
+T23	Microbes 1956 1965	Ralstonia
+T24	Microbes 1988 2004	γ-Proteobacteria
+T25	Enzyme 2507 2531	catechol 2,3-dioxygenase
+T26	Enzyme 2786 2810	catechol 2,3-dioxygenase
+T27	Microbes 2935 2942	E. coli
+T28	Enzyme 3150 3174	catechol 2,3-dioxygenase
+T29	Nutrient 3065 3069	agar
+T30	ReactionOrProcess 3449 3460	degradation
+T31	Microbes 4340 4362	Comamonas testosteroni
+T32	Substrate 4182 4188	phenol
+T33	Substrate 4234 4240	phenol
+T34	Substrate 4289 4295	phenol

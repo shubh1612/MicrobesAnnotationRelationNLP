@@ -1,0 +1,648 @@
+A28
+Microbial Activity and Community Composition during Bioremediation of Diesel-Oil-Contaminated Soil: Effects of Hydrocarbon Concentration, Fertilizers, and Incubation Time
+Authors
+Authors and affiliations
+Rosa MargesinEmail authorMarion HämmerleDagmar Tscherko
+1.
+2.
+Article
+First Online: 31 January 2007
+DOI: 10.1007/s00248-006-9136-7
+Cite this article as:
+Margesin, R., Hämmerle, M. & Tscherko, D. Microb Ecol (2007) 53: 259. doi:10.1007/s00248-006-9136-7
+82
+Citations  
+1.6k
+Downloads
+Abstract
+We investigated the influence of three factors—diesel oil concentration [2500, 5000, 10,000, 20,000 mg total petroleum hydrocarbons (TPH) kg−1 soil], biostimulation (unfertilized, inorganic fertilization with NPK nutrients, or oleophilic fertilization with Inipol EAP22), and incubation time—on hydrocarbon removal, enzyme activity (lipase), and microbial community structure [phospholipid fatty acids (PLFA)] in a laboratory soil bioremediation treatment. Fertilization enhanced TPH removal and lipase activity significantly (P ≤ 0.001). The higher the initial contamination, the more marked was the effect of fertilization. Differences between the two fertilizers were not significant (P > 0.05). Microbial communities, as assessed by PLFA patterns, were primarily influenced by the TPH content, followed by fertilization, and the interaction of these two factors, whereas incubation time was of minor importance. This was demonstrated by three-factorial analysis of variance and multidimensional scaling analysis. Low TPH content had no significant effect on soil microbial community, independent of the treatment. High TPH content generally resulted in increased PLFA concentrations, whereby a significant increase in microbial biomass with time was only observed with inorganic fertilization, whereas oleophilic fertilization (Inipol EAP22) tended to inhibit microbial activity and to reduce PLFA contents with time. Among bacteria, PLFA indicative of the Gram-negative population were significantly (P ≤ 0.05) increased in soil samples containing high amounts of diesel oil and fertilized with NPK after 21–38 days of incubation at 20°C. The Gram-positive population was not significantly influenced by TPH content or biostimulation treatment.
+
+Download fulltext PDF
+Introduction
+The most widely distributed environmental pollution can be attributed to contamination with petroleum hydrocarbons, caused by tanker accidents, storage tank ruptures, pipeline leaks, and transport accidents. Bioremediation of soils contaminated with petroleum hydrocarbons has been established as an efficient, economic, versatile, and environmentally sound treatment [40, 41]. This alternative reclamation technique exploits the ability of microorganisms to degrade and/or detoxify organic compounds, and attempts to accelerate natural biodegradation rates. The intensity of hydrocarbon metabolization in soil is influenced by a number of factors, including site-specific (soil properties, temperature, oxygen, pollution history, hydrogeology, geochemistry) and contaminant-specific (composition, concentration, age, bioavailability) factors. Limiting factors need to be overcome if microbial breakdown of contaminants is to be used effectively [1, 17, 35].
+
+The most widely used bioremediation procedure is biostimulation of the indigenous microorganisms by the addition of nutrients, as inputs of large quantities of carbon sources (i.e., hydrocarbon contamination) tend to result in rapid depletion of the available pools of major inorganic nutrients, such as nitrogen and phosphorus [1]. Several laboratory and field experiments with inorganic and organic fertilizers have shown positive effects on petroleum hydrocarbon decontamination in soil ecosystems [6, 9, 14, 29, 43]. However, the effect of hydrocarbon concentration on bioremediation efficiency has been rarely considered.
+
+Various methods are used to monitor and characterize hydrocarbon-degrading populations in soil [32]. Changes in environmental conditions may result in a shift in the species composition of the soil microbiota and modification of their metabolic rate. Soil biological investigations, such as enzyme activities and microbial counts, provide information on the presence of viable microorganisms and on the impact of the effects of environmental stress, such as contamination, on the metabolic activity of soil [4, 25, 33]. Products released from hydrocarbon biodegradation are the substrate for hydrolases including esterases–lipases. Therefore, soil lipase activity is a valuable tool to monitor biodegradation of petroleum hydrocarbons, such as diesel oil, in freshly contaminated soil [28, 34]. Direct, molecular methods, such as soil DNA profiling or phospholipid fatty acid (PLFA) profiling, provide information on the microbial community structure that is not based on culturing of microorganisms [22, 26, 44]. Examination of microbial populations using PLFA analysis is a well-characterized and powerful technique. Its suitability for profiling microbial communities in hydrocarbon-contaminated soils has been demonstrated in a number of studies [9, 10, 21, 26].
+
+It was the objective of this study to monitor changes in microbial activity and community composition during bioremediation of a soil sample contaminated with various amounts of diesel oil and subjected to various biostimulation (fertilizers) treatments. We examined the interactions between hydrocarbon concentration, fertilization, and incubation time, and hypothesized that these interactions would significantly influence hydrocarbon biodegradation and microbial community structure.
+
+Methods
+Soil
+The soil investigated was sampled from the A horizon of an arable site in Innsbruck (Austria) with no history of hydrocarbon contamination. The bedrock of the soil was alluvial moraine gravel (calcium carbonate/silicate); the soil type (FAO) was regosol. After sampling, the soil was sieved <5 mm and stored at 4°C. The soil had a pH (CaCl2) of 7.2, and contained 9.7% CaCO3 (1.16% inorganic C), 4.9% humus (2.84% organic C), 0.28% total nitrogen (Kjeldahl), 0.033% P2O5, 0.038% K2O. The particle size distribution was 9.4% clay (<2 μm), 33% fine and medium silt (2–20 μm), coarse silt 25.1% (>20–63 μm), 32.5% sand (>63 μm).
+
+Experimental Design: Setup of Microcosms
+Two hundred fifty-two 100-mL Erlenmeyer flasks containing 25 g (fresh mass) of soil were prepared. Sixty-three flasks each were contaminated with 2500, 5000, 10,000, or 20,000 mg diesel oil kg−1 soil dry mass. To test the effect of three treatments:
+(1)
+Twenty-one flasks per soil contamination level were amended with an agricultural inorganic NPK fertilizer (containing 9.5% NH3-N, 5.5% NO3-N, 6.6% P2O5-P, and 12.2% K2O-K; N/P = 2.3:1, K/P = 1.8:1), using a C/N ratio of 20:1 for each hydrocarbon concentration (considering that diesel oil contained 86% C).
+ 
+(2)
+Twenty-one flasks per soil contamination level were amended with the oleophilic fertilizer Inipol EAP22 (containing organic nutrients; N in the form of urea emulsified with oleic acid, P in the form of lauryl phosphate; Elf Atochem Inc., North America, Philadelphia, PA, USA), using a hydrocarbons/EAP22 ratio of 10:1 (w/w) for each hydrocarbon concentration as recommended [8]. Information on the N/P content of this fertilizer is contradictory and ranges from 2.6:1 [36] to 18.5:1, as calculated from a C/N/P ratio of 62:7.4:0.7 [13, 14].
+ 
+(3)
+Twenty-one flasks per soil contamination level remained unfertilized.
+ 
+In addition, uncontaminated and unfertilized controls were prepared. The soil water content was adjusted with sterile water to ca. 50% of the maximum water holding capacity (70% soil moisture). Water loss during incubation was compensated for twice a week by addition of sterile water. The flasks were closed with cotton wool stoppers and incubated in the dark at 20°C and 50% relative humidity. Contents of the flasks were thoroughly mixed twice a week. Immediately after the setup of the microcosms, and after 3, 7, 10, 14, 21, and 38 days of incubation, three flasks per treatment (=three replicates) and contamination level were removed to determine the residual total petroleum hydrocarbon (TPH) concentration, soil dry mass, and lipase activity. Approximately 10 g of soil samples was stored at −20°C for simultaneous PLFA analysis at the end of the experiment.
+
+Analytical Methods
+Soil dry mass was determined from the mass loss after heat treatment (24 h at 105°C).
+
+TPH content was quantified according to the German standard method [16] by infrared spectroscopy after extraction with trichloro-trifluoro-ethane. Soil was dehydrated with Na2SO4 and mixed for 30 min with 25 mL of 1,1,2-trichloro-trifluoro-ethane. After filtration of the hydrocarbon extracts through 7.5 g aluminum oxide (90 active neutral, for column chromatography), the CH3 and CH2 groups of diesel oil were quantitatively determined with infrared spectroscopy.
+
+Soil lipase–esterase activity was determined colorimetrically by using p-nitrophenyl (pNP) butyrate as substrate [28]. Briefly, soil samples were incubated at 30°C and pH 7.25 for 10 min, and the released pNP was quantified spectrophotometrically at 400 nm. To allow for the adsorption of pNP onto soil, the calibration curve was prepared in the presence of soil. Each of the standards was mixed with soil, and the standards were treated like soil samples.
+
+Phospholipids were extracted from 2 g (fresh mass) of soil, fractionated and quantified by using previously described procedures [5, 20]. Separated fatty acid methyl esters were identified using gas chromatography and a flame ionization detector. Fatty acid nomenclature was used as previously described [20]. The fatty acids i15:0, a15:0, 15:0, i16:0, 16:1ω7c, 17:0, i17:0, cy17:0, 18:1ω7c, and cy19:0 were chosen to represent bacterial biomass (bacterial PLFA), and 18:2ω6,9c (fungal PLFA) was taken to indicate fungal biomass [18, 44]. The ratio of bacterial PLFA to fungal PLFA was calculated to indicate shifts in the ratio between bacterial and fungal biomass. The Gram-positive specific fatty acids i15:0, a15:0, i16:0, and i17:0 and the Gram-negative specific fatty acids cy17:0, 18:1ω7c, and cy19:0 were taken as a measure of the ratio between Gram-positive and Gram-negative bacteria. The fatty acid 20:5ω3c was used as an indicator for soil algae [19, 24]. PLFA concentrations (nmol g−1 soil) were calculated on an oven-dry mass (105°C) basis.
+
+Statistical Data Treatment
+Three-factorial analysis of variance was used to attribute the variance of the data (TPH removal, soil lipase activity, PLFA profiles) to the factors TPH concentration, fertilization, incubation time, and their interactions. TPH data were further analyzed by multiple range analysis (Fisher LSD test, P ≤ 0.05). PLFA data obtained from soil samples with low (2500 mg TPH kg−1 soil) and high (10,000 mg TPH kg−1 soil) contamination were compared for equality of means by an independent two-sample t test. Multidimensional scaling (MDS) analysis, using Euclidian distance and Young's S-stress criteria, was applied to assess changes in the PLFA composition of the microbiota during incubation due to TPH concentration and fertilizer treatment. The MDS scores (MDS 1, MDS 2) were tested for significant differences between treatments by univariate analysis of variance, followed by a multiple range test (Student Newman Keuls test). Significance was accepted at the P ≤ 0.05 level of probability. Correlations were analyzed by the Pearson product–moment correlation technique.
+
+Results
+TPH Removal (Decontamination)
+Three-factorial analysis of variance showed that all three factors determined in this study (biostimulation treatments, initial amount of TPH, incubation time) and their interactions had a statistically highly significant (P ≤ 0.001) influence on TPH loss. Loss of diesel oil with time in response to the initial TPH content and fertilization is demonstrated in Fig. 1, which shows the residual TPH concentration (panel A) and the relative TPH loss (as percentage of the initial value; panel B).
+
+Figure 1
+Time course of residual TPH concentration (A), relative TPH loss (B), and lipase activity (C) in response to various diesel oil contaminations (2500, 5000, 10,000, and 20,000 mg kg−1 soil) and fertilization. Data are mean values ± standard deviation (n = 3).
+The acceleration of decontamination due to biostimulation became visible after 7 days of incubation. After 38 days of incubation, relative TPH losses in the unfertilized soil samples were 70%, 50%, 31%, and 10% at an initial contamination of 2500, 5000, 10,000 and 20,000 mg kg−1 soil, respectively. Biostimulation by NPK fertilization resulted in relative TPH losses of 74%, 65%, 54%, and 40% for the four contamination levels, and similar values (80%, 70%, 49%, 46%) were obtained when the oleophilic fertilizer was applied. Thus, diesel oil was generally removed to a higher extent when the soil was fertilized compared to the unfertilized treatment. This became especially visible when the initial contamination was high. In the case of an initial amount of 20,000 mg TPH kg−1 soil, both fertilization treatments resulted in an approximately 4-fold higher TPH loss compared to the TPH loss in the unfertilized soil. However, the lower the initial TPH contamination, the less marked was the effect of fertilization on TPH removal. Consequently, statistical analysis (Table 1) demonstrated a highly significant (P ≤ 0.001) effect of biostimulation by inorganic or oleophilic fertilization on TPH removal. This could be observed with all four contamination levels. Differences between the two fertilizers, however, were not significant (P > 0.05), with the exception of the higher efficiency of the oleophilic fertilizer compared to NPK at the lowest concentration tested.
+Table 1
+Effect of fertilization on residual TPH concentration (in parentheses: relative TPH loss) after 38 days of incubation in soil contaminated with various amounts of diesel oil
+Initial contamination (mg TPH kg−1 soil)
+Residual TPH concentration in mg kg−1 soil (relative TPH loss)
+Unfertilized
++NPK
++EAP22
+2500
+752 (69.9%) a
+662 (73.5%) a
+494 (80.2%) b
+5000
+2509 (49.8%) a
+1749 (65.0%) b
+1525 (69.5%) b
+10,000
+6863 (31.4%) a
+4641 (53.6%) b
+5121 (48.8%) b
+20,000
+17,911 (10.4%) a
+11,911 (40.4%) b
+10,862 (45.7%) b
+Data represent mean values (n = 3). Different letters (a, b, c) in a row indicate statistically significant differences (LSD, P ≤ 0.05) between treatments.
+
+Besides fertilization, the initial TPH concentration also had a statistically significant (P ≤ 0.001) effect on relative TPH loss (Table 2). After 38 days, relative TPH losses were significantly higher the lower the initial TPH amount, which can be partly explained by the fact that hydrocarbon biodegradation in soil samples with high TPH contents was still increasing after 38 days.
+Table 2
+Effect of initial contamination on relative TPH loss after 38 days of incubation in soil subjected to various biostimulation treatments
+Fertilization treatment
+Relative TPH loss
+2500 mg kg−1 soil
+5000 mg kg−1 soil
+10,000 mg kg−1 soil
+20,000 mg kg−1 soil
+Unfertilized
+69.9% a
+49.8% b
+31.4% c
+10.4% d
++NPK
+73.5% a
+65.0% b
+53.6% c
+40.4% d
++EAP22
+80.2% a
+69.5% b
+48.8% c
+45.7% c
+Data represent mean values (n = 3). Different letters (a, b, c) in a row indicate statistically significant differences (LSD, P ≤ 0.05) between treatments.
+
+Lipase Activity
+Lipase–esterase activity was used as a biological indicator to monitor TPH biodegradation. According to three-factorial analysis of variance, all three effects determined in this study (fertilization, hydrocarbon concentration, incubation time) and their interactions had a statistically highly significant (P ≤ 0.001) influence on lipase activity. Lipase activity paralleled TPH loss during the initial phase in all soil samples (Fig. 1 C). After reaching its maximum, lipase activity decreased in the presence of low TPH contents (initially 2500–5000 mg TPH kg−1 soil) and remained almost unchanged in highly contaminated soil (10,000–20,000 mg TPH kg−1 soil). This was observed both in unfertilized soil and in soil fertilized with EAP22. NPK fertilization, however, resulted in a slower but continuous increase in activity, except in soil containing the highest concentration tested, where activity decreased after 21 days. No significant change in lipase activity over the whole incubation period occurred in uncontaminated control soil (data not shown).
+
+PLFA Profiles
+Because of the high number of samples, PLFA patterns were determined in selected soil samples, contaminated with 2500 or 10,000 mg TPH kg−1 soil (representing low and high TPH contents), unfertilized or fertilized with NPK or EAP22, and incubated for 7, 21, and 38 days.
+
+Three-factorial ANOVA was applied to attribute the variance in fatty acid data to the three factors (initial contamination level, fertilization, and incubation time) and their interactions (Table 3). TPH content had the greatest influence on most of the fatty acids determined in this study, followed by fertilization, and the interaction of these two factors. Incubation time was of minor importance. This result was obtained with PLFA representing the total bacterial community, PLFA specific for Gram-negative bacteria and soil algae, unspecific bacterial PLFA, as well as with various other single fatty acids as indicated in Table 3. PLFA representing Gram-positive bacteria or the ratio between bacterial and fungal community were not influenced by any of the analyzed factors or their interactions.
+Table 3
+Influence of TPH concentration, fertilization treatment, and incubation time on the variability of PLFA
+PLFA
+Three-factorial analysis of variance
+Factor
+Interaction
+TPH content
+Fertilization
+Incubation time
+TPH × Fertilization
+TPH × Time
+Fertilization × Time
+TPH × Fertilization × Time
+Total bacPLFA
+24.19***
+8.18**
+–
+3.59*
+–
+–
+–
+Total G+
+–
+–
+–
+–
+–
+–
+–
+Total G−
+35.54***
+12.22***
+–
+5.73**
+–
+–
+3.44*
+G+/G−
+–
+–
+–
+–
+–
+–
+–
+Total bacPLFA/18:2ω6c,9c
+–
+–
+–
+–
+–
+–
+–
+G+ bacteria
+ 	 	 	 	 	 	 
+i15:0
+–
+–
+–
+–
+–
+–
+–
+a15:0
+–
+–
+–
+–
+–
+–
+–
+i16:0
+22.85***
+3.34*
+–
+–
+–
+–
+–
+i17:0
+12.31***
+–
+–
+–
+–
+–
+–
+G− bacteria
+ 	 	 	 	 	 	 
+cy17:0
+32.33***
+9.64***
+17.27***
+3.73*
+–
+3.11*
+3.13*
+18:1ω7c
+33.14***
+11.90***
+–
+6.30**
+–
+–
+3.31*
+cy19:0
+6.01*
+–
+–
+–
+–
+–
+–
+Unspecific bacterial PLFA
+ 	 	 	 	 	 	 
+15:0
+49.78***
+–
+–
+–
+–
+–
+–
+16:1ω7c
+14.19**
+8.11**
+–
+–
+–
+–
+–
+17:0
+132.32***
+12.12***
+3.77*
+11.27***
+–
+–
+–
+Soil fungi
+ 	 	 	 	 	 	 
+18:2ω6c,9c
+7.02*
+–
+–
+–
+–
+–
+–
+Soil algae
+ 	 	 	 	 	 	 
+20:5ω3c
+21.81***
+4.92*
+–
+7.24**
+–
+3.42*
+–
+Other PLFA
+ 	 	 	 	 	 	 
+14:0
+7.58**
+–
+–
+–
+–
+–
+–
+15:1
+4.48*
+–
+–
+–
+–
+–
+–
+16:1ω6c
+98.73***
+32.77***
+5.93**
+23.82***
+–
+–
+–
+16:1ω5c
+–
+–
+–
+–
+–
+–
+–
+16:0
+51.10***
+11.61***
+–
+6.43**
+–
+–
+–
+17:1
+–
+–
+–
+–
+–
+–
+–
+18:3ω3c
+–
+–
+–
+–
+–
+–
+–
+18:1ω9c
+82.50***
+11.42***
+14.25***
+7.16**
+–
+–
+–
+18:0
+8.95**
+–
+–
+–
+–
+–
+–
+20:4ω6c
+17.99***
+14.61***
+–
+3.72*
+3.36*
+–
+–
+20:2
+28.97***
+5.80**
+–
+6.81**
+ 	
+–
+–
+20:0
+–
+–
+–
+–
+–
+–
+–
+22:0
+–
+–
+–
+–
+–
+–
+–
+24:0
+–
+–
+–
+–
+–
+–
+–
+Data shown are F values of three-factorial analysis of variance (factors: TPH content, fertilizer, incubation time) and level of significance: *P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001; –P > 0.05.
+
+bacPLFA: bacterial PLFA; G+: PLFA specific for Gram-positive bacteria; G−: PLFA specific for Gram-negative bacteria (see Methods).
+
+Figure 2 shows the effect of TPH concentration on PLFA specific for bacteria, fungi, and algae in relation to fertilization treatments and incubation time. In general, there was a tendency of increased PLFA contents in soil samples containing high TPH contents (10,000 mg kg−1 soil) compared to low TPH contents (2500 mg kg−1 soil). However, statistically significant increases were only detected for PLFA representing bacteria and algae in soil fertilized with NPK after 21 and 38 days of incubation. The same trend was noted for the fungal community. At high TPH contents, NPK fertilization resulted in a continuous increase in PLFA indicative of microbial biomass with time (Fig. 2, Table 4); especially Gram-negative bacteria were enriched (Fig. 3). Oleophilic fertilization, however, resulted in significantly lower microbial biomass than NPK fertilization; moreover, PLFA contents did not increase with time (Fig. 2, Table 4).
+
+Figure 2
+Effect of TPH concentration on PLFA specific for bacteria, fungi, and algae in relation to different fertilizer treatments and incubation time. Asterisks indicate significant difference (P ≤ 0.05) between low (2500 mg kg−1 soil) and high (10,000 mg kg−1 soil) TPH concentration.
+Table 4
+Effect of fertilization on total bacterial PLFA concentrations in soil containing low or high amounts of diesel oil
+Initial contamination (mg TPH kg−1 soil)
+Incubation time (days)
+Total bacterial PLFA (nmol g−1 soil)
+Unfertilized
++NPK
++EAP22
+2500
+7
+43 a
+50 a
+41 a
+21
+44 a
+45 a
+50 a
+38
+36 a
+43 a
+51 a
+10,000
+7
+44 a
+61 a
+56 a
+21
+46 a
+75 b
+70 ab
+38
+49 a
+92 b
+68 ab
+Data represent mean values (n = 3). Different letters (a, b, c) in a row indicate statistically significant differences (LSD, P ≤0.05) between treatments.
+
+
+Figure 3
+Effect of TPH concentration on the PLFA specific for Gram-positive and Gram-negative bacteria in relation to different fertilizer treatments and incubation time. Asterisks indicate significant difference (P ≤ 0.05) between low (2500 mg kg−1 soil) and high (10,000 mg kg−1 soil) TPH concentration.
+Among bacteria, PLFA specific for Gram-positive and Gram-negative bacteria were analyzed (Fig. 3). The Gram-negative bacterial community was significantly increased in soil samples incubated for 21 and 38 days with initially 10,000 mg TPH kg−1 soil (compared to 2500 mg kg−1 soil) and fertilized with NPK, whereas the effect of TPH concentration on Gram-positive bacteria was not significant. The ratio between Gram-positive and Gram-negative bacteria tended to be lower in highly contaminated soil samples, particularly in fertilized soil samples. However, differences were not significant.
+
+MDS analysis was applied to assess changes in microbial communities as a result of TPH concentration, fertilization treatment, and incubation time (Fig. 4). Shifts in microbial community composition were visualized as the distances between the samples. The closer the samples are to each other, the more similar are the microbiotas. The soil microbiotas differentiated according to the TPH concentration and fertilizer treatment, whereas the period of incubation only slightly affected the soil microbial community. The treatments were not sharply differentiated, but isplayed a gradual transition from the uncontaminated and unfertilized soil samples to the highly contaminated and fertilized samples along dimension 1. Uncontaminated (control) soil samples and samples with low TPH contents (2500 mg kg−1 soil) were similar in their microbiota regardless of the fertilizer treatment. The microbial community composition of highly contaminated soil samples (10,000 mg TPH kg−1 soil) was significantly different from the former group, if fertilized with NPK or EAP22. If no fertilizer was applied, the microbial community was similar to that of uncontaminated or slightly contaminated soil samples. Along dimension 2, the highly contaminated soil samples tended to separate according to incubation time, whereby differences were not significant.
+
+Figure 4
+Two-dimensional plot of MDS scores for distinction between microbial communities in soil containing high (10,000 mg kg−1 soil; filled symbols) or low (2500 mg kg−1 soil; open symbols) TPH concentration and subjected to various fertilizer treatments: unfertilized (▵), fertilized with NPK (□), or EAP22 (○); data labels indicate incubation time (days). (×) Control soil, uncontaminated and unfertilized.
+Correlations
+Correlation analyses of PLFA with TPH loss and soil lipase activity revealed statistically significant (P ≤ 0.05) relations in the presence of high TPH contents (initial TPH content, 10,000 mg kg−1 soil). TPH loss as well as lipase activity correlated positively with PLFA specific for the total bacterial community, Gram-negative bacteria, soil fungi, and algae, but not with PLFA specific for Gram-positive bacteria. A negative correlation was found between TPH loss and PLFA, indicative of the Gram-positive/Gram-negative bacteria ratio (Table 5). TPH loss was positively correlated with lipase activity (P ≤ 0.05).
+Table 5
+Correlation coefficients between PLFA and TPH loss or soil lipase activity
+PLFA
+Initial contamination: 2500 mg TPH kg−1 soil
+Initial contamination: 10,000 mg TPH kg−1 soil
+TPH loss
+Lipase activity
+TPH loss
+Lipase activity
+Total bacPLFA
+–
+–
+0.58
+0.75
+Total G+
+–
+–
+–
+–
+Total G−
+–
+–
+0.67
+0.84
+G+/G−
+–
+–
+−0.42
+−0.52
+Total bacPLFA / 18:2ω6c,9c
+–
+–
+–
+−0.42
+G+ bacteria
+ 	 	 	 
+i15:0
+–
+–
+–
+0.41
+a15:0
+–
+–
+–
+–
+i16:0
+–
+–
+–
+–
+i17:0
+–
+–
+–
+0.50
+G− bacteria
+ 	 	 	 
+cy17:0
+0.62
+ 	
+0.79
+–
+18:1ω7c
+–
+–
+0.61
+0.80
+cy19:0
+–
+−0.49
+–
+0.88
+Unspecific bacterial PLFA
+ 	 	 	 
+15:0
+–
+–
+–
+–
+16:1ω7c
+–
+–
+0.56
+0.74
+17:0
+−0.40
+−0.49
+–
+–
+Soil fungi
+ 	 	 	 
+18:2ω6c,9c
+–
+–
+0.43
+0.52
+Soil algae
+ 	 	 	 
+20:5ω3c
+–
+–
+0.64
+0.72
+Other PLFA
+ 	 	 	 
+14:0
+–
+–
+–
+–
+15:1
+–
+–
+0.45
+0.66
+16:1ω6c
+–
+–
+0.67
+0.73
+16:1ω5c
+–
+–
+ 	
+0.42
+16:0
+–
+–
+0.55
+0.71
+17:1
+–
+–
+–
+–
+18:3ω3c
+–
+–
+–
+–
+18:1ω9c
+−0.60
+–
+–
+–
+18:0
+–
+–
+–
+–
+20:4ω6c
+–
+–
+–
+–
+20:2
+–
+–
+–
+0.46
+20:0
+–
+–
+–
+–
+22:0
+–
+–
+–
+–
+24:0
+–
+–
+–
+–
+Shown are significant correlations at P ≤ 0.05; correlations that were not significant (P > 0.05) are indicated by –.
+
+Discussion
+In the present study, we investigated the influence of three factors (TPH concentration, biostimulation through fertilization, incubation time) on TPH loss, microbial activity, and community structure in a simulated soil bioremediation experiment during 38 days at 20°C. The most direct way to measure bioremediation efficiency is to monitor hydrocarbon disappearance rates [2]. TPH loss is the sum of microbial degradation and abiotic processes, such as evaporation, adsorption of hydrocarbons onto soil colloids, and chemical oxidation, and other chemical and physical processes [1]. Abiotic losses were not determined in this study, because we were interested in simulating bioremediation and testing the relative response of microbial activity and community structure under nonartificial conditions, including both biodegradation and abiotic losses [9, 10]. Based on our previous experiences with soils experimentally contaminated with diesel oil [30, 31] and other reports [7], abiotic losses are in the range of 20–30% of the initial contamination.
+
+Availability of nutrients, especially of nitrogen and phosphorus, appears to be the most common limiting factor for degradation effectiveness ([41] and references). As expected, fertilization significantly enhanced hydrocarbon biodegradation. Little attention has been paid so far to the influence of hydrocarbon concentration. Enrichment of hydrocarbon degraders occurred soon after contamination; however, their ability to cope with high TPH contents was limited, as shown in unfertilized soil samples. We demonstrated that fertilization (biostimulation of indigenous soil microorganisms) is especially important when hydrocarbon contamination is high. The higher the initial TPH contamination, the more marked was the effect of fertilization on TPH removal.
+
+TPH losses in fertilized soil were considerably high. After 38 days, up to 80% and 46% decontamination were recorded in soil containing the lowest (2500 mg TPH kg−1) and highest (20,000 mg kg−1) amounts of hydrocarbons tested in this study. No significant difference could be detected between the two fertilizers that differ considerably in their composition. NPK fertilization is based on the supply of indigenous microorganisms with inorganic nutrients, whereas the oleophilic fertilizer Inipol EAP22 is an oil-in-water microemulsion containing organic nutrients, i.e., N in the form of urea emulsified with oleic acid, P in the form of lauryl phosphate, and trace quantities of the emulsion stabilizer 2-butoxy-1-ethanol [12]. The microemulsion may increase the availability of nutrients and hydrocarbons to microorganisms [8]. Lauryl phosphate and oleic acid are anionic surfactants, which act to increase the aqueous phase concentration of hydrocarbons and enhance their contact with microbial cell surfaces. This surfactant action may increase biodegradation rates by facilitating compound transport across microbial cell barriers [12]. Accelerated biodegradation rates after the application of this oelophilic fertilizer have been described in soils and sediments [7, 14, 36, 43], but efficiency was mainly restricted to the reduction of alkanes and light aromatic hydrocarbons [11, 12, 13, 14]. Based on nutrient levels in EAP22, as indicated by Bruchon et al. [8], oleophilic fertilization (applied as recommended at a hydrocarbon/fertilizer ratio of 10:1) resulted in a ca. 6-fold higher N concentration compared to NPK fertilization (applied at a C/N ratio of 20:1). This may also have influenced TPH loss measured in our study. Because of contradictory information on P levels in EAP22 (see Methods section), we cannot compare the P levels after application of the two fertilizers in our study.
+
+Soil enzymes are the catalysts of important metabolic processes including the decomposition of organic inputs and the detoxification of xenobiotics [15, 38]. In this study, lipase–esterase activity was used as biological indicator to monitor TPH biodegradation. It has been shown that this enzyme increases with increasing initial diesel oil loading rates, which demonstrates the induction of this enzyme activity by the contamination [34]. This induction is attributed to the appearance of products released from hydrocarbon biodegradation, which are the substrate for hydrolases including esterases–lipases. A strong relationship between the ability of microorganisms to degrade diesel oil and their lipolytic activity was previously described [23].
+
+In our study, NPK fertilization resulted in an increase in lipase–esterase activity with time, concomitant with TPH loss, except at the highest TPH concentration tested. Activity in soil fertilized with Inipol EAP22, however, tended to decrease in all soil samples after 14 days of incubation. This might indicate that the two applied fertilizers stimulate different mechanisms. The decrease in enzyme activity (despite a further increase in TPH loss) could be explained by an increased level of toxicity in soil samples treated with EAP22, resulting in enzyme inhibition and/or microbial growth inhibition. This speculation is supported by reports of high toxic levels after long-term treatment with EAP22 [13, 14] and studies showing high toxicity of emulsified oil [37]. Under this assumption, TPH loss in EAP22-fertilized soil samples would have been mainly attributed to abiotic oxidation processes during the last weeks of our study. This hypothesis is supported by the fact that PLFA concentrations indicative of microbial biomass (1) did not increase over time in EAP22 fertilized soil and (2) were lower in EAP22 than in NPK-fertilized soil samples. We cannot compare our results with those of other studies because, to our knowledge, PLFA patterns in soil treated with Inipol EAP22 have not been investigated before.
+
+PLFA community profiling is a widely used technique. In contrast to other methods, specific PLFA patterns reflect the physiological stress, nutritional status, as well as the viable biomass of the microbial population [27]. Microbial community composition is associated with soil contaminants [39]. Distinct shifts in microbial community structure have been observed as a result of oil contamination [10]. In our study, analysis of PLFA patterns and correlations demonstrated a significant influence of TPH concentration and fertilization, whereas time affected soil microbial community only slightly. Low TPH contents had no significant effect on soil microbial community, independent of the treatment. Among bacteria, high TPH contents resulted in a significant increase in the Gram-negative population, whereas the Gram-positive population was not affected. Comparable results have been reported. Shi et al. [39] observed that PLFA representing Gram-positive bacteria were higher in sites with low TPH contents compared to highly contaminated soils, and Macnaughton et al. [26] noticed a community shift from primarily eukaryotic biomass to Gram-negative bacterial biomass with time during bioremediation of an experimental oil spill.
+
+Our results indicate that Gram-negative bacteria, rather than Gram-positive bacteria, are enriched after events of high TPH contamination. Similar trends were observed when hydrocarbon-degradative genotypes were analyzed in various soils [2, 29, 42] and were explained by the r–K scheme, which assumes that evolution favors either adaptation to high rates of reproduction (r strategists) or optimal utilization of environmental resources (K strategists). Gram-negative bacteria, which rapidly colonize and grow under substrate-rich conditions (in this study, the substrate was represented by the hydrocarbon contamination), are r strategists. Gram-positive soil bacteria tend to be more successful in resource-limited situations and are K strategists. Such populations are usually more stable and are permanent members of the community [3].
+
+In conclusion, we demonstrated the influence of TPH concentration and biostimulation on diesel oil biodegradation, microbial activity, and community structure, by using a simulated soil bioremediation treatment. Soil fertilization is especially important when hydrocarbon contamination is high. The increase in lipase activity and PLFA concentrations, indicative of microbial biomass with the concomitant decrease in TPH, evidenced the development of an active hydrocarbon-degrading population with time. Despite comparable biodegradation efficiency, only inorganic fertilization (NPK) resulted in a significant increase in the bacterial community and activity, whereas oleophilic fertilization (Inipol EAP22) tended to inhibit microbial activity and biomass with time. The significant increase in the Gram-negative bacterial population in highly contaminated soil fertilized with NPK indicated a selective enrichment of these microorganisms. This should be considered when developing bioremediation strategies.
+
+Acknowledgments
+We thank C.R. Comeau (Elf Atochem, USA) for providing us with Inipol EAP22, and we would like to acknowledge Ellen Kandeler for providing the laboratory facilities, Sabine Rudolph for technical assistance with the PLFA analysis, and the University of Hohenheim for financial support.

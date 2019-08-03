@@ -1,0 +1,124 @@
+T1	Environment 71 76	plume
+T2	Environment 172 178	marine
+T3	Environment 67 76	oil plume
+T4	Substrate 30 33	PAH
+T5	Substrate 67 70	oil
+T6	Substrate 155 158	oil
+T7	ReactionOrProcess 34 45	degradation
+T8	Microbes 363 380	Oceanospirillales
+T9	Environment 445 450	plume
+T10	Environment 568 573	plume
+T11	Substrate 557 560	oil
+T12	Microbes 849 866	Oceanospirillales
+T13	Environment 977 982	plume
+T14	ReactionOrProcess 1020 1039	organic degradation
+T15	ReactionOrProcess 1028 1039	degradation
+T16	Substrate 1220 1223	oil
+T17	ReactionOrProcess 1202 1216	bioremediation
+T18	ReactionOrProcess 1192 1216	intrinsic bioremediation
+R1	CarriedOn Arg1:T17 Arg2:T16
+R2	CarriedOn Arg1:T18 Arg2:T16
+T19	Environment 1453 1463	subsurface
+T20	Substrate 1416 1425	petroleum
+T21	ReactionOrProcess 1327 1342	denitrification
+T22	ReactionOrProcess 1267 1291	Anaerobic HC degradation
+T23	ReactionOrProcess 1316 1325	reduction
+T24	ReactionOrProcess 1280 1291	degradation
+T25	ReactionOrProcess 1426 1440	biodegradation
+T26	ReactionOrProcess 1347 1361	methanogenesis
+T27	ReactionOrProcess 1308 1325	sulfate reduction
+R3	CarriedOn Arg1:T21 Arg2:T20
+R4	CarriedOn Arg1:T22 Arg2:T20
+R5	CarriedOn Arg1:T23 Arg2:T20
+R6	CarriedOn Arg1:T24 Arg2:T20
+R7	CarriedOn Arg1:T27 Arg2:T20
+T28	Environment 1852 1879	sulfate-reducing conditions
+T29	Substrate 1671 1700	polycyclic aromatic compounds
+T30	Substrate 1610 1619	petroleum
+T31	Substrate 1635 1642	alkanes
+T32	Substrate 1682 1700	aromatic compounds
+T33	Substrate 1682 1700	aromatic compounds
+T34	Property 1890 1902	methanogenic
+T35	Property 1890 1902	methanogenic
+T36	Property 1671 1681	polycyclic
+T37	Property 1852 1868	sulfate-reducing
+T38	Property 1682 1690	aromatic
+T39	ReactionOrProcess 1813 1826	anaerobically
+T40	ReactionOrProcess 1804 1812	degraded
+T41	ReactionOrProcess 2098 2113	denitrification
+T42	ReactionOrProcess 2140 2149	reduction
+T43	ReactionOrProcess 2014 2023	reduction
+T44	ReactionOrProcess 2040 2054	methanogenesis
+T45	ReactionOrProcess 2006 2023	sulfate reduction
+T46	Environment 2269 2274	plume
+T47	Environment 2408 2413	plume
+T48	Substrate 2354 2361	toluene
+T49	ReactionOrProcess 2344 2373	anaerobic toluene degradation
+T50	ReactionOrProcess 2354 2373	toluene degradation
+T51	ReactionOrProcess 2362 2373	degradation
+T52	ReactionOrProcess 2443 2467	anaerobic HC degradation
+T53	ReactionOrProcess 2456 2467	degradation
+T54	Substrate 2567 2578	Hydrocarbon
+T55	ReactionOrProcess 2567 2590	Hydrocarbon degradation
+T56	ReactionOrProcess 2579 2590	degradation
+T57	Environment 2845 2850	plume
+T58	ReactionOrProcess 2907 2918	degradation
+T59	Environment 2941 2947	marine
+T60	Substrate 3107 3110	oil
+T61	Property 3080 3092	contaminants
+T62	Environment 3199 3205	marine
+T63	Substrate 3138 3141	oil
+T64	ReactionOrProcess 3265 3274	degrading
+T65	ReactionOrProcess 3152 3161	stimulate
+T66	Environment 3667 3672	plume
+T67	Nutrient 3567 3571	iron
+T68	Environment 3876 3882	marine
+T69	ReactionOrProcess 3956 3967	degradation
+T70	Nutrient 3847 3851	iron
+T71	Environment 4217 4222	plume
+T72	Environment 4213 4222	oil plume
+T73	Substrate 3995 4002	methane
+T74	Substrate 4198 4205	methane
+T75	Substrate 4274 4281	methane
+T76	Substrate 4038 4041	oil
+T77	Substrate 4084 4087	Oil
+T78	Substrate 4213 4216	oil
+T79	Enzyme 4463 4476	monooxygenase
+T80	Enzyme 4506 4519	monooxygenase
+T81	Enzyme 4498 4519	methane monooxygenase
+T82	Substrate 4346 4353	methane
+T83	Substrate 4498 4505	methane
+T84	ReactionOrProcess 4417 4431	methanogenesis
+T85	Environment 4712 4717	plume
+T86	Substrate 4609 4616	methane
+T87	ReactionOrProcess 4617 4626	oxidation
+T88	Environment 5042 5047	plume
+T89	Environment 4918 4921	sea
+T90	Environment 5038 5047	oil plume
+T91	Environment 4913 4921	deep sea
+T92	Substrate 4898 4905	alkanes
+T93	Substrate 4823 4830	methane
+T94	Substrate 4949 4956	methane
+T95	Substrate 5033 5041	deep oil
+T96	Substrate 5038 5041	oil
+T97	ReactionOrProcess 4831 4840	oxidation
+T98	ReactionOrProcess 4890 4897	degrade
+R8	CarriedOn Arg1:T97 Arg2:T92
+R9	CarriedOn Arg1:T97 Arg2:T95
+R10	CarriedOn Arg1:T97 Arg2:T96
+R11	CarriedOn Arg1:T98 Arg2:T96
+T99	Environment 5113 5118	plume
+T100	Environment 5108 5118	deep plume
+T101	Substrate 5071 5078	methane
+T102	Substrate 5062 5069	propane
+T103	Property 5119 5130	temperature
+T104	Environment 5298 5303	plume
+T105	Environment 5437 5442	plume
+T106	Substrate 5383 5394	methanogens
+T107	Substrate 5443 5450	methane
+T108	ReactionOrProcess 5413 5424	degradation
+T109	Substrate 5541 5548	methane
+T110	ReactionOrProcess 5549 5558	oxidation
+T111	Substrate 5850 5853	oil
+T112	ReactionOrProcess 6017 6028	degradation
+T113	Substrate 6226 6229	oil

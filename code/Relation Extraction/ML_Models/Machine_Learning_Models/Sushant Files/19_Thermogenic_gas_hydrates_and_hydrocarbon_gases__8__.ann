@@ -1,0 +1,57 @@
+T1	Environment 46 55	sediments
+T2	Substrate 21 28	methane
+T3	Substrate 206 213	methane
+T4	ReactionOrProcess 193 202	oxidation
+T5	ReactionOrProcess 136 146	enrichment
+T6	Substrate 215 242	Straight-chain hydrocarbons
+T7	ReactionOrProcess 345 354	oxidation
+T8	Environment 410 418	sediment
+T9	Environment 817 820	sea
+T10	Substrate 911 918	methane
+T11	ReactionOrProcess 980 989	oxidation
+T12	Nutrient 867 873	Carbon
+T13	Substrate 1023 1030	methane
+T14	Substrate 1181 1188	methane
+T15	ReactionOrProcess 1154 1163	oxidation
+T16	Environment 1301 1310	sediments
+T17	Environment 1226 1241	mound sediments
+T18	Substrate 1207 1214	methane
+T19	Environment 1414 1422	sediment
+T20	Environment 1562 1570	sediment
+T21	Environment 1514 1528	mound sediment
+T22	Substrate 1469 1476	methane
+T23	Substrate 1596 1603	methane
+T24	Substrate 1665 1672	methane
+T25	Environment 1768 1777	sediments
+T26	Substrate 1751 1758	methane
+T27	Substrate 1806 1813	methane
+T28	Environment 1945 1954	sediments
+T29	Substrate 1841 1848	methane
+T30	ReactionOrProcess 1884 1893	oxidation
+T31	Environment 2201 2210	sediments
+T32	Environment 2145 2160	mound sediments
+T33	Substrate 2303 2310	methane
+T34	Property 2239 2262	kinetic isotope effects
+T35	ReactionOrProcess 2290 2299	oxidation
+T36	Environment 2390 2399	sediments
+T37	Substrate 2423 2430	methane
+T38	ReactionOrProcess 2557 2566	oxidation
+T39	Environment 2808 2817	sediments
+T40	Environment 2752 2767	mound sediments
+T41	ReactionOrProcess 2857 2866	depletion
+T42	ReactionOrProcess 2917 2926	oxidation
+T43	Property 2964 2975	temperature
+T44	Environment 3242 3245	sea
+T45	Environment 3525 3534	sediments
+T46	Substrate 3457 3464	methane
+T47	ReactionOrProcess 3430 3439	depletion
+T48	ReactionOrProcess 3487 3496	depletion
+T49	Environment 3602 3610	sediment
+T50	Substrate 3649 3656	methane
+T51	Substrate 3831 3838	methane
+T52	Substrate 3897 3921	thermogenic hydrocarbons
+T53	Substrate 3987 3994	methane
+T54	Substrate 4005 4017	hydrocarbons
+T55	Property 4154 4166	temperatures
+T56	Property 4043 4055	methanogenic
+T57	Nutrient 3970 3976	carbon

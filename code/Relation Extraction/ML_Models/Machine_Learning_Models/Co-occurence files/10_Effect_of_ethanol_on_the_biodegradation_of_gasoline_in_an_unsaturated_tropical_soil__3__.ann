@@ -1,0 +1,119 @@
+T1	Environment 174 190	undisturbed soil
+T2	Substrate 117 129	BTEX–ethanol
+T3	Substrate 108 112	BTEX
+T4	Substrate 14 51	Standard and ethanol-blended gasoline
+T5	Substrate 254 266	BTEX–ethanol
+T6	Substrate 245 249	BTEX
+T7	Substrate 338 356	Brazilian gasoline
+T8	Environment 450 462	soil samples
+T9	Environment 440 454	composite soil
+T10	Substrate 485 493	methanol
+T11	Property 407 419	Contaminants
+T12	ReactionOrProcess 425 434	extracted
+T13	Environment 535 539	soil
+T14	Substrate 495 503	Gasoline
+T15	Substrate 518 522	BTEX
+T16	ReactionOrProcess 642 650	detector
+T17	Environment 932 944	soil samples
+T18	Environment 922 936	composite soil
+T19	ReactionOrProcess 950 959	incubated
+T20	ReactionOrProcess 763 772	degrading
+T21	Microbes 1269 1315	culturable heterotrophic bacterial populations
+T22	Microbes 1134 1170	culturable heterotrophic populations
+T23	Environment 1200 1212	soil samples
+T24	Environment 1190 1204	composite soil
+T25	Environment 1256 1261	water
+T26	Property 1347 1353	colony
+T27	Nutrient 1390 1394	agar
+T28	Environment 1445 1449	Soil
+T29	Environment 1520 1525	water
+T30	Environment 1529 1549	uncontaminated soils
+T31	Environment 1625 1636	dried soils
+T32	Property 1586 1600	volatilisation
+T33	Property 1570 1582	contaminants
+T34	Environment 1923 1939	undisturbed soil
+T35	Environment 1974 1978	soil
+T36	Environment 1846 1851	water
+T37	Environment 1979 1984	water
+T38	Substrate 2013 2021	gasoline
+T39	Substrate 1859 1867	gasoline
+T40	Property 1902 1916	volatilisation
+T41	ReactionOrProcess 2000 2009	retention
+T42	Environment 2033 2049	Undisturbed soil
+T43	Environment 2143 2148	water
+T44	Environment 2179 2184	water
+T45	Property 2304 2326	water holding capacity
+T46	Environment 2328 2332	Soil
+T47	Environment 2541 2546	water
+T48	Substrate 2346 2388	contaminated with ethanol-blended gasoline
+T49	Property 2413 2424	temperature
+T50	Property 2506 2520	volatilisation
+T51	Property 2524 2536	contaminants
+T52	Environment 2554 2570	undisturbed soil
+T53	Environment 2618 2623	water
+T54	Substrate 2656 2693	standard and ethanol-blended gasoline
+T55	Substrate 2782 2798	gasoline–ethanol
+T56	Substrate 2769 2777	gasoline
+T57	Property 2815 2829	volatilisation
+T58	Environment 3013 3028	artificial soil
+T59	Environment 2945 2956	vadose zone
+T60	Substrate 2929 2937	gasoline
+T61	Substrate 3072 3080	gasoline
+T62	Substrate 3085 3109	ethanol-amended gasoline
+T63	ReactionOrProcess 2985 2997	infiltration
+T64	Property 3111 3123	Contaminants
+T65	Environment 3380 3384	soil
+T66	Environment 3263 3269	porous
+T67	Substrate 3417 3424	ethanol
+T68	Substrate 3343 3350	benzene
+T69	Substrate 3355 3362	toluene
+T70	ReactionOrProcess 3363 3372	retention
+T71	Environment 3462 3471	microcosm
+T72	Environment 3712 3723	quartz sand
+T73	Environment 3800 3804	soil
+T74	Environment 3767 3772	water
+T75	Environment 3805 3816	vadose zone
+T76	Property 3773 3783	saturation
+T77	Property 3758 3766	residual
+T78	Environment 3898 3907	microcosm
+T79	Environment 3850 3856	porous
+T80	Environment 4006 4011	Water
+T81	Property 4061 4068	drained
+T82	Environment 4101 4112	Quartz sand
+T83	Environment 4283 4292	fine sand
+T84	Environment 4425 4431	porous
+T85	Substrate 4344 4368	ethanol-amended gasoline
+R1	CarriedOn Arg1:T12 Arg2:T10
+R2	OccursIn Arg1:T12 Arg2:T8
+R3	OccursIn Arg1:T12 Arg2:T9
+R4	CarriedOn Arg1:T16 Arg2:T14
+R5	CarriedOn Arg1:T16 Arg2:T15
+R6	OccursIn Arg1:T16 Arg2:T13
+R7	OccursIn Arg1:T19 Arg2:T17
+R8	OccursIn Arg1:T19 Arg2:T18
+R9	OccursIn Arg1:T20 Arg2:T17
+R10	OccursIn Arg1:T20 Arg2:T18
+R11	FoundIn Arg1:T21 Arg2:T23
+R12	FoundIn Arg1:T21 Arg2:T24
+R13	FoundIn Arg1:T21 Arg2:T25
+R14	FoundIn Arg1:T22 Arg2:T23
+R15	FoundIn Arg1:T22 Arg2:T24
+R16	FoundIn Arg1:T22 Arg2:T25
+R17	Of Arg1:T21 Arg2:T26
+R18	Of Arg1:T22 Arg2:T26
+R19	CarriedOn Arg1:T41 Arg2:T38
+R20	CarriedOn Arg1:T41 Arg2:T39
+R21	OccursIn Arg1:T41 Arg2:T34
+R22	OccursIn Arg1:T41 Arg2:T35
+R23	OccursIn Arg1:T41 Arg2:T36
+R24	OccursIn Arg1:T41 Arg2:T37
+R25	CarriedOn Arg1:T63 Arg2:T60
+R26	CarriedOn Arg1:T63 Arg2:T61
+R27	CarriedOn Arg1:T63 Arg2:T62
+R28	OccursIn Arg1:T63 Arg2:T58
+R29	OccursIn Arg1:T63 Arg2:T59
+R30	CarriedOn Arg1:T70 Arg2:T67
+R31	CarriedOn Arg1:T70 Arg2:T68
+R32	CarriedOn Arg1:T70 Arg2:T69
+R33	OccursIn Arg1:T70 Arg2:T65
+R34	OccursIn Arg1:T70 Arg2:T66

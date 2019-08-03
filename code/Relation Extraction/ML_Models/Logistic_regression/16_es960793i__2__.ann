@@ -1,0 +1,115 @@
+T1	Environment 90 100	oily soils
+T2	Substrate 124 131	alkanes
+T3	Substrate 73 76	TPH
+T4	Substrate 171 189	aromatic compounds
+T5	Property 147 156	saturates
+T6	ReactionOrProcess 202 210	degraded
+T7	Environment 364 368	soil
+T8	Environment 467 478	static soil
+T9	Substrate 306 317	hydrocarbon
+T10	ReactionOrProcess 258 272	bioremediation
+T11	Environment 617 621	soil
+T12	Substrate 528 546	aromatic compounds
+T13	Property 552 562	polycyclic
+T14	Property 584 593	resistant
+T15	Property 515 523	saturate
+T16	Environment 785 789	soil
+T17	Environment 813 817	soil
+T18	Environment 924 928	soil
+T19	Substrate 674 683	petroleum
+T20	Substrate 684 695	hydrocarbon
+T21	Property 912 920	toxicity
+T22	ReactionOrProcess 847 856	oxidizing
+T23	Environment 1068 1073	soils
+T24	Substrate 1101 1121	weathered crude oils
+T25	Substrate 979 982	TPH
+T26	Environment 1254 1270	subsurface soils
+T27	Substrate 1180 1188	gasoline
+T28	Substrate 1353 1357	BTEX
+T29	Substrate 1331 1334	TPH
+T30	Substrate 1161 1164	oil
+T31	Substrate 1190 1196	diesel
+T32	ReactionOrProcess 1284 1295	remediation
+T33	Environment 1539 1557	oil-impacted soils
+T34	Substrate 1669 1701	weathered petroleum hydrocarbons
+T35	Property 1659 1667	residual
+T36	ReactionOrProcess 1515 1529	bioremediation
+T37	Environment 1951 1962	groundwater
+T38	Environment 1744 1748	soil
+T39	Environment 1859 1864	soils
+T40	Substrate 1796 1800	BTEX
+T41	Substrate 1815 1824	crude oil
+T42	Substrate 1909 1921	hydrocarbons
+T43	Substrate 1829 1832	oil
+T44	ReactionOrProcess 1749 1760	remediation
+T45	Environment 2045 2050	soils
+T46	Substrate 2029 2041	hydrocarbons
+T47	Substrate 2025 2028	oil
+T48	Property 2119 2130	ecotoxicity
+T49	ReactionOrProcess 2131 2140	bioassays
+T50	Environment 2326 2330	soil
+T51	Property 2343 2351	toxicity
+T52	Environment 2583 2592	nematodes
+T53	Environment 2616 2631	microarthropods
+T54	Environment 2600 2611	polychaetes
+T55	Substrate 2519 2531	hydrocarbons
+T56	Substrate 2515 2518	oil
+T57	Environment 2708 2726	contaminated soils
+T58	Environment 2998 3009	groundwater
+T59	Environment 2821 2831	oily soils
+T60	Environment 2982 2993	vadose zone
+T61	Substrate 2922 2929	benzene
+T62	Substrate 2931 2938	toluene
+T63	Substrate 2940 2952	ethylbenzene
+T64	Substrate 2958 2965	xylenes
+T65	Substrate 2881 2916	water-soluble aromatic hydrocarbons
+T66	Environment 3035 3049	soil microcosm
+T67	Environment 3090 3098	aquifers
+T68	Substrate 3123 3134	hydrocarbon
+T69	Substrate 3157 3160	oil
+T70	Environment 3335 3346	groundwater
+T71	Environment 3488 3498	subsurface
+T72	Environment 3383 3387	soil
+T73	Substrate 3459 3468	petroleum
+T74	Substrate 3319 3331	hydrocarbons
+T75	Property 3265 3276	attenuation
+T76	ReactionOrProcess 3292 3315	inherent biodegradation
+T77	ReactionOrProcess 3348 3359	evaporation
+T78	Environment 3677 3695	oil-impacted soils
+T79	Property 3559 3570	ecotoxicity
+T80	ReactionOrProcess 3576 3587	remediation
+T81	Environment 3836 3841	soils
+T82	Substrate 3785 3805	weathered crude oils
+T83	Nutrient 3867 3873	carbon
+T84	Environment 3927 3939	Soil samples
+T85	Substrate 4005 4008	TPH
+T86	Substrate 4018 4029	hydrocarbon
+T87	Substrate 4131 4142	hydrocarbon
+T88	ReactionOrProcess 3971 3985	bioremediation
+T89	ReactionOrProcess 4115 4125	inhibition
+T90	Substrate 4331 4363	water-soluble aromatic compounds
+T91	Substrate 4253 4264	hydrocarbon
+T92	Property 4285 4304	acute soil toxicity
+T93	ReactionOrProcess 4215 4229	bioremediation
+T94	ReactionOrProcess 4244 4252	reducing
+T95	ReactionOrProcess 4310 4318	reducing
+T96	Environment 4386 4404	Methods Test Soils
+T97	Substrate 4409 4419	Crude Oils
+T98	Environment 4466 4470	soil
+T99	Environment 4504 4509	soils
+T100	Substrate 4618 4628	crude oils
+T101	Substrate 4436 4447	hydrocarbon
+T102	Property 4471 4479	toxicity
+T103	ReactionOrProcess 4448 4462	bioremediation
+T104	Substrate 4790 4800	light oils
+T105	Property 4729 4738	saturated
+T106	Substrate 4875 4879	BTEX
+T107	Substrate 4972 4982	light oils
+T108	Property 4880 4894	concentrations
+T109	Substrate 5032 5043	naphthalene
+T110	Substrate 5048 5060	phenanthrene
+T111	Substrate 5146 5156	light oils
+T112	Substrate 5000 5025	polyaromatic hydrocarbons
+T113	Substrate 5172 5175	PAH
+T114	Substrate 5293 5303	crude oils
+T115	Environment 5522 5526	soil

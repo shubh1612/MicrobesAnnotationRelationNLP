@@ -1,0 +1,27 @@
+T1 Environment 123 129 marine
+T2 Substrate 77 115 natural and anthropogenic hydrocarbons
+T3 Property 265 276 attenuation
+T4 Property 431 439 toxicity
+T5 Environment 725 730 beach
+T6 Substrate 684 687 oil
+T7 Substrate 857 860 oil
+T8 Property 936 950 concentrations
+T9 Microbes 1160 1173 Acinetobacter
+T10 Microbes 1178 1190 Marinobacter
+T11 Substrate 1039 1042 oil
+T12 ReactionOrProcess 1010 1013 PCR
+T13 Microbes 1258 1271 Acinetobacter
+T14 Microbes 1276 1288 Marinobacter
+T15 ReactionOrProcess 1216 1226 reductions
+T16 Microbes 1372 1384 Marinobacter
+T17 Property 1519 1533 concentrations
+T18 ReactionOrProcess 1454 1463 reduction
+T19 Property 1656 1669 concentration
+R1 ActOn Arg1:T9 Arg2:T11
+R2 ActOn Arg1:T10 Arg2:T11
+R3 CarriedOn Arg1:T12 Arg2:T9
+R4 CarriedOn Arg1:T12 Arg2:T10
+R5 CarriedOn Arg1:T12 Arg2:T11
+R6 CarriedOn Arg1:T15 Arg2:T13
+R7 CarriedOn Arg1:T15 Arg2:T14
+R9 CarriedOn Arg1:T18 Arg2:T16

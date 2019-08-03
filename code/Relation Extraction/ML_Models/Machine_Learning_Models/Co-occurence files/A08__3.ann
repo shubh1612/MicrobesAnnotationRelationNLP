@@ -1,0 +1,93 @@
+T1	Substrate 32 35	oil
+T2	Nutrient 12 18	carbon
+T3	Nutrient 81 87	carbon
+T4	Substrate 158 170	hydrocarbons
+T5	Property 381 392	temperature
+T6	Environment 553 562	sediments
+T7	Nutrient 623 629	carbon
+T8	Nutrient 714 720	carbon
+T9	Nutrient 794 800	oxygen
+T10	Substrate 1005 1040	aliphatic and aromatic hydrocarbons
+T11	Property 836 847	temperature
+T12	Nutrient 995 1001	carbon
+T13	Substrate 1156 1163	methane
+T14	Nutrient 1190 1196	carbon
+T15	Nutrient 1221 1227	carbon
+T16	Substrate 1605 1629	non-methane hydrocarbons
+T17	Nutrient 1499 1505	carbon
+T18	Substrate 1784 1808	non-methane hydrocarbons
+T19	Microbes 1810 1850	Hydrocarbon-degrading anaerobic bacteria	
+T20	Microbes 1886 1902	aerobic bacteria
+T21	Substrate 1914 1926	hydrocarbons
+T22	Nutrient 1956 1973	electron acceptor
+T23	Enzyme 2092 2106	monooxygenases
+T24	Substrate 2176 2197	aromatic hydrocarbons
+T25	Substrate 2111 2154	aliphatic and certain aromatic hydrocarbons
+T26	Nutrient 2211 2217	oxygen
+T27	Substrate 2428 2440	hydrocarbons
+T28	Substrate 2485 2497	hydrocarbons
+T29	Property 2526 2543	anoxic conditions
+T30	Property 2506 2519	biodegradable
+T31	Nutrient 2352 2358	oxygen
+T32	Substrate 2648 2683	saturated and aromatic hydrocarbons
+T33	Property 2720 2737	anoxic conditions
+T34	Substrate 2764 2771	nitrate
+T35	ReactionOrProcess 2823 2844	anaerobic respiration
+T36	Nutrient 2780 2784	iron
+T37	Nutrient 2800 2818	electron acceptors
+T38	Microbes 3018 3025	archaea
+T39	Substrate 2952 2959	Methane	
+T40	Substrate 2983 3001	stable hydrocarbon
+T41	ReactionOrProcess 3031 3053	syntrophic association
+T42	Enzyme 3337 3346	oxygenase
+T43	Substrate 3210 3229	aerobic hydrocarbon
+T44	Substrate 3267 3288	anaerobic hydrocarbon
+T45	Property 3129 3146	anoxic conditions
+T46	Nutrient 3183 3189	oxygen
+T47	Substrate 3411 3423	hydrocarbons
+T48	ReactionOrProcess 3377 3397	anaerobic activation
+T49	Environment 3486 3502	marine sediments
+T50	Substrate 3504 3511	methane
+T51	Substrate 3475 3482	Methane	
+T52	Nutrient 3592 3598	oxygen
+T53	Substrate 3627 3634	methane
+T54	ReactionOrProcess 3665 3683	sulphate reduction
+T55	Substrate 3724 3731	methane
+T56	Property 3715 3723	Residual	
+T57	Substrate 3860 3867	methane
+T58	Substrate 3978 3985	methane
+T59	ReactionOrProcess 3868 3877	depletion
+T60	ReactionOrProcess 3946 3955	oxidation
+T63	Environment 4092 4114	anoxic marine sediment
+T64	Substrate 4081 4088	methane
+T65	Substrate 4259 4266	methane
+T66	ReactionOrProcess 4246 4255	oxidation
+T67	Nutrient 4272 4290	electron acceptors
+T68	Microbes 4428 4435	archaea
+T69	Substrate 4374 4381	methane
+T70	Property 4415 4427	methanogenic
+T71	ReactionOrProcess 4475 4489	methanogenesis
+T72	Microbes 4609 4616	archaea
+T73	Microbes 4595 4605	consortium
+T74	Environment 4504 4519	marine sediment
+T75	Substrate 4570 4577	methane
+T76	Substrate 4653 4660	methane
+T77	ReactionOrProcess 4707 4716	oxidation
+T78	ReactionOrProcess 4547 4566	anaerobic oxidation
+R2	ActOn Arg1:T20 Arg2:T21
+R3	CarriedOn Arg1:T35 Arg2:T34
+R4	ActOn Arg1:T38 Arg2:T39
+R5	ActOn Arg1:T38 Arg2:T40
+R6	CarriedOn Arg1:T41 Arg2:T38
+R7	CarriedOn Arg1:T41 Arg2:T39
+R8	CarriedOn Arg1:T41 Arg2:T40
+R9	CarriedOn Arg1:T48 Arg2:T47
+R10	CarriedOn Arg1:T54 Arg2:T53
+R11	CarriedOn Arg1:T59 Arg2:T57
+R14	CarriedOn Arg1:T60 Arg2:T58
+R15	CarriedOn Arg1:T66 Arg2:T65
+R16	Of Arg1:T68 Arg2:T70
+R24	ActOn Arg1:T73 Arg2:T75
+R28	CarriedOn Arg1:T78 Arg2:T72
+R29	CarriedOn Arg1:T78 Arg2:T73
+R32	CarriedOn Arg1:T78 Arg2:T75

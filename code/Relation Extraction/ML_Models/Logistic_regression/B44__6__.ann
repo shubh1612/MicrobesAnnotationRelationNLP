@@ -1,0 +1,34 @@
+T1	Substrate 94 101	toluene
+T2	Substrate 130 138	o-xylene
+T3	Substrate 202 214	hydrocarbons
+T4	Property 170 184	concentrations
+T5	Property 115 126	contaminant
+T6	Substrate 307 323	branched alkanes
+T7	ReactionOrProcess 268 276	degraded
+T8	Substrate 537 553	branched alkanes
+T9	Substrate 413 427	cyclic alkanes
+T10	Property 523 532	aromatics
+T11	Environment 1694 1699	Beach
+T12	Substrate 2145 2157	hydrocarbons
+T13	Substrate 2367 2379	hydrocarbons
+T14	ReactionOrProcess 2344 2354	catabolize
+T15	Substrate 2496 2507	hydrocarbon
+T16	Substrate 2713 2720	Alkanes
+T17	Property 2849 2858	aromatics
+T18	ReactionOrProcess 2822 2831	degrading
+T19	Substrate 2869 2876	benzene
+T20	Substrate 2881 2889	o-xylene
+T21	ReactionOrProcess 2895 2906	biodegraded
+T22	Substrate 3054 3065	hydrocarbon
+T23	ReactionOrProcess 3353 3362	extracted
+T24	Environment 3474 3485	groundwater
+T25	Microbes 3680 3702	Pseudomonas aeruginosa
+T26	Environment 3644 3655	groundwater
+T27	Microbes 3950 3960	P. cepacia
+T28	Microbes 3768 3781	P. aeruginosa
+T29	Microbes 3791 3800	P. putida
+T30	Microbes 3830 3844	P. fluorescens
+T31	Microbes 3728 3740	pseudomonads
+T32	Microbes 3854 3868	P. acidovorans
+T33	Microbes 3923 3937	P. alcaligenes
+R1	FoundIn Arg1:T25 Arg2:T26

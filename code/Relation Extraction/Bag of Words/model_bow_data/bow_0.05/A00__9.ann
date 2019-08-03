@@ -1,0 +1,74 @@
+T1	Substrate 43 46	PAH
+T2	Substrate 47 56	aromatics
+T3	Property 47 56	aromatics
+T4	ReactionOrProcess 17 28	degradation
+R1	CarriedOn Arg1:T4 Arg2:T1
+R2	CarriedOn Arg1:T4 Arg2:T2
+T5	Environment 314 319	plume
+T6	Substrate 267 288	abundant hydrocarbons
+T7	Substrate 238 242	BTEX
+T8	Substrate 267 288	abundant hydrocarbons
+T9	Substrate 276 288	hydrocarbons
+T10	Substrate 276 288	hydrocarbons
+T11	Substrate 169 172	oil
+T12	Environment 474 479	plume
+T13	Substrate 364 368	BTEX
+T14	Substrate 408 420	ethylbenzene
+T15	ReactionOrProcess 421 432	degradation
+T16	ReactionOrProcess 582 590	degraded
+T17	Environment 829 834	plume
+T18	Substrate 786 790	BTEX
+T19	ReactionOrProcess 757 782	negligible biodegradation
+T20	ReactionOrProcess 768 782	biodegradation
+R3	CarriedOn Arg1:T19 Arg2:T18
+R4	CarriedOn Arg1:T20 Arg2:T18
+T21	Substrate 1090 1101	hydrocarbon
+T22	ReactionOrProcess 1090 1113	hydrocarbon degradation
+T23	ReactionOrProcess 1102 1113	degradation
+T24	Substrate 1340 1351	hydrocarbon
+T25	ReactionOrProcess 1340 1363	hydrocarbon degradation
+T26	ReactionOrProcess 1352 1363	degradation
+T27	Enzyme 1898 1908	oxygenases
+T28	ReactionOrProcess 1789 1810	substrate degradation
+T29	ReactionOrProcess 1857 1865	degraded
+T30	ReactionOrProcess 1799 1810	degradation
+T31	Environment 2030 2035	plume
+T32	Enzyme 2057 2067	oxygenases
+T33	Substrate 2108 2115	benzene
+T34	Substrate 2117 2124	toluene
+T35	Substrate 2129 2133	PAHs
+T36	ReactionOrProcess 2093 2104	degradation
+R5	CarriedOn Arg1:T36 Arg2:T33
+R6	CarriedOn Arg1:T36 Arg2:T34
+R7	CarriedOn Arg1:T36 Arg2:T35
+R8	Inhibit_Catalyse Arg1:T32 Arg2:T36
+T37	Enzyme 2354 2367	monooxygenase
+T38	Enzyme 2415 2429	monooxygenases
+T39	Enzyme 2346 2367	methane monooxygenase
+T40	Enzyme 2407 2429	methane monooxygenases
+T41	Environment 2453 2458	plume
+T42	Substrate 2346 2353	methane
+T43	Substrate 2407 2414	methane
+T44	Property 2399 2406	soluble
+T45	Environment 2622 2627	plume
+T46	Environment 2618 2627	oil plume
+T47	Substrate 2618 2621	oil
+T48	ReactionOrProcess 2699 2717	alkane degradation
+T49	ReactionOrProcess 2706 2717	degradation
+T50	Substrate 2793 2813	abundant hydrocarbon
+T51	Substrate 2772 2779	methane
+T52	Substrate 2802 2813	hydrocarbon
+T53	Property 2868 2882	concentrations
+T54	Microbes 3163 3180	Oceanospirillales
+T55	Microbes 3102 3115	methanotrophs
+T56	Environment 3123 3128	plume
+T57	Substrate 3205 3212	alkanes
+T58	ReactionOrProcess 3192 3201	oxidation
+R9	CarriedOn Arg1:T58 Arg2:T57
+T59	Environment 3297 3302	plume
+T60	Substrate 3249 3256	methane
+T61	ReactionOrProcess 3257 3266	oxidation
+T62	Microbes 3491 3508	Oceanospirillales
+T63	Environment 3516 3521	plume
+T64	Environment 3714 3719	plume
+T65	Environment 3680 3685	water

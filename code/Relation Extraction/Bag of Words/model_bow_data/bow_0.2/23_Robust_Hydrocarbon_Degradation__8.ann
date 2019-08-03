@@ -1,0 +1,92 @@
+T1	Substrate 156 159	oil
+T2	Property 194 208	concentrations
+T3	ReactionOrProcess 160 171	degradation
+T4	ReactionOrProcess 156 171	oil degradation
+T5	Substrate 357 364	alkanes
+T6	Substrate 382 385	oil
+T7	ReactionOrProcess 347 356	degrading
+T8	Property 462 474	methanogenic
+T9	Property 462 474	methanogenic
+T10	Property 455 461	stable
+T11	Nutrient 492 499	glucose
+T12	Property 703 722	pollutant-degrading
+T13	Property 741 746	speed
+T14	ReactionOrProcess 652 666	Bioremediation
+T15	Environment 946 956	microcosms
+T16	Substrate 1013 1016	oil
+T17	Substrate 1018 1021	Oil
+T18	ReactionOrProcess 1040 1054	bioremediation
+T19	ReactionOrProcess 1383 1387	DGGE
+T20	ReactionOrProcess 1383 1396	DGGE analysis
+T21	Microbes 1444 1460	α-proteobacteria
+T22	Substrate 1521 1524	oil
+T23	ReactionOrProcess 1428 1442	bioremediation
+R1	CarriedOn Arg1:T23 Arg2:T22
+T24	Microbes 1616 1632	α-proteobacteria
+T25	ReactionOrProcess 1793 1803	metabolize
+T26	Nutrient 1959 1965	carbon
+T27	Environment 2172 2188	intertidal beach
+T28	Environment 2189 2198	sediments
+T29	Environment 2172 2198	intertidal beach sediments
+T30	Environment 2183 2188	beach
+T31	Environment 2172 2198	intertidal beach sediments
+T32	Environment 2335 2351	intertidal beach
+T33	Environment 2352 2361	sediments
+T34	Environment 2335 2361	intertidal beach sediments
+T35	Environment 2346 2351	beach
+T36	Environment 2335 2361	intertidal beach sediments
+T37	Environment 2555 2564	sediments
+T38	Environment 2549 2554	beach
+T39	Substrate 2573 2576	oil
+T40	ReactionOrProcess 2583 2597	bioremediation
+T41	Microbes 2746 2762	γ-proteobacteria
+T42	Environment 2778 2788	microcosms
+T43	Microbes 2930 2946	α-proteobacteria
+T44	Microbes 2794 2810	γ-proteobacteria
+T45	Environment 2845 2853	sediment
+T46	Environment 2950 2960	microcosms
+T47	Substrate 2875 2878	oil
+T48	Substrate 2974 2977	oil
+T49	Environment 3059 3069	microcosms
+T50	Environment 3229 3239	microcosms
+T51	Substrate 3154 3157	PAH
+T52	Substrate 3184 3195	hydrocarbon
+T53	Property 3145 3153	residual
+T54	ReactionOrProcess 3184 3207	hydrocarbon degradation
+T55	ReactionOrProcess 3033 3051	alkane degradation
+T56	ReactionOrProcess 3025 3051	ongoing alkane degradation
+T57	ReactionOrProcess 3040 3051	degradation
+T58	ReactionOrProcess 3196 3207	degradation
+R2	CarriedOn Arg1:T54 Arg2:T51
+R3	CarriedOn Arg1:T54 Arg2:T52
+R4	CarriedOn Arg1:T55 Arg2:T51
+R5	CarriedOn Arg1:T55 Arg2:T52
+R6	CarriedOn Arg1:T56 Arg2:T51
+R7	CarriedOn Arg1:T56 Arg2:T52
+R8	CarriedOn Arg1:T57 Arg2:T51
+R9	CarriedOn Arg1:T57 Arg2:T52
+R10	CarriedOn Arg1:T58 Arg2:T51
+R11	CarriedOn Arg1:T58 Arg2:T52
+T59	Microbes 3336 3352	γ-proteobacteria
+T60	Microbes 3518 3534	γ-proteobacteria
+T61	Environment 3273 3282	sediments
+T62	Environment 3379 3388	sediments
+T63	Environment 3492 3495	Sea
+T64	Environment 3356 3388	oil-contaminated beach sediments
+T65	Environment 3373 3378	beach
+T66	Environment 3356 3388	oil-contaminated beach sediments
+T67	Environment 3356 3378	oil-contaminated beach
+T68	Substrate 3431 3434	oil
+T69	Substrate 3460 3463	oil
+T70	Microbes 3616 3632	γ-proteobacteria
+T71	Substrate 3717 3728	spilled oil
+T72	Substrate 3725 3728	oil
+T73	Microbes 3822 3845	Alcanivorax borkumensis
+T74	Substrate 3973 3980	alkanes
+T75	Substrate 4059 4066	Alkanes
+T76	Substrate 4279 4290	hydrocarbon
+T77	Substrate 4077 4080	oil
+T78	ReactionOrProcess 4279 4302	hydrocarbon degradation
+T79	ReactionOrProcess 4223 4237	bioremediation
+T80	ReactionOrProcess 4291 4302	degradation
+R12	CarriedOn Arg1:T79 Arg2:T76

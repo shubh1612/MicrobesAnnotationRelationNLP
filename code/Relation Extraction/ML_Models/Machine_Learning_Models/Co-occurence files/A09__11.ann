@@ -1,0 +1,84 @@
+T1	ReactionOrProcess 0 9	Isolation
+T2	Microbes 329 342	Acinetobacter
+T3	Microbes 302 314	Marinobacter
+T4	Environment 424 435	Beach sands
+T5	Substrate 506 509	oil
+T6	Substrate 595 598	oil
+T7	ReactionOrProcess 587 594	degrade
+T9	Environment 738 744	marine
+T10	Environment 645 656	Beach sands
+T11	Substrate 796 808	hydrocarbons
+T12	Substrate 792 795	oil
+T13	Environment 1012 1018	marine
+T14	Substrate 887 899	hydrocarbons
+T15	Substrate 883 886	oil
+T16	ReactionOrProcess 875 882	degrade
+T17	Microbes 1120 1139	Gammaproteobacteria
+T18	Substrate 1204 1211	alkanes
+T19	ReactionOrProcess 1196 1203	degrade
+T20	Substrate 1445 1448	PAH
+T21	ReactionOrProcess 1449 1460	degradation
+T22	Substrate 1675 1679	PAHs
+T23	Substrate 1651 1663	hydrocarbons
+T24	Substrate 1587 1590	oil
+T25	ReactionOrProcess 1579 1586	degrade
+T26	ReactionOrProcess 1640 1650	metabolize
+T27	Microbes 1867 1879	Marinobacter
+T28	Substrate 1937 1948	hydrocarbon
+T30	Microbes 2055 2067	Marinobacter	
+T31	Substrate 2192 2202	aliphatics
+T32	Substrate 2207 2211	PAHs
+T35	ReactionOrProcess 2622 2633	utilization
+T37	Substrate 3164 3175	hydrocarbon
+T38	Property 3176 3185	degraders
+T39	Substrate 3673 3684	hydrocarbon
+T40	Substrate 3826 3829	oil
+T41	Property 3685 3694	degraders
+T42	ReactionOrProcess 3749 3764	oil degradation
+T43	Substrate 4010 4021	hydrocarbon
+T44	Property 4022 4031	degraders
+T45	ReactionOrProcess 3850 3859	isolation
+T46	Environment 4359 4370	Beach sands
+T47	Substrate 4390 4393	oil
+T48	Substrate 4406 4409	oil
+T49	ReactionOrProcess 4202 4211	isolation
+T50	Microbes 4461 4480	Gammaproteobacteria
+T51	Microbes 4714 4730	Rhodobacteraceae
+T52	Microbes 4679 4698	Alphaproteobacteria
+T53	Environment 4588 4599	beach sands
+T54	Substrate 4638 4647	n-alkanes
+T55	Substrate 4905 4909	PAHs
+T56	Substrate 4858 4886	recalcitrant oil hydrocarbon
+T57	Substrate 4552 4555	oil
+T58	ReactionOrProcess 4556 4579	hydrocarbon degradation
+T59	ReactionOrProcess 4836 4847	degradation
+T60	Substrate 5071 5082	hydrocarbon
+T61	Property 5083 5092	degraders
+T62	ReactionOrProcess 5219 5242	hydrocarbon degradation
+R4	CarriedOn Arg1:T7 Arg2:T6
+R5	CarriedOn Arg1:T16 Arg2:T14
+R6	CarriedOn Arg1:T16 Arg2:T15
+R10	CarriedOn Arg1:T19 Arg2:T18
+R11	CarriedOn Arg1:T21 Arg2:T20
+R14	CarriedOn Arg1:T25 Arg2:T24
+R15	CarriedOn Arg1:T26 Arg2:T22
+R16	CarriedOn Arg1:T26 Arg2:T23
+R43	CarriedOn Arg1:T58 Arg2:T50
+R52	CarriedOn Arg1:T58 Arg2:T57
+R57	OccursIn Arg1:T58 Arg2:T53
+T63	Microbes 316 327	Pseudomonas
+T64	Microbes 344 352	Bacillus
+T65	Microbes 358 371	Microbulbifer
+T66	Microbes 289 300	Alcanivorax
+T8	Microbes 1296 1312	Acinetobacter sp
+T67	Microbes 1315 1326	Bacillus sp
+T68	Microbes 1329 1342	Labrenzia sp.
+T69	Microbes 1344 1361	Microbacterium sp
+T70	Microbes 1364 1389	M. hydrocarbonoclasticus,
+T71	Microbes 1390 1406	P. pachastrellae
+T72	Microbes 1412 1423	P. stutzeri
+T73	Microbes 1851 1862	Alcanivorax
+T29	Microbes 4700 4709	Labrenzia
+T33	Property 4736 4749	Gram-positive
+T34	Microbes 4758 4766	Bacillus
+T36	Microbes 4771 4785	Microbacterium

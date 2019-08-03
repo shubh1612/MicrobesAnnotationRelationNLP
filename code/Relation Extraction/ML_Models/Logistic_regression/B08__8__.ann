@@ -1,0 +1,70 @@
+T1	Environment 41 45	soil
+T2	Environment 20 25	water
+T3	Nutrient 196 202	oxygen
+T4	Environment 286 290	soil
+T5	Substrate 235 256	aromatic hydrocarbons
+T6	Nutrient 304 310	oxygen
+T7	Environment 489 493	soil
+T8	Environment 389 400	vadose zone
+T9	Substrate 449 470	aromatic hydrocarbons
+T10	Substrate 555 576	aromatic hydrocarbons
+T11	ReactionOrProcess 367 381	Biodegradation
+T12	Nutrient 475 481	oxygen
+T13	Nutrient 519 525	oxygen
+T14	Environment 626 637	groundwater
+T15	Environment 687 698	groundwater
+T16	Property 742 751	dissolved
+T17	Nutrient 752 758	oxygen
+T18	Environment 798 809	groundwater
+T19	Environment 829 847	contaminated sites
+T20	Substrate 760 781	Aromatic hydrocarbons
+T21	Property 855 864	dissolved
+T22	Nutrient 865 871	oxygen
+T23	Environment 1098 1102	soil
+T24	Nutrient 942 948	oxygen
+T25	Nutrient 1003 1009	oxygen
+T26	Nutrient 1084 1090	oxygen
+T27	ReactionOrProcess 1287 1296	depletion
+T28	ReactionOrProcess 1305 1328	hydrocarbon degradation
+T29	Nutrient 1280 1286	oxygen
+T30	Nutrient 1484 1490	oxygen
+T31	Nutrient 1529 1535	oxygen
+T32	ReactionOrProcess 1591 1614	hydrocarbon degradation
+T33	ReactionOrProcess 1755 1766	degradation
+T34	Substrate 1932 1941	petroleum
+T35	ReactionOrProcess 1901 1915	biodegradation
+T36	Substrate 2123 2129	diesel
+T37	Substrate 2355 2373	volatile aromatics
+T38	ReactionOrProcess 2331 2345	mineralisation
+T39	Environment 2424 2434	microcosms
+T40	Environment 2484 2488	soil
+T41	Environment 2530 2534	soil
+T42	Substrate 2559 2566	benzene
+T43	ReactionOrProcess 2567 2581	mineralisation
+T44	Environment 2661 2665	soil
+T45	Environment 2832 2836	soil
+T46	Substrate 2605 2626	aromatic hydrocarbons
+T47	Property 2587 2601	concentrations
+T48	ReactionOrProcess 2740 2754	mineralisation
+T49	Nutrient 2639 2645	carbon
+T50	Nutrient 2628 2634	oxygen
+T51	Environment 2846 2850	Soil
+T52	ReactionOrProcess 2908 2922	mineralisation
+T53	Environment 3020 3024	Soil
+T54	Substrate 3078 3089	hydrocarbon
+T55	Nutrient 3101 3107	oxygen
+T56	Substrate 3248 3275	total petroleum hydrocarbon
+T57	ReactionOrProcess 3282 3296	mineralisation
+T58	Nutrient 3169 3175	oxygen
+T59	Substrate 3395 3406	hydrocarbon
+T60	ReactionOrProcess 3407 3421	mineralisation
+T61	Substrate 3573 3605	mineralise aromatic hydrocarbons
+T62	Substrate 3512 3515	TPH
+T63	Property 3494 3508	concentrations
+T64	Environment 3720 3725	soils
+T65	Substrate 3638 3673	population mineralised hydrocarbons
+T66	Substrate 3784 3795	hydrocarbon
+T67	Environment 3958 3962	soil
+T68	Environment 4078 4082	soil
+T69	Substrate 3894 3905	hydrocarbon
+T70	ReactionOrProcess 4058 4067	extracted

@@ -1,0 +1,93 @@
+T1	Substrate 102 109	toluene
+T2	Substrate 46 53	nitrate
+T3	Environment 179 190	groundwater
+T4	Environment 272 279	aquifer
+T5	Substrate 313 320	nitrate
+T6	ReactionOrProcess 381 402	anaerobic respiration
+T7	ReactionOrProcess 200 209	reduction
+T8	ReactionOrProcess 192 209	sulfate reduction
+T9	Nutrient 144 161	electron acceptor
+T10	Nutrient 327 344	electron acceptor
+R1	CarriedOn Arg1:T7 Arg2:T5
+R2	CarriedOn Arg1:T8 Arg2:T5
+T11	Environment 643 655	groundwaters
+T12	Environment 411 416	plume
+T13	Substrate 623 631	gasoline
+T14	Substrate 460 467	toluene
+T15	Substrate 496 503	methane
+T16	Property 599 608	dissolved
+T17	ReactionOrProcess 434 443	depletion
+T18	ReactionOrProcess 521 530	reduction
+T19	ReactionOrProcess 513 530	sulfate reduction
+R3	CarriedOn Arg1:T17 Arg2:T13
+R4	CarriedOn Arg1:T17 Arg2:T14
+R5	CarriedOn Arg1:T17 Arg2:T15
+R6	CarriedOn Arg1:T18 Arg2:T13
+R7	CarriedOn Arg1:T19 Arg2:T13
+T20	Environment 788 799	groundwater
+T21	Environment 834 858	underground storage tank
+T22	Substrate 817 825	gasoline
+T23	Substrate 747 754	benzene
+T24	Substrate 760 767	toluene
+T25	Property 725 739	concentrations
+T26	Environment 1059 1070	groundwater
+T27	Environment 1005 1010	plume
+T28	Property 966 979	concentration
+T29	Property 1027 1040	concentration
+T30	ReactionOrProcess 1113 1122	reduction
+T31	ReactionOrProcess 1105 1122	sulfate reduction
+T32	Environment 1250 1255	plume
+T33	Substrate 1259 1266	benzene
+T34	ReactionOrProcess 1297 1306	reduction
+T35	ReactionOrProcess 1267 1278	degradation
+T36	ReactionOrProcess 1289 1306	sulfate reduction
+T37	Environment 1411 1416	plume
+T38	Environment 1549 1556	aquifer
+T39	Substrate 1457 1464	benzene
+T40	Substrate 1441 1448	toluene
+T41	Property 1528 1537	saturated
+T42	ReactionOrProcess 1490 1504	mineralisation
+T43	ReactionOrProcess 1319 1330	Degradation
+R8	CarriedOn Arg1:T43 Arg2:T39
+R9	CarriedOn Arg1:T43 Arg2:T40
+T44	Environment 1699 1715	nitrate-reducing
+T45	Substrate 1638 1645	benzene
+T46	Substrate 1790 1802	hydrocarbons
+T47	Substrate 1790 1802	hydrocarbons
+T48	ReactionOrProcess 1650 1658	degraded
+R10	CarriedOn Arg1:T48 Arg2:T46
+R11	CarriedOn Arg1:T48 Arg2:T47
+T49	Environment 1970 1981	groundwater
+T50	Environment 1859 1875	nitrate-reducing
+T51	Substrate 1828 1835	Toluene
+T52	Substrate 2008 2015	nitrate
+T53	ReactionOrProcess 1957 1966	depletion
+T54	ReactionOrProcess 1844 1852	degraded
+T55	ReactionOrProcess 1932 1943	degradation
+T56	ReactionOrProcess 1920 1943	concomitant degradation
+R12	CarriedOn Arg1:T54 Arg2:T52
+T57	Environment 2264 2275	groundwater
+T58	Environment 2348 2353	plume
+T59	Environment 2257 2275	anoxic groundwater
+T60	Environment 2333 2338	water
+T61	Substrate 2490 2497	benzene
+T62	ReactionOrProcess 2475 2486	Degradation
+R13	CarriedOn Arg1:T62 Arg2:T61
+T63	Substrate 2694 2701	benzene
+T64	Environment 2832 2837	plume
+T65	Substrate 2847 2858	hydrocarbon
+T66	ReactionOrProcess 2794 2817	first order degradation
+T67	ReactionOrProcess 2806 2817	degradation
+T68	Microbes 3165 3178	Desulfovibrio
+T69	ReactionOrProcess 3087 3100	hybridization
+R14	CarriedOn Arg1:T69 Arg2:T68
+T70	Environment 3225 3230	water
+T71	Environment 3410 3415	plume
+T72	Substrate 3322 3330	gasoline
+T73	Property 3416 3429	concentration
+T74	ReactionOrProcess 3289 3312	first order degradation
+T75	ReactionOrProcess 3301 3312	degradation
+R15	CarriedOn Arg1:T74 Arg2:T72
+R16	CarriedOn Arg1:T75 Arg2:T72
+T76	Environment 3542 3547	plume
+T77	Environment 3589 3600	groundwater

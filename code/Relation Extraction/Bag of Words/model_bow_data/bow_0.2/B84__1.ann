@@ -1,0 +1,153 @@
+T1	Substrate 49 71	Norman Wells Crude Oil
+T2	Substrate 209 231	Norman Wells crude oil
+T3	Substrate 29 45	Alkyl Carbazoles
+T4	Substrate 56 71	Wells Crude Oil
+T5	Substrate 216 231	Wells crude oil
+T6	Substrate 35 45	Carbazoles
+T7	Substrate 62 71	Crude Oil
+T8	Substrate 222 231	crude oil
+T9	Substrate 35 45	Carbazoles
+T10	Substrate 68 71	Oil
+T11	Substrate 228 231	oil
+T12	ReactionOrProcess 236 248	fractionated
+T13	ReactionOrProcess 0 25	B84 Microbial Degradation
+T14	ReactionOrProcess 14 25	Degradation
+T15	ReactionOrProcess 4 25	Microbial Degradation
+R1	CarriedOn Arg1:T13 Arg2:T1
+R2	CarriedOn Arg1:T13 Arg2:T2
+R3	CarriedOn Arg1:T13 Arg2:T3
+R4	CarriedOn Arg1:T13 Arg2:T4
+R5	CarriedOn Arg1:T13 Arg2:T5
+R6	CarriedOn Arg1:T13 Arg2:T6
+R7	CarriedOn Arg1:T13 Arg2:T7
+R8	CarriedOn Arg1:T13 Arg2:T8
+R9	CarriedOn Arg1:T13 Arg2:T9
+R10	CarriedOn Arg1:T13 Arg2:T10
+R11	CarriedOn Arg1:T13 Arg2:T11
+R12	CarriedOn Arg1:T14 Arg2:T1
+R13	CarriedOn Arg1:T14 Arg2:T2
+R14	CarriedOn Arg1:T14 Arg2:T3
+R15	CarriedOn Arg1:T14 Arg2:T4
+R16	CarriedOn Arg1:T14 Arg2:T5
+R17	CarriedOn Arg1:T14 Arg2:T6
+R18	CarriedOn Arg1:T14 Arg2:T7
+R19	CarriedOn Arg1:T14 Arg2:T8
+R20	CarriedOn Arg1:T14 Arg2:T9
+R21	CarriedOn Arg1:T14 Arg2:T10
+R22	CarriedOn Arg1:T14 Arg2:T11
+R23	CarriedOn Arg1:T15 Arg2:T1
+R24	CarriedOn Arg1:T15 Arg2:T2
+R25	CarriedOn Arg1:T15 Arg2:T3
+R26	CarriedOn Arg1:T15 Arg2:T4
+R27	CarriedOn Arg1:T15 Arg2:T5
+R28	CarriedOn Arg1:T15 Arg2:T6
+R29	CarriedOn Arg1:T15 Arg2:T7
+R30	CarriedOn Arg1:T15 Arg2:T8
+R31	CarriedOn Arg1:T15 Arg2:T9
+R32	CarriedOn Arg1:T15 Arg2:T10
+R33	CarriedOn Arg1:T15 Arg2:T11
+T16	Substrate 440 450	carbazoles
+T17	Substrate 440 450	carbazoles
+T18	Substrate 585 606	nitrogen heterocycles
+T19	Substrate 541 550	carbazole
+T20	ReactionOrProcess 577 584	degrade
+T21	Nutrient 585 593	nitrogen
+T22	Substrate 684 706	Norman Wells crude oil
+T23	Substrate 691 706	Wells crude oil
+T24	Substrate 697 706	crude oil
+T25	Substrate 703 706	oil
+T26	ReactionOrProcess 633 642	inoculate
+R34	CarriedOn Arg1:T26 Arg2:T22
+R35	CarriedOn Arg1:T26 Arg2:T23
+R36	CarriedOn Arg1:T26 Arg2:T24
+R37	CarriedOn Arg1:T26 Arg2:T25
+T27	Substrate 717 720	oil
+T28	Property 708 716	Residual
+T29	ReactionOrProcess 761 771	incubation
+T30	ReactionOrProcess 880 906	nitrogen-specific detector
+T31	ReactionOrProcess 898 906	detector
+T32	ReactionOrProcess 842 870	capillary gas chromatography
+T33	Substrate 938 948	carbazoles
+T34	Substrate 938 948	carbazoles
+T35	ReactionOrProcess 980 988	degraded
+T36	ReactionOrProcess 1041 1051	incubation
+T37	ReactionOrProcess 1015 1026	degradation
+T38	ReactionOrProcess 1131 1145	biodegradation
+T39	Microbes 1173 1199	carbazole-enriched culture
+T40	Environment 1310 1314	soil
+T41	Environment 1304 1314	crude soil
+T42	Substrate 1250 1271	aromatic hydrocarbons
+T43	Substrate 1237 1248	isoprenoids
+T44	Substrate 1277 1296	sulfur heterocycles
+T45	Substrate 1250 1271	aromatic hydrocarbons
+T46	Substrate 1226 1235	n-alkanes
+T47	Substrate 1259 1271	hydrocarbons
+T48	Substrate 1259 1271	hydrocarbons
+T49	Substrate 1277 1283	sulfur
+T50	Property 1173 1191	carbazole-enriched
+T51	Property 1250 1258	aromatic
+T52	ReactionOrProcess 1218 1225	degrade
+R38	CarriedOn Arg1:T52 Arg2:T44
+R39	CarriedOn Arg1:T52 Arg2:T49
+T53	Substrate 1316 1325	Crude oil
+T54	Substrate 1322 1325	oil
+T55	Substrate 1593 1596	oil
+T56	Substrate 1675 1678	oil
+T57	Property 1569 1589	chemical composition
+T58	Property 1666 1674	residual
+T59	ReactionOrProcess 1928 1936	detector
+T60	ReactionOrProcess 1841 1869	capillary gas chromatography
+T61	ReactionOrProcess 1755 1785	computerized mass spectrometry
+T62	ReactionOrProcess 1792 1834	13C nuclear magnetic resonance spectometry
+T63	ReactionOrProcess 1884 1936	capillary GC coupled with a sulfur-specific detector
+T64	Substrate 1958 1961	oil
+T65	Substrate 2229 2248	sulfur heterocycles
+T66	Substrate 2131 2140	n-alkanes
+T67	Substrate 2194 2212	aromatic compounds
+T68	Substrate 2194 2212	aromatic compounds
+T69	Substrate 2229 2235	sulfur
+T70	Property 2194 2202	aromatic
+T71	Substrate 2366 2369	oil
+T72	ReactionOrProcess 2332 2339	degrade
+T73	Nutrient 2344 2352	nitrogen
+T74	Substrate 2434 2444	crude oils
+T75	Substrate 2371 2380	Petroleum
+T76	Substrate 2434 2444	crude oils
+T77	Substrate 2440 2444	oils
+T78	Nutrient 2409 2417	nitrogen
+T79	Substrate 2674 2682	pyrroles
+T80	Substrate 2525 2534	petroleum
+T81	Substrate 2684 2694	carbazoles
+T82	Substrate 2684 2694	carbazoles
+T83	Substrate 2611 2621	quinolines
+T84	Substrate 2722 2737	aromatic amides
+T85	Substrate 2626 2641	phenanthridines
+T86	Property 2722 2730	aromatic
+T87	Nutrient 2503 2511	nitrogen
+T88	Nutrient 2611 2621	quinolines
+T89	Property 2915 2923	residues
+T90	Substrate 2947 2956	Petroleum
+T91	Substrate 2933 2956	high American Petroleum
+T92	Substrate 2925 2928	Oil
+T93	Substrate 2925 2929	Oils
+T94	Nutrient 2995 3003	nitrogen
+T95	Substrate 3150 3153	oil
+T96	Substrate 3082 3086	oils
+T97	ReactionOrProcess 3138 3153	cracking of oil
+T98	Nutrient 3060 3068	nitrogen
+T99	Substrate 3229 3239	crude oils
+T100	Substrate 3217 3239	low-boiling crude oils
+T101	Substrate 3229 3239	crude oils
+T102	Substrate 3235 3239	oils
+T103	Substrate 3288 3292	oils
+T104	Nutrient 3309 3317	nitrogen
+T105	Microbes 3342 3361	enrichment cultures
+T106	Substrate 3420 3441	nitrogen heterocycles
+T107	ReactionOrProcess 3342 3352	enrichment
+T108	ReactionOrProcess 3405 3414	degrading
+T109	Nutrient 3420 3428	nitrogen
+R40	CarriedOn Arg1:T107 Arg2:T106
+T110	Microbes 3569 3580	Nocardia sp
+T111	Nutrient 3625 3631	carbon
+T112	Nutrient 3633 3641	nitrogen
+T113	Property 3765 3778	gram-negative

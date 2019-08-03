@@ -1,0 +1,63 @@
+T1	Microbes 8 22	Geobacteraceae
+T2	Environment 197 206	sediments
+T3	Environment 234 252	methanogenic sites
+T4	Microbes 365 379	Geobacteraceae
+T5	Microbes 437 451	Geobacteraceae
+T6	ReactionOrProcess 483 491	reducing
+T7	Property 594 611	benzene-oxidizing
+T8	Microbes 735 753	enrichment culture
+T9	Microbes 663 675	V. parodoxus
+T10	Property 699 716	benzene-oxidizing
+T11	Microbes 872 884	V. parodoxus
+T12	ReactionOrProcess 900 929	anaerobic benzene degradation
+T13	Microbes 1068 1080	Geobacter sp
+T14	Microbes 1115 1127	V. parodoxus
+T15	Microbes 1043 1053	consortium
+T16	Environment 1168 1195	benzene-oxidizing sediments
+T17	ReactionOrProcess 1204 1214	enrichment
+T18	ReactionOrProcess 983 1012	anaerobic benzene degradation
+T19	Microbes 1440 1453	Geobacter spp
+T20	Environment 1520 1550	petroleum-contaminated aquifer
+T21	Substrate 1492 1499	benzene
+T22	ReactionOrProcess 1500 1511	degradation
+T23	Microbes 1629 1643	Geobacteraceae
+T24	Microbes 1744 1757	Geobacter spp
+T25	Substrate 1663 1670	benzene
+T26	ReactionOrProcess 1698 1708	enrichment
+T27	ReactionOrProcess 1671 1682	degradation
+T28	Microbes 2008 2021	Geobacter spp
+T29	Environment 1819 1843	uncontaminated sediments
+T30	Substrate 1774 1781	benzene
+T31	Substrate 1924 1950	oxidize aromatic compounds
+T32	ReactionOrProcess 1960 1969	reduction
+T33	ReactionOrProcess 1782 1793	degradation
+T34	Microbes 2088 2106	enrichment culture
+T35	Environment 2124 2151	benzene-degrading sediments
+T36	Environment 2162 2169	aquifer
+T37	Property 2052 2069	benzene-oxidizing
+T38	Microbes 2245 2258	Geobacter spp
+T39	ReactionOrProcess 2231 2241	enrichment
+T40	ReactionOrProcess 2341 2370	anaerobic benzene degradation
+T41	Substrate 2468 2475	benzene
+T42	ReactionOrProcess 2476 2487	degradation
+T43	Environment 2575 2584	sediments
+T44	Environment 2554 2574	contaminated aquifer
+T45	ReactionOrProcess 2699 2720	phylogenetic analyses
+T46	ReactionOrProcess 2644 2667	contaminant degradation
+T47	ReactionOrProcess 2530 2550	phylogenetic studies
+T48	ReactionOrProcess 2769 2798	anaerobic benzene degradation
+R1	FoundIn Arg1:T1 Arg2:T2
+R2	FoundIn Arg1:T1 Arg2:T3
+R3	Of Arg1:T8 Arg2:T10
+R4	Of Arg1:T9 Arg2:T10
+R5	FoundIn Arg1:T13 Arg2:T16
+R6	FoundIn Arg1:T14 Arg2:T16
+R7	FoundIn Arg1:T15 Arg2:T16
+R8	ActOn Arg1:T23 Arg2:T25
+R9	ActOn Arg1:T24 Arg2:T25
+R10	FoundIn Arg1:T28 Arg2:T29
+R11	ActOn Arg1:T28 Arg2:T30
+R12	ActOn Arg1:T28 Arg2:T31
+R13	FoundIn Arg1:T34 Arg2:T35
+R14	FoundIn Arg1:T34 Arg2:T36
+R15	Of Arg1:T34 Arg2:T37

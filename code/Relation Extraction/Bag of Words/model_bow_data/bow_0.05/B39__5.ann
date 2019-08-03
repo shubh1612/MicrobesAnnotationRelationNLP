@@ -1,0 +1,73 @@
+T1	Environment 49 54	soils
+T2	Substrate 73 83	crude oils
+T3	Substrate 73 83	crude oils
+T4	Substrate 23 26	TPH
+T5	Substrate 79 83	oils
+T6	Substrate 176 185	petroleum
+T7	Substrate 153 156	oil
+T8	Property 241 249	toxicity
+T9	Property 157 170	concentration
+T10	Property 251 263	mutagenicity
+T11	Property 269 284	carcinogenicity
+T12	Property 241 249	toxicity
+T13	Property 288 299	Ecotoxicity
+T14	ReactionOrProcess 300 309	bioassays
+T15	Environment 436 465	oily sludge-contaminated soil
+T16	Environment 441 465	sludge-contaminated soil
+T17	Environment 461 465	soil
+T18	Property 420 428	toxicity
+T19	Property 420 428	toxicity
+T20	Property 572 582	solubility
+T21	Property 676 684	toxicity
+T22	Property 676 684	toxicity
+T23	Nutrient 603 606	DCM
+T24	Property 724 729	toxic
+T25	Nutrient 703 706	DCM
+T26	Substrate 834 846	hydrocarbons
+T27	Substrate 834 846	hydrocarbons
+T28	Property 782 794	low toxicity
+T29	Property 820 830	solubility
+T30	Property 786 794	toxicity
+T31	Property 786 794	toxicity
+T32	Nutrient 872 875	DCM
+T33	Nutrient 773 777	DMSO
+T34	Nutrient 850 854	DMSO
+T35	Nutrient 943 946	DCM
+T36	Environment 995 999	soil
+T37	Property 979 987	toxicity
+T38	Property 979 987	toxicity
+T39	ReactionOrProcess 1058 1072	bioremediation
+T40	Environment 1112 1116	soil
+T41	ReactionOrProcess 1132 1146	bioremediation
+T42	Environment 1334 1338	soil
+T43	Property 1301 1309	toxicity
+T44	Property 1301 1309	toxicity
+T45	ReactionOrProcess 1274 1288	bioremediation
+T46	Environment 1462 1466	soil
+T47	Environment 1446 1466	physicochemical soil
+T48	ReactionOrProcess 1342 1356	Bioremediation
+T49	Environment 1646 1657	oily sludge
+T50	Substrate 1509 1531	indigenous hydrocarbon
+T51	Substrate 1520 1531	hydrocarbon
+T52	Property 1547 1568	hydrolyzable nitrogen
+T53	Property 1532 1541	degraders
+T54	ReactionOrProcess 1627 1638	degradation
+T55	ReactionOrProcess 1617 1626	stimulate
+T56	Nutrient 1560 1568	nitrogen
+T57	Nutrient 1573 1583	phosphorus
+T58	ReactionOrProcess 1669 1687	addition of manure
+T59	Environment 1960 1964	soil
+T60	Substrate 1830 1833	TPH
+T61	ReactionOrProcess 1814 1828	bioremediation
+T62	Environment 2018 2022	soil
+T63	Property 1968 1979	Biotoxicity
+T64	ReactionOrProcess 1968 1979	Biotoxicity
+T65	Environment 2091 2103	treated soil
+T66	Environment 2099 2103	soil
+T67	Property 2113 2118	toxic
+T68	Environment 2329 2333	soil
+T69	Environment 2379 2383	soil
+T70	Substrate 2235 2238	TPH
+T71	Substrate 2360 2363	TPH
+T72	ReactionOrProcess 2340 2354	bioremediation
+T73	ReactionOrProcess 2445 2456	remediation

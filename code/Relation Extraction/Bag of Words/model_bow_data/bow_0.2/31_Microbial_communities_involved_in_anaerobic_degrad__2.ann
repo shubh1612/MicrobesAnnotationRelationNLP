@@ -1,0 +1,181 @@
+T1	Substrate 52 59	alkanes
+T2	ReactionOrProcess 37 48	degradation
+R1	CarriedOn Arg1:T2 Arg2:T1
+T3	Substrate 121 142	aromatic hydrocarbons
+T4	Substrate 121 142	aromatic hydrocarbons
+T5	Substrate 130 142	hydrocarbons
+T6	Substrate 130 142	hydrocarbons
+T7	Property 121 129	aromatic
+T8	ReactionOrProcess 103 117	biodegradation
+R2	CarriedOn Arg1:T8 Arg2:T3
+R3	CarriedOn Arg1:T8 Arg2:T4
+R4	CarriedOn Arg1:T8 Arg2:T5
+R5	CarriedOn Arg1:T8 Arg2:T6
+T9	Substrate 508 523	alkylsuccinates
+T10	Substrate 345 352	alkanes
+T11	Substrate 553 560	alkanes
+T12	Property 616 633	anoxic conditions
+T13	Property 596 609	biodegradable
+T14	ReactionOrProcess 538 549	degradation
+T15	ReactionOrProcess 528 549	Anaerobic degradation
+R6	CarriedOn Arg1:T14 Arg2:T11
+R7	CarriedOn Arg1:T15 Arg2:T11
+T16	Substrate 840 847	alkanes
+T17	Substrate 910 920	hexadecane
+T18	ReactionOrProcess 812 836	anaerobic biodegradation
+T19	ReactionOrProcess 822 836	biodegradation
+T20	Nutrient 861 879	electron acceptors
+R8	CarriedOn Arg1:T18 Arg2:T16
+R9	CarriedOn Arg1:T18 Arg2:T17
+R10	CarriedOn Arg1:T19 Arg2:T16
+R11	CarriedOn Arg1:T19 Arg2:T17
+T21	Substrate 962 969	alkanes
+T22	ReactionOrProcess 944 958	Biodegradation
+R12	CarriedOn Arg1:T22 Arg2:T21
+T23	Environment 1071 1087	nitrate-reducing
+T24	Environment 1206 1231	underground storage tanks
+T25	Environment 1193 1201	aquifers
+T26	Substrate 1164 1173	crude oil
+T27	Substrate 1052 1064	hydrocarbons
+T28	Substrate 1052 1064	hydrocarbons
+T29	Substrate 1170 1173	oil
+T30	ReactionOrProcess 1146 1160	bioremediation
+T31	ReactionOrProcess 1037 1048	degradation
+T32	ReactionOrProcess 1027 1048	Anaerobic degradation
+R13	CarriedOn Arg1:T30 Arg2:T26
+R14	CarriedOn Arg1:T30 Arg2:T29
+R15	CarriedOn Arg1:T31 Arg2:T26
+R16	CarriedOn Arg1:T31 Arg2:T27
+R17	CarriedOn Arg1:T31 Arg2:T28
+R18	CarriedOn Arg1:T31 Arg2:T29
+R19	CarriedOn Arg1:T32 Arg2:T26
+R20	CarriedOn Arg1:T32 Arg2:T27
+R21	CarriedOn Arg1:T32 Arg2:T28
+R22	CarriedOn Arg1:T32 Arg2:T29
+T33	Environment 1426 1431	water
+T34	Environment 1482 1487	water
+T35	Environment 1309 1334	contaminated environments
+T36	Substrate 1268 1275	nitrate
+T37	Substrate 1391 1398	nitrate
+T38	Substrate 1459 1466	nitrate
+T39	Property 1432 1442	solubility
+T40	Property 1426 1442	water solubility
+T41	ReactionOrProcess 1288 1299	remediation
+T42	ReactionOrProcess 1280 1299	in situ remediation
+T43	ReactionOrProcess 1399 1408	reduction
+T44	Substrate 1566 1573	alkanes
+T45	Substrate 1499 1508	Crude oil
+T46	Substrate 1505 1508	oil
+T47	Environment 1655 1660	water
+T48	Substrate 1673 1680	alkanes
+T49	Property 1641 1651	solubility
+T50	Property 1720 1725	toxic
+T51	Substrate 1783 1790	alkanes
+T52	Substrate 1811 1818	alkanes
+T53	Substrate 1804 1818	cyclic alkanes
+T54	Substrate 1771 1790	short-chain alkanes
+T55	Property 1744 1758	concentrations
+T56	Environment 2091 2107	nitrate-reducing
+T57	Substrate 1950 1957	alkanes
+T58	ReactionOrProcess 1983 1997	bioremediation
+T59	Microbes 2270 2274	PbN1
+T60	Microbes 2260 2264	EbN1
+T61	Microbes 2253 2258	mXyN1
+T62	Substrate 2312 2321	crude oil
+T63	Substrate 2147 2159	hydrocarbons
+T64	Substrate 2147 2159	hydrocarbons
+T65	Substrate 2188 2195	nitrate
+T66	Substrate 2318 2321	oil
+T67	Substrate 2295 2308	alkylbenzenes
+T68	ReactionOrProcess 2134 2143	oxidation
+T69	ReactionOrProcess 2124 2143	Anaerobic oxidation
+T70	ReactionOrProcess 2175 2184	reduction
+T71	ReactionOrProcess 2280 2291	utilization
+R23	CarriedOn Arg1:T68 Arg2:T59
+R24	CarriedOn Arg1:T68 Arg2:T60
+R25	CarriedOn Arg1:T68 Arg2:T61
+R26	CarriedOn Arg1:T69 Arg2:T59
+R27	CarriedOn Arg1:T69 Arg2:T60
+R28	CarriedOn Arg1:T69 Arg2:T61
+R29	CarriedOn Arg1:T70 Arg2:T59
+R30	CarriedOn Arg1:T70 Arg2:T60
+R31	CarriedOn Arg1:T70 Arg2:T61
+R32	CarriedOn Arg1:T68 Arg2:T62
+R33	CarriedOn Arg1:T68 Arg2:T63
+R34	CarriedOn Arg1:T68 Arg2:T64
+R35	CarriedOn Arg1:T68 Arg2:T65
+R36	CarriedOn Arg1:T68 Arg2:T66
+R37	CarriedOn Arg1:T68 Arg2:T67
+R38	CarriedOn Arg1:T69 Arg2:T62
+R39	CarriedOn Arg1:T69 Arg2:T63
+R40	CarriedOn Arg1:T69 Arg2:T64
+R41	CarriedOn Arg1:T69 Arg2:T65
+R42	CarriedOn Arg1:T69 Arg2:T66
+R43	CarriedOn Arg1:T69 Arg2:T67
+R44	CarriedOn Arg1:T70 Arg2:T62
+R45	CarriedOn Arg1:T70 Arg2:T65
+R46	CarriedOn Arg1:T70 Arg2:T66
+R47	CarriedOn Arg1:T70 Arg2:T67
+R48	CarriedOn Arg1:T71 Arg2:T62
+R49	CarriedOn Arg1:T71 Arg2:T66
+R50	CarriedOn Arg1:T71 Arg2:T67
+T72	Microbes 2379 2397	enrichment culture
+T73	Environment 2362 2378	nitrate-reducing
+T74	Substrate 2455 2462	alkanes
+T75	Substrate 2413 2422	crude oil
+T76	Substrate 2419 2422	oil
+T77	Substrate 2481 2494	alkylbenzenes
+T78	ReactionOrProcess 2379 2389	enrichment
+T79	ReactionOrProcess 2398 2407	incubated
+T80	ReactionOrProcess 2440 2451	degradation
+R51	CarriedOn Arg1:T78 Arg2:T74
+R52	CarriedOn Arg1:T78 Arg2:T77
+R53	CarriedOn Arg1:T79 Arg2:T74
+R54	CarriedOn Arg1:T79 Arg2:T77
+R55	CarriedOn Arg1:T80 Arg2:T74
+R56	CarriedOn Arg1:T80 Arg2:T77
+T81	Microbes 2556 2574	enrichment culture
+T82	Substrate 2665 2673	n-hexane
+T83	Substrate 2611 2618	alkanes
+T84	ReactionOrProcess 2556 2566	enrichment
+R57	CarriedOn Arg1:T84 Arg2:T82
+T85	Microbes 2835 2849	Proteobacteria
+T86	ReactionOrProcess 2719 2732	hybridization
+R58	CarriedOn Arg1:T86 Arg2:T85
+T87	Substrate 2899 2921	anaerobic hydrocarbons
+T88	Substrate 2909 2921	hydrocarbons
+T89	Substrate 2899 2921	anaerobic hydrocarbons
+T90	Substrate 2909 2921	hydrocarbons
+T91	Property 2966 2990	hydrocarbon-contaminated
+T92	ReactionOrProcess 2922 2931	degrading
+T93	Microbes 3276 3290	Proteobacteria
+T94	Microbes 3194 3220	nitrate respiring bacteria
+T95	Substrate 3194 3201	nitrate
+T96	Microbes 3478 3497	enrichment cultures
+T97	Environment 3518 3527	sediments
+T98	Substrate 3449 3457	n-hexane
+T99	ReactionOrProcess 3478 3488	enrichment
+T100	Microbes 3572 3586	Rhodocyclaceae
+T101	Microbes 3790 3801	strain HxN1
+T102	Substrate 3752 3759	nitrite
+T103	ReactionOrProcess 3686 3695	oxidation
+T104	ReactionOrProcess 3677 3695	complete oxidation
+R59	CarriedOn Arg1:T103 Arg2:T101
+R60	CarriedOn Arg1:T104 Arg2:T101
+R61	CarriedOn Arg1:T103 Arg2:T102
+R62	CarriedOn Arg1:T104 Arg2:T102
+T105	Microbes 3869 3880	strain HxN1
+T106	Substrate 3944 3951	alkanes
+T107	Substrate 3858 3867	crude oil
+T108	Substrate 3937 3951	cyclic alkanes
+T109	Substrate 3864 3867	oil
+T110	ReactionOrProcess 3839 3852	anaerobically
+T111	ReactionOrProcess 3899 3912	co-metabolize
+T112	ReactionOrProcess 3833 3852	grown anaerobically
+T113	ReactionOrProcess 4010 4021	utilization
+R63	CarriedOn Arg1:T110 Arg2:T106
+R64	CarriedOn Arg1:T110 Arg2:T108
+R65	CarriedOn Arg1:T111 Arg2:T106
+R66	CarriedOn Arg1:T111 Arg2:T108
+R67	CarriedOn Arg1:T112 Arg2:T106
+R68	CarriedOn Arg1:T112 Arg2:T108

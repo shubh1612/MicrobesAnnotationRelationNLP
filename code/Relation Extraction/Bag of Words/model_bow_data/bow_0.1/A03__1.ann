@@ -1,0 +1,191 @@
+T1	Environment 298 315	aquatic sediments
+T2	Environment 243 252	sediments
+T3	Environment 306 315	sediments
+T4	Environment 260 290	petroleum-contaminated aquifer
+T5	Environment 298 305	aquatic
+T6	Environment 283 290	aquifer
+T7	Environment 298 315	aquatic sediments
+T8	Substrate 60 78	tert-Butyl Alcohol
+T9	Substrate 172 190	tert-butyl alcohol
+T10	Substrate 32 48	tert-Butyl Ether
+T11	Substrate 144 160	tert-butyl ether
+T12	ReactionOrProcess 228 239	incubations
+T13	ReactionOrProcess 10 21	Degradation
+T14	ReactionOrProcess 122 133	degradation
+T15	ReactionOrProcess 112 133	anaerobic degradation
+T16	ReactionOrProcess 0 21	Anaerobic Degradation
+R1	CarriedOn Arg1:T13 Arg2:T8
+R2	CarriedOn Arg1:T13 Arg2:T9
+R3	CarriedOn Arg1:T13 Arg2:T10
+R4	CarriedOn Arg1:T13 Arg2:T11
+R5	CarriedOn Arg1:T14 Arg2:T9
+R6	CarriedOn Arg1:T14 Arg2:T11
+R7	CarriedOn Arg1:T15 Arg2:T9
+R8	CarriedOn Arg1:T15 Arg2:T11
+R9	CarriedOn Arg1:T16 Arg2:T8
+R10	CarriedOn Arg1:T16 Arg2:T9
+R11	CarriedOn Arg1:T16 Arg2:T10
+R12	CarriedOn Arg1:T16 Arg2:T11
+T17	Environment 411 420	sediments
+T18	Environment 403 410	aquifer
+T19	Substrate 395 399	MTBE
+T20	ReactionOrProcess 380 391	degradation
+T21	ReactionOrProcess 370 391	anaerobic degradation
+T22	Nutrient 333 349	humic substances
+T23	Nutrient 458 475	electron acceptor
+R13	CarriedOn Arg1:T20 Arg2:T19
+R14	CarriedOn Arg1:T21 Arg2:T19
+T24	Environment 540 548	quinones
+T25	ReactionOrProcess 627 643	electron shuttle
+T26	ReactionOrProcess 553 562	stimulate
+T27	Nutrient 513 515	HS
+T28	Environment 747 756	sediments
+T29	Environment 739 746	aquifer
+T30	Substrate 714 718	MTBE
+T31	ReactionOrProcess 727 735	degraded
+T32	Nutrient 777 779	HS
+T33	Environment 801 818	aquatic sediments
+T34	Environment 809 818	sediments
+T35	Environment 801 808	aquatic
+T36	Environment 801 818	aquatic sediments
+T37	Substrate 781 791	[14C]-MTBE
+T38	Substrate 841 845	MTBE
+T39	ReactionOrProcess 831 857	anaerobic MTBE degradation
+T40	ReactionOrProcess 846 857	degradation
+T41	Nutrient 932 960	anthraquione-2,6-disulfonate
+T42	Nutrient 911 913	HS
+T43	Nutrient 921 923	HS
+T44	Environment 972 989	aquatic sediments
+T45	Environment 980 989	sediments
+T46	Environment 962 989	Unamended aquatic sediments
+T47	Environment 962 979	Unamended aquatic
+T48	Environment 972 979	aquatic
+T49	Environment 972 989	aquatic sediments
+T50	Environment 1043 1060	aquatic sediments
+T51	Environment 1051 1060	sediments
+T52	Environment 1043 1050	aquatic
+T53	Environment 1093 1113	anaerobic conditions
+T54	Environment 1043 1060	aquatic sediments
+T55	Substrate 1083 1086	TBA
+T56	ReactionOrProcess 1161 1171	adaptation
+T57	Environment 1322 1339	aquatic sediments
+T58	Environment 1271 1279	sediment
+T59	Environment 1330 1339	sediments
+T60	Environment 1322 1329	aquatic
+T61	Environment 1322 1339	aquatic sediments
+T62	Substrate 1246 1250	MTBE
+T63	Substrate 1295 1298	TBA
+T64	ReactionOrProcess 1236 1262	anaerobic MTBE degradation
+T65	ReactionOrProcess 1251 1262	degradation
+T66	Substrate 1421 1425	MTBE
+T67	Substrate 1430 1433	TBA
+T68	ReactionOrProcess 1441 1449	degraded
+T69	Nutrient 1468 1474	oxygen
+T70	Environment 1599 1609	subsurface
+T71	Substrate 1568 1572	MTBE
+T72	ReactionOrProcess 1553 1564	remediation
+R15	CarriedOn Arg1:T72 Arg2:T71
+T73	Environment 1706 1717	groundwater
+T74	Environment 1695 1717	ubiquitous groundwater
+T75	Substrate 1641 1649	gasoline
+T76	Substrate 1666 1682	tert-butyl ether
+T77	Property 1718 1729	contaminant
+T78	Environment 1830 1841	urban wells
+T79	Environment 1771 1776	Water
+T80	Substrate 1815 1819	MTBE
+T81	Environment 1934 1939	water
+T82	Substrate 1973 1977	MTBE
+T83	Environment 2119 2128	sediments
+T84	Environment 2019 2029	subsurface
+T85	Environment 2060 2065	water
+T86	Environment 2111 2118	aquifer
+T87	Substrate 1997 2001	MTBE
+T88	Property 2066 2073	soluble
+T89	Environment 2238 2255	aquatic sediments
+T90	Environment 2246 2255	sediments
+T91	Environment 2386 2395	sediments
+T92	Environment 2238 2245	aquatic
+T93	Environment 2378 2385	aquifer
+T94	Environment 2238 2255	aquatic sediments
+T95	Substrate 2196 2200	MTBE
+T96	Substrate 2358 2362	MTBE
+T97	ReactionOrProcess 2173 2192	aerobic degradation
+T98	ReactionOrProcess 2161 2192	significant aerobic degradation
+T99	ReactionOrProcess 2181 2192	degradation
+T100	ReactionOrProcess 2363 2374	degradation
+R16	CarriedOn Arg1:T97 Arg2:T95
+R17	CarriedOn Arg1:T97 Arg2:T96
+R18	CarriedOn Arg1:T98 Arg2:T95
+R19	CarriedOn Arg1:T98 Arg2:T96
+R20	CarriedOn Arg1:T99 Arg2:T95
+R21	CarriedOn Arg1:T99 Arg2:T96
+R22	CarriedOn Arg1:T100 Arg2:T95
+R23	CarriedOn Arg1:T100 Arg2:T96
+T101	Environment 2408 2414	plumes
+T102	Environment 2459 2465	plumes
+T103	Substrate 2475 2484	petroleum
+T104	Substrate 2418 2422	MTBE
+T105	Environment 2538 2569	petroleum-contaminated aquifers
+T106	Environment 2561 2569	aquifers
+T107	Substrate 2530 2534	MTBE
+T108	Substrate 2606 2610	MTBE
+T109	ReactionOrProcess 2611 2625	bioremediation
+T110	Environment 2740 2749	sediments
+T111	Environment 2732 2739	aquifer
+T112	Substrate 2706 2710	MTBE
+T113	ReactionOrProcess 2698 2705	degrade
+T114	ReactionOrProcess 2764 2775	incubations
+T115	Environment 2864 2894	petroleum-contaminated aquifer
+T116	Environment 2887 2894	aquifer
+T117	Substrate 2818 2822	MTBE
+T118	Property 2925 2939	concentrations
+T119	ReactionOrProcess 2904 2914	inoculated
+T120	Substrate 3064 3071	propane
+T121	Substrate 3075 3081	butane
+T122	Substrate 3043 3047	MTBE
+T123	Substrate 3139 3143	MTBE
+T124	ReactionOrProcess 3029 3042	co-metabolize
+T125	ReactionOrProcess 3115 3126	remediation
+T126	ReactionOrProcess 3107 3126	in situ remediation
+T127	Environment 3337 3347	subsurface
+T128	Substrate 3205 3225	aromatic hydrocarbon
+T129	Substrate 3214 3225	hydrocarbon
+T130	Property 3205 3213	aromatic
+T131	Property 3226 3238	contaminants
+T132	ReactionOrProcess 3296 3310	bioremediation
+T133	Environment 3432 3463	petroleum-contaminated aquifers
+T134	Environment 3455 3463	aquifers
+T135	Nutrient 3517 3523	oxygen
+T136	Environment 3653 3663	subsurface
+T137	Nutrient 3607 3625	electron acceptors
+T138	Substrate 3815 3819	MTBE
+T139	ReactionOrProcess 3820 3834	biodegradation
+T140	Environment 3968 3978	subsurface
+T141	Property 3943 3955	contaminants
+T142	ReactionOrProcess 3922 3931	oxidation
+T143	ReactionOrProcess 3912 3931	anaerobic oxidation
+T144	Nutrient 3836 3843	Fe(III)
+T145	Nutrient 3886 3903	electron acceptor
+T146	Environment 4153 4162	sediments
+T147	Environment 4166 4197	petroleum-contaminated aquifers
+T148	Environment 4189 4197	aquifers
+T149	Substrate 4067 4088	aromatic hydrocarbons
+T150	Substrate 4100 4107	benzene
+T151	Substrate 4067 4088	aromatic hydrocarbons
+T152	Substrate 4076 4088	hydrocarbons
+T153	Substrate 4076 4088	hydrocarbons
+T154	Property 4067 4075	aromatic
+T155	ReactionOrProcess 4052 4063	degradation
+T156	ReactionOrProcess 4042 4063	anaerobic degradation
+T157	Nutrient 4219 4235	humic substances
+R24	CarriedOn Arg1:T155 Arg2:T149
+R25	CarriedOn Arg1:T155 Arg2:T150
+R26	CarriedOn Arg1:T155 Arg2:T151
+R27	CarriedOn Arg1:T155 Arg2:T152
+R28	CarriedOn Arg1:T155 Arg2:T153
+R29	CarriedOn Arg1:T156 Arg2:T149
+R30	CarriedOn Arg1:T156 Arg2:T150
+R31	CarriedOn Arg1:T156 Arg2:T151
+R32	CarriedOn Arg1:T156 Arg2:T152
+R33	CarriedOn Arg1:T156 Arg2:T153
+T158	Nutrient 4242 4244	HS

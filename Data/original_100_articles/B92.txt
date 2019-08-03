@@ -1,0 +1,360 @@
+B92
+Isolation and characterization of gasoline-degrading bacteria from gas
+station leaking-contaminated soils
+LU Si-jin, WANG Hong-qi', YAO Zhi-hua
+(College of Water Sciences, Beijing Normal University, Beijing 100875, China. E-mail: whongqi3 IO@sohu.com; vopt976@yahoo.com.cn)
+Abstract: The effects of culture conditions in uitro and biosurfactant detection were studied on bacterial strains capable of degrading
+gasoline from contaminated soils near gas station. The main results were summarized as follows. Three bacteria (strains QlO, 414 and
+QIS) that were considered as efficiently degrading strains were isolated and identified as Pseudomonas sp., Flauobacteriurn sp. and
+Rhodococcus sp., respectively. The optimal growth conditions of three bacteria including pH, temperature and the concentration of
+gasoline were similar. The reduction in surface tension was observed with all the three bacteria, indicating the production of
+biosurfactant compounds. The value of surface tension reduced by the three strains QlO, 414 and Ql8 was 32.6 mN-m, 12.4 mN-m
+and 21.9 mN .m, respectively. Strain QlO could be considered as a potential biosurfactant producer. Gasoline, diesel oil, benzene,
+toluene, ethylbenzene and xylene (BTEX) could easily be degraded by the three isolates. The consortium was more effective than the
+individual cultures in degrading added gasoline, diesel oil, and BTEX. These results indicate that these strains have great potential for
+in situ remediation of soils contaminated by gas station leaking.
+Keywords: gasolene; BTEX; bacteria; biosurfactant; consortium
+Introduction
+Worldwide concern is increasing over the
+environmental pollution by petroleum leaked from
+underground storage tanks (USTs) of gas stations.
+There are approximately 3 X lo6 of USTs storing
+petroleum products in the USA, and as many as 5 X
+1 O5 of USTs may be leaking petroleum into the ground
+(EPA, 2001; Rothenstein, 2003). This problem is
+especially acute in China, although there are not clear
+data about it (Xue, 2003).
+Contamination of soil and groundwater by
+gasoline and other petroleum-derived hydrocarbons
+released from USTs is a serious and widespread
+environmental problem. Great attention has been paid
+to human and environmental safety, concerning the
+release of hydrocarbons to the environment. Gasoline
+contains benzene, toluene, ethylbenzene and xylene
+(BTEX) isomers, which are hazardous substances
+regulated by many nations (Alvarez and Vogel, 199 1;
+Ribeiro et d., 2005). In addition to BTEX, other
+gasoline constituents such as methyl-t-butyl ether
+(MTBE), 1, 3, 5-trimethylbenzene (1, 3, 5-TMB), and
+1, 2,4- trimethylbenzene (1, 2, 4-TMB) are also toxic
+to humans.
+Microbial biodegradation is considered as a
+major process that accounts for both containment of
+the petroleum-hydrocarbon plume and the reduction
+of leaking contaminant concentrations. Many bacterial
+strains capable of degrading petroleum pollutants have
+been isolated. Sorkhoh et al. (1993) isolated two
+strains of B. stearothemophilus which was able to
+degraded 80%-89% of crude oil (5 g/L) within 5 d at
+60°C. Ijah and Antai (2003) reported the isolation of a
+Bacillus strain from highly polluted soil samples
+which was able to rapidly degrade crude oil. Rather,
+there was a great deal of specialization and
+interspecies interaction and very few organisms could
+degrade a single compound completely. Degradation
+of petroleum compounds was often the result of
+community-interacting microbial populations,
+generally termed as a consortium (Alexander, 1980).
+However, few studies were conducted to isolate and
+characterize bacteria capable of degrading
+hydrocarbon leaked from gas stations. The main
+objectives of this study were to isolate and
+characterize gasoline-degrading bacteria in
+contaminated soils, to establish optimum conditions
+for the growth of isolated bacteria, to determine
+excreting-biosurfactants ability of bacteria, and to
+compare degradation ability of individual bacteria and
+consortium for gasoline, diesel oil, benzene, toluene,
+xylene and BTEX.
+1 Materials and methods
+1.1 Sampling site and enrichment cultures
+The bacterial strains used in this study were
+isolated from soils contaminated by a 4-year-old gas
+station in Beijing, China. Soil samples were collected
+near the underground storage tanks (about 2 m depth)
+and stored in closed containers at 4°C prior to use.
+All microbial enrichment and isolation were
+performed in the media prepared from the following
+composition (g/L): NH,Cl 0.1, MgCl, -6H20 0.08,
+K2HP0, 0.25, CaC1,.2H20 0.1. Gasoline was added as
+the sole carbon source to autoclaved basal medium (at
+the rate of 500, 1000, and 2000 mg/L, respectively).
+The pH of the inorganic culture media was adjusted to
+7.0 with either HCl or NaOH.
+1.2 Isolation and characterization of bacteria
+An enrichment culture technique was used to
+isolate gasoline-degrading bacteria. The medium
+containing soil and gasoline was incubated at 35T
+with orbital shaking (120 r/min). An aliquot of 1 ml of
+the medium was transferred every day to the same
+type of sterile medium and incubated under the same conditions.
+After four transfers, 1 ml was diluted and
+placed on agar plates of basal medium containing 500
+mg/L gasoline and incubated for 48 h at 30°C in
+darkness. The well-growth bacterial colonies were
+purified on the same medium.
+Well-separated colonies from each medium were
+assayed for their degrading ability in universal bottles
+(25 ml) containing basal medium plus gasoline, as
+appropriate, which were incubated on a shaking
+platform at 120 rimin at 30%. The concentrations of
+gasoline were determinated by infrared spectrophotometer.
+The most efficient bacteria were selected
+and streaked again onto fresh gasoline-containing agar
+plates and nutrient agar plates to ensure purity.
+Cell morphology, mortality, Gram-reaction and
+physiological characteristics of the purified cultures
+were examined under a light microscope.
+1.3 Determination of optimum temperature, pH
+and substrate concentration for the growth of
+isolated bacteria
+The influence of pH, temperature, substrate
+Concentration and some hydrocarbons on the growth
+of selected isolates was assessed using basal medium,
+each with three replications. The autoclaved medium
+was adjusted to pH 5.0, 6.0, 7.0, 8.0, 9.0 and 10.0
+using predetermined amounts of 1 mol/L HCI or 1
+mol/L NaOH and incubated at 30°C. The incubation
+temperatures were 20, 25, 30, 35 and 40°C. and the
+gasoline concentrations were 0, 125, 250, 500, 1000
+and 2000 mg/L.
+The inocula, containing 5% of the total volume,
+were sampled in the logarithmic phase cultures in
+basal medium broth and incubated for 24 h with
+orbital shaking ( 120 r/min). After incubation for 24 h,
+1 ml of medium was diluted and 0.1 ml of the lo-',
+1 0-3 and 10" dilutions were plated on nutrient agar and
+incubated for 24 h at 30°C in darkness and colonies
+werc directly counted and expressed as CFU/ml.
+1.4 Surfactant detection
+lhe surfactant produced by thrcc isolatcs were
+tested by the reduction of surface tension. The surface
+tension was measured by model ZHY-180
+tensiometer. Evaluation was performed by the
+presence and absence of cells which were removed by
+centrifugation at 10000 r/min for 30 min at 4°C. In this
+experiment the surface tension of basal medium was
+68.7 mN.m.
+1.5 Microbial consortia preparation and degradation
+The microbial consortia was formulated by
+mixing equal proportions of all purc bacterial cultures
+that were isolated from hydrocarbon-contaminated
+soils.
+In ordcr to obtain a standard inoculum, individual
+bacteria were grown for 24 h on Tryptone Soy Broth
+at 30°C on an orbital shaker at 120 r/min. The cells
+were then harvested by centrifugation, rinsed thrcc
+times in stcrile salinc water before being resuspended
+in sterile basal medium to yield an absorbance reading
+of 0.5 at 600 nm. When used as an inoculum at 10%
+(v/w), the resulting colony forming unit (CFU)/g soil
+was around 1.6 X 10' CFU/g.
+1.6 Substrate degradation by isolates and
+consortium
+In order to test the degradation ability, isolates
+and consortium were added into several glass flask
+containing 500 mdL gasoline, diesel oil, and RTEX,
+respectively. The incubation were carried out at 30°C
+with an orbital shaker at 120 rimin for 48 h. Then the
+concentration of gasoline were determinated.
+1.7 Control experiment
+Considering the volatility of gasoline, in all
+experiment sterile controls containing gasoline or
+BTEX compounds, but no cells, were used to monitor
+abiotic losses of organic compounds.
+2 Results and discussion
+2.1 Isolation and identification of bacterium
+Nineteen preselected bacteria were isolated from
+gas station leaking contaminated soils, which were
+able to grow well using gasoline as the sole source of
+carbon. Among them, three strains (QlO, Q14 and
+Ql8) were the most efficient in degading gassoline
+(data not shown).
+Physiological characteristics of the three isolates
+were examined. The bacterial colonies of strain Q 10
+were circular, low-convex, gray, smooth and shining.
+The bacterial colonies of strain Q14 were typically
+circular, smooth, yellow with regular and complete
+margins. The bacterial colonies of strain Q18 were
+low-convex, dryness with uncomplete margins. The
+details of other morphological and physiological
+characteristics are summarized in Table 1.
+According to the morphological and biochemical
+properties, strains Ql0, Q14 and Ql8 were tentatively
+classified as Aeudomnas sp., FlnvoOculerirtrn sp. and
+Rhodococcus sp., respectively.
+concentration for growth
+In order to determine the optimal growth
+conditions for the selected isolates, including
+temperature, pH and gasoline concentration were
+evaluated.
+Fig.1 shows the growth response of three strains
+QlO, Q14 and Q18 to different temperatures. Three
+strains showed similar response to temperature. At the
+beginning, the numbers of bacteria increased but
+decreased later with temperature rising. The largest
+biomass of bacteria of strains QlO and Q14 were
+found at 30T, but was at 35°C for strain Ql8.
+Although temperature could increase substrate
+bioavailability, but higher temperature would also had
+adverse effects on the development of cell.
+The growth of strains QlO, Q14 and Q18 with
+20 25 30 35 40
+T, C
+Fig. 1 Effect of temperature on the growth of three isolates
+different initial pH value is shown in Fig.2. The
+highest cell number of the three strains were found at
+pH 6.0. When initial pH value was above 6, the
+numbers of strains QlO and Q14 decreased quickly.
+But Q18 decrease slowly until initial pH value above
+7. Therefore, the optimum pH value for 3 strains
+growth was around 6.0 showing that a neutral to
+slightly acidity pH may be required for the growth of
+cells. But for strain Q18 slightly alkalescence pH was
+also tolerable.
+The effect of gasoline concentration on cell
+growth was revealed in Fig.3. The three isolated
+strains (Q 10, Q14 and Q 18) showed similar response
+to gasoline concentration. Their cell numbers
+increased with increasing concentrations of gasoline
+up to 1000 m a . When the concentrations were
+above 1000 m a , the numbers of bacteria decreased,
+but the decreasing trend was slow. These results
+suggest that 1000 mg/L was the optimum
+5 6 I 8 9 10
+PH
+Fig.2 Erect ofpH on the growth of thrcc isolates
+lIO -a- 014
+-A- 418
+0 250 500 1000 1500 2000
+Gasoline concentration, mg/L
+Fig3 Effect of gasoline concentration on the growth of three isolates
+Table 2 Reduction in surface tension of the medium by three
+strains
+Strain Surface tension. mN.m Surface tension reduced. mN.m
+QlO 36.1 32.6
+414 43 6 12.4
+Ql8 40.7 21.9
+concentration of gasoline for strains QlO, 414 and
+QlS, and these isolates had a great utilization ability
+of gasoline.
+2.3 Biosurfactant production
+Oil compounds have a low solubility in water,
+which baffled microbial degradation. However, many
+microorganisms have some mechanisms to produce
+biosurfactant, which could increase the dissolution
+flux of the substrate and reduced the difficulty of the
+substrate coming into bacteria cells (Cameotra and
+Bollag, 2003). In general, biosurfactant production
+was estimated by the reduction in surface tension of
+the medium free of cells after growing in the substrate.
+Results arc listed in Table 2.
+The reduction of surface tension was obsereved in
+all the three strains. The value of surface tension
+reduced by strains QlO, Q14 and QlS was 32.6, 12.4,
+and 21.9 mN -m, respectively. Strain QlO caused the
+greatest surface tension reduction and it could be
+considered as a potential biosurfactant producer
+(Desai and Banat, 1997). The emulsification
+phenomenon was not found in this study and these
+three isolates did not produce high molecular weight
+iosurfactants.
+This biosurfactant-excreting ability of strains
+QlO, Q14 and QlS may have greatly enhanced the
+degradation of gasoline, especially in situ remediation
+because the bioavailability and biodegradation of
+gasoline would be increased by biosurfactant and in
+hture biosurfactant would play more role in oil
+compound degradation.
+2.4 Other substrate degradation ability
+These isolates grew well on basal medium
+containing diesel oil, and BTEX. The degradation
+efficencies of strains QlO, Q14 and Ql8 on gasoline,
+diesel oil and BTEX after 48 h inoculation were listed
+in Table 3.
+Strain Q10 had the greatest degradation ability for
+gasoline, toluene and o-xylcnc, with an efficiency of
+62.69'6, 72.8% and 66.7%, respectively, but it had less
+degradation ability for benzene, with an efficiency of
+28.3% (Table 3). Strain Ql8 was the most active
+against diesel oil, benzene, ethylbenzene, with an
+degradation efficiency of 5 1.2%, 8 1.6% and 83.5%,
+respectively. But it was the least against o-xylene and
+the degradation efficiency was 4.8%. The degradation
+ability of strain Q14 was between strain QlO and
+strain Ql8.
+In general, these three strains had a great ability
+Table 3 Degradation efficiency of gasoline, diesel oil and BTEX
+Substratc
+Gasoline
+Diesel oil
+Rcnzcnc
+‘Ti~l~~ene
+(J-xylene
+Ethylbmzenc
+Q l O
+62.6
+35.4
+28.3
+72.8
+66.7
+76.3
+Efficiency, %
+414 Q I8 Consortium
+41.3 54.5 82.2
+22.7 51.2 62.4
+67. I 81.6 91.6
+42.3 52.3 84.5
+11.5 4% 70.1
+41.2 83.5 91.5
+to degrade gasoline and other oil compounds.
+Therefore, in hture these strains (QlO, Q14 and Q18)
+maybe have Beat applying prospect in spot
+remediation of gas-station-leaking contaminated soils.
+2.5 Substrate degradation by consortium
+Because microorganism had different degradation
+ability to different compounds and gasoline or other
+oil product contained complex hydrocarbon,
+biodegradation of those hydrocarbon usually requires
+the cooperation of more than a single species. In our
+experiments, assemblages of mixed populations were
+conducted. The degradation efficiency of the
+consortium, containing equal proportions of the three
+isolates, on gasoline, diesel oil and BTEX are listed in
+‘Tablc 3.
+The comparison of the degradation potentials of
+the mixed and pure cultures revealed that the mixed
+culture was more effective than the pure cultures in
+degrading gasoline, diesel oil and BTEX. The
+degradation efficencies of gasoline, diesel oil,
+benzene, toluene, o-xylene and ethylbenzene were
+82.2%, 62.4%, 91.6%, 84.5%, 70.1% and 91.5%,
+respectively.
+The consortium, consisting three strains isolated
+from gasoline contaminated soil could effectively
+degrade hydrocarbons and was more effective than
+pure cultures in biotreatment systems. Because the
+three isolates exhibited a biodegradation pattern that
+was a subset of that exhibited by the mixed culture
+and interspecies interactions may be necessary for the
+complete biodegradation of multicomponent hydrocarbon
+mixtures such as gasoline. However, the types
+of microorganism and hydrocarbon mixtures may
+determine the rate and extent of hydrocarbon
+remediation. And these all needed to explore in
+fiirther studies.
+Three efficiently degrading strains (strains Q10,
+Q14 and Ql8) were isolated and identified as
+Aeudomonus sp., Hmohncterium sp. and Rhodococcus
+sp., respectively. The optimal growth conditions of
+three bacteria including pH, temperature and thc
+concentration of gasoline were similar. All the three
+could excrete biosurfactant during degrading gasoline.
+And strain QlO could be considered as a potential
+biosurfactant producer. Gasoline, diesel oil and BTEX
+could easily be degraded by the three isolates. The
+consortium was more effective than the individual
+cultures in degrading added gasoline, diesel oil, and
+BTEX. These strains may have great potential for in
+situ remediation of soils contaminated by gas station
+leaking.

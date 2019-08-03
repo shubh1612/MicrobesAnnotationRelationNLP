@@ -1,0 +1,37 @@
+T1	Substrate 124 131	methane
+T2	Substrate 225 232	methane
+T3	Substrate 410 417	methane
+T4	ReactionOrProcess 450 459	oxidation
+T5	ReactionOrProcess 369 379	Enrichment
+T6	Substrate 563 570	methane
+T7	Substrate 639 646	methane
+T8	Property 630 638	residual
+T9	ReactionOrProcess 508 517	oxidation
+T10	ReactionOrProcess 599 609	enrichment
+T11	Microbes 683 696	methanotrophs
+T12	Substrate 742 749	methane
+T13	Substrate 862 874	hydrocarbons
+T14	Substrate 1028 1040	hydrocarbons
+T15	ReactionOrProcess 987 996	oxidation
+T16	Environment 1282 1291	sediments
+T17	Substrate 1261 1272	hydrocarbon
+T18	Substrate 1226 1252	hydrate-bound hydrocarbons
+T19	Environment 1449 1457	sediment
+T20	Substrate 1428 1439	hydrocarbon
+T21	Substrate 1376 1388	hydrocarbons
+T22	ReactionOrProcess 1491 1500	oxidation
+T23	Environment 1581 1589	sediment
+T24	Substrate 2567 2574	methane
+T25	ReactionOrProcess 2487 2496	depletion
+T26	ReactionOrProcess 2540 2549	oxidation
+T27	Environment 3029 3032	sea
+T28	Environment 3249 3271	hydrate-mound sediment
+T29	Environment 3180 3203	hydrate-mound sediments
+T30	Substrate 3154 3165	Hydrocarbon
+T31	Substrate 3228 3240	hydrocarbons
+T32	Property 3204 3218	Concentrations
+T33	Substrate 3418 3446	hydrate-forming hydrocarbons
+T34	Property 3488 3502	concentrations
+T35	Environment 3534 3542	sediment
+T36	Substrate 3657 3664	Methane
+R1	ActOn Arg1:T11 Arg2:T12

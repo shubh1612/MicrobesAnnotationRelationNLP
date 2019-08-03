@@ -1,0 +1,43 @@
+T1	Substrate 462 473	diesel fuel
+T2	Substrate 411 433	petroleum hydrocarbons
+T3	Substrate 767 791	polyvinylpolypyrrolidone
+T4	ReactionOrProcess 714 723	extracted
+T5	ReactionOrProcess 728 736	purified
+T6	Microbes 914 930	Escherichia coli
+T7	ReactionOrProcess 1238 1251	DGGE analysis
+T8	Environment 1295 1319	PVPP column-cleaned soil
+T9	Substrate 1416 1421	MgCl2
+T10	Substrate 1373 1405	deoxyribonucleoside triphosphate
+T11	ReactionOrProcess 1265 1268	PCR
+T12	Substrate 1759 1764	MgCl2
+T13	Substrate 1748 1751	KCl
+T14	Property 1572 1583	temperature
+T15	ReactionOrProcess 1787 1790	PCR
+T16	Property 1985 1996	temperature
+T17	ReactionOrProcess 2152 2155	PCR
+T18	ReactionOrProcess 2183 2196	DGGE analysis
+T19	ReactionOrProcess 2327 2338	resuspended
+T20	ReactionOrProcess 2392 2396	DGGE
+T21	ReactionOrProcess 2651 2666	electrophoresis
+T22	ReactionOrProcess 2860 2864	DGGE
+T23	ReactionOrProcess 2812 2821	isolation
+T24	Substrate 3160 3165	MgCl2
+T25	Substrate 3117 3149	deoxyribonucleoside triphosphate
+T26	Substrate 3181 3192	mineral oil
+T27	ReactionOrProcess 3019 3023	DGGE
+T28	ReactionOrProcess 2975 2978	PCR
+T29	Property 3250 3261	temperature
+T30	ReactionOrProcess 3483 3491	purified
+T31	ReactionOrProcess 3511 3514	PCR
+T32	Property 3766 3778	fluorescence
+R1	CarriedOn Arg1:T4 Arg2:T3
+R2	CarriedOn Arg1:T5 Arg2:T3
+R3	CarriedOn Arg1:T11 Arg2:T9
+R4	CarriedOn Arg1:T11 Arg2:T10
+R5	OccursIn Arg1:T11 Arg2:T8
+R6	CarriedOn Arg1:T27 Arg2:T24
+R7	CarriedOn Arg1:T27 Arg2:T25
+R8	CarriedOn Arg1:T27 Arg2:T26
+R9	CarriedOn Arg1:T28 Arg2:T24
+R10	CarriedOn Arg1:T28 Arg2:T25
+R11	CarriedOn Arg1:T28 Arg2:T26

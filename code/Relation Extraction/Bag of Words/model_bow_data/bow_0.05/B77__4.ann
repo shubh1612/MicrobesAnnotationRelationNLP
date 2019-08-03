@@ -1,0 +1,59 @@
+T1	Microbes 135 147	Enterobacter
+T2	Microbes 179 191	Enterobacter
+T3	ReactionOrProcess 280 288	Purified
+T4	ReactionOrProcess 252 255	PCR
+T5	ReactionOrProcess 352 355	PCR
+T6	ReactionOrProcess 231 242	degradation
+T7	ReactionOrProcess 511 523	denaturation
+T8	ReactionOrProcess 582 594	denaturation
+T9	ReactionOrProcess 490 493	PCR
+T10	ReactionOrProcess 656 665	extension
+T11	ReactionOrProcess 847 850	PCR
+T12	Enzyme 934 958	catechol 2,3-dioxygenase
+T13	ReactionOrProcess 1035 1047	denaturation
+T14	ReactionOrProcess 1106 1118	denaturation
+T15	ReactionOrProcess 1239 1251	denaturation
+T16	ReactionOrProcess 1014 1017	PCR
+T17	ReactionOrProcess 1182 1191	extension
+T18	ReactionOrProcess 1311 1320	extension
+T19	ReactionOrProcess 1509 1512	PCR
+T20	ReactionOrProcess 1642 1654	denaturation
+T21	ReactionOrProcess 1713 1725	denaturation
+T22	ReactionOrProcess 1621 1624	PCR
+T23	ReactionOrProcess 1949 1952	PCR
+T24	ReactionOrProcess 2252 2267	electrophoresis
+T25	ReactionOrProcess 2176 2179	PCR
+T26	Environment 2408 2420	soil samples
+T27	Environment 2533 2545	soil samples
+T28	Environment 2408 2412	soil
+T29	Environment 2533 2537	soil
+T30	Substrate 2379 2388	petroleum
+T31	Substrate 2440 2449	petroleum
+T32	Substrate 2562 2571	petroleum
+T33	Property 2572 2584	contaminants
+T34	ReactionOrProcess 2515 2525	extraction
+T35	Substrate 2630 2641	hydrocarbon
+T36	ReactionOrProcess 2630 2653	hydrocarbon degradation
+T37	ReactionOrProcess 2642 2653	degradation
+T38	Substrate 2706 2715	n-alkanes
+T39	Substrate 2820 2829	petroleum
+T40	Substrate 2809 2841	individual petroleum hydrocarbon
+T41	Substrate 2830 2841	hydrocarbon
+T42	ReactionOrProcess 2791 2800	depletion
+R1	CarriedOn Arg1:T42 Arg2:T39
+R2	CarriedOn Arg1:T42 Arg2:T40
+R3	CarriedOn Arg1:T42 Arg2:T41
+T43	Substrate 2999 3010	hydrocarbon
+T44	Property 3011 3024	concentration
+T45	Substrate 3403 3412	n-alkanes
+T46	ReactionOrProcess 3255 3264	depletion
+T47	ReactionOrProcess 3390 3399	depletion
+R4	CarriedOn Arg1:T46 Arg2:T45
+R5	CarriedOn Arg1:T47 Arg2:T45
+T48	Substrate 3711 3720	n-alkanes
+T49	Property 3568 3581	concentration
+T50	Property 3673 3687	concentrations
+T51	Property 3664 3672	residual
+T52	ReactionOrProcess 3551 3560	reduction
+R6	CarriedOn Arg1:T52 Arg2:T48
+T53	Substrate 3774 3783	n-alkanes

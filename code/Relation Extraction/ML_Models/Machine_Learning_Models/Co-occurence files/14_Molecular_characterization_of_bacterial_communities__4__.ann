@@ -1,0 +1,28 @@
+T1	Environment 25 29	sand
+T2	ReactionOrProcess 61 76	electrophoresis
+T3	Nutrient 49 53	Agar
+T4	ReactionOrProcess 204 210	cloned
+T5	ReactionOrProcess 882 897	electrophoresis
+T6	ReactionOrProcess 1148 1154	blastn
+T7	ReactionOrProcess 2192 2198	T-RFLP
+T8	ReactionOrProcess 2495 2498	PCR
+T9	ReactionOrProcess 2680 2683	PCR
+T10	ReactionOrProcess 2776 2784	purified
+T11	ReactionOrProcess 2888 2903	electrophoresis
+T12	ReactionOrProcess 2806 2809	PCR
+T13	ReactionOrProcess 2758 2761	PCR
+T14	ReactionOrProcess 2988 2996	Purified
+T15	ReactionOrProcess 2997 3000	PCR
+T16	Microbes 3269 3279	consortium
+T17	ReactionOrProcess 3188 3194	T-RFLP
+T18	ReactionOrProcess 3240 3246	T-RFLP
+T19	Substrate 3430 3437	ethanol
+T20	Property 3355 3366	temperature
+T21	ReactionOrProcess 3326 3335	incubated
+T22	ReactionOrProcess 3462 3473	resuspended
+T23	ReactionOrProcess 3581 3590	denatured
+T24	ReactionOrProcess 3672 3687	electrophoresis
+T25	Property 4060 4072	fluorescence
+R1	CarriedOn Arg1:T17 Arg2:T16
+R2	CarriedOn Arg1:T18 Arg2:T16
+R3	CarriedOn Arg1:T21 Arg2:T19

@@ -1,0 +1,109 @@
+T1	Environment 70 75	water
+T2	Environment 117 124	aquifer
+T3	Substrate 152 160	gasoline
+T4	Substrate 143 160	unleaded gasoline
+T5	Substrate 109 160	coastal aquifer contaminated with unleaded gasoline
+T6	Microbes 228 239	Alcaligenes
+T7	Microbes 255 266	Micrococcus
+T8	Microbes 273 285	pseudomonads
+T9	Substrate 434 442	gasoline
+T10	Substrate 434 455	gasoline hydrocarbons
+T11	Substrate 443 455	hydrocarbons
+T12	Substrate 434 455	gasoline hydrocarbons
+T13	Substrate 443 455	hydrocarbons
+T14	Substrate 467 478	hydrocarbon
+T15	ReactionOrProcess 483 491	degraded
+T16	Substrate 648 664	branched alkanes
+T17	Substrate 517 524	Toluene
+T18	Substrate 554 576	1,2,4-trimethylbenzene
+T19	Substrate 657 664	alkanes
+T20	Substrate 536 548	ethylbenzene
+T21	Substrate 526 534	p-xylene
+T22	Substrate 776 783	toluene
+T23	Substrate 738 750	hydrocarbons
+T24	Substrate 738 750	hydrocarbons
+T25	Nutrient 804 810	carbon
+T26	Substrate 861 872	hydrocarbon
+T27	ReactionOrProcess 1019 1034	electrophoresis
+T28	Microbes 1036 1058	Pseudomonas aeruginosa
+T29	Microbes 1048 1058	aeruginosa
+T30	Substrate 1191 1200	aromatics
+T31	Property 1191 1200	aromatics
+T32	Substrate 1340 1351	hydrocarbon
+T33	Environment 1478 1498	contaminated aquifer
+T34	Environment 1491 1498	aquifer
+T35	ReactionOrProcess 1526 1536	adaptation
+T36	Environment 1761 1771	subsurface
+T37	Substrate 1583 1600	refined petroleum
+T38	Substrate 1550 1558	Gasoline
+T39	Substrate 1591 1600	petroleum
+T40	Substrate 1601 1613	hydrocarbons
+T41	Substrate 1601 1613	hydrocarbons
+T42	Substrate 1583 1613	refined petroleum hydrocarbons
+T43	Substrate 1591 1613	petroleum hydrocarbons
+T44	Environment 1942 1947	water
+T45	Substrate 1832 1840	gasoline
+T46	Substrate 1848 1855	benzene
+T47	Property 1878 1889	carcinogens
+T48	Property 1916 1930	concentrations
+T49	Property 1807 1815	aromatic
+T50	Environment 2138 2149	groundwater
+T51	Substrate 1992 2000	gasoline
+T52	Substrate 1992 2013	gasoline hydrocarbons
+T53	Substrate 2001 2013	hydrocarbons
+T54	Substrate 1992 2013	gasoline hydrocarbons
+T55	Substrate 2001 2013	hydrocarbons
+T56	Environment 2342 2352	subsurface
+T57	Environment 2271 2278	aquifer
+T58	Substrate 2188 2196	gasoline
+T59	Substrate 2317 2325	gasoline
+T60	Substrate 2238 2250	hydrocarbons
+T61	Substrate 2238 2250	hydrocarbons
+T62	Property 2169 2179	solubility
+T63	Environment 2572 2583	groundwater
+T64	Substrate 2433 2441	gasoline
+T65	Substrate 2433 2454	gasoline hydrocarbons
+T66	Substrate 2442 2454	hydrocarbons
+T67	Substrate 2433 2454	gasoline hydrocarbons
+T68	Substrate 2442 2454	hydrocarbons
+T69	Property 2532 2545	cometabolized
+T70	ReactionOrProcess 2493 2504	biodegraded
+T71	Environment 2731 2738	aquifer
+T72	Environment 2933 2945	subterranean
+T73	ReactionOrProcess 2739 2753	bioremediation
+T74	Environment 3049 3059	subsurface
+T75	Substrate 2994 3002	gasoline
+T76	Substrate 2994 3015	gasoline hydrocarbons
+T77	Substrate 3003 3015	hydrocarbons
+T78	Substrate 2994 3015	gasoline hydrocarbons
+T79	Substrate 3003 3015	hydrocarbons
+T80	Substrate 3470 3478	gasoline
+T81	Substrate 3470 3490	gasoline hydrocarbon
+T82	Substrate 3479 3490	hydrocarbon
+T83	ReactionOrProcess 3491 3501	catabolism
+T84	ReactionOrProcess 3561 3572	degradation
+T85	Environment 3811 3818	aquifer
+T86	Substrate 3846 3854	gasoline
+T87	Substrate 3837 3854	unleaded gasoline
+T88	Substrate 3803 3854	coastal aquifer contaminated with unleaded gasoline
+T89	Environment 3948 3959	groundwater
+T90	Environment 3964 3971	aquifer
+T91	Substrate 4143 4160	major hydrocarbon
+T92	Substrate 4190 4198	gasoline
+T93	Substrate 4181 4198	unleaded gasoline
+T94	Substrate 4103 4114	hydrocarbon
+T95	Substrate 4149 4160	hydrocarbon
+T96	ReactionOrProcess 4266 4281	electrophoresis
+T97	ReactionOrProcess 4326 4345	dendrogram analysis
+T98	Substrate 4653 4664	hydrocarbon
+T99	Property 4665 4677	contaminants
+T100	ReactionOrProcess 4628 4639	degradation
+R1	CarriedOn Arg1:T100 Arg2:T98
+T101	Environment 4783 4790	aquifer
+T102	Environment 4841 4846	Beach
+T103	Environment 4903 4908	sandy
+T104	Environment 4859 4866	aquifer
+T105	Substrate 4989 4997	gasoline
+T106	Substrate 4980 4997	unleaded gasoline
+T107	Property 4903 4908	sandy
+T108	Environment 5182 5189	aquifer

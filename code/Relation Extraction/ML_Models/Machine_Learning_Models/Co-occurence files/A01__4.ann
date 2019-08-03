@@ -1,0 +1,97 @@
+T1	Microbes 4 17	Euryarchaeota
+T2	Microbes 371 378	Archaea
+T3	Microbes 563 576	Bacteroidetes
+T4	Microbes 464 478	Proteobacteria
+T5	Microbes 536 546	Firmicutes
+T6	Microbes 598 612	Actinobacteria
+T7	Environment 508 516	sediment
+T8	Environment 1023 1031	sediment
+T9	Microbes 1561 1575	Proteobacteria
+T10	Microbes 1751 1765	Proteobacteria
+T11	Substrate 1675 1700	aerobic and anaerobic oil
+T12	ReactionOrProcess 1697 1715	oil biodegradation
+T13	Substrate 1792 1814	petroleum hydrocarbons
+T14	Microbes 1923 1935	Marinobacter
+T15	Microbes 1855 1874	Gammaproteobacteria
+T16	Microbes 1996 2015	Gammaproteobacteria
+T17	Microbes 2105 2124	Deltaproteobacteria
+T18	Microbes 2081 2100	Alphaproteobacteria
+T19	Environment 2148 2165	deep-sea sediment
+T21	Microbes 2200 2219	Alphaproteobacteria
+T22	Microbes 2629 2642	Sinorhizobium
+T23	Microbes 2580 2599	Alphaproteobacteria
+T24	Microbes 2985 3004	Deltaproteobacteria
+T25	Microbes 2703 2722	Deltaproteobacteria	
+T26	Microbes 2781 2800	Alphaproteobacteria
+T27	Environment 2823 2831	sediment
+T28	Microbes 3247 3260	Desulfovibrio
+T29	Microbes 3164 3181	Desulfatibacillum
+T30	Microbes 3205 3218	Desulfococcus
+T31	Microbes 3073 3092	Deltaproteobacteria
+T32	Microbes 3539 3553	Proteobacteria
+T33	Microbes 3559 3573	Proteobacteria
+T34	Microbes 3648 3667	Deltaproteobacteria
+T35	Microbes 3851 3865	Proteobacteria
+T36	Microbes 4061 4078	Oceanospirillales
+T37	Microbes 3988 4011	Alcanivorax borkumensis
+T38	Microbes 4149 4185	Desulfatibacillum alkenivorans AK-01
+T39	Microbes 4413 4427	Geobacteraceae
+T40	Microbes 4040 4059	Gammaproteobacteria
+T41	Microbes 4250 4268	Desulfobacteraceae
+T42	Microbes 4210 4229	Deltaproteobacteria
+T43	Microbes 4372 4391	Deltaproteobacteria
+T44	Environment 4463 4480	deep-sea sediment
+T45	Microbes 4550 4573	Alcanivorax borkumensis
+T46	Microbes 4714 4750	Desulfatibacillum alkenivorans AK-01
+T47	Substrate 4520 4539	aerobic hydrocarbon
+T48	Substrate 4681 4702	anaerobic hydrocarbon
+T49	Property 4540 4548	degrader
+T50	Property 4703 4712	degraders
+T51	Microbes 4990 5019	Desulfococcus oleovorans Hxd3
+T52	Property 5046 5062	sulfate-reducing
+T53	ReactionOrProcess 5880 5890	processing
+T54	Substrate 6221 6228	toluene
+T55	Substrate 6028 6031	oil
+T56	ReactionOrProcess 6003 6024	potential degradation
+T57	ReactionOrProcess 6120 6141	anaerobic degradation
+R2	FoundIn Arg1:T4 Arg2:T7
+R3	FoundIn_No Arg1:T5 Arg2:T7
+R9	CarriedOn Arg1:T12 Arg2:T11
+R24	Of_No Arg1:T49 Arg2:T45
+R27	Of_No Arg1:T50 Arg2:T46
+R28	ActOn Arg1:T45 Arg2:T47
+R31	ActOn Arg1:T46 Arg2:T48
+R32	Of Arg1:T51 Arg2:T52
+R34	CarriedOn Arg1:T56 Arg2:T55
+T58	Microbes 108 122	Thaumarchaeota
+T59	Microbes 169 183	Thaumarchaeota
+T60	Environment 236 246	spill site
+T61	Microbes 384 392	bacteria
+T62	Microbes 402 412	eukaryotes
+R1	ActOn Arg1:T10 Arg2:T13	
+R4	FoundIn Arg1:T17 Arg2:T19	
+R5	FoundIn Arg1:T18 Arg2:T19	
+R6	FoundIn Arg1:T16 Arg2:T19	
+T20	Microbes 2347 2365	Proteobacteria spp
+T63	Microbes 2618 2627	Rhizobium
+T64	Microbes 2644 2658	Bradyrhizobium
+T65	Microbes 2660 2671	Roseobacter
+T66	Microbes 2673 2684	Roseovarius
+T67	Microbes 2690 2701	Rhodobacter
+T68	Microbes 3183 3199	Desulfobacterium
+T69	Microbes 3139 3156	Desulfobacterales
+T70	Microbes 3221 3239	Desulfovibrionales
+T71	Microbes 3267 3285	Desulfuromonadales
+T72	Microbes 3293 3302	Geobacter
+T73	Microbes 3308 3320	Desulfomonas
+T74	Microbes 4024 4038	Proteobacteria
+T75	Microbes 4080 4096	Alcanivoracaceae
+T76	Microbes 4194 4208	Proteobacteria
+T77	Microbes 4231 4248	Desulfobacterales
+T78	Microbes 4356 4370	Proteobacteria
+T79	Microbes 4393 4411	Desulfuromonadales
+T80	Substrate 6201 6209	butyrate
+T81	Substrate 6211 6219	benzoate
+R7	CarriedOn Arg1:T57 Arg2:T54	
+R8	CarriedOn Arg1:T57 Arg2:T81	
+R10	CarriedOn Arg1:T57 Arg2:T80	

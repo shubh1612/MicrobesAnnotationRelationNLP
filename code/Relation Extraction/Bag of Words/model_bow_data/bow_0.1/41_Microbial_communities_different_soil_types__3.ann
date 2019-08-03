@@ -1,0 +1,45 @@
+T1	Environment 52 56	soil
+T2	Substrate 0 3	Oil
+T3	Environment 121 130	microcosm
+T4	Property 93 107	concentrations
+T5	Environment 188 220	authentically-contaminated soils
+T6	Environment 188 220	authentically-contaminated soils
+T7	Environment 215 220	soils
+T8	Substrate 247 250	oil
+T9	Property 251 265	concentrations
+T10	Environment 422 426	soil
+T11	Environment 345 349	soil
+T12	Environment 362 367	water
+T13	Environment 446 450	soil
+T14	Nutrient 533 541	nitrogen
+T15	Nutrient 569 575	K2HPO4
+T16	Nutrient 553 563	phosphorus
+T17	Nutrient 519 525	NH4NO3
+T18	Substrate 698 701	oil
+T19	Substrate 692 701	final oil
+T20	ReactionOrProcess 808 839	nutrient-amended bioremediation
+T21	ReactionOrProcess 825 839	bioremediation
+T22	Environment 870 874	Soil
+T23	ReactionOrProcess 1012 1020	detector
+T24	ReactionOrProcess 1384 1389	redox
+T25	Nutrient 1323 1329	carbon
+T26	Nutrient 1420 1426	carbon
+T27	Substrate 1464 1476	hydrocarbons
+T28	Substrate 1588 1600	hydrocarbons
+T29	Substrate 1464 1476	hydrocarbons
+T30	Substrate 1588 1600	hydrocarbons
+T31	Property 1540 1548	volatile
+T32	Property 1558 1571	water-soluble
+T33	Nutrient 1503 1509	carbon
+T34	Substrate 2016 2026	salicylate
+T35	Nutrient 1650 1656	carbon
+T36	Nutrient 2028 2035	Glucose
+T37	Substrate 2135 2142	ethanol
+T38	Substrate 2150 2157	ethanol
+T39	ReactionOrProcess 2369 2379	replicates
+T40	Environment 2408 2412	soil
+T41	ReactionOrProcess 2394 2404	Extraction
+T42	Environment 2537 2548	soil sample
+T43	Environment 2537 2541	soil
+T44	Environment 2592 2597	water
+T45	Property 2786 2799	concentration

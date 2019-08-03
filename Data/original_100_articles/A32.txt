@@ -1,0 +1,1067 @@
+A32
+Hydrocarbons and Microbial Activities in Sediment of an Arctic Lake One Year after
+Contamination with Leaded Gasoline
+Author(s): Amikam Horowitz, Alan Sexstone and Ronald M. Atlas
+Source: Arctic, Vol. 31, No. 3 (Sep., 1978), pp. 180-191
+Published by: Arctic Institute of North America
+Stable URL: http://www.jstor.org/stable/40508898
+Accessed: 08-07-2017 10:58 UTC
+REFERENCES
+Linked references are available on JSTOR for this article:
+http://www.jstor.org/stable/40508898?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+Arctic Institute of North America is collaborating with JSTOR to digitize, preserve and extend access to
+Arctic
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+ARCTIC
+
+VOL. 31, NO. 3 (SEPT. 1978), P. 180-191.
+
+Hydrocarbons and Microbial Activities In
+
+Sediment Of An Arctic Lake One Year After
+Contamination With Leaded Gasoline
+
+AMIKAM HOROWITZ, ALAN SEXSTONE and RONALD M. ATLAS
+ABSTRACT. Hydrocarbons were found to persist in the sediment of an Arctic lake
+one year after the lake was accidentally contaminated with leaded gasoline. The
+contaminating gasoline was continuing to spread from the original site of
+
+contamination. High numbers of hydrocarbon utilizing microorganisms were found in
+the contaminated sediment. Rates of nitrogen fixation did not appear to be affected by
+
+hydrocarbon contamination, but potential denitrification activities appeared to be
+altered by the gasoline. Fertilizer application resulted in a moderate decrease of
+
+hydrocarbon concentrations in the sediment.
+
+RÉSUMÉ. On a constate que des hydrocarbures persistaient dans les sédiments d'un
+lac arctique, un an après que le lac était pollué accidentellement par de l'essence au
+plomb (tétraéthyle). De l'essence polluante continuait à se répandre à partir du site
+
+originel de pollution. Dans les sédiments contaminés, on trouvait des micro-organismes
+
+utilisant toutes sortes d'hydrocarbure. La contamination par les hydrocarbures ne
+paraissait pas affecter les taux de fixation de l'azote mais l'essence semblait altérer les
+activités potentielles de denitrification. A un épendage d'engrais, résultait une
+
+décroissance modérée de la concentration d'hydrocarbures dans le sédiment.
+
+Traduit par Alain de Vendigies, Aquitaine Co. of Canada Ltd.
+
+INTRODUCTION
+
+Refined oil spillages, although often of lesser magnitude as the one desc
+here, frequently occur around developing areas in the Arctic and are a s
+
+source of hydrocarbon contamination that has not received suffic
+scientific attention. In August, 1976, an accidental gasoline spillage
+estimated 55,000 gallons of leaded MOGAS was detected near a fresh
+
+lake at the Naval Arctic Research Laboratory (NARL) located at Barrow,
+Alaska. The source of the spillage was a break in a pipeline buried in a gravel
+pad at the permafrost level. The spilled gasoline moved through the gravel pad
+over the permafrost and entered the nearby freshwater lake. We previously
+
+reported on the immediate effects of the leaded gasoline on the bacterial
+community and the ability of the microorganisms to degrade the gasoline
+(Horowitz and Atlas, 1977). The present study extends the previous work by
+examining the movement and persistence of the gasoline and the effects on
+microorganisms in the gravel sediments of the lake one year after spillage. A
+field assessment of fertilizer stimulated biodégradation of gasoline was also
+made.
+
+Department of Biology, University of Louisville, Louisville, Kentucky 40208
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+HYDROCARBONS AND MICROBIAL ACTIVITIES 181
+
+Movement of gasoline was determined by measuring hydrocarbon
+concentrations in sediment along a transect from the site of contamination to a
+
+site beyond where any hydrocarbons had been found during the previous
+summer. Biodegradation of gasoline was assessed by measuring the
+hydrocarbon biodégradation potentials of the indigenous microbial
+populations and by chemically analysing the residual hydrocarbons. The
+effects of gasoline on the indigenous microbial community was examined by
+
+determining levels of selected microbial populations. Since microbiological
+nitrogen cycling is an essential process in maintaining ecologie balance and
+supporting hydrocarbon degradation in Arctic ecosystems we measured
+
+potential rates of nitrogen fixation and denitrification in sediment.
+
+MATERIALS AND METHODS
+
+Sample Sites
+
+Figure 1 shows the sampling region. Samples were collected from an
+
+heavy gasoline contamination (shallow pools, sites A-D) and al
+
+northwest shore of the lake. Gasoline had been detected only as far as
+during the previous summer when the spillage occurred. Four areas (si
+B, K, L) were selected for studying the effects of fertilizer application
+disappearance of gasoline hydrocarbons and on microbial activity. Plast
+
+placed around these sites to the depth of the permafrost to m
+
+horizontal movement. Sites A and K were treated with a commercial fert
+
+SHALLOW / ¿= lP0&^^^ |
+
+POOLS f ¿-= ^-^ V
+
+'
+
+'
+
+'
+
+fig. 1. Sampling sites
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+182 HYDROCARBONS AND MICROBIAL ACTIVITIES
+
+(American Green 10-6-4, Free Flow Fertilizers Co., Maumee, Ohio) at an
+application rate of 38 g/m2. Sediment gravel samples were collected weekly
+for eight weeks starting on June 10, 1977. Samples were collected in sterile
+glass containers and immediately returned to the laboratory for processing.
+Hydrocarbon Analysis
+
+Portions of the sediment samples were transferred to sterile whirlpak bags,
+poisoned with 3% w/v KCN, and frozen for later analysis. One hundred gram
+
+samples (dry weight basis) were thawed and extracted with 250 ml diethyl
+ether using a Soxhlet extractor with an extraction time of 2 hours. Samples
+were concentrated (10 or 100 fold) at 25 °C under a dry hydrocarbon-free air
+
+stream to a fixed volume but were not brought to dry ness. Samples were
+analysed by gas liquid chromatography using a Hewlett Packard model 5830
+reporting gas Chromatograph operated with dual 2 m x 0.3 cm stainless steel
+columns packed with 3% OV 1 on 80/100 Supelcoport, nitrogen carrier flow =
+22 ml/min and temperature = 80 °C isothermal (2 min), program to 250 °C (8
+°C/min), 250 °C isothermal (20 min). Duplicate samples were analysed in each
+case. Area response was corrected using the solvent peak as internal standard
+to adjust for size variations of automatic injections. Total integrated area units
+were converted to weight units using a standard curve derived from gas
+Chromatographie area response to known amounts of gasoline.
+Enumeration of Microorganisms
+
+Viable heterotrophs were enumerated by plating samples on a medium
+designated TGA (0.75% trypticase peptone, 0.25% phytone peptone, 0.25%
+NaCl, 0.1% unleaded gasoline, 1.5% agar). Gasoline hydrocarbon utilizing
+microorganisms were enumerated on medium BA-G (Bushnell Haas agar
+exposed to volatile gasoline hydrocarbons; Horowitz and Atlas 1977).
+Gasoline utilizing and tolerant microorganisms were enumerated on medium
+
+GA (Bushnell Haas agar with 0.5% emulsified leaded MOGAS; Horowitz and
+Atlas 1977). Incubation was at 15 °C for one week. Presumptive
+heterotrophic denitrifiers were enumerated on Difco nitrate agar incubated at
+15 °C for one week under an atmosphere of helium. All plate counts were
+performed in duplicate.
+Hydrocarbon Biodegradation Potential Activity
+
+Hydrocarbon biodégradation potential activities were measured using
+unleaded gasoline spiked with either l-14C-toluene (sp. act. 0.013 /¿Ci/ml),
+l-14C-n-decane (sp. act. 0.01 ju,Ci/ml) or l-14C-napthalene (sp. act. 0.013
+/¿Ci/ml). Sediment samples (10 ml of a 1:10 dilution) were placed in 60 ml
+serum bottles containing 10 ml sterile nutrient solution (10 mM NH4NO3, 0.5
+mM Na2HPO4). The bottles were sealed with rubber serum stoppers and 50 ¿d
+of gasoline injected into each vial. Fifty fii 1-14C sodium acetate (sp. act. 10
+
+/LtCi/ml) was injected into separate vials. Acetate was used because it is an
+intermediate metabolite in hydrocarbon and lipid metabolism. Replicate
+samples were incubated in the dark at 15 °C for 48 hours. Incubation was
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+HYDROCARBONS AND MICROBIAL ACTIVITIES 183
+
+terminated by addition of buffered formaldehyde, pH 7,
+
+10%. 14CO2 production was quantitated by liquid scin
+Samples were acidified with 0.5 ml concentrated H2SO4
+
+Chloroform (1 ml) was added to each sample to remove lab
+from the atmosphere which could give false positive co
+
+volatile hydrocarbons. 14CO2 was recovered by purging the
+
+air and trapping the CO2 in 1 ml hyamine hydroxide
+1974). Both the trapped 14CO2 and the chloroform extr
+counted using Omnifluor (New England Nuclear) and a
+
+100 counter. Counts of 14CO2 were corrected for backgro
+counts obtained from the poisoned controls. Counts of
+that were utilized were determined by subtracting th
+chloroform extracts of active samples from the count
+extracts of the poisoned controls. 14CO2 production (
+hydrocarbon disappearance (utilization) are reported a
+
+available substrates.
+
+Denitrification and Nitrogen Fixation Potential Activities
+
+Denitrification in the gravel sediments was examined using the acetylene
+blockage of N2O reduction technique (Balderson et al. 1976; Yoshinari et al.
+1976). Nitrogen fixation was estimated by the acetylene reduction method
+(Hardy et al. 1973). A 5 ml portion of a 1:10 diluted sediment sample was
+added to a 20 ml glass vial containing 5 ml of either H2O, 0.05% KNO3, 0.25%
+
+glucose, 0.05% KNO3 plus 0.25% glucose, or 0.05% KNO3 plus 0.25% Bacto
+peptone plus 0.15% Bacto beef extract. Vials were sealed with rubber serum
+stoppers and flushed with helium. Vials were injected with C2H2 generated
+from CaC2 (Alpha Lux Company) to give a final concentration of 0.02 atm.
+Vials were incubated in the dark at 15 °C for one week. Gas samples were
+removed from the sample vials with 5 ml Vacutainer evacuated glass tubes
+(Becton Dickinson) for later analysis. For gas analysis, 250 fx' of gas from the
+vacutainer sub-samples were injected with a gas tight syringe (Glenco
+Scientific) into a Hewlett Packard 5830 reporting gas Chromatograph equipped
+with both a thermal conductivity detector for N2O and N2 analysis, and a dual
+flame ionization detector for C2H2 and C2H4 analysis. Separation of gases was
+achieved on a stainless steel column (6 m x 0.3 cm) packed with 50/80 mesh
+Poropak Q (Waters Associates, Inc.). Operation was at 30 °C with a carrier
+gas flow of 35 ml He/min. Integrated area response units were converted to /¿I
+
+units by comparison with the area response of known concentrations of
+standard gases.
+
+Statistical Analysis
+
+Analyses of variance were performed using the SPSS ANOVA procedure
+(Nie et al. 1975). The Duncan's multiple range test option with an alpha value
+
+of 0.05 was used in these analyses. Wherever the term "significant
+
+differences" is used in this paper it refers to differences shown in these tests
+to be significant at the 0.05 probability level.
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+184 HYDROCARBONS AND MICROBI AL ACTIVITIES
+
+RESULTS
+
+Hydrocarbons in Sediment Samples
+
+Gasoline hydrocarbons were found at all sampling sites. Hydrocarb
+
+concentrations were not significantly different during the sampling per
+sites C-L (Table 1). Hydrocarbon concentrations were significantly higher
+site B than other sites. Gas Chromatographie analysis showed the presenc
+compounds that co-chromatographed with the following standard compo
+n-nonane, n-decane, m-xylene, naphthalene and 1 -methyl-naphthalene.
+Concentrations of hydrocarbons increased during the sampling period at sites
+
+K and L (Table 2). There was apparent movement of gasoline into this
+previously uncontaminated area during this study. The application of fertilizer
+did not affect the concentration of hydrocarbons in this newly contaminated
+area. Fertilizer application did result in significantly lower concentrations of
+
+hydrocarbons at site A compared to the unfertilized reference site B.
+Hydrocarbon concentrations were significantly lower after the fourth
+
+sampling time at sites A and B. During the sixth to ninth sampling time period
+hydrocarbon concentrations were significantly lower at site A with fertilizers
+
+than at reference site B. Sites A and B had been contaminated with higher
+concentrations of gasoline for a much longer period of time than sites K and
+L, allowing for adaptation of microbial populations.
+Microbial Populations
+
+The mean colony forming units showed that microbial populations were
+higher at the highly contaminated sites A and B than at sites D, H and J
+(Table 3). Populations were not significantly different in the fertilizer treated
+site A and the reference site B. The ratios of gasoline utilizing and MOGAS
+
+tolerant organisms (enumerated on media GA and BA-G) to viable
+heterotrophs (enumerated on medium TGA) indicated that hydrocarbon
+degrading bacterial populations had developed at sites A-J in response to the
+presence of gasoline hydrocarbons (Table 4). All ratios were greater than 0.3.
+Ratios for uncontaminated regions of this lake have been found previously to
+
+be less than 0.002 (Horowitz and Atlas 1977). The presumptive counts of
+denitrifiers showed no differences between any sites. The mean probable
+number of denitrifiers was 3 x 106 CFU/g dry wt sediment.
+
+Biodegradation Potential Activity Measurements
+
+The hydrocarbon biodégradation potential activity measurements showed
+that only small amounts of the labelled hydrocarbons were completely
+mineralized to 14CO2 (Table 5). No significant utilization of toluene could be
+
+measured. Decane and naphthalene utilization was greater at sites A and B
+than at sites D, H and J. Fertilizer application to site A did not have any
+significant effect on the hydrocarbon biodégradation potentials. Acetate was
+more readily mineralized than any of the hydrocarbon substrates.
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+HYDROCARBONS AND MICROBIAL ACTIVITIES 185
+
+TABLE 1. Mean hydrocarbon concentrations in sediment samples
+(fig hydrocarbon/g dry wt. sediment - ppm) during the summer, 1
+year after detection of the gasoline spillage
+Site Mean Standard Error
+B
+
+76.2
+
+15.6
+
+C
+
+8.6
+
+2.7
+
+D
+
+8.6
+
+2.7
+
+E
+
+2.7
+
+0.2
+
+F
+
+3.5
+
+0.6
+
+G
+
+4.3
+
+0.5
+
+H
+
+3.1
+
+0.2
+
+I
+
+4.3
+
+0.6
+
+J
+
+2.7
+
+0.6
+
+L
+
+2.2
+
+1.0
+
+TABLE
+2.
+reference
+
+Hydroc
+sedimen
+
+ppm)
+SITE
+Sampling
+
+1
+
+Time*
+
+160
+
+167
+
+2
+
+246
+
+3
+
+49
+
+4
+
+5
+
+287
+
+15
+
+_'
+
+84
+
+-
+
+-
+
+138
+
+-
+
+-
+
+176
+
+11
+
+-
+
+-
+
+-
+
+-
+
+1
+
+55
+
+1
+
+0
+
+7
+
+2
+
+14
+
+4
+
+3
+
+8
+
+2
+
+12
+
+3
+
+2
+
+3
+
+29
+
+*Fertilizer
+-
+
+-
+
+6
+
+9
+
+(
+
+-
+
+=
+
+not
+
+18
+
+14
+
+application
+
+determined.)
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+was
+
+186 HYDROCARBONS AND MICROBIAL ACTIVITIES
+
+TABLE 3. Mean colony forming units in sediment s
+period (CFU/g dry wt)
+Medium
+Site
+
+TGA
+
+A 3.2xlO6 4.6xlO5 1.4xlO6
+B 2.5xlO6 8.4xlO5 2.6xlO6
+D 9.0xl04 3.0xl04 4.9xlO4
+H 9.1xlO4 8.2xlO3 2.8X104
+
+J 2.9xlO4 5.1xlO3 1.5xlO4
+
+TGA = Trypticase soy agar -I- 0.1% unleaded gasoline.
+GA = Bushneil Haas agar + 0.5% leaded gasoline.
+BA-G = Bushnell Haas agar incubated with gasoline hydroc
+
+TABLE 4. Mean ratios of colony forming units
+Station GA/TGA BA-G/TGA
+A
+
+0.49
+
+0.64
+
+B
+
+0.52
+
+0.74
+
+D
+
+0.65
+
+1.47
+
+H
+
+0.32
+
+0.64
+
+J
+
+0.37
+
+0.48
+
+TGA
+=
+Trypticase
+soy
+aga
+GA
+=
+Bushnell
+Haas
+agar
+BA-G
+
+=
+
+Bushnell
+
+TABLE
+
+5.
+
+Mean
+
+Site % Utilized % Mineralized
+« -decane
+
+A
+
+Haas
+
+45
+
+1.3
+
+B
+
+40
+
+2.4
+
+D
+
+14
+
+0.5
+
+H
+
+4
+
+0.4
+
+J
+
+3
+
+0.3
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+aga
+
+biodé
+
+HYDROCARBONS AND MICROBIAL ACTIVITIES 187
+
+TABLE 5. (Cont'd)
+Site % Utilized % Mineralized
+
+A
+
+0.5
+
+toluene
+1.5
+
+B
+
+0.5
+
+3.5
+
+D
+
+0.0
+
+0.5
+
+H
+
+0.0
+
+1.5
+
+J
+
+0.0
+
+6.0
+
+naphthalen
+A
+
+30
+
+2.2
+
+B
+
+37
+
+2.1
+
+D
+
+11
+
+0.4
+
+H
+
+9
+
+0.3
+
+J
+
+5
+
+0.3
+
+acetate
+
+A
+B
+D
+
+-
+
+10
+10
+
+-
+
+9
+
+H
+
+-
+
+9
+
+J
+
+-
+
+8
+
+Denitrificat
+
+The
+prod
+sediment
+
+levels.
+Nit
+fertilizer
+the
+sixth
+
+(Fig.
+N2O
+
+2A).
+evolu
+
+added
+
+gluc
+
+fertilized
+instead
+of
+higher than with NO3- alone (Fig. 2C). With added peptones rates of
+
+denitrification were similar at sites A and B and at sites K and L, but different
+between the A/B location and the K/L location, i.e., with added peptones
+
+differences between heavily contaminated and recently contaminated
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+188 HYDROCARBONS AND MICROBIAL ACTIVITIES
+
+ABC
+200
+
+5678
+
+9
+
+56789
+
+56789
+
+SAMPLE TIME
+
+fig. 2. Denitrification potential activities.
+A. NO3- added
+B. NO3- + glucose added
+C. NO3- + peptone added
+D Site A
+■ Site B
+O Site K
+
+• Site L
+
+sediment were apparent but not differences between fertilized and unfertilized
+sites. Similar maximum rates of N2O evolution were obtained for glucose and
+peptone amended sediment. Significant N2 production was not detected in any
+case.
+
+Nitrogen Fixation Activity
+
+Rates of nitrogen fixation measured by the acetylene re
+
+showed maximal rates during the seventh and eighth samplin
+
+Before and after this period acetylene reduction was not detected in
+unamended sediment. Addition of NO3- blocked acetylene reduction.
+Acetylene reduction was detectable in additional early season samples when
+glucose was added to the sediment samples. There were no apparent site
+specific or fertilizer induced differences between the sampling sites.
+
+DISCUSSION
+
+The gasoline contaminated lake serves as the drinking water supply f
+Naval Arctic Research Laboratory. Our results indicate that continued
+
+this lake as a water supply may present a human health hazard. G
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+HYDROCARBONS AND MICROBIAL ACTIVITIES 189
+
+TABLE 6. Nitrogen fixation - C2H2 accumulation ( /x
+Station
+
+Unsupplemented With Glucose
+Sampling
+Time
+
+A
+
+0.0
+
+B
+
+0.0
+
+K
+0.0
+
+L
+
+A
+
+1.3
+
+B
+
+8.3
+
+K
+
+L
+
+5
+
+0.0
+
+6
+
+0.0
+
+0.0
+
+0.0
+
+1.9
+
+1.9
+
+7
+
+4.9
+
+5.9
+
+0.0
+
+4.2
+
+16.8
+
+8
+
+6.4
+
+3.0
+
+8.5
+
+4.9
+
+1.3
+
+0.0
+
+2.4
+
+7.2
+
+9
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+1.0
+
+0.0
+
+0.0
+
+10.2
+
+0.9
+
+7.7
+
+3.2
+
+4.0
+
+hydrocarbons have spread from t
+in the sediment of the lake. Hyd
+
+occassionally shown the presence of excessive concentrations of
+hydrocarbons (G. Laursen, personal communication). An activated charcoal
+filter has been installed to remove hydrocarbons from the drinking water.
+
+The spread of hydrocarbons was directly measureable by gas
+
+Chromatographie analyses and indirectly by monitoring microbial populations
+in the sediment. Sites K and L were contaminated starting only one year after
+
+the original spillage. These sites were originally selected as uncontaminated
+controls. However, gasoline spread into this area during the study period. We
+
+do not know whether sediment in any part of the lake remains
+uncontaminated. We have not established yet whether transport of gasoline
+across the lake is directly through the sediment or whether gasoline in low
+
+concentrations moves across the water surface and is concentrated in the
+
+shoreline sediment by adsorption.
+The presence of gasoline resulted in changes in microbial populations and
+metabolic activities. Numbers of hydrocarbon utilizing microorganisms were
+high in sediment one year after spillage. Ratios of hydrocarbon utilizers to
+
+viable heterotrophs showed the dominance of hydrocarbon utilizers in the
+gasoline contaminated sediment. The relative occurrence of hydrocarbon
+utilizers in the microbial community can be used to monitor the presence of
+hydrocarbons in the environment.
+Productivity of many Arctic ecosystems are nitrogen limited. Alterations in
+
+microbial cycling of nitrogen can greatly change the ecologie balance.
+Nitrogen fixation did not appear to be affected by the presence of gasoline
+hydrocarbons or fertilizers. The assay system used, however, probably did
+not measure nitrogen fixation by cyanobacteria. It is difficult to determine
+whether gasoline or fertilizers altered the rates of denitrification.
+Denitrification could only be estimated as potential activities when NO3- and
+carbon sources were added. Denitrification activity, measured with NO3alone added, could be interpreted as showing that prolonged exposure to
+hydrocarbons results in increased rates of denitrification activity. Results with
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+190 HYDROCARBONS AND MICROBIAL ACTIVITIES
+
+NO3- plus peptone may indicate that as leaded gasoline
+
+at sites K and L, it was toxic to a segment of the m
+
+resulting in the observed sharp decreases in denitrific
+measured in samples collected after gasoline was detec
+
+A and B may have adapted to the presence of gasoline. Results in the
+presence of glucose could be interpreted as showing that fertilizer application
+
+enhances denitrification potential activity. It is likely that the presence of
+
+nitrogen in peptones but not in glucose is the reason that different results were
+obtained with the two carbon sources. Measurement of denitrification
+
+potential activities in the presence of NO3- and added carbon is a valid model
+
+of what occurs in a localized natural environmental niche when allochthonous
+or autochthonous material enters the sediment. Factors that influence
+
+environmental conditions, such as 02 tension, can greatly alter rates of
+nitrogen cycling. Hydrocarbon contamination can result in greatly reduced
+oxygen tension. Our interpretation of the measured denitrification activities is
+
+that both gasoline contamination and fertilizer application altered potential
+
+rates of denitrification under different conditions.
+
+The hydrocarbon biodégradation potential activity measurements showed
+differences in degradability of several hydrocarbons found in gasoline.
+Toluene resisted biodégradation whereas decane and naphthalene were
+degraded, although not extensively converted to CO2. Sites with the greatest
+exposure to gasoline showed the greatest hydrocarbon biodégradation
+activities. The biodégradation potential activities did not show any effect of
+fertilizer apli cation. The biodégradation potential measurements were
+performed in the presence of added nutrients, so that nitrogen and
+phosphorous were not limiting during the assay period.
+
+Fertilizer application did appear to increase in situ degradation of gasoline
+
+hydrocarbons. Five weeks after fertilizer application hydrocarbon
+
+concentrations in the fertilizer treated area were 10% of the concentrations in
+
+the reference site. Further degradation may have been limited by oxygen
+concentrations. Hydrocarbon concentrations decreased during the summer at
+both sites A and B. Horizontal movement was restricted at these sites, but
+
+vertical movement was not restricted. Fertilizer application and physical
+collection from the heavily contaminated region should decrease further
+movement of gasoline across the lake toward the drinking water inlet. The
+hydrocarbon biodégradation potentials, which measure relative potential rates
+
+of hydrocarbon degradation, failed to predict the differences in extent of
+hydrocarbon degradation between fertilized and reference sites. Extent of
+degradation may have been controlled by abiotic factors which were not
+modelled in the hydrocarbon biodégradation potential measurements.
+The problem of persistence from refined oil spillages in the Arctic remains.
+
+Toxic light aromatic hydrocarbons such as toluene and naphthalene do not
+
+evaporate when sorbed onto sediment particles. Even light fuels which would
+rapidly evaporate in temperate regions can persist for long periods of time in
+
+Arctic ecosystems. Microbial degradation of hydrocarbons is an active
+process in Arctic ecosystems and can be stimulated by nutrient addition.
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+HYDROCARBONS AND MICROBIAL ACTIVITIES 191
+
+However, rates of biodégradation and number of mo
+when biodégradation occurs results in only slow rem
+hydrocarbons from ecosystems such as the one studied.
+ACKNOWLEDGEMENTS
+
+This work was supported by the Office of Naval Research. We wish to thank
+
+Anne Bronner for her technical assistance.
+
+REFERENCES
+
+atlas, R. m., and J. s. HUBBARD. 1974. Applicability of radioactive tracer methods of m
+14CO2 assimilation for determining microbial activity in soil. Microbial Ecology. I: 145-
+
+BALDERSTON, w. l., B. SHERR, and w. j. payne. 1976. Blockage by acetylene of nitr
+
+reduction in P s eudomonas perfectomarinus . Applied Environmental Microbiology. 31: 504hardy, R. w. f., R. c. burns, and R. D. HOLSTEN, 1973. Application of the acetylene-ethylene
+measurement of nitrogen fixation. Soil Bioloev and Biochemistry. 5: 47-81.
+
+Horowitz, a., and r. m. atlas. 1977. Response of microorganisms to an accidental gasoline spillage
+in an Arctic freshwater ecosvstem. ÁDolied Environmental Microbiology. 33: 1252-1258.
+
+NIE, N. H., c. H. hull, J. G. Jenkins, K. Steinbrenner, and D. H. bent. 1975. Statistical Package for the
+Social Sciences. McGraw Hill, New York 675 p.
+YOSHiNARi, t., r. HYNES, and r. KNOWLES. 1977. Acetylene inhibition of nitrous oxide reduction and
+measurements of denitrification and nitrogen fixation in soil. Soil Biology and Biochemistry. 9:
+177-183.
+
+This content downloaded from 103.27.8.42 on Sat, 08 Jul 2017 10:58:14 UTC
+All use subject to http://about.jstor.org/terms
+
+

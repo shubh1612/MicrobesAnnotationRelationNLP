@@ -1,0 +1,31 @@
+T1	Environment 69 80	oiled sands
+T2	Substrate 103 121	sterile source oil
+T3	ReactionOrProcess 35 45	inoculated
+T4	Nutrient 148 154	carbon
+T5	Environment 333 339	marine
+T6	Environment 365 384	artificial seawater
+T7	Nutrient 340 344	agar
+T8	Nutrient 473 477	agar
+T9	Microbes 518 539	Denitrifying bacteria	
+T10	Environment 576 595	artificial seawater
+T11	Environment 625 646	Coy anaerobic chamber
+T12	Nutrient 658 665	nitrate
+T13	Nutrient 557 561	agar
+T14	Nutrient 678 695	electron acceptor
+T15	ReactionOrProcess 737 745	purified
+T16	ReactionOrProcess 833 848	oil degradation
+T17	Substrate 1093 1096	oil
+T18	Property 1084 1092	residual
+T19	ReactionOrProcess 1013 1028	oil degradation
+T20	ReactionOrProcess 1612 1621	extracted
+T21	ReactionOrProcess 1523 1533	extraction
+T22	ReactionOrProcess 1646 1660	DNA extraction
+T23	Environment 2169 2173	sand
+T24	ReactionOrProcess 2154 2163	extracted
+T25	Substrate 2476 2478	Re	
+T26	ReactionOrProcess 2582 2591	extracted
+T27	ReactionOrProcess 2961 2964	PCR
+T28	ReactionOrProcess 2731 2734	PCR	
+R1	CarriedOn_No Arg1:T3 Arg2:T2
+R2	OccursIn_No Arg1:T3 Arg2:T1
+R7	OccursIn Arg1:T24 Arg2:T23

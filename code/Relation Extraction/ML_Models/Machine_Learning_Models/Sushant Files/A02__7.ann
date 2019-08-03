@@ -1,0 +1,8 @@
+T1	Substrate 292 303	spilled oil
+T2	Substrate 85 88	oil
+T4	ReactionOrProcess 67 81	bioremediation
+T5	Environment 379 402	unprecedented oil spill
+T6	Environment 410 416	marine
+T7	Substrate 660 663	oil
+R2	CarriedOn Arg1:T4 Arg2:T2
+T3	Environment 109 122	deep-seawater

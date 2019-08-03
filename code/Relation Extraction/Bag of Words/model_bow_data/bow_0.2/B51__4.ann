@@ -1,0 +1,49 @@
+T1	Environment 602 626	diesel-contaminated soil
+T2	Environment 350 354	soil
+T3	Environment 459 463	soil
+T4	Environment 519 523	soil
+T5	Environment 583 587	soil
+T6	Environment 622 626	soil
+T7	Environment 493 523	phenanthrene-contaminated soil
+T8	Environment 337 354	contaminated soil
+T9	Environment 444 463	uncontaminated soil
+T10	Environment 568 587	uncontaminated soil
+T11	ReactionOrProcess 681 691	incubation
+T12	Nutrient 724 730	carbon
+T13	Environment 1038 1059	oil-contaminated soil
+T14	Environment 1031 1059	diesel oil-contaminated soil
+T15	Environment 954 958	soil
+T16	Environment 1055 1059	soil
+T17	Environment 928 958	phenanthrene-contaminated soil
+T18	Substrate 1031 1037	diesel
+T19	ReactionOrProcess 802 811	extracted
+R1	CarriedOn Arg1:T19 Arg2:T18
+T20	ReactionOrProcess 1208 1218	incubation
+T21	ReactionOrProcess 1160 1171	utilization
+T22	Environment 1383 1395	soil samples
+T23	Environment 1383 1387	soil
+T24	ReactionOrProcess 1418 1428	incubation
+T25	ReactionOrProcess 1528 1538	replicates
+T26	ReactionOrProcess 1913 1923	incubation
+T27	Nutrient 2385 2391	carbon
+T28	ReactionOrProcess 2601 2612	utilization
+T29	Nutrient 2501 2507	carbon
+T30	Environment 2729 2733	soil
+T31	Nutrient 2894 2900	carbon
+T32	ReactionOrProcess 3191 3202	utilization
+T33	ReactionOrProcess 3326 3337	utilization
+T34	Nutrient 3567 3573	carbon
+T35	Environment 3615 3619	soil
+T36	Environment 3602 3619	contaminated soil
+T37	ReactionOrProcess 3627 3638	remediation
+T38	Property 3748 3758	pollutants
+T39	ReactionOrProcess 3776 3786	incubation
+T40	Nutrient 3792 3798	carbon
+T41	Environment 3932 3936	soil
+T42	Environment 3923 3936	Pristine soil
+T43	Property 4027 4041	concentrations
+T44	ReactionOrProcess 4083 4094	utilization
+T45	Nutrient 4069 4075	carbon
+T46	ReactionOrProcess 4207 4218	utilization
+T47	Nutrient 4193 4199	carbon
+T48	ReactionOrProcess 4369 4379	incubation

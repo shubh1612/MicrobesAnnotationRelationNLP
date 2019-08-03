@@ -1,0 +1,84 @@
+T1	ReactionOrProcess 66 80	biostimulation
+T2	Substrate 193 196	oil
+T3	Substrate 202 208	diesel
+T4	Substrate 337 349	hydrocarbons
+T5	Substrate 327 349	weathered hydrocarbons
+T6	Substrate 337 349	hydrocarbons
+T7	Property 491 500	dissolved
+T8	Property 531 542	attenuation
+T9	Nutrient 501 507	oxygen
+T10	Property 665 675	surfactant
+T11	ReactionOrProcess 564 578	bioremediation
+T12	Substrate 695 704	petroleum
+T13	Substrate 689 717	Total petroleum hydrocarbons
+T14	Substrate 705 717	hydrocarbons
+T15	Substrate 689 716	Total petroleum hydrocarbon
+T16	Substrate 689 717	Total petroleum hydrocarbons
+T17	Substrate 705 717	hydrocarbons
+T18	Substrate 695 717	petroleum hydrocarbons
+T19	ReactionOrProcess 972 982	enrichment
+T20	Substrate 1075 1086	Hydrocarbon
+T21	ReactionOrProcess 1187 1201	bioremediation
+T22	Nutrient 1320 1326	oxygen
+T23	Environment 1421 1432	groundwater
+T24	Environment 1558 1575	accidental spills
+T25	Environment 1411 1432	Soils and groundwater
+T26	Environment 1411 1415	Soil
+T27	Environment 1411 1416	Soils
+T28	Environment 1512 1537	underground storage tanks
+T29	Substrate 1484 1495	hydrocarbon
+T30	ReactionOrProcess 1585 1599	bioremediation
+T31	Environment 1828 1839	groundwater
+T32	Environment 1819 1823	soil
+T33	Property 1794 1802	residual
+T34	Property 1803 1815	contaminants
+T35	ReactionOrProcess 1683 1697	Bioremediation
+T36	ReactionOrProcess 1982 1990	emission
+T37	Substrate 2046 2055	petroleum
+T38	Substrate 2056 2068	hydrocarbons
+T39	Substrate 2056 2068	hydrocarbons
+T40	Substrate 2046 2068	petroleum hydrocarbons
+T41	ReactionOrProcess 2011 2042	microbiological decontamination
+T42	ReactionOrProcess 2027 2042	decontamination
+R1	CarriedOn Arg1:T41 Arg2:T37
+R2	CarriedOn Arg1:T41 Arg2:T38
+R3	CarriedOn Arg1:T41 Arg2:T39
+R4	CarriedOn Arg1:T41 Arg2:T40
+R5	CarriedOn Arg1:T42 Arg2:T37
+R6	CarriedOn Arg1:T42 Arg2:T38
+R7	CarriedOn Arg1:T42 Arg2:T39
+R8	CarriedOn Arg1:T42 Arg2:T40
+T43	ReactionOrProcess 2254 2268	bioremediation
+T44	Substrate 2442 2453	hydrocarbon
+T45	Property 2549 2558	degraders
+T46	ReactionOrProcess 2454 2468	bioremediation
+T47	ReactionOrProcess 2502 2513	degradation
+T48	Environment 2696 2707	groundwater
+T49	Environment 2712 2716	soil
+T50	ReactionOrProcess 2682 2691	oxygenate
+T51	Substrate 2782 2793	hydrocarbon
+T52	ReactionOrProcess 2794 2808	bioremediation
+T53	ReactionOrProcess 3104 3118	bioremediation
+T54	Environment 3412 3429	marine oil spills
+T55	Environment 3412 3418	marine
+T56	Environment 3412 3429	marine oil spills
+T57	Substrate 3412 3422	marine oil
+T58	Substrate 3311 3323	hydrocarbons
+T59	Substrate 3311 3323	hydrocarbons
+T60	Substrate 3419 3422	oil
+T61	Environment 3553 3564	groundwater
+T62	Environment 3532 3564	hydrocarbon-polluted groundwater
+T63	Environment 3569 3573	soil
+T64	Property 3714 3726	contaminants
+T65	ReactionOrProcess 3655 3669	bioremediation
+T66	ReactionOrProcess 3610 3619	degrading
+T67	ReactionOrProcess 3748 3762	biodegradation
+T68	Environment 4047 4051	soil
+T69	Substrate 3769 3780	Hydrocarbon
+T70	Property 3901 3911	surfactant
+T71	Property 3943 3955	contaminants
+T72	Property 4064 4075	surfactants
+T73	ReactionOrProcess 4094 4108	bioremediation
+T74	ReactionOrProcess 4186 4200	biodegradation
+T75	Property 4491 4501	surfactant
+T76	Property 4641 4653	contaminants

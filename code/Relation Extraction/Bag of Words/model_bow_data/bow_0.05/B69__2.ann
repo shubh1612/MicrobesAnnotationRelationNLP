@@ -1,0 +1,143 @@
+T1	ReactionOrProcess 143 151	purified
+T2	ReactionOrProcess 231 244	hybridization
+T3	ReactionOrProcess 258 271	hybridization
+T4	Environment 643 647	Lake
+T5	ReactionOrProcess 605 618	hybridization
+T6	ReactionOrProcess 526 540	hybridizations
+T7	ReactionOrProcess 670 683	hybridization
+T8	Substrate 1875 1878	oil
+T9	Substrate 1955 1958	oil
+T10	Environment 2151 2156	plume
+T11	Environment 2173 2181	nonplume
+T12	Environment 2147 2156	oil plume
+T13	Substrate 2147 2150	oil
+T14	Environment 2305 2310	plume
+T15	Environment 2476 2481	plume
+T16	Environment 2566 2572	Marine
+T17	Substrate 2627 2630	oil
+T18	ReactionOrProcess 2599 2623	potential bioremediation
+T19	ReactionOrProcess 2609 2623	bioremediation
+R1	CarriedOn Arg1:T18 Arg2:T17
+R2	CarriedOn Arg1:T19 Arg2:T17
+T20	Environment 2982 2987	plume
+T21	Environment 2978 2987	oil plume
+T22	Substrate 2978 2981	oil
+T23	ReactionOrProcess 3101 3112	remediation
+T24	ReactionOrProcess 3134 3149	denitrification
+T25	ReactionOrProcess 3159 3168	reduction
+T26	ReactionOrProcess 3121 3132	degradation
+T27	ReactionOrProcess 3151 3168	sulfate reduction
+T28	ReactionOrProcess 3093 3112	organic remediation
+T29	Nutrient 3114 3120	carbon
+T30	Environment 3355 3360	plume
+T31	Environment 3488 3493	plume
+T32	Environment 3498 3506	nonplume
+T33	Environment 3639 3645	Marine
+T34	Substrate 3700 3703	oil
+T35	ReactionOrProcess 3672 3696	potential bioremediation
+T36	ReactionOrProcess 3682 3696	bioremediation
+R3	CarriedOn Arg1:T35 Arg2:T34
+R4	CarriedOn Arg1:T36 Arg2:T34
+T37	Substrate 3838 3841	Oil
+T38	Substrate 4176 4185	petroleum
+T39	Substrate 4164 4185	extractable petroleum
+T40	Substrate 4215 4218	oil
+T41	Property 4126 4137	temperature
+T42	Property 4108 4117	dissolved
+T43	Property 4145 4153	volatile
+T44	Nutrient 4234 4238	iron
+T45	Nutrient 4118 4124	oxygen
+T46	Environment 4446 4451	plume
+T47	Substrate 4338 4347	petroleum
+T48	Substrate 4326 4347	extractable petroleum
+T49	Substrate 4377 4380	oil
+T50	Property 4385 4394	dissolved
+T51	Property 4313 4321	volatile
+T52	Nutrient 4395 4401	oxygen
+T53	Environment 4499 4507	seawater
+T54	Substrate 4555 4558	oil
+T55	Environment 4710 4718	Seawater
+T56	Environment 4710 4713	Sea
+T57	Substrate 4742 4745	oil
+T58	Environment 4958 4966	seawater
+T59	Substrate 4878 4881	Oil
+T60	Environment 5291 5296	soils
+T61	Substrate 5372 5375	oil
+T62	Property 5376 5388	contaminants
+T63	Environment 5686 5691	plume
+T64	Environment 5682 5691	oil plume
+T65	Substrate 5824 5845	chlorinated aromatics
+T66	Substrate 5796 5800	BTEX
+T67	Substrate 5761 5768	alkanes
+T68	Substrate 5782 5794	cycloalkanes
+T69	Substrate 5887 5907	polycyclic aromatics
+T70	Substrate 5847 5869	heterocyclic aromatics
+T71	Substrate 5912 5937	aromatic carboxylic acids
+T72	Substrate 5898 5907	aromatics
+T73	Substrate 5813 5822	aromatics
+T74	Substrate 5836 5845	aromatics
+T75	Substrate 5860 5869	aromatics
+T76	Substrate 5682 5685	oil
+T77	Substrate 5535 5538	Oil
+T78	Property 5887 5897	polycyclic
+T79	Property 5912 5920	aromatic
+T80	Property 5898 5907	aromatics
+T81	Property 5813 5822	aromatics
+T82	Property 5836 5845	aromatics
+T83	Property 5860 5869	aromatics
+T84	ReactionOrProcess 5751 5760	degrading
+T85	ReactionOrProcess 5592 5603	degradation
+T86	ReactionOrProcess 5649 5660	degradation
+R5	CarriedOn Arg1:T84 Arg2:T65
+R6	CarriedOn Arg1:T84 Arg2:T66
+R7	CarriedOn Arg1:T84 Arg2:T68
+R8	CarriedOn Arg1:T84 Arg2:T69
+R9	CarriedOn Arg1:T84 Arg2:T70
+R10	CarriedOn Arg1:T84 Arg2:T71
+R11	CarriedOn Arg1:T84 Arg2:T72
+R12	CarriedOn Arg1:T84 Arg2:T73
+R13	CarriedOn Arg1:T84 Arg2:T74
+R14	CarriedOn Arg1:T84 Arg2:T75
+R15	CarriedOn Arg1:T85 Arg2:T65
+R16	CarriedOn Arg1:T85 Arg2:T66
+R17	CarriedOn Arg1:T85 Arg2:T67
+R18	CarriedOn Arg1:T85 Arg2:T68
+R19	CarriedOn Arg1:T85 Arg2:T69
+R20	CarriedOn Arg1:T85 Arg2:T70
+R21	CarriedOn Arg1:T85 Arg2:T71
+R22	CarriedOn Arg1:T85 Arg2:T72
+R23	CarriedOn Arg1:T85 Arg2:T73
+R24	CarriedOn Arg1:T85 Arg2:T74
+R25	CarriedOn Arg1:T85 Arg2:T75
+R26	CarriedOn Arg1:T85 Arg2:T76
+R27	CarriedOn Arg1:T86 Arg2:T65
+R28	CarriedOn Arg1:T86 Arg2:T66
+R29	CarriedOn Arg1:T86 Arg2:T67
+R30	CarriedOn Arg1:T86 Arg2:T68
+R31	CarriedOn Arg1:T86 Arg2:T69
+R32	CarriedOn Arg1:T86 Arg2:T70
+R33	CarriedOn Arg1:T86 Arg2:T71
+R34	CarriedOn Arg1:T86 Arg2:T72
+R35	CarriedOn Arg1:T86 Arg2:T73
+R36	CarriedOn Arg1:T86 Arg2:T74
+R37	CarriedOn Arg1:T86 Arg2:T75
+R38	CarriedOn Arg1:T86 Arg2:T76
+T87	Substrate 5986 5989	oil
+T88	Substrate 6569 6585	isopropylbenzene
+T89	Substrate 6689 6707	p-isopropyltoluene
+T90	Substrate 6524 6531	benzene
+T91	Substrate 6768 6777	petroleum
+T92	Substrate 6533 6540	toluene
+T93	Substrate 6587 6602	n-propylbenzene
+T94	Substrate 6647 6669	1,2,4-trimethylbenzene
+T95	Substrate 6542 6553	naphthalene
+T96	Substrate 6555 6567	ethylbenzene
+T97	Substrate 6731 6738	xylenes
+T98	Substrate 6709 6723	n-butylbenzene
+T99	Substrate 6504 6511	nitrate
+T100	Substrate 6464 6467	oil
+T101	Substrate 6628 6645	tert-butylbenzene
+T102	Property 6408 6419	temperature
+T103	Property 6424 6437	concentration
+T104	Property 6484 6498	concentrations
+T105	Property 6746 6754	volatile

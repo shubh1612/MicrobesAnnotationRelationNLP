@@ -1,0 +1,118 @@
+T1	ReactionOrProcess 17 28	incubations
+T2	Substrate 106 113	benzene
+T3	ReactionOrProcess 30 34	DGGE
+T4	ReactionOrProcess 74 84	incubation
+T5	ReactionOrProcess 30 43	DGGE analysis
+T6	Property 299 311	denitrifying
+T7	Property 359 371	sulfidogenic
+T8	ReactionOrProcess 299 311	denitrifying
+T9	Substrate 610 617	benzene
+T10	Nutrient 537 543	oxygen
+T11	Substrate 777 784	benzene
+T12	Substrate 882 889	benzene
+T13	Property 896 908	denitrifying
+T14	ReactionOrProcess 896 908	denitrifying
+T15	Microbes 1015 1023	Azoarcus
+T16	Substrate 1083 1104	aromatic hydrocarbons
+T17	Substrate 1114 1121	toluene
+T18	Substrate 1083 1104	aromatic hydrocarbons
+T19	Substrate 1092 1104	hydrocarbons
+T20	Substrate 1135 1147	ethylbenzene
+T21	Substrate 1123 1129	xylene
+T22	Substrate 1092 1104	hydrocarbons
+T23	Property 1155 1167	denitrifying
+T24	Property 1083 1091	aromatic
+T25	ReactionOrProcess 1155 1167	denitrifying
+T26	Microbes 1325 1343	enrichment culture
+T27	Microbes 1367 1375	Azoarcus
+T28	Property 1294 1324	benzene-degrading denitrifying
+T29	Property 1312 1324	denitrifying
+T30	ReactionOrProcess 1325 1335	enrichment
+T31	ReactionOrProcess 1312 1324	denitrifying
+T32	ReactionOrProcess 1294 1324	benzene-degrading denitrifying
+T33	Microbes 1421 1429	Azoarcus
+T34	Environment 1488 1499	groundwater
+T35	Environment 1535 1542	aquifer
+T36	Microbes 1650 1658	Azoarcus
+T37	Microbes 1739 1747	Azoarcus
+T38	Environment 1872 1883	groundwater
+T39	Environment 1850 1883	gasoline-contaminated groundwater
+T40	Environment 1710 1717	aquifer
+T41	Substrate 1835 1842	benzene
+T42	ReactionOrProcess 1817 1831	mineralization
+R1	CarriedOn Arg1:T42 Arg2:T41
+T43	Microbes 1898 1906	Azoarcus
+T44	Microbes 1992 2000	Azoarcus
+T45	Substrate 2046 2053	benzene
+T46	Substrate 2125 2132	benzene
+T47	Property 2060 2072	denitrifying
+T48	ReactionOrProcess 2118 2144	axenic benzene degradation
+T49	ReactionOrProcess 2060 2072	denitrifying
+T50	ReactionOrProcess 2036 2045	degrading
+T51	ReactionOrProcess 2133 2144	degradation
+T52	ReactionOrProcess 1885 1894	Isolation
+R2	CarriedOn Arg1:T52 Arg2:T43
+R3	CarriedOn Arg1:T52 Arg2:T44
+R4	CarriedOn Arg1:T52 Arg2:T45
+R5	CarriedOn Arg1:T52 Arg2:T46
+T53	Environment 2156 2167	groundwater
+T54	Property 2192 2204	denitrifying
+T55	Property 2288 2300	denitrifying
+T56	ReactionOrProcess 2168 2177	incubated
+T57	ReactionOrProcess 2260 2269	incubated
+T58	ReactionOrProcess 2192 2204	denitrifying
+T59	ReactionOrProcess 2288 2300	denitrifying
+T60	Microbes 2446 2464	Betaproteobacteria
+T61	ReactionOrProcess 2404 2413	isolation
+R6	CarriedOn Arg1:T61 Arg2:T60
+T62	Property 2545 2557	denitrifying
+T63	ReactionOrProcess 2676 2680	DGGE
+T64	ReactionOrProcess 2545 2557	denitrifying
+T65	ReactionOrProcess 2676 2689	DGGE analysis
+T66	ReactionOrProcess 2739 2743	DGGE
+T67	ReactionOrProcess 2739 2752	DGGE analysis
+T68	Property 3136 3148	denitrifying
+T69	ReactionOrProcess 3136 3148	denitrifying
+T70	Microbes 3785 3801	Azoarcus evansii
+T71	Microbes 3668 3676	Azoarcus
+T72	Microbes 3743 3751	Azoarcus
+T73	Microbes 3785 3793	Azoarcus
+T74	Microbes 3955 3963	Azoarcus
+T75	Substrate 3896 3903	toluene
+T76	Substrate 3864 3882	aromatic compounds
+T77	Substrate 3909 3915	phenol
+T78	Substrate 3864 3882	aromatic compounds
+T79	Property 3922 3934	denitrifying
+T80	Property 3864 3872	aromatic
+T81	ReactionOrProcess 3922 3934	denitrifying
+T82	ReactionOrProcess 3847 3858	metabolizes
+R7	CarriedOn Arg1:T82 Arg2:T77
+T83	Substrate 4034 4041	toluene
+T84	ReactionOrProcess 4025 4033	degrades
+T85	ReactionOrProcess 4025 4033	degrades
+T86	Substrate 4058 4065	benzene
+T87	Substrate 4048 4065	Anaerobic benzene
+T88	Property 4174 4186	denitrifying
+T89	ReactionOrProcess 4156 4163	degrade
+T90	ReactionOrProcess 4048 4077	Anaerobic benzene degradation
+T91	ReactionOrProcess 4174 4186	denitrifying
+T92	ReactionOrProcess 4066 4077	degradation
+T93	Substrate 4353 4360	benzene
+T94	Substrate 4267 4274	toluene
+T95	Substrate 4279 4287	m-xylene
+T96	Substrate 4343 4360	anaerobic benzene
+T97	ReactionOrProcess 4258 4266	degraded
+T98	ReactionOrProcess 4343 4372	anaerobic benzene degradation
+T99	ReactionOrProcess 4361 4372	degradation
+R8	CarriedOn Arg1:T97 Arg2:T93
+R9	CarriedOn Arg1:T97 Arg2:T95
+R10	CarriedOn Arg1:T97 Arg2:T96
+T100	Microbes 4466 4474	Azoarcus
+T101	Property 4417 4428	degradative
+T102	Property 4587 4598	degradative
+T103	Substrate 4865 4872	benzene
+T104	Property 4880 4898	sole carbon source
+T105	Nutrient 4885 4891	carbon
+T106	Substrate 4917 4924	benzene
+T107	Substrate 5003 5010	nitrate
+T108	ReactionOrProcess 4929 4937	degraded

@@ -1,0 +1,139 @@
+T1	Substrate 186 207	aromatic hydrocarbons
+T2	Substrate 186 207	aromatic hydrocarbons
+T3	Substrate 73 82	crude oil
+T4	Substrate 195 207	hydrocarbons
+T5	Substrate 195 207	hydrocarbons
+T6	Substrate 79 82	oil
+T7	Property 186 194	aromatic
+T8	ReactionOrProcess 131 152	extensive degradation
+T9	ReactionOrProcess 141 152	degradation
+R1	CarriedOn Arg1:T8 Arg2:T1
+R2	CarriedOn Arg1:T8 Arg2:T2
+R3	CarriedOn Arg1:T8 Arg2:T4
+R4	CarriedOn Arg1:T8 Arg2:T5
+R5	CarriedOn Arg1:T9 Arg2:T1
+R6	CarriedOn Arg1:T9 Arg2:T2
+R7	CarriedOn Arg1:T9 Arg2:T4
+R8	CarriedOn Arg1:T9 Arg2:T5
+T10	Microbes 250 263	cyanobacteria
+T11	Substrate 343 354	naphthalene
+T12	ReactionOrProcess 335 342	oxidize
+T13	Substrate 410 422	hydrocarbons
+T14	Substrate 410 422	hydrocarbons
+T15	Substrate 481 490	crude oil
+T16	Substrate 487 490	oil
+T17	ReactionOrProcess 466 477	utilization
+R9	CarriedOn Arg1:T17 Arg2:T15
+R10	CarriedOn Arg1:T17 Arg2:T16
+T18	Substrate 703 715	hydrocarbons
+T19	Substrate 703 715	hydrocarbons
+T20	ReactionOrProcess 688 699	degradation
+R11	CarriedOn Arg1:T20 Arg2:T18
+R12	CarriedOn Arg1:T20 Arg2:T19
+T21	Environment 844 865	accidental oil spills
+T22	Substrate 986 1012	plant-derived hydrocarbons
+T23	Substrate 844 858	accidental oil
+T24	Substrate 867 876	petroleum
+T25	Substrate 1000 1012	hydrocarbons
+T26	Substrate 788 800	hydrocarbons
+T27	Substrate 986 1012	plant-derived hydrocarbons
+T28	Substrate 1074 1085	hydrocarbon
+T29	Substrate 1000 1012	hydrocarbons
+T30	Substrate 788 800	hydrocarbons
+T31	Substrate 855 858	oil
+T32	Substrate 930 933	oil
+T33	ReactionOrProcess 1100 1111	biodegraded
+T34	ReactionOrProcess 1228 1238	adaptation
+T35	ReactionOrProcess 1452 1462	enrichment
+T36	ReactionOrProcess 1289 1299	adaptation
+T37	Substrate 1620 1629	petroleum
+T38	Substrate 1604 1615	hydrocarbon
+T39	ReactionOrProcess 1554 1564	enrichment
+T40	ReactionOrProcess 1630 1641	degradation
+R13	CarriedOn Arg1:T39 Arg2:T37
+R14	CarriedOn Arg1:T39 Arg2:T38
+T41	Substrate 1941 1950	petroleum
+T42	Substrate 1960 1971	hydrocarbon
+T43	Property 1891 1904	heterotrophic
+T44	Property 1972 1982	pollutants
+T45	Microbes 2265 2290	heterotrophic populations
+T46	Property 2265 2278	heterotrophic
+T47	Substrate 2385 2396	hydrocarbon
+T48	Substrate 2715 2727	hydrocarbons
+T49	Substrate 2655 2667	hydrocarbons
+T50	Substrate 2715 2727	hydrocarbons
+T51	Substrate 2655 2667	hydrocarbons
+T52	ReactionOrProcess 2616 2626	Adaptation
+R15	CarriedOn Arg1:T52 Arg2:T48
+R16	CarriedOn Arg1:T52 Arg2:T49
+R17	CarriedOn Arg1:T52 Arg2:T50
+R18	CarriedOn Arg1:T52 Arg2:T51
+T53	Environment 2934 2942	sediment
+T54	Substrate 2905 2924	Louisiana crude oil
+T55	Substrate 2915 2924	crude oil
+T56	Substrate 2921 2924	oil
+T57	ReactionOrProcess 2844 2855	degradation
+R19	CarriedOn Arg1:T57 Arg2:T54
+R20	CarriedOn Arg1:T57 Arg2:T55
+R21	CarriedOn Arg1:T57 Arg2:T56
+T58	ReactionOrProcess 3050 3064	mineralization
+T59	Environment 3307 3320	surface water
+T60	Environment 3315 3320	water
+T61	Environment 3325 3329	sand
+T62	Substrate 3266 3274	n-alkane
+T63	Substrate 3373 3384	hydrocarbon
+T64	ReactionOrProcess 3251 3262	degradation
+T65	ReactionOrProcess 3213 3227	mineralization
+R22	CarriedOn Arg1:T64 Arg2:T62
+R23	CarriedOn Arg1:T64 Arg2:T63
+R24	CarriedOn Arg1:T65 Arg2:T62
+R25	CarriedOn Arg1:T65 Arg2:T63
+T66	Environment 3588 3597	sediments
+T67	Environment 3660 3669	sediments
+T68	Environment 3638 3669	petroleumcontaminated sediments
+T69	Environment 3638 3669	petroleumcontaminated sediments
+T70	Substrate 3506 3516	anthracene
+T71	Substrate 3493 3504	naphthalene
+T72	Environment 3756 3761	water
+T73	Environment 3974 3983	oil sands
+T74	Environment 3922 3930	sediment
+T75	Environment 3978 3983	sands
+T76	Substrate 4128 4139	naphthalene
+T77	Substrate 4015 4027	hydrocarbons
+T78	Substrate 4113 4123	hexadecane
+T79	Substrate 4015 4027	hydrocarbons
+T80	Substrate 3974 3977	oil
+T81	ReactionOrProcess 4005 4014	oxidizing
+R26	CarriedOn Arg1:T81 Arg2:T76
+R27	CarriedOn Arg1:T81 Arg2:T78
+T82	Environment 4196 4205	sediments
+T83	Environment 4185 4205	freshwater sediments
+T84	Environment 4185 4205	freshwater sediments
+T85	Substrate 4211 4224	synthetic oil
+T86	Substrate 4249 4273	polyaromatic hydrocarbon
+T87	Substrate 4262 4273	hydrocarbon
+T88	Substrate 4221 4224	oil
+T89	ReactionOrProcess 4280 4294	mineralization
+T90	Environment 4396 4400	lake
+T91	Environment 4522 4526	lake
+T92	Environment 4385 4400	freshwater lake
+T93	Substrate 4449 4461	hydrocarbons
+T94	Substrate 4449 4461	hydrocarbons
+T95	ReactionOrProcess 4427 4438	degradation
+R28	CarriedOn Arg1:T95 Arg2:T93
+R29	CarriedOn Arg1:T95 Arg2:T94
+T96	Environment 4620 4628	sediment
+T97	Substrate 4654 4658	PAHs
+T98	Substrate 4801 4812	naphthalene
+T99	Substrate 4703 4715	phenanthrene
+T100	Substrate 4975 4978	PAH
+T101	Substrate 4926 4930	PAHs
+T102	ReactionOrProcess 4979 4989	catabolism
+T103	Environment 5160 5169	sediments
+T104	Substrate 5124 5128	PAHs
+T105	Substrate 5036 5047	naphthalene
+T106	Substrate 5049 5061	phenanthrene
+T107	Property 5106 5120	concentrations
+T108	Property 5327 5339	contaminants
+T109	ReactionOrProcess 5411 5421	enrichment
+T110	ReactionOrProcess 5279 5289	adaptation

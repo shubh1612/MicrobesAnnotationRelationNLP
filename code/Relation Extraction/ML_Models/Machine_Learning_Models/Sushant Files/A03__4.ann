@@ -1,0 +1,75 @@
+T1	Substrate 29 33	MTBE
+T2	Property 12 25	concentration
+T3	Substrate 94 98	MTBE
+T4	Substrate 140 144	MTBE
+T5	Environment 199 219	HS-amended sediments
+T6	Substrate 242 246	MTBE
+T7	Property 225 238	concentration
+T8	ReactionOrProcess 181 191	replicates
+T9	ReactionOrProcess 291 301	incubation
+T10	Environment 338 347	sediments
+T11	Substrate 314 318	MTBE
+T12	Substrate 364 368	MTBE
+T14	Environment 508 516	sediment
+T15	Substrate 394 398	MTBE	
+T16	ReactionOrProcess 403 411	degraded
+T17	Environment 561 570	Sediments	
+T18	Substrate 655 659	MTBE
+T19	ReactionOrProcess 677 687	replicates
+T20	ReactionOrProcess 621 629	degraded
+T21	Environment 821 829	sediment
+T22	Environment 813 820	aquifer
+T23	Substrate 769 773	MTBE
+T24	Substrate 867 871	MTBE
+T25	ReactionOrProcess 795 805	replicates
+T26	ReactionOrProcess 830 841	enrichments
+T27	Substrate 946 950	MTBE
+T28	Property 929 942	concentration
+T29	Environment 1114 1142	freshwater aquatic sediments
+T30	Substrate 1075 1079	MTBE
+T31	Substrate 1092 1095	TBA
+T32	ReactionOrProcess 1050 1071	anaerobic degradation
+T33	Environment 1190 1199	sediments
+T34	Environment 1342 1351	sediments
+T35	ReactionOrProcess 1387 1397	diminished
+T36	ReactionOrProcess 1317 1334	sulfate reduction
+T37	Environment 1497 1506	sediments
+T38	Environment 1610 1618	sediment
+T39	Environment 1799 1808	sediments
+T40	Substrate 1698 1705	methane
+T42	ReactionOrProcess 1741 1758	Fe(III) reduction
+T43	ReactionOrProcess 1718 1735	sulfate reduction
+T44	Environment 1877 1886	sediments
+T45	Substrate 1850 1853	TBA
+T46	Environment 1968 1977	sediments
+T47	Substrate 1942 1945	TBA
+T48	ReactionOrProcess 1997 2005	degraded
+T49	Environment 2049 2058	sediments
+T50	Environment 2148 2156	sediment
+T51	Substrate 2141 2144	TBA
+T52	Substrate 2210 2213	TBA
+T54	Substrate 2268 2271	TBA
+T55	Environment 2383 2391	sediment
+R2	OccursIn Arg1:T8 Arg2:T5
+R3	CarriedOn Arg1:T16 Arg2:T15
+R5	OccursIn Arg1:T16 Arg2:T14
+R7	CarriedOn Arg1:T20 Arg2:T18
+R8	OccursIn Arg1:T19 Arg2:T17
+R9	OccursIn Arg1:T20 Arg2:T17
+R10	CarriedOn Arg1:T25 Arg2:T23
+R11	CarriedOn Arg1:T25 Arg2:T24
+R12	CarriedOn Arg1:T26 Arg2:T23
+R13	CarriedOn Arg1:T26 Arg2:T24
+R14	OccursIn Arg1:T25 Arg2:T21
+R15	OccursIn Arg1:T25 Arg2:T22
+R16	OccursIn Arg1:T26 Arg2:T21
+R17	OccursIn Arg1:T26 Arg2:T22
+R18	CarriedOn Arg1:T32 Arg2:T30
+R19	CarriedOn Arg1:T32 Arg2:T31
+R20	OccursIn Arg1:T32 Arg2:T29
+R22	OccursIn Arg1:T36 Arg2:T34
+R23	CarriedOn Arg1:T42 Arg2:T40
+R25	CarriedOn Arg1:T43 Arg2:T40
+R27	OccursIn Arg1:T42 Arg2:T39
+R28	OccursIn Arg1:T43 Arg2:T39
+R30	OccursIn Arg1:T48 Arg2:T46

@@ -1,0 +1,45 @@
+T1	Substrate 105 113	gasoline
+T2	Substrate 31 35	BTEX
+T3	Substrate 85 97	hydrocarbons
+T4	Property 13 27	concentrations
+T5	Substrate 274 286	hydrocarbons
+T6	Property 334 343	aromatics
+T7	Property 175 180	toxic
+T8	ReactionOrProcess 301 309	degraded
+T9	Substrate 410 418	gasoline
+T10	Property 429 447	selective toxicity
+T11	Property 464 473	degraders
+T12	Property 455 463	aromatic
+T13	Substrate 600 608	gasoline
+T14	ReactionOrProcess 508 522	mineralization
+T15	Nutrient 573 590	electron acceptor
+T16	Substrate 826 834	gasoline
+T17	Substrate 869 876	toluene
+T18	Substrate 962 966	BTEX
+T19	Substrate 950 957	alkanes
+T20	ReactionOrProcess 994 1013	toluene degradation
+T21	ReactionOrProcess 919 930	degradation
+T22	ReactionOrProcess 980 990	inhibition
+T23	Environment 1316 1335	anaerobic sediments
+T24	Substrate 1308 1312	BTEX
+T25	Nutrient 1430 1447	electron acceptor
+T26	Substrate 1560 1568	gasoline
+T27	Substrate 1491 1495	BTEX
+T28	ReactionOrProcess 1476 1487	degradation
+T29	ReactionOrProcess 1655 1669	bioremediation
+R1	CarriedOn Arg1:T8 Arg2:T5
+R2	CarriedOn Arg1:T14 Arg2:T13
+R3	CarriedOn Arg1:T20 Arg2:T16
+R4	CarriedOn Arg1:T20 Arg2:T17
+R5	CarriedOn Arg1:T20 Arg2:T18
+R6	CarriedOn Arg1:T20 Arg2:T19
+R7	CarriedOn Arg1:T21 Arg2:T16
+R8	CarriedOn Arg1:T21 Arg2:T17
+R9	CarriedOn Arg1:T21 Arg2:T18
+R10	CarriedOn Arg1:T21 Arg2:T19
+R11	CarriedOn Arg1:T22 Arg2:T16
+R12	CarriedOn Arg1:T22 Arg2:T17
+R13	CarriedOn Arg1:T22 Arg2:T18
+R14	CarriedOn Arg1:T22 Arg2:T19
+R15	CarriedOn Arg1:T28 Arg2:T26
+R16	CarriedOn Arg1:T28 Arg2:T27

@@ -1,0 +1,39 @@
+T1	Substrate 353 359	ketone
+T2	Substrate 184 190	ketone
+T3	Substrate 240 252	ethylbenzene
+T4	Substrate 66 78	ethylbenzene
+T5	ReactionOrProcess 49 62	hydroxylation
+T6	ReactionOrProcess 80 93	hydroxylation
+T7	ReactionOrProcess 253 264	degradation
+T8	ReactionOrProcess 39 62	anaerobic hydroxylation
+T9	Nutrient 472 478	carbon
+T10	Nutrient 427 434	carbons
+R1	CarriedOn Arg1:T5 Arg2:T1
+R2	CarriedOn Arg1:T5 Arg2:T2
+R3	CarriedOn Arg1:T5 Arg2:T3
+R4	CarriedOn Arg1:T5 Arg2:T4
+R5	CarriedOn Arg1:T6 Arg2:T1
+R6	CarriedOn Arg1:T6 Arg2:T2
+R7	CarriedOn Arg1:T6 Arg2:T3
+R8	CarriedOn Arg1:T6 Arg2:T4
+R9	CarriedOn Arg1:T8 Arg2:T1
+R10	CarriedOn Arg1:T8 Arg2:T2
+R11	CarriedOn Arg1:T8 Arg2:T3
+R12	CarriedOn Arg1:T8 Arg2:T4
+T11	Enzyme 698 724	ethylbenzene dehydrogenase
+T12	Substrate 698 710	ethylbenzene
+T13	Substrate 938 945	alkanes
+T14	Substrate 1003 1010	methane
+T15	ReactionOrProcess 925 934	oxidation
+T16	ReactionOrProcess 1019 1033	bioremediation
+T17	ReactionOrProcess 915 934	anaerobic oxidation
+R13	CarriedOn Arg1:T15 Arg2:T13
+R14	CarriedOn Arg1:T15 Arg2:T14
+R15	CarriedOn Arg1:T17 Arg2:T13
+R16	CarriedOn Arg1:T17 Arg2:T14
+T18	ReactionOrProcess 1247 1256	oxidation
+T19	Microbes 1400 1429	Desulfococcus oleovorans Hxd3
+T20	Microbes 1362 1379	Desulfatibacillum
+T21	Microbes 1362 1398	Desulfatibacillum alkenivorans AK-01
+T22	Microbes 1400 1413	Desulfococcus
+T23	Microbes 1501 1512	strain HdN1

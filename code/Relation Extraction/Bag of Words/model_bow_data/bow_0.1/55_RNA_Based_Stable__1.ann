@@ -1,0 +1,128 @@
+T1	Environment 84 95	groundwater
+T2	Environment 62 95	gasoline-contaminated groundwater
+T3	Property 111 130	denaturing gradient
+T4	Property 0 6	Stable
+T5	ReactionOrProcess 111 150	denaturing gradient gel electrophoresis
+T6	ReactionOrProcess 135 150	electrophoresis
+T7	ReactionOrProcess 111 121	denaturing
+T8	Microbes 418 426	Azoarcus
+T9	Environment 272 283	groundwater
+T10	Substrate 483 490	nitrate
+T11	Nutrient 320 337	electron acceptor
+T12	Nutrient 360 366	oxygen
+T13	Environment 662 673	groundwater
+T14	Environment 640 673	gasoline-contaminated groundwater
+T15	ReactionOrProcess 563 567	DGGE
+T16	ReactionOrProcess 627 630	PCR
+T17	ReactionOrProcess 563 576	DGGE analysis
+T18	Microbes 699 707	Azoarcus
+T19	Environment 721 732	groundwater
+T20	ReactionOrProcess 820 824	DGGE
+T21	ReactionOrProcess 820 833	DGGE analysis
+T22	Nutrient 756 760	agar
+T23	Microbes 993 1001	Azoarcus
+T24	Substrate 1072 1079	benzene
+T25	Property 1086 1098	denitrifying
+T26	ReactionOrProcess 1063 1071	degraded
+T27	ReactionOrProcess 1086 1098	denitrifying
+T28	ReactionOrProcess 1111 1121	Incubation
+T29	Nutrient 1181 1187	carbon
+T30	Microbes 1271 1279	Azoarcus
+T31	Environment 1356 1367	groundwater
+T32	Environment 1334 1367	gasoline-contaminated groundwater
+T33	Substrate 1307 1314	benzene
+T34	Property 1374 1386	denitrifying
+T35	ReactionOrProcess 1374 1386	denitrifying
+T36	ReactionOrProcess 1315 1326	degradation
+T37	ReactionOrProcess 1532 1542	enrichment
+T38	ReactionOrProcess 1519 1528	isolation
+T39	Environment 1621 1632	groundwater
+T40	Environment 1712 1717	water
+T41	Substrate 1638 1646	gasoline
+T42	Environment 1939 1944	water
+T43	Substrate 1777 1784	Benzene
+T44	Substrate 1786 1793	toluene
+T45	Substrate 1799 1806	xylenes
+T46	Property 1928 1935	soluble
+T47	Property 1858 1870	contaminants
+T48	Property 1913 1918	toxic
+T49	Substrate 1963 1970	benzene
+T50	Property 2014 2029	carcinogenicity
+T51	Substrate 2039 2046	Benzene
+T52	ReactionOrProcess 2062 2073	biodegraded
+T53	Environment 2134 2144	subsurface
+T54	Environment 2145 2153	aquifers
+T55	Substrate 2159 2167	gasoline
+T56	Substrate 2239 2246	benzene
+T57	Environment 2420 2436	nitrate-reducing
+T58	Substrate 2326 2333	benzene
+T59	Substrate 2316 2333	anaerobic benzene
+T60	Property 2567 2579	methanogenic
+T61	Property 2567 2579	methanogenic
+T62	Property 2467 2483	sulfate-reducing
+T63	ReactionOrProcess 2316 2345	anaerobic benzene degradation
+T64	ReactionOrProcess 2334 2345	degradation
+T65	ReactionOrProcess 2379 2390	degradation
+T66	ReactionOrProcess 2774 2783	isolating
+T67	ReactionOrProcess 2689 2700	enrichments
+T68	Microbes 2891 2904	Dechloromonas
+T69	Substrate 2947 2954	benzene
+T70	ReactionOrProcess 2925 2938	anaerobically
+T71	ReactionOrProcess 2925 2946	anaerobically degrade
+T72	ReactionOrProcess 2939 2946	degrade
+T73	ReactionOrProcess 3022 3032	enrichment
+T74	Environment 3130 3140	subsurface
+T75	Environment 3141 3148	aquifer
+T76	Property 3178 3189	attenuation
+T77	Environment 3291 3298	aquifer
+T78	Substrate 3232 3255	intrinsic anaerobic BTX
+T79	Substrate 3323 3331	gasoline
+T80	Substrate 3386 3393	nitrate
+T81	Property 3459 3473	concentrations
+T82	ReactionOrProcess 3242 3270	anaerobic BTX biodegradation
+T83	ReactionOrProcess 3441 3451	reductions
+T84	ReactionOrProcess 3256 3270	biodegradation
+T85	Nutrient 3351 3369	electron acceptors
+T86	Nutrient 3378 3384	oxygen
+R1	CarriedOn Arg1:T82 Arg2:T79
+R2	CarriedOn Arg1:T82 Arg2:T80
+R3	CarriedOn Arg1:T84 Arg2:T79
+R4	CarriedOn Arg1:T84 Arg2:T80
+T87	Environment 3621 3641	uncontaminated zones
+T88	ReactionOrProcess 3561 3575	biodegradation
+T89	Microbes 3688 3696	Azoarcus
+T90	ReactionOrProcess 3743 3757	biodegradation
+T91	Environment 3877 3884	aquifer
+T92	Substrate 3840 3847	benzene
+T93	ReactionOrProcess 3830 3839	degrading
+T94	Property 4238 4244	stable
+T95	Property 4059 4065	Stable
+T96	ReactionOrProcess 4221 4234	incorporation
+T97	Substrate 4634 4641	benzene
+T98	Substrate 4624 4641	anaerobic benzene
+T99	ReactionOrProcess 4541 4562	substrate degradation
+T100	ReactionOrProcess 4448 4461	incorporation
+T101	ReactionOrProcess 4624 4653	anaerobic benzene degradation
+T102	ReactionOrProcess 4551 4562	degradation
+T103	ReactionOrProcess 4642 4653	degradation
+R5	CarriedOn Arg1:T99 Arg2:T97
+R6	CarriedOn Arg1:T99 Arg2:T98
+R7	CarriedOn Arg1:T100 Arg2:T97
+R8	CarriedOn Arg1:T100 Arg2:T98
+R9	CarriedOn Arg1:T101 Arg2:T97
+R10	CarriedOn Arg1:T101 Arg2:T98
+R11	CarriedOn Arg1:T102 Arg2:T97
+R12	CarriedOn Arg1:T102 Arg2:T98
+R13	CarriedOn Arg1:T103 Arg2:T97
+R14	CarriedOn Arg1:T103 Arg2:T98
+T104	Property 4791 4803	denitrifying
+T105	ReactionOrProcess 4701 4710	isolating
+T106	ReactionOrProcess 4791 4803	denitrifying
+T107	Environment 4861 4872	groundwater
+T108	Environment 4816 4827	Groundwater
+T109	Environment 4929 4939	subsurface
+T110	Environment 4839 4872	gasoline-contaminated groundwater
+T111	Environment 4940 4947	aquifer
+T112	Environment 4997 5004	aquifer
+T113	Property 5045 5056	attenuation
+T114	Environment 5143 5154	groundwater

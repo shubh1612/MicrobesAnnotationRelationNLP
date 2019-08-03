@@ -1,0 +1,46 @@
+T1	Environment 143 148	plume
+T2	Substrate 113 124	hydrocarbon
+T3	Environment 213 224	groundwater
+T4	Environment 321 328	aquifer
+T5	Environment 388 399	groundwater
+T6	Environment 418 426	seawater
+T7	Substrate 451 481	numerous gasoline hydrocarbons
+T8	Substrate 460 468	gasoline
+T9	Substrate 460 481	gasoline hydrocarbons
+T10	Substrate 469 481	hydrocarbons
+T11	Substrate 451 468	numerous gasoline
+T12	Substrate 460 481	gasoline hydrocarbons
+T13	Substrate 469 481	hydrocarbons
+T14	Substrate 514 535	aromatic hydrocarbons
+T15	Substrate 514 535	aromatic hydrocarbons
+T16	Substrate 523 535	hydrocarbons
+T17	Substrate 523 535	hydrocarbons
+T18	Property 514 522	aromatic
+T19	Environment 756 767	groundwater
+T20	Environment 860 865	plume
+T21	Substrate 699 711	hydrocarbons
+T22	Substrate 699 711	hydrocarbons
+T23	Property 670 683	Concentration
+T24	Property 670 684	Concentrations
+T25	Environment 1079 1090	groundwater
+T26	Microbes 1214 1232	enrichment culture
+T27	Environment 1249 1260	groundwater
+T28	Environment 1332 1339	aquifer
+T29	ReactionOrProcess 1233 1243	inoculated
+T30	ReactionOrProcess 1214 1224	enrichment
+T31	Environment 1486 1493	aquifer
+T32	ReactionOrProcess 1850 1859	extracted
+T33	Environment 2217 2228	groundwater
+T34	Environment 2238 2249	Groundwater
+T35	Environment 2563 2574	groundwater
+T36	Property 2538 2546	residual
+T37	Environment 2693 2699	vacuum
+T38	Environment 2848 2859	groundwater
+T39	ReactionOrProcess 3052 3061	Isolation
+T40	Environment 3174 3185	groundwater
+T41	Substrate 3094 3102	Gasoline
+T42	Substrate 3197 3216	sterile hydrocarbon
+T43	Substrate 3205 3216	hydrocarbon
+T44	Nutrient 3287 3291	agar
+T45	Environment 3347 3352	water
+T46	Nutrient 3415 3419	KNO3

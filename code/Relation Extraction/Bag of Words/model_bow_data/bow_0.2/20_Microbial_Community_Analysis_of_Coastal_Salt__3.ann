@@ -1,0 +1,85 @@
+T1	Environment 180 188	sediment
+T2	Substrate 131 140	petroleum
+T3	Substrate 125 153	Total petroleum hydrocarbons
+T4	Substrate 141 153	hydrocarbons
+T5	Substrate 125 153	Total petroleum hydrocarbons
+T6	Substrate 104 115	Hydrocarbon
+T7	Substrate 141 153	hydrocarbons
+T8	Substrate 131 153	petroleum hydrocarbons
+T9	ReactionOrProcess 165 174	extracted
+T10	Environment 376 384	sediment
+T11	Substrate 337 340	TPH
+T12	Environment 417 425	sediment
+T13	Substrate 463 472	n-alkanes
+T14	Substrate 478 496	methylene chloride
+T15	ReactionOrProcess 449 458	extracted
+T16	Substrate 562 571	crude oil
+T17	Substrate 568 571	oil
+T18	Substrate 630 633	oil
+T19	Substrate 713 724	hydrocarbon
+T20	Environment 820 825	Water
+T21	Environment 837 842	Water
+T22	Environment 957 962	Water
+T23	Property 963 974	temperature
+T24	Property 1128 1137	Dissolved
+T25	Property 1145 1155	saturation
+T26	Nutrient 1138 1144	oxygen
+T27	Environment 1401 1410	sediments
+T28	Environment 1395 1410	marsh sediments
+T29	Environment 1395 1410	marsh sediments
+T30	Substrate 1347 1359	Hydrocarbons
+T31	Substrate 1334 1346	Hydrocarbons
+T32	Substrate 1334 1345	Hydrocarbon
+T33	Substrate 1347 1359	Hydrocarbons
+T34	Substrate 1334 1346	Hydrocarbons
+T35	Environment 1514 1519	water
+T36	Substrate 1455 1458	oil
+T37	Environment 1687 1692	water
+T38	Substrate 1654 1657	oil
+T39	Environment 1789 1798	sediments
+T40	Substrate 1730 1733	TPH
+T41	Substrate 1857 1860	TPH
+T42	ReactionOrProcess 1975 1984	replicate
+T43	Substrate 2146 2149	TPH
+T44	Substrate 1992 1995	TPH
+T45	Substrate 2196 2199	oil
+T46	Property 1996 2010	concentrations
+T47	Property 2213 2222	dispersed
+T48	ReactionOrProcess 2025 2034	replicate
+T49	Environment 2376 2386	subsurface
+T50	Substrate 2302 2305	TPH
+T51	Environment 2433 2442	sediments
+T52	Environment 2417 2442	surficial Inlet sediments
+T53	Substrate 2397 2400	TPH
+T54	Environment 2680 2690	subsurface
+T55	Environment 2516 2529	Marsh samples
+T56	Substrate 2591 2594	TPH
+T57	Substrate 2500 2503	TPH
+T58	Property 2595 2609	concentrations
+T59	ReactionOrProcess 2633 2642	replicate
+T60	Substrate 2692 2695	TPH
+T61	ReactionOrProcess 2727 2737	replicates
+T62	Environment 2900 2910	subsurface
+T63	Substrate 2843 2846	TPH
+T64	Substrate 2883 2886	TPH
+T65	Environment 2987 3000	Marsh samples
+T66	Substrate 2969 2972	TPH
+T67	Substrate 3025 3028	TPH
+T68	Property 3029 3043	concentrations
+T69	Environment 3238 3251	Marsh samples
+T70	Substrate 3231 3234	TPH
+T71	Substrate 3340 3343	TPH
+T72	Substrate 3397 3400	TPH
+T73	Property 3401 3414	concentration
+T74	Substrate 3496 3499	oil
+T75	Substrate 3746 3769	long-chain hydrocarbons
+T76	Substrate 3746 3769	long-chain hydrocarbons
+T77	Substrate 3599 3608	n-alkanes
+T78	Substrate 3688 3700	hydrocarbons
+T79	Substrate 3757 3769	hydrocarbons
+T80	Substrate 3676 3700	short-chain hydrocarbons
+T81	Substrate 3676 3700	short-chain hydrocarbons
+T82	Substrate 3688 3700	hydrocarbons
+T83	Substrate 3757 3769	hydrocarbons
+T84	Property 3654 3668	concentrations
+T85	Property 3728 3742	concentrations

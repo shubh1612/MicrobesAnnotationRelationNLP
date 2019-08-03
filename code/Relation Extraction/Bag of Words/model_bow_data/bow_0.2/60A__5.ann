@@ -1,0 +1,80 @@
+T1	Microbes 148 161	Acinetobacter
+T2	Microbes 163 174	Alcaligenes
+T3	Microbes 133 146	Achromobacter
+T4	Environment 100 106	marine
+T5	Environment 111 115	soil
+T6	Environment 111 128	soil environments
+T7	Environment 367 373	marine
+T8	Microbes 533 544	Micrococcus
+T9	Environment 499 507	sediment
+T10	Environment 489 494	water
+T11	Environment 766 772	marine
+T12	Environment 839 843	soil
+T13	Substrate 854 865	Hydrocarbon
+T14	Environment 1016 1022	marine
+T15	Substrate 1230 1242	hydrocarbons
+T16	Substrate 1230 1242	hydrocarbons
+T17	ReactionOrProcess 1212 1226	biodegradation
+R1	CarriedOn Arg1:T17 Arg2:T15
+R2	CarriedOn Arg1:T17 Arg2:T16
+T18	Environment 1376 1382	marine
+T19	Environment 1593 1599	marine
+T20	Environment 1962 1968	marine
+T21	Substrate 1896 1907	hydrocarbon
+T22	ReactionOrProcess 1896 1919	hydrocarbon degradation
+T23	ReactionOrProcess 1908 1919	degradation
+T24	Substrate 2093 2102	petroleum
+T25	Substrate 2197 2206	petroleum
+T26	ReactionOrProcess 2070 2081	utilization
+T27	ReactionOrProcess 2178 2189	utilization
+R3	CarriedOn Arg1:T26 Arg2:T24
+R4	CarriedOn Arg1:T26 Arg2:T25
+R5	CarriedOn Arg1:T27 Arg2:T24
+R6	CarriedOn Arg1:T27 Arg2:T25
+T28	Microbes 2342 2350	inoculum
+T29	Substrate 2314 2323	petroleum
+T30	ReactionOrProcess 2299 2310	degradation
+R7	CarriedOn Arg1:T30 Arg2:T28
+R8	CarriedOn Arg1:T30 Arg2:T29
+T31	Environment 2447 2456	sediments
+T32	Environment 2437 2456	estuarine sediments
+T33	Environment 2437 2456	estuarine sediments
+T34	Environment 2507 2513	waters
+T35	Environment 2420 2456	oil-contaminated estuarine sediments
+T36	Substrate 2538 2541	oil
+T37	Environment 2674 2677	Sea
+T38	Substrate 2623 2632	crude oil
+T39	Substrate 2629 2632	oil
+T40	Substrate 2748 2770	degrading hydrocarbons
+T41	Substrate 2758 2770	hydrocarbons
+T42	Substrate 2748 2770	degrading hydrocarbons
+T43	Substrate 2758 2770	hydrocarbons
+T44	ReactionOrProcess 2748 2757	degrading
+T45	Environment 2963 2971	seawater
+T46	Environment 2867 2872	lakes
+T47	Environment 3114 3123	sediments
+T48	Environment 3140 3145	lakes
+T49	Environment 3129 3145	freshwater lakes
+T50	Environment 3289 3293	soil
+T51	Substrate 3358 3370	hydrocarbons
+T52	Substrate 3358 3370	hydrocarbons
+T53	ReactionOrProcess 3340 3354	biodegradation
+R9	CarriedOn Arg1:T53 Arg2:T51
+R10	CarriedOn Arg1:T53 Arg2:T52
+T54	Environment 3523 3527	soil
+T55	Environment 3472 3476	soil
+T56	Substrate 3377 3388	Hydrocarbon
+T57	Substrate 3501 3504	oil
+T58	Environment 3686 3690	soil
+T59	Substrate 3637 3648	hydrocarbon
+T60	ReactionOrProcess 3637 3660	hydrocarbon degradation
+T61	ReactionOrProcess 3649 3660	degradation
+T62	Environment 3764 3769	sandy
+T63	Property 3764 3769	sandy
+T64	ReactionOrProcess 3744 3758	mineralization
+T65	Environment 3928 3939	terrestrial
+T66	Environment 3916 3923	aquatic
+T67	Environment 3928 3950	terrestrial ecosystems
+T68	Substrate 3991 4002	hydrocarbon
+T69	ReactionOrProcess 3991 4017	hydrocarbon biodegradation
+T70	ReactionOrProcess 4003 4017	biodegradation

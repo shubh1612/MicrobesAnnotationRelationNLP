@@ -1,0 +1,167 @@
+T1	ReactionOrProcess 32 40	purified
+T2	ReactionOrProcess 165 180	electrophoresis
+T3	ReactionOrProcess 51 54	PCR
+T4	ReactionOrProcess 256 259	PCR
+T5	ReactionOrProcess 359 392	Basic Local Alignment Search Tool
+T6	Microbes 535 543	inoculum
+T7	Substrate 448 457	petroleum
+T8	Substrate 458 470	hydrocarbons
+T9	Substrate 458 470	hydrocarbons
+T10	Substrate 429 435	diesel
+T11	Substrate 567 573	diesel
+T12	Substrate 448 470	petroleum hydrocarbons
+T13	ReactionOrProcess 600 622	incubated with shaking
+T14	ReactionOrProcess 600 609	incubated
+T15	Nutrient 580 586	carbon
+T16	Substrate 760 766	diesel
+T17	Substrate 914 920	diesel
+T18	Substrate 1182 1191	petroleum
+T19	Substrate 1176 1203	total petroleum hydrocarbon
+T20	Substrate 1192 1203	hydrocarbon
+T21	Property 1022 1033	temperature
+T22	Property 1210 1224	concentrations
+T23	ReactionOrProcess 1157 1168	GC analysis
+R1	CarriedOn Arg1:T23 Arg2:T18
+R2	CarriedOn Arg1:T23 Arg2:T19
+R3	CarriedOn Arg1:T23 Arg2:T20
+T24	Substrate 1487 1495	gasoline
+T25	Substrate 1348 1355	benzene
+T26	Substrate 1265 1274	petroleum
+T27	Substrate 1357 1364	toluene
+T28	Substrate 1419 1423	PAHs
+T29	Substrate 1438 1450	phenanthrene
+T30	Substrate 1508 1517	crude oil
+T31	Substrate 1275 1287	hydrocarbons
+T32	Substrate 1366 1378	ethylbenzene
+T33	Substrate 1383 1389	xylene
+T34	Substrate 1275 1287	hydrocarbons
+T35	Substrate 1455 1461	pyrene
+T36	Substrate 1514 1517	oil
+T37	Substrate 1497 1503	diesel
+T38	Substrate 1265 1287	petroleum hydrocarbons
+T39	ReactionOrProcess 1234 1255	potential degradation
+T40	ReactionOrProcess 1244 1255	degradation
+R4	CarriedOn Arg1:T39 Arg2:T24
+R5	CarriedOn Arg1:T39 Arg2:T25
+R6	CarriedOn Arg1:T39 Arg2:T26
+R7	CarriedOn Arg1:T39 Arg2:T27
+R8	CarriedOn Arg1:T39 Arg2:T28
+R9	CarriedOn Arg1:T39 Arg2:T29
+R10	CarriedOn Arg1:T39 Arg2:T30
+R11	CarriedOn Arg1:T39 Arg2:T31
+R12	CarriedOn Arg1:T39 Arg2:T32
+R13	CarriedOn Arg1:T39 Arg2:T33
+R14	CarriedOn Arg1:T39 Arg2:T34
+R15	CarriedOn Arg1:T39 Arg2:T35
+R16	CarriedOn Arg1:T39 Arg2:T36
+R17	CarriedOn Arg1:T39 Arg2:T37
+R18	CarriedOn Arg1:T39 Arg2:T38
+R19	CarriedOn Arg1:T40 Arg2:T24
+R20	CarriedOn Arg1:T40 Arg2:T25
+R21	CarriedOn Arg1:T40 Arg2:T26
+R22	CarriedOn Arg1:T40 Arg2:T27
+R23	CarriedOn Arg1:T40 Arg2:T28
+R24	CarriedOn Arg1:T40 Arg2:T29
+R25	CarriedOn Arg1:T40 Arg2:T30
+R26	CarriedOn Arg1:T40 Arg2:T31
+R27	CarriedOn Arg1:T40 Arg2:T32
+R28	CarriedOn Arg1:T40 Arg2:T33
+R29	CarriedOn Arg1:T40 Arg2:T34
+R30	CarriedOn Arg1:T40 Arg2:T35
+R31	CarriedOn Arg1:T40 Arg2:T36
+R32	CarriedOn Arg1:T40 Arg2:T37
+R33	CarriedOn Arg1:T40 Arg2:T38
+T41	Substrate 1588 1599	hydrocarbon
+T42	ReactionOrProcess 1567 1577	inoculated
+T43	Environment 1770 1774	soil
+T44	Environment 1710 1714	Soil
+T45	Substrate 1733 1739	diesel
+T46	Environment 1858 1862	soil
+T47	Environment 1878 1882	soil
+T48	Environment 1981 1985	soil
+T49	Substrate 2104 2113	petroleum
+T50	Substrate 2098 2126	total petroleum hydrocarbons
+T51	Substrate 2114 2126	hydrocarbons
+T52	Substrate 2098 2126	total petroleum hydrocarbons
+T53	Substrate 2133 2139	hexane
+T54	Substrate 2114 2126	hydrocarbons
+T55	Substrate 2020 2026	diesel
+T56	Substrate 2104 2126	petroleum hydrocarbons
+T57	ReactionOrProcess 1887 1895	airdried
+T58	ReactionOrProcess 2221 2232	GC analysis
+R34	CarriedOn Arg1:T57 Arg2:T49
+R35	CarriedOn Arg1:T57 Arg2:T50
+R36	CarriedOn Arg1:T57 Arg2:T51
+R37	CarriedOn Arg1:T57 Arg2:T52
+R38	CarriedOn Arg1:T57 Arg2:T53
+R39	CarriedOn Arg1:T57 Arg2:T54
+R40	CarriedOn Arg1:T57 Arg2:T55
+R41	CarriedOn Arg1:T57 Arg2:T56
+T59	Substrate 2289 2292	TPH
+T60	Substrate 2312 2318	hexane
+T61	Substrate 2270 2276	diesel
+T62	ReactionOrProcess 2431 2456	flame ionization detector
+T63	ReactionOrProcess 2293 2302	extracted
+T64	ReactionOrProcess 2448 2456	detector
+T65	ReactionOrProcess 2431 2447	flame ionization
+T66	Substrate 2637 2652	External diesel
+T67	Substrate 2697 2700	TPH
+T68	Substrate 2656 2662	hexane
+T69	Substrate 2646 2652	diesel
+T70	Substrate 3061 3071	hexadecane
+T71	Substrate 3125 3131	diesel
+T72	ReactionOrProcess 3078 3087	reduction
+T73	ReactionOrProcess 3110 3121	degradation
+R42	CarriedOn Arg1:T72 Arg2:T71
+R43	CarriedOn Arg1:T73 Arg2:T71
+T74	Substrate 3201 3207	diesel
+T75	ReactionOrProcess 3193 3200	degrade
+T76	Microbes 3239 3261	Pseudomonas aeruginosa
+T77	Microbes 3251 3261	aeruginosa
+T78	Microbes 3478 3500	Pseudomonas aeruginosa
+T79	Microbes 3490 3500	aeruginosa
+T80	Microbes 3591 3605	Pseudomonas sp
+T81	Microbes 3663 3673	consortium
+T82	Environment 3705 3717	soil samples
+T83	Environment 3688 3709	oil-contaminated soil
+T84	Environment 3705 3709	soil
+T85	Property 3620 3631	degradative
+T86	Substrate 3806 3815	petroleum
+T87	Substrate 3816 3828	hydrocarbons
+T88	Substrate 3816 3828	hydrocarbons
+T89	Substrate 3840 3846	diesel
+T90	Substrate 3806 3828	petroleum hydrocarbons
+T91	Substrate 3992 4000	gasoline
+T92	Substrate 3898 3907	crude oil
+T93	Substrate 3904 3907	oil
+T94	Substrate 3938 3944	diesel
+T95	Substrate 4077 4084	benzene
+T96	Substrate 4086 4093	toluene
+T97	Substrate 4103 4114	naphthalene
+T98	Substrate 4116 4128	phenanthrene
+T99	Substrate 4056 4068	hydrocarbons
+T100	Substrate 4149 4161	ethylbenzene
+T101	Substrate 4095 4101	xylene
+T102	Substrate 4056 4068	hydrocarbons
+T103	Substrate 4133 4139	pyrene
+T104	ReactionOrProcess 4037 4044	degrade
+R44	CarriedOn Arg1:T104 Arg2:T100
+R45	CarriedOn Arg1:T104 Arg2:T103
+T105	Substrate 4201 4213	hydrocarbons
+T106	Substrate 4263 4274	hydrocarbon
+T107	Substrate 4201 4213	hydrocarbons
+T108	Nutrient 4304 4310	carbon
+T109	Microbes 4367 4380	P. aeruginosa
+T110	Microbes 4370 4380	aeruginosa
+T111	Substrate 4458 4462	PAHs
+T112	Substrate 4466 4475	crude oil
+T113	Substrate 4458 4475	PAHs of crude oil
+T114	Substrate 4398 4404	pyrene
+T115	Substrate 4472 4475	oil
+T116	Nutrient 4489 4495	carbon
+T117	Microbes 4597 4610	P. aeruginosa
+T118	Microbes 4600 4610	aeruginosa
+T119	Substrate 4720 4732	hydrocarbons
+T120	Substrate 4720 4732	hydrocarbons
+T121	Substrate 4520 4526	Diesel
+T122	Nutrient 4638 4644	carbon

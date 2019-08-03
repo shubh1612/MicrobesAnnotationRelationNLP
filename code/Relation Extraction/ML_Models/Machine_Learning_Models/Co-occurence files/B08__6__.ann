@@ -1,0 +1,68 @@
+T1	Environment 204 215	groundwater
+T2	Environment 225 235	microcosms
+T3	Property 311 323	contaminants
+T4	ReactionOrProcess 282 303	microbial degradation
+T5	Microbes 334 351	Desulfosporosinus
+T6	Microbes 445 462	Desulfosporosinus
+T7	Environment 368 373	plume
+T8	Environment 435 440	plume
+T9	Property 383 399	sulfate-reducing
+T10	Property 626 642	sulfate-reducing
+T11	ReactionOrProcess 588 592	PLFA
+T12	Microbes 694 711	Desulfosporosinus
+T13	Environment 668 673	plume
+T14	Environment 1101 1112	groundwater
+T15	Microbes 1212 1229	Desulfosporosinus
+T16	Microbes 1429 1446	Desulfosporosinus
+T17	Microbes 1531 1548	Desulfosporosinus
+T18	Environment 1481 1492	groundwater
+T19	Microbes 1559 1576	Desulfosporosinus
+T20	Microbes 1768 1785	Desulfosporosinus
+T21	Environment 1853 1864	groundwater
+T22	Environment 1835 1840	plume
+T23	Environment 1887 1892	plume
+T24	Environment 1812 1817	water
+T25	Environment 1966 1977	groundwater
+T26	Environment 2056 2083	sulfate-reducing conditions
+T27	Environment 1995 2000	plume
+T28	Environment 2116 2121	plume
+T29	Environment 2088 2093	water
+T30	Substrate 2041 2048	toluene
+T31	Environment 2169 2180	groundwater
+T32	Environment 2283 2290	aquifer
+T33	Environment 2417 2424	aquifer
+T34	Substrate 2452 2473	aromatic hydrocarbons
+T35	ReactionOrProcess 2581 2594	hybridization
+T36	Environment 2965 2976	groundwater
+T37	Substrate 2993 3002	crude oil
+T38	ReactionOrProcess 2884 2923	denaturing gradient gel electrophoresis
+T39	ReactionOrProcess 2876 2879	PCR
+T40	Environment 3136 3147	groundwater
+T41	Nutrient 3218 3236	electron acceptors
+T42	Property 3379 3395	sulfate-reducing
+T43	Environment 3440 3451	groundwater
+R1	OccursIn Arg1:T4 Arg2:T1
+R2	OccursIn Arg1:T4 Arg2:T2
+R3	FoundIn Arg1:T5 Arg2:T7
+R4	FoundIn Arg1:T5 Arg2:T8
+R5	FoundIn Arg1:T6 Arg2:T7
+R6	FoundIn Arg1:T6 Arg2:T8
+R7	Of Arg1:T5 Arg2:T9
+R8	Of Arg1:T5 Arg2:T10
+R9	Of Arg1:T6 Arg2:T9
+R10	Of Arg1:T6 Arg2:T10
+R11	CarriedOn Arg1:T11 Arg2:T5
+R12	CarriedOn Arg1:T11 Arg2:T6
+R13	OccursIn Arg1:T11 Arg2:T7
+R14	OccursIn Arg1:T11 Arg2:T8
+R15	FoundIn Arg1:T12 Arg2:T13
+R16	FoundIn Arg1:T16 Arg2:T18
+R17	FoundIn Arg1:T17 Arg2:T18
+R18	FoundIn Arg1:T20 Arg2:T21
+R19	FoundIn Arg1:T20 Arg2:T22
+R20	FoundIn Arg1:T20 Arg2:T23
+R21	FoundIn Arg1:T20 Arg2:T24
+R22	CarriedOn Arg1:T38 Arg2:T37
+R23	CarriedOn Arg1:T39 Arg2:T37
+R24	OccursIn Arg1:T38 Arg2:T36
+R25	OccursIn Arg1:T39 Arg2:T36

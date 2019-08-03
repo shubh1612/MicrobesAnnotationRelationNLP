@@ -1,0 +1,26 @@
+T1	Microbes 226 233	E. coli
+T2	Substrate 104 119	catabolic genes
+T3	Substrate 127 136	petroleum
+T4	Substrate 189 199	hexadecane
+T5	Substrate 104 119	catabolic genes
+T6	ReactionOrProcess 189 214	hexadecane biodegradation
+T7	ReactionOrProcess 200 214	biodegradation
+T8	ReactionOrProcess 267 281	biodegradation
+T9	Substrate 451 460	petroleum
+T10	Substrate 368 379	naphthalene
+T11	Substrate 354 366	phenanthrene
+T12	Substrate 428 440	hydrocarbons
+T13	Substrate 445 460	crude petroleum
+T14	Substrate 428 440	hydrocarbons
+T15	Substrate 642 651	petroleum
+T16	Substrate 599 610	hydrocarbon
+T17	ReactionOrProcess 599 622	hydrocarbon degradation
+T18	ReactionOrProcess 564 582	catabolic pathways
+T19	ReactionOrProcess 611 622	degradation
+T20	Substrate 794 803	petroleum
+T21	Substrate 784 803	Brazilian petroleum
+T22	Substrate 855 865	hexadecane
+T23	ReactionOrProcess 855 880	hexadecane biodegradation
+T24	ReactionOrProcess 866 880	biodegradation
+T25	ReactionOrProcess 963 977	biodegradation
+T26	Substrate 1190 1199	petroleum

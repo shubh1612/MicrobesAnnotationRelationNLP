@@ -1,0 +1,116 @@
+T1	Environment 41 45	soil
+T2	Environment 20 25	water
+T3	Nutrient 196 202	oxygen
+T4	Environment 286 290	soil
+T5	Substrate 235 256	aromatic hydrocarbons
+T6	Substrate 235 256	aromatic hydrocarbons
+T7	Substrate 244 256	hydrocarbons
+T8	Substrate 244 256	hydrocarbons
+T9	Property 235 243	aromatic
+T10	Nutrient 304 310	oxygen
+T11	Environment 489 493	soil
+T12	Environment 389 400	vadose zone
+T13	Substrate 449 470	aromatic hydrocarbons
+T14	Substrate 555 576	aromatic hydrocarbons
+T15	Substrate 449 470	aromatic hydrocarbons
+T16	Substrate 555 576	aromatic hydrocarbons
+T17	Substrate 458 470	hydrocarbons
+T18	Substrate 564 576	hydrocarbons
+T19	Substrate 458 470	hydrocarbons
+T20	Substrate 564 576	hydrocarbons
+T21	Property 449 457	aromatic
+T22	Property 555 563	aromatic
+T23	ReactionOrProcess 367 381	Biodegradation
+T24	Nutrient 475 481	oxygen
+T25	Nutrient 519 525	oxygen
+R1	CarriedOn Arg1:T23 Arg2:T13
+R2	CarriedOn Arg1:T23 Arg2:T14
+R3	CarriedOn Arg1:T23 Arg2:T15
+R4	CarriedOn Arg1:T23 Arg2:T16
+R5	CarriedOn Arg1:T23 Arg2:T17
+R6	CarriedOn Arg1:T23 Arg2:T18
+R7	CarriedOn Arg1:T23 Arg2:T19
+R8	CarriedOn Arg1:T23 Arg2:T20
+T26	Environment 626 637	groundwater
+T27	Environment 687 698	groundwater
+T28	Property 742 751	dissolved
+T29	Nutrient 752 758	oxygen
+T30	Environment 798 809	groundwater
+T31	Environment 829 847	contaminated sites
+T32	Substrate 760 781	Aromatic hydrocarbons
+T33	Substrate 760 780	Aromatic hydrocarbon
+T34	Substrate 760 781	Aromatic hydrocarbons
+T35	Substrate 769 781	hydrocarbons
+T36	Substrate 769 781	hydrocarbons
+T37	Property 855 864	dissolved
+T38	Property 760 768	Aromatic
+T39	Nutrient 865 871	oxygen
+T40	Environment 1098 1102	soil
+T41	Nutrient 942 948	oxygen
+T42	Nutrient 1003 1009	oxygen
+T43	Nutrient 1084 1090	oxygen
+T44	Substrate 1305 1316	hydrocarbon
+T45	ReactionOrProcess 1287 1296	depletion
+T46	ReactionOrProcess 1305 1328	hydrocarbon degradation
+T47	ReactionOrProcess 1317 1328	degradation
+T48	Nutrient 1280 1286	oxygen
+T49	Nutrient 1484 1490	oxygen
+T50	Nutrient 1529 1535	oxygen
+T51	Substrate 1591 1602	hydrocarbon
+T52	ReactionOrProcess 1591 1614	hydrocarbon degradation
+T53	ReactionOrProcess 1603 1614	degradation
+T54	ReactionOrProcess 1755 1766	degradation
+T55	Substrate 1932 1941	petroleum
+T56	ReactionOrProcess 1901 1915	biodegradation
+R9	CarriedOn Arg1:T56 Arg2:T55
+T57	Substrate 2123 2129	diesel
+T58	Substrate 2355 2373	volatile aromatics
+T59	Substrate 2364 2373	aromatics
+T60	Property 2364 2373	aromatics
+T61	Property 2355 2363	volatile
+T62	ReactionOrProcess 2331 2345	mineralisation
+T63	Environment 2424 2434	microcosms
+T64	Environment 2484 2488	soil
+T65	Environment 2530 2534	soil
+T66	Substrate 2559 2566	benzene
+T67	ReactionOrProcess 2567 2581	mineralisation
+T68	Environment 2661 2665	soil
+T69	Environment 2832 2836	soil
+T70	Substrate 2605 2626	aromatic hydrocarbons
+T71	Substrate 2605 2626	aromatic hydrocarbons
+T72	Substrate 2614 2626	hydrocarbons
+T73	Substrate 2614 2626	hydrocarbons
+T74	Property 2587 2601	concentrations
+T75	Property 2605 2613	aromatic
+T76	ReactionOrProcess 2740 2754	mineralisation
+T77	Nutrient 2639 2645	carbon
+T78	Nutrient 2628 2634	oxygen
+T79	Environment 2846 2850	Soil
+T80	ReactionOrProcess 2908 2922	mineralisation
+T81	Environment 3020 3024	Soil
+T82	Substrate 3078 3089	hydrocarbon
+T83	Nutrient 3101 3107	oxygen
+T84	Substrate 3254 3263	petroleum
+T85	Substrate 3248 3275	total petroleum hydrocarbon
+T86	Substrate 3264 3275	hydrocarbon
+T87	ReactionOrProcess 3282 3296	mineralisation
+T88	Nutrient 3169 3175	oxygen
+T89	Substrate 3395 3406	hydrocarbon
+T90	ReactionOrProcess 3407 3421	mineralisation
+T91	Substrate 3584 3605	aromatic hydrocarbons
+T92	Substrate 3584 3605	aromatic hydrocarbons
+T93	Substrate 3593 3605	hydrocarbons
+T94	Substrate 3573 3605	mineralise aromatic hydrocarbons
+T95	Substrate 3512 3515	TPH
+T96	Substrate 3593 3605	hydrocarbons
+T97	Property 3494 3508	concentrations
+T98	Property 3584 3592	aromatic
+T99	Environment 3720 3725	soils
+T100	Substrate 3638 3673	population mineralised hydrocarbons
+T101	Substrate 3661 3673	hydrocarbons
+T102	Substrate 3784 3795	hydrocarbon
+T103	Substrate 3661 3673	hydrocarbons
+T104	Environment 3958 3962	soil
+T105	Environment 4078 4082	soil
+T106	Substrate 3894 3905	hydrocarbon
+T107	ReactionOrProcess 4058 4067	extracted

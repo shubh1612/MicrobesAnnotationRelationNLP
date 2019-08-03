@@ -1,0 +1,35 @@
+T1	ReactionOrProcess 256 267	enrichments
+T2	ReactionOrProcess 297 312	electrophoresis
+T3	ReactionOrProcess 416 431	electrophoresis
+T4	Microbes 1370 1386	Escherichia coli
+T5	ReactionOrProcess 1650 1659	extracted
+T6	Enzyme 1800 1804	NotI
+T7	ReactionOrProcess 1904 1919	electrophoresis
+T8	Substrate 2051 2061	hexadecane
+T9	Substrate 2183 2193	Hexadecane
+T10	Property 2290 2308	sole carbon source
+T11	Nutrient 2295 2301	carbon
+T12	Substrate 2653 2663	hexadecane
+T13	ReactionOrProcess 2430 2439	incubated
+R1	CarriedOn Arg1:T13 Arg2:T12
+T14	Microbes 2751 2758	E. coli
+T15	Microbes 2771 2782	Micrococcus
+T16	Substrate 3124 3134	hexadecane
+T17	ReactionOrProcess 2896 2906	incubation
+R2	CarriedOn Arg1:T17 Arg2:T16
+T18	ReactionOrProcess 3169 3178	incubated
+T19	Substrate 3392 3402	hexadecane
+T20	Substrate 3452 3462	hexadecane
+T21	Property 3466 3484	sole carbon source
+T22	ReactionOrProcess 3539 3554	chromatographic
+T23	ReactionOrProcess 3392 3417	hexadecane biodegradation
+T24	ReactionOrProcess 3403 3417	biodegradation
+T25	ReactionOrProcess 3510 3524	biodegradation
+T26	Nutrient 3471 3477	carbon
+T27	Environment 3911 3916	water
+T28	ReactionOrProcess 3646 3656	inoculated
+T29	ReactionOrProcess 3753 3763	incubation
+T30	ReactionOrProcess 3883 3889	washed
+T31	Environment 3956 3961	water
+T32	Substrate 4100 4110	hexadecane
+T33	ReactionOrProcess 4077 4087	inoculated

@@ -1,0 +1,107 @@
+T1	Microbes 18 37	enrichment cultures
+T2	Environment 87 106	uncontaminated site
+T3	Environment 68 77	sediments
+T4	Substrate 0 7	Benzene
+T5	ReactionOrProcess 18 28	enrichment
+T6	Microbes 143 161	enrichment culture
+T7	ReactionOrProcess 143 153	enrichment
+T8	Substrate 370 377	benzene
+T9	ReactionOrProcess 348 361	anaerobically
+T10	ReactionOrProcess 331 341	enrichment
+T11	ReactionOrProcess 348 369	anaerobically oxidize
+T12	ReactionOrProcess 362 369	oxidize
+T13	Microbes 438 457	enrichment cultures
+T14	Microbes 587 599	G. chapellei
+T15	Property 420 437	benzene-oxidizing
+T16	ReactionOrProcess 379 383	DGGE
+T17	ReactionOrProcess 438 448	enrichment
+T18	ReactionOrProcess 379 392	DGGE analysis
+R1	CarriedOn Arg1:T16 Arg2:T13
+R2	CarriedOn Arg1:T16 Arg2:T14
+R3	CarriedOn Arg1:T18 Arg2:T13
+R4	CarriedOn Arg1:T18 Arg2:T14
+T19	Microbes 856 869	G. fermentans
+T20	Microbes 714 734	Variovorax paradoxus
+T21	Substrate 764 771	toluene
+T22	Property 772 780	degrader
+T23	Microbes 948 967	enrichment cultures
+T24	Microbes 1123 1136	Geobacter spp
+T25	Environment 934 943	sediments
+T26	Substrate 1026 1033	benzene
+T27	Substrate 1016 1033	anaerobic benzene
+T28	ReactionOrProcess 1016 1048	anaerobic benzene mineralization
+T29	ReactionOrProcess 948 958	enrichment
+T30	ReactionOrProcess 984 988	PLFA
+T31	ReactionOrProcess 1034 1048	mineralization
+R5	CarriedOn Arg1:T28 Arg2:T24
+R6	CarriedOn Arg1:T29 Arg2:T24
+R7	CarriedOn Arg1:T30 Arg2:T24
+R8	CarriedOn Arg1:T31 Arg2:T24
+T32	Microbes 1220 1233	Geobacter spp
+T33	Substrate 1305 1323	aromatic compounds
+T34	Substrate 1297 1323	oxidize aromatic compounds
+T35	Substrate 1305 1323	aromatic compounds
+T36	Property 1305 1313	aromatic
+T37	ReactionOrProcess 1333 1342	reduction
+T38	ReactionOrProcess 1297 1304	oxidize
+T39	Microbes 1536 1549	Geobacter spp
+T40	Substrate 1600 1607	benzene
+T41	ReactionOrProcess 1589 1599	metabolize
+T42	Microbes 1690 1703	Geobacter spp
+T43	Substrate 1780 1787	benzene
+T44	ReactionOrProcess 1773 1799	active benzene degradation
+T45	ReactionOrProcess 1788 1799	degradation
+T46	Microbes 1929 1947	enrichment culture
+T47	Environment 2155 2163	aquifers
+T48	Substrate 1988 1995	benzene
+T49	ReactionOrProcess 1929 1939	enrichment
+T50	ReactionOrProcess 1996 2007	degradation
+R9	CarriedOn Arg1:T49 Arg2:T48
+T51	ReactionOrProcess 2202 2206	PLFA
+T52	Environment 2229 2236	aquifer
+T53	Substrate 2286 2293	benzene
+T54	ReactionOrProcess 2297 2310	anaerobically
+T55	ReactionOrProcess 2311 2319	degraded
+T56	Environment 2466 2475	sediments
+T57	Environment 2458 2465	aquifer
+T58	Substrate 2378 2385	benzene
+T59	Substrate 2501 2508	benzene
+T60	ReactionOrProcess 2386 2395	oxidation
+T61	ReactionOrProcess 2633 2650	electron shuttles
+T62	ReactionOrProcess 2415 2424	reduction
+T63	ReactionOrProcess 2509 2520	degradation
+T64	Nutrient 2602 2618	humic substances
+T65	Substrate 2674 2695	aromatic hydrocarbons
+T66	Substrate 2707 2714	toluene
+T67	Substrate 2674 2695	aromatic hydrocarbons
+T68	Substrate 2719 2730	naphthalene
+T69	Substrate 2683 2695	hydrocarbons
+T70	Substrate 2668 2694	Other aromatic hydrocarbon
+T71	Substrate 2668 2695	Other aromatic hydrocarbons
+T72	Substrate 2683 2695	hydrocarbons
+T73	Property 2674 2682	aromatic
+T74	ReactionOrProcess 2741 2749	degraded
+T75	Substrate 2895 2902	benzene
+T76	Substrate 2842 2854	hydrocarbons
+T77	Substrate 2842 2854	hydrocarbons
+T78	ReactionOrProcess 2821 2832	degradation
+T79	ReactionOrProcess 2903 2914	degradation
+R10	CarriedOn Arg1:T78 Arg2:T75
+R11	CarriedOn Arg1:T78 Arg2:T76
+R12	CarriedOn Arg1:T78 Arg2:T77
+R13	CarriedOn Arg1:T79 Arg2:T75
+R14	CarriedOn Arg1:T79 Arg2:T76
+R15	CarriedOn Arg1:T79 Arg2:T77
+T80	Substrate 3153 3160	benzene
+T81	Substrate 3228 3235	benzene
+T82	Substrate 3218 3235	anaerobic benzene
+T83	Property 2984 2992	reducers
+T84	ReactionOrProcess 3145 3152	degrade
+T85	ReactionOrProcess 3218 3247	anaerobic benzene degradation
+T86	ReactionOrProcess 3236 3247	degradation
+T87	Microbes 3335 3349	Geobacteraceae
+T88	ReactionOrProcess 3281 3284	PCR
+T89	Microbes 3584 3603	enrichment cultures
+T90	Microbes 3464 3478	Geobacteraceae
+T91	Environment 3524 3543	uncontaminated site
+T92	ReactionOrProcess 3584 3594	enrichment

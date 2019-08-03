@@ -1,0 +1,130 @@
+T1	Substrate 75 82	ethanol
+T2	Substrate 51 59	gasoline
+T3	Substrate 17 21	BTEX
+T4	Substrate 215 231	gasoline–ethanol
+T5	Substrate 189 197	gasoline
+T6	Substrate 144 151	benzene
+T7	Substrate 156 163	toluene
+T8	ReactionOrProcess 164 173	retention
+T9	Substrate 267 274	ethanol
+T10	Substrate 369 377	gasoline
+T11	Substrate 313 317	BTEX
+T12	ReactionOrProcess 356 365	retention
+T13	Environment 612 617	water
+T14	Substrate 392 399	ethanol
+T15	Substrate 434 442	gasoline
+T16	Substrate 558 562	BTEX
+T17	Property 618 628	saturation
+T18	ReactionOrProcess 563 572	retention
+T19	Environment 670 675	water
+T20	Substrate 641 648	ethanol
+T21	Property 656 666	solubility
+T22	Environment 753 759	porous
+T23	Substrate 800 807	ethanol
+T24	Property 747 752	inert
+T25	Environment 969 981	natural soil
+T26	Environment 905 910	water
+T27	Substrate 941 949	gasoline
+T28	ReactionOrProcess 1040 1049	degrading
+T29	Environment 1140 1145	water
+T30	Environment 1171 1177	porous
+T31	Substrate 1075 1082	ethanol
+T32	Property 1165 1170	inert
+T33	Property 1131 1139	residual
+T34	ReactionOrProcess 1197 1207	stimulates
+T35	Environment 1349 1353	soil
+T36	Property 1326 1338	contaminants
+T37	Nutrient 1489 1495	carbon
+T38	Property 1789 1798	resistant
+T39	Environment 1995 1999	soil
+T40	ReactionOrProcess 1934 1943	reduction
+T41	Environment 2044 2048	soil
+T42	Property 2049 2057	toxicity
+T43	ReactionOrProcess 2018 2032	biodegradation
+T44	Environment 2421 2447	ethanol-contaminated soils
+T45	Environment 2564 2568	soil
+T46	Property 2569 2577	toxicity
+T47	Environment 2649 2653	soil
+T48	Environment 2737 2755	contaminated soils
+T49	Substrate 2693 2700	ethanol
+T50	Substrate 2684 2688	BTEX
+T51	ReactionOrProcess 2674 2683	degrading
+T52	ReactionOrProcess 2705 2714	degrading
+T53	Substrate 2891 2898	ethanol
+T54	Substrate 2919 2923	BTEX
+T55	Substrate 2768 2792	ethanol-amended gasoline
+T56	ReactionOrProcess 2864 2887	preliminary degradation
+T57	Substrate 2925 2933	Gasoline	
+T58	ReactionOrProcess 3022 3029	degrade
+T59	ReactionOrProcess 3223 3234	degradation
+T60	Substrate 3345 3352	ethanol
+T61	Substrate 3243 3250	Ethanol	
+T62	ReactionOrProcess 3289 3297	degraded
+T63	Substrate 3551 3558	ethanol
+T64	Substrate 3570 3578	gasoline
+T65	Substrate 3817 3824	ethanol
+T66	Substrate 3764 3772	gasoline
+T67	Property 3729 3742	biodegradable
+T68	Property 3847 3856	resistant
+T69	Property 3801 3806	toxic
+T70	Environment 4042 4047	soils
+T71	Environment 3966 3984	contaminated soils
+T72	Environment 3911 3931	uncontaminated soils
+T73	Substrate 4022 4029	ethanol
+T74	ReactionOrProcess 3871 3880	Degrading	
+T75	Environment 4079 4084	soils
+T76	Substrate 4222 4229	ethanol
+T77	Substrate 4111 4119	gasoline
+T78	Substrate 4246 4250	BTEX
+T79	ReactionOrProcess 4194 4218	preferential degradation
+T80	ReactionOrProcess 4251 4262	degradation
+T81	Environment 4436 4456	uncontaminated soils
+T82	Substrate 4375 4399	ethanol-blended gasoline
+T83	Environment 4474 4487	sterile soils
+T84	Substrate 4520 4524	BTEX
+T85	Property 4634 4646	contaminants
+T86	ReactionOrProcess 4591 4600	degrading
+T87	Environment 4753 4757	soil
+T88	Substrate 4711 4718	ethanol
+T89	Substrate 4822 4829	ethanol
+T90	Substrate 4686 4694	gasoline
+T91	Substrate 4676 4680	BTEX
+T92	ReactionOrProcess 4740 4749	depletion
+T93	ReactionOrProcess 4794 4818	preferential degradation
+T94	ReactionOrProcess 4658 4672	biodegradation
+T95	Nutrient 4758 4776	electron acceptors
+T96	Environment 4942 4956	saturated soil
+T97	Environment 4870 4890	anaerobic conditions
+T98	Substrate 4831 4835	BTEX	
+T99	ReactionOrProcess 4858 4866	degraded
+R3	CarriedOn Arg1:T8 Arg2:T6
+R4	CarriedOn Arg1:T8 Arg2:T7
+R6	CarriedOn Arg1:T12 Arg2:T10
+R8	CarriedOn Arg1:T18 Arg2:T14
+R10	CarriedOn Arg1:T18 Arg2:T16
+R16	OccursIn Arg1:T34 Arg2:T29
+R17	OccursIn Arg1:T34 Arg2:T30
+R18	OccursIn Arg1:T40 Arg2:T39
+R20	CarriedOn Arg1:T51 Arg2:T49
+R21	CarriedOn Arg1:T51 Arg2:T50
+R22	CarriedOn Arg1:T52 Arg2:T49
+R23	CarriedOn Arg1:T52 Arg2:T50
+R27	OccursIn Arg1:T52 Arg2:T48
+R28	CarriedOn Arg1:T56 Arg2:T53
+R33	CarriedOn Arg1:T62 Arg2:T60
+R34	CarriedOn Arg1:T62 Arg2:T61
+R38	OccursIn Arg1:T74 Arg2:T72
+R39	CarriedOn Arg1:T79 Arg2:T76
+R41	CarriedOn Arg1:T79 Arg2:T78
+R42	CarriedOn Arg1:T80 Arg2:T76
+R44	CarriedOn Arg1:T80 Arg2:T78
+R50	CarriedOn Arg1:T92 Arg2:T89
+R52	CarriedOn Arg1:T92 Arg2:T91
+R54	CarriedOn Arg1:T93 Arg2:T89
+R57	CarriedOn Arg1:T94 Arg2:T88
+R59	CarriedOn Arg1:T94 Arg2:T90
+R60	CarriedOn Arg1:T94 Arg2:T91
+R61	OccursIn Arg1:T92 Arg2:T87
+R62	OccursIn Arg1:T93 Arg2:T87
+R64	CarriedOn Arg1:T99 Arg2:T98
+R66	OccursIn Arg1:T99 Arg2:T97

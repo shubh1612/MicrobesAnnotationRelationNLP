@@ -1,0 +1,118 @@
+T1 Substrate 102 109 toluene
+T2 Substrate 46 53 nitrate
+T3 Environment 179 190 groundwater
+T4 Environment 272 279 aquifer
+T5 Substrate 313 320 nitrate
+T6 ReactionOrProcess 381 402 anaerobic respiration
+T7 ReactionOrProcess 192 209 sulfate reduction
+T8 Nutrient 144 161 electron acceptor
+T9 Nutrient 327 344 electron acceptor
+T10 Environment 643 655 groundwaters
+T11 Environment 411 416 plume
+T12 Substrate 623 631 gasoline
+T13 Substrate 460 467 toluene
+T14 Substrate 496 503 methane
+T15 Property 599 608 dissolved
+T16 ReactionOrProcess 434 443 depletion
+T17 ReactionOrProcess 513 530 sulfate reduction
+T18 Environment 788 799 groundwater
+T19 Environment 834 858 underground storage tank
+T20 Substrate 817 825 gasoline
+T21 Substrate 747 754 benzene
+T22 Substrate 760 767 toluene
+T23 Property 725 739 concentrations
+T24 Environment 1059 1070 groundwater
+T25 Environment 1005 1010 plume
+T26 Property 966 979 concentration
+T27 Property 1027 1040 concentration
+T28 ReactionOrProcess 1105 1122 sulfate reduction
+T29 Environment 1250 1255 plume
+T30 Substrate 1259 1266 benzene
+T31 ReactionOrProcess 1267 1278 degradation
+T32 ReactionOrProcess 1289 1306 sulfate reduction
+T33 Environment 1411 1416 plume
+T34 Environment 1549 1556 aquifer
+T35 Substrate 1457 1464 benzene
+T36 Substrate 1441 1448 toluene
+T37 Property 1528 1537 saturated
+T38 ReactionOrProcess 1490 1504 mineralisation
+T39 ReactionOrProcess 1319 1330 Degradation
+T40 Environment 1699 1715 nitrate-reducing
+T41 Substrate 1638 1645 benzene
+T42 Substrate 1790 1802 hydrocarbons
+T43 ReactionOrProcess 1650 1658 degraded
+T44 Environment 1970 1981 groundwater
+T45 Environment 1859 1875 nitrate-reducing
+T46 Substrate 1828 1835 Toluene
+T47 Substrate 2008 2015 nitrate
+T48 ReactionOrProcess 1957 1966 depletion
+T49 ReactionOrProcess 1844 1852 degraded
+T50 ReactionOrProcess 1920 1943 concomitant degradation
+T51 Environment 2348 2353 plume
+T52 Environment 2257 2275 anoxic groundwater
+T53 Environment 2333 2338 water
+T54 Substrate 2490 2497 benzene
+T55 ReactionOrProcess 2475 2486 Degradation
+T56 Substrate 2694 2701 benzene
+T57 Environment 2832 2837 plume
+T58 Substrate 2847 2858 hydrocarbon
+T59 ReactionOrProcess 2794 2817 first order degradation
+T60 Microbes 3165 3178 Desulfovibrio
+T61 ReactionOrProcess 3087 3100 hybridization
+T62 Environment 3225 3230 water
+T63 Environment 3410 3415 plume
+T64 Substrate 3322 3330 gasoline
+T65 Property 3416 3429 concentration
+T66 ReactionOrProcess 3289 3312 first order degradation
+T67 Environment 3542 3547 plume
+T68 Environment 3589 3600 groundwater
+R1 CarriedOn Arg1:T6 Arg2:T5
+R2 CarriedOn Arg1:T7 Arg2:T5
+R3 OccursIn Arg1:T6 Arg2:T3
+R4 OccursIn Arg1:T6 Arg2:T4
+R5 OccursIn Arg1:T7 Arg2:T3
+R6 OccursIn Arg1:T7 Arg2:T4
+R7 CarriedOn Arg1:T16 Arg2:T12
+R8 CarriedOn Arg1:T16 Arg2:T13
+R9 CarriedOn Arg1:T16 Arg2:T14
+R10 CarriedOn Arg1:T17 Arg2:T12
+R11 CarriedOn Arg1:T17 Arg2:T13
+R12 CarriedOn Arg1:T17 Arg2:T14
+R13 OccursIn Arg1:T16 Arg2:T10
+R14 OccursIn Arg1:T16 Arg2:T11
+R15 OccursIn Arg1:T17 Arg2:T10
+R16 OccursIn Arg1:T17 Arg2:T11
+R18 OccursIn Arg1:T28 Arg2:T25
+R19 CarriedOn Arg1:T31 Arg2:T30
+R20 CarriedOn Arg1:T32 Arg2:T30
+R21 OccursIn Arg1:T31 Arg2:T29
+R22 OccursIn Arg1:T32 Arg2:T29
+R23 CarriedOn Arg1:T38 Arg2:T35
+R24 CarriedOn Arg1:T38 Arg2:T36
+R25 CarriedOn Arg1:T39 Arg2:T35
+R26 CarriedOn Arg1:T39 Arg2:T36
+R27 OccursIn Arg1:T38 Arg2:T33
+R28 OccursIn Arg1:T38 Arg2:T34
+R29 OccursIn Arg1:T39 Arg2:T33
+R30 OccursIn Arg1:T39 Arg2:T34
+R31 CarriedOn Arg1:T43 Arg2:T41
+R32 CarriedOn Arg1:T43 Arg2:T42
+R33 OccursIn Arg1:T43 Arg2:T40
+R34 CarriedOn Arg1:T48 Arg2:T46
+R35 CarriedOn Arg1:T48 Arg2:T47
+R36 CarriedOn Arg1:T49 Arg2:T46
+R37 CarriedOn Arg1:T49 Arg2:T47
+R38 CarriedOn Arg1:T50 Arg2:T46
+R39 CarriedOn Arg1:T50 Arg2:T47
+R40 OccursIn Arg1:T48 Arg2:T44
+R41 OccursIn Arg1:T48 Arg2:T45
+R42 OccursIn Arg1:T49 Arg2:T44
+R43 OccursIn Arg1:T49 Arg2:T45
+R44 OccursIn Arg1:T50 Arg2:T44
+R45 OccursIn Arg1:T50 Arg2:T45
+R46 CarriedOn Arg1:T55 Arg2:T54
+R47 CarriedOn Arg1:T59 Arg2:T58
+R48 OccursIn Arg1:T59 Arg2:T57
+R49 CarriedOn Arg1:T61 Arg2:T60
+R50 CarriedOn Arg1:T66 Arg2:T64
+R51 OccursIn Arg1:T66 Arg2:T63

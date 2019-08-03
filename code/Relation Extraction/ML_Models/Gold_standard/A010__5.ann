@@ -1,0 +1,68 @@
+T1	Environment 3 21	contaminated soils
+T2	Substrate 215 222	ethanol
+T3	Substrate 178 186	gasoline
+T4	Property 39 51	contaminants
+T5	ReactionOrProcess 102 114	biodegrading
+T6	Environment 233 256	BTEX-contaminated soils	
+T7	Environment 442 466	Ethanol-containing soils	
+T8	Environment 810 837	gasoline-contaminated soils
+T9	Substrate 645 652	ethanol
+T10	Substrate 697 701	BTEX
+T11	ReactionOrProcess 620 641	immediate degradation
+T12	ReactionOrProcess 682 693	degradation
+T13	Environment 1055 1059	soil
+T14	Environment 1146 1151	soils
+T15	Substrate 1170 1177	ethanol
+T16	Substrate 1092 1100	gasoline
+T17	Property 1074 1081	residue
+T18	Environment 1242 1246	soil
+T19	Property 1498 1506	residues
+T20	ReactionOrProcess 1422 1431	degrading
+T21	Environment 1552 1565	sterile soils
+T22	Environment 1779 1796	non-sterile soils
+T23	Environment 1733 1738	soils
+T24	Substrate 1702 1718	gasoline–ethanol
+T25	Substrate 1656 1660	BTEX
+T26	Property 1661 1669	residues
+T27	Property 1613 1624	autoclaving
+T28	Environment 1836 1840	soil
+T29	Property 1824 1832	residues
+T30	Property 1812 1823	Contaminant
+T31	Environment 1941 1945	soil
+T32	Property 1929 1937	residues
+T33	Property 1917 1928	Contaminant
+T34	Environment 2094 2107	sterile soils
+T35	Environment 2028 2032	soil
+T36	Environment 2137 2141	soil
+T37	Property 2016 2024	residues
+T38	Property 2082 2090	residues
+T39	Property 2004 2015	Contaminant
+T40	Environment 2412 2416	soil
+T41	Environment 2197 2202	water
+T42	Environment 2291 2296	water
+T43	Environment 2255 2273	contaminated soils
+T44	Substrate 2207 2215	gasoline
+T45	Property 2216 2230	volatilisation
+T46	Property 2313 2327	volatilisation
+T47	Property 2149 2163	Volatilisation	
+T48	Property 2301 2312	contaminant
+T49	Property 2394 2406	contaminants
+T50	Environment 2505 2510	soils
+T51	Substrate 2474 2490	gasoline–ethanol
+T52	Environment 2534 2555	sterile and dry soils
+T53	Substrate 2724 2731	ethanol
+T54	Substrate 2835 2842	ethanol
+T55	Substrate 2809 2817	gasoline
+T56	Property 2753 2767	volatilisation
+T57	Property 2741 2751	volatility
+T58	Property 2771 2783	contaminants
+T59	Environment 2864 2877	natural soils
+T60	Environment 2844 2849	Soil 	
+T61	Environment 2975 2988	natural soils
+T62	Environment 2955 2960	Soil 	
+T63	Substrate 2994 3031	standard and ethanol-blended gasoline
+R3	OccursIn Arg1:T5 Arg2:T1
+R4	CarriedOn Arg1:T11 Arg2:T9
+R5	CarriedOn Arg1:T11 Arg2:T10
+R6	CarriedOn Arg1:T12 Arg2:T9
+R7	CarriedOn Arg1:T12 Arg2:T10

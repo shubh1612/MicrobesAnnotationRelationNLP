@@ -1,0 +1,40 @@
+T1	Substrate 175 194	non-biodegraded oil
+T2	Substrate 191 194	oil
+T3	ReactionOrProcess 14 25	enrichments
+T4	Nutrient 216 222	carbon
+T5	Substrate 234 237	oil
+T6	ReactionOrProcess 375 386	inoculation
+T7	Substrate 757 766	petroleum
+T8	Nutrient 1145 1162	electron acceptor
+T9	Microbes 1310 1318	inoculum
+T10	Substrate 1275 1290	biodegraded oil
+T11	Substrate 1164 1174	Hexadecane
+T12	Substrate 1178 1197	non-biodegraded oil
+T13	Substrate 1194 1197	oil
+T14	Substrate 1287 1290	oil
+T15	ReactionOrProcess 1275 1286	biodegraded
+T16	Property 1439 1451	cell density
+T17	ReactionOrProcess 1377 1387	replicates
+T18	ReactionOrProcess 1342 1353	enrichments
+T19	ReactionOrProcess 1389 1398	incubated
+T20	ReactionOrProcess 1515 1524	reduction
+T21	ReactionOrProcess 1507 1524	sulfate reduction
+T22	ReactionOrProcess 1788 1799	enrichments
+T23	Substrate 2054 2064	hexadecane
+T24	Substrate 2146 2149	oil
+T25	ReactionOrProcess 2114 2125	inoculation
+R1	CarriedOn Arg1:T25 Arg2:T24
+T26	ReactionOrProcess 2245 2255	replicates
+T27	ReactionOrProcess 2210 2221	enrichments
+T28	ReactionOrProcess 2260 2269	incubated
+T29	Property 2349 2361	cell density
+T30	ReactionOrProcess 2418 2428	extraction
+T31	ReactionOrProcess 2497 2508	enrichments
+T32	ReactionOrProcess 2414 2428	DNA extraction
+T33	ReactionOrProcess 2727 2738	enrichments
+T34	ReactionOrProcess 2784 2787	PCR
+T35	Substrate 3041 3046	MgCl2
+T36	ReactionOrProcess 3152 3164	denaturation
+T37	ReactionOrProcess 3108 3111	PCR
+T38	ReactionOrProcess 3277 3286	extension
+T39	ReactionOrProcess 3391 3401	enrichment

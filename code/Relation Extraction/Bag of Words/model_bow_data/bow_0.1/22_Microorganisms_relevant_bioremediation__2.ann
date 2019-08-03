@@ -1,0 +1,148 @@
+T1	Microbes 214 230	α-Proteobacteria
+T2	Environment 40 48	seawater
+T3	Substrate 76 85	petroleum
+T4	ReactionOrProcess 137 152	rRNA approaches
+T5	Nutrient 90 111	inorganic fertilizers
+T6	Environment 390 396	marine
+T7	Environment 623 634	groundwater
+T8	Environment 578 598	anaerobic conditions
+T9	Substrate 497 506	petroleum
+T10	Substrate 534 543	petroleum
+T11	Substrate 487 506	Anaerobic petroleum
+T12	Substrate 544 556	hydrocarbons
+T13	Substrate 487 518	Anaerobic petroleum hydrocarbon
+T14	Substrate 507 518	hydrocarbon
+T15	Substrate 544 556	hydrocarbons
+T16	Substrate 534 556	petroleum hydrocarbons
+T17	ReactionOrProcess 507 530	hydrocarbon degradation
+T18	ReactionOrProcess 519 530	degradation
+T19	Environment 717 757	chlorinated-solvent contaminated aquifer
+T20	Environment 737 757	contaminated aquifer
+T21	Environment 750 757	aquifer
+T22	ReactionOrProcess 779 793	bioremediation
+T23	ReactionOrProcess 769 793	intrinsic bioremediation
+T24	ReactionOrProcess 810 817	cloning
+T25	Microbes 941 951	Syntrophus
+T26	Substrate 941 955	Syntrophus spp
+T27	Microbes 1044 1060	Methanosaeta spp
+T28	Microbes 1044 1056	Methanosaeta
+T29	Substrate 1076 1087	methanogens
+T30	Property 1107 1129	syntrophic association
+T31	ReactionOrProcess 1107 1129	syntrophic association
+T32	Environment 1264 1284	contaminated aquifer
+T33	Environment 1277 1284	aquifer
+T34	Microbes 1389 1396	archaea
+T35	Substrate 1470 1480	hexadecane
+T36	Property 1425 1437	methanogenic
+T37	Property 1425 1437	methanogenic
+T38	Property 1350 1372	syntrophic association
+T39	ReactionOrProcess 1461 1469	degrades
+T40	ReactionOrProcess 1461 1469	degrades
+T41	ReactionOrProcess 1350 1372	syntrophic association
+T42	ReactionOrProcess 1438 1448	enrichment
+R1	CarriedOn Arg1:T41 Arg2:T34
+R2	CarriedOn Arg1:T41 Arg2:T35
+T43	Microbes 1499 1540	toluene-degrading methanogenic consortium
+T44	Microbes 1530 1540	consortium
+T45	Property 1517 1529	methanogenic
+T46	Property 1517 1529	methanogenic
+T47	ReactionOrProcess 1562 1577	rRNA approaches
+T48	Microbes 1739 1755	Desulfotomaculum
+T49	Microbes 1588 1598	consortium
+T50	Microbes 1652 1664	Methanosaeta
+T51	Microbes 1669 1685	Methanospirillum
+T52	Microbes 1992 2000	Azoarcus
+T53	Substrate 1972 1981	n-alkanes
+T54	Substrate 1954 1967	alkylbenzenes
+T55	Property 1815 1827	Fluorescence
+T56	Property 1911 1923	denitrifying
+T57	ReactionOrProcess 1911 1923	denitrifying
+T58	ReactionOrProcess 1944 1953	degrading
+T59	ReactionOrProcess 1836 1849	hybridization
+R3	CarriedOn Arg1:T57 Arg2:T53
+R4	CarriedOn Arg1:T58 Arg2:T53
+R5	CarriedOn Arg1:T59 Arg2:T53
+T60	Microbes 2087 2103	ε-Proteobacteria
+T61	Environment 2149 2160	groundwater
+T62	Environment 2126 2160	petroleum-contaminated groundwater
+T63	Microbes 2480 2493	Geobacter spp
+T64	Environment 2371 2381	subsurface
+T65	Environment 2382 2389	aquifer
+T66	Substrate 2289 2296	benzene
+T67	Substrate 2279 2296	anaerobic benzene
+T68	ReactionOrProcess 2412 2416	DGGE
+T69	ReactionOrProcess 2279 2308	anaerobic benzene degradation
+T70	ReactionOrProcess 2297 2308	degradation
+T71	ReactionOrProcess 2412 2425	DGGE analysis
+R6	CarriedOn Arg1:T68 Arg2:T63
+R7	CarriedOn Arg1:T69 Arg2:T63
+R8	CarriedOn Arg1:T70 Arg2:T63
+R9	CarriedOn Arg1:T71 Arg2:T63
+T72	Substrate 2548 2555	benzene
+T73	ReactionOrProcess 2535 2544	oxidation
+T74	ReactionOrProcess 2525 2544	anaerobic oxidation
+R10	CarriedOn Arg1:T73 Arg2:T72
+R11	CarriedOn Arg1:T74 Arg2:T72
+T75	Environment 2814 2824	subsurface
+T76	Environment 2667 2689	anaerobic environments
+T77	Substrate 2777 2786	petroleum
+T78	Substrate 2787 2798	hydrocarbon
+T79	ReactionOrProcess 2787 2810	hydrocarbon degradation
+T80	ReactionOrProcess 2799 2810	degradation
+T81	Nutrient 2571 2589	electron acceptors
+T82	Substrate 2925 2946	anaerobic hydrocarbon
+T83	Substrate 2935 2946	hydrocarbon
+T84	ReactionOrProcess 2947 2961	bioremediation
+T85	Substrate 3156 3177	anaerobic hydrocarbon
+T86	Substrate 3166 3177	hydrocarbon
+T87	ReactionOrProcess 3156 3192	anaerobic hydrocarbon biodegradation
+T88	ReactionOrProcess 3166 3192	hydrocarbon biodegradation
+T89	ReactionOrProcess 3178 3192	biodegradation
+T90	Substrate 3224 3255	Polycyclic aromatic hydrocarbon
+T91	Substrate 3268 3300	Polycyclic aromatic hydrocarbons
+T92	Substrate 3279 3300	aromatic hydrocarbons
+T93	Substrate 3235 3255	aromatic hydrocarbon
+T94	Substrate 3279 3300	aromatic hydrocarbons
+T95	Substrate 3288 3300	hydrocarbons
+T96	Substrate 3244 3255	hydrocarbon
+T97	Substrate 3288 3300	hydrocarbons
+T98	Substrate 3268 3300	Polycyclic aromatic hydrocarbons
+T99	Substrate 3256 3300	degradation Polycyclic aromatic hydrocarbons
+T100	Property 3268 3278	Polycyclic
+T101	Property 3224 3234	Polycyclic
+T102	Property 3235 3243	aromatic
+T103	Property 3279 3287	aromatic
+T104	ReactionOrProcess 3244 3267	hydrocarbon degradation
+T105	ReactionOrProcess 3235 3267	aromatic hydrocarbon degradation
+T106	ReactionOrProcess 3256 3267	degradation
+T107	Microbes 3477 3487	consortium
+T108	Environment 3454 3466	soil-derived
+T109	ReactionOrProcess 3551 3555	DGGE
+T110	ReactionOrProcess 3507 3519	mineralizing
+T111	Microbes 3789 3802	Mycobacterium
+T112	Microbes 3772 3784	Sphingomonas
+T113	ReactionOrProcess 3818 3829	degradation
+T114	Environment 3869 3873	soil
+T115	Environment 3869 3886	soil environments
+T116	Substrate 3919 3923	PAHs
+T117	ReactionOrProcess 4007 4021	biodegradation
+T118	Environment 4113 4117	soil
+T119	ReactionOrProcess 4118 4129	enrichments
+T120	Environment 4245 4249	soil
+T121	Substrate 4275 4287	phenanthrene
+T122	Substrate 4292 4302	hexadecane
+T123	Property 4230 4241	surfactants
+T124	ReactionOrProcess 4267 4274	degrade
+T125	ReactionOrProcess 4250 4261	enrichments
+T126	ReactionOrProcess 4357 4368	degradation
+R12	CarriedOn Arg1:T124 Arg2:T122
+R13	CarriedOn Arg1:T125 Arg2:T122
+T127	Property 4538 4557	pollutant-degrading
+T128	Property 4499 4508	pollutant
+T129	ReactionOrProcess 4596 4610	bioremediation
+T130	ReactionOrProcess 4418 4432	bioremediation
+T131	ReactionOrProcess 4509 4520	degradation
+T132	Property 4659 4667	toxicity
+T133	Property 4659 4667	toxicity
+T134	ReactionOrProcess 4629 4643	bioremediation
+T135	ReactionOrProcess 4623 4643	Metal bioremediation

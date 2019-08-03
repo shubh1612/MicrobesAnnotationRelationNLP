@@ -1,0 +1,75 @@
+T1	Substrate 128 146	aromatic compounds
+T2	Substrate 6 15	Carbazole
+T3	Substrate 128 146	aromatic compounds
+T4	Property 128 136	aromatic
+T5	ReactionOrProcess 0 27	Novel Carbazole Degradation
+T6	ReactionOrProcess 16 27	Degradation
+T7	ReactionOrProcess 113 124	degradation
+R1	CarriedOn Arg1:T5 Arg2:T1
+R2	CarriedOn Arg1:T5 Arg2:T3
+R3	CarriedOn Arg1:T6 Arg2:T1
+R4	CarriedOn Arg1:T6 Arg2:T3
+R5	CarriedOn Arg1:T7 Arg2:T1
+R6	CarriedOn Arg1:T7 Arg2:T3
+T8	Microbes 240 252	Sphingomonas
+T9	Substrate 331 340	carbazole
+T10	ReactionOrProcess 304 314	catabolism
+R7	CarriedOn Arg1:T10 Arg2:T9
+T11	Substrate 575 590	catabolic genes
+T12	Substrate 566 590	biphenyl catabolic genes
+T13	Substrate 624 633	carbazole
+T14	Substrate 575 590	catabolic genes
+T15	ReactionOrProcess 634 645	degradation
+T16	Substrate 710 713	bph
+T17	Microbes 865 877	Sphingomonas
+T18	Substrate 755 764	carbazole
+T19	Property 782 800	sole carbon source
+T20	Nutrient 787 793	carbon
+T21	Environment 1044 1048	soil
+T22	Environment 1031 1048	contaminated soil
+T23	Substrate 993 1024	polycyclic aromatic hydrocarbon
+T24	Substrate 1004 1024	aromatic hydrocarbon
+T25	Substrate 1013 1024	hydrocarbon
+T26	Property 993 1003	polycyclic
+T27	Property 1004 1012	aromatic
+T28	Substrate 1301 1310	carbazole
+T29	ReactionOrProcess 1311 1322	degradation
+T30	Substrate 1385 1394	carbazole
+T31	ReactionOrProcess 1370 1381	degradation
+R8	CarriedOn Arg1:T31 Arg2:T30
+T32	Substrate 1584 1593	carbazole
+T33	Substrate 1827 1836	carbazole
+T34	ReactionOrProcess 1782 1800	catabolic pathways
+T35	Microbes 1940 1952	Sphingomonas
+T36	Substrate 2012 2021	carbazole
+T37	Property 1900 1919	divergent catabolic
+T38	Nutrient 2030 2036	carbon
+T39	Nutrient 2041 2049	nitrogen
+T40	Substrate 2123 2141	aromatic compounds
+T41	Substrate 2123 2141	aromatic compounds
+T42	Property 2123 2131	aromatic
+T43	ReactionOrProcess 2109 2119	catabolism
+T44	ReactionOrProcess 2323 2333	catabolism
+R9	CarriedOn Arg1:T43 Arg2:T40
+R10	CarriedOn Arg1:T43 Arg2:T41
+R11	CarriedOn Arg1:T44 Arg2:T40
+R12	CarriedOn Arg1:T44 Arg2:T41
+T45	Microbes 2649 2663	Pseudomonas sp
+T46	Substrate 2636 2645	carbazole
+T47	ReactionOrProcess 2564 2581	Catabolic pathway
+T48	ReactionOrProcess 2564 2582	Catabolic pathways
+T49	ReactionOrProcess 2621 2632	degradation
+T50	ReactionOrProcess 2611 2632	microbial degradation
+R13	CarriedOn Arg1:T48 Arg2:T45
+R14	CarriedOn Arg1:T49 Arg2:T45
+R15	CarriedOn Arg1:T50 Arg2:T45
+R16	CarriedOn Arg1:T48 Arg2:T46
+R17	CarriedOn Arg1:T49 Arg2:T46
+R18	CarriedOn Arg1:T50 Arg2:T46
+T51	Substrate 2730 2739	carbazole
+T52	ReactionOrProcess 2740 2751	degradation
+T53	Microbes 2934 2946	Sphingomonas
+T54	Substrate 2998 3007	carbazole
+T55	Microbes 3166 3178	Sphingomonas
+T56	Microbes 3326 3338	Sphingomonas
+T57	Microbes 3257 3273	Escherichia coli

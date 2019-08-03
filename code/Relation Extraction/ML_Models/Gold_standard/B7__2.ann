@@ -1,0 +1,77 @@
+T1	Environment 254 261	aquifer
+T2	Substrate 221 228	benzene
+T3	ReactionOrProcess 229 238	oxidation
+T4	ReactionOrProcess 131 145	lipid analysis
+T5	ReactionOrProcess 151 168	culturing studies
+T6	ReactionOrProcess 72 86	biodegradation
+T7	Property 393 410	benzene-oxidizing
+T8	Environment 520 531	Groundwater
+T9	Environment 456 464	
+T10	Property 532 538	Toxics
+T11	Environment 595 603	forested
+T12	Substrate 667 676	crude oil
+T13	Environment 714 719	plume
+T14	Environment 779 795	crude oil source
+T15	Substrate 731 735	BTEX
+T16	Property 702 713	contaminant
+T17	Environment 940 951	groundwater
+T18	Environment 881 905	coarse-grained sediments
+T19	Environment 829 836	aquifer
+T20	Property 872 877	sandy
+T21	Property 952 963	contaminant
+T22	Property 1035 1046	contaminant
+T23	Environment 1268 1287	uncontaminated site
+T24	Property 1235 1246	contaminant
+T25	Environment 1321 1330	sediments
+T26	Property 1446 1457	contaminant
+T27	ReactionOrProcess 1348 1357	reduction
+T28	Environment 1637 1646	sediments
+T29	Environment 1601 1610	
+T30	Environment 1832 1837	plume
+T31	Environment 1744 1768	uncontaminated sediments
+T32	Environment 1666 1688	
+T33	Property 1820 1831	contaminant
+T34	Environment 1853 1862	sediments
+T35	Environment 1935 1949	drilling cores
+T36	Environment 2033 2041	
+T37	Environment 2128 2147	N2-filled glove bag
+T38	ReactionOrProcess 2055 2066	homogenized
+T39	Microbes 2153 2172	enrichment cultures
+T40	Environment 2186 2194	sediment
+T41	Environment 2330 2338	sediment
+T42	Substrate 2266 2289	phospholipid fatty acid
+T43	Environment 2522 2531	
+T44	Substrate 2569 2576	benzene
+T45	Substrate 2630 2637	benzene
+T46	ReactionOrProcess 2607 2626	
+T47	Microbes 2698 2717	
+T48	Microbes 2719 2738	
+T49	Property 2742 2759	benzene-oxidizing
+T50	Property 2768 2776	reducers
+T51	Environment 2856 2864	sediment
+T52	Substrate 2965 2972	benzene
+T53	Property 2898 2905	reducer
+T54	Property 3042 3053	crystalline
+T55	Nutrient 3082 3099	electron acceptor
+T56	Environment 3287 3295	sediment
+T57	ReactionOrProcess 3349 3358	incubated
+T58	ReactionOrProcess 3389 3400	enumeration
+T59	Substrate 3417 3424	benzene
+T60	Substrate 3454 3461	benzene
+T61	ReactionOrProcess 3490 3500	inoculated
+T62	ReactionOrProcess 3402 3413	
+T63	Substrate 3542 3549	
+T64	Property 3550 3564	concentrations
+T65	Substrate 3604 3611	
+T66	ReactionOrProcess 3612 3626	mineralization
+R1	CarriedOn Arg1:T3 Arg2:T2
+R5	OccursIn Arg1:T3 Arg2:T1
+R9	OccursIn Arg1:T27 Arg2:T25
+R10	OccursIn Arg1:T38 Arg2:T36
+R11	OccursIn Arg1:T38 Arg2:T37
+R12	FoundIn Arg1:T39 Arg2:T40
+R13	CarriedOn Arg1:T46 Arg2:T45
+R14	Of Arg1:T48 Arg2:T49
+R15	Of Arg1:T48 Arg2:T50
+R18	CarriedOn Arg1:T62 Arg2:T59
+R20	CarriedOn Arg1:T66 Arg2:T65

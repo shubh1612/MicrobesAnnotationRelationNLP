@@ -1,0 +1,88 @@
+T1	Environment 50 54	soil
+T2	Environment 110 115	soils
+T3	Environment 100 115	different soils
+T4	Environment 268 278	loamy sand
+T5	Environment 219 224	soils
+T6	Environment 274 278	sand
+T7	ReactionOrProcess 456 470	bioremediation
+T8	ReactionOrProcess 650 655	redox
+T9	Nutrient 619 625	carbon
+T10	ReactionOrProcess 721 731	inoculated
+T11	ReactionOrProcess 762 771	incubated
+T12	ReactionOrProcess 1006 1016	inoculated
+T13	Substrate 1315 1325	diesel oil
+T14	Substrate 1322 1325	oil
+T15	Substrate 1315 1321	diesel
+T16	Property 1137 1155	Sole carbon source
+T17	ReactionOrProcess 1354 1364	enrichment
+T18	ReactionOrProcess 1156 1167	utilization
+T19	Nutrient 1142 1148	carbon
+T20	Nutrient 1299 1305	carbon
+R1	CarriedOn Arg1:T18 Arg2:T13
+R2	CarriedOn Arg1:T18 Arg2:T14
+R3	CarriedOn Arg1:T18 Arg2:T15
+T21	Substrate 1506 1517	hydrocarbon
+T22	Property 1626 1644	sole carbon source
+T23	ReactionOrProcess 1506 1529	hydrocarbon degradation
+T24	ReactionOrProcess 1518 1529	degradation
+T25	ReactionOrProcess 1645 1656	utilization
+T26	Nutrient 1479 1485	carbon
+T27	Nutrient 1631 1637	carbon
+T28	Nutrient 1731 1737	carbon
+T29	Environment 1978 1982	soil
+T30	Substrate 1862 1885	phospholipid fatty acid
+T31	ReactionOrProcess 1950 1959	extracted
+T32	Environment 2295 2300	soils
+T33	Environment 2285 2300	different soils
+T34	Substrate 2396 2407	hydrocarbon
+T35	Substrate 2383 2407	fast-growing hydrocarbon
+T36	Substrate 2219 2225	diesel
+T37	Property 2408 2417	degraders
+T38	Substrate 2547 2550	oil
+T39	Property 2451 2469	sole carbon source
+T40	ReactionOrProcess 2470 2481	utilization
+T41	Nutrient 2456 2462	carbon
+T42	Nutrient 2608 2614	carbon
+T43	Environment 2710 2714	soil
+T44	Environment 2756 2760	soil
+T45	ReactionOrProcess 2823 2832	incubated
+T46	Environment 2865 2875	microcosms
+T47	Environment 2964 2974	microcosms
+T48	Environment 2995 3004	Microcosm
+T49	Environment 2995 3005	Microcosms
+T50	Environment 3182 3186	soil
+T51	Environment 3229 3233	soil
+T52	Environment 3272 3276	soil
+T53	Environment 3317 3322	water
+T54	Substrate 3364 3373	petroleum
+T55	Substrate 3374 3386	hydrocarbons
+T56	Substrate 3353 3356	TPH
+T57	Substrate 3374 3386	hydrocarbons
+T58	Substrate 3364 3386	petroleum hydrocarbons
+T59	ReactionOrProcess 3279 3283	PLFA
+R4	CarriedOn Arg1:T59 Arg2:T54
+R5	CarriedOn Arg1:T59 Arg2:T55
+R6	CarriedOn Arg1:T59 Arg2:T56
+R7	CarriedOn Arg1:T59 Arg2:T57
+R8	CarriedOn Arg1:T59 Arg2:T58
+T60	Environment 3406 3410	soil
+T61	Substrate 3448 3454	diesel
+T62	Substrate 3395 3401	Diesel
+T63	Substrate 3431 3454	commercial-grade diesel
+T64	Environment 3526 3538	soil samples
+T65	Environment 3526 3530	soil
+T66	Substrate 3596 3605	petroleum
+T67	Environment 3672 3676	soil
+T68	Environment 3742 3758	Field-moist soil
+T69	Environment 3754 3758	soil
+T70	ReactionOrProcess 3763 3769	sieved
+T71	Environment 3863 3867	soil
+T72	Environment 3853 3857	Soil
+T73	Environment 3853 3858	Soils
+T74	Environment 3951 3961	Moist soil
+T75	Environment 3957 3961	soil
+T76	Environment 3987 3992	water
+T77	Substrate 4060 4066	diesel
+T78	Property 3987 4009	water holding capacity
+T79	Environment 4072 4076	soil
+T80	Substrate 4133 4136	oil

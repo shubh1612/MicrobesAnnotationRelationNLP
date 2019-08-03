@@ -1,0 +1,15 @@
+T1	ReactionOrProcess 154 169	decontamination
+T2	Microbes 593 610	Oceanospirillales
+T3	Microbes 716 733	Oceanospirillales
+T4	Microbes 922 939	Oceanospirillales
+T5	ReactionOrProcess 1207 1215	purified
+T6	ReactionOrProcess 1455 1463	purified
+T7	ReactionOrProcess 1635 1638	PCR
+T8	Microbes 1902 1919	Oceanospirillales
+T9	Microbes 2446 2460	Proteobacteria
+T10	Microbes 2465 2484	Gammaproteobacteria
+T11	Microbes 2625 2642	Oceanospirillales
+T12	Microbes 3075 3092	Oceanospirillales
+T13	ReactionOrProcess 3608 3618	processing
+T14	Environment 3890 3895	plume
+T15	Environment 3863 3871	seawater

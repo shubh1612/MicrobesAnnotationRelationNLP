@@ -1,0 +1,818 @@
+A Comparison of Microbial Community Characteristics Among Petroleum-Contaminated and Uncontaminated Subsurface Soil Samples 
+Microb Ecol (1995) 30:297-307
+
+MICROBIAL
+ECOLOGY
+© 1995Springer-VerlagNewYorkInc.
+
+A Comparison of Microbial Community Characteristics
+A m o n g Petroleum-Contaminated and Uncontaminated
+Subsurface Soil Samples
+S.C. Long, ~ C.M. Aelion, 2 D.C. Dobbins, 3 EK. Pfaender 4
+Department of Civil and Environmental Engineering, 18 Marston Hall, Box 35025, University of
+Massachusetts, Amherst, Massachusetts, 01003, USA
+2 Department of Environmental Health Sciences and Marine Science Program, University of South
+Carolina, Columbia, South Carolina 29208, USA
+3 Biotrol, Inc., 10300 Valley View Road, Eden Prairie, Minnesota 55344, USA
+4 Department of Environmental Science and Engineering, University of North Carolina, Chapel
+Hill, North Carolina, USA
+Received: 23 September 1994; Revised: 12 January 1995
+
+Abstract.
+
+Measurements of microbial community size, including total cell
+counts and specific degrader enumerations, were conducted on subsurface soil
+samples from both petroleum-contaminated and pristine aquifers. Samples were
+collected from both uncontaminated and contaminated areas of the petroleumcontaminated sites. In pristine and uncontaminated samples, total cell counts
+(acridine orange direct counts) were related to depth. The deeper samples
+contained smaller total microbial populations. However, indices of microbial
+activity varied considerably from sample to sample and probably reflect soil
+and site heterogeneity. Exposure to petroleum contamination apparently altered
+the microbial community structure. In samples exposed to low levels of contaminants as vapors and/or dissolved phases (ppb concentrations), and not free
+product, the toluene-specific degrader populations were larger at greater depths,
+and the numbers of amino acid-specific degraders were highly correlated to
+the numbers of decane-specific degraders, indicating that petroleum-adapted
+microbial communities were present in the contaminated samples. In highly
+contaminated samples, total microbial population densities decreased with
+increasing depth; however, microbial activity tended to increase with depth.
+These results indicate that petroleum contaminants exert toxic effects on the
+active microbial community at high exposures and enrich specific degraders
+at ppb levels of dissolved contaminants.
+
+Correspondence to: S.C. Long
+
+298
+
+S.C. Long et al.
+
+Introduction
+
+In recent years, groundwater contamination has become an issue of major concern.
+Investigations conducted during the past decade have shown that groundwater
+supplies are susceptible to both biological and chemical pollution. On a total mass
+basis, petroleum hydrocarbons constitute a major portion of environmental pollution
+[3], with several hundred thousand known petroleum contaminated sites in the
+United States alone [19,35].
+The results of early investigations by soil microbiologists demonstrated that the
+number of bacteria detectable below the rhizosphere, with plating methods available
+at the time, rapidly decreased with depth [39]. Not until the development of
+new sampling and enumeration techniques was it recognized that the subsurface
+contained sizable, active microbial communities [16, 24, 44]. Since then, research
+into the metabolic capabilities of aquifer microbial communities has been prolific.
+Aquifer microbial communities can degrade a broad range of naturally occurring
+and xenobiotic compounds under a broad range of environmental conditions [20,
+22, 24, 31, 32, 42, 44, 45]: Two reviews of the research on subsurface microbial
+ecology were presented by Ghiorse and Wilson [18] and by Dobbins et al. [11].
+The results of these studies and many others led to the understanding that indigenous, aquifer, microbial populations could biodegrade environmental pollution and
+affect remediation of contaminated sites.
+Although it has been demonstrated that microbial communities can affect chemical pollutants, the presence of chemical pollutants can also affect microbial community structure. The chemicals can alter the community structure through selection
+of pollutant degraders or through acute toxicity to microorganisms. Readily biodegradable pollutants can increase population densities by promoting growth through
+providing carbon and energy to microorganisms in otherwise oligotrophic environments. Changes in microbial populations in response to catastrophic oil spills and
+other exposures to petroleum products in marine and freshwater environments have
+been well documented [8, 9, 27, 38]. The work by Aelion et al. [2] demonstrated
+that subsurface microbial communities from a pristine aquii:er exhibited significant
+adaptation on exposure to chemical pollutants in microcosm studies. These changes
+included increases in numbers of microbes, changes in enzyme kinetics, and other
+physiological changes. Exposure to pollutants has been documented to affect soil
+population densities even at levels as low as 1 txg/liter in soil pore water [26]. In
+the field, sampling at a contaminated site is usually conducted after the spill or
+leak has been detected and can occur several weeks to several decades after the
+initial chemical release. Thus, comparisons of microbial community characteristics
+in response to pollutant exposure are difficult to assess. In this report, we investigate
+the differences in community size and activity among microbial communities from
+contaminated and uncontaminated subsurface soils from different aquifer systems
+using common enumeration techniques.
+Materials and Methods
+The aquifer soil samples were collected from the saturated zone from each of the study sites using
+aseptic sampling methods similar to those described by Dunlap et al. [l 3] and later modified by Wilson
+et al. [44]. Samples from one pristine and three petroleum-contaminated aquifers were collected. All
+
+A Comparison of Microbial Community Characteristics
+
+299
+
+samples were collected in autoclaved mason jars, wrapped in aluminum foil, and placed on ice as
+soon as possible. The samples were shipped on ice to the laboratory for analysis, where they were
+flushed with nitrogen gas to preserve environmental redox potential, and stored at 5°C in the dark
+until analyses could be conducted. Enumeration experiments were conducted as rapidly after sample
+collection as possible. For enumeration subsampling, the surface layers of the sediment cores were
+scraped away and discarded, so that the enumeration sample could be taken from the center of the core.
+Samples designated pristine were collected from an aquifer free of human contaminant impacts
+(personal communication, J.T. Wilson, 1987). Samples collected at the petroleum-contaminated sites
+represent different levels of contaminant exposure. Uncontaminated samples were collected either
+upgradient of the contaminant plume or downgradient from the advancing front of the contaminant
+plume. Because of the complex nature of subsurface systems, historical exposure to environmental
+pollutants could have been possible in the uncontaminated areas of the sites even though nondetectable
+levels of petroleum contaminants were reported at the time of sampling [10, 21, 25, 28]. Thus, the
+uncontaminated samples were considered as a separate category from the pristine samples. Samples
+judged to have low levels of contaminant exposure included those exposed to migrating contaminant
+vapors downgradient of the pollutant plume and those exposed to contaminants dissolved in the
+groundwater at parts per billion levels (micrograms per liter) [10, 21, 25, 28]. Samples judged to have
+high levels of contaminant exposure were exposed to free product or nonaqueous phase liquid (NAPL)
+and contaminants dissolved in the groundwater in parts per million (milligrams per liter) [10, 21, 25,
+28]. Of course, the level of exposure varied within the two exposure groups; however, these divisions
+were meant to be more qualitative than quantitative.
+Acridine Orange direct counts (AODC) were performed on all soil samples. The procedure used
+was the modified Ghiorse and Balkwill [16] procedure used by Dobbins and Pfaender [12] and
+Swindoll et al. [33]. This method yields a count of the total intact cells without differentiation for
+viability. A soil slurry was prepared from each soil sample using particle-free water (autoclaved and
+filtered three times through 0.2-lxm Nucleopore filters) to give approximately 1 g soil per 10 ml water.
+Duplicate dry weight determinations were made. The duplicate samples were serially diluted (1:10)
+with particle-free water and fixed with particle-free formalin (Fisher Scientific, Fairlawn, N.J.; final
+concentration of 2%) into particle-free test tubes (autoclaved, rinsed three times with particle-free
+water). AODC slides were prepared from each duplicate sample. The samples were stained with a
+final concentration of 0.01% Acridine Orange (Fisher Scientific). The microbes on the slides were
+counted using a Leitz Ortholux microscope equipped with a 50-watt AC mercury light source, under
+1250× oil immersion. The microbes on each slide were counted until 20 fields or 100 cells, which
+ever came first, had been counted. A particle-free water control was also counted. Final cell counts
+were calculated on a soil dry weight basis.
+Carbon 14 most probable number (MPN) enumerations are used to estimate the density of specific
+degraders by scoring for ~4CO2 evolution from radiolabeled substrates using a dilution series. MPN
+determinations rely on probability theory and are based on two principal assumptions. One is that the
+organisms are distributed randomly throughout the sample in a manner that can be described by a
+Poisson distribution. As a best approximation, relative homogeneity was accomplished by the continuous blending of the soil slurry while sampling. The second assumption is that each sample that contains
+one or more of the appropriate organisms will exhibit a response (in this case, evolve CO,_).
+The ~4C-MPN experiments were performed using the modifications by Dobbins et al. [10] of the
+method of Somerville et al. [29]. Substrates tested were L-[~4C(U)] mixed amino acids (New England
+Nuclear Corp., Boston, Mass.), n-[1-~4C] decane (Amersham Corp., Arlington Heights, Ill.), or [ringU-~4C] toluene (Pathfinder Laboratories, Inc., St. Louis, Mo.). A soil slurry of approximately 1 g soil
+per 10 ml was serially diluted by approximately I0-fold at each step. The dilution factors were
+estimated by taking triplicate dry weights of 1-ml aliquots of the most concentrated dilution. Two
+sets of controls were prepared. One set contained only sterile dilution medium (distilled H20 or buffer);
+the second set of controls consisted of vials at each dilution level with the addition of sodium azide
+(Sigma Chemical Co., St. Louis, Mo.) to a final concentration of 0.5% (w/v). Sets of five replicates
+were used. The MPN vials were then incubated inverted at 20°C for an appropriate amount of time:
+48 h for amino acids, 7 days for decane, and 14 days for toluene. The concentration of all substrates
+added was approximately 50 ng per vial.
+The dilutions were scored positive or negative for respiration by comparison to control values. A
+
+S.C. Long et al.
+
+300
+
+Table 1.
+
+Sample designations and pollutant exposure °
+
+Pristine samples
+
+Uncontaminated
+
+Low-level exposure
+
+High-level exposure
+
+Sample
+ID
+
+Sample
+depth (ft)
+
+Sample
+ID
+
+Sample
+depth (ft)
+
+Sample
+ID
+
+Sample
+depth (ft)
+
+Sample
+ID
+
+Sample
+depth (ft)
+
+LL-2
+LL-4
+LL-10
+
+19
+16.5
+16.5
+
+CL-1B
+CL-1D
+CL-14
+SC-7
+
+33
+42.5
+33
+8
+
+SC-5A1
+SC-5A2
+SC-6A
+SC-6B
+SC-11
+SC-23
+SC-26
+
+4.5
+20
+12.5
+12.5
+11.5
+30
+17
+
+CL-12B
+CL-12D
+PR-1
+SC-24
+
+33
+42.5
+7
+21
+
+~LL samples are from a pristine aquifer in Lula, Oklahoma.
+CL samples are from a gasoline-contaminated aquifer in Jacksonville, North Carolina.
+PR sample is from a jet-fuel-contaminated aquifer in Patuxent River, Maryland.
+SC samples are from a jet-fuel-contaminated aquifer in Hanahan, South Carolina.
+
+response of the mean plus three times the standard deviation of the control disintegrations per minute
+(dpm) values were considered positive. The MPN values were calculated using a microcomputer
+program similar to the one presented by Clarke and Owen [7]. The results of ~4C-MPN determinations
+are reported as MPN per gram dry weight of soil.
+MPN determinations rely on random distribution of the degraders throughout the sample. Soil
+microbes tend to aggregate in microcolonies, and thus homogeneous dilutions series are difficult to
+achieve. A number of the JgC-MPN analyses for decane and toluene degraders resulted in a series
+that caused divergence of the computer program, and thus, an MPN could not be calculated using the
+computer program. For these experiments, replicates scoring positive for decane or toluene mineralization were noted in at least one dilution level for all divergent analyses. MPNs of specific degraders
+were estimated for these divergent sample results using Table 9221:IV from Standard Methods for
+the Examination of Water and Wastewater [30]. When the combination of positives did not appear in
+Table 9221 :IV, the Thomas equation was used to estimate the MPN of specific degraders as described
+in Standard Methods for the Examination of Water and Wastewater [30].
+Correlation analyses were conducted to help identify the relationships between two or more variables
+of microbial characterization, sample characteristics, and pollutant exposure. Mathematically, correlation analysis is almost identical to linear regression. Correlation analysis is used to test the interdependence of two variables with no distinction between dependent and independent variables. The least
+squares method was used to determine the best-fitting straight line model when two variables were
+considered. All replicate values were used in correlation analyses rather than mean values. Coefficients
+of determination (r 2) were interpreted to indicate the strength of the linear relationship between the
+two variables considered. The closer the r 2 value is to 1, the stronger the linear relationship. Slope
+or intercept values for the correlations were not calculated. However, r 2 values are a measure of the
+proportion of variance that is accounted for by the linear model. Although correlation analyses can
+be used to test whether there is a relationship between variables, they cannot be used to determine
+whether the relationship is causal or simply associative.
+
+Results
+All sediment samples examined were of fine sands and gravel textures. A summary
+o f t h e s a m p l e d e s i g n a t i o n s a n d p o l l u t a n t e x p o s u r e c h a r a c t e r i s t i c s is p r e s e n t e d i n
+T a b l e 1, a n d a s u m m a r y o f g r o u n d w a t e r g e o c h e m i c a l c h a r a c t e r i s t i c s is p r e s e n t e d
+
+A Comparison of Microbial Community Characteristics
+
+301
+
+Table 2. Groundwatergeochemical analysis from monitoring wells near soil sample locations
+
+Aquifer~
+Pristine samples
+LL
+Uncontaminated
+CL
+SC
+Contaminated
+CL
+SC
+PR
+
+Depth to
+groundwater
+(feet)
+
+DO
+(ppm)
+
+PO~-P
+(mg/1)
+
+8.5
+
+2.6
+
+0.12
+
+NA
+4-8
+
+NA
+1.24
+
+NA
+0.52
+
+NA
+4-8
+
+NA
+<0.2
+NA
+
+4
+
+NA
+0.07-0.28
+0.1-0.5
+
+NO2/NO3-N
+(mg/1)
+
+NH4-N
+(mg/l)
+
+SO4
+(mg/1)
+
+0.8
+
+<0.05
+
+197
+
+NA
+0.04
+
+NA
+<0.01
+
+NA
+13.8
+
+NA
+0.26-0.61
+1-2
+
+NA
+NA
+0.25-3.05 0.02-15.4
+0.1
+<150
+
+NA, data not available.
+~See Table 1 for definition of sample identifications.
+
+in Table 2. The aquifers examined were generally low in nutrient content, with
+microaerophilic or anoxic redox conditions developing in areas of high petroleum
+contamination. The results of aerobically incubated total heterotrophic plate counts
+(data not presented) on soil samples indicated that organisms capable of aerobic
+growth were present in all samples tested, even samples from anoxic zones.
+The enumeration data used for analyses were compiled from separate studies of
+different aquifers, pristine and petroleum contaminated. The data were chosen for
+inclusion in this paper because common methodologies were used, as described
+earlier. Therefore, certain enumeration values were not available for some samples.
+In all cases, original replicate enumeration values were used for statistical analyses.
+The enumeration values are summarized in Table 3. For all samples tested, total
+AODCs ranged from 1.1 × 105 to 5.9 × 108 cells per gram soil dry weight. These
+results indicated that a sizable microbial community was present in each sample
+tested. The AODCs determined for the pristine and uncontaminated samples in
+this study were approximately on the same order of magnitude as those reported
+in studies of other uncontaminated aquifer samples, with approximately the same
+amount of intersample variation [5, 16, 36, 44]. The variation in the AODC
+populations enumerated from the contaminated samples exhibited a larger amount
+of intersample variation, which is also observed in other studies of contaminated
+aquifer samples [6, 18, 34, 43].
+Mixed amino acids were chosen as a representative of naturally occurring, easily
+metabolized compounds. Since amino acids are essential components of microbial
+cells, the size of the amino acid degrader community in a soil sample should reflect
+the relative size of the metabolically active microbial community [ 10]. The numbers
+of amino acid-specific degraders varied from 8.6 × 101 to 2.5 × 105 degraders per
+gram soil dry weight (Table 3). These results indicated that a metabolically active
+microbial community was present in each of the soils tested. The smallest metabolically active community was measured in an uncontaminated sample from the CL
+gasoline-contaminated site (see Table 1 for definition of sample designation).
+Decane was chosen as a test pollutant to represent the midweight, aliphatic
+compounds commonly present in petroleum products, and toluene was chosen as
+
+302
+
+S.C. Long et al.
+
+xx
+
+<
+
+Z
+
+<<<
+zzz
+
+X
+
+~<x×x×××
+P--'~-oOOOl~,.O
+
+•~-..;r.,i,,d,,4c,,i
+
+r,¢3
+
+×~×
+~
+
+od
+
+:Z
+',,,O
+
+©
+
+Z
+
+xx <
+
+ZZZ<<<X
+
+X XX X X X X
+
+X X~X
+
+-4cd
+V
+
+.,.o
+
+r~
+
+<<<
+ZZZ
+
+<
+
+zX~X
+
+XXXX~XX
+
+~XXX
+o
+Q
+
+Z
+
+<<<
+ZZZ
+
+z X X X
+
+X X X X X X X
+
+A
+
+X X X X
+
+A
+
+~d
+~xx
+
+~×x×
+
+××xxxx×
+
+x~××
+
+t'N t",l
+,-!
+
+,..S~
+
+!J
+
+Z
+<
+
+~XX
+
+XXXX
+
+XXXXXXX
+
+X~XX
+
+.<
+
+A
+
+o,..,
+©
+
+×~×
+
+××××
+
+×××××x×
+
+×~×x
+<"u
+<
+
+~ "a
+
+0
+©
+
+~=
+
+<
+
+×~<× x × × ×
+
+x××x×××
+
+×~<xx
+
+©
+
+,~¢.,
+
+A Comparison of Microbial Community Characteristics
+
+303
+
+a representative aromatic compound since it is present in substantial quantities in
+processed petroleum products. The presence of decane and/or toluene degraders can
+be interpreted as an indication of the microbial communities' ability to metabolize
+aliphatic and aromatic hydrocarbons, respectively. The numbers of decane-specific
+degraders in all samples tested varied from 3.0 × 101 to 5.5 X 105 degraders per
+gram soil dry weight (Table 3). Decane degrader enumerations were not available
+for any of the pristine aquifer samples. Decane-degrader populations tended to be
+larger in petroleum-exposed samples. The numbers of toluene-specific degraders
+ranged from 2 X 10o to 6.5 X 10 4 degraders per gram soil dry weight (Table 3).
+Toluene-specific degrader populations were at least an order of magnitude higher
+in samples from the contaminated sites as compared to the pristine aquifer samples.
+The numbers of decane-specific degraders were an order of magnitude higher than
+the number of toluene specific degraders in all but two samples. These results
+indicate that aliphatic hydrocarbon metabolic capabilities were more widespread
+than aromatic hydrocarbon metabolic capabilities for the compounds tested. Similar
+results were reported in a study of a single aquifer by Aelion and Bradley [1].
+The relationships between microbial community characteristics and pollutant
+exposure, and sample depth were compared using correlation analysis. A tabulation
+of the correlation coefficients (r z values) and P values are presented in Table 4.
+The relationships that were significant at greater than the 85% confidence level
+are shown in bold type and include the parameters of depth and AODC for all
+sample groups except the low-level exposure group, depth, and MPN of toluenespecific degraders for the low-exposure group, the MPNs of amino acid and
+decane-specific degraders for the low-exposure group, and when all samples were
+compared. Statistical theory predicts that approximately 5 of the 31 relationships
+tested would prove significant at greater than the 85% confidence level. However,
+since five of the correlations were significant at greater than the 99% confidence
+level, these correlations probably reflect real relationships between variables tested.
+
+Discussion
+
+In pristine and uncontaminated samples, statistical analyses indicate total cell counts
+(AODCs) were related to depth (Table 4). The deeper samples contained smaller
+total microbial populations. A similar pattern in AODC bacteria was reported
+by Webster et al. [43] and by Ghiorse and Balkwill [16]. In other studies of
+uncontaminated aquifer soils, no significant change in AODC as a function of
+sample depth or saturation was reported [5, 44]. For the samples evaluated in this
+study, numbers of amino acid-specific degraders varied considerably from sample
+to sample and probably reflect soil and site heterogeneity.
+Exposure to petroleum contamination apparently altered the microbial community structure. The relationship between sample depth and total microbial community size did not exist among the samples exposed to low levels of petroleum
+contamination. In samples only exposed to contaminants as migrating vapors or
+dissolved phases at parts per billion (ppb) levels, the numbers of toluene degraders
+increased with depth. Toluene has been reported to have a Microtox EC50 of 17-43
+mg/liter [40, 41] and to inhibit activated sludge respiration at less than 200 rag/
+liter [14]. Since toluene has a water solubility of over 500 mg/liter [37], it is
+
+304
+
+S.C. Long et a].
+
+V
+
+V
+
+.~A
+~ o < ~ < < < < <
+
+~d dZ
+~
+
+- Z dZ Z Z Z
+
+~
+
+~ZZZZZ
+
+m
+
+©
+
+&
+e-,
+©
+
+r-,
+
+~" d<o Z~d d <
+~<<
+ZoZZ
+V
+
+o'-a
+~dd
+
+dd
+
+d
+
+©
+
+©
+
+E=
+
+~<<<<<<<<<
+~ZZZZZZZZZ
+©
+
+~ < < < < < < < < <
+
+8~
+
+~ZZZZZZZZZ
+
+o E
+
+z
+
+z
+
+~
+
+-1
+
+~ ~~ 0 ,0 <,
+
+= = = =
+
+D~DD<<<<<~
+
+~N
+<
+
+<
+
+A Comparison of Microbial CommunityCharacteristics
+
+305
+
+possible that the higher levels of toluene exposure closer to the water table surface
+exerted toxicity on the microbial degrader community. As the dissolved toluene
+concentration was attenuated deeper in the aquifer formation, the addition of the
+biodegradable carbon source may have led to the higher observed densities of
+toluene-specific degraders. The numbers of amino acid-specific degraders were
+highly correlated to the numbers of decane-specific degraders. The relative proportion of decane-specific degraders was higher in petroleum-exposed samples than
+in pristine and uncontaminated samples. These two results, in combination, indicate
+that contaminant-adapted communities are present in the petroleum-exposed
+samples.
+In highly contaminated samples, smaller total microbial populations were found
+with increasing depth; however, microbial activity tended to increase with depth.
+These results, when compared to the results from the low-exposure samples, suggest
+that petroleum contaminants exert toxic effects on a portion of the active microbial
+community at high exposures and enrich specific degraders with exposure to ppb
+levels of dissolved contaminants. Federle et al. [15] also noted that numbers of
+specific degraders were a function of the site of sample collection.
+Three possible mechanisms have been described that can result in observable
+changes in community structure [23]. These mechanisms are induction/derepression
+of specific enzymes, genetic changes that result in new metabolic capabilities, and
+selective enrichment of organisms able to transform the compound(s) of interest.
+Aquifer systems are generally considered oligotrophic systems, the results of this
+study indicate that the addition of organic carbon and energy in the form of petroleum
+pollutants exerts a selective force that can alter the microbial community structure.
+The data indicate that a combination of one or more of the mechanisms described
+here has acted to affect the microbial communities in the aquifers studied. It is likely
+that the enrichment of degrader organisms is the predominating mechanism.
+When all samples were compared, the AODCs were correlated (? = 0.62) to
+sample depth at greater than 99.9% confidence level (P < 0.001). Activity measurements for amino acid-specific degraders and decane-specific degraders were highly
+correlated (r 2 = 0.91) at greater than 99.9% confidence level (P < 0.001). No other
+correlations were demonstrated. Consistent with those generally described for
+petroleum contamination [4], these results indicate that decane metabolism is fairly
+widespread such that larger, metabolically active, microbial communities evidenced
+by greater MPNs of amino acid-specific degraders also contained larger numbers
+and proportions of decane-specific degraders. However, it can be suggested that
+toluene degradation is more strongly linked to prior exposure to toluene at levels
+that do not produce a toxic response.
+The results of this research indicate that microbial community size and degrader
+composition reflect soil and site heterogeneities and can be altered by exposure
+to pollutants. Although the study was limited to oligotrophic fine sand, and sand
+and gravel aquifers, the data indicate that for these systems, total cell counts using
+AODC do not indicate the density and activity of pollutant degrader populations
+present in a contaminated aquifer system. The metabolic capability to degrade
+aliphatic pollutants, specifically decane, is likely to be related to the size of the
+metabolically active microbial community. The metabolic capability to degrade
+mono aromatic pollutants, specifically toluene, is likely to be related to the level
+of pollutant exposure. Higher levels of pollutant exposure (milligrams per liter
+
+306
+
+S.C. Long et al.
+
+and N A P L ) m a y inhibit aromatic degrader populations, w h i l e l o w - l e v e l pollutant
+exposure ( m i cr o g r a m s per liter) will enrich for aromatic degrader populations.
+Th es e results indicate that enumerations o f pollutant-specific degraders m a y yield
+m o r e i n f o rm at i o n as to the potential for p e t r o l e u m - c o n t a m i n a n t b i o r e m e d i a t i o n than
+w o u l d general c o m m u n i t y size ( A O D C ) or activity (amino acid-specific degraders).
+
+Acknowledgment. This research was funded in part by a grant from the US Environmental Protection
+Agency Office of Ground Water Research, a grant from the Naval Civil Engineering Laboratory, a
+grant from the South Carolina Hazardous Waste Management Research Fund, and a National Science
+Foundation Presidential Faculty Fellow Award--C. Marjorie Aelion.
+
+References
+1. Aelion CM, Bradley PM (1991) Aerobic biodegradation potential of subsurface microorganisms
+from a jet fuel-contaminated aquifer. Appl Environ Microbiol 57:57-63
+2. Aelion CM, Swindoll CM, Pfaender FK (1987) Adaptation to and biodegradation of xenobiotic
+compounds by microbial communities from a pristine aquifer. Appl Environ Microbiol 53:
+2212-2217
+3. American Petroleum Institute (1992) Basic petroleum data book: petroleum industrial statistics.
+Washington, DC
+4. Atlas RM, Bartha RC (1993) Microbial ecology: fundamentals and applications, 3rd ed. Benjamin
+Cummings Publishing, Menlo Park, California
+5. Balkwill DL, Ghiorse WC (1985) Characterization of subsurface bacteria associated with two
+shallow aquifers in Oklahoma. Appl Environ Microbiol 50:580-588
+6. Beeman RE, Suflita JM (1987) Microbial ecology of a shallow unconfined ground water aquifer
+polluted by municipal landfill leachate. Microb Ecol 14:39-54.
+7. Clarke KR, Owen NJP (1983) A simple and versatile micro-computer program for the determination
+of "most probable number." J Microbial Method 1:133-137
+8. Cobet AB, Guard HE (1973) Effect of a bunker fuel on the beach bacterial flora. In: Proceedings
+of joint conference on prevention and control of oil spills: March 13-15, Washington, DC
+9. Colwell RR, Walker JD (1977) Ecological aspects of microbial degradation of petroleum in the
+marine environment. CRC Crit Rev Microbiol 5:423-445
+10. Dobbins DC (1989) Variations in biodegradation rates of four different organic substrates and in
+other microbiological parameters among subsurface solids samples. Doctoral dissertation, University of North Carolina at Chapel Hill
+11. Dobbins DC, Aelion CM, Pfaender FK (1992) Subsurface, terrestrial microbial ecology and
+biodegradation of organic chemicals: a review. CRC Crit Rev Environ Control 22:67-136
+12. Dobbins DC, Pfaender FK (1988) Methodology for assessing respiration and cellular incorporation
+of radiolabeled substrates by soil microbial communities. Microb Ecol 15:257-273
+13. Dunlap WJ, McNabb JF, Sccalf MR, Cosby RL (1977) Sampling of organic chemicals and
+microorganisms in the subsurface. EPA-600/2-77-176. US Environmental Protection Agency,
+Washington, DC
+14. Elnabarawy MT, Robideau RR, Beach SA (1988) Comparison of three rapid toxicity test procedures: Microtox, Polytox, and activated sludge respiration inhibition. Toxicity Assess 3:361-370
+15. Federle TW, Dobbins DC, Thornton-Manning JR, Jones DD (1986) Microbial biomass activity
+and community structure in subsurface soils. Ground Water 24:365-374
+16. Ghiorse WC, Balkwill DL (1983) Enumeration and morphological characterization of bacteria
+indigenous to subsurface environments. Dev Ind Microbiol 24:213-244
+17. Ghiorse WC, Wilson JT (1988) Microbial ecology of the terrestrial subsurface. Adv Appl Microbiol 33:107-173
+18. Harvey RW, Smith RL, George L (1984) Effect of contamination upon microbial distributions
+and heterotrophic uptake in a Cape Cod, Mass., Aquifer. Appl Environ Microbiol 48:1197-1202
+19. Hillger RW, Griffiths RA (1992) Remediation of leaking USTs: a system for accessing case
+histories and related documents. J Air Waste Manage Assoc 42:289-302
+
+A Comparison of Microbial Community Characteristics
+
+307
+
+20. Long SC (1986) A descriptive study of the degradation of natural and xenobiotic compounds by
+the subsurface microbial community from an aquifer in Lula, Oklahoma. Master's thesis, University
+of North Carolina at Chapel Hill
+21. Long SC (1994) Biodegradation of petroleum constituents by aquifer microbial communities.
+Doctoral dissertation, University of North Carolina at Chapel Hill
+22. Lovley DR, Baedecker MJ, Lonergan DJ, Cozzarelli IM, Phillips EJR Siegel DI (1989) Oxidation
+of aromatic contaminants coupled to microbial iron reduction. Nature 339:297-300
+23. Leahy JG, Colwell RR (1990) Microbial degradation of hydrocarbons in the environment. Microbiol Rev 54:305-315
+24. McNabb JF, Dunlap WJ (1975) Subsurface biological activity in relation to ground-water pollution.
+Ground Water 13:3344
+25. Miller CT (1988) Personal communication, Department of Environmental Sciences and Engineering, University of North Carolina at Chapel Hill
+26. Mu DY, Scow KM (1994) Effect of trichloroethylene (TCE) and toluene concentrations on TCE
+and toluene biodegradation and the population density of TCE and toluene degraders in soil. Appl
+Environ Microbiol 60:2661-2665
+27. Pfaender FK, Buckley EN III (1984) Effects of petroleum on microbial communities. In: Atlas
+RM (ed) Petroleum microbiology. Macmillan, New York, pp. 475-536
+28. RMT, Inc. (1988) Final report: Aquifer evaluation, Defense Fuel Supply Point. January
+29. Somerville CC, Monti CA, Spain JC (1985) Modification of the ~4C most probable number method
+for use with nonpolar and volatile substrates. Appl Environ Microbiol 49:7t 1-713
+30. Standard methods for the examination of water and wastewater, 18th ed. (1992) American Public
+Health Association, Washington, DC
+31. Suflita JM, Gibson SA, Beeman RE (1988) Anaerobic biotransformation of pollutant chemicals
+in aquifers. J Industrial Microbiol 3:79-194
+32. Swindoll CM, Aelion CM, Dobbins DC, Jiang O, Long SC, Pfaender FK (1988) Aerobic biodegradation of natural and xenobiotic organic compounds by subsurface microbial communities. Environ
+Tox Chem 7:291-299
+33. Swindoll CM, Aelion CM, Pfaender FK (1988) Influence of inorganic and organic nutrients on
+aerobic biodegradation and on the adaptation response of subsurface microbial communities. Appl
+Environ Microbiol 54:212-217
+34. Thomas JM, Lee MD, Ward CH (1987) Use of ground water in assessment of biodegradation
+potential in the subsurface. Environ Tox Chem 6:607-614
+35. Underground storage tanks: technical requirements and state program approval, final rules. (1988)
+Federal Register 53:37082-37247
+36. Ventullo RM, Larson RJ (1985) Metabolic diversity and activity of heterotrophic bacteria in
+ground water. Environ Tox Chem 4:759-771
+37. Verschueren K (1983) Handbook of environmental data on organic chemicals, 2nd ed. Van
+Nostrand Reinhold, New York
+38. Vestal R, Cooney JJ, Crow S, Berger J (1984) The effects of hydrocarbons on aquatic microorganisms. In: Atlas RM (ed) Petroleum microbiology. Macmillan, New York, pp. 475-536.
+39. Waksman SA (1916) Bacterial numbers in soils, at different depths, and in different seasons of
+the year. Soil Sci 1:363-380
+40. Walker JD (1988) Effects of chemicals on microorganisms. J WPCF 60:1106-1121
+41. Walker JD (1989) Effects of chemicals on microorganisms. J WPCF 6l:1077-1097
+42. Ward TE (1985) Characterizing the aerobic and anaerobic microbial activities on surface and
+subsurface soils. Environ Tox Chem 4:727-737
+43. Webster JJ, Hampton GJ, Wilson JT, Ghiorse WC, Leach FR (1985) Determination of microbial
+cell numbers in subsurface samples. Ground Water 23:17-25
+44. Wilson JT, McNabb JF, Balkwill DL, Ghiorse WC (1983) Enumeration and characterization of
+bacteria indigenous to a shallow water-table aquifer. Ground Water 21:134-142
+45. Wilson JT, McNabb JF, Cochran JW. Wang TH, Tomson MB, Bedient PD (1985) Influence of
+microbial adaptation on the fate of organic pollutants in ground water. Environ Tox Chem
+4:721-726
+
+

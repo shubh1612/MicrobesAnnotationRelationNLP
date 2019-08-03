@@ -1,0 +1,80 @@
+T1	Microbes 3 22	enrichment cultures
+T2	ReactionOrProcess 3 13	enrichment
+T3	Substrate 207 214	benzene
+T4	Substrate 237 244	benzene
+T5	Substrate 273 280	benzene
+T6	Property 177 185	reducers
+T7	ReactionOrProcess 197 206	degrading
+T8	ReactionOrProcess 367 388	phylogenetic analyses
+T9	ReactionOrProcess 297 308	enrichments
+T10	Microbes 424 443	enrichment cultures
+T11	ReactionOrProcess 424 434	enrichment
+T12	Microbes 506 525	enrichment cultures
+T13	Property 488 505	benzene-oxidizing
+T14	ReactionOrProcess 506 516	enrichment
+T15	ReactionOrProcess 609 619	extraction
+T16	ReactionOrProcess 605 619	DNA extraction
+T17	Microbes 808 826	enrichment culture
+T18	ReactionOrProcess 808 818	enrichment
+T19	ReactionOrProcess 912 918	washed
+T20	ReactionOrProcess 948 959	resuspended
+T21	ReactionOrProcess 873 887	centrifugation
+T22	Substrate 1101 1107	phenol
+T23	ReactionOrProcess 1086 1095	extracted
+T24	ReactionOrProcess 1272 1275	PCR
+T25	Microbes 1461 1474	Desulfococcus
+T26	Microbes 1461 1486	Desulfococcus multivorans
+T27	Microbes 1443 1459	Escherichia coli
+T28	Microbes 1417 1441	Geobacter sulfurreducens
+T29	Microbes 1492 1517	Desulfuromusa acetexigens
+T30	Property 1558 1577	denaturing gradient
+T31	ReactionOrProcess 1364 1373	extracted
+T32	ReactionOrProcess 1558 1597	denaturing gradient gel electrophoresis
+T33	ReactionOrProcess 1582 1597	electrophoresis
+T34	ReactionOrProcess 1550 1553	PCR
+T35	ReactionOrProcess 1558 1568	denaturing
+R1	CarriedOn Arg1:T31 Arg2:T25
+R2	CarriedOn Arg1:T31 Arg2:T26
+R3	CarriedOn Arg1:T31 Arg2:T27
+R4	CarriedOn Arg1:T31 Arg2:T28
+R5	CarriedOn Arg1:T31 Arg2:T29
+T36	Substrate 1672 1677	MgCl2
+T37	Substrate 1636 1639	KCl
+T38	ReactionOrProcess 1606 1609	PCR
+T39	ReactionOrProcess 2134 2146	denaturation
+T40	ReactionOrProcess 2066 2069	PCR
+T41	ReactionOrProcess 2239 2248	extension
+T42	ReactionOrProcess 2310 2325	electrophoresis
+T43	ReactionOrProcess 2268 2271	PCR
+T44	ReactionOrProcess 2395 2399	DGGE
+T45	ReactionOrProcess 2594 2598	DGGE
+T46	ReactionOrProcess 2689 2692	PCR
+T47	ReactionOrProcess 2763 2770	excised
+T48	Property 3023 3037	heteroduplexes
+T49	ReactionOrProcess 2917 2928	reamplified
+T50	ReactionOrProcess 2934 2941	excised
+T51	ReactionOrProcess 2994 2998	DGGE
+T52	ReactionOrProcess 3111 3122	reamplified
+T53	ReactionOrProcess 3085 3092	excised
+T54	ReactionOrProcess 3231 3239	purified
+T55	ReactionOrProcess 3213 3216	PCR
+T56	ReactionOrProcess 3256 3259	PCR
+T57	Environment 3593 3601	sediment
+T58	Environment 3676 3695	uncontaminated site
+T59	ReactionOrProcess 3634 3655	phylogenetic analyses
+T60	Substrate 3753 3760	benzene
+T61	ReactionOrProcess 3761 3770	oxidation
+T62	Environment 3885 3893	sediment
+T63	Environment 4031 4039	sediment
+T64	Environment 4019 4039	homogenized sediment
+T65	Environment 4061 4065	soil
+T66	Property 4259 4264	speed
+T67	ReactionOrProcess 3975 3984	extracted
+T68	ReactionOrProcess 4066 4076	extraction
+T69	ReactionOrProcess 4019 4030	homogenized
+T70	Environment 4345 4350	water
+T71	Microbes 4385 4399	Geobacteraceae
+T72	Environment 4448 4456	sediment
+T73	Environment 4437 4456	triplicate sediment
+T74	ReactionOrProcess 4461 4472	extractions
+T75	ReactionOrProcess 4457 4472	DNA extractions

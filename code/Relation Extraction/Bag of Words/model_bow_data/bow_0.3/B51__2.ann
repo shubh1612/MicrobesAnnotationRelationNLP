@@ -1,0 +1,66 @@
+T1	Environment 4 16	soil samples
+T2	Environment 4 8	soil
+T3	ReactionOrProcess 38 44	sieved
+T4	ReactionOrProcess 22 33	homogenized
+T5	Environment 128 140	control soil
+T6	Environment 142 146	soil
+T7	Environment 136 140	soil
+T8	Substrate 190 202	hydrocarbons
+T9	Substrate 190 202	hydrocarbons
+T10	Environment 267 271	soil
+T11	Environment 312 316	soil
+T12	Substrate 341 353	Phenanthrene
+T13	Environment 437 441	soil
+T14	Environment 428 441	pristine soil
+T15	ReactionOrProcess 524 534	incubation
+T16	Environment 536 540	Soil
+T17	Substrate 564 567	KCl
+T18	Environment 640 645	Water
+T19	Environment 741 746	water
+T20	Property 672 694	water-holding capacity
+T21	Environment 876 888	soil samples
+T22	Environment 876 880	soil
+T23	Property 961 972	temperature
+T24	ReactionOrProcess 856 866	incubation
+T25	ReactionOrProcess 902 911	incubated
+T26	Environment 1047 1051	soil
+T27	Environment 1026 1031	water
+T28	Property 1105 1127	water-holding capacity
+T29	ReactionOrProcess 1136 1146	incubation
+T30	Property 1244 1254	pollutants
+T31	Environment 1396 1400	soil
+T32	ReactionOrProcess 1377 1386	extracted
+T33	ReactionOrProcess 1429 1438	inoculate
+T34	Environment 1515 1519	soil
+T35	Environment 1665 1670	water
+T36	Environment 1826 1836	fresh soil
+T37	Environment 1832 1836	soil
+T38	Environment 1858 1862	soil
+T39	Environment 1919 1924	water
+T40	Environment 1985 1997	aerobic soil
+T41	Environment 1993 1997	soil
+T42	Environment 2148 2152	soil
+T43	Environment 2223 2227	soil
+T44	Property 2153 2164	temperature
+T45	Environment 2284 2288	soil
+T46	Environment 2362 2366	soil
+T47	Environment 2401 2406	water
+T48	Substrate 2266 2278	hydrocarbons
+T49	Substrate 2266 2278	hydrocarbons
+T50	Environment 2656 2660	soil
+T51	ReactionOrProcess 2637 2646	extracted
+T52	Environment 2730 2741	sieved soil
+T53	Environment 2737 2741	soil
+T54	Property 2876 2887	temperature
+T55	ReactionOrProcess 2730 2736	sieved
+T56	Property 3093 3106	Gram-negative
+T57	ReactionOrProcess 3083 3092	inoculate
+T58	Microbes 3165 3178	actinomycetes
+T59	ReactionOrProcess 3515 3525	replicates
+T60	Property 3603 3614	temperature
+T61	ReactionOrProcess 3580 3590	Incubation
+T62	Environment 3695 3699	soil
+T63	ReactionOrProcess 3786 3795	replicate
+T64	ReactionOrProcess 3671 3682	utilization
+T65	Environment 3826 3830	Soil
+T66	ReactionOrProcess 3942 3953	inoculation

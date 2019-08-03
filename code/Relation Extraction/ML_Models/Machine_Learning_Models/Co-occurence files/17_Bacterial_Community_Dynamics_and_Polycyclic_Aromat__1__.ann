@@ -1,0 +1,158 @@
+T1	Environment 102 136	Heavily Creosote-Contaminated Soil
+T2	Substrate 33 64	Polycyclic Aromatic Hydrocarbon
+T3	ReactionOrProcess 84 98	Bioremediation
+T4	ReactionOrProcess 44 76	Aromatic Hydrocarbon Degradation
+T5	Environment 222 248	creosote-contaminated soil
+T6	ReactionOrProcess 271 302	laboratory-based bioremediation
+T7	ReactionOrProcess 171 185	biodegradation
+T8	Substrate 389 420	polycyclic aromatic hydrocarbon
+T9	Substrate 484 487	PAH
+T10	Substrate 446 473	total petroleum hydrocarbon
+T11	Property 427 436	degraders
+T12	Property 488 502	concentrations
+T13	ReactionOrProcess 529 543	bioremediation
+T14	Substrate 561 565	PAHs
+T15	Substrate 553 556	TPH
+T16	Substrate 764 772	chrysene
+T17	ReactionOrProcess 585 593	degraded
+T18	ReactionOrProcess 661 675	biodegradation
+T19	Substrate 862 865	PAH
+T20	ReactionOrProcess 866 880	bioremediation
+T21	Substrate 980 983	PAH
+T22	Substrate 987 990	TPH
+T23	ReactionOrProcess 914 929	bioaugmentation
+T24	ReactionOrProcess 935 957	ferric octate addition
+T25	ReactionOrProcess 890 912	biosurfactant addition
+T26	ReactionOrProcess 991 1005	biodegradation
+T27	ReactionOrProcess 1018 1032	biodegradation
+T28	ReactionOrProcess 1092 1115	first-order degradation
+T29	Microbes 1225 1278	heterotrophic and PAH-degrading microbial populations
+T30	Substrate 1335 1338	TPH
+T31	ReactionOrProcess 1343 1361	PAH biodegradation
+T32	Substrate 1400 1403	PAH
+T33	Property 1404 1413	degraders
+T34	ReactionOrProcess 1381 1391	incubation
+T35	ReactionOrProcess 1537 1565	principal-component analysis
+T36	ReactionOrProcess 1484 1523	Denaturing gradient gel electrophoresis
+T37	ReactionOrProcess 1672 1686	biodegradation
+T38	Microbes 1813 1825	Azospirillum
+T39	Microbes 1796 1808	Sphingomonas
+T40	Microbes 1765 1781	α-Proteobacteria
+T41	ReactionOrProcess 1745 1759	biodegradation
+T42	Microbes 2190 2201	Alcaligenes
+T43	Microbes 2206 2219	Achromobacter
+T44	Microbes 1968 1980	Sphingomonas
+T45	Microbes 2260 2272	Sphingomonas
+T46	Microbes 1920 1931	Xanthomonas
+T47	Microbes 1938 1954	α-Proteobacteria
+T48	Microbes 2230 2246	α-Proteobacteria
+T49	Microbes 1991 2030	Cytophaga-Flexibacter-Bacteroides group
+T50	Microbes 1890 1906	γ-Proteobacteria
+T51	Microbes 2112 2128	γ-Proteobacteria
+T52	Environment 2482 2503	PAH-contaminated soil
+T53	Substrate 2423 2426	PAH
+T54	ReactionOrProcess 2427 2438	degradation
+T55	ReactionOrProcess 2699 2713	bioremediation
+T56	ReactionOrProcess 2634 2648	biodegradation
+T57	Substrate 2780 2809	fused-ring aromatic compounds
+T58	Substrate 2725 2757	Polycyclic aromatic hydrocarbons
+T59	Property 2844 2854	pollutants
+T60	Environment 2929 2940	terrestrial
+T61	Environment 2945 2952	aquatic
+T62	Substrate 2921 2925	PAHs
+T63	ReactionOrProcess 3014 3037	natural decontamination
+T64	ReactionOrProcess 2906 2917	degradation
+T65	ReactionOrProcess 2969 2990	microbial degradation
+T66	ReactionOrProcess 3086 3100	bioremediation
+T67	Environment 3152 3156	soil
+T68	Substrate 3144 3148	PAHs
+T69	ReactionOrProcess 3213 3247	lower-than-expected bioremediation
+T70	ReactionOrProcess 3119 3140	Microbial degradation
+T71	Microbes 3588 3610	Pseudomonas aeruginosa
+T72	Microbes 3530 3540	consortium
+T73	Substrate 3487 3507	Casablanca crude oil
+T74	Substrate 3410 3436	high-molecular-weight PAHs
+T75	Property 3562 3575	biosurfactant
+T76	ReactionOrProcess 3392 3406	biodegradation
+T77	Environment 3670 3688	contaminated soils
+T78	ReactionOrProcess 3652 3666	bioremediation
+T79	Nutrient 3712 3720	nitrogen
+T80	Nutrient 3725 3735	phosphorus
+T81	Environment 3876 3893	contaminated site
+T82	ReactionOrProcess 3960 3984	microbial biodegradation
+T83	ReactionOrProcess 3986 4017	laboratory-scale bioremediation
+T84	Property 4164 4178	biosurfactants
+T85	Property 4338 4350	contaminants
+T86	Environment 4432 4454	PAH-contaminated soils
+T87	ReactionOrProcess 4505 4520	bioaugmentation
+T88	ReactionOrProcess 4487 4501	biostimulation
+T89	ReactionOrProcess 4911 4950	denaturing gradient gel electrophoresis
+T90	Environment 5356 5378	PAH-contaminated soils
+T91	Property 5291 5301	pollutants
+T92	ReactionOrProcess 5240 5254	bioremediation
+T93	ReactionOrProcess 5338 5352	bioremediation
+R1	CarriedOn Arg1:T3 Arg2:T2
+R2	CarriedOn Arg1:T4 Arg2:T2
+R3	OccursIn Arg1:T3 Arg2:T1
+R4	OccursIn Arg1:T4 Arg2:T1
+R5	OccursIn Arg1:T6 Arg2:T5
+R6	OccursIn Arg1:T7 Arg2:T5
+R7	CarriedOn Arg1:T13 Arg2:T8
+R8	CarriedOn Arg1:T13 Arg2:T9
+R9	CarriedOn Arg1:T13 Arg2:T10
+R10	CarriedOn Arg1:T17 Arg2:T14
+R11	CarriedOn Arg1:T17 Arg2:T15
+R12	CarriedOn Arg1:T17 Arg2:T16
+R13	CarriedOn Arg1:T18 Arg2:T14
+R14	CarriedOn Arg1:T18 Arg2:T15
+R15	CarriedOn Arg1:T18 Arg2:T16
+R16	CarriedOn Arg1:T20 Arg2:T19
+R17	CarriedOn Arg1:T23 Arg2:T21
+R18	CarriedOn Arg1:T23 Arg2:T22
+R19	CarriedOn Arg1:T24 Arg2:T21
+R20	CarriedOn Arg1:T24 Arg2:T22
+R21	CarriedOn Arg1:T25 Arg2:T21
+R22	CarriedOn Arg1:T25 Arg2:T22
+R23	CarriedOn Arg1:T26 Arg2:T21
+R24	CarriedOn Arg1:T26 Arg2:T22
+R25	CarriedOn Arg1:T27 Arg2:T21
+R26	CarriedOn Arg1:T27 Arg2:T22
+R27	ActOn Arg1:T29 Arg2:T30
+R28	CarriedOn Arg1:T31 Arg2:T29
+R29	CarriedOn Arg1:T31 Arg2:T30
+R30	CarriedOn Arg1:T34 Arg2:T32
+R31	CarriedOn Arg1:T41 Arg2:T38
+R32	CarriedOn Arg1:T41 Arg2:T39
+R33	CarriedOn Arg1:T41 Arg2:T40
+R34	CarriedOn Arg1:T54 Arg2:T53
+R35	OccursIn Arg1:T54 Arg2:T52
+R36	CarriedOn Arg1:T63 Arg2:T62
+R37	CarriedOn Arg1:T64 Arg2:T62
+R38	CarriedOn Arg1:T65 Arg2:T62
+R39	OccursIn Arg1:T63 Arg2:T60
+R40	OccursIn Arg1:T63 Arg2:T61
+R41	OccursIn Arg1:T64 Arg2:T60
+R42	OccursIn Arg1:T64 Arg2:T61
+R43	OccursIn Arg1:T65 Arg2:T60
+R44	OccursIn Arg1:T65 Arg2:T61
+R45	CarriedOn Arg1:T69 Arg2:T68
+R46	CarriedOn Arg1:T70 Arg2:T68
+R47	OccursIn Arg1:T69 Arg2:T67
+R48	OccursIn Arg1:T70 Arg2:T67
+R49	Of Arg1:T71 Arg2:T75
+R50	Of Arg1:T72 Arg2:T75
+R51	ActOn Arg1:T71 Arg2:T73
+R52	ActOn Arg1:T71 Arg2:T74
+R53	ActOn Arg1:T72 Arg2:T73
+R54	ActOn Arg1:T72 Arg2:T74
+R55	CarriedOn Arg1:T76 Arg2:T71
+R56	CarriedOn Arg1:T76 Arg2:T72
+R57	CarriedOn Arg1:T76 Arg2:T73
+R58	CarriedOn Arg1:T76 Arg2:T74
+R59	OccursIn Arg1:T78 Arg2:T77
+R60	OccursIn Arg1:T82 Arg2:T81
+R61	OccursIn Arg1:T83 Arg2:T81
+R62	OccursIn Arg1:T87 Arg2:T86
+R63	OccursIn Arg1:T88 Arg2:T86
+R64	OccursIn Arg1:T92 Arg2:T90
+R65	OccursIn Arg1:T93 Arg2:T90

@@ -1,0 +1,143 @@
+T1	Substrate 41 44	PAH
+T2	Substrate 173 177	PAHs
+T3	Substrate 107 110	TPH
+T4	Property 45 54	degraders
+T5	ReactionOrProcess 107 122	TPH degradation
+T6	ReactionOrProcess 111 122	degradation
+T7	Substrate 195 198	PAH
+T8	Substrate 251 255	PAHs
+T9	ReactionOrProcess 219 229	enrichment
+R1	CarriedOn Arg1:T9 Arg2:T8
+T10	Microbes 501 511	Roseomonas
+T11	Microbes 555 566	Alcaligenes
+T12	Microbes 596 609	Sinorhizobium
+T13	Microbes 611 623	Erytrobacter
+T14	Microbes 625 634	Cytophaga
+T15	Microbes 581 594	Achromobacter
+T16	Microbes 487 499	Azospirillum
+T17	Microbes 540 553	Agrobacterium
+T18	Microbes 473 485	Sphingomonas
+T19	Microbes 528 538	Trojanella
+T20	Microbes 568 579	Xanthomonas
+T21	Microbes 513 526	Brevundimonas
+T22	Environment 450 471	PAH-contaminated soil
+T23	Environment 467 471	soil
+T24	ReactionOrProcess 401 408	excised
+T25	ReactionOrProcess 396 400	DGGE
+T26	ReactionOrProcess 422 436	biostimulation
+R2	CarriedOn Arg1:T24 Arg2:T10
+R3	CarriedOn Arg1:T24 Arg2:T11
+R4	CarriedOn Arg1:T24 Arg2:T12
+R5	CarriedOn Arg1:T24 Arg2:T13
+R6	CarriedOn Arg1:T24 Arg2:T14
+R7	CarriedOn Arg1:T24 Arg2:T15
+R8	CarriedOn Arg1:T24 Arg2:T16
+R9	CarriedOn Arg1:T24 Arg2:T17
+R10	CarriedOn Arg1:T24 Arg2:T18
+R11	CarriedOn Arg1:T24 Arg2:T19
+R12	CarriedOn Arg1:T24 Arg2:T20
+R13	CarriedOn Arg1:T24 Arg2:T21
+R14	CarriedOn Arg1:T25 Arg2:T10
+R15	CarriedOn Arg1:T25 Arg2:T11
+R16	CarriedOn Arg1:T25 Arg2:T12
+R17	CarriedOn Arg1:T25 Arg2:T13
+R18	CarriedOn Arg1:T25 Arg2:T14
+R19	CarriedOn Arg1:T25 Arg2:T15
+R20	CarriedOn Arg1:T25 Arg2:T16
+R21	CarriedOn Arg1:T25 Arg2:T17
+R22	CarriedOn Arg1:T25 Arg2:T18
+R23	CarriedOn Arg1:T25 Arg2:T19
+R24	CarriedOn Arg1:T25 Arg2:T20
+R25	CarriedOn Arg1:T25 Arg2:T21
+R26	CarriedOn Arg1:T26 Arg2:T10
+R27	CarriedOn Arg1:T26 Arg2:T11
+R28	CarriedOn Arg1:T26 Arg2:T12
+R29	CarriedOn Arg1:T26 Arg2:T13
+R30	CarriedOn Arg1:T26 Arg2:T14
+R31	CarriedOn Arg1:T26 Arg2:T15
+R32	CarriedOn Arg1:T26 Arg2:T16
+R33	CarriedOn Arg1:T26 Arg2:T17
+R34	CarriedOn Arg1:T26 Arg2:T18
+R35	CarriedOn Arg1:T26 Arg2:T19
+R36	CarriedOn Arg1:T26 Arg2:T20
+R37	CarriedOn Arg1:T26 Arg2:T21
+T27	Microbes 757 769	Azospirillum
+T28	Microbes 740 752	Sphingomonas
+T29	ReactionOrProcess 679 693	biodegradation
+R38	CarriedOn Arg1:T29 Arg2:T27
+R39	CarriedOn Arg1:T29 Arg2:T28
+T30	ReactionOrProcess 872 876	DGGE
+T31	Substrate 1192 1200	fluorene
+T32	Substrate 1216 1226	anthracene
+T33	Substrate 1048 1051	PAH
+T34	Substrate 1202 1214	phenanthrene
+T35	Substrate 1249 1261	fluoranthene
+T36	Substrate 1040 1043	TPH
+T37	Substrate 1228 1247	alkyl-phenanthrenes
+T38	Substrate 1267 1273	pyrene
+T39	Substrate 1178 1190	acenaphthene
+T40	ReactionOrProcess 1145 1164	fast biodegradation
+T41	ReactionOrProcess 1048 1066	PAH biodegradation
+T42	ReactionOrProcess 1052 1066	biodegradation
+T43	ReactionOrProcess 1150 1164	biodegradation
+R40	CarriedOn Arg1:T40 Arg2:T38
+R41	CarriedOn Arg1:T41 Arg2:T38
+R42	CarriedOn Arg1:T42 Arg2:T38
+R43	CarriedOn Arg1:T43 Arg2:T38
+T44	Microbes 1401 1417	α-Proteobacteria
+T45	Environment 1514 1523	sediments
+T46	Environment 1503 1523	intertidal sediments
+T47	Environment 1503 1523	intertidal sediments
+T48	Substrate 1461 1472	spilled oil
+T49	Substrate 1469 1472	oil
+T50	Property 1594 1607	gram-negative
+T51	ReactionOrProcess 1662 1672	extraction
+T52	Microbes 1816 1829	Mycobacterium
+T53	Environment 1917 1943	creosote-contaminated soil
+T54	Environment 1939 1943	soil
+T55	Property 1880 1893	gram-negative
+T56	ReactionOrProcess 1692 1702	extraction
+T57	ReactionOrProcess 1955 1969	bioremediation
+T58	Substrate 2108 2112	PAHs
+T59	Substrate 2100 2103	TPH
+T60	ReactionOrProcess 2009 2024	bioaugmentation
+T61	ReactionOrProcess 1979 1994	Bioaugmentation
+T62	ReactionOrProcess 2082 2096	biodegradation
+R44	CarriedOn Arg1:T60 Arg2:T58
+R45	CarriedOn Arg1:T60 Arg2:T59
+R46	CarriedOn Arg1:T61 Arg2:T58
+R47	CarriedOn Arg1:T61 Arg2:T59
+R48	CarriedOn Arg1:T62 Arg2:T58
+R49	CarriedOn Arg1:T62 Arg2:T59
+T63	Microbes 2295 2303	inoculum
+T64	Microbes 2268 2278	consortium
+T65	Microbes 2500 2511	Alcaligenes
+T66	Microbes 2441 2453	Sphingomonas
+T67	Microbes 2382 2392	consortium
+T68	Microbes 2862 2870	inoculum
+T69	Microbes 2601 2611	consortium
+T70	Environment 2827 2848	PAH-contaminated soil
+T71	Environment 2653 2657	soil
+T72	Environment 2844 2848	soil
+T73	Environment 2642 2657	inoculated soil
+T74	ReactionOrProcess 2642 2652	inoculated
+T75	ReactionOrProcess 2694 2704	inoculated
+T76	ReactionOrProcess 2999 3009	inoculated
+R50	CarriedOn Arg1:T74 Arg2:T68
+R51	CarriedOn Arg1:T75 Arg2:T68
+R52	CarriedOn Arg1:T76 Arg2:T68
+T77	Environment 3106 3110	soil
+T78	Environment 3143 3147	soil
+T79	Environment 3095 3110	inoculated soil
+T80	ReactionOrProcess 3095 3105	inoculated
+T81	ReactionOrProcess 3216 3238	maximum biodegradation
+T82	ReactionOrProcess 3224 3238	biodegradation
+T83	Microbes 3324 3332	inoculum
+T84	ReactionOrProcess 3354 3368	biodegradation
+T85	Environment 3650 3671	PAH-contaminated soil
+T86	Environment 3587 3591	soil
+T87	Environment 3667 3671	soil
+T88	Substrate 3619 3622	PAH
+T89	Substrate 3788 3791	PAH
+T90	ReactionOrProcess 3623 3634	degradation
+T91	ReactionOrProcess 3840 3851	degradation

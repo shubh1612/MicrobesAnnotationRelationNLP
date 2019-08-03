@@ -1,0 +1,34 @@
+T1	Substrate 27 34	alkanes
+T2	Substrate 58 65	alkanes
+T3	ReactionOrProcess 116 130	biodegradation
+T4	Environment 177 188	beach sands
+T5	Substrate 295 298	oil
+T6	Environment 438 448	oiled sand
+T7	Environment 502 507	Beach
+T8	Environment 643 647	sand
+T9	Environment 854 859	sands
+T10	Environment 779 801	oil-contaminated sands
+T11	Substrate 407 418	hydrocarbon
+T12	Substrate 527 530	oil
+T13	ReactionOrProcess 593 604	Enumeration
+T14	ReactionOrProcess 947 958	Enumeration
+T15	Environment 1162 1166	sand
+T16	Substrate 1186 1210	cultivatable hydrocarbon
+T17	Property 1211 1220	degraders
+T18	Environment 1298 1309	oiled sands
+T19	Environment 1504 1508	sand
+T20	Substrate 1333 1344	hydrocarbon
+T21	Environment 1568 1579	clean sands
+T22	Environment 1636 1647	Beach sands
+T23	Substrate 1656 1667	visible oil
+T24	ReactionOrProcess 1593 1604	enumeration
+T25	Environment 1717 1721	sand
+T26	Environment 1807 1812	sands
+T27	Substrate 1735 1746	visible oil
+T28	Substrate 1821 1832	visible oil
+T29	Environment 1966 1980	nonoiled sands
+T30	Substrate 2158 2169	visible oil
+T31	Substrate 2408 2419	visible oil
+T32	Substrate 2604 2607	oil
+T33	Substrate 2683 2686	oil
+T34	Substrate 2858 2861	oil

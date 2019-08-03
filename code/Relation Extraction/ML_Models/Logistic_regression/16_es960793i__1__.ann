@@ -1,0 +1,113 @@
+T1	Environment 213 233	oil-containing soils
+T2	Environment 41 45	Soil
+T3	Substrate 0 21	Crude Oil Hydrocarbon
+T4	Property 46 57	Ecotoxicity
+T5	Property 171 179	toxicity
+T6	ReactionOrProcess 22 36	Bioremediation
+T7	ReactionOrProcess 123 149	hydrocarbon biodegradation
+T8	Environment 339 350	loamy soils
+T9	Substrate 424 427	TPH
+T10	Substrate 241 245	oils
+T11	Nutrient 396 402	carbon
+T12	Environment 660 673	organic soils
+T13	Environment 488 498	oily soils
+T14	Substrate 576 604	total petroleum hydrocarbons
+T15	Substrate 429 440	Hydrocarbon
+T16	ReactionOrProcess 616 624	degraded
+T17	ReactionOrProcess 441 455	bioremediation
+T18	Environment 844 854	oily soils
+T19	Substrate 828 840	hydrocarbons
+T20	Substrate 773 791	aromatic compounds
+T21	Property 759 768	saturates
+T22	ReactionOrProcess 812 826	bioremediation
+T23	ReactionOrProcess 689 708	Gas chromatographic
+T24	Nutrient 926 932	carbon
+T25	Environment 1014 1024	oily soils
+T26	Property 1040 1045	toxic
+T27	ReactionOrProcess 1097 1106	bioassays
+T28	Environment 1145 1155	oily soils
+T29	Environment 1319 1334	untreated soils
+T30	Substrate 1390 1399	heavy oil
+T31	Substrate 1361 1377	light crude oils
+T32	Environment 1534 1546	organic soil
+T33	Environment 1562 1574	organic soil
+T34	Environment 1401 1420	Bioremediated soils
+T35	Property 1434 1439	toxic
+T36	Environment 1697 1713	crude oily soils
+T37	Environment 1662 1678	pretreated soils
+T38	Substrate 1639 1643	BTEX
+T39	Substrate 1597 1623	Water-soluble hydrocarbons
+T40	ReactionOrProcess 1734 1744	extraction
+T41	Environment 1854 1859	soils
+T42	Substrate 1801 1819	aromatic compounds
+T43	ReactionOrProcess 1773 1787	bioremediation
+T44	Environment 1897 1907	oily soils
+T45	Substrate 1974 1978	BTEX
+T46	Property 1919 1927	toxicity
+T47	Environment 1986 2000	nontoxic soils
+T48	Substrate 2050 2053	TPH
+T49	Substrate 2025 2046	residual hydrocarbons
+T50	Environment 2317 2328	groundwater
+T51	Substrate 2106 2115	petroleum
+T52	Property 2204 2209	toxic
+T53	ReactionOrProcess 2179 2190	biodegraded
+T54	Environment 2386 2424	petroleum hydrocarbon-containing soils
+T55	Property 2501 2512	ecotoxicity
+T56	ReactionOrProcess 2483 2499	biodegradability
+T57	Environment 2632 2642	oily soils
+T58	Substrate 2647 2656	petroleum
+T59	Substrate 2675 2701	biodegradable hydrocarbons
+T60	ReactionOrProcess 2575 2589	Bioremediation
+T61	Environment 2889 2901	oily sludges
+T62	Environment 2949 2965	crude oil spills
+T63	Environment 2732 2736	soil
+T64	Substrate 2846 2849	oil
+T65	Environment 3271 3275	soil
+T66	Environment 3140 3144	soil
+T67	Substrate 3074 3100	percentage total petroleum
+T68	Substrate 3085 3113	total petroleum hydrocarbons
+T69	Substrate 3115 3118	TPH
+T70	Substrate 3058 3070	hydrocarbons
+T71	Substrate 3054 3057	oil
+T72	ReactionOrProcess 3256 3267	degradation
+T73	Environment 3362 3366	soil
+T74	Environment 3661 3666	soils
+T75	Substrate 3502 3511	petroleum
+T76	Substrate 3610 3634	oily sludge hydrocarbons
+T77	Substrate 3711 3714	oil
+T78	Environment 3801 3816	silty loam soil
+T79	Environment 3769 3780	oily sludge
+T80	Substrate 3887 3899	hydrocarbons
+T81	ReactionOrProcess 3905 3916	biodegraded
+T82	Environment 4121 4130	sediments
+T83	Environment 4140 4146	marine
+T84	Environment 4105 4110	soils
+T85	Substrate 4037 4059	crude oil hydrocarbons
+T86	Property 4079 4088	aromatics
+T87	Environment 4249 4253	soil
+T88	Environment 4297 4301	soil
+T89	Substrate 4306 4315	crude oil
+T90	Substrate 4354 4365	hydrocarbon
+T91	Property 4323 4336	concentration
+T92	ReactionOrProcess 4254 4280	hydrocarbon biodegradation
+T93	Environment 4548 4558	sandy soil
+T94	Substrate 4630 4639	crude oil
+T95	Substrate 4516 4519	oil
+T96	Substrate 4680 4683	oil
+T97	Property 4611 4619	saturate
+T98	ReactionOrProcess 4640 4651	biodegraded
+T99	ReactionOrProcess 4528 4542	bioremediation
+T100	ReactionOrProcess 4667 4676	reduction
+T101	Environment 5011 5026	oily waste soil
+T102	Substrate 4943 4965	petroleum hydrocarbons
+T103	ReactionOrProcess 4983 4991	degraded
+T104	Environment 5213 5223	sandy soil
+T105	Substrate 5275 5284	crude oil
+T106	Substrate 5331 5334	TPH
+T107	Substrate 5128 5146	aromatic compounds
+T108	Property 5301 5314	concentration
+T109	Property 5104 5112	saturate
+T110	ReactionOrProcess 5199 5207	degraded
+T111	Nutrient 5154 5160	carbon
+T112	Property 5388 5397	resistant
+T113	ReactionOrProcess 5434 5441	degrade

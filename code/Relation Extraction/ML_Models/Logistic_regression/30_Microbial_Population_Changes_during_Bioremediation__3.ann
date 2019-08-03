@@ -1,0 +1,55 @@
+T1	Substrate 0 9	Petroleum
+T2	ReactionOrProcess 126 136	processing
+T3	Environment 148 152	sand
+T4	Substrate 288 303	dichloromethane
+T5	Substrate 325 340	dichloromethane
+T6	Substrate 374 380	hexane
+T7	ReactionOrProcess 233 242	extracted
+T8	Substrate 544 547	oil
+T9	ReactionOrProcess 508 516	detector
+T10	Substrate 684 688	PAHs
+T11	Substrate 694 700	sulfur
+T12	Substrate 660 682	saturated hydrocarbons
+T13	ReactionOrProcess 577 585	detector
+T14	ReactionOrProcess 756 776	GC-mass spectrometry
+T15	Substrate 814 821	Nitrate	
+T16	ReactionOrProcess 850 859	reduction
+T17	ReactionOrProcess 994 1003	extracted
+T18	ReactionOrProcess 959 962	PCR
+T19	ReactionOrProcess 940 954	DNA extraction	
+T20	ReactionOrProcess 1157 1161	DGGE
+T21	ReactionOrProcess 1104 1107	PCR	
+T22	ReactionOrProcess 1580 1583	PCR
+T23	Property 1885 1896	temperature
+T24	ReactionOrProcess 1737 1750	DGGE analysis	
+T25	Environment 2167 2172	water
+T26	ReactionOrProcess 2158 2166	purified
+T27	Environment 2574 2579	water
+T28	ReactionOrProcess 2515 2522	excised
+T29	ReactionOrProcess 2401 2411	Extraction	
+T30	ReactionOrProcess 2499 2503	DGGE
+T31	ReactionOrProcess 2565 2573	purified
+T32	ReactionOrProcess 2673 2676	PCR
+T33	ReactionOrProcess 2797 2807	extraction
+T34	ReactionOrProcess 2715 2723	purified
+T35	ReactionOrProcess 2727 2742	electrophoresis
+T36	ReactionOrProcess 2835 2843	Purified	
+T37	ReactionOrProcess 2963 2969	BLASTN
+T38	ReactionOrProcess 3226 3232	cloned
+T39	ReactionOrProcess 3255 3262	cloning
+T40	ReactionOrProcess 3113 3120	Cloning	
+T41	ReactionOrProcess 3447 3451	DGGE
+T42	ReactionOrProcess 3517 3528	reamplified
+T43	ReactionOrProcess 3532 3535	PCR
+T44	ReactionOrProcess 3695 3710	electrophoresis
+T45	ReactionOrProcess 3792 3803	reamplified
+T46	ReactionOrProcess 3826 3829	PCR
+T47	ReactionOrProcess 3876 3889	DGGE analysis
+R3	CarriedOn_No Arg1:T7 Arg2:T5
+R4	CarriedOn_No Arg1:T7 Arg2:T6
+R5	OccursIn_No Arg1:T7 Arg2:T3
+R9	CarriedOn_No Arg1:T13 Arg2:T12
+R10	CarriedOn Arg1:T16 Arg2:T15
+R11	OccursIn_No Arg1:T26 Arg2:T25
+R12	OccursIn_No Arg1:T28 Arg2:T27
+R15	OccursIn_No Arg1:T31 Arg2:T27

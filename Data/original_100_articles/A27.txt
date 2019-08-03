@@ -1,0 +1,521 @@
+A27
+A Shallow BTEX and MTBE Contaminated Aquifer Supports a Diverse Microbial Community
+Authors
+Authors and affiliations
+K.P. FerisEmail authorK. HristovaB. GebreyesusD. MackayK.M. Scow
+1.
+Microbial Observatories
+First Online: 28 October 2004
+DOI: 10.1007/s00248-004-0001-2
+Cite this article as:
+Feris, K., Hristova, K., Gebreyesus, B. et al. Microb Ecol (2004) 48: 589. doi:10.1007/s00248-004-0001-2
+28
+Citations  
+197
+Downloads
+Abstract
+Microbial communities in subsurface environments are poorly characterized and the impacts of anthropogenic contamination on their structure and function have not been adequately addressed. The release of contaminant(s) to a previously unexposed environment is often hypothesized to decrease the diversity of the affected community. We characterized the structure of microbial communities along a gradient of benzene, toluene, ethylbenzene, and xylene (BTEX) and methyl-tert-butyl-ether (MTBE) contamination, resulting from a petroleum spill, within a shallow sandy aquifer at Vandenberg Air Force Base (VAFB) in Lompoc, CA. Differences in microbial community composition along the contaminant plume were assessed via a combinatorial approach utilizing denaturing gradient gel electrophoresis (DGGE), cloning and sequencing, intergenic transcribed spacer analysis (ITS), and comparative phylogenetic analysis of partial 16S rDNA sequences. Substantial bacterial sequence diversity, similar levels of species richness, and similar phylo-groups (including the Cytophaga–Flavobacterium–Bacteroidetes group and numerous members of the α-, β-, γ-, δ-, and ε-groups of the proteobacteria) were observed in both uncontaminated and contaminated regions of the aquifer. High-resolution measures (ITS fingerprinting and phylogenetic inference) readily separated communities impacted by the original petroleum spill (in source zone) from those in other parts of the aquifer and indicated that communities exposed to MTBE only were similar to communities in uncontaminated regions. Collectively, these data suggest that petroleum contamination alters microbial community structure at the species and subspecies level. Further study is required to determine whether these changes have an impact on the functioning of this subsurface ecosystem.
+
+Download fulltext PDF
+Introduction
+Subsurface microbial communities play important functional roles in subsurface and surface ecosystems including carbon and nitrogen cycling and contaminant degradation [1, 10, 23, 37]. Thus, there has been continued interest in understanding the biodiversity and structure of microbial communities inhabiting the subsurface in both pristine [2, 35, 38, 41, 62, 73] and contaminated environments [8, 15, 58, 64, 72]. The structure and function of subsurface microbial communities are dependent upon the interaction of a myriad of physical and biological parameters [73], which can be altered by the release of organic contaminant(s) such as gasoline [22, 26, 32, 33, 39, 46, 55, 56, 57, 62]. For example, contamination of anaerobic aquifers with petroleum tends to select for an increased abundance of iron- and/or sulfate-reducing Gram-negative anaerobes [36, 39, 52, 62], β- and γ-proteobacteria [46, 62], and the Cytophaga–Flexibacter–Bacteroidetes group [62]. Changes in community function can manifest as increased expression of catabolic genes associated with BTEX degradation [4, 39, 56, 66] and alterations in carbon source utilization reflected by the biodegradation of benzene, toluene, ethylbenzene, and xylene (BTEX) itself [3, 9, 43, 54, 61].
+
+Underground storage of petroleum-based fuels and subsequent fuel leakage, have resulted in wide spread contamination of groundwater and subsurface ecosystems with BTEX and the fuel additive, methyl-tert-butyl-ether (MTBE) [27]. BTEX compounds can be rapidly attenuated by in situ microbial communities under a variety of redox conditions [3, 9, 11, 12, 42, 43, 55, 59], and thus usually migrate only short distances from their release point [34]. In contrast, MTBE plumes behave more conservatively and often extend beyond BTEX plumes originating in the same source areas [70]. Given its widespread distribution and conservative subsurface transport properties, there is potential for MTBE to affect subsurface microbial ecology on a larger scale than its BTEX cocontaminants. Thus a better understanding of how MTBE and BTEX affect subsurface microbial ecology is needed.
+
+We describe the structure of microbial communities inhabiting a well-characterized shallow sandy aquifer along a gradient of petroleum contamination (particularly BTEX and MTBE), and test the hypothesis that elevated contaminant levels result in decreased richness and diversity of the resident microbial communities. It is known that the aquifer at Site 60, Vandenberg Air Force Base (VAFB), has been contaminated with petroleum as evidenced by measurable BTEX and MTBE concentrations since 1995. It is possible that the aquifer had been exposed to earlier gasoline leaks from the underground storage tanks or piping at the service station operating there from approximately 1985 through 1995. The hydrogeology and geochemistry of the aquifer have been the subject of extensive investigation during site characterization and bioremediation studies [14, 28, 45, 70] including demonstration of in situ MTBE bioremediation by stimulating native microbial communities with oxygen [28, 44, 70]. As a result the site is well instrumented and a large data set of its chemical and physical properties is available. We employed a suite of molecular tools to characterize microbial communities within and outside the contaminant plume with regard to their species richness (DGGE), phylogenetic diversity (partial 16S rDNA sequence analysis), and relatedness (ITS and phylogenetic inference). These measures of community structure were compared to data on contaminant distribution and the chemical and physical properties of the aquifer.
+
+Materials and Methods
+Site History and Description
+The sampled aquifer is located on Vandenberg Air Force Base, CA, in a small north-trending canyon that feeds into the broad, west-trending Santa Ynez River valley several miles from its discharge into the Pacific Ocean (Fig. 1). Aquifer sediments consist of a heterogeneous mixture of sand, silt, and clay alluvium that fill the canyon to a thickness of approximately ~12 m beneath a former service station that experienced what is generally assumed to have been a catastrophic release of several hundred gallons of MTBE-containing gasoline in 1995. Currently, the plume of dissolved MTBE (detections > 2 μg/L) is estimated on the basis of relatively sparse monitoring to be ~75–90 m wide and 520 m long (Fig. 1). A co-contaminating BTEX plume is also present but attenuates to below detection limits within 15–30 m of the source. Groundwater at the site, both within and outside the plume, is hypoxic (DO < detection limit of ~0.5 mg/L), of a neutral pH (6.7–6.9), and contains moderately high levels of total dissolved solids. Outside the plume, the predominant electron acceptor is SO42– (~250 mg/L). The groundwater near the source has depleted SO42– and elevated Fe2+, S2–, and CO2, likely resulting from anaerobic microbial metabolism. The subsurface redox profile is complex with extensive anaerobic zones, a wide artificially oxygenated zone (MTBE treatment facility: Fig. 1), and possibly some naturally oxic zones at interfaces with surface waters. The aquifer temperature is relatively constant and ranged from 16 to 20°C over the course of a 2-year monitoring period. More than 400 sampling wells in and outside the plume, at a variety of depths, have been installed at the site [70].
+
+Figure 1
+Map of field site. Sediment sampling locations, positions of monitoring wells, and active MTBE remediation facility are indicated. Gray shading represents relative size and shape of MTBE plume. Size and shape of BTEX plume is demonstrated by dashed line.
+Sample Collection
+Sediment samples were collected at various locations at Site 60, VAFB (Fig. 1): background (BG), up-gradient of the source zone (i.e., no MTBE or BTEX, close to well MW1); source zone (SZ), within the region of initial contaminant release (well S28: 124 μg/L benzene, 4.44 μg/L toluene, 81 μg/L ethylbenzene, 17 μg/L xylene, and ~92 mg/L MTBE); intermediate zone (IZ), ~60 m down gradient from the source zone within the contaminant plume (close to well UW9, MTBE concentrations 250–500 μg/L); and at the distal end (DE) of the plume (well MW9, MTBE < 10 μg/L). A single 2-kg cored aquifer sediment sample was collected from BG, SZ, IZ, and DE sequentially with a sterilized bucket auger at 2.5 m below ground surface, immediately transferred to sterile mason jars, and topped off with groundwater from a well adjacent to the cored location. Sediments gathered from the 2.5 m below ground surface intervals were homogenized prior to DNA extraction and setting up the microcosms. Groundwater was taken from the well (8 L) while sediment samples were taken within 5 feet of the well. Sediment and groundwater were shipped on ice to UC Davis (UCD) for further processing. Upon receipt, site groundwater was homogenized and stored at 4°C until microcosm construction. For DNA extraction three 1 g sediment samples from BG, SZ, IZ, and DE were frozen and stored at –20°C; the rest of sediment was stored at 4°C until microcosm construction.
+
+Microcosms Setup
+Three replicate microcosms were constructed for each sediment–groundwater pair from BG, SZ, IZ, and DE in 1-L amber bottles: 100 g of sediment and 500 mL of site water were added, leaving ~500 mL of air-filled headspace. All microcosms were incubated in the dark at room temperature (~24°C), and shaken continuously on an orbital shaker (~40 rpm) for 280 days. Microcosms were amended with MTBE such that initial MTBE concentrations were 480 μg/L, 2700 μg/L, 3000 μg/L, and 450 μg/L for the BG, SZ, IZ, and DE microcosms, respectively [49]. Microcosms were constructed to (1) determine in situ biodegradation potential [49] and (2) enhance our ability to detect a greater diversity of organisms associated with aquifer sediments. The different initial concentrations of MTBE applied to each microcosm were utilized to better mimic the contaminant concentrations in the locations from which sediment samples were gathered, and thus give a more accurate assessment of in situ biodegradation potential [49]. Measurements of MTBE biodegradation have been reported previously [49].
+
+Sediment Characterization
+Soil chemical and physical variables were measured by A&L Western Agricultural Laboratories (Modesto, CA). All measurements were made according to standard NAPT protocols (numbers corresponding to each protocol performed are indicated in parentheses): % Organic matter (S-9.20), Weak Bray-P (S-4.20), NaHCO3-P (S-4.10), K, Mg, Ca, and Na (S-5.30), pH (S-1.10), SO42-, Zn, Mn, Fe, and Cu (S-6.10).
+
+Internal Transcribed Spacer (ITS) DNA Fingerprinting
+DNA was extracted from sediment and microcosm samples as described previously [29]. Each 1 g sample of aquifer material was extracted for DNA and analyzed separately. This extraction method reliably and repeatedly extracts large molecular weight DNA from a variety of cell types from a variety of environmental matrices including soils, sediments, and water [29]. Extracted DNA was utilized for ITS, DGGE, and sequence-based analyses. ITS sequences were amplified from extracted DNA using a Gene Amp 2400 thermal cycler (PE Biosystems, Foster City, CA). PCR reactions (25 μL) contained 1 ng DNA template, 1.5 mM MgCl2, 10 mM Tris-HCl (pH 9), 50 mM KCl, 0.1% Triton X-100, 0.25 mM each dNTPs, 2.5 U Taq Polymerase (Promega), and 10 pmol each of primers 1406F and 23SR [6]. Following an initial denaturation at 94°C for 4 min, 30 cycles of 94°C for 1 min, 56°C for 1 min, and 72°C for 1 min 30 s were performed with a final extension of 7 min at 72°C. PCR products were analyzed in 5% polyacrylamide gels as described previously [28]. Digitized images were further analyzed with GelCompar II software (Version 5.0, Applied Maths, Kortrijk, Belgium). ITS fingerprints were analyzed with the Dice coefficient [50] and cluster analyses of similarity matrices performed by the unweighted pair group method using arithmetic averages (UPGMA) [65].
+
+DGGE Analyses with 16S rDNA Universal Bacterial Primers
+Denaturing gradient gel electrophoresis (DGGE) was used to analyze the microbial community associated with VAFB sediments [17]. The 230-bp 16S rDNA PCR products were separated using 6% acrylamide gels and a denaturing gradient of 30–60% or 20–60% (100% denaturant corresponds to 7 M urea plus 40% deionized formamide). DGGE was performed in 0.5× TAE buffer at 60°C at 150 V for 2 h and then at 200 V for 1 h. After electrophoresis, the gels were stained for 30 min with a 1:10,000 dilution of SYBR Green I (Molecular Probes, Eugene, OR).
+
+Cloning and Sequencing
+Concise bands identified in DGGE gels were excised, cloned into plasmids, and sequenced as described previously [28]. Briefly, bands were excised with a flame-sterilized scalpel and the DNA eluted in TE buffer overnight at room temperature. One μL of the eluant from each cut band was amplified with PCR as described above and cloned into TOPO TA cloning vector according to the procedure recommended by the manufacturer (TOPO TA cloning kit, Invitrogen, Carlsbad, CA). Clones with inserts were then sequenced with an ABI Prism automatic sequencer (Applied Biosystems, Foster City, CA) by Davis Sequencing Inc. (Davis, CA). Sequence identities were determined by BLAST and RDP analyses. Sequences were submitted to the GenBank Nucleotide Sequence Database and assigned the accession numbers AY437408–AY437435.
+
+Phylogenetic Analysis
+DNA sequences were checked for completeness and analyzed for chimeric character using the Ribosomal Database Project II (http://rdp.cme.msu.edu/html/) Chimera Check function. Sequences that appeared to be chimeric were not included in further analyses. The closest known relatives of the recovered sequences were determined using the Sequence Match function of RDP II. Sequences were aligned using Clustal W [68] and then optimized manually, as needed, using SeqPup v.0.8 (IUbio Archive,http://iubio.bio.indiana.edu/soft/molbio/seqpup/java/ ). Alignments included a total of 104 sequences, each consisting of 213 aligned characters. The alignment was comprised of 27 aquifer clones and 76 reference taxa (i.e., two or three of the closest matches found in the RDP per environmental clone) and one outlier (Escherichia coli). Phylogenetic trees of the aligned sequences were generated with a neighbor-joining (NJ) algorithm using PAUP v.4.0b.8.a (Sinauer Associates, Inc., Sunderland, MA). Pairwise sequence distances were determined based on a Kimura two-parameter model and gaps and/or ambiguous positions were ignored. Output from NJ analyses was bootstrapped 100 times and consensus trees generated. All trees were rooted using E. coli as the outgroup.
+
+To determine if sampling location had a significant effect on the distribution of observed phylotypes a combination of analytical approaches were employed, similar to that performed by Schadt et al. [60]. Briefly, the posterior probability distribution of phylogenetic trees was generated by Bayesian analysis using MrBayes (v 2.1) [30]. The inference of this phylogenetic distribution assumed that among-site variation rates were gamma distributed. Four Markov chains were used and analyzed over 200,000 generations, the first 15,000 of which were discarded. The generated trees were sampled every 100 generations. An additional character state, representing the sampling location along the contamination plume, was optimized onto the set of equally likely trees (n = 2001) using parsimony with the aid of MacClade [47]. The distribution of the number of changes required to fit this additional character onto the observed trees was compared to the distribution of this character on a set of random trees (n = 2001). An observed distribution of changes lower than 95% of the number of changes seen in the random set indicated that location had a significant effect on the distribution of phylotypes between the two locations being compared. Sequences from all four sampling locations were analyzed in this fashion in the following pairs: background vs source, background vs intermediate, background vs distal, source vs intermediate, source vs distal, and intermediate vs distal.
+
+Results
+Sediment Characterization
+A suite of physical and chemical parameters was measured for sediment samples collected from each location (Table 1). All sediments had circum-neutral pH’s and contained relatively low organic matter concentrations. PO42– concentrations were higher in the BG samples than those found for either the SZ or DE samples. Cu concentrations appeared to covary with the levels of extractable phosphate, with the highest and lowest values for Cu measured on BG and SZ samples, respectively. Fe and Mn exhibited similar trends of approximately linearly decreasing down-gradient concentrations. Concentrations of Zn at SZ were approximately one and two orders of magnitude higher than those found in DE or BG samples, respectively. SO42– concentrations increased with distance down-gradient from BG. Percent carbon and nitrogen were highest in the BG samples. C and N values were lower in the SZ, IZ, and DE samples and demonstrated an increasing trend down gradient from SZ. C:N ratio’s demonstrated no discernable pattern across the sampled sites (10.93, 15, 36, 10.62, 14.04, for BG, SZ, IZ, and DE, respectively).
+Table 1
+Soil chemical characteristicsa
+Parameter
+Background
+Source zone
+Intermediate zone
+Distal end
+Soil structure
+Sandy clay loam
+Sandy loam
+Sandy loam
+Sandy clay loam
+% organic matter
+1.6 (0.2)
+0.3 (0.2)
+0.7(0.1)
+1.05 (0.35)
+%C
+0.886 (0.03)
+0.169(0.01)
+0.308 (0.03)
+0.449 (0.014)
+%N
+0.081 (0.02)
+0.011 (0.001)
+0.029 (0.003)
+0.032 (0.001)
+pH
+7.15 (0.05)
+8.75 (0.05)
+7.45 (0.05)
+7.6 (0)
+NaHCOH3sol P (ppm)
+47.5 (0.51)
+11 (4.06)
+21 (1)
+18.5 (5.53)
+K (ppm)
+183.5 (25.5)
+45 (1.03)
+66 (3)
+180 (29.1)
+Mg (ppm)
+492 (87.0)
+115 (9.02)
+326.5 (10.5)
+377.5 (60.5)
+Ca (ppm)
+1643 (251)
+494.5 (48.5)
+998.5 (28.5)
+1288 (200)
+Na (ppm)
+191.5 (24.5)
+172 (6.04)
+172 (0.05)
+200.5 (18.5)
+Conductivity (mmhos/cm)
+1.3 (0.11)
+0.75 (0.05)
+1.1 (0)
+1.3(0.32)
+SO42–-S (ppm)
+13 (3.01)
+13.5 (5.53)
+10.5 (1.5)
+26 (2.01)
+Zn (ppm)
+0.85 (0.05)
+23.95 (2.85)
+0.2 (0)
+1.5 (0.33)
+Mn (ppm)
+27.5 (2.52)
+8 (0)
+12 (0)
+6.5 (0.52)
+Fe (ppm)
+73 (3.03)
+18 (1.02)
+41 (0)
+15 (2.01)
+Cu (ppm)
+2.45 (0.35)
+0.45 (0.15)
+0.8 (0)
+0.7 (0.1)
+aAll reported values are means (standard error) (n = 2).
+
+Community Composition
+DGGE Analysis
+DGGE provided a snapshot of the composition of microbial communities in situ along the plume (Fig. 2). We also incubated sediment samples with MTBE and oxygen to measure biodegradation potential and consequent changes in the community with exposure to MTBE (Fig. 2). There were commonalities in banding patterns between sample types (i.e., SZ microcosms vs DE microcosms); however, each sediment sample and microcosm type exhibited a unique banding pattern. Band patterns from microcosm samples differed from the corresponding in situ (i.e., nonincubated) sediments, such that the majority of bands present in the microcosm samples were absent from the preincubation samples. Sediment and microcosm samples contained numerous bacterial types (i.e., species) as estimated by DGGE band number (range 8 to 27). Unincubated sediment samples tended to have fewer DGGE bands than observed for the same sample type after incubation. There was no apparent relationship between sampling location and DGGE band number (i.e., species richness) in the sediment or microcosm samples. A total of 18, 14, 18, and 8 bands were associated with the BG, SZ, IZ, and DE sediment samples, respectively, and 27, 20, 28, and 21 bands were detected in the BG, SZ, IZ, and DE microcosms, respectively.
+
+Figure 2
+DGGE of microbial communities in sediments and microcosms. Arrows indicate which bands were excised for sequence analysis. Numbers next to bands correspond with clone IDs.
+ITS DNA Fingerprinting
+ITS analysis was utilized to compare community composition in situ along the contaminant plume and to determine if incubation with MTBE resulted in significant compositional changes. Visual analysis of ITS fingerprints indicated that aquifer microbial communities varied along the plume (Fig. 3). BG, IZ, and DE communities were more similar to one another than to SZ (Fig. 3) and a similar pattern was noted by visual analyses of DGGE patterns. Gel Compar cluster analysis supported visual observations and was able to separate each community based on sampling location (Fig. 3). ITS patterns of microbial communities present after incubation grouped with their corresponding unincubated samples (data not shown). Variation in ITS patterns was small within sample types; larger differences were noted between sampling locations and/or microcosm types than between replicate sediment samples or replicate microcosms.
+
+Figure 3
+ITS pattern analysis. Dedrogram indicates results of Gel Compar analysis and indicates relative similarity of banding patterns.
+Phylogenetic Analysis
+Phylogenetic analysis of partial 16S rDNA sequences revealed that a diverse microbial community was associated with aquifer sediments within and upstream of the contaminant plume (Fig. 4). Comparison of recovered sequences to the RDP database indicates that aquifer community members consisted primarily of the Cytophaga–Flavobacterium–Bacteroidetes group and numerous members of the α-, β-, γ-, δ- and ε-groups of the proteobacteria, among others (Table 2). The percent similarity of the cloned sequences to known organisms and other sequences in the RDP database were high (87–100%).
+
+Figure 4
+NJ tree of partial 16S rDNA sequences recovered from sediments and microcosms. Bootstrap values are from 1000 bootstrapped trees. NJ tree was rooted using E. coli as an outgroup.
+Table 2
+Sequence identities of the excised DGGE bands that appear in Figure 2
+Band
+Sample location
+Best match in RDP database
+Group level affiliation
+Sab score
+Accession number
+Isolated from sediment(S)/Mesocosm(M)
+1A
+Source zone
+Weissella viridescens
+Firmicutes: Lactobacillales
+0.97
+AB0023236
+S/M
+1B
+Source zone
+Pseudomonas sp.
+γ-Proteobacteria; Pseudomonaceae
+1.00
+AF321028
+S/M
+2
+Source zone
+Pseudomonas sp.
+γ-Proteobacteria; Pseudomonaceae
+1.00
+AY014826
+S/M
+3
+Source zone
+Bacterium YNPRH34A
+Verrucomicrobia
+0.94
+AF465651
+S/M
+4
+Distal end
+Pseudomonas graminis isolate SaU5
+γ-Proteobacteria; Pseudomonaceae
+1.00
+AF511513
+S/M
+5
+Distal end
+Bdellovibrio sp. Gunpowder
+δ-Proteobacteria; Bdellovibrionaceae
+0.98
+AF084853
+S/M
+6
+Distal end
+Metal contaminated soil clone K20-51
+Bacteroidetes
+0.93
+AF145846
+S/M
+7
+Background
+Uncultured cyanobacterium clone SL2-1-E5
+Cyanobacteria
+0.98
+AY214627
+S/M
+8
+Background
+Taxeobacter sp. SAFR-033
+Sphingobacteria; Flexibacteraceae
+0.87
+AY167829
+S/M
+9
+Background
+Bacterium Ellin328
+α-Proteobacteria
+0.95
+AF498710
+S/M
+10
+Background
+Uncultured bacterium PHOS-HC15
+Chlorobi group
+0.88
+AF314426
+S/M
+11
+Background
+Pseudomonas sp.
+γ-Proteobacteria; Pseudomonaceae
+1.00
+PSP272546
+S/M
+12
+Background
+Sulfuricurvum kujiense
+ε-Proteobacteria
+1.00
+AB080645
+S
+13
+Background
+Uncultured CFB group bacterium clone 8-1
+CFB group
+0.94
+AF351234
+S
+14
+Background
+Sulfuricurvum kujiense
+ε-Proteobacteria
+1.00
+AB080644
+S
+15
+Background
+Sulfuricurvum kujiense
+ε-Proteobacteria
+1.00
+AB080644
+S
+16
+Source zone
+Hydrogenophaga flava
+β-Proteobacteria, Comamonadaceae
+1.00
+HFL420328
+S
+17
+Source zone
+Uncultured Acidobacterium group
+Acidobacteriaceae
+0.98
+AF431423
+S
+18
+Source zone
+Uncultured soil bacterium clone C0108
+Bacteroidetes
+0.96
+AF507701
+S
+19
+Source zone
+Uncultured sulfate reducing bacterium
+δ-Proteobacteria
+0.97
+DSP389624
+S
+20
+Source zone
+Uncultured delta Proteobacterium clone
+δ-Proteobacteria
+0.96
+AF529129
+S
+21
+Source zone
+Uncultured bacterium clone SG2-137
+ 	
+0.98
+AY135927
+S
+22
+Source zone
+Uncultured bacterium IASFESA5
+Bacteroidetes
+1.00
+AF273319
+S
+23
+Distal end
+Uncultured Acidobacterium clone SBRT166
+Acidobacteriaceae
+0.97
+AF368181
+S
+24
+Distal end
+Pseudomonas sp.
+γ-Proteobacteria; Pseudomonaceae
+0.99
+AF511510
+S
+25
+Distal end
+Uncultured CFB group clone CD13H9
+Bacteroidetes
+0.95
+AF441869
+S
+26
+Distal end
+Uncultured Stenotrophomonas sp. clone
+γ-Proteobacteria; Xanthomonadaceae
+0.99
+AF386906
+S
+27
+Distal end
+Uncultured gamma Proteobacterium M70-D2
+γ-Proteobacteria
+0.99
+UGA299971
+S
+29
+Intermediate zone
+Pseudomonas fluorescens NCIMB 9815
+γ-Proteobacteria; Pseudomonaceae
+1.00
+D86003
+S
+31
+Intermediate zone
+Pseudomonas libaniensis CIP 105460
+γ-Proteobacteria; Pseudomonaceae
+0.96
+AF057645
+S
+32
+Intermediate zone
+Pseudomonas sp. 16S rRNA gene, isolate S2.
+γ-Proteobacteria; Pseudomonaceae
+0.96
+PSPAJ2813
+S
+33
+Intermediate zone
+Pseudomonas putida ATCC 17472
+γ-Proteobacteria; Pseudomonaceae
+0.95
+AB016428
+S
+34
+Intermediate zone
+Pseudomonas putida str. mt-2
+γ-Proteobacteria; Pseudomonaceae
+0.95
+Ps.putida
+S
+35
+Intermediate zone
+Cytophaga group str. Koll-2
+CFB group
+0.67
+AF087043
+S
+36
+Intermediate zone
+Pseudomonas stutzeri str. JM-300
+γ-Proteobacteria; Pseudomonaceae
+0.93
+Ps.stutz15
+S/M
+39
+Intermediate zone
+Hydrogenophaga palleronii str. S1 DSM 63 (T)
+β-Proteobacteria, Comamonadaceae
+0.97
+Hgp.paller
+S/M
+40
+Intermediate zone
+Bacillus 171544 str. 171544
+Gram positive Bacillus firmus group
+1.00
+AF071856
+S/M
+41
+Intermediate zone
+Bacillus macroides str. dhr2
+Gram positive Bacillus simplex group
+0.97
+AF157696
+S/M
+42
+Intermediate zone
+Coenonia anatina LMG 14382 (T)
+CFB group
+0.60
+Cno.anatin
+S/M
+43
+Intermediate zone
+Pseudomonas stutzeri str. Zobell ATCC 14405
+γ-Proteobacteria; Pseudomonaceae
+0.95
+Ps.stutz14
+S/M
+44
+Intermediate zone
+Pseudomonas citronellolis ATCC 13674
+γ-Proteobacteria; Pseudomonaceae
+0.97
+AB021396
+S/M
+45
+Intermediate zone
+Desulfovibrio sp. str. KRS1
+δ-Proteobacteria
+0.55
+Dsv.spKRS1
+S/M
+46
+Intermediate zone
+Pseudomonas putida NCIMB 9816
+γ-Proteobacteria; Pseudomonaceae
+1.00
+D86000
+S/M
+47
+Intermediate zone
+Trichlorobenzene degrading consortium clone
+β-Proteobacteria, Comamonadaceae
+0.99
+AJ009497
+S/M
+48
+Intermediate zone
+Hydrocarbon seep sediment clone BPC110
+High G+C Gram positive bacteria
+0.71
+AF154084
+S/M
+49
+Intermediate zone
+Pseudomonas gessardii CIP 105469
+γ-Proteobacteria; Pseudomonaceae
+0.93
+AF074384
+S/M
+Examination of the neighbor-joining tree containing all of the sequences recovered from the contaminated aquifer suggested no strong relationship between the types of bacteria (i.e., phylogenetic lineages) in a sample and the location from which the sample was taken (Fig. 4). However, NJ trees constructed from sequences separated by site have different topologies (data not shown), thus implying that location does have an effect on the distribution of species within the aquifer. To determine if there was a clear separation of bacterial types by location, a pairwise posterior probability analysis was performed. For most of the compared data sets (i.e., BG vs SZ, BG vs IZ, BG vs DE, SZ vs IZ, and SZ vs DE) the number of changes in the character describing sampling location that was necessary to explain the observed distribution of trees was <95% of the number of changes in the same character in a group of random trees (Fig. 5). Only the distribution of observed trees in the IZ vs DE comparison was not significantly different from the corresponding distribution of random trees. The number of changes required to explain the observed distribution of trees was not identical for each compared data set. More changes were required to explain differences in the comparison of species composition between the SZ and DE (11–12) than between BG and SZ (9), SZ and IZ (8–9), BG and IZ (7–8), or BG and DE (8), thus suggesting that the greatest difference in species distributions was between SZ and DE. This is reflected in the ITS pattern analysis (Fig. 3), although the dendrogram describing this relationship suggests that IZ and DE are equally different from the SZ.
+
+Figure 5
+Phylogenetic inference relating sampling location to the distribution of species between pairs of sampling sites. Dashed lines indicate the lowest number of changes in the character describing sampling location in 95% of 2001 randomly generated trees. White bars: observed tree distributions; black bars: random tree distributions; gray bars: overlap of observed and random tree distributions.
+Discussion
+Community Composition
+DGGE
+DGGE was employed to assess differences in species richness and to provide an initial estimation of diversity within and up-gradient of the contaminant plume [31, 40]. Diversity and richness levels were similar along the plume, suggesting that exposure to petroleum contaminants and MTBE neither enhanced nor decreased the richness of dominant bacterial groups in the aquifer. The levels of richness observed here were similar to what has been reported for aquifers contaminated with chlorobenzene (10–15 bands on a SSCP gel) [69] petroleum hydrocarbons (13 bands on a DGGE gel) [36], and pristine freshwater aquifers (14 rep-PCR groups) [21].
+
+Aquifer sediments were incubated with added MTBE and oxygen to measure how conditions representative of where active MTBE bioremediation is taking place influence the microbial communities [28, 70]. Adding MTBE and oxygen increased the number of detectable DGGE bands, indicating that bacterial types present at densities too low to be detected by DGGE were selected and enriched by these conditions. Sequences similar to those of strain PM-1, a well-described aerobic MTBE degrader detected at this site in previous studies [7, 13, 24, 25, 63], were apparently absent from the aerobic microcosms described here. A Taq-man approach developed in our laboratory [29] with a detection limit of ~102–103 cells/g sediment was unable to detect PM-1 in either the sediments or the microcosms. Although PM-1 is commonly found in groundwater and aquifer sediments [28, 33], its abundance was apparently too low in these samples to result in a detectable DGGE band. Also, it is possible that organisms or consortia other than PM-1 were responsible for the MTBE biodegradation measured in the microcosms.
+
+ITS Analysis
+Differences in species composition associated with aquifer sediments before and after incubation were assessed by ITS pattern analysis. The greatest effect of contaminant presence on community composition in the field samples (excluding the microcosms) was observed in the source zone. Greater similarity between the BG, IZ, and DE samples implies that the presence of BTEX (and possibly other contaminants associated with the original petroleum spill) and/or the combination of BTEX and MTBE was a stronger selective agent than MTBE alone under field conditions. Indeed, BTEX presence has been demonstrated to have a significant impact on microbial community structure in both aerobic [52, 66] and anaerobic environments [20, 58, 62, 69].
+
+Differences among microbial communities between in situ sampling locations, as assessed by ITS analysis, were greater than changes that were incurred after exposure to MTBE and oxygen in the lab. Differences in initial MTBE concentrations, and subsequent spikes of MBTE, could have had variable impacts on the microbial communities within each type of microcosm (i.e., SZ microcosms vs IZ microcosms, etc.). However, by the end of the incubation period (280 days) microbial communities within each microcosm were more closely related to communities within their respective unincubated sediments than to other microcosms incubated with similar MTBE amendments (data not shown). These results suggest that the incubation conditions employed here were not strong enough to mask the character of the communities originating from different locations in the aquifer, although they did allow us to detect a broader range of bacterial types (i.e.,. increased number of bands observed with DGGE). Thus, MTBE and O2 did not constitute a strong selective pressure on the community structure, which suggests that other factors may play a larger role in determining the composition of the subsurface community.
+
+Phylogenetic Analysis
+NJ analyses and direct comparison of sequences recovered from the aquifer to the RDP database indicated that a broad diversity of bacterial types were present. Recovered sequences were related to known organoheterotrophs capable of utilizing a suite of electron acceptors, including O2, NO3–, SO42–, Fe3+, and CO2. Redox conditions within the aquifer suggest that the metabolism of these organisms will be predominantly anaerobic. Similar types of organisms and putative metabolisms have been widely described in other pristine [19, 62] and contaminated [36, 52, 58, 62] anoxic aquifers. Sequences recovered from BG, IZ, and DE contained members of the α-, β-, and γ-proteobacteria along with representatives from the Cytophaga–Flexibacter–Bacteroidetes group, similar to communities observed previously in pristine aquifers [57, 62]. Presence of a “pristine-like” community associated with the IZ and DE sediments suggests that MTBE is a weak selective agent in anaerobic environments. MTBE use as a carbon source when coupled to anaerobic respiration is very slow and not, as yet, known to be widespread [18, 53, 71]. Thus it is not surprising that the presence of MTBE would not constitute a strong selective pressure in anaerobic environments. Exposure to BTEX in anaerobic environments has previously been shown to select for Gram-negative anaerobes able to reduce SO42– or Fe3+ [36] and members of the Cytophaga–Flexibacter–Bacteroidetes group [46]. Field samples from SZ were dominated by δ-proteobacteria, Bacteroidetes, and Acidobacteriaceae, whose closest known relatives are Desulfobulbaceae, Sphingobacteriales, and Acidobacteriaceae, a SRB, and two members of the Cytophaga–Flexibacter–Bacteroidetes group. Although NJ and comparative sequence analysis indicated the presence of diverse subsurface communities, they were unable to determine if these communities varied significantly with respect to location within the aquifer; to do this, phylogenetic inference was employed.
+
+Phylogenetic inference indicated that the distribution of species within the aquifer was related to the presence of petroleum and/or MTBE. However, selective pressures of these contaminants were not great enough to cause structural changes in the community at the clade level. Instead different, but related, species were selected for at each location within the aquifer. The number of changes required to explain the observed distribution of trees in the phylogenetic inference analysis was greater than that expected if the sampling location (i.e., contaminant presence/concentration) had a strong effect on the distribution of observed phylotypes [the expected number of changes was 2 (i.e., null hypothesis); the number observed was 8–12]. Significant differences between communities within each sampling location were due to different species compositions and not due to the presence of completely different clades of microorganisms; similar results were seen with the DGGE and ITS analyses. Thus contaminant presence influences the composition of the community but does not override the selective pressures of the aquifer as a whole. This type of species-specific replacement due to contaminant exposure has been noted in other contaminated environments, including rivers [16] and soils [67]. Together with these previous studies our results suggest that additional environmental factors play a role in controlling the structure of subsurface microbial communities that are not outweighed by the anthropogenic introduction of petroleum and MTBE.
+
+None of the measured abiotic factors demonstrate a clear and uniform increase or decrease down-gradient from BG. However, there was a decreasing linear trend in %OM, K, Ca, Mg, and Cu among three of the sites in the order of BZ, DE, IZ. This trend mirrors the relative similarities among BZ, DE, and IZ as measured by ITS analysis and phylogenetic inference. These data imply that these environmental factors may play a role in structuring the subsurface microbial community. Factors such as % OM and Cu have been demonstrated to have effects on the structure of soil microbial communities [48, 51]. Although our analysis does not provide the opportunity to definitively identify which of these environmental factor(s) plays the most important role in structuring the community at this site, these trends are in agreement with our assessment of the strength of MTBE as a selective agent in anaerobic systems. SZ was lower in all of these measurements than any of the other sites and it supported the most different microbial community (Figs. 3 and 5). We were unable to determine whether the composition of the microbial community in SZ was more dependent on the presence of petroleum or on the lower levels of these other environmental factors. Conversely, the reduced OM levels in the SZ may be the result of a priming effect (i.e., increased consumption of natural organic matter upon addition of a more readily available carbon source) due to exposure to the petroleum spill. Although this specific effect of petroleum contamination has not been studied previously, similar priming effects have been observed in surface soils amended with organic matter [5].
+
+The relationships between community structure, petroleum, and MTBE contamination, and other environmental factors noted here suggest that the structure of subsurface microbial communities is dependent on an interaction of factors. Additional sampling and experimentation are required to determine which factors, and interactions of factors, have the greatest influence on the structure and function of subsurface shallow aquifer communities. However, from this investigation we can conclude that petroleum contamination in shallow anoxic aquifers results in species-specific changes in subsurface microbial communities and that this selection pressure does not outweigh that of the aquifer as a whole.
+
+Acknowledgments
+Financial support was provided by the NSF Microbial Observatories (NSF-MO MCB-0137210), NIEHS Molecular Structure/Function of Organisms Degrading Contaminants (1R21ES012812-01), NIEHS Superfund Basic Research Program (2P42 ESO 4699), American Petroleum Institute (API), and the Water Resources Center. Our gratitude goes to Isaac Wood and Ryan Wilson for their help in the field study and sampling procedures procedures and Vicky Bien for her DNA extractions.

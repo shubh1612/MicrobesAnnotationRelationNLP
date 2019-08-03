@@ -1,0 +1,126 @@
+T1	Environment 56 77	oil-contaminated soil
+T2	Environment 73 77	soil
+T3	Microbes 294 307	P. aeruginosa
+T4	Microbes 183 205	Pseudomonas aeruginosa
+T5	Microbes 297 307	aeruginosa
+T6	Microbes 195 205	aeruginosa
+T7	Substrate 342 348	diesel
+T8	ReactionOrProcess 312 320	degraded
+T9	ReactionOrProcess 111 152	Fatty acid and 16s rDNA sequence analysis
+R1	CarriedOn Arg1:T9 Arg2:T3
+R2	CarriedOn Arg1:T9 Arg2:T4
+R3	CarriedOn Arg1:T9 Arg2:T5
+R4	CarriedOn Arg1:T9 Arg2:T6
+R5	CarriedOn Arg1:T8 Arg2:T7
+R6	CarriedOn Arg1:T9 Arg2:T7
+T10	Substrate 523 531	gasoline
+T11	Substrate 533 540	benzene
+T12	Substrate 455 464	petroleum
+T13	Substrate 542 549	toluene
+T14	Substrate 568 572	PAHs
+T15	Substrate 581 592	naphthalene
+T16	Substrate 594 606	phenanthrene
+T17	Substrate 512 521	crude oil
+T18	Substrate 465 477	hydrocarbons
+T19	Substrate 551 557	xylene
+T20	Substrate 465 477	hydrocarbons
+T21	Substrate 611 617	pyrene
+T22	Substrate 518 521	oil
+T23	Substrate 455 477	petroleum hydrocarbons
+T24	Property 481 500	sole carbon sources
+T25	Nutrient 486 492	carbon
+T26	Microbes 630 643	P. aeruginosa
+T27	Microbes 633 643	aeruginosa
+T28	Environment 694 705	groundwater
+T29	Environment 684 705	soils and groundwater
+T30	Environment 684 689	soils
+T31	Substrate 737 749	hydrocarbons
+T32	Substrate 737 749	hydrocarbons
+T33	ReactionOrProcess 666 680	bioremediation
+R7	CarriedOn Arg1:T33 Arg2:T31
+R8	CarriedOn Arg1:T33 Arg2:T32
+T34	Substrate 751 757	Diesel
+T35	Property 792 797	toxic
+T36	Environment 956 967	groundwater
+T37	Environment 907 911	soil
+T38	Substrate 861 867	diesel
+T39	Substrate 1083 1089	diesel
+T40	Property 1247 1259	contaminants
+T41	Environment 1357 1368	groundwater
+T42	Environment 1348 1352	soil
+T43	Substrate 1335 1344	petroleum
+T44	Property 1316 1326	pollutants
+T45	ReactionOrProcess 1261 1275	Bioremediation
+T46	ReactionOrProcess 1293 1304	degradation
+T47	ReactionOrProcess 1283 1304	microbial degradation
+R9	CarriedOn Arg1:T45 Arg2:T43
+R10	CarriedOn Arg1:T46 Arg2:T43
+R11	CarriedOn Arg1:T47 Arg2:T43
+T48	Substrate 1815 1847	polycyclic aromatic hydrocarbons
+T49	Substrate 1826 1847	aromatic hydrocarbons
+T50	Substrate 1826 1847	aromatic hydrocarbons
+T51	Substrate 1755 1762	alkanes
+T52	Substrate 1678 1687	crude oil
+T53	Substrate 1835 1847	hydrocarbons
+T54	Substrate 1835 1847	hydrocarbons
+T55	Substrate 1684 1687	oil
+T56	Substrate 1815 1847	polycyclic aromatic hydrocarbons
+T57	Property 1815 1825	polycyclic
+T58	Property 1826 1834	aromatic
+T59	ReactionOrProcess 1738 1745	degrade
+R12	CarriedOn Arg1:T59 Arg2:T48
+R13	CarriedOn Arg1:T59 Arg2:T49
+R14	CarriedOn Arg1:T59 Arg2:T50
+R15	CarriedOn Arg1:T59 Arg2:T53
+R16	CarriedOn Arg1:T59 Arg2:T54
+R17	CarriedOn Arg1:T59 Arg2:T56
+T60	Substrate 1994 2003	crude oil
+T61	Substrate 1968 1980	hydrocarbons
+T62	Substrate 1968 1980	hydrocarbons
+T63	Substrate 2000 2003	oil
+T64	ReactionOrProcess 1936 1946	metabolize
+R18	CarriedOn Arg1:T64 Arg2:T60
+R19	CarriedOn Arg1:T64 Arg2:T61
+R20	CarriedOn Arg1:T64 Arg2:T62
+R21	CarriedOn Arg1:T64 Arg2:T63
+T65	Environment 2280 2291	groundwater
+T66	Environment 2257 2275	contaminated soils
+T67	Environment 2270 2291	soils and groundwater
+T68	Environment 2270 2275	soils
+T69	Environment 2257 2275	contaminated soils
+T70	Substrate 2422 2431	petroleum
+T71	Substrate 2432 2444	hydrocarbons
+T72	Substrate 2432 2444	hydrocarbons
+T73	Substrate 2405 2411	diesel
+T74	Substrate 2422 2444	petroleum hydrocarbons
+T75	ReactionOrProcess 2397 2404	degrade
+R22	CarriedOn Arg1:T75 Arg2:T70
+R23	CarriedOn Arg1:T75 Arg2:T71
+R24	CarriedOn Arg1:T75 Arg2:T72
+R25	CarriedOn Arg1:T75 Arg2:T74
+T76	Environment 2501 2529	crude oil-contaminated soils
+T77	Environment 2507 2529	oil-contaminated soils
+T78	Environment 2507 2529	oil-contaminated soils
+T79	Environment 2524 2529	soils
+T80	ReactionOrProcess 2545 2554	isolating
+T81	ReactionOrProcess 2446 2455	Isolation
+T82	Environment 2582 2607	Contaminated soil samples
+T83	Environment 2595 2607	soil samples
+T84	Environment 2641 2652	gas station
+T85	Environment 2678 2689	gas station
+T86	Environment 2595 2599	soil
+T87	Environment 2582 2599	Contaminated soil
+T88	Environment 2743 2762	g contaminated soil
+T89	Environment 2758 2762	soil
+T90	Environment 2745 2762	contaminated soil
+T91	Substrate 2772 2778	diesel
+T92	ReactionOrProcess 2719 2729	enrichment
+R26	CarriedOn Arg1:T92 Arg2:T91
+T93	Microbes 2894 2902	inoculum
+T94	Microbes 3421 3440	isolated strain IU5
+T95	ReactionOrProcess 3357 3389	Fatty acid and 16s rDNA analyses
+T96	Property 3713 3721	alkaline
+T97	ReactionOrProcess 3694 3703	extracted
+T98	ReactionOrProcess 3766 3769	PCR
+T99	ReactionOrProcess 3923 3926	PCR
+T100	ReactionOrProcess 4407 4416	extension

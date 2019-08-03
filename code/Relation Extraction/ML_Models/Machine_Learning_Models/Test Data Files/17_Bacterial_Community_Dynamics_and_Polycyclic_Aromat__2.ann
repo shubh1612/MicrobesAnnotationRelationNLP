@@ -1,0 +1,117 @@
+T1 Environment 144 156 spiked soils
+T2 Environment 81 86 soils
+T3 Substrate 106 109 PAH
+T4 ReactionOrProcess 258 272 biodegradation
+T5 Environment 342 363 PAH-contaminated soil
+T6 Environment 491 500 microcosm
+T7 ReactionOrProcess 314 328 bioremediation
+T8 ReactionOrProcess 462 476 bioremediation
+T9 Environment 522 537 loamy clay soil
+T10 Substrate 673 676 PAH
+T11 Substrate 597 624 total petroleum hydrocarbon
+T12 Substrate 594 612 mg total petroleum
+T13 Substrate 749 753 PAHs
+T14 Substrate 758 761 TPH
+T15 ReactionOrProcess 730 741 Degradation
+T16 Substrate 969 972 PAH
+T17 Property 973 982 degraders
+T18 ReactionOrProcess 887 891 DGGE
+T19 Environment 1105 1131 creosote-contaminated soil
+T20 Environment 1069 1073 Soil
+T21 ReactionOrProcess 1227 1233 sieved
+T22 Environment 1247 1251 soil
+T23 Substrate 1391 1398 nitrite
+T24 Substrate 1400 1407 ammonia
+T25 Property 1357 1366 saturated
+T26 Property 1319 1328 dissolved
+T27 Nutrient 1409 1419 phosphorus
+T28 Environment 1472 1476 soil
+T29 Property 1495 1517 water-holding capacity
+T30 Nutrient 1564 1570 carbon
+T31 Nutrient 1586 1594 nitrogen
+T32 Environment 1687 1697 microcosms
+T33 Environment 1831 1840 microcosm
+T34 Environment 2014 2024 microcosms
+T35 Environment 1797 1801 soil
+T36 Environment 1802 1807 water
+T37 Environment 1869 1874 water
+T38 Environment 1921 1936 autoclaved soil
+T39 Substrate 2167 2170 TPH
+T40 ReactionOrProcess 2149 2163 biodegradation
+T41 ReactionOrProcess 2212 2226 biodegradation
+T42 Environment 2247 2261 Untreated soil
+T43 ReactionOrProcess 2296 2310 biodegradation
+T44 Environment 2461 2475 soil microcosm
+T45 Environment 2329 2334 water
+T46 Environment 2443 2448 water
+T47 ReactionOrProcess 2379 2393 biodegradation
+T48 Environment 2693 2702 microcosm
+T49 Environment 2627 2631 soil
+T50 ReactionOrProcess 2636 2645 extracted
+T51 Substrate 2871 2898 total petroleum hydrocarbon
+T52 Substrate 2903 2935 polycyclic aromatic hydrocarbons
+T53 Property 2972 2983 temperature
+T54 Property 2853 2867 concentrations
+T55 ReactionOrProcess 2988 2994 sieved
+T56 Environment 3086 3096 dried soil
+T57 Substrate 3026 3048 orthoterphenyl acetone
+T58 ReactionOrProcess 3011 3021 extraction
+T59 ReactionOrProcess 3078 3084 sieved
+T60 ReactionOrProcess 3153 3162 extracted
+T61 ReactionOrProcess 3213 3223 extraction
+T62 Substrate 3439 3442 TPH
+T63 ReactionOrProcess 3481 3496 chromatographic
+T64 Substrate 3583 3587 PAHs
+T65 Substrate 3562 3565 TPH
+T66 ReactionOrProcess 3629 3655 flame ionization detection
+T67 Property 3851 3857 purity
+T68 ReactionOrProcess 3907 3933 flame ionization detection
+T69 ReactionOrProcess 3828 3836 detector
+T70 Substrate 3966 3969 PAH
+T71 Substrate 4052 4055 PAH
+T72 Substrate 3958 3961 TPH
+T73 Substrate 4039 4042 TPH
+T74 Property 3970 3984 concentrations
+T75 Microbes 4139 4191 heterotrophic and PAH-degrading microbial population
+T76 Property 4071 4084 heterotrophic
+T77 Environment 4411 4420 microcosm
+T78 ReactionOrProcess 4371 4385 DNA extraction
+T79 ReactionOrProcess 4339 4353 DNA extraction
+T80 Environment 4625 4644 Ultraclean DNA soil
+T81 Environment 4566 4581 soil microcosms
+T82 Environment 4694 4699 Beach
+T83 ReactionOrProcess 4547 4556 extracted
+T84 ReactionOrProcess 4645 4655 extraction
+T85 ReactionOrProcess 4896 4899 PCR
+T86 ReactionOrProcess 4900 4910 inhibition
+R2 OccursIn Arg1:T4 Arg2:T1
+R4 OccursIn Arg1:T7 Arg2:T5
+R5 OccursIn Arg1:T7 Arg2:T6
+R6 OccursIn Arg1:T8 Arg2:T5
+R7 OccursIn Arg1:T8 Arg2:T6
+R8 CarriedOn Arg1:T15 Arg2:T13
+R9 CarriedOn Arg1:T15 Arg2:T14
+R10 CarriedOn Arg1:T18 Arg2:T16
+R12 OccursIn Arg1:T21 Arg2:T20
+R13 CarriedOn Arg1:T40 Arg2:T39
+R14 CarriedOn Arg1:T41 Arg2:T39
+R15 OccursIn Arg1:T43 Arg2:T42
+R16 OccursIn Arg1:T47 Arg2:T44
+R17 OccursIn Arg1:T47 Arg2:T45
+R18 OccursIn Arg1:T47 Arg2:T46
+R19 OccursIn Arg1:T50 Arg2:T48
+R20 OccursIn Arg1:T50 Arg2:T49
+R21 CarriedOn Arg1:T55 Arg2:T51
+R22 CarriedOn Arg1:T55 Arg2:T52
+R23 CarriedOn Arg1:T58 Arg2:T57
+R24 CarriedOn Arg1:T59 Arg2:T57
+R25 OccursIn Arg1:T58 Arg2:T56
+R26 OccursIn Arg1:T59 Arg2:T56
+R27 CarriedOn Arg1:T63 Arg2:T62
+R28 CarriedOn Arg1:T66 Arg2:T64
+R29 CarriedOn Arg1:T66 Arg2:T65
+R31 OccursIn Arg1:T78 Arg2:T77
+R32 OccursIn Arg1:T79 Arg2:T77
+R33 OccursIn Arg1:T83 Arg2:T80
+R34 OccursIn Arg1:T83 Arg2:T81
+R37 OccursIn Arg1:T84 Arg2:T81

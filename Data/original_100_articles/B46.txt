@@ -1,0 +1,117 @@
+B46
+ABSTRACT
+
+The objective of this study was to evaluate gasoline biodegradation in batch soil microcosms. Microorganisms able to grow in the presence of gasoline were isolated from soil. Several treatment systems were performed using both isolated strains and Pseudomonas putida obtained from a culture collection. The treatment system using only autochthonous microflora (system 1) presented an average value of degradation of 50%. The association of Pseudomonas putida, Burkholderia cepacia, Pseudomonas alcaligenes and the native soil microflora (system 13) presented significant percentage of removal of n-undecane (88.7), n-dodecane (61.3) and n-tridecane (66.7). According to these results, systems 1 and 13 revealed considerable potential for application in bioremediation treatments.
+
+Key words: bioremediation, gasoline, soil, biodegradation
+
+ 
+
+ 
+
+INTRODUCTION
+
+The contamination of soil and aquifer systems by gasoline hydrocarbons as a consequence of accidental spillage can cause serious environmental problems. The major gasoline constituents (benzene, toluene and xylene - BTX) are relatively soluble in water and are considered human carcinogens. Thus, the level of BTX in water must be highly controlled and limited to low values (6,16).
+
+Several methods can be employed to remove gasoline from soil and groundwater including air-sparging, soil vapour extraction, "pump and treat" and bioremediation. There is no general rule to choose the best treatment for contaminated sites. Each case must be analyzed individually, evaluating its particularities.
+
+Physical treatments separate soil and contaminants without destroying or chemically modifying them but have many limitations, such as high cost (10). A great amount of hydrocarbons becomes sorbed in soil matrix (approximately 50%) decreasing the removal efficiency (7). Biological process, on the other hand, is a promising technology for clean-up these contaminants mainly due to its simplicity and cost-effectiveness as compared to the other alternatives (2).
+
+Bioremediation can be considered as a new technology to treat contaminated sites by the use of biological agents able to modify or decompose target pollutants. It can use the action or/and addition of indigenous microorganisms, exogenous microorganisms from other sites, or genetically modified organisms (13). The maximum benefit of this process is the mineralization of the pollutant, leading ultimately to the formation of CO2, H2O and biomass (15).
+
+In biological treatments it is necessary to perform laboratory feasibility tests to determine the microbial potential to degrade the pollutants and whether nutrients are required to increase the degradation rate (3).
+
+The objective of this work was to evaluate the biodegradation of gasoline in several treatment systems constituted of unsterilized soil inoculated or not with different bacterial cultures.
+
+ 
+
+MATERIALS AND METHODS
+
+Gasoline
+
+The gasoline used in all experiments was obtained from PETROBRÁS (Petróleo Brasileiro S. A) gas station (Rio de Janeiro, Brazil). Brazilian gasoline contains 22% of ethanol and its characteristics, under the described test conditions, were preserved and confirmed by regular chromatographic analysis.
+
+Soil samples
+
+The soil was obtained from a site free of gasoline contamination in Rio de Janeiro, Brazil. Soil samples were collected from different sites to a depth of 30 cm by hand digging. The amount of soil was sufficient to store for a maximum period of a month because more than 30 days are generally unsuitable for use in biodegradation studies (12). The soil was mixed thoroughly, sieved through screens with 2 mm diameter openings to remove stones, rot materials and other debris and stored in a sterile polyethylene flask (2-liter capacity) at 10oC in order to reduce moisture losses (12). The water holding capacity was evaluated as suggested by Watwood and White. (18). Table 1 summarizes the soil characteristics performed by CNPS (Centro de Pesquisas de Solos)/ EMBRAPA (Empresa Brasileira de Pesquisa Agropecuária).
+
+
+ 
+
+010t1.gif (6480 bytes)
+
+ 
+
+Microorganisms
+
+The bacterial cultures utilized in this study were Pseudomonas putida (ATCC 12633), obtained from culture collection, and three species, isolated from soil in the presence of gasoline, identified as Burkholderia cepacia, Pseudomonas alcaligenes and Klebsiella pneumoniae. All microorganisms were maintained on 10 ml slopes of nutrient agar (storage culture) at 4oC and regularly subcultured and monitored for purity.
+
+Inoculant production
+
+Before introduction into the microcosms, the inoculum was prepared using bacterial cells transferred from the storage culture to a test tube containing 10 ml of nutrient broth. After incubation at 30oC for 14 h, the inoculum was propagated to a 500 ml flask containing 100 ml of the same medium, and also incubated with shaking (150 rpm) to mid-log phase at 30oC. According to dry weight curve plotted for all species, the inoculum volume was calculated to obtain approximately 106 cells per gram of soil. All bacterial cells used were grown separately.
+
+Isolation
+
+A 5 g sample of soil was added to a 500 ml flask containing 100 ml of a mineral medium (pH 7) consisting in g.L-1 : NaCl 5, K2HPO4 1, NH4H2PO4 1, (NH4)2SO4 1, MgSO4.7H2O 0.2 and KNO3 3 and supplemented with 1% (v/w) of gasoline (17). An aliquot (1% v/v) was transferred every three days to fresh medium to ensure growth on the hydrocarbon source. Medium was incubated at 30oC in a rotary shaker (150 rpm).
+
+After twelve days, plates containing nutrient agar were seeded. The gasoline was added to the inner surface of the Petri dishes cover with sterile filter disk according to Ridgway et al. (14), Vecchioli et al. (17) and Karlson and Frankenberger (9). Plates were incubated at 30oC for seven days and examined at intervals for colony formation.
+
+Soil Microcosms
+
+The biodegradation tests were carried out in 50 ml vials containing 5 g of fresh soil (unsterilized soil). NH4NO3 (30 µmol. g -1soil) was used as nitrogen source. The oxygen levels were maintained by adding hydrogen peroxide to a concentration of 0.1 mM (5).
+
+Several treatment systems were tested (Table 2), using inoculum obtained from the culture collection and the strains isolated from soil, individually or in a group, as well as the autochthonous microflora present in the soil.
+
+
+ 
+
+010t2.gif (14610 bytes)
+
+ 
+
+Each bacterial inoculum was added to microcosm in the concentration of approximately 106 cells/ g of soil (treatment systems 2 to 16) except in the treatment system 1 (consisted only of the native soil microflora), not considering the organisms already present in the soil. The initial viable number of cells was measured by the pour plate method both in sterile soil and in unsterilized soil.
+
+The water content of the soil was adjusted to 100% of its water holding capacity, considering the inoculum volume and nutrients added. Gasoline was added to give a concentration of 5% (v/w).
+
+All vials were crimp sealed with rubber caps and aluminum seals and incubated for 72 h at 30ºC. Control systems were prepared with sterile soil and incubated under the same conditions to assure quantification of biodegradation. The biodegradation percentile was calculated in relation to the non inoculated control system. The treatment sets were performed in triplicate.
+
+Viable cell counts were performed at 0 h and 72 h by the pour plate method using nutrient agar. The number of colonies was counted after 24 h of incubation at 30ºC. The cellular quantification was performed in duplicate.
+
+Gasoline Quantification
+
+Primarily, the gasoline was extracted from soil with CS2 (carbon disulfide) for 24 h at 10ºC. The extracts were then measured by direct injection into a Varian chromatograph (model 37-D; Instrumentos Científicos CG Ltda) equipped with a flame ionization detector (FID) and a 25 m x 0.25 mm (diameter) fused-silica capillary column, with an immobilized (OV-101) phase. The hydrogen carrier flow rate was 30 ml/min and the sample size was 1 µl. The injection port temperature and the flame ionization detector were 170ºC. The temperature program was: initial temperature 25ºC, held for 3 min, programming rate 12ºC.min-1 to 150ºC . The components searched for were toluene, ethylbenzene, n-nonane (n-C9), n-undecane (n-C11) and n-tridecane (n-C13). Peak areas and retention times were compared to reference standards. The injections were done in triplicate.
+
+ 
+
+RESULTS AND DISCUSSION
+
+Three different Gram-negative, rod-shaped bacterial species were isolated from soil and identified at Oswaldo Cruz Institute as Burkholderia cepacia, Klebsiella pneumoniae and Pseudomonas alcaligenes. Considering that the soil originated from a hydrocarbon-contamination free region and the exposure time to gasoline was 12 days, it is possible to conclude that the experimental conditions used in the isolation were extremely selective.
+
+According to Ridgway et al. (14), among 121 bacterial strains isolated from groundwater, able to use gasoline as carbon and energy source, 18.4% were as Pseudomonas putida, 1.6% as Pseudomonas alcaligenes and 0.41% as Pseudomonas cepacia.
+
+As also suggested by Ridgway et al. (14), the main advantages of using vapor-phase growth are the facility and the speed. Meanwhile, gasoline contains only 10 to 20% of relatively non-volatile compounds (> C10) (8). Thus, it is sufficient to ensure the isolation of microorganisms able to degrade these compounds, which are considered of primary concern in current environmental regulations. As shown in Table 3, the methodology employed for the isolation was quite efficient in obtaining cultures capable to degrade compounds less volatile than many aromatic constituents. These results are similar to those obtained by Ridgway et al. (14).
+
+
+ 
+
+010t3.gif (26861 bytes)
+
+ 
+
+010f1.gif (16503 bytes)
+
+ 
+
+After isolation, batch soil microcosms were tested to evaluate the capacity of gasoline biodegradation in several treatment systems. The soil was not sterilized in order to reproduce the natural environment. Besides, soil sterilization can modify its physical structure, chemical composition or catalytic properties (12, 1) and the indigenous soil microorganisms constitute a heterogeneous microbial community necessary to increase the efficiency of gasoline biodegradation process (11).
+
+The results of cellular growth and degradation are shown in Table 3. According to these results, systems constituted only of indigenous soil microflora (System 1), supplemented with inorganic nutrient (NH4NO3) and oxygen source (H2O2), presented a uniformity in the percentile reduction of the gasoline components (around 50%). The Brazilian gasoline contains 22% of ethanol which is easily utilized as substrate. According to Corseuil and Alvarez (4), preliminary laboratorial tests showed that ethanol might increase the BTX solubilization in water, affecting the degradation of these compounds.
+
+Considering the results obtained in treatment systems 2, 3, 4 and 5, constituted of indigenous microflora and pure culture inoculum, it can be concluded that gasoline degradation was not expressive for all of them. Meanwhile, an inoculum of mixed cultures, (system 7), resulted in an increase in the biodegradation percentile of the gasoline constituents, a fact probably related to the synergistic effect produced by the combination of these two bacterial species.
+
+Comparing the treatment systems employing more than one pure culture inoculum, system 13, constituted of B. cepacia, P. alcaligenes and P. putida, showed clearly the best degradation percentile results of gasoline components from n-undecane to n-tridecane and a decrease in the cell density. The low cellular density does not imply that a compound can not be cometabolized or syntrophicaly utilized.
+
+It is possible to suppose also that the increase of a specific population has caused an imbalance in the community through the competition for the physical space, nutrients and water, reducing to small levels the population of microorganisms that had the best performance in the biodegradation process. The survival might be indeed affected by inoculum size. The ability of the inoculum to survive was checked by comparing bacterial counts in both inoculated and uninoculated samples.
+
+Systems constituted of inoculum of K. pneumoniae were discarded because it is a pathogenic agent. Therefore, it is not appropriate to perform a bioaugmentation process with this microorganism.
+
+The results of this work allow to conclude that the tested native soil microflora (system 1) and the treatment system constituted of B. cepacia, P. alcaligenes and P. putida inoculum (system 13), after addition of NH4NO3 in the concentration of 30 µmol/g of soil and 0,1 mM of H2O2, presented high potential to degrade gasoline in treatments after leakage into soils. It is important to emphasize that for an in-situ treatment a detailed evaluation of the microbial population available locally and the required nutrients is necessary, as well as the treatment time necessary for an efficient remediation technology.

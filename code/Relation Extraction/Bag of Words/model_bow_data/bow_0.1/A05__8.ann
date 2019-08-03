@@ -1,0 +1,16 @@
+T1	Substrate 83 90	benzene
+T2	Substrate 73 90	anaerobic benzene
+T3	ReactionOrProcess 73 102	anaerobic benzene degradation
+T4	ReactionOrProcess 91 102	degradation
+T5	Substrate 219 226	benzene
+T6	Substrate 209 226	anaerobic benzene
+T7	Property 114 132	strictly anaerobic
+T8	ReactionOrProcess 104 113	Isolating
+T9	ReactionOrProcess 209 238	anaerobic benzene degradation
+T10	ReactionOrProcess 227 238	degradation
+R1	CarriedOn Arg1:T8 Arg2:T5
+T11	Substrate 438 445	benzene
+T12	Substrate 428 445	anaerobic benzene
+T13	ReactionOrProcess 322 333	degradation
+T14	Substrate 913 920	methane
+T15	ReactionOrProcess 921 930	oxidation

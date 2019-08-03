@@ -1,0 +1,44 @@
+T1	Substrate 4 15	Hydrocarbon
+T2	Environment 177 181	soil
+T3	Property 182 193	temperature
+T4	Environment 437 441	soil
+T5	Environment 550 554	soil
+T6	Environment 486 490	Soil
+T7	Environment 708 713	plume
+T8	Environment 655 659	soil
+T9	Substrate 794 805	hydrocarbon
+T10	Substrate 968 976	n-hexane
+T11	Substrate 902 914	hydrocarbons
+T12	Substrate 902 914	hydrocarbons
+T13	Substrate 989 1001	cyclopentane
+T14	Environment 1171 1175	soil
+T15	Environment 1271 1275	soil
+T16	Substrate 1223 1232	petroleum
+T17	Substrate 1233 1245	hydrocarbons
+T18	Substrate 1233 1245	hydrocarbons
+T19	Substrate 1223 1245	petroleum hydrocarbons
+T20	Environment 1354 1358	soil
+T21	Substrate 1326 1335	petroleum
+T22	Property 1451 1465	concentrations
+T23	Environment 1728 1739	vadose zone
+T24	Property 1624 1632	volatile
+T25	Environment 1938 1950	soil samples
+T26	Environment 1885 1889	soil
+T27	Environment 1938 1942	soil
+T28	Environment 1914 1919	water
+T29	Substrate 1999 2008	petroleum
+T30	Environment 2136 2140	soil
+T31	Environment 2078 2082	Soil
+T32	Environment 2482 2493	Soil sample
+T33	Environment 2482 2494	Soil samples
+T34	Environment 2556 2560	soil
+T35	Environment 2482 2486	Soil
+T36	Property 2561 2572	temperature
+T37	ReactionOrProcess 2639 2645	sieved
+T38	ReactionOrProcess 2626 2637	homogenized
+T39	Environment 2726 2736	clean sand
+T40	Environment 2732 2736	sand
+T41	Environment 2752 2756	Soil
+T42	Nutrient 2795 2801	carbon
+T43	Nutrient 2784 2790	oxygen
+T44	Environment 3301 3305	soil

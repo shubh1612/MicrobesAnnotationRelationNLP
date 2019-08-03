@@ -1,0 +1,70 @@
+T1	Microbes 169 187	enrichment culture
+T2	Substrate 119 126	nitrite
+T3	ReactionOrProcess 169 179	enrichment
+T4	ReactionOrProcess 127 136	reduction
+T5	Nutrient 36 42	oxygen
+T6	Microbes 353 371	enrichment culture
+T7	Substrate 270 277	nitrate
+T8	ReactionOrProcess 353 363	enrichment
+T9	ReactionOrProcess 278 287	reduction
+T10	Substrate 435 442	nitrite
+T11	ReactionOrProcess 422 431	reduction
+R1	CarriedOn Arg1:T11 Arg2:T10
+T12	Microbes 597 615	enrichment culture
+T13	Substrate 625 632	nitrite
+T14	ReactionOrProcess 597 607	enrichment
+T15	Nutrient 730 738	nitrogen
+T16	Nutrient 758 764	oxygen
+T17	Substrate 849 857	methanol
+T18	Substrate 828 835	methane
+T19	ReactionOrProcess 816 823	oxidize
+T20	Nutrient 775 781	oxygen
+T21	Substrate 892 899	methane
+T22	ReactionOrProcess 879 888	oxidation
+T23	ReactionOrProcess 935 944	oxidation
+T24	ReactionOrProcess 925 944	anaerobic oxidation
+T25	ReactionOrProcess 968 977	reduction
+R2	CarriedOn Arg1:T22 Arg2:T21
+R3	CarriedOn Arg1:T23 Arg2:T21
+R4	CarriedOn Arg1:T24 Arg2:T21
+T26	Substrate 1183 1190	nitrite
+T27	Substrate 1128 1135	alkanes
+T28	ReactionOrProcess 1115 1124	oxidation
+T29	ReactionOrProcess 1170 1179	reduction
+R5	CarriedOn Arg1:T28 Arg2:T26
+R6	CarriedOn Arg1:T28 Arg2:T27
+R7	CarriedOn Arg1:T29 Arg2:T26
+T30	Substrate 1326 1333	alkanes
+T31	Substrate 1360 1367	alkanes
+T32	ReactionOrProcess 1390 1414	anaerobic biodegradation
+T33	ReactionOrProcess 1400 1414	biodegradation
+T34	Substrate 1519 1526	alkanes
+T35	Property 1533 1550	anoxic conditions
+T36	Substrate 1680 1687	alkanes
+T37	Property 1664 1669	inert
+T38	Substrate 1754 1761	alkanes
+T39	Nutrient 1845 1851	carbon
+T40	Substrate 2060 2067	alkanes
+T41	Property 2098 2115	anoxic conditions
+T42	ReactionOrProcess 2080 2091	degradation
+T43	ReactionOrProcess 2293 2302	oxidation
+T44	ReactionOrProcess 2234 2242	reducing
+T45	ReactionOrProcess 2283 2302	anaerobic oxidation
+T46	Substrate 2473 2482	n-alkanes
+T47	Microbes 2563 2574	strain Pnd3
+T48	Microbes 2606 2623	Desulfatibacillum
+T49	Microbes 2606 2648	Desulfatibacillum aliphaticivorans CV2803T
+T50	Substrate 2924 2933	n-alkanes
+T51	ReactionOrProcess 2938 2951	anaerobically
+T52	Nutrient 3006 3012	carbon
+T53	Microbes 3136 3147	strain HxN1
+T54	Environment 3119 3135	nitrate-reducing
+T55	Substrate 3165 3173	n-hexane
+T56	ReactionOrProcess 3234 3245	degradation
+T57	ReactionOrProcess 3224 3245	anaerobic degradation
+T58	Substrate 3371 3379	n-alkane
+T59	ReactionOrProcess 3418 3427	extracted
+T60	Nutrient 3573 3579	carbon
+T61	Substrate 3920 3928	n-alkane
+T62	Nutrient 3886 3892	carbon
+T63	Nutrient 3994 4000	carbon

@@ -1,0 +1,17 @@
+T1	Microbes 849 867	Betaproteobacteria
+T2	Substrate 783 791	methanol
+T3	ReactionOrProcess 875 884	oxidation
+T4	Microbes 1016 1023	Archaea
+T5	Substrate 943 949	phenol
+T6	Property 1003 1015	methanogenic
+T7	Property 1003 1015	methanogenic
+T8	ReactionOrProcess 950 961	degradation
+R1	CarriedOn Arg1:T8 Arg2:T4
+T9	ReactionOrProcess 1084 1099	SIP experiments
+T10	Environment 1777 1792	particular soil
+T11	Environment 1788 1792	soil
+T12	Property 1861 1872	temperature
+T13	Property 2053 2067	concentrations
+T14	ReactionOrProcess 3390 3400	incubation
+T15	ReactionOrProcess 5229 5242	incorporation
+T16	ReactionOrProcess 5409 5422	incorporation

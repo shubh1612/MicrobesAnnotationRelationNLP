@@ -1,0 +1,622 @@
+B43
+Hybridization Analysis of Microbial DNA from Fuel
+Oil–Contaminated and Noncontaminated Soil
+C. Guo, W. Sun, J.B. Harsh, A. Ogram*
+Department of Crop and Soil Sciences, Washington State University, Pullman, WA 99164-6420, USA
+Received: 23 July 1996; Accepted 9 October 1996
+A BSTRACT
+The enrichment of several genes (xylE, nahAcd, todC1C2BA, tmoABCDE, alkB) that encode enzymes
+responsible for key steps in the degradation of hydrocarbons, and one gene specific to rRNA group
+I of the genus Pseudomonas, was studied in DNA extracted from a fuel oil–contaminated field site,
+and in laboratory microcosms (with the exception of alkB). Toluene, ethylbenzene, xylene, and
+naphthalene concentrations were related to the extent of hybridization of the genes in the field
+studies. Significant differences were observed in the extent of hybridization of some of the genes
+between contaminated and noncontaminated samples. In the microcosm studies, gasoline at rates
+ranging from 0.5 mg to 125 mg gasoline/g of soil as applied to soils, and the changes in hybridization
+intensity of these genes monitored with time. The lower threshold of gene enrichment of these genes
+in response to gasoline addition was below 0.5 mg/g soil. Small increases were observed at the
+0.5-mg exposure level, but hybridization intensity quickly decreased to levels below detection 6–8
+days after addition of the gasoline. A dose-response effect was observed from treatments with
+gasoline concentrations ranging from 0.5 to 35 mg/g soil. Inhibition by toxic components in
+gasoline was observed at 75 and 125 mg/g soil levels. Hybridization of the Pseudomonas group 1
+probe to field DNA was not significantly enriched in the contaminated field site, although these
+sequences were enriched in the microcosm studies. Among the genes tested, xylE was the most
+sensitive indicator of low levels of fuel oil contamination.
+Introduction
+Contamination of soils with petroleum products from leaking
+underground storage tanks (LUSTs) is of concern at
+many sites across the United States, and this contamination
+may significantly affect the structure and functions of the
+surrounding soil microbial communities. Petroleum products
+such as gasoline and diesel fuel contain a variety of
+components, some of which are highly toxic to microorganisms
+and others of which may be used as sources of carbon
+and energy by bacteria [2, 15, 19]. Microbial communities
+typically adapt to contaminants such as petroleum products
+*Permanent Address: Soil and Water Science Department, University of
+Florida, Gainesville, FL 32611-0290, USA.
+Correspondence to: Andrew Ogram; Fax: (352) 392-3902.
+MICROBIAL
+ECOLOGY
+Microb Ecol (1997) 34:178–187
+© 1997 Springer-Verlag New York Inc.
+by enrichment of those microorganisms that are either resistant
+to the toxic effects of the contaminant, or capable of
+utilizing the contaminant as a nutrient source [2].
+An understanding of the adaptation of microbial communities
+to exposure to contaminants would be useful in
+developing and evaluating biological indicators of stress experienced
+by those communities. Such indicators would be
+useful for a variety of applications, including identification
+of levels of a contaminant required to affect a community,
+and the rapid identification of soils that have been affected
+by exposure to the contaminant. In addition, such an indicator
+may be useful in assessing the content of remediation
+of contaminated soils.
+Increases in the total numbers of hydrocarbon-utilizing
+microorganisms and of their relative proportions within microbial
+communities are commonly observed in microbial
+communities that have been exposed to petroleum contaminations
+[13, 14, 20, 29]. The abundance of hydrocarbon
+utilizers and the ratios of their numbers to total heterotrophs
+have been considered to be useful indicators of hydrocarbon
+contamination [2], although relatively few (possibly less
+than 1%) soil bacteria are readily cultivable [32, 33]. Culture-based
+indices such as these may be inefficient and biased.
+An alternative approach to culture-based enumeration of
+hydrocarbon utilizers is the application of gene probe technology
+to measure concentrations of genes that encode enzymes
+involved in the degradation of hydrocarbons within
+total community DNA [9, 25]. Although hydrocarbon degraders
+may be common in soils, background concentrations
+of genes coding for the degradation of a specific compound
+would be expected to be low relative to concentrations
+in soils that have been subject to fuel oil contamination
+[17, 24, 25]. Comparing the relative concentrations of genes
+specific to degradation of the contaminant within total community
+DNA extracted from exposed and unexposed communities
+may provide a sensitive biological indicator of microbial
+community adaptation.
+The purpose of the work reported here was to determine
+whether bacterial genes involved in the degradation of naphthalene
+and toluene were enriched in soils contaminated
+with gasoline and diesel fuel. These studies were also intended
+to evaluate the use of catabolic gene probes as biological
+indicators of exposure of soil microbial communities
+to gasoline and diesel fuel contamination. Aromatic hydrocarbons
+such as naphthalene and toluene are common fuel
+oil components [3, 28], and the bacteria responsible for
+degradation of these compounds are commonly present at
+elevated concentrations at contaminated sites. Some of the
+criteria for selection of probes are a knowledge of the biochemistry
+and genetics of the target organisms, and the
+genes should be conserved throughout evolution [16]. The
+biochemistry of the degradation of naphthalene and toluene
+has been well documented for many strains [1, 6 36], and
+catabolic genes sharing high similarities have been found
+among many strains capable of degrading naphthalene [21,
+26, 36] and toluene [1]. Probes generated from these genes
+would have a high probability of detecting genotypes [12,
+25], and would therefore be useful in identifying the adaptation
+of a community to fuel oil exposure.
+For these studies, concentrations of selected genes, including
+several involved in the degradation of benzene, toluene,
+ethylbenzene, xylene (BTEX), and naphthalene, were
+measured in subsurface soil samples collected along a gradient
+of BTEX concentrations at a LUST site. These field
+studies were compared with results obtained from microcosms
+that were exposed to a range of gasoline concentrations.
+Materials and Methods
+Field Sampling
+The selected field site was contaminated by petroleum products and
+is located beneath Bridge 270/4 in Pullman, Washington. The soil
+consists of sandy, gravely fill with coal fragments; over soft to stiff
+silt; over loose to dense, sandy, angular gravel; over basalt bedrock.
+A petroleum storage facility was at the site for more than 50 years,
+and in recent years an above-ground tank had been constructed
+after removal of an underground storage tank. Estimates of total
+volume of impacted soil range from 5,000 to 6,000 cubic yards, and
+concentrations of petroleum hydrocarbons range from 2,000 ppm
+to less than 1 ppm [22]. Soil samples were taken in July 1992, from
+15 boreholes at depths from 4 to 6 feet for most boreholes, and
+from 4 to 11 feet for one borehole. Boreholes were 10 feet apart,
+and covered both the contaminated area and soil adjacent to the
+contaminated area. A total of 46 soil samples were collected along
+two transects (Fig. 1). These two transects were chosen to include
+contaminant concentrations ranging from very high to undetectable
+contamination. Soil samples were placed on ice immediately
+following collection and immediately transported to the laboratory
+for strain isolation and storage at −20°C for later soil DNA extraction.
+Microcosms
+Surface soils (10–30 cm, silty loam) were collected from the campus
+of Washington State University, Pullman, Washington. After parMolecular
+Indicators of Adaptation 179
+tial air drying, soils were sieved (2-mm-diameter openings) for
+uniform consistency, and water was added to the soil to adjust the
+moisture content to 70% of its water-holding capacity. Four hundred
+grams of soil was mixed with unleaded gasoline (Chevron,
+87[) at concentrations of 0.5, 5, 35, 75, or 125 mg fuel/g soil (in
+triplicate). Each gram of unleaded gasoline contained 85.5 mg toluene,
+19 mg ethylbenzene, 69.9 mg m-xylene, 26 mg o-xylene and
+p-xylene, and 0.7 mg naphthalene, as analyzed by gas chromatography
+(see below). The treated soil was placed into 2-liter beakers
+in a layer approximately 3-cm thick. Soils without addition of fuel
+were used as control samples. The beakers were covered with thin
+polyethylene film (Saran Wrap) to reduce evaporation and were
+stirred twice per week during room temperature incubation. Ten
+grams of soil was taken from the beakers at 0, 0.5, 1, 2, 3, 4, 6, 8,
+and 16 weeks after inoculation and immediately stored at −20°C.
+DNA was extracted at a later date.
+Analysis of Aromatic Compounds
+The total petroleum hydrocarbons were extracted from all soil
+samples using a supercritical fluid extractor (Model SFXTM 2-10;
+ISCO Inc., Lincoln, Neb.). The extraction conditions were modified
+from the standard method [10, 12], as follows: pressure, 350 atm;
+oven temperature, 80°C; restrictor temperature, 150°C; CO2, 60 ml;
+collection solvent, 5 ml hexane; soil, 3 g fresh sample. The extraction
+efficiency was determined to be approximately 65%, using
+[
+14C]naphthalene spiked into the soil prior to extraction.
+Internal standards and reference standards from the Internal
+Standard Mixture for EPA Methods 8240/CLP (Sigma Chemical
+Co., St. Louis, MO) were added to the extractant. Aromatic compounds
+(naphthalene, benzene, toluene, ethylbenzene, and xylenes)
+were analyzed by gas chromatography using an Auto System GC
+(Perkin Elmer Co., Norwalk, Conn.) with a 30-m (0.25-mm diameter)
+fused-silica capillary column (Restek Co., Belletonte, Pa.). The
+GC parameters were as follows: injection port, 250°C; flame ionization
+detector, 250°C; column, 40°C, 1 min, programmed to
+200°C with a rate of 8°C/min, hold 2 min; injection volume, 1 µl.
+Extraction and Purification of Total Soil DNA
+The method for extracting and purifying DNA from soil was a
+modified method based on direct cell lysis [34, 35]. Extracellular
+DNA was removed and the soil dispersed as follows: 1–5 g soil was
+placed in 50-ml Oak Ridge tube containing 10 ml 0.12 M buffer
+sodium phosphate, pH 8.0 (SP buffer), vortexed for 1 min, and
+incubated for 10 min at room temperature. Soil was centrifuged for
+10 min at 7,700 g. Supernatants were decanted and 10 ml SP buffer
+was added to the soil pellet. The vortexing and centrifugation steps
+were repeated once.
+The soil pellet was resuspended in 8 ml lysis solution I (0.15 M
+NaCl, 0.1 M EDTA, pH 8.0, 15 mg lysozyme/ml), mixed and incubated
+at 37°C for 1 h with occasional gentle mixing. Eight milliliters
+lysis solution II (0.1 M NaCl, 0.5 M Tris-HCl, pH 8.0, 10% SDS) was
+added. The soil suspension was passed through three cycles of
+freezing at −70°C for 20 min and thawing at 65°C for 20 min. The
+supernatant was transferred after centrifugation for 10 min at 7,700
+g, and 2.7 ml 5 M NaCl, 2.1 ml 10% CTAB (cetyl trimethylammonium
+bromide in 0.7 M NaCl) were added into supernatant, mixed,
+and incubated for 10 min at 65°C. An equal volume of
+CHCl3:isoamyl alcohol (24:1) was added, mixed, and centrifuged
+for 5 min at 3,000 g. The supernatant was transferred to a clean
+tube.
+An equal volume of 13% PEG (polyethylene glycol, 8,000 MW
+in 1.6 M NaCl) was added to the supernatants, incubated on ice for
+30 min or at 4°C overnight, and then centrifuged at 4°C for 10 min
+at 12,000 g. The supernatants were decanted. The pellet was washed
+with 5 ml 70% cold ethanol and air dried. The air-dried pellet was
+resuspended in 750 µl TER (0.2 mg RNase/ml TE, where TE is 10
+mM Tris, 1 mM EDTA, pH 8) and incubated for 30 min at 37°C.
+Ammonium acetate (10 M; NH4OAc) was added to crude DNA
+extracts, obtained above, to a final concentration of 2.5 M; the
+mixture was put on ice for 1 h or at 4°C overnight, and centrifuged
+for 15 min at full speed in an Eppendorf microcentrifuge. The
+supernatant was transferred into another tube; the pellet was redissolved
+in TE and 2.5 M NH4OAc and precipitated again. Two
+volumes of ethanol was added to the supernatants, mixed, and
+centrifuged for 30 min at full speed. The pellet was washed with 500
+µl 70% cold ethanol, and air dried. The pellet was redissolved in
+750 µl TE. DNA extract was passed through a Magic Minipreps
+Column (Magic Minipreps DNA Purification System, Promega
+Co., Madison, Wis.) following the manufacturer’s instructions.
+Fifty milliliters of 80°C preheated TE was used to elute DNA from
+the column.
+Quantitation of Soil DNA
+Concentrations of DAN solution were determined by using a DNA
+fluorometer (Model TKO 100, Hoefer Scientific Instruments, San
+Fig. 1. Map of field site. Stippled area represents zone of contamination;
+numbers represent sites of boreholes from which
+samples were taken.
+180 C. Guo et al.
+Francisco, Calif.) with bisbenzamide dye (Hoechest 33258, Sigma
+Chemical Co.) in 1× TNE (10 mM Tris-HCl, 1 mM EDTA, 0.1 M
+NaCl, pH 7.4) [18].
+Traces of soil organic matter in soil DNA may result in overestimation
+by binding to dye or underestimation by inhibiting
+fluorescence. Concentrations of pure Escherichia coli genomic DNA
+were underestimated fluorometrically when added to soil solution.
+The interference of organic matter was successfully accounted for
+by subtraction of DNase-digestible fluorescence (data not shown).
+The interference of trace humic acid was accounted for by DNase
+digestion (50 mg/ml, 25 mM MgCl2) at 37°C for 2 h. Concentrations
+of soil DNA were determined in the range from 0.2 to 2.5 mg
+DNA/g soil for samples from the Pullman soil site.
+Hybridization
+Soil DNA (0.5–1 µg) was denatured by boiling in 0.5 M NaOH for
+10 min, chilling in ice, and then neutralizing by addition of onethird
+volume of cold 3 M NH4OAC. The denatured DNA was
+blotted onto a Nytran nylon membrane (Schleicher & Schuell,
+Keene, N.H.) using a Bio-dot microfiltration apparatus (Bio-Rad
+Laboratories, Richmond, Calif.). The membrane was baked for 2 h
+at 80°C, in vacuum, before prehybridization.
+The strains and genes used for probes in this study are listed in
+Table 1. Dilution series of DNA from all gene probes were similarly
+applied to these membranes. The dilution series corresponding to
+the probe for a given hybridization served as a positive control and
+quantitative standard for each hybridization, and the other standard
+DNAs served as negative controls. Genomic DNA was isolated
+from E. coli and Bradyrhizobium japonicum by standard methods
+[23] and used as the negative controls for the group I Pseudomonas
+probe.
+Probes were prepared by digestion of plasmids with the appropriate
+enzymes, followed by recovery of the inserts from agarose by
+Gene Clean (Bio 101). Probes were labeled with 32P by random
+priming (GIBCO-BRL; Grand Island, N.Y.), according to the vendor’s
+instructions, to a specific activity of >108 cpm/µg.
+The membrane was prehybridized at 42°C in 5× Denhardt’s
+solution, 5× SSPE (Stock solution of 20× SSPE is 175.3 g NaCl, 27.6
+g NaH2PO4 z H2O, 7.4 g EDTA per liter), 50% formamide, 1% SDS,
+and 200 µg of denatured salmon sperm DNA per milliliter [23].
+Hybridization was performed for at least 24 h at the same temperature
+by adding denatured 32P-labeled probe. The membrane
+was washed twice with 1× SSPE, 1% SDS for 15 min at 55°C, and
+twice with 0.1 1× SSPE, 0.1% SDS for 15 min at 68°C. The washed
+filters were exposed to preflashed X-ray film (Amersham, Arlington
+Heights, Il.) at −70°C with a cassette (Halesy X-ray Products Inc.,
+Brooklyn, N.Y. [23].
+Autoradiographs were analyzed with a video camera (Model,
+TM-TCN, Pulnix America Inc., Sunnyvale, Calif.) and NIH Image
+1.52 program (National Institute of Health, Washington, D.C.).
+Quantitations of the DNA sequences homologous to gene probes in
+soil sample DNA were determined by using a regression equation
+based on a range of masses of positive control DNA. The limit of
+detection for all hybridizations was less than 1 pg positive control
+DNA.
+Results
+Isolation of DNA and Hybridization of Catabolic Genes to Field
+Soil Samples
+No significant differences in amounts of total DNA recovered
+were observed between contaminated and noncontaminated
+samples (Table 2).
+Hybridization data were expressed as mass equivalents of
+the probes hybridized against themselves. This is not necessarily
+equivalent to the masses of the target genes in the
+samples due to the possibility of heterologous hybridization
+with related, but different and unknown, genes. Expressing
+the hybridization data in terms of massequivalents of the
+target genes is a convenient means of comparing quantitative
+differences in hybridization between different samples and
+different genes. Stringencies of washing were maintained
+high in all cases, and no cross-hybridization was observed
+between any of the probes used in this study.
+Hybridization data are presented in two ways: (1) the
+mass equivalents per gram of soil (Table 2), and (2) the mass
+equivalents per microgram of total DNA (Table 3). Normalization
+of mass equivalents per gram of soil represents the
+absolute concentration of the hybridization-positive sequences
+in the soil, while normalization of mass equivalents
+to the mass of total DNA is an indicator of enrichment of the
+sequences within the community, regardless of whether the
+Table 1. Gene probes
+Genes used for probe Gene products or targets Original host strains References
+nahAcd (2.1 kbp) Component of naphthalene dioxygenase Pseudomonas putida G7 27
+xylE (2.2 kbp) Catechol 2,3-dioxygenase P. putida mt-2 30
+todC1C2BA (4.0 kbp) Toluene dioxygenase P. putida F1 38
+tmoABCDE (4.4 kbp) Toluene 4-monooxygenase P. mendocina KR1 37
+alkB (500 bp) Alkane hydroxylase P. oleovorans 11
+23S rDNA (360 bp) rRNA group I Pseudomonas group P. aeruginosa 7
+Molecular Indicators of Adaptation 181
+total community DNA decreases or increases as a result of
+the contamination. In addition, expression as mass equivalents
+per microgram of DNA eliminates variability due to
+differences in DNA purification efficiency between samples.
+Concentrations of mass equivalents per gram of soil are
+presented in Table 2. Hybridization of tmo, nahAcd, and xylE
+were significantly higher in the contaminated samples than
+in the noncontaminated samples (P = 0.05) and hybridization
+to the xylE probe was significant at the P = 0.01 level.
+No significant difference in hybridization of the group I
+Pseudomonas probe was noted between the contaminated
+and the noncontaminated samples. The level of hybridization
+was, in descending order, as follows: xylE > nahA >
+tmoABCDE. No hybridization was observed with either
+todC2C1BA or alkB.
+Hybridization normalized per microgram total DNA is
+presented in Table 3. Results were similar to those normalized
+per gram of soil, with the exception of the nahA probe,
+which was not significantly higher in the contaminated
+samples at the (P = 0.05 level). The standard errors in the
+nahA measurements were higher when normalized per microgram
+DNA than when normalized per gram soil. This
+relatively high variability probably resulted in a lack of significant
+difference at the P = 0.05 level. It should be noted
+that, in many cases, the standard error was higher when the
+data were normalized per microgram DNA than when normalized
+per gram of soil. This may be due to variability in
+measurement of soil DNA by fluorometry.
+Correlation Between Aromatic Residues and Catabolic Genes
+No linear relationships were found between the concentrations
+of these hydrocarbons and the genes tested (data not
+shown), although a nonlinear relationship did appear to exist
+between the summation of the concentrations of all of
+these aromatic hydrocarbons and the extent of hybridization
+of xylE (Fig. 2). Hybridization of xylE increased with increasing
+aromatic concentration up to approximately 100 mg
+aromatics/g soil. Above that concentration, the hybridization
+of xylE generally decreased.
+Microcosm Studies
+In order to study the hybridization dynamics of these genes
+in a well-controlled setting, gasoline was added at five difTable
+3. Gene mass-equivalents concentrations as pg positive control DNA per µg total DNAa
+Soil treatment
+DNA recovered
+(µg/g)
+Group I
+Pseudomonas nahAcd tmoABCDE xylE
+Noncontaminatedb 0.56 (±0.06) 36.5 (±7.9) 1.61 (±2.49) 0.13 (±0.05) 9.5 (±3.0)
+Contaminatedc 0.81 (±0.13) 34.8 (±7.8) 3.19 (±3.38) 0.38* (±0.09) 32.3** (±6.8)
+* Significant difference at 0.05 level by ANOVA analysis between contaminated
+and noncontaminated soil samples; ** significant difference at 0.01
+level
+a Significant hybridization was not detected with the alkB and todC1C2BA
+probes
+b Mean (± 1 standard error) based on 25 samples
+c Mean (± 1 standard error) based on 21 samples
+Table 2. Gene mass-equivalents concentrations as pg positive control DNA per g soila
+Soil treatment
+DNA recovered
+(µg/g)
+Group I
+Pseudomonas nahAcd tmoABCDE xylE
+Noncontaminated 0.56 (±0.06) 16.8 (±2.7) 0.81 (±0.23) 0.08 (±0.03) 5.4 (±1.7)
+Contaminatedc 0.81 (±0.13) 23.6 (±4.9) 2.10* (±0.6) 0.40* (±0.13) 28.0** (±8.2)
+* Significant difference at 0.05 level by ANOVA analysis between contaminated
+and uncontaminated soil samples; ** significant difference at 0.01
+level
+a Significant hybridization was not detected with the alkB and todC1C2BA
+probes
+b Mean (± 1 standard error) based on 25 samples
+c Mean (± 1 standard error) based on 21 samples
+182 C. Guo et al.
+ferent rates to soil microcosms. The concentrations of community
+DNA remained constant across all incubation times
+and treatments (data not shown). The concentrations of
+total petroleum hydrocarbons and aromatic hydrocarbons
+were not measured in the microcosm studies.
+Sequences hybridizing to the nahA gene were enriched in
+response to increasing concentrations of gasoline in the microcosms
+(Fig. 3). Increases of mass-equivalent concentrations
+on a microgram per gram-of-soil basis were observed
+in all gasoline treatments. Maximum hybridization was observed
+at 4 week’s incubation for the lowest gasoline concentration
+(0.5 mg/g soil) and the intermediate gasoline
+ranges (5, 35, and 75 mg/g soil) (Fig. 3). A cluster formed at
+the maximum hybridization in the intermediate gasoline
+treatments at 4 weeks, suggesting that the naphthalene utilizers
+were limited by resources other than naphthalene in
+the soil. At both the lowest and highest gasoline treatments,
+the maximum concentrations were lower than those at the
+intermediate gasoline ranges (Fig. 3). This may have resulted
+from the inhibition of organisms containing the target sequences
+by toxic components in the highest treatment, and
+from the deficiency of C in the lowest hydrocarbon treatment.
+The amount of hybridization decreased in all treatments
+after 4 weeks’ incubation time. The amount of hybridization
+at the lower gasoline treatments (0.5 and 5 mg
+gasoline/g soil) returned to below the detection limit (1 pg/
+µg DNA) by 8 weeks, and the two middle-range treatments
+were at or below the detectable level. In contrast, hybridization
+was maintained at relatively high levels at the higher
+gasoline treatments (75 and 125 mg) at the 16-week incubation
+time.
+Among the genes involved in degradation of toluene and
+its metabolites, a much higher level of hybridization was
+observed with the xylE gene probe (Fig. 4) than with either
+tmoABCDE or todC1C2BA (data not shown). The extent of
+hybridization increased with increasing gasoline dosages for
+the 0.5-, 5- and 35-mg/g treatments, and the maximum hybridization
+occurred at 4 weeks for these treatments. A decreasing
+trend was observed with increasing gasoline concentrations
+at 75- and the 125-mg/g treatments at the
+4-week incubation, indicating that there may have been increasing
+inhibition at the higher dosages. This inhibition
+may have been alleviated during the later timepoints due to
+degradation and volatilization, as indicated by the rise in
+hybridization at the later timepoints.
+The tmoABCDE probe hybridized to a significantly lower
+extent than did the xylE genes (data not shown). A doseresponse
+effect at the lower gasoline dosages and a toxic
+effect at the higher gasoline dosages were observed similar to
+that with the xylE probe. Hybridization of the todC1C2BA
+probe followed a similar trend to the tmoABCDE and xylE
+probes, although todC1C2BA was higher at all dosages and
+timepoints than the tmoABCDE gene (data not shown).
+The trends of sequences hybridizing to the 23S rRNA of
+group 1 Pseudomonas sp. were different than for the catabolic
+genes (Fig. 5). There was no clear dose-response relationship
+between hybridization and dosage until the 6-week
+timepoint, and the highest amount of hybridization was observed
+with the 125-mg treatment level at almost all timepoints.
+The maximum hybridization was observed at the
+Fig. 2. Relationship between concentrations of total aromatic
+compounds (toluene, xylenes, and naphthalene) and hybridization
+with xylE. Fig. 3. Microcosm DNA hybridization with nahA gene probe.
+Various rates of gasoline (from 0 to 125 mg gasoline/g soil) were
+added to 500 g soil. Extent of hybridization is represented as pgpositive
+control DNA per µg total DNA. Error bars represent ± 1
+standard deviation based on three replicates.
+Molecular Indicators of Adaptation 183
+4-week incubation time and decreased to a stable level at 8
+weeks.
+The alkB probe was not included in the battery of probes
+used in the microcosm studies.
+Discussion
+We used a battery of gene probes in conjunction with direct
+DNA extraction from soil to monitor changes occurring in
+soil microbial communities exposed to petroleum contamination
+in field and microcosm studies. Several genes were
+selected as probes on the basis of their encoded enzyme
+activities involved in catabolism of common fuel oil components
+such as BTEX compounds, naphthalene, and alkanes.
+One gene fragment was chosen as an indicator of the
+presence of rRNA group I Pseudomonas species, a group of
+bacteria frequently associated with the degradation of aromatic
+compounds. The field site chosen for these studies had
+a history of hydrocarbon exposure due to leaking underground
+storage tanks, dating back to the turn of the century.
+As expected, samples taken from soils contaminated with
+fuel oil (as determined by analysis of toluene, xylenes, ethylbenzene,
+and naphthalene by gas chromatography) were
+significantly enriched in several of the bacterial genes that
+encode enzymes that catabolize these compounds. DNA
+from the contaminated samples was significantly enriched in
+most of these genes, relative to DNA from the noncontaminated
+site. The highest level of significance (P = 0.01) between
+contaminated and noncontaminated soils was observed
+with xylE, which encodes catechol-2,3-dioxygenase
+from the TOL plasmid, pWW0. The pathway encoded by
+pWW0 attacks xylenes, which were a major component of
+the gasoline present in these soils. The absence of hybridization
+of any samples with the alkB gene was somewhat
+surprising, since alkanes make up a significant proportion of
+gasoline hydrocarbons, but it is not unprecedented. Berthelet
+and Greer [4] studied samples taken from 35 sites contaminated
+with fuel oil and found that approximately 33%
+of these sites did not yield amplification products with PCR
+primers directed toward this gene.
+The observation that most of the catabolic genes used in
+this study hybridized to DNA from noncontaminated
+samples was expected. These genes are likely to be widely
+distributed in soils and may be involved in the utilization of
+similar aromatic compounds released from soil organic matter.
+The fact that they are enriched in the contaminated sites
+is reflective of the higher concentrations of the primary substrates
+present in the contaminated sites.
+A linear relationship was not observed between the extent
+of hybridization of the catabolic genes and the concentrations
+of the measured aromatic hydrocarbons detected (for
+example, see Fig. 2) at all concentrations in the field studies.
+A linear increase between the concentrations of the measured
+aromatics and hybridization of xylE existed up to approximately
+100 µg/g, but hybridization rapidly decreased as
+a function of aromatic compound concentration above this
+level. Short-chain hydrocarbons present in gasoline are toxic
+Fig. 5. Microcosm DNA hybridization with group I Pseudomonas
+probe. Various amounts of gasoline (from 0 to 125 mg gasoline/g
+soil) were added to 500 g soil. Extent of hybridization is represented
+as pg-positive control DNA per µg total DNA. Error bars represent
+± 1 standard deviation based on three replicates.
+Fig. 4. Microcosm DNA hybridization with xylE gene probe.
+Various rates of gasoline (from 0 to 125 mg gasoline/g soil) were
+added to 500 g soil. Extent of hybridization is represented as pgpositive
+control DNA per µg total DNA. Error bars represent ± 1
+standard deviation based on three replicates.
+184 C. Guo et al.
+to microorganism [2], and it is likely that this toxicity inhibited
+the hosts of these genes at high concentrations. Inhibition
+was also observed in the microcosm studies at the
+higher concentrations (greater than 75 mg gasoline added
+per gram of soil). In our study, 75 mg gasoline used in the
+microcosms contained 197.7 µg aromatic hydrocarbons/g
+gasoline. This corresponds to 14,827.5 µg of the measured
+aromatics added per gram of soil, or over 100 times the level
+observed for inhibition in the field studies. A number of
+factors may explain this difference, including the following:
+(1) the field site was very old, and it is likely that simple
+aromatics had been degraded to a greater extent than the
+more toxic short-chain alkanes over the long period of contamination;
+(2) the composition of the gasoline applied to
+the microcosms was probably different from that released at
+the field site; and (3) the microcosms were an open system
+and therefore subject to volatilization. We did not monitor
+loss of the gasoline throughout the course of the experiment,
+and it is likely that the concentration of gasoline components
+decreased soon after application, due to volatilization.
+A range of concentrations of gasoline were applied to the
+microcosms in hopes of determining the lowest amount of
+gasoline required for observation of a significant increase in
+the hybridization of the gene probes. The lowest concentration
+used in these experiments was 0.5 mg gasoline/g soil,
+and a measurable increase in hybridization to all catabolic
+genes (except alkB, which was not included in the microcosm
+studies) was observed at this level. Hybridization intensity
+of all catabolic genes had either returned to background
+levels, or was approaching background levels, following
+16 weeks’ incubation of the 0.5, 5, and 35 mg
+gasoline/g treatments. No toluene, xylenes, or naphthalene
+were detected in any treatment at the 16-week sampling. It is
+likely that all of the aromatic compounds utilized as nutrient
+sources for these organisms had either been degraded or
+volatilized before the 16-week time point. In contrast, hybridization
+in the 75- and 125-mg/g treatments were at their
+highest levels at the 16-week timepoint, suggesting that the
+growth of the hosts of these genes was probably inhibited at
+the higher concentrations until the toxins were either degraded
+or volatilized. Then, these organisms would have
+responded to the added carbon sources. Since none of the
+primary substrates of these genes were detected at the 16-
+week timepoint in these studies, it is likely that the levels of
+hybridization in these treatments would approach background
+levels if the experiment had been extended several
+weeks. This is in contrast to what was observed at the field
+site, where no significant difference was observed in the
+hybridization of this probe between the contaminated and
+the noncontaminated sites. The reason for this difference is
+unknown at this time.
+The trend of hybridization to the group I Pseudomonas
+probe was fundamentally different from that observed with
+the catabolic probes in the microcosm studies. No apparent
+inhibition was observed in the higher gasoline concentrations,
+and no significant enrichment was observed for the
+0.5-mg/g treatment. A clear dose-response relationship was
+observed by the 8-week sampling; hybridization increased
+with increasing gasoline additions. This trend remained
+through the 16-week timepoint. These bacteria were of interest
+due to their importance in the degradation of aromatic
+hydrocarbons, and many of the genes used in this study were
+originally cloned from members of the rRNA group I Pseudomonas
+sp. These data suggest that group I Pseudomonas sp.
+that harbor genes that do not hybridize with the catabolic
+probes used in this study are present in this soil, and that the
+majority of these strains are less sensitive to high concentrations
+of gasoline than are the hosts of the probes used
+here. The rapid and significant increase in hybridization
+with these probes (except in the 0.5-mg/g treatment) suggests
+that these strains are utilizing gasoline components as
+a nutrient source, and that the genetic systems harbored by
+these organisms may be important in the remediation of
+high levels of gasoline contamination that would inhibit the
+hosts of the probes used in this study.
+There are a number of criteria by which a suitable indicator
+of community adaptation to a contaminant might be
+judged, including (1) the sensitivity of the indicator to small
+amounts of the contaminant; (2) the ease in distinguishing
+background levels of the indicator from levels associated
+with the contaminant; (3) the return of the indicator to
+background levels soon after the removal of the contaminant;
+and (4) the generality of the indicator in a variety of
+soils. This work has shown that sequences hybridizing to
+xylE are sensitive indicators of contamination and the adaptation
+of soil microbial communities to exposure to low
+levels of gasoline contamination. The microcosm studies
+were in agreement with the field studies for this probe and
+indicated that levels of 0.5 mg gasoline/g were sufficient to
+enrich soil communities in these sequences. This enrichment
+did not persist in the microcosms for long periods of time
+following the disappearance of aromatic hydrocarbons, indicating
+that these sequences return to background levels
+soon after the gasoline has been removed. Hybridization of
+sequences to this gene may be a useful indicator of the extent
+of remediation of a gasoline contaminated site.
+Molecular Indicators of Adaptation 185
+The xylE probe was not a sensitive indicator of high levels
+of contamination, however, due to the probable inhibition
+of the hosts of these sequences at higher concentrations of
+gasoline. The group I Pseudomonas probe was more sensitive
+at the higher hydrocarbon concentration treatments in the
+microcosm studies, although this was not true of the field
+site. This discrepancy may indicate that there are unknown
+ecological factors not related to gasoline contamination that
+affect the concentrations of these sequences, and this probe
+is less likely to be a reliable general indicator of contamination
+than the xylE probe.

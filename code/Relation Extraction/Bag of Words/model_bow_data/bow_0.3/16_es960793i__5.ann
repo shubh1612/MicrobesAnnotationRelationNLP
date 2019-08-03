@@ -1,0 +1,54 @@
+T1	Property 0 11	Ecotoxicity
+T2	ReactionOrProcess 12 21	Bioassays
+T3	Environment 143 153	oily soils
+T4	Environment 143 153	oily soils
+T5	Environment 148 153	soils
+T6	Property 121 135	acute toxicity
+T7	Property 127 135	toxicity
+T8	Property 127 135	toxicity
+T9	Environment 300 304	soil
+T10	Environment 285 304	uncontaminated soil
+T11	Environment 466 470	soil
+T12	ReactionOrProcess 419 429	replicates
+T13	Environment 590 608	bioremediated soil
+T14	Environment 537 546	oily soil
+T15	Environment 542 546	soil
+T16	Environment 604 608	soil
+T17	Environment 701 705	soil
+T18	Property 572 586	concentrations
+T19	Environment 711 715	soil
+T20	Environment 803 808	soils
+T21	Environment 716 721	water
+T22	Property 878 889	temperature
+T23	ReactionOrProcess 859 869	incubation
+T24	Environment 1208 1218	oily soils
+T25	Environment 1208 1218	oily soils
+T26	Environment 1213 1218	soils
+T27	Property 1155 1166	luminescent
+T28	Environment 1291 1295	Soil
+T29	ReactionOrProcess 1354 1363	incubated
+T30	Environment 1516 1520	soil
+T31	Environment 1610 1614	soil
+T32	Environment 1640 1644	soil
+T33	Environment 1878 1888	oily soils
+T34	Environment 1878 1888	oily soils
+T35	Environment 1883 1888	soils
+T36	Environment 1864 1888	bioremediated oily soils
+T37	Property 2108 2119	temperature
+T38	Environment 2153 2163	Oily soils
+T39	Environment 2153 2162	Oily soil
+T40	Environment 2153 2163	Oily soils
+T41	Environment 2158 2163	soils
+T42	Environment 2186 2191	soils
+T43	Substrate 2153 2156	Oil
+T44	Environment 2363 2367	soil
+T45	Environment 2417 2421	soil
+T46	Environment 2491 2495	soil
+T47	Property 2589 2600	temperature
+T48	Environment 2626 2630	Soil
+T49	Environment 2674 2678	soil
+T50	Environment 2721 2725	soil
+T51	Environment 2758 2763	water
+T52	ReactionOrProcess 2835 2849	bioremediation
+T53	Environment 3021 3025	soil
+T54	ReactionOrProcess 3004 3010	washed

@@ -1,0 +1,62 @@
+T1	Microbes 54 78	heterotrophic population
+T2	Environment 13 21	dry soil
+T3	Property 528 541	biosurfactant
+T4	ReactionOrProcess 604 619	bioaugmentation
+T5	Environment 845 859	untreated soil
+T6	Environment 866 878	treated soil
+T7	Environment 916 928	treated soil
+T8	ReactionOrProcess 710 749	denaturing gradient gel electrophoresis
+T9	ReactionOrProcess 754 768	biodegradation
+T10	Environment 1155 1159	soil
+T11	Environment 1136 1140	soil
+T12	Property 1167 1189	water-holding capacity
+T13	ReactionOrProcess 1084 1088	DGGE
+T14	ReactionOrProcess 984 998	biostimulation
+T15	ReactionOrProcess 1336 1351	bioaugmentation
+T16	ReactionOrProcess 1384 1388	DGGE
+T17	Environment 1476 1490	untreated soil
+T18	ReactionOrProcess 1528 1532	DGGE
+T19	ReactionOrProcess 1620 1634	biostimulation
+T20	ReactionOrProcess 1910 1914	DGGE
+T21	ReactionOrProcess 1990 2012	maximum biodegradation
+T22	ReactionOrProcess 2120 2130	incubation
+T23	ReactionOrProcess 2180 2190	reductions
+T24	ReactionOrProcess 2211 2225	biodegradation
+T25	Environment 2308 2329	PAH-contaminated soil
+T26	Environment 2441 2468	crude oil-contaminated soil
+T27	ReactionOrProcess 2423 2437	bioremediation
+T28	ReactionOrProcess 2591 2619	principal-component analysis
+T29	ReactionOrProcess 2470 2498	Principal-component analysis
+T30	Environment 2732 2742	microcosms
+T31	ReactionOrProcess 2710 2714	DGGE
+T32	ReactionOrProcess 2781 2795	biostimulation
+T33	Environment 2873 2887	untreated soil
+T34	Environment 2954 2972	biostimulated soil
+T35	Environment 3128 3142	untreated soil
+T36	ReactionOrProcess 3272 3282	incubation
+T37	ReactionOrProcess 3028 3042	biostimulation
+T38	ReactionOrProcess 3386 3396	incubation
+T39	ReactionOrProcess 3635 3649	biostimulation
+T40	ReactionOrProcess 3811 3825	biostimulation
+T41	Substrate 3988 3991	TPH
+T42	ReactionOrProcess 3959 3969	incubation
+T43	ReactionOrProcess 3992 4006	biodegradation
+R1	FoundIn Arg1:T1 Arg2:T2
+R2	OccursIn Arg1:T8 Arg2:T5
+R3	OccursIn Arg1:T8 Arg2:T6
+R4	OccursIn Arg1:T8 Arg2:T7
+R5	OccursIn Arg1:T9 Arg2:T5
+R6	OccursIn Arg1:T9 Arg2:T6
+R7	OccursIn Arg1:T9 Arg2:T7
+R8	OccursIn Arg1:T13 Arg2:T10
+R9	OccursIn Arg1:T13 Arg2:T11
+R10	OccursIn Arg1:T14 Arg2:T10
+R11	OccursIn Arg1:T14 Arg2:T11
+R12	OccursIn Arg1:T18 Arg2:T17
+R13	OccursIn Arg1:T27 Arg2:T26
+R14	OccursIn Arg1:T31 Arg2:T30
+R15	OccursIn Arg1:T32 Arg2:T30
+R16	OccursIn Arg1:T36 Arg2:T35
+R17	OccursIn Arg1:T37 Arg2:T35
+R18	CarriedOn Arg1:T42 Arg2:T41
+R19	CarriedOn Arg1:T43 Arg2:T41

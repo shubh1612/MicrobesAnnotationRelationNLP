@@ -1,0 +1,28 @@
+T1	Environment 201 225	aerobic activated sludge
+T2	Substrate 337 346	aromatics
+T3	Property 337 346	aromatics
+T4	Property 375 385	pollutants
+T5	ReactionOrProcess 426 447	little biodegradation
+T6	ReactionOrProcess 558 569	incubations
+T7	ReactionOrProcess 433 447	biodegradation
+T8	Environment 777 789	aerobic soil
+T9	Environment 785 789	soil
+T10	ReactionOrProcess 762 773	incubations
+T11	Environment 1001 1025	aerobic activated sludge
+T12	ReactionOrProcess 982 990	degraded
+T13	Microbes 1132 1148	aerobic bacteria
+T14	Substrate 1057 1066	aromatics
+T15	Substrate 1272 1281	aromatics
+T16	Property 1057 1066	aromatics
+T17	Property 1272 1281	aromatics
+T18	ReactionOrProcess 1326 1334	reducing
+T19	Enzyme 1663 1673	oxygenases
+T20	Substrate 1808 1817	aromatics
+T21	Property 1808 1817	aromatics
+T22	ReactionOrProcess 2248 2258	incubation
+T23	Environment 2340 2344	soil
+T24	Environment 2362 2382	anaerobic conditions
+T25	ReactionOrProcess 2307 2321	biodegradation
+T26	ReactionOrProcess 2471 2480	reduction
+T27	ReactionOrProcess 2435 2446	degradation
+T28	ReactionOrProcess 2425 2446	Anaerobic degradation

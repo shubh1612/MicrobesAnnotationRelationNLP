@@ -1,0 +1,189 @@
+B39
+Bioremediation of oily sludge-contaminated soil by stimulating indigenous microbes
+Authors
+Authors and affiliations
+Wuxing LiuYongming LuoEmail authorYing TengZhengao LiLena Q. Ma
+1.
+2.
+Original Paper
+First Online: 12 April 2009
+DOI: 10.1007/s10653-009-9262-5
+Cite this article as:
+Liu, W., Luo, Y., Teng, Y. et al. Environ Geochem Health (2010) 32: 23. doi:10.1007/s10653-009-9262-5
+52
+Citations
+Abstract
+In situ bioremediation of oily sludge-contaminated soil by biostimulation of indigenous microbes through adding manure was conducted at the Shengli oilfield in northern China. After bioremediation for 360 days, total petroleum hydrocarbon (TPH) content was reduced by 58.2% in the treated plots compared with only 15.6% in the control plot. Moreover, bioremediation significantly improved the physicochemical properties of the soil in the treated plot. Soil microbial counts and community-level physiological profiling were also examined. Manure addition increased TPH degraders and polycyclic aromatic hydrocarbon (PAH) degraders in the contaminated soil by one to two orders of magnitude. The activity and biodiversity of soil microbial communities also increased markedly in the treated plot compared with that of the control. Finally, biotoxicity was used to evaluate the soils and a sharp increase in the EC50 of the soil after bioremediation was observed, indicating that bioremediation had reduced the toxicity of the soil.
+
+Keywords
+
+Bioremediation Biostimulation In situ Microbial community Oily sludge 
+Introduction
+Environmental contamination by petroleum and its derivatives is a serious problem worldwide. Considerable amounts of hydrocarbons have been released into water and soil as a result of pipeline leaks, transport accidents, and storage tank ruptures. Apart from incidental contamination of the ecosystem, vast amounts of oily sludge generated in water–oil separation systems at oilfields and accumulation of waste oily materials in crude-oil storage tanks also causes problems to the environment (Mrayyan and Battikhi 2005). Many components of oily sludge are toxic, mutagenic, and carcinogenic. They are therefore classified as priority environmental pollutants by the US Environmental Protection Agency (USEPA 1986) and are also on the list of dangerous solid wastes in China. Improper disposal of oily sludge may contaminate soil and pose a serious threat to groundwater.
+
+Petroleum-contaminated soil is currently treated using three methods: physical, chemical, and biological. Physical or chemical methods include incineration, chlorination, ozonation, and combustion (Ting et al. 1999). Many of these technologies, however, are either costly or do not completely remove contaminants. On the other hand, biological treatment (bioremediation) appears to be among the most promising methods for dealing with a wide range of organic contaminants, particularly petroleum hydrocarbons. The technology is also environmentally sound since it simulates natural processes and can result in the complete destruction of hazardous compounds into innocuous products (Balba et al. 1998). For this reason, a number of studies on bioremediation of petroleum-contaminated soils have been carried out (Venosa et al. 1997; Jorgensen et al. 2000; Ding et al. 2002; Sabat’e et al. 2004). There are numerous studies on the bioremediation of petroleum-contaminated soil, but there are few (Mishra et al. 2001; Mrayyan and Battikhi 2005) studies on bioremediation of oily sludge-contaminated soil. One explanation for this may be that most of the work is performed by companies, who do not publish their results for proprietary reasons.
+
+Shengli oilfield (located at 36°55′–38°10′N 118°07′–119°10′E) is the second largest oilfield in China and thousands of tonnes of oily sludge are generated and piled up on the ground every year. It is therefore urgent to devise effective methods to treat the sludge-contaminated soil. In the present study, in situ biostimulation through adding manure was used to reclaim the oily sludge-contaminated soil.
+
+Materials and methods
+Site selection and experimental design
+An in situ bioremediation study on an oily sludge-contaminated soil (30 m2) was conducted from May 2004 to May 2005 at the Shengli oilfield, Shandong Province, northern China (average annual rainfall of 533 mm, mean temperature of −4.1°C in January and +24.7°C in July). The site was separated into two plots, designated treated and control plots. The two plots were subdivided into three equal subplots and adjacent plots were separated by a 30-cm gap. Aliquot (5%) of manure containing a small quantity of rice straw, collected fresh from a nearby pigsty, was added to the treated plot while the other plot was maintained as a control. The soils in both plots were thoroughly tilled and watered at required intervals to maintain proper aeration and water supply.
+
+Sampling
+Soil samples were taken at 0 days (initiation of experiment) and 360 days (end of treatment) from all subplots. Five samples were taken randomly from every subplot (0-30 cm depth) and combined to give three composite samples from treated and control plots. The composite samples were stored at 4°C for a maximum of 7 days before analysis.
+
+Analysis of physicochemical properties of contaminated soil
+Physicochemical properties of soil samples at 0 and 360 days from each subplot were characterized. Air-dried and pulverized soil samples were analyzed for organic matter, water-holding capacity (WHC), pH, hydrolyzable nitrogen, and available phosphorus and potassium using standard methods (Lu 1999).
+
+Analyses of contaminants
+Aliquots (10 g) of subsamples of air-dried and pulverized soil were mixed with equal volume of anhydrous Na2SO4. Then the mixtures underwent Soxhlet extraction with dichloromethane (DCM) for 24 h. The extract was then concentrated to dryness with a rotary evaporator. The flask was reweighed to determine the total petroleum hydrocarbon (TPH) content. A glass column (20 mm internal diameter, 300 mm long) was filled with 3 g activated silica gel and 2 g Al2O3 suspended in n-hexane. TPH (0.05 g) was dissolved in 30 ml n-hexane for 12 h and then filtered with a funnel stuffed with absorbent cotton. The filtrate was evaporated to 3–5 ml at 40°C and then loaded at the top of the column. The column was then successively eluted with 30 ml n-hexane, 20 ml chloroform-n-hexane (1:1), 10 ml DCM, and 10 ml of ethanol sequentially. The fractions eluted with the solvents n-hexane and chloroform-n-hexane are referred to as alkanes and aromatics, respectively. The fraction eluted with 10 ml DCM and 10 ml ethanol represents resins. Finally, the funnel was eluted with chloroform and this fraction was comprised of asphaltenes. The solvent present in each of these fractions was evaporated and the residual oil was determined by gravimetric measurement.
+
+Microbial counts and community-level physiological profiling analysis
+The heterotrophic bacteria were enumerated on nutrient agar plates. TPH degraders and polyaromatic hydrocarbon (PAH) degraders were enumerated by the most probable number (MPN) technique (Wrenn and Venosa 1996). The community-level physiological profiling (CLPP) of the soil microbial communities was analyzed with Gram-negative (GN) microplates (BIOLOG Inc.). Aliquots of 10−3 dilutions were used to inoculate GN plates (150 μl per well) and incubated at 30°C. The plates were read every 12 h (OD590) over 132 h using a BIOLOG automated plate reader. All wells were blanked to the control well A1. For the BIOLOG data, average well color development (AWCD) was calculated as described by Garland et al. (2001). The Shannon index, McIntosh index, and richness of soil microbial communities were used to measure species metabolic diversity. The Shannon index and McIntosh index were calculated according to Liu et al. (2006). Richness refers to the total number of carbon sources utilized in GN plates.
+
+Toxicity assay
+Extraction of soil samples
+DCM and dimethyl sulfoxide (DMSO) were used to extract the soil according to the method of Grazyna et al. (2005). Briefly, aliquots of 5 g pulverized soil were extracted for 24 h in a Soxhlet extractor with DCM. The extracts were reduced to 5 ml in a rotary evaporator and then 5 ml DMSO was added. The mixture was evaporated under reduced pressure to 5 ml.
+
+Biotoxicity assay
+The method is based on the analysis of reduction in light emission by Photobacterium phosphoreum T3 under toxic stress. Soil DCM/DMSO extracts and DMSO (control) were tested. All bioassays were carried out in triplicate and light output was measured using a portable luminometer (Model DXY-2). The luminometer and P. phosphoreum T3 were obtained from the Institute of Soil Science, Chinese Academy of Sciences, Nanjing. Toxicity results were reported as the effective concentration promoting a 50% reduction (EC50) in light emitted by the bacteria. The full experimental procedure was described by Bundy et al. (2004). Briefly, P. phosphoreum T3 suspensions (100 μl) were added to mixtures containing 100 μl DMSO extract, 200 μl 15% (w/v) NaCl solution, and 600 μl distilled water. Luminescence was read at 20°C after 15 min.
+
+Statistical analysis
+The data were analyzed for significant differences (P < 0.05) between treatments using two-way analysis of variance (ANOVA).
+
+Results and discussion
+Soil properties
+The soil was black in color before bioremediation due to heavy oily sludge contamination and lack of vegetation. This may be due to a relatively low WHC in the presence of a large amount of oil, inhibiting seed germination. However, after bioremediation thinly scattered wild plants, such as Eleusine indica (L.) Gaertn. and Echinochloa crusgalli (L.) Beauv, etc., were observed. This was attributed mainly to the increase in the WHC, resulting from the substantial reduction of oil content in the soil due to microbial biodegradation (Table 1).
+Table 1
+Selected physicochemical properties of oily sludge-contaminated soils
+Soil property
+0 days
+360 days
+Control
+Treated
+Control
+Treated
+pH
+7.2 ± 0.1
+7.2 ± 0.1
+7.2 ± 0.1
+7.3 ± 0.1
+Water-holding capacity (%)
+12.1 ± 2.3
+16.2 ± 0.6
+24.1 ± 3.3
+86.6 ± 5.2
+Organic matter (g kg−1)
+476.0 ± 53.8
+452.7 ± 8.3
+412.4 ± 35.2
+340.0 ± 54.6
+Hydrolyzable nitrogen (mg kg−1)
+50.5 ± 14.8
+153.7 ± 6.8
+36.2 ± 6.5
+66.3 ± 5.1
+Available phosphorus (mg kg−1)
+1.9 ± 0.5
+96.4 ± 5.8
+1.6 ± 0.2
+53.1 ± 26.6
+Available potassium (mg kg−1)
+22.7 ± 3.8
+698.0 ± 24.6
+18.5 ± 4.2
+438.1 ± 44.2
+Trindade et al. (2005) suggested that the optimum ratio of carbon to nitrogen to phosphorous (C:N:P) was 100:1.25:1 for bioremediation of hydrocarbon-contaminated soils. Table 1 shows that both hydrolyzable N and available P were seriously deficient in the contaminated soil before bioremediation. Addition of 5% manure to the treatment plot significantly increased (P < 0.01) the concentration of nutrient elements in the soil, and hydrolyzable N, available P, and available K in the treated plots were markedly higher than in the control until the end of the experiment, which may help to stimulate growth of hydrocarbon degraders.
+
+Hydrocarbon degradation
+The chemical composition and percentage decrease of TPH in the contaminated soil collected at 0 and 360 days from the from control and treated plots are shown in Table 2. Initially, the TPH concentration in the treated and control soil (0–30 cm horizon) was 241 and 251 g kg−1 dry soil, respectively. After 360 days of bioremediation it was reduced to 101 g kg−1 dry soil in the treated plot, a reduction of 58.2% compared with 15.6% in the control plot. The removal of various fractions of TPH is also shown in Table 2. The results showed that different components of the hydrocarbons had different degrees of degradability; for example, the aliphatic hydrocarbons and the aromatics may have been readily degraded but the resins and asphaltenes are inherently recalcitrant (Atlas 1984).
+Table 2
+Total petroleum hydrocarbon and petroleum fractions in the soil at the bioremediation site
+ 	
+0 days (g kg−1)
+360 days (g kg−1)
+Control
+Treated
+Control
+Treated
+TPH
+251.4 ± 3.1
+240.5 ± 8.9
+212.3 ± 13.1
+100.6 ± 12.6
+Aromatics
+92.2 ± 24.2
+88.0 ± 2.5
+64.5 ± 3.1
+36.5 ± 5.8
+Alkanes
+122.1 ± 2.8
+115.0 ± 4.8
+102.4 ± 10.3
+30.3 ± 7.3
+Resins
+42.4 ± 2.7
+35.2 ± 7.3
+36.8 ± 1.3
+29.1 ± 4.4
+Asphaltenes
+11.0 ± 0.9
+10.4 ± 0.5
+10.2 ± 0.7
+7.4 ± 0.9
+Microbial populations
+The heterotrophic bacteria, TPH degraders, and PAH degraders were deficient in the contaminated soil before bioremediation (Table 3). It was reported that, when the population of indigenous microorganisms capable of degrading the target contaminant is less than 105 colony-forming units (cfu) g−1 of soil, bioremediation will not occur at a significant rate (Hinchee et al. 1995). In fact, the indigenous bacteria capable of degrading hydrocarbons are ubiquitous. However, the environmental conditions in the oily sludge-contaminated soil negatively affected the growth of those bacteria. It was reported that petroleum-contaminated soil with poultry may promote growth of the indigenous degraders in it (Rahman et al. 2002). In this experiment an aliquot (5%) of manure was added to the treated plot and it can be seen that the populations of heterotrophic bacteria, TPH degraders, and PAH degraders in the treatment plot soil were one to two orders of magnitude higher than in the control after addition of manure to soil, and the populations of these microorganisms were also significantly higher (P < 0.05) than that in the control at the end of the experiment (360 days), indicating that amendment with manure had increased and stimulated TPH and PAH degraders in the soil. Previous study showed pig dung contains 1.7 × 106 cfu g−1 crude oil-degrading bacteria (Bello 2007). So the possible reason was that manure itself contains a diverse range of microorganisms in addition to being a nutrient source.
+Table 3
+Heterotrophic bacteria, total petroleum hydrocarbon degraders, and polycyclic aromatic hydrocarbon degraders in the soil
+ 	
+0 days (g kg−1)
+360 days (g kg−1)
+Control
+Treated
+Control
+Treated
+Heterotrophic bacteria (×107 cfu g−1)
+0.3 ± 0.3
+17.9 ± 3.0
+8.2 ± 0.4
+17.5 ± 0.6
+TPH degraders (×104 MPN g−1)
+5.0 ± 1.7
+54.9 ± 6.3
+9.3 ± 1.2
+71.3 ± 6.8
+PAH degraders (×103 MPN g−1)
+2.8 ± 0.9
+91.8 ± 14.7
+67.0 ± 12.5
+757.7 ± 179.1
+Soil microbial community structure
+Wuensche et al. (1995) demonstrated that substrate utilization patterns as recorded with the BIOLOG system are suitable for rapidly assessing the dynamics of autochthonous soil communities and evaluating their biodegradative potential. AWCD and diversity index were analyzed using BIOLOG data to detect differences among treatments in the experiment. The activity of soil microbial communities evaluated by AWCD in the treated soil markedly increased (P < 0.05) compared with that of the control plot after 360 days remediation (Fig. 1). AWCD was an important indicator, reflecting sole carbon source utilization ability. This indicates that the addition of manure has an important influence on the microbial activity. The absorbance of each well in the BIOLOG plates at 72 h was used to calculate diversity indices of the microbial community in the oily sludge in different plots. The values of McIntosh index, Shannon index, and richness are shown in Table 4. Statistical analyses using ANOVA also showed that there were significant differences between treated and control plots (P < 0.05) for microbial community diversity indexes after bioremediation. The Shannon index (H′) provides information about the distribution of carbon source utilization by microbial communities (Bronwyn et al. 1997). While richness index considers only the number of carbon sources utilized in GN plates, the McIntosh index provides information on species richness based on number of species and their abundances (Norhayati et al. 2002). Thus, it can be concluded that, not only did TPH markedly decrease, but also microbial activity, species, and diversity of the soil microorganism community increased after the experiment in the treated plots. It must be emphasized that CLPP is not a culture-independent method, but rather is biased towards fast-growing, easily cultivable species (Smalla et al. 1998). Thus, CLPP should not be seen as a standalone method, but can be highly complementary to other approaches (e.g., classical and molecular) in the polyphasic analysis of microbial communities.
+
+Fig. 1
+Changes in average well color development (AWCD) of soil microbial community in different plots during incubation. Error bars: ±1 standard deviation (SD, n = 3)
+Table 4
+Diversity indices of the microbial community in different plots
+Treatment
+Shannon index
+McIntosh index
+Richness
+Control (0 days)
+4.14 ± 0.01
+2.27 ± 0.17
+44.0 ± 3.6
+Control (360 days)
+4.25 ± 0.03
+6.47 ± 0.21
+73.0 ± 6.3
+Treated (360 days)
+4.42 ± 0.02
+7.99 ± 0.24
+83.3 ± 4.9
+Biotoxicity assay
+There are no universal TPH cleanup standards for soils contaminated with crude oils (Salanitro et al. 1997). Some guidelines were developed mainly for oil concentration, but petroleum contains hundreds of individual compounds with varying toxicity, mutagenicity, and carcinogenicity. Ecotoxicity bioassays should therefore be used as supplementary tools for monitoring treatment effects (Grazyna et al. 2005). The toxicity of the oily sludge-contaminated soil is mostly caused by the organic compounds in it. It is known that these materials have very low aqueous solubility. Thus the solvent DCM can extract the organic compounds, even those strongly adsorbed, for toxicity tests. However, DCM itself is highly toxic to the bioindicator P. phosphoreum T3. DMSO has low toxicity to the bacterium but the solubility of hydrocarbons in DMSO is lower than in DCM. A solvent exchange procedure therefore had to be performed with DCM/DMSO. In this experiment, the toxicity of the soil was measured in the different treatments before and after bioremediation. A sharp increase in the EC50 of the soil after 360 days bioremediation was observed in both treated and control plots (Fig. 2); the EC50 of the treated plots was the highest, which indicates that bioremediation reduced the toxicity of the compounds in the soil.
+
+Fig. 2
+Biotoxicity of the soil under different treatments. Error bars: ±1 SD (n = 3)
+Conclusions
+Bioremediation is an environmentally friendly and relatively cost-effective alternative to conventional physicochemical soil treatment techniques. In this study the indigenous hydrocarbon degraders, and hydrolyzable nitrogen and phosphorus were deficient and inadequate to stimulate degradation of the oily sludge. Through addition of manure, the nutrient elements of the treated plot increased significantly compared with that of the control. After about 1 year of bioremediation, TPH in the treated plot had decreased by 58.2%, compared with 15.6% in the control plot, with a marked increase in the WHC of the soil. Biotoxicity, microbial activity, and diversity of soil microorganisms were also studied. The experiments showed that the treated soil was less toxic and microbial activity and diversity increased compared with the control. Although there were marked decreases in TPH and distinct improvements in the physicochemical properties and microbial activity of the soil after bioremediation, the TPH content in the soil was still as high as 101 g kg−1 in treated plots and further remediation (such as phytoremediation) is required.

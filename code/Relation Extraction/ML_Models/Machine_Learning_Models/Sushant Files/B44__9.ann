@@ -1,0 +1,46 @@
+T1	Substrate 106 118	hydrocarbons
+T2	ReactionOrProcess 71 79	degraded
+T3	Property 239 250	degradative
+T4	Property 342 350	aromatic
+T5	ReactionOrProcess 383 401	catabolic pathways
+T6	Environment 683 688	Beach
+T7	Substrate 647 658	hydrocarbon
+T8	ReactionOrProcess 659 670	utilization
+T9	Environment 1017 1022	Beach
+T10	Substrate 882 893	hydrocarbon
+T11	ReactionOrProcess 865 876	biodegraded
+T12	ReactionOrProcess 929 940	degradation
+T13	Environment 1184 1189	Beach
+T14	Substrate 1061 1069	p-xylene
+T15	Substrate 1200 1207	
+T16	Substrate 1212 1224	ethylbenzene
+T17	Substrate 1265 1277	hydrocarbons
+T18	Microbes 1461 1471	consortium
+T19	Substrate 1483 1491	gasoline
+T20	Substrate 1330 1338	o-xylene
+T21	Substrate 1427 1439	hydrocarbons
+T22	ReactionOrProcess 1444 1455	biodegraded
+T23	ReactionOrProcess 1319 1329	catabolize
+T24	Substrate 1632 1644	hydrocarbons
+T25	ReactionOrProcess 1618 1625	degrade
+T26	Environment 1779 1790	groundwater
+T27	Nutrient 1836 1842	oxygen
+T28	Environment 1940 1945	Beach
+T29	Environment 1946 1953	aquifer
+T30	Nutrient 2022 2030	nitrogen
+T31	Nutrient 2035 2045	phosphorus
+T32	Environment 2139 2149	subsurface
+T33	ReactionOrProcess 2075 2089	bioremediation
+R1	CarriedOn Arg1:T2 Arg2:T1
+R2	CarriedOn Arg1:T8 Arg2:T7
+R3	OccursIn Arg1:T8 Arg2:T6
+R4	CarriedOn Arg1:T11 Arg2:T10
+R5	CarriedOn Arg1:T12 Arg2:T10
+R8	ActOn Arg1:T18 Arg2:T19
+R10	ActOn Arg1:T18 Arg2:T21
+R11	CarriedOn Arg1:T22 Arg2:T18
+R13	CarriedOn Arg1:T22 Arg2:T19
+R15	CarriedOn Arg1:T22 Arg2:T21
+R17	CarriedOn Arg1:T23 Arg2:T20
+R19	CarriedOn Arg1:T25 Arg2:T24
+R20	OccursIn Arg1:T33 Arg2:T32

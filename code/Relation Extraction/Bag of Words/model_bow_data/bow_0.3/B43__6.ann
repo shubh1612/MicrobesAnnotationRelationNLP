@@ -1,0 +1,169 @@
+T1	Substrate 147 151	BTEX
+T2	Substrate 180 187	alkanes
+T3	Substrate 163 174	naphthalene
+T4	Substrate 112 127	common fuel oil
+T5	Substrate 124 127	oil
+T6	ReactionOrProcess 98 108	catabolism
+R1	CarriedOn Arg1:T6 Arg2:T1
+R2	CarriedOn Arg1:T6 Arg2:T2
+R3	CarriedOn Arg1:T6 Arg2:T3
+R4	CarriedOn Arg1:T6 Arg2:T4
+R5	CarriedOn Arg1:T6 Arg2:T5
+T7	Substrate 353 371	aromatic compounds
+T8	Substrate 353 371	aromatic compounds
+T9	Property 353 361	aromatic
+T10	ReactionOrProcess 338 349	degradation
+R6	CarriedOn Arg1:T10 Arg2:T7
+R7	CarriedOn Arg1:T10 Arg2:T8
+T11	Environment 466 491	underground storage tanks
+T12	Substrate 430 441	hydrocarbon
+T13	Environment 565 570	soils
+T14	Substrate 628 635	toluene
+T15	Substrate 664 675	naphthalene
+T16	Substrate 646 658	ethylbenzene
+T17	Substrate 637 644	xylenes
+T18	Substrate 594 597	oil
+T19	ReactionOrProcess 786 796	catabolize
+T20	Microbes 1056 1060	xylE
+T21	Environment 1016 1037	noncontaminated soils
+T22	Environment 1032 1037	soils
+T23	Environment 1016 1037	noncontaminated soils
+T24	Environment 1236 1241	soils
+T25	Substrate 1210 1218	gasoline
+T26	Substrate 1165 1172	xylenes
+T27	Microbes 1296 1305	alkB gene
+T28	Substrate 1381 1389	gasoline
+T29	Substrate 1381 1402	gasoline hydrocarbons
+T30	Substrate 1337 1344	alkanes
+T31	Substrate 1390 1402	hydrocarbons
+T32	Substrate 1381 1402	gasoline hydrocarbons
+T33	Substrate 1390 1402	hydrocarbons
+T34	ReactionOrProcess 1258 1271	hybridization
+R8	CarriedOn Arg1:T34 Arg2:T27
+R9	CarriedOn Arg1:T34 Arg2:T28
+R10	CarriedOn Arg1:T34 Arg2:T29
+R11	CarriedOn Arg1:T34 Arg2:T30
+R12	CarriedOn Arg1:T34 Arg2:T31
+R13	CarriedOn Arg1:T34 Arg2:T32
+R14	CarriedOn Arg1:T34 Arg2:T33
+T35	Substrate 1516 1519	oil
+T36	ReactionOrProcess 1610 1613	PCR
+T37	Substrate 1682 1697	catabolic genes
+T38	Substrate 1682 1697	catabolic genes
+T39	Environment 1918 1922	soil
+T40	Environment 1829 1834	soils
+T41	Substrate 1885 1903	aromatic compounds
+T42	Substrate 1885 1903	aromatic compounds
+T43	Property 1885 1893	aromatic
+T44	ReactionOrProcess 1862 1873	utilization
+R15	CarriedOn Arg1:T44 Arg2:T41
+R16	CarriedOn Arg1:T44 Arg2:T42
+T45	Environment 1978 1996	contaminated sites
+T46	Environment 2081 2099	contaminated sites
+T47	Property 2025 2039	concentrations
+T48	Substrate 2183 2198	catabolic genes
+T49	Substrate 2238 2259	aromatic hydrocarbons
+T50	Substrate 2238 2259	aromatic hydrocarbons
+T51	Substrate 2247 2259	hydrocarbons
+T52	Substrate 2183 2198	catabolic genes
+T53	Substrate 2247 2259	hydrocarbons
+T54	Property 2207 2221	concentrations
+T55	Property 2238 2246	aromatic
+T56	ReactionOrProcess 2162 2175	hybridization
+R17	CarriedOn Arg1:T56 Arg2:T48
+R18	CarriedOn Arg1:T56 Arg2:T49
+R19	CarriedOn Arg1:T56 Arg2:T50
+R20	CarriedOn Arg1:T56 Arg2:T51
+R21	CarriedOn Arg1:T56 Arg2:T52
+R22	CarriedOn Arg1:T56 Arg2:T53
+T57	Property 2302 2316	concentrations
+T58	Microbes 2431 2435	xylE
+T59	Substrate 2527 2544	aromatic compound
+T60	Substrate 2400 2409	aromatics
+T61	Property 2545 2558	concentration
+T62	Property 2369 2383	concentrations
+T63	Property 2527 2535	aromatic
+T64	Property 2400 2409	aromatics
+T65	ReactionOrProcess 2414 2427	hybridization
+T66	ReactionOrProcess 2478 2491	hybridization
+R23	CarriedOn Arg1:T65 Arg2:T58
+R24	CarriedOn Arg1:T66 Arg2:T58
+R25	CarriedOn Arg1:T65 Arg2:T59
+R26	CarriedOn Arg1:T66 Arg2:T59
+T67	Substrate 2613 2621	gasoline
+T68	Substrate 2589 2601	hydrocarbons
+T69	Substrate 2577 2600	Short-chain hydrocarbon
+T70	Substrate 2577 2601	Short-chain hydrocarbons
+T71	Substrate 2577 2601	Short-chain hydrocarbons
+T72	Substrate 2589 2601	hydrocarbons
+T73	Property 2681 2689	toxicity
+T74	Property 2733 2747	concentrations
+T75	Property 2626 2631	toxic
+T76	Property 2681 2689	toxicity
+T77	Environment 2785 2794	microcosm
+T78	Environment 2879 2883	soil
+T79	Substrate 2852 2860	gasoline
+T80	Property 2817 2831	concentrations
+T81	ReactionOrProcess 2749 2759	Inhibition
+T82	Environment 2927 2937	microcosms
+T83	Substrate 2906 2914	gasoline
+T84	Substrate 2981 2989	gasoline
+T85	Substrate 2957 2978	aromatic hydrocarbons
+T86	Substrate 2957 2978	aromatic hydrocarbons
+T87	Substrate 2966 2978	hydrocarbons
+T88	Substrate 2957 2989	aromatic hydrocarbons/g gasoline
+T89	Substrate 2966 2978	hydrocarbons
+T90	Property 2957 2965	aromatic
+T91	Environment 3067 3071	soil
+T92	Substrate 3039 3048	aromatics
+T93	Property 3039 3048	aromatics
+T94	ReactionOrProcess 3114 3124	inhibition
+T95	Environment 3461 3471	microcosms
+T96	Environment 3545 3555	microcosms
+T97	Substrate 3437 3445	gasoline
+T98	Substrate 3276 3292	simple aromatics
+T99	Substrate 3363 3370	alkanes
+T100	Substrate 3351 3370	short-chain alkanes
+T101	Substrate 3283 3292	aromatics
+T102	Property 3283 3292	aromatics
+T103	Property 3345 3350	toxic
+T104	ReactionOrProcess 3302 3310	degraded
+T105	ReactionOrProcess 3601 3615	volatilization
+R27	CarriedOn Arg1:T104 Arg2:T97
+T106	Substrate 3648 3656	gasoline
+T107	Substrate 3741 3749	gasoline
+T108	Property 3724 3737	concentration
+T109	ReactionOrProcess 3802 3816	volatilization
+T110	Environment 3876 3886	microcosms
+T111	Substrate 3847 3855	gasoline
+T112	Substrate 3932 3940	gasoline
+T113	Property 3829 3843	concentrations
+T114	ReactionOrProcess 3999 4012	hybridization
+T115	Environment 4222 4231	microcosm
+T116	Environment 4106 4110	soil
+T117	Substrate 4095 4103	gasoline
+T118	Substrate 4162 4177	catabolic genes
+T119	Substrate 4162 4177	catabolic genes
+T120	Property 4044 4057	concentration
+T121	ReactionOrProcess 4141 4154	hybridization
+T122	Substrate 4452 4460	gasoline
+T123	Substrate 4300 4315	catabolic genes
+T124	Substrate 4300 4315	catabolic genes
+T125	ReactionOrProcess 4416 4426	incubation
+T126	ReactionOrProcess 4269 4282	Hybridization
+R28	CarriedOn Arg1:T126 Arg2:T123
+R29	CarriedOn Arg1:T126 Arg2:T124
+T127	Substrate 4478 4485	toluene
+T128	Substrate 4499 4510	naphthalene
+T129	Substrate 4487 4494	xylenes
+T130	Substrate 4596 4614	aromatic compounds
+T131	Substrate 4596 4614	aromatic compounds
+T132	Property 4596 4604	aromatic
+T133	ReactionOrProcess 4692 4703	volatilized
+T134	ReactionOrProcess 4680 4688	degraded
+T135	Property 4944 4958	concentrations
+T136	ReactionOrProcess 5000 5011	volatilized
+T137	ReactionOrProcess 4988 4996	degraded
+T138	ReactionOrProcess 4748 4761	hybridization
+T139	Nutrient 5069 5075	carbon
+T140	ReactionOrProcess 5227 5240	hybridization

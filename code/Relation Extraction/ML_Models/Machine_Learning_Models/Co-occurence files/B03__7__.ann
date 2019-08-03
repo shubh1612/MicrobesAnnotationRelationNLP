@@ -1,0 +1,152 @@
+T1	Microbes 199 213	Geobacteraceae
+T2	Environment 38 57	uncontaminated site
+T3	Microbes 338 352	proteobacteria
+T4	Microbes 416 434	enrichment culture
+T5	Microbes 381 399	enrichment culture
+T6	Environment 597 606	sediments
+T7	Substrate 474 481	benzene
+T8	Property 363 380	Benzene-oxidizing
+T9	Property 520 531	crystalline
+T10	Nutrient 558 575	electron acceptor
+T11	Environment 731 738	aquifer
+T12	Substrate 763 770	benzene
+T13	ReactionOrProcess 755 762	degrade
+T14	Microbes 819 838	enrichment cultures
+T15	Environment 888 907	uncontaminated site
+T16	Environment 869 878	sediments
+T17	Substrate 801 808	Benzene
+T18	Microbes 944 962	enrichment culture
+T19	Substrate 1170 1177	benzene
+T20	ReactionOrProcess 1131 1141	enrichment
+T21	ReactionOrProcess 1148 1169	anaerobically oxidize
+T22	Microbes 1238 1257	enrichment cultures
+T23	Property 1220 1237	benzene-oxidizing
+T24	ReactionOrProcess 1179 1192	DGGE analysis
+T25	Microbes 1655 1668	G. fermentans
+T26	Microbes 1513 1533	Variovorax paradoxus
+T27	Substrate 1563 1570	toluene
+T28	Property 1571 1579	degrader
+T29	Microbes 1736 1755	enrichment cultures
+T30	Microbes 1911 1924	Geobacter spp
+T31	Environment 1722 1731	sediments
+T32	ReactionOrProcess 1804 1836	anaerobic benzene mineralization
+T33	ReactionOrProcess 1772 1776	PLFA
+T34	Microbes 2008 2021	Geobacter spp
+T35	Substrate 2085 2111	oxidize aromatic compounds
+T36	ReactionOrProcess 2121 2130	reduction
+T37	Microbes 2324 2337	Geobacter spp
+T38	Substrate 2388 2395	benzene
+T39	ReactionOrProcess 2377 2387	metabolize
+T40	Microbes 2478 2491	Geobacter spp
+T41	ReactionOrProcess 2561 2587	active benzene degradation
+T42	Microbes 2717 2735	enrichment culture
+T43	Environment 2919 2950	petroleum-contaminated aquifers
+T44	Substrate 2774 2781	benzene
+T45	ReactionOrProcess 2782 2793	degradation
+T46	Environment 3015 3022	aquifer
+T47	Substrate 3072 3079	benzene
+T48	ReactionOrProcess 3083 3096	anaerobically
+T49	ReactionOrProcess 3097 3105	degraded
+T50	ReactionOrProcess 2989 2993	PLFA
+T51	Environment 3253 3262	sediments
+T52	Environment 3245 3252	aquifer
+T53	Substrate 3165 3172	benzene
+T54	Substrate 3288 3295	benzene
+T55	ReactionOrProcess 3173 3182	oxidation
+T56	ReactionOrProcess 3420 3437	electron shuttles
+T57	ReactionOrProcess 3202 3211	reduction
+T58	ReactionOrProcess 3296 3307	degradation
+T59	Nutrient 3389 3405	humic substances
+T60	Substrate 3494 3501	toluene
+T61	Substrate 3506 3517	naphthalene
+T62	Substrate 3455 3482	Other aromatic hydrocarbons
+T63	ReactionOrProcess 3528 3536	degraded
+T64	Substrate 3683 3690	benzene
+T65	Substrate 3630 3642	hydrocarbons
+T66	ReactionOrProcess 3609 3620	degradation
+T67	ReactionOrProcess 3691 3702	degradation
+T68	Substrate 3941 3948	benzene
+T69	Property 3772 3780	reducers
+T70	ReactionOrProcess 3933 3940	degrade
+T71	ReactionOrProcess 4006 4035	anaerobic benzene degradation
+T72	Microbes 4123 4137	Geobacteraceae
+T73	Microbes 4256 4270	Geobacteraceae
+T74	Environment 4290 4299	sediments
+T75	Environment 4190 4217	benzene-degrading sediments
+T76	ReactionOrProcess 4069 4072	PCR
+R1	FoundIn Arg1:T1 Arg2:T2
+R2	FoundIn Arg1:T4 Arg2:T6
+R3	FoundIn Arg1:T5 Arg2:T6
+R4	Of Arg1:T4 Arg2:T8
+R5	Of Arg1:T4 Arg2:T9
+R6	Of Arg1:T5 Arg2:T8
+R7	Of Arg1:T5 Arg2:T9
+R8	ActOn Arg1:T4 Arg2:T7
+R9	ActOn Arg1:T5 Arg2:T7
+R10	CarriedOn Arg1:T13 Arg2:T12
+R11	OccursIn Arg1:T13 Arg2:T11
+R12	FoundIn Arg1:T14 Arg2:T15
+R13	FoundIn Arg1:T14 Arg2:T16
+R14	ActOn Arg1:T14 Arg2:T17
+R15	CarriedOn Arg1:T20 Arg2:T19
+R16	CarriedOn Arg1:T21 Arg2:T19
+R17	Of Arg1:T22 Arg2:T23
+R18	CarriedOn Arg1:T24 Arg2:T22
+R19	Of Arg1:T25 Arg2:T28
+R20	Of Arg1:T26 Arg2:T28
+R21	ActOn Arg1:T25 Arg2:T27
+R22	ActOn Arg1:T26 Arg2:T27
+R23	FoundIn Arg1:T29 Arg2:T31
+R24	FoundIn Arg1:T30 Arg2:T31
+R25	CarriedOn Arg1:T32 Arg2:T29
+R26	CarriedOn Arg1:T32 Arg2:T30
+R27	CarriedOn Arg1:T33 Arg2:T29
+R28	CarriedOn Arg1:T33 Arg2:T30
+R29	OccursIn Arg1:T32 Arg2:T31
+R30	OccursIn Arg1:T33 Arg2:T31
+R31	CarriedOn Arg1:T36 Arg2:T35
+R32	CarriedOn Arg1:T39 Arg2:T38
+R33	FoundIn Arg1:T42 Arg2:T43
+R34	ActOn Arg1:T42 Arg2:T44
+R35	CarriedOn Arg1:T45 Arg2:T42
+R36	CarriedOn Arg1:T45 Arg2:T44
+R37	OccursIn Arg1:T45 Arg2:T43
+R38	CarriedOn Arg1:T48 Arg2:T47
+R39	CarriedOn Arg1:T49 Arg2:T47
+R40	CarriedOn Arg1:T50 Arg2:T47
+R41	OccursIn Arg1:T48 Arg2:T46
+R42	OccursIn Arg1:T49 Arg2:T46
+R43	OccursIn Arg1:T50 Arg2:T46
+R44	CarriedOn Arg1:T55 Arg2:T53
+R45	CarriedOn Arg1:T55 Arg2:T54
+R46	CarriedOn Arg1:T56 Arg2:T53
+R47	CarriedOn Arg1:T56 Arg2:T54
+R48	CarriedOn Arg1:T57 Arg2:T53
+R49	CarriedOn Arg1:T57 Arg2:T54
+R50	CarriedOn Arg1:T58 Arg2:T53
+R51	CarriedOn Arg1:T58 Arg2:T54
+R52	OccursIn Arg1:T55 Arg2:T51
+R53	OccursIn Arg1:T55 Arg2:T52
+R54	OccursIn Arg1:T56 Arg2:T51
+R55	OccursIn Arg1:T56 Arg2:T52
+R56	OccursIn Arg1:T57 Arg2:T51
+R57	OccursIn Arg1:T57 Arg2:T52
+R58	OccursIn Arg1:T58 Arg2:T51
+R59	OccursIn Arg1:T58 Arg2:T52
+R60	CarriedOn Arg1:T63 Arg2:T60
+R61	CarriedOn Arg1:T63 Arg2:T61
+R62	CarriedOn Arg1:T63 Arg2:T62
+R63	CarriedOn Arg1:T66 Arg2:T64
+R64	CarriedOn Arg1:T66 Arg2:T65
+R65	CarriedOn Arg1:T67 Arg2:T64
+R66	CarriedOn Arg1:T67 Arg2:T65
+R67	CarriedOn Arg1:T70 Arg2:T68
+R68	CarriedOn Arg1:T71 Arg2:T68
+R69	FoundIn Arg1:T72 Arg2:T74
+R70	FoundIn Arg1:T72 Arg2:T75
+R71	FoundIn Arg1:T73 Arg2:T74
+R72	FoundIn Arg1:T73 Arg2:T75
+R73	CarriedOn Arg1:T76 Arg2:T72
+R74	CarriedOn Arg1:T76 Arg2:T73
+R75	OccursIn Arg1:T76 Arg2:T74
+R76	OccursIn Arg1:T76 Arg2:T75

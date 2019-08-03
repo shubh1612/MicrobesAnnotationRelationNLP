@@ -1,0 +1,10 @@
+T1	Substrate 83 89	diesel
+T2	ReactionOrProcess 60 70	incubation
+T3	Environment 123 137	soil microcosm
+T4	Environment 128 137	microcosm
+T5	Environment 172 187	disturbed soils
+T6	Environment 123 127	soil
+T7	Environment 182 187	soils
+T8	Environment 172 187	disturbed soils
+T9	Substrate 306 309	oil
+T10	ReactionOrProcess 310 321	remediation

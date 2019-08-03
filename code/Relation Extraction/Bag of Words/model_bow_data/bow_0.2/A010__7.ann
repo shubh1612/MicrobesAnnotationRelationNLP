@@ -1,0 +1,178 @@
+T1	Environment 48 52	soil
+T2	Environment 196 200	soil
+T3	Environment 315 319	soil
+T4	Environment 53 58	water
+T5	Environment 201 206	water
+T6	Environment 320 325	water
+T7	Environment 244 249	water
+T8	Substrate 337 344	ethanol
+T9	Substrate 78 85	ethanol
+T10	Substrate 37 44	benzene
+T11	Substrate 286 290	BTEX
+T12	Property 207 217	saturation
+T13	Environment 418 422	soil
+T14	Property 437 451	volatilisation
+T15	Property 385 397	contaminants
+T16	Property 453 462	retention
+T17	ReactionOrProcess 453 462	retention
+T18	ReactionOrProcess 467 481	biodegradation
+T19	Environment 523 547	ethanol-containing soils
+T20	Environment 523 547	ethanol-containing soils
+T21	Environment 542 547	soils
+T22	Property 497 505	residues
+T23	Property 654 665	contaminant
+T24	ReactionOrProcess 703 714	degradation
+T25	Environment 871 897	ethanol-contaminated soils
+T26	Environment 871 897	ethanol-contaminated soils
+T27	Environment 892 897	soils
+T28	Substrate 958 966	gasoline
+T29	Property 834 842	residues
+T30	Property 931 946	vapour pressure
+T31	Property 722 736	Volatilisation
+T32	Property 776 788	contaminants
+T33	Environment 1122 1139	non-sterile soils
+T34	Environment 1122 1139	non-sterile soils
+T35	Environment 1134 1139	soils
+T36	Property 1060 1068	residues
+T37	Property 977 991	volatilisation
+T38	Property 1027 1039	contaminants
+T39	Environment 1211 1226	structured soil
+T40	Environment 1222 1226	soil
+T41	Environment 1246 1250	soil
+T42	Environment 1251 1256	water
+T43	Substrate 1189 1197	gasoline
+T44	Property 1171 1185	Volatilisation
+T45	Environment 1438 1442	soil
+T46	Environment 1337 1342	soils
+T47	Environment 1355 1360	water
+T48	Environment 1373 1378	water
+T49	Substrate 1291 1299	gasoline
+T50	Substrate 1425 1433	gasoline
+T51	Substrate 1282 1299	Standard gasoline
+T52	Environment 1546 1551	water
+T53	Substrate 1482 1489	ethanol
+T54	Substrate 1459 1467	gasoline
+T55	Substrate 1532 1536	BTEX
+T56	Substrate 1593 1597	BTEX
+T57	Environment 1720 1724	soil
+T58	Environment 1725 1730	water
+T59	Substrate 1638 1654	gasoline–ethanol
+T60	Substrate 1699 1703	BTEX
+T61	Substrate 1866 1873	ethanol
+T62	Substrate 1811 1819	gasoline
+T63	Substrate 1795 1819	ethanol-blended gasoline
+T64	Property 1840 1855	vapour pressure
+T65	Property 1753 1767	volatilisation
+T66	Substrate 2030 2037	ethanol
+T67	Substrate 1875 1882	Ethanol
+T68	Substrate 1895 1903	gasoline
+T69	Property 1921 1936	vapour pressure
+T70	Substrate 2132 2140	gasoline
+T71	Property 2141 2156	vapour pressure
+T72	Substrate 2310 2317	ethanol
+T73	Substrate 2280 2288	gasoline
+T74	Property 2347 2362	vapour pressure
+T75	Environment 2736 2747	soil sample
+T76	Environment 2542 2554	natural soil
+T77	Environment 2736 2740	soil
+T78	Environment 2550 2554	soil
+T79	Environment 2789 2794	soils
+T80	Environment 2771 2794	BTEX-contaminated soils
+T81	Environment 2771 2794	BTEX-contaminated soils
+T82	Property 2580 2594	volatilisation
+T83	Property 2564 2576	contaminants
+T84	Substrate 2960 2967	ethanol
+T85	Substrate 2870 2874	BTEX
+T86	Property 3004 3019	vapour pressure
+T87	Property 2875 2889	volatilisation
+T88	Environment 3212 3228	unsaturated soil
+T89	Environment 3057 3067	sandy soil
+T90	Environment 3057 3062	sandy
+T91	Environment 3063 3067	soil
+T92	Environment 3224 3228	soil
+T93	Substrate 3316 3323	ethanol
+T94	Substrate 3088 3096	gasoline
+T95	Substrate 3190 3198	gasoline
+T96	Substrate 3072 3096	ethanol-blended gasoline
+T97	Property 3057 3062	sandy
+T98	Property 3113 3127	volatilisation
+T99	ReactionOrProcess 3172 3186	biodegradation
+T100	ReactionOrProcess 3236 3250	biodegradation
+T101	Nutrient 3152 3158	carbon
+R1	CarriedOn Arg1:T99 Arg2:T93
+R2	CarriedOn Arg1:T100 Arg2:T93
+T102	Environment 3372 3376	soil
+T103	Environment 3399 3403	sand
+T104	Substrate 3415 3419	BTEX
+T105	Property 3420 3429	retention
+T106	ReactionOrProcess 3420 3429	retention
+T107	ReactionOrProcess 3461 3475	biodegradation
+T108	Environment 3561 3571	inert soil
+T109	Environment 3511 3515	soil
+T110	Environment 3567 3571	soil
+T111	Substrate 3592 3600	gasoline
+T112	Substrate 3499 3503	BTEX
+T113	Substrate 3576 3600	ethanol-amended gasoline
+T114	Property 3561 3566	inert
+T115	Property 3486 3495	retention
+T116	ReactionOrProcess 3486 3495	retention
+R3	CarriedOn Arg1:T116 Arg2:T111
+R4	CarriedOn Arg1:T116 Arg2:T112
+R5	CarriedOn Arg1:T116 Arg2:T113
+T117	Environment 3619 3632	natural soils
+T118	Environment 3619 3632	natural soils
+T119	Environment 3698 3702	soil
+T120	Environment 3774 3778	soil
+T121	Environment 3627 3632	soils
+T122	Substrate 3747 3759	BTEX–ethanol
+T123	Substrate 3668 3672	BTEX
+T124	ReactionOrProcess 3643 3657	biodegradation
+T125	Environment 3865 3870	soils
+T126	Substrate 3838 3850	BTEX–ethanol
+T127	Substrate 3795 3799	BTEX
+T128	Environment 3960 3966	porous
+T129	Substrate 4080 4088	gasoline
+T130	Substrate 4064 4088	ethanol-blended gasoline
+T131	Property 3954 3959	inert
+T132	Property 4006 4017	contaminant
+T133	ReactionOrProcess 4018 4030	infiltration
+R6	CarriedOn Arg1:T133 Arg2:T129
+R7	CarriedOn Arg1:T133 Arg2:T130
+T134	Environment 4188 4192	soil
+T135	Environment 4273 4277	soil
+T136	Environment 4123 4128	water
+T137	Environment 4287 4292	water
+T138	Substrate 4223 4230	ethanol
+T139	Substrate 4159 4167	gasoline
+T140	Property 4278 4286	residual
+T141	Environment 4498 4502	soil
+T142	Environment 4297 4302	soils
+T143	Environment 4312 4317	water
+T144	Environment 4419 4424	water
+T145	Environment 4465 4470	water
+T146	Substrate 4372 4378	LNAPLs
+T147	Environment 4624 4629	water
+T148	Substrate 4580 4588	gasoline
+T149	Environment 4677 4687	inert soil
+T150	Environment 4743 4747	soil
+T151	Environment 4835 4839	soil
+T152	Environment 4902 4906	soil
+T153	Environment 4683 4687	soil
+T154	Substrate 4790 4798	gasoline
+T155	Property 4677 4682	inert
+T156	Property 4882 4894	contaminants
+T157	Property 4869 4878	retention
+T158	ReactionOrProcess 4869 4878	retention
+T159	Environment 4982 4997	structured soil
+T160	Environment 4993 4997	soil
+T161	Environment 5098 5102	soil
+T162	Environment 5003 5008	water
+T163	Substrate 5049 5057	gasoline
+T164	Substrate 5081 5089	gasoline
+T165	Substrate 5065 5089	ethanol-blended gasoline
+T166	Environment 5186 5190	soil
+T167	Environment 5335 5340	soils
+T168	Environment 5302 5307	water
+T169	Property 5312 5324	contaminants
+T170	Property 5289 5298	retention
+T171	ReactionOrProcess 5289 5298	retention

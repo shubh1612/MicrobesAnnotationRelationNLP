@@ -1,0 +1,50 @@
+T1	Property 285 295	pollutants
+T2	ReactionOrProcess 229 262	subsequent aerobic mineralization
+T3	ReactionOrProcess 240 262	aerobic mineralization
+T4	ReactionOrProcess 248 262	mineralization
+T5	Environment 410 425	anaerobic soils
+T6	Environment 420 425	soils
+T7	Environment 399 425	aerobic or anaerobic soils
+T8	Environment 410 425	anaerobic soils
+T9	ReactionOrProcess 374 383	incubated
+T10	ReactionOrProcess 430 444	mineralization
+T11	ReactionOrProcess 456 470	Mineralization
+T12	Environment 757 777	anaerobic conditions
+T13	Property 562 570	Aromatic
+T14	ReactionOrProcess 620 629	reduction
+T15	ReactionOrProcess 739 750	degradation
+T16	ReactionOrProcess 603 629	facile anaerobic reduction
+T17	ReactionOrProcess 633 644	aerobically
+T18	ReactionOrProcess 674 685	aerobically
+T19	Property 866 878	methanogenic
+T20	Property 866 878	methanogenic
+T21	Property 801 809	aromatic
+T22	ReactionOrProcess 924 932	degraded
+T23	ReactionOrProcess 1011 1025	mineralization
+T24	Environment 1159 1170	wastewaters
+T25	Property 1515 1523	aromatic
+T26	ReactionOrProcess 1490 1503	anaerobically
+T27	ReactionOrProcess 1548 1557	reduction
+T28	Environment 1570 1580	wastewater
+T29	Property 1864 1874	pollutants
+T30	Substrate 1929 1936	phenols
+T31	Property 1985 1993	aromatic
+T32	ReactionOrProcess 2037 2051	biodegradation
+T33	Property 2137 2146	mutagenic
+T34	Property 2151 2163	carcinogenic
+T35	Substrate 2366 2384	aromatic compounds
+T36	Substrate 2366 2384	aromatic compounds
+T37	Property 2366 2374	aromatic
+T38	Property 2567 2575	aromatic
+T39	ReactionOrProcess 2567 2585	aromatic pollution
+T40	ReactionOrProcess 2559 2585	natural aromatic pollution
+T41	Environment 2759 2763	soil
+T42	Environment 3016 3036	anaerobic conditions
+T43	Property 2931 2936	toxic
+T44	Environment 3144 3164	anaerobic conditions
+T45	Property 3101 3111	pollutants
+T46	ReactionOrProcess 3129 3137	degraded
+T47	Substrate 3343 3361	aromatic compounds
+T48	Substrate 3343 3361	aromatic compounds
+T49	Property 3343 3351	aromatic
+T50	Environment 3485 3505	anaerobic conditions

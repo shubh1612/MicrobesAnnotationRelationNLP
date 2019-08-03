@@ -1,0 +1,728 @@
+B36
+Using Real-Time PCR to Assess Changes in the Hydrocarbon-Degrading Microbial Community
+in Antarctic Soil During Bioremediation
+Shane M. Powell1,2, Susan H. Ferguson2
+, John P. Bowman1 and Ian Snape2
+(1) Tasmanian Institute of Agricultural Research, University of Tasmania, Hobart 7001, Australia
+(2) Department of Heritage and Environment, Australian Antarctic Division, 203 Channel Highway, Kingston 7050, Australia
+Received: 29 May 2006 / Accepted: 13 June 2006 / Online publication: 31 August 2006
+Abstract
+A real-time polymerase chain reaction (PCR) method to quantify the proportion of microorganisms containing alkane monooxygenasewas developed and used to follow
+changes in the microbial community in hydrocarbon contaminated
+Antarctic soil during a bioremediation field trial. Assays for the alkB and rpoB genes were validated and found to be both sensitive and reproducible (less than 2% intrarun variation and 25–38% interrun variation).
+Results from the real-time PCR analysis were compared to analysis of the microbial population by a culture-based technique [most probable  number (MPN) counts]. Both types of analysis indicated that fertilizer addition to hydrocarbon-contaminated soil stimulated the indigenous bacterial population within 1 year. The proportion of alkB containing microorganisms was positively correlated 
+to the concentration of n-alkanes in the soil. 
+After the concentration of n-alkanes in the soil
+decreased, the proportion of alkane-degrading microorganisms
+decreased, but the proportion of total hydrocarbon-degrading
+microorganisms increased, indicating
+another shift in the microbial community structure and
+ongoing biodegradation.
+Introduction
+The ability to accurately quantify functional genes in the
+environment is an important step in understanding many
+ecological processes. Existing techniques include hybridization
+methods such as dot blots, and end-point
+polymerase chain reaction (PCR) methods such as
+competitive PCR and most probable number (MPN)-
+PCR. Although these methods are useful, hybridization
+methods are often only semiquantitative and end-point
+PCR methods require many reactions and a post-PCR
+analysis step, making them both labor-intensive and
+expensive. Real-time PCR is fast becoming the most
+popular alternative (see [11, 16, 32] for a detailed description).
+Originally developed for gene expression studies, it
+has found many applications in microbial ecology. These
+include the measurement of 16S rRNA genes as a measure
+of total and specific cell populations [21], the measurement
+of catabolic genes such as bssA [2] and atz [5] and
+the measurement of genes for important ecological
+processes such as denitrification [13] and ammonia
+oxidation [17].
+The advantages that real-time PCR offers include
+speed, sensitivity, accuracy, simplicity, and the possibility
+of robotic automation. As with all new technologies, there
+is a need to explore and define the limitations of the
+method in terms of its sensitivity, accuracy, and reproducibility.
+Although the sensitivity and accuracy of realtime
+PCR assays are usually well characterized (e.g., [2]),
+few studies provide any data on the reproducibility of the
+method. Dionisi et al. [6] reported intra- and interrun
+variability and Hristova et al. [14] reported the reproducibility
+per sample. A recent study by Smith et al. [22]
+with the 16S rRNA gene found that the absolute gene
+copy numbers were influenced by a number of factors
+including the DNA isolation method and template concentration.
+Their observation that the intrarun variability
+was low (3–5%) but interrun variability was higher (11–
+Correspondence to: Shane M. Powell; E-mail: shane.powell@aad.gov.au 26%) agrees with the conclusions of Dionisi et al. [6].
+DOI: 10.1007/s00248-006-9131-z & Volume 52, 523–532 (2006) & * Springer Science+Business Media, Inc. 2006 523
+Information on the reproducibility of real-time PCR
+methods is particularly important given that the relationship
+between the signal produced (the threshold
+cycle CT) and concentration values for the amount of the
+target is a log-linear one described by the equation:
+CT ¼ M  log target concentration ð Þþ B
+where M is the slope of the standard curve and B is the
+Y intercept. This log-linear relationship has the effect
+of producing large variations in concentrations between
+replicates despite the fact that the raw signal is
+very similar. This suggests that caution should be used
+when drawing conclusions from small differences,
+especially when the number of replicates (n) is small.
+This effect was noted by Dionisi et al. [6], who reported
+that coefficient of variation (CV = standard deviation/
+mean) values calculated on the CT were much lower
+than those calculated on copy number of the target
+gene (2% compared to between 20% and 36%).
+As part of our investigations into the biodegradation
+of diesel spills in Antarctica, we wished to measure the
+activity of alkane-degrading microbes in soil samples.
+The alkane monooxygenases are a group of enzymes that
+catalyze the first step in the aerobic degradation of
+alkanes. The genetics of these enzymes are well characterized,
+particularly in Pseudomonas [25, 26] and Rhodococcus
+[28]. The alkB gene in particular has been found in
+isolates from a variety of genera, including Pseudomonas
+[25], Rhodococcus [29], Alcanivorax [10], and Xanthobacter
+[27], and it has also been detected by hybridization
+methods in environmental samples [30]. Alkane
+monooxygenases have been detected using hybridization
+methods in Antarctic and Brazilian soils [15] and in both
+contaminated and pristine Arctic and Antarctic soils
+[30]. A more quantitative MPN-PCR method was used
+to follow populations of alkane-degrading microbes in
+seawater microcosms [20], and Heiss-Blanquet et al. [12]
+used a competitive PCR method to correlate alkB levels
+to n-heptane degradation in freshwater and soil samples.
+All these studies, however, utilized several primer sets to
+target different types of alkane monooxygenases. To the
+best of our knowledge, no simple and quantitative
+method of measuring alkB in complex environmental
+samples using one assay has been reported. In this work,
+we present the development and validation of a real-time
+PCR method for the alkB and rpoB genes.
+We examined the effect of nutrient addition on
+microbial communities in a bioremediation field trial of
+hydrocarbon-contaminated, nutrient-poor Antarctic soil.
+We hypothesized that hydrocarbon-degrading bacteria,
+having a source of carbon not available to other heterotrophic
+bacteria, would be preferentially stimulated by
+the addition of nutrients. To test this, we used a combination
+of molecular (real-time PCR) and culture-based
+techniques to examine changes in the function of microbial
+communities in this bioremediation field trial.
+Materials and Methods
+Bioremediation Field Trial. A landfarming bioremediation
+field trial was carried out at Australia’s
+Old Casey Station, East Antarctica, from 1998 to 2004,
+and has been previously described in detail [8]. Soil in
+the area was contaminated with 36,000 L of Special
+Antarctic Blend (SAB) diesel in 1982 [23]. The field trial
+consisted of sieved (4.75 mm) and homogenized soil in
+clean metal containers. The containers were freedraining,
+but partially buried to simulate natural field
+conditions while mitigating the effects of lateral fuel
+migration. Each treatment was applied to four containers.
+In the current study, we were interested in the
+effects of fertilization treatments [addition of two
+amounts of controlled release nutrients: a low concentration
+(LCRN) to yield ca. 200 NO3
+– kg–1, 300 NH4
++ kg–1,
+100 PO4
+–3 kg–1 or a high concentration of fertilizer
+(HCRN) to yield ca. 700 mg NO3
+– kg–1, 900 NH4
++ kg–1,
+400 PO4
+–3 kg–1] on the microbial population. Both fertilization
+treatments were compared to a control, which
+did not receive any fertilizer. The samples used in this
+study were collected in early 2000, approximately a year
+after the trial was initiated, and again (from the same
+plots) in 2004, after the trial had been running for 5 years.
+Soil samples were stored frozen at –18-C until analysis.
+DNA was extracted from approximately 0.5 g of each soil
+sample by using the PowerSoil DNA kit (MoBio) following
+the manufacturer’s directions. The DNA quality was
+checked on agarose gels and quantified on a SmartSpec
+3000 spectrophotometer (Bio-Rad). The chemical analysis
+of these samples by GC-FID is described by Powell et al.
+[18]. For this study, the sum of n-alkanes is the sum of
+n-alkanes from octane to octadecane.
+Design of Primers to Detect the Alkane Monooxygenase
+Gene alkB. Primers were designed to amplify a
+fragment of the alkane monooxygenase gene alkB.
+Sequences (accession numbers are shown in Table 1) were
+obtained from the GenBank database and aligned. Regions
+of similar nucleotide composition were identified, and the
+NetPrimer program (http://www.premierbiosoft.com/
+netprimer/netprimer.html) was used to assist in choosing
+the best primer pair that resulted in a PCR product of
+approximately 100 bp. This gene is not well conserved, and
+to compensate several degenerate bases were incorporated in
+the primers. The forward primer f(alkBFd) is 50
+-AAC TAC
+MTC GAR CAY TAC GG-30 and the reverse primer
+(alkBRd) is 50
+-TGA MGA TGT GGT YRC TGT TCC-30
+(where M = AC, R = AG and Y = CT). The specificity of
+this primer pair was initially tested by using the Bsearch
+for short nearly exact matches^ option of the Blast func-
+524 S.M. POWELL ET AL.: MICROBIAL ECOLOGY OF BIOREMEDIATION IN ANTARCTICA
+tion [1]. When this pair of primers was blasted together,
+the closest matches returned were sequences from alkane
+monooxygenases.
+The primers were synthesized by Geneworks (Hindmarsh,
+South Australia) and initially tested against two
+strains of alkane-degrading Rhodococci (Rhodococcus
+fascians JCM 10002 and R. rhodochrous JCM 3202) and
+an Escherichia coli strain (as a negative control) using the
+HotStar PCR kit (Qiagen). Amplification from genomic
+DNA preparations resulted in a single band of approximately
+100 bp from the two rhodococci, but no bands
+were obtained from the E. coli. DNA from a soil sample
+(BR106 from the field trial described above) was subjected
+to the same amplification and the resulting product was
+cloned using the TOPO-TA cloning kit (Invitrogen).
+Plasmids were extracted by using the UltraClean miniplasmid
+prep kit (MoBio) and the clones were sequenced
+with the provided M13 primer using the DTCS QuickStart
+kit (BeckmanCoulter) and a CEQ8000 genetic analysis
+system (Beckman-Coulter).
+An additional set of nondegenerate primers was
+developed based on the results of this clone library.
+These primers (AlkBF: 50
+-AAC TAC ATC GAG CAC
+TAC GG-30 and AlkBR: 50
+-TGA AGA TGT GGT TGC
+TGT TCC-30
+) were used for all other real-time PCR
+experiments.
+Standards. Standards for the alkB gene were
+constructed from one of the clones described above. The
+plasmid was subjected to amplification with M13 primers
+to obtain a PCR product approximately 300 bp long
+containing the 100-bp alkB fragment. Use of the plasmid
+itself may result in an incorrect determination of the
+amount of DNA present due to the presence of supercoiled
+DNA, and it is recommended that there is at
+least 20 bp outside of the primer binding sites when constructing
+standards from a PCR product (Quantitect
+SYBRGreen PCR Handbook, Qiagen). The PCR product
+was purified by using the UltraClean PCR cleanup kit
+(MoBio) and measured spectrophotometrically at 260 nm.
+This was diluted in a 10-fold series to create the standards
+for a five point standard curve (5.8  104 to 5.8  108
+copies) that was run in duplicate with each set of samples.
+The number of copies per microliter was calculated as
+follows:
+– Molecular weight of fragment = 300 bp  660
+Da = 1.98  105 g
+– 1 molecule or 1 copy of fragment = 1.98  105
+/6.02
+1023 = 3.23  10–19 g
+– therefore 10 ng contains 1010–9/3.23  10–19 copies =
+3.04  1010 copies
+Quantification of AlkB in Soil Samples. Real-time
+PCR assays were carried out on a Rotorgene 3000
+(Corbett) by using Quantitect SYBR green PCR kits
+(Qiagen). The primer concentrations were optimized to
+1 pmol of both the forward and reverse primer in each
+20 mL reaction. Two microliters of template DNA (whether
+sample or standard) was added to each reaction. Cycling
+conditions were as follows: hold for 15 min at 94-C,
+followed by 35 cycles of denaturing at 84-C for 20 s,
+annealing at 50-C for 30 s, extension and acquiring signal
+at 72-C for 45 s, a second acquiring step at 77-C for 15 s;
+hold at 45-C for 1 min followed by a melt curve from 45-C
+to 95-C. In addition to melt curve analysis, PCR products
+were checked on a 2% agarose gel to ensure they were the
+expected size.
+Quantification of Total Bacteria in Soil Samples.
+The primers described by Dahlloff et al. [4] for the
+ribosomal polymerase B subunit (rpoB) gene 1698F (50
+-
+CAA CAT CGG TTT GAT CAA C-30
+) and 2041R (30
+-
+CGT TGC ATG TTG GTA CCC AT-30
+) were used to
+quantify the total number of bacterial genomes in each
+sample. Reaction conditions were the same as described
+above except that 1.5 pmol of each primer was used.
+Cycling conditions with these primers were as follows:
+hold for 15 min at 94-C, followed by 35 cycles of
+denaturing at 88-C for 30 s, annealing 50-C for 30 s,
+extension and acquiring signal at 72-C for 30 s; hold at
+45-C for 1 min followed by a melt curve from 45-C to
+95-C. A set of standards (3.8  104 to 3.8  108 copies)
+was created for this assay in the same manner as that
+described above for the alkB assay.
+Most Probable Number Counts. Cultivable
+bacteria were enumerated using tailored versions of the
+Wrenn and Venosa MPN count method [31]. Initial soil
+Table 1. Accession number of sequences used in constructing
+the alkB primers and the theoretical melt temperature of the
+amplification product
+Strain
+Accession
+number
+Theoretical Tm
+of alkB product (-C)
+Rhodococcus erythropolis AJ009586 83
+Rhodococcus erythropolis AJ297269 82
+Rhodococcus erythropolis AJ301874 80
+Rhodococcus sp. 1BN AJ401611 84
+Rhodococcus sp. Q15 AF388179 80
+Rhodococcus sp. Q15 AF388180 84
+Rhodococcus sp. Q15 AF388181 82
+Rhodococcus sp. Q15 AF388182 82
+Rhodococcus fascians AJ301873 84
+Burkholderia cepacia AJ293344 85
+Thalassolituus oleivorans AJ431700 73
+Alcanivorax borkumensis AJ577851 79
+Pseudomonas fluorescens AJ009579 84
+Pseudomonas aeruginosa AJ009581 83
+Pseudomonas putida AJ233397 77
+Pseudomonas aureofacians AJ250560 77
+Xanthobacter flavus AJ418063 78
+S.M. POWELL ET AL.: MICROBIAL ECOLOGY OF BIOREMEDIATION IN ANTARCTICA 525
+dilutions of ca. 0.5 g soil to Bushnell–Haas broth (Difco)
+were used for a four-tube MPN, with 1:10 serial dilutions
+in a 96-well microtiter plates. Samples were analyzed in
+triplicate. After serial dilution, 5 mL filter-sterilized
+hydrocarbons (either SAB or an alkane mix containing
+9.1 g decane and 4.8 g pentadecane) were applied to the
+surface of the broth. The last row of wells were not
+inoculated and served as a negative control for growth.
+After 14 days incubation at 10-C, 50 mL of a 3%
+iodonitrotetrazolium violet (Sigma) solution was added
+to each of the wells and incubated overnight. Tubes were
+scored as positive on the formation of a pink precipitate.
+Total heterotrophic bacteria were also enumerated, in
+triplicate, in a similar manner except that half-strength
+tryptone soya broth was used instead of Bushnell–Haas
+plus hydrocarbons and positive tubes were indicated by
+turbidity after 7 days incubation.
+Results
+Validation of Real-Time PCR Methods. Thirty-six
+sequences were obtained from the clones (created with
+the degenerate primer set), and of these 29 (80%) were
+related to alkane monooxygenase genes, mostly from
+Pseudomonas species. These sequences were used to
+design a set of nondegenerate primers by replacing the
+degenerate bases with the base most frequently found in
+that position in our clones. Although this increases the
+specificity of the assay and probably results in some
+variations of the gene not being detected, it is necessary
+to avoid the problem of differing amplification efficiencies
+created by the use of degenerate primers.
+Melt-curve analysis was used to check for the
+production of secondary products such as primer dimers
+in the assays. It was observed in early runs with low DNA
+template concentrations that there were sometimes two
+peaks in the melt curves of both the alkB and rpoB gene
+assays: one with a melt temperature (Tm) at around 81-C
+or 86-C, respectively, and a second, smaller peak at 87-C
+or 91-C (e.g., Fig. 1A). The peak with the lower Tm was
+consistently present and on 2% agarose gels corresponded
+to a band of the expected size. The other peak
+was only present when the DNA template concentration
+was low or primer concentration was high and showed
+up as a faint fuzzy band of less than 100 bp on 2%
+agarose gels. A second primer dimer with a Tm of 72-C
+was also observed in some samples (Fig. 1B). Melt curves
+from optimized rpoB assays showing the presence of a
+small amount of product in the negative control are
+shown in Fig. 1C.
+Differences in the Tm of the alkB PCR product
+(Fig. 1D) were observed between pure cultures (e.g.,
+Pseudomonas aeruginosa, 81-C), soil samples (80.5-C),
+marine sediment samples (83-C), and the PCR product
+standard (82-C). Although the peaks were at slightly
+different temperatures, there was only a single peak for
+each sample, and when run on a 2% agarose gel the PCR
+products were the same size. The theoretical melt
+temperature of the expected product from each of the
+strains listed in Table 1 was calculated by using the
+Biomath calculator for melting temperature available at
+http://www.promega.com/biomath/default.htm (Promega).
+The range of melt temperatures calculated was
+quite large—up to 4-C within the same species and 12-C
+over different species (Table 1).
+The standard curves for both assays were linear
+(r
+2 9 0.95) over 8 orders of magnitude for the alkB assay
+and 6 orders of magnitude for the rpoB gene assay. This
+equated to a lower limit of 3 copies mL–1 for the alkB
+assay and 1880 copies mL–1 for the rpoB assay. The r
+2
+values were consistently greater than 0.95 and usually
+greater than 0.99 for both assays. Once the primer
+concentration was optimized, the efficiency of the reactions
+was between 0.9 and 1.1 (or 90–110%). Runs that fell
+outside these parameters (r
+2 G 0.95 and efficiency G0.9 or
+91.1) were repeated. There was usually no signal in the
+no-template control for the alkB assay, but for the rpoB
+assay the signal in the no-template control was generally
+between 1  103 and 5  103 copies mL–1.
+To assess the within-run reproducibility of the
+assays, the same sample was analyzed six times within
+the same run. The CV for both assays was low when
+calculated on the CT values: 1.4% for the alkB gene assay
+and 1.2% for the rpoB gene assay, but much higher when
+calculated on the number of copies mL–1: 16% and 18%,
+respectively.
+The between-run reproducibility was assessed by
+including duplicates of the same sample with each run.
+As the selected threshold value varied for each run, the
+CV could only be calculated on the concentration of each
+target gene. The variability measured in this way was
+higher than the within-run variation: 25% for the alkB
+gene and 38% for the rpoB gene.
+Field Trial Results. Student’s t test was used to
+determine which treatments and/or times were signi-
+ficantly different from each other (Table 2). The MPN
+results were very variable, much more than the real-time
+PCR results. This variability meant that none of the
+differences between groups are significant at p G 0.05
+although differences between groups could be detected at
+the p G 0.15 level for the MPN results. All the real-time
+PCR results were tested for significance at p G 0.05.
+In the samples from 2000, which were taken approximately
+1 year after the addition of fertilizer to the soil,
+only the LCRN treatment has significantly more copies of
+the alkB gene g–1 soil (Fig. 2A and Table 2). Both the
+LCRN and HCRN treatments have significantly more
+copies of rpoB than the control (Fig. 2C and Table 2).
+There are no significant differences, for any of the MPN
+526 S.M. POWELL ET AL.: MICROBIAL ECOLOGY OF BIOREMEDIATION IN ANTARCTICA
+results, between any of the groups in 2000 (Fig. 2B, D, H
+and Table 2). The ratio of number of copies of the alkB
+gene (specific to some bacteria) to the rpoB gene (present
+in all bacteria) was used to look for changes in the microbial
+population structure (Fig. 2E). This ratio was significantly
+lower in the HCRN treatment than in the control
+(Table 2).
+After a further 4 years in situ, more differences could
+be observed between the control and the fertilization
+treatments. The number of copies of both the alkB gene
+and the rpoB gene g–1 soil are significantly lower in the
+treatments than in the control (Fig. 2A and C and Table 2),
+as is the ratio between the two genes (Fig. 2E and
+Table 2). The number of total heterotrophs is signifi-
+cantly greater in the HCRN treatment than in the control
+(Fig. 2D and Table 2). Differences in total heterotrophs
+and alkane-degrading bacteria are not significantly
+different from the control at p G 0.15 (Fig. 2B and D
+Figure 1. Melt curves from the
+alkB gene assay (A, B, D) and
+rpoB gene assay (C). The product
+is marked with an * and primer
+dimers are marked PD. (A, B)
+Occurrence of primer dimers
+formed when the primer concentration
+was high and the amount
+of template DNA low or absent.
+The temperature of denaturing
+step in the real-time PCR protocol
+was 94-C for (A) and 84-C for
+(B). Variation in Tm for different
+sample types is shown in a composite
+figure in panel (D).
+S.M. POWELL ET AL.: MICROBIAL ECOLOGY OF BIOREMEDIATION IN ANTARCTICA 527
+and Table 2) for the LCRN treatment. However, the
+SAB-degrading bacteria are significantly higher in both
+the LCRN and HCRN than in the control (Fig. 2H).
+The percentage of the bacterial population that is SABdegrading
+is also higher (p G 0.15) in the HCRN treatment
+than in the control (not shown).
+The comparison between samples taken in 2000 and
+2004 show that the total number of bacteria, measured via
+both real-time PCR and MPN, has increased for the
+control but has remained at about the same level for both
+the LCRN and HCRN treatments. The number of copies
+of the alkB gene g–1 soil, however, has decreased (significantly
+for LCRN) in the two treatments but increased in
+the control. No significant differences could be detected
+between the 2000 and 2004 samples for the MPN of
+alkane-degrading bacteria (Table 2). The ratio of alkB:
+rpoB gene copy numbers is significantly less (Table 2) for
+all three groups in the samples from 2004. The abundance
+of SAB-degrading microorganisms (as determined
+by MPN counts) has increased significantly for both
+treatments but decreased in the control.
+The concentrations of n-alkanes present in the field
+trial samples in 2000 and 2004 are shown in Fig. 2G. In
+the 2000 samples, the concentration of n-alkanes are
+significantly lower in the two treatments; in the 2004
+samples n-alkanes were only detectable in the control
+samples. The concentration of n-alkanes remaining in the
+soil is positively correlated (r
+2 = 0.87) with the ratio of
+the alkB:rpoB gene copy numbers.
+Discussion
+Real-Time PCR Assay Validation. At the time the alkB
+primers were designed, there were only 20 sequences for
+the alkane monooxygenase gene available in Genbank.
+Even with this small number it was obvious that the
+sequences were divergent and finding a suitable region
+where primers could be placed approximately 100 bp
+apart (optimal for real-time PCR) was difficult. For this
+reason, some degenerate bases were incorporated in the
+primers and this set was used to create a clone library
+that allowed us to then design primers that would be
+specific for our site.
+The clone library constructed with the degenerate
+primer set demonstrates that these primers are specific
+for the alkane monooxygenase gene alkB. The non-alkB
+sequences obtained did not return any significant similarities
+from BLAST searches in GenBank. The presence
+of these sequences may be attributable to the fact that the
+system used (TOPO-TA from Invitrogen) recommended
+not purifying the PCR product prior to the ligation step.
+The Tm of the product of interest in both assays was
+identified by correlating the size of the fragment on 2%
+agarose gels with single peaks in melt curves. A peak was
+observed in the melt curves from both the alkB and rpoB
+gene assays that was identified as primer dimer. This is a
+particular problem when using the SYBRGreen chemistry
+as the SybrGreen dye produces a signal from any doublestranded
+DNA, which can result in false positives or
+elevated readings. To prevent the formation of the secondary
+product with a higher Tm, the denaturing temperature
+during the cycling steps was changed to 84-C or
+88-C. This temperature was still high enough to denature
+the product with the lower Tm but not the secondary
+product (primer dimer) with the higher Tm, thereby
+preventing it from being amplified. Another peak at 72-C
+appeared in the negative controls (Fig. 1B) resulting in a
+high signal for the negative controls. As suggested in the
+Quantitect SYBRGreen PCR Handbook (Qiagen), by
+adding a 15-s acquiring signal step at a higher temperature
+at which the primer dimer has denatured (77-C in
+this case), the signal due to primer dimer was removed as
+SYBRgreen does not bind to denatured DNA.
+Variations of approximately 3-C in the Tm were
+observed for different samples in the alkB gene assay
+(Fig. 1D). The theoretical Tm were calculated for a range
+of sequences from GenBank (Table 1) and varied by
+12-C. A similar phenomenon was observed by Stubner
+[24], who concluded that the diversity of sequences
+present in their samples resulted in melt curves with
+broad flat peaks unlike the melt curves from the standards,
+which had a single, sharp peak.
+Table 2. Significant differences between microbial communities
+2000 2004 2000–2004
+LCRN HCRN LCRN HCRN Control LCRN HCRN
+Copies alkB g–1 soil j 0.004 _ (0.98) , 0.004 , 0.001 j 0.001 , 0.007 _ (0.10)
+Copies rpoB g–1 soil j 0.003 j 0.002 , 0.008 , 0.03 j 0.002 _ (0.29) _ (0.88)
+alkB:rpoB _ (0.60) , 0.017 _ (0.66) , 0.004 , 0.024 , 0.002 , 0.011
+Alkane degraders _ (0.24) _ (0.21) _ (0.53) _ (0.19) _ (0.20) _ (0.20) _ (0.19)
+SAB degraders _ (0.24) _ (0.37) j 0.11 j 0.13 j 0.15 j 0.13 j 0.13
+Total heterotrophs _ (0.49) _ (0.22) _ (0.49) _ (0.17) _ (0.34) _ (0.51) j 0.13
+Comparisons are between the control and either the LCRN or HCRN treatments for the first two columns and between the 2000 and 2004 samples for the
+last column. p values from Student’s t tests are shown.
+j: significant increase; ,: significant decrease; _: not significantly different.
+528 S.M. POWELL ET AL.: MICROBIAL ECOLOGY OF BIOREMEDIATION IN ANTARCTICA
+Figure 2. Changes in the control (white boxes) and fertilized treatments LCRN (grey boxes) and HCRN (dark boxes). Copy numbers g–1 soil
+of the alkB gene (A), rpoB gene (C), ratio of alkB:rpoB (E); most probable number count g–1 soil of alkane degraders (B), total heterotrophs
+(D) and SAB degraders (H); alkane degraders as a percentage of total heterotrophs (F); and the concentration of the sum of n-alkanes mg
+kg–1 soil (G). Bars indicate standard deviations.
+S.M. POWELL ET AL.: MICROBIAL ECOLOGY OF BIOREMEDIATION IN ANTARCTICA 529
+The limit of detection for the two assays described
+here was defined in different ways. Although the rpoB gene
+standard curve was linear to 1880 copies mL–1, the
+negative control often had close to 5  103 copies mL–1
+(Fig. 1C). As our samples always contained over 1  106
+copies mL–1, this was not significant. However, we
+defined the lower limit of detection as three times the
+standard deviation of the negative control taken over
+four different runs (2.7  103
+), which resulted in the
+lower limit for reliable quantification of the amount of
+rpoB genes in a sample as 1  104 copies mL–1. Other
+studies have also reported signal in the negative control
+(e.g., [9]). We observed that the alkB standard curve was
+linear down to 3 copies of alkB mL–1, but at this level
+adhesion of DNA to tubes is likely to be a problem.
+When serial dilutions of samples were run alongside a
+standard curve, it was observed that the dilutions of the
+samples were not linear below 200–300 copies mL–1 (data
+not shown). For this reason, we would suggest that the
+lower limit for reliable quantification for alkB is 300
+copies mL–1. This is similar to other studies that have
+reported detection limits of around 100 copies per PCR
+reaction [9, 17].
+The CV values from this study (based on concentrations
+rather than CT values) compare well to those
+calculated by Dionisi et al. [6]. In that study, the withinrun
+CV was 17% (compared to 16% and 18% in our
+assays) and the between-run CV was 37.5% (compared
+to 25% and 38% in our assays). The high between-run
+CV is partially attributable to the log-linear relationship
+between the raw signal (CT) and the concentration values.
+To minimize this effect we assayed all the samples, except
+those that required repeating, in one run. Naturally, this
+may not be practicable for large studies and caution
+should be used when interpreting small differences
+between groups.
+Many factors—including the amount of sample used
+for DNA extraction, the efficiency of the extractions, and
+the presence of PCR inhibitors—affect the number of
+copies of any genes measured in a sample. To avoid these
+problems, the ratio of number of copies of the alkB gene
+(specific to some bacteria) to the rpoB gene (present in
+all bacteria) was used to look for changes in the microbial
+population structure. This is analogous to the use of
+a housekeeping gene in gene expression studies, and
+indeed the 16S rRNA gene was previously used for this
+purpose [5]. The proportion of alkB:rpoB genes observed
+was high: between 50% and 600% (Fig. 2E). This is not a
+reflection of the actual gene numbers in the samples, but
+is more likely a result of the differences in amplification
+efficiencies between the two assays. The average efficiency
+of the rpoB assay (92%) was lower than the average ef-
+ficiency of the alkB assay (95%). As the efficiency of each
+assay was consistent, comparisons between samples are
+still valid; however, the ratios between the alkB and rpoB
+genes should be considered as indicative of the community
+structure rather than absolute percentage values.
+Although the variability of the MPN results made it
+more difficult to detect significant differences between
+groups, where differences were detected, they reflected
+the same trends as the real-time PCR data. For example,
+both methods suggest that addition of fertilizer to the
+soil increased the total number of bacteria present (see
+Fig. 2C and D).
+Changes in the Microbial Community after
+Fertilization. Various studies have shown that the addition
+of fertilizer to hydrocarbon-contaminated soil
+increases hydrocarbon degradation (e.g., [3, 7, 19]).
+However, few studies have followed the microbial population
+dynamics in any detail, often only showing an
+increase in the number of total or hydrocarbon-degrading
+bacteria. Here we show that there is a link between the
+decrease in the amount of alkanes present with the
+number of copies of alkB and changes in the microbial
+community structure.
+The sum of the n-alkanes remaining in each treatment
+is shown in Fig. 2G. It is clear that fertilization has
+stimulated the biodegradation of alkanes as 1 year after
+the application of fertilizer, both treatments have
+significantly less n-alkanes remaining than the control,
+and the higher concentration of fertilizer has the least
+remaining n-alkanes. After a further 4 years, n-alkanes
+were only detectable in the control but the concentration
+was significantly reduced from that in 2000. Although
+some of the n-alkanes will have been lost through evaporation,
+the increased loss in the fertilized treatments
+compared to the control is attributable to increased
+biodegradation.
+Our data indicate that fertilization has stimulated the
+total numbers of bacteria present in these soils as both the
+rpoB real-time PCR and the total heterotrophic MPN
+data show that in 2000, the treatments showed signifi-
+cantly higher levels than the control. In addition, the
+2004 samples are generally higher than the 2000 samples.
+Fertilization had a more complex effect on the
+hydrocarbon-degrading population. Initially, the fertilization
+significantly increased the number of copies of alkB
+g–1 soil: the LCRN samples from 2000 were significantly
+higher than the control. However, by 2004 the control
+had significantly more copies of alkB g–1 soil. Between
+2000 and 2004, there has been a significant increase in
+the number of copies of alkB g–1 soil in the control and
+also a significant decrease in both the treatments. The
+correlation between the number of copies of alkB g–1 soil
+and the concentration of n-alkanes suggests that this is
+probably because the control treatment is the only one
+with n-alkanes remaining. Sei et al. [20] measured the
+degradation of alkanes in seawater microcosms over
+60 days and observed that an increase in the level of alk
+530 S.M. POWELL ET AL.: MICROBIAL ECOLOGY OF BIOREMEDIATION IN ANTARCTICA
+genes preceded the degradation of alkanes. This was
+followed by a decrease in the level of alk genes after the
+alkanes had been degraded in a manner similar to the
+observations made in this study. In Fig. 2E, it can be seen
+that the proportion of the population that carries the
+alkB gene has decreased significantly in all treatments,
+most particularly in the HCRN treatment 5 years after
+the fertilizer was applied. In the 2000 samples (1 year
+after application), the HCRN treatment has the smallest
+proportion of alkB-containing organisms and also the
+least amount of n-alkanes remaining.
+The addition of fertilizer has most likely stimulated
+the growth of bacteria that have an available carbon
+source and are able to compete for the nutrients. After
+1 year the HCRN treatment contained very low levels of
+n-alkanes; the most easily utilized hydrocarbon source
+has been depleted. The microbial community may have
+been dominated by alkane degraders earlier in the year,
+but by the time the samples were collected, the community
+had already adapted to the use of other hydrocarbon
+as a carbon source. This demonstrates the ability of microorganisms
+to quickly respond to changing conditions
+even in this environment, which is frozen for much of
+the year. It would be interesting to follow the levels of
+alkB over much smaller time intervals to gain a better
+appreciation of the speed at which the microbial community
+adapts.
+Although there are no significant differences (p 9
+0.15) between any groups in the alkane-degrading MPN
+data, there are significantly more SAB-degrading bacteria
+in the fertilized treatments than in the control in 2004
+(Fig. 2H). This continued increase in the numbers of
+SAB-degrading bacteria suggests that a population capable
+of degrading nonalkane components of the diesel are
+able to successfully compete for nutrients after the easily
+degradable alkanes have been consumed and are now
+increasing in number. In terms of overall bioremediation
+of the site, this is very encouraging as the total petroleum
+hydrocarbon content of the soil 5 years after the addition
+of fertilizer is still approximately 2000–6000 mg kg–1 soil
+in 2004 [18].
+The fact that the proportion of alkB containing
+microbes is highest in the treatments with the most nalkanes
+present (r
+2 = 0.87) also suggests that the alkane
+monooxygenase pathway is important in the degradation
+of n-alkanes in Antarctic soils. These genes have been
+previously detected in both pristine and contaminated
+Antarctic soils from areas distant from Casey Station
+[15], and so would appear to be widespread in the
+Antarctic terrestrial environment. However, this does not
+mean that this is the only degradative pathway operating.
+Work by van Beilen et al. [28] showed that cytochrome
+P450 belonging to the CYP153 family could confer the
+ability to degrade medium-chain length alkanes on
+recombinant strains. Although hydrocarbon degradation
+by anaerobic processes does occur in this soil [18], we
+did not consider these processes in this study as they are
+unlikely to contribute significantly to biodegradation in
+the surface portion of the soil profile.
+Conclusions
+The examination of the microbial community in the
+bioremediation field trial revealed that fertilization
+stimulated the different groups of investigated bacteria.
+Initially, the alkane-degrading bacteria are able to
+dominate the hydrocarbon-degrading population, but
+after the easily degraded alkanes have become scarce,
+other bacteria able to utilize different hydrocarbons dominate
+the population. This suggests that fertilization will
+continue to promote biodegradation of the SAB diesel
+even after the most easily degraded components have
+disappeared.
+In this study, we found that real-time PCR was
+more reproducible, less labor-intensive, and quicker
+than culture-based techniques once the assays had been
+developed. Real-time PCR is an ideal technique for
+ecological studies as a single DNA extract can be analyzed
+for many genes, allowing a quantitative approach to
+analyzing both community structure and function. However,
+it is important that real-time PCR assays are tested
+thoroughly for specificity and reproducibility and that the
+limitations of the method are recognized.

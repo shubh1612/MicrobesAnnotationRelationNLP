@@ -1,0 +1,111 @@
+T1	Microbes 200 214	Geobacteraceae
+T2	Environment 38 57	uncontaminated site
+T3	Microbes 339 353	proteobacteria
+T4	Microbes 382 400	enrichment culture
+T5	Property 364 381	
+T6	Microbes 418 436	enrichment culture
+T7	Environment 599 608	sediments
+T8	Substrate 476 483	benzene
+T9	Property 522 533	crystalline
+T10	Nutrient 560 577	electron acceptor
+T11	Environment 733 740	aquifer
+T12	Substrate 765 772	benzene
+T13	ReactionOrProcess 757 764	degrade
+T14	Microbes 821 840	enrichment cultures
+T15	Environment 890 909	uncontaminated site
+T16	Environment 871 880	sediments
+T17	Substrate 803 810	
+T18	Microbes 946 964	enrichment culture
+T19	Substrate 1172 1179	benzene
+T20	ReactionOrProcess 1133 1143	enrichment
+T21	ReactionOrProcess 1150 1171	anaerobically oxidize
+T22	Microbes 1240 1259	enrichment cultures
+T23	Microbes 1389 1401	G. chapellei
+T24	Property 1222 1239	benzene-oxidizing
+T25	ReactionOrProcess 1181 1194	
+T26	Microbes 1658 1671	G. fermentans
+T27	Microbes 1516 1536	Variovorax paradoxus
+T28	Substrate 1566 1573	toluene
+T29	Property 1574 1582	degrader
+T30	Microbes 1739 1758	enrichment cultures
+T31	Microbes 1914 1927	Geobacter spp
+T32	Environment 1725 1734	sediments
+T33	ReactionOrProcess 1807 1839	anaerobic benzene mineralization
+T34	ReactionOrProcess 1775 1779	PLFA
+T35	Microbes 2011 2024	Geobacter spp
+T36	Substrate 2088 2114	oxidize aromatic compounds
+T37	ReactionOrProcess 2124 2133	reduction
+T38	Microbes 2327 2340	Geobacter spp
+T39	Substrate 2391 2398	benzene
+T40	ReactionOrProcess 2380 2390	metabolize
+T41	Microbes 2481 2494	Geobacter spp
+T42	ReactionOrProcess 2564 2590	active benzene degradation
+T43	Microbes 2720 2738	enrichment culture
+T44	Environment 2944 2952	aquifers
+T45	Substrate 2777 2784	benzene
+T46	ReactionOrProcess 2785 2796	degradation
+T47	ReactionOrProcess 2991 2995	PLFA
+T48	Environment 3018 3025	aquifer
+T49	Substrate 3075 3082	benzene
+T50	ReactionOrProcess 3086 3099	anaerobically
+T51	ReactionOrProcess 3100 3108	degraded
+T52	ReactionOrProcess 3132 3140	reducing
+T53	Environment 3257 3266	sediments
+T54	Environment 3249 3256	aquifer
+T55	Substrate 3169 3176	benzene
+T56	Substrate 3292 3299	benzene
+T57	ReactionOrProcess 3177 3186	oxidation
+T58	ReactionOrProcess 3424 3441	electron shuttles
+T59	ReactionOrProcess 3206 3215	reduction
+T60	ReactionOrProcess 3300 3311	degradation
+T61	Nutrient 3393 3409	humic substances
+T62	Substrate 3498 3505	toluene
+T63	Substrate 3510 3521	naphthalene
+T64	Substrate 3459 3486	
+T65	ReactionOrProcess 3532 3540	degraded
+T66	ReactionOrProcess 3556 3564	reducing
+T67	Substrate 3688 3695	benzene
+T68	Substrate 3635 3647	hydrocarbons
+T69	ReactionOrProcess 3614 3625	degradation
+T70	ReactionOrProcess 3696 3707	degradation
+T71	Substrate 3946 3953	benzene
+T72	Property 3777 3785	reducers
+T73	ReactionOrProcess 3938 3945	degrade
+T74	ReactionOrProcess 4011 4040	anaerobic benzene degradation
+R2	Of Arg1:T4 Arg2:T5
+R5	ActOn Arg1:T6 Arg2:T8
+R6	CarriedOn Arg1:T13 Arg2:T12
+R7	OccursIn Arg1:T13 Arg2:T11
+R8	FoundIn Arg1:T14 Arg2:T15
+R9	FoundIn Arg1:T14 Arg2:T16
+R10	ActOn Arg1:T14 Arg2:T17
+R11	CarriedOn Arg1:T20 Arg2:T19
+R12	CarriedOn Arg1:T21 Arg2:T19
+R13	Of Arg1:T22 Arg2:T24
+R15	CarriedOn Arg1:T25 Arg2:T22
+R18	Of Arg1:T27 Arg2:T29
+R20	ActOn Arg1:T27 Arg2:T28
+R21	FoundIn Arg1:T30 Arg2:T32
+R24	CarriedOn Arg1:T33 Arg2:T31
+R28	OccursIn Arg1:T34 Arg2:T32
+R29	CarriedOn Arg1:T37 Arg2:T36
+R30	CarriedOn Arg1:T40 Arg2:T39
+R33	CarriedOn Arg1:T46 Arg2:T43
+R34	CarriedOn Arg1:T46 Arg2:T45
+R36	CarriedOn Arg1:T50 Arg2:T49
+R37	CarriedOn Arg1:T51 Arg2:T49
+R38	CarriedOn Arg1:T52 Arg2:T49
+R40	OccursIn Arg1:T51 Arg2:T48
+R42	CarriedOn Arg1:T57 Arg2:T55
+R49	CarriedOn Arg1:T60 Arg2:T56
+R50	OccursIn Arg1:T57 Arg2:T53
+R51	OccursIn Arg1:T57 Arg2:T54
+R56	OccursIn Arg1:T60 Arg2:T53
+R58	CarriedOn Arg1:T65 Arg2:T62
+R59	CarriedOn Arg1:T65 Arg2:T63
+R60	CarriedOn Arg1:T65 Arg2:T64
+R61	CarriedOn Arg1:T66 Arg2:T62
+R63	CarriedOn Arg1:T66 Arg2:T64
+R65	CarriedOn Arg1:T69 Arg2:T68
+R66	CarriedOn Arg1:T70 Arg2:T67
+R68	CarriedOn Arg1:T73 Arg2:T71

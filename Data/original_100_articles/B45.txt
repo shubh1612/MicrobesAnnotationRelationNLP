@@ -1,0 +1,663 @@
+B45
+Anaerobic biodegradation of BTEX and gasoline in various aquatic
+sediments
+Craig D. Phelps & L.Y. Young∗
+Rutgers, The State University of New Jersey, New Brunswick, NJ, USA (∗author for correspondence)
+Accepted 16 September 1998
+Key words: anaerobic, biodegradation, BTEX, gasoline, hydrocarbons
+Abstract
+We examined the extent of biodegradation of benzene, toluene, ethylbenzene and the three isomers of xylene
+(BTEX) as a mixture and from gasoline in four different sediments: the New York/New Jersey Harbor estuary
+(polluted); Tuckerton, N.J. (pristine); Onondaga Lake, N.Y. (polluted) and Blue Mtn. Lake, N.Y. (pristine). Enrichment
+cultures were established with each sediment using denitrifying, sulfidogenic, methanogenic and iron
+reducing media, as well as site water. BTEX loss, as measured by GC-FID, was extensive in the sediments which
+had a long history of pollution, with all compounds being utilized within 21–91 days in the most active cultures, and
+was very slight or non-existent in the pristine sediments. Also, the pattern of loss was different under the various
+reducing conditions within each sediment and between sediments. For example benzene loss was only observed in
+sulfidogenic cultures from the NY/NJ Harbor sediments while toluene was degraded under all redox conditions.
+The loss of BTEX was correlated to the reduction of the various electron acceptors. In cultures amended with
+gasoline the degradation was much slower and incomplete. These results show that the fate of the different BTEX
+components in anoxic sediments is dependent on the prevailing redox conditions as well as on the characteristics
+and pollution history of the sediment.
+Introduction
+The monoaromatic hydrocarbons: benzene, ethylbenzene,
+toluene and o-, m-, and p-xylene (BTEX) are
+constituents of petroleum and its products such as
+gasoline and diesel fuel. Because they have a relatively
+high water solubility, these chemicals readily
+travel from spills or leaking storage tanks into groundwater
+and from there into drinking water supplies.
+Benzene is of particular concern as a pollutant because
+of its carcinogenicity (Dean 1985). The others
+are toxic to varying degrees. BTEX also moves easily
+into sediments and other environments where oxygen
+is limited. In these anoxic environments, bacteria
+may use nitrate, iron, sulfate or carbonate as an electron
+acceptor while degrading organic compounds,
+but these ions cannot take the place of oxygen as a
+reactant in aromatic ring cleavage. Because of this,
+bacteria have had to evolve novel pathways for anaerobic
+ring cleavage (Harwood & Gibson 1997). The
+BTEX compounds are especially difficult to degrade
+because they lack an activating oxygen or nitrogen
+substituent group which would make oxidation of the
+ring more energetically feasible. Although biodegradation
+of these hydrocarbons has been conclusively
+shown to occur under several anaerobic conditions,
+information regarding the extent of this activity, or the
+conditions that encourage it is limited.
+The capability of bacteria to anaerobically biodegrade
+BTEX has been clearly demonstrated. several
+pure strains of bacteria which mineralize toluene under
+denitrifying, sulfidogenic or iron-reducing conditions
+have been isolated (for a review see Frazer et
+al. 1995), as have denitrifyers which degrade ethylbenzene
+(Ball et al. 1996; Rabus & Widdel 1995) and
+m-xylene (Dolfing et al. 1990; Hess et al. 1997; Rabus
+& Widdel 1995). The mineralization of various isomers
+of xylene also occurs under denitrifying (Ball
+& Reinhard 1996 [p, m, o]; Bregnard et al. 1996
+[p, m, o]; Evans et al. 1991 [m]; Haner et al. 1995
+16
+[p, m]; Hutchins et al. 1991 (p, m], 1991b (p, m],
+1992 [p, m]; Kao & Borden 1997 [m]; Kuhn et al.
+1985 [p, m], 1988 [m]; Zeyer et al. 1986 [m]) as
+well as sulfate-reducing (Ball & Reinhard 1996 [p,
+m, o]; Edwards et al. 1992 [p, m, o]; Haag et al.
+1991 [p]; Rabus et al. 1996 [m, o]; Reinhard et al.
+1997 [p, m, o]) and methanogenic (Edwards & GrbicGalic
+1994 [o]; Wilson et al. 1986 [o]) conditions.
+Recently benzene degradation has been demonstrated
+under iron-reducing (Kazumi et al. 1997; Lovley et
+al. 1994, 1996), sulfidogenic (Edwards & Grbic-Galic,
+1992; Kazumi et al. 1997; Lovley et al. 1995; Phelps
+et al. 1996) and methanogenic conditions (Kazumi et
+al. 1997).
+Although this activity has been clearly demonstrated,
+it has generally been found only in highly
+polluted areas. Most studies have focused on a single
+polluted site such as a heavily trafficked harbor or
+an aquifer which has a history of chronic spills. Few
+studies have examined the variability in biodegradative
+capacity between different sites under different
+reducing conditions. Kao & Borden (1997) looked at
+BTEX degradation in several aquifer sediments, both
+polluted and clean, in denitrifying microcosms. They
+found that some inocula resulted in loss of toluene,
+ethylbenzene, m-xylene and o-xylene, whereas others
+showed no or reduced activity. Variation within a site,
+depending on the terminal electron acceptor provided
+was studied by Ball & Reinhard (1996) and Reinhard
+et al. (1997) at a gasoline contaminated aquifer. BTEX
+loss was observed under denitrifying and sulfidogenic
+conditions. Differences were seen in both patterns and
+rates of degradation.
+Benzene mineralization, in particular, has proven
+to be an elusive activity. Many researchers have reported
+that benzene was recalcitrant when sulfate
+was present (Ball & Reinhard 1996; Edwards et al.
+1992; Langenhoff et al. 1996; Reinhard et al. 1997)
+but others have demonstrated biodegradation under
+these same conditions (Edwards & Grbic-Galic, 1992;
+Kazumi et al. 1997; Lovley et al. 1995; Phelps et al.
+1996). We were interested in finding out if there was a
+difference in the degradation of BTEX in enrichment
+cultures established under identical conditions using
+different sediments as inocula.
+It was our goal to determine if differences between
+contaminated and pristine environments would have
+an effect on the degradation of BTEX under different
+anaerobic conditions. We aim to comprehensively
+compare sediments from these environments in microcosms
+using identical protocols, media and incubation
+conditions in order to demonstrate the effects of the
+different inocula and electron acceptors.
+We established enrichment cultures using sediment
+from four different sites, under five different reducing
+conditions in order to examine the effect of sediment
+characteristics and electron acceptors on BTEX
+biodegradation. The four sites were chosen because
+of their different histories of contamination and sediment
+characteristics. Two marine sites, one polluted
+(Arthur Kill) (AK) and the other pristine (Tuckerton)
+(TKT) were compared to two freshwater sites, also
+polluted (Onondaga Lake) (OL) and pristine (Blue
+Mtn. Lake) (BML). The Arthur Kill is part of the
+New York/New Jersey Harbor Estuary and is characterized
+by a long history of industrial development
+and pollution. Petroleum and other hazardous chemicals
+are frequently released into its waters (Brosnan &
+O’Shea 1993; Gunster et al. 1993; Holliday & Klein
+1993). Similarly, Onondaga Lake, N.Y. has been the
+subject of industrial inputs, including mercury, petroleum,
+PCB’s and other chlorinated compounds since
+the late 1800’s (Effler & Harnett 1996; Perkins & Romanowicz
+1996). In contrast, the other sites are both
+considered to be free from gross anthropogenic impacts.
+The Tuckerton site is an unpolluted site (Gary
+Taghon, personal communication), located on the continental
+shelf off the coast of an undeveloped part
+of southern New Jersey. Blue Mtn. Lake is an oligotrophic
+lake located within the boundaries of the
+Adirondack Park (New York), and has low annual inputs
+of nutrients or other pollutants (Martin & Hyde
+1995).
+Materials and methods
+Sediment characterization
+Inocula for the enrichment cultures were collected
+from four different sites. All samples were taken from
+the top 20 cm of sediment. At the two polluted sites
+(AK and OL), this material was highly anaerobic,
+in the others (BML and TKT) the samples quickly
+became anoxic during storage. AK sediment was collected
+in ∼5 m of water using a coring device. OL was
+sampled using a Ponar dredge at a depth of ∼19 m.
+Surface sediments at the other sites (BML and TKT)
+were collected with simple scoops. Water from the site
+of collection was also sampled at each location. All
+sediments and site water were stored in sealed jars at
+4 ◦C until needed. In addition to the pollution history,
+17
+these sites also differed in the amount of organic matter
+and nutrients present in their sediments (Table 1).
+Sediment characterization was performed by the Soil
+testing Laboratory – New Jersey Agricultural Experiment
+Station using standard soil testing methods. The
+concentration of several ions in the site collected water
+were analyzed using ion chromatography.
+Enrichment conditions
+All enrichment cultures were set up as a 10%
+(vol./vol.) sediment slurry in defined mineral media,
+or in water collected at the site. The defined medium
+contained the following salts (in grams per liter): KCl,
+1.30; KH2PO4, 0.20; NaCl, 1.17; NH4Cl, 0.50; CaCl2
+· 2H2O, 0.10; MgCl2 · 6H2O, 0.41; and NaHCO3,
+2.52 as well as 0.1 ml trace salts, 1 ml vitamins and
+resazurin as a redox indicator. The trace metal supplement
+was composed of the following (in grams per
+liter): H3BO3, 0.062; MnCl · 4H2O, 0.098; FeCl2
+· 4H2O 1.49; CoCl2 · 6H2O, 0.119; NiCl2 · 6H2O,
+0.237; CuCl2, 0.134; and ZnCl2, 0.068. The vitamin
+supplement contained (in milligrams per liter): biotin,
+20; folic acid, 20; pyridoxine HCl, 100; riboflavin,
+50; thiamin, 50; nicotinic acid, 50; pantothenic acid,
+50; cyanocobalamin, 1; p-aminobenzoic acid, 50; and
+thiotic acid, 50. The medium used for the AK and TKT
+enrichments contained 23 g NaCl and 1.0 g MgCl2 ·
+6H2O per liter to approximate the salinity of sea water.
+In addition the methanogenic medium contained
+0.4 g/l of FeCl2 · 4H2O and 1.0 ml of 2.1 M Na2S ·
+9H2O as a reducing agent. The iron-reducing medium
+contained a slurry of amorphous FeOOH (∼200 mM
+Fe(III)) formed by the reaction of FeCl3 with NaOH.
+Denitrifying cultures were amended with 3.03 g/l of
+KNO3 (30 mM), and 2.84 g/l of Na2SO4 (20 mM) was
+added to the sulfidogenic medium along with 0.7 ml of
+2.1M Na2S · 9H2O.
+The sediment slurries were dispensed in 50 ml
+aliquots into 60 ml serum bottles under an atmosphere
+of 70% N2/30% CO2 (methanogenic and sulfidogenic)
+or Argon (denitrifying, iron-reducing and site water).
+Bottles were sealed with Teflon-coated, butyl rubber
+stoppers (Emsco, Philadelphia, PA) and crimp sealed.
+All enrichments were made in triplicate with duplicate
+sterile controls. The sterile controls were autoclaved
+three times on three consecutive days before initiation
+of the experiment. In addition, duplicate background
+controls were prepared in the same manner as the
+experimental cultures except that no substrate was
+added. These controls were used to account for electron
+acceptor loss due to metabolism of endogenous
+carbon in the sediment inoculum. The cultures were
+incubated at 30 ◦C in the dark without shaking. Strict
+anaerobic procedures were followed at all times.
+Each of the cultures, except background controls,
+was amended with a mixture of benzene, toluene,
+ethylbenzene, o-, m, and p-xylene (BTEX) (Aldrich
+Chemical Co., Milwaukee, WI) each at a concentration
+of ∼100 µM. BTEX was added neat using a microliter
+syringe. The BTEX compounds were the only
+carbon and energy source added to the enrichments.
+Enrichments used to compare the degradation of
+BTEX to gasoline were set up in the same way using
+site water as the medium and Arthur Kill sediment as
+the inoculum in a 10% (vol./vol.) slurry under an Argon
+headspace. The BTEX fed cultures received ∼100
+µM of each compound, the gasoline cultures were fed
+30 µl of commercial gasoline.
+Analytical procedures
+BTEX loss was monitored by withdrawing a 1 ml
+sample of the slurry and extracting with 0.4 ml of
+pentane containing 100 µM of fluorobenzene as an
+internal standard. The extract was analyzed using a
+Hewlett-Packard 5890 Series II gas chromatograph
+equipped with a flame ionization detector (HewlettPackard,
+Avondale, PA) and a 30 m × 0.32 mm
+DBWax capillary column (J&W Scientific, Folsom,
+CA).
+Nitrate and sulfate were measured on a Dionex
+model 100 ion chromatograph (Sunnyvale, CA)
+equipped with an IonPac AS9-SC column and a conductivity
+detector. The eluent was 2 mM Na2CO3,
+0.75 mM NaHCO3 at a flow rate of 2 ml min−1.
+Ions were quantitated by comparison with external
+standards using a Chrome-Jet integrator (SpectraPhysics,
+San Jose, CA). The production of methane
+was checked by withdrawing a 0.25 ml sample of
+the headspace gas with a gas-tight syringe (Precision
+Sampling, Baton Rouge, La.) which had been flushed
+with Argon, and analyzing it on a model 1200 gas
+partitioner (Fisher Scientific, Pittsburgh, Pa.).
+Results
+BTEX degradation
+The rate and pattern of BTEX degradation from our
+enrichment cultures showed distinct differences between
+the sediments used as the inoculum and the
+18
+Table 1. Characterization of sediments
+% % Nutrients (ppm) Texture (%)
+Sediment O.M. pH TKN P K Mg Ca Sand Silt Clay
+Arthur Kill 14.6 7.6 0.54 0.1 84 151 248 49 46 5
+Tuckerton 0.2 8.7 0.01 1.4 10 28 14 100 0
+Onondaga 14.6 7.8 0.51 0.1 12 28 445 ND∗
+Blue Mtn. 1.0 6.9 0.08 1.5 1 4 66 94 4 2
+Site Water
+mM
+Site NO−
+3 SO=
+4 Cl−
+Arthur Kill 0.05 8.2 164
+Tuckerton u.d. 17.0 245
+Onondaga 0.06 0.97 9.8
+Blue Mtn. 0.03 0.07 1.0
+∗ Sample was estimated to be less than 50% Sand and greater than 50% silt.
+Analyses were performed by the Soil Testing Laboratory – New Jersey Agricultural Experiment
+Station.
+electron acceptors provided. The results are summarized
+in Table 2. Degradation did not occur in any
+of the cultures from the BML sediment, and only
+one compound (toluene) was degraded in the TKT
+cultures (site water) (data not shown). Both of these
+sites are characterized by a lack of pollution history,
+low organic matter content and relatively low nutrient
+concentrations (Table 1). In contrast, BTEX loss was
+extensive in cultures established from the heavily polluted,
+high organic matter, Arthur Kill and Onondaga
+Lake sites.
+Activity was especially rapid in the nitrate
+amended cultures of both polluted sites (AK and OL).
+Toluene, m-xylene and ethylbenzene were all lost,
+with no apparent lag, in both sets of enrichments (Figure
+1A). However, no subsequent loss of the other
+compounds was observed in the AK cultures, and only
+p-xylene was lost (after a very long lag period) in the
+OL cultures. The pattern of degradation was the same
+in both sediments. Toluene, and m-xylene in OL, was
+lost within the initial 21 days of incubation. These
+were followed closely by ethylbenzene. There was
+also a small (∼20–40%) decrease in the concentration
+of o-xylene during the first three weeks, possibly due
+to cometabolism.
+In the sulfate amended enrichments, degradation
+of BTEX began more slowly, but in the case of AK,
+proceeded to completion for all six of the substrates
+(Figure 1B). The same pattern was seen in the site
+water cultures (Figure 1C) which were actively sul-
+fidogenic. Toluene was degraded first, followed by oand
+m-xylene, then p-xylene and ethylbenzene, and fi-
+nally benzene. In the sulfate-reducing OL enrichments
+(Figure 1B), only toluene and m-xylene were degraded
+during the course of the experiment.
+As expected, the only methanogenic cultures
+which were active at degrading BTEX were those derived
+from freshwater (OL) sediment (Figure 1D), this
+includes the site water enrichment. toluene and ethylbenzene
+were lost during the 161 day incubation.
+When these same cultures were checked after 371
+days, o-xylene loss was also seen (data not shown).
+Iron-reducing cultures (Figure 1E) demonstrated
+the ability to degrade toluene (AK and OL) and pxylene
+(AK) or m-xylene and o-xylene (OL). There
+was also some loss of ethylbenzene, m-xylene and
+o-xylene in the AK enrichment but the results were
+inconsistent.
+Electron acceptor loss
+The concentrations of nitrate and sulfate were measured
+in the denitrifying and sulfidogenic (including
+AK site water) cultures at the beginning and end of the
+incubation. In those cultures where BTEX degradation
+had taken place, the amount of electron acceptor loss
+in fed cultures above that in un-fed backgrounds was
+compared to the amount of loss that would be expected
+if all the BTEX were mineralized to CO2. The results
+are shown in Table 3. Values ranged from 73–75% of
+expected for denitrifying cultures, and 88–186% for
+sulfidogenic. Because of the small amount of substrate
+utilized (from 6–21 µmol) and the large background
+19
+Table 2. Summary of BTEX degradation in different sediments
+Benzene Toluene Ethylbenzene p-Xylene m-Xylene o-Xylene
+Arthur Kill
+NO−
+3 − ++++++ +++++ − ++++++ −
+SO=
+4 + ++++++ ++ ++ +++ ++++
+CO−
+3 −−− − − −
+Fe(III) − ++++ + ++ +/− +/−
+Site water +++ ++++++ +++ +++ +++ ++++
+Tuckerton
+NO−
+3 −−− − − −
+SO=
+4 −−− − − −
+CO−
+3 −−− − − −
+Fe(III) −−− − − −
+Site water − ++++ − −− −
+Onondaga
+NO−
+3 − ++++++ ++++++ + ++++++ −
+SO=
+4 − ++++ − − ++ −
+CO−
+3 − ++++ + −− −
+Fe(III) − ++++++ − − +++ ++
+Site water − ++ − − − −
+Blue Mtn.
+NO−
+3
+b −−− − − −
+SO=
+4
+b −−− − − −
+CO−
+3 −−− − − −
+Fe(III) −−− − − −
+Site water −−− − − −
+++++++, loss within 21 days (avg. is less than 10% sterile controls).
++++++, loss within 35 days.
+++++, loss within 63 days.
++++, loss within 91 days.
+++, loss within 119 days.
++, loss within 161 days.
++/− loss in only 1 replicate after 161 days.
+b Only 2 replicates available.
+loss in some cultures, it is difficult to obtain good estimates
+for these values. They are, however, in general
+agreement with the hypothesis that the BTEX is being
+mineralized rather than lost by some other process.
+The presence of methane in the headspace of the
+methanogenic enrichments, including OL site water
+(data not shown), indicated that methanogenesis
+was the terminal electron accepting process in these
+cultures. Iron reduction was not measured.
+Effects of gasoline
+When commercial gasoline was used as the substrate,
+degradation of BTEX was much slower and less complete
+than when the BTEX was added alone (Figure
+2). BTEX fed cultures showed complete loss of all six
+compounds in less than 150 days. In contrast, gasoline
+fed cultures showed only partial loss of toluene and the
+three xylenes, and no loss of benzene or ethylbenzene
+after nearly 300 days.
+In order to determine which components of gasoline
+were causing the inhibitory effect we established
+enrichments containing toluene alone, BTEX, toluene
+plus a mixture of C5-C11 alkanes, or gasoline, and following
+the degradation of the toluene over time. The
+concentration of toluene in each was approximately
+equal. Results are shown in Figure 3. Complete loss
+of toluene was observed within 28 days in the toluene
+alone cultures, 42 days in BTEX cultures and 70 days
+in toluene plus alkanes. Degradation was not signifi-
+20
+Figure 1. Loss of BTEX from anaerobic enrichment cultures. Each culture was fed a mixture of BTEX at a concentration of ∼100 µM for
+each component. All data points are the average of triplicate bottles and are expressed as the ratio of the concentration in the active cultures to
+the concentration in the sterile controls (Ca/Cs).
+cant over the course of the experiment for the gasoline
+cultures.
+Discussion
+Although previous research has demonstrated that individual
+BTEX compounds are biodegradable under
+anaerobic conditions, few investigators have studied
+the differences between sites, or the effect that different
+electron acceptors have on degradation. This
+study is significant because we have tested the activity
+from several sites in a side-by-side comparison
+using the full range of BTEX components as substrates.
+Enrichment conditions were identical except
+21
+Table 3. Utilization of electron acceptors
+mM Nitrate loss BTEX NO3 loss % of
+Culture Active bkgd. Net loss (mM) expected expected
+Denitrifying
+Arthur Kill 8.90 6.75 2.15 0.156 1.23 175 ± 35
+Onondaga 13.05 11.05 2.00 0.341 2.73 73 ± 20
+Sulfidogenic
+mM Sulfate loss BTEX SO4 loss % of
+Culture Active bkgd. Net loss (mM) expected expected
+Arthur Kill 5.20 3.05 2.15 0.249 1.16 186 ± 12
+Arthur Kill (site water) 6.00 3.90 2.10 0.425 1.97 107 ± 19
+Onondaga 5.30 4.80 0.50 0.119 0.57 88 ± 0
+The amount of nitrate or sulfate reduced in the active cultures was compared to the amount expected
+if all BTEX lost was mineralized to CO2. The expected amounts of nitrate or sulfate loss
+were calculated from the theoretical stoichiometric balance for mineralization of each substrate
+and the amount of the substrate lost. For example, toluene under denitrifying conditions:
+C7H8 + 7.2NO−
+3 + 7.2H+ → 7CO2 + 3.6N2 + 7.6H2O
+or under sulfidogenic conditions:
+C7H8 +4.5SO=
+4 + 9H+ → 7CO2 + 4.5H2S + 4H2O.
+These individual values were then summed to find the expected nitrate or sulfate loss, which
+was compared to the actual net loss in the active cultures.
+for the inoculum and the electron acceptor provided.
+This allows us to draw conclusions about the nature of
+the microbial populations present and the potential for
+bioremediation.
+We have shown that there is a great deal of variability
+in the fate of BTEX in anaerobic sediments, with
+the rate and extent of loss depending on the inoculum
+used and the terminal electron acceptor available.
+While some enrichments resulted in complete loss
+of all six compounds (e.g. AK-sulfidogenic), others
+showed no activity at all (e.g. BML – all conditions).
+Within each sediment, the activity was affected by
+which electron acceptor was provided. Marine cultures
+had robust activity under sulfidogenic conditions,
+while only freshwater cultures were effective under
+methanogenic. Both sets responded well to nitrate addition,
+with rapid degradation of some compounds.
+Furthermore, the degradation of BTEX was severely
+limited by the presence of some, as yet unidentified,
+compound or compounds in gasoline. This information
+has duplications for the type of remediation
+strategy to be used on BTEX spills in a specific area
+depending on the type of material spilled, the pollution
+history, and the sediment characteristics.
+Hydrocarbon utilization was extensive in cultures
+from the organic rich, polluted sites (AK and OL),
+and very slight or lacking in the low carbon, pristine
+sites (TKT and BML). Toluene in particular was
+quickly degraded in cultures from both of the polluted
+sites, under all reducing conditions tested (with
+the exception of methanogenic cultures derived from
+AK) (Table 1). Only one example of toluene degradation
+was seen in one of the unpolluted sediments
+(TKT- site water), however, and none of the other
+aromatics was lost. The rapid utilization of toluene
+under all reducing conditions is consistent with many
+reports in the literature, including Ball & Reinhard
+(1996), Barbaro et al (1992), Reinhard et al (1997)
+and especially Langenhoff et al (1996) who showed
+that in columns filled with mixed, polluted sediments,
+toluene degradation took place under denitrifying,
+sulfidogenic, methanogenic, iron-reducing,
+and manganese-reducing conditions. There were no
+organic-rich, unpolluted sediments or organic-poor,
+polluted sediments included in this study, so it is not
+possible to distinguish between the effects of these two
+factors.
+Differences in substrate utilization due to the available
+electron acceptor were evident in both the AK
+and OL enrichments. The most rapid loss of any compounds
+occurred when nitrate was added as the terminal
+electron acceptor, but the loss was most extensive
+22
+Figure 2. Comparison of BTEX degradation in enrichment cultures
+containing gasoline or BTEX alone. Cultures were fed either 30 µl
+of gasoline (for a final toluene concentration of 100–150 µM) or
+a mixture of BTEX at a concentration of −100 µM for each component.
+All data points are the average of triplicate bottles and are
+expressed as the ratio of the concentration in the active cultures to
+the concentration in the sterile controls (Ca/Cs).
+Figure 3. Degradation of toluene in cultures amended with toluene
+alone, BTEX, a mixture of C5–C11 alkanes, or gasoline. Error bars
+represent ±1 standard deviation.
+when sulfate was added. In the AK enrichments, only
+toluene, m-xylene and ethylbenzene were degraded
+when nitrate was provided. In contrast, when ferric
+iron was added, m-xylene was not used but p-xylene
+was, and when sulfate was present, all six compounds
+including benzene were lost. Similarly, differences
+were seen in the OL cultures. Toluene, ethylbenzene,
+m-xylene and, after a long lag, p-xylene disappeared
+under denitrifying conditions, only toluene and mxylene
+were utilized under sulfidogenic conditions.
+Iron-reducing activity was similar to denitrifying, with
+the exception of o-xylene being degraded instead of
+p-xylene. These differences are in contrast to the
+results of Reinhard et al. (1997), who found that
+at one site all of the BTEX compounds, with the
+exception of benzene, were degraded under both denitrifying
+and sulfidogenic conditions. The degradation
+of toluene, ethylbenzene, m-xylene and sometimes
+p-xylene, without loss of benzene or o-xylene, in
+denitrifying enrichments has been reported numerous
+times however (Hutchins et al. 1991, 1991b; Rabus &
+Widdel 1995).
+Interestingly, but not surprisingly, toluene was the
+first compound to be lost in all cultures. toluene was
+followed by ethylbenzene and m-xylene in denitrifying
+cultures and o- and m-xylene in sulfidogenic
+cultures (AK). Benzene was the last compound utilized.
+Edwards et al. (1992) also found toluene and
+m-xylene to be the preferred substrates when BTEX
+was fed to a sulfate-reducing enrichment. They found,
+in contrast to our results however, that o-xylene was
+consumed after p-xylene.
+In denitrifying cultures from both AK and OL there
+is some evidence that o-xylene is being cometabolized
+during toluene degradation. The concentration
+of o-xylene decreased approximately 10% relative to
+the sterile controls during the first three weeks of incubation
+(when toluene degradation was occurring),
+but did not change afterwards. In sub-cultures of the
+AK enrichment, the addition of more toluene resulted
+in a further decrease in o-xylene concentrations (data
+not shown). This type of cometabolism was observed
+by Evans et al. (1991) in enrichment cultures and,
+later, in a pure culture of strain T1 (Evans et al.
+1991b). The transformation of o-xylene in T1 was
+tied to the production of 2-methyl-benzylsuccinate
+by the enzymes responsible for toluene metabolism
+(Evans et al. 1992). Apparent cometabolism has since
+been reported in other studies of denitrifying systems
+(Ball & Reinhard 1996; Kao & Borden 1997), and
+the by-products have been isolated from contaminated
+23
+groundwater, where sulfate was the terminal electron
+acceptor (Beller et al. 1995). Though cometabolism
+cannot be completely excluded from these consortia,
+o-xylene metabolism began only after toluene was
+exhausted, suggesting that it was not the dominant
+mechanism of degradation. It is significant that benzene 
+ degradation was only observed in cultures from one site (AK), and only under sulfidogenic conditions. Benzene degradation has previously been shown to occur with sulfate as the terminal electron acceptor in four separate studies, one of which used the Arthur Kill as its sediment source (Kazumi et al. 1997). The other reports also
+involved highly polluted source material (Edwards &
+Grbic-Galic, 1992; Lovley et al. 1995) including an
+area exposed to hydrothermally produced hydrocarbons
+over a geological time scale (Phelps et al. 1996). Other researchers have noted a lack of degradation
+in similar sediments under the same conditions (Ball
+& Reinhard, 1996; Beller et al. 1992; Edwards et
+al. 1992; Rabus et al. 1996; Reinhard et al. 1997). The lack of degradation is sometimes ascribed to
+the preferential utilization of other carbon compounds
+(Edwards & Grbic-Galic, 1992), an observation which is consistent with, but not proven by the observation
+that benzene was the last compound to be degraded in
+our experiments (see Figure 1B). Complete inhibition
+of benzene utilization did not, however, occur in our
+enrichments as it may have in other reports. It appears
+that the ability to anaerobically degrade benzene is not
+widespread throughout the environment, but can only
+be found in certain sites with the right combination of
+pollution history and environment.
+The mineralization of benzene under iron-reducing
+(Kazumi et al. 1997; Lovley et al. 1994; Lovley et
+al. 1996) and methanogenic (Grbic-Galic & Vogel,
+1987; Kazumi et al. 1997; Wilson et al. 1986) conditions
+has also been reported, but was not observed
+in this study. The concentrations of benzene used in
+our enrichments was much higher than in the previous
+iron-reducing reports, and the lag times in the methanogenic experiments was often longer than the length of our experiment, this may explain our lack of
+success.
+The relationship between the amount of electron
+acceptor lost and the amount of BTEX degraded during
+the course of the experiment (Table 3) supports the
+hypothesis that these aromatic compounds are being
+mineralized to carbon dioxide and water. The agreement
+between expected and predicted values was best
+in the AK-site water enrichment (107%), where the
+largest amount of BTEX (0.425 mM) was lost in a
+relatively short time (∼100 days). Ball & Reinhard
+(1996) observed an excess of from 2.4–6.6 times the
+amount of electron acceptor usage over what would
+be required to mineralize the added BTEX in their microcosms.
+This effect was accounted for in our study
+by subtracting out the amount of nitrate and sulfate
+reduced in un-fed controls. The values that we obtained
+in these background controls (2.0–8.4 times)
+is in good agreement with that they reported. The
+amount of background utilization was especially high
+in the denitrifying cultures, and this made it difficult
+to obtain good estimates of the actual stoichiometry.
+Degradation of BTEX was much slower and incomplete
+in cultures amended with gasoline than when
+BTEX alone was added. Other researchers have noticed
+similar results when feeding gasoline (Barbaro
+et al. 1992; Hutchins et al. 1991b). There are many
+possible explanations for this effect. Although the concentrations
+of BTEX were approximately the same,
+the total amount of hydrocarbons in the gasoline fed
+cultures was much higher. This may have led to a
+general toxic solvent effect on the whole microbial
+community leading to a longer lag time, or these other
+hydrocarbons may have been degraded preferentially
+over the aromatics. It is also possible that some other
+component or additive in the gasoline exerted a selective
+toxicity on the aromatic degraders. Because there
+was no decrease in mineralization of the background
+organic matter (as indicated by electron acceptor loss)
+in gasoline amended cultures as compared to un-fed
+controls (data not shown), it seems likely that the inhibitory
+effect is not directed at the entire microbial
+community. The results of an experiment where various
+components of gasoline were added to cultures
+along with toluene (Figure 3), however, show slower
+rates of degradation in the presence of alkanes and
+BTEX but that the inhibition of toluene degradation
+can not be explained entirely by the presence of either.
+There may be a synergistic effect between the different
+components or some other, untested, compound may
+be causing the lag. More work needs to be done to
+determine the mechanism behind these observations.
+We have shown that the fate of BTEX in anaerobic
+sediments is dependent on characteristics of the
+site, including its pollution history and the terminal
+electron acceptor available. Furthermore, the degradation
+of BTEX may be severely limited by the form
+(alone or as a component of gasoline) in which it is
+introduced to the site. This information leads to the
+conclusion that bioremediation strategies must take
+24
+into account the previous history and other characteristics
+of an area, as well as the type of material spilled,
+if they hope to take advantage of native microbial communities.

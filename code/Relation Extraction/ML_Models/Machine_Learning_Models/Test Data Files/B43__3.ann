@@ -1,0 +1,73 @@
+T1 ReactionOrProcess 4 32 vortexing and centrifugation
+T2 Environment 63 67 soil
+T3 ReactionOrProcess 79 90 resuspended
+T4 ReactionOrProcess 170 189 mixed and incubated
+T5 Nutrient 124 128 NaCl
+T6 Substrate 292 300 Tris-HCl
+T7 Nutrient 280 284 NaCl
+T8 Environment 334 338 soil
+T9 ReactionOrProcess 418 425 thawing
+T10 ReactionOrProcess 385 393 freezing
+T11 ReactionOrProcess 647 656 incubated
+T12 ReactionOrProcess 484 498 centrifugation
+T13 Nutrient 601 605 NaCl
+T14 Nutrient 537 541 NaCl
+T15 Substrate 696 701 CHCl3
+T16 ReactionOrProcess 934 943 incubated
+T17 Nutrient 897 901 NaCl
+T18 Substrate 1108 1115 ethanol
+T19 ReactionOrProcess 1082 1088 washed
+T20 Substrate 1135 1144 air-dried
+T21 ReactionOrProcess 1248 1257 incubated
+T22 ReactionOrProcess 1156 1167 resuspended
+T23 Property 1370 1383 concentration
+T24 Property 1485 1490 speed
+T25 Nutrient 1278 1286 Ammonium
+T26 Substrate 1664 1671 ethanol
+T27 Property 1745 1750 speed
+T28 Substrate 1795 1802 ethanol
+T29 ReactionOrProcess 1767 1773 washed
+T30 Substrate 2327 2335 Tris-HCl
+T31 Property 2107 2121 Concentrations
+T32 ReactionOrProcess 2165 2180 DNA fluorometer
+T33 Nutrient 2354 2358 NaCl
+T34 Environment 2384 2388 soil
+T35 Environment 2407 2411 soil
+T36 Property 2496 2508 fluorescence
+T37 Microbes 2533 2549 Escherichia coli
+T38 Environment 2613 2617 soil
+T39 Property 2510 2524 Concentrations
+T40 ReactionOrProcess 2582 2598 fluorometrically
+T41 Property 2729 2741 fluorescence
+T42 ReactionOrProcess 2697 2708 subtraction
+T43 Environment 2893 2897 soil
+T44 Environment 2956 2960 soil
+T45 Environment 2990 2994 soil
+T46 Substrate 2780 2796 trace humic acid
+T47 Substrate 2851 2856 MgCl2
+T48 Property 2875 2889 Concentrations
+T49 ReactionOrProcess 2818 2833 DNase digestion
+T50 Environment 3015 3019 Soil
+T51 ReactionOrProcess 3001 3014 Hybridization
+T52 ReactionOrProcess 3039 3048 denatured
+T53 ReactionOrProcess 3180 3189 denatured
+T54 Environment 3398 3404 vacuum
+T55 ReactionOrProcess 3506 3521 Dilution series
+T56 ReactionOrProcess 3597 3612 dilution series
+T57 ReactionOrProcess 3652 3665 hybridization
+T58 ReactionOrProcess 3730 3743 hybridization
+T59 Microbes 3832 3839 E. coli
+T60 Microbes 3844 3868 Bradyrhizobium japonicum
+T61 ReactionOrProcess 3987 4008 digestion of plasmids
+R1 OccursIn Arg1:T3 Arg2:T2
+R3 OccursIn Arg1:T9 Arg2:T8
+R4 OccursIn Arg1:T10 Arg2:T8
+R5 CarriedOn Arg1:T19 Arg2:T18
+R7 CarriedOn Arg1:T22 Arg2:T20
+R8 CarriedOn Arg1:T29 Arg2:T28
+R9 CarriedOn Arg1:T32 Arg2:T30
+R12 CarriedOn Arg1:T40 Arg2:T37
+R13 OccursIn Arg1:T40 Arg2:T38
+R14 CarriedOn Arg1:T49 Arg2:T46
+R15 CarriedOn Arg1:T49 Arg2:T47
+R20 OccursIn Arg1:T52 Arg2:T50

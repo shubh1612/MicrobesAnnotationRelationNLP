@@ -1,0 +1,51 @@
+T1	Substrate 38 45	toluene
+T2	Substrate 50 57	xylenes
+T3	Property 13 25	denitrifying
+T4	ReactionOrProcess 62 70	degraded
+T5	ReactionOrProcess 13 25	denitrifying
+R1	CarriedOn Arg1:T5 Arg2:T2
+T6	Substrate 160 163	PAH
+T7	Substrate 175 186	naphthalene
+T8	Property 228 240	denitrifying
+T9	ReactionOrProcess 228 240	denitrifying
+T10	ReactionOrProcess 142 156	biodegradation
+R2	CarriedOn Arg1:T10 Arg2:T6
+R3	CarriedOn Arg1:T10 Arg2:T7
+T11	ReactionOrProcess 396 410	biodegradation
+T12	Nutrient 367 384	electron acceptor
+T13	Property 546 558	methanogenic
+T14	Property 546 558	methanogenic
+T15	Property 563 575	denitrifying
+T16	ReactionOrProcess 563 575	denitrifying
+T17	ReactionOrProcess 528 542	biodegradation
+T18	Substrate 668 675	toluene
+T19	ReactionOrProcess 642 652	oxygenated
+T20	ReactionOrProcess 676 690	biodegradation
+R4	CarriedOn Arg1:T19 Arg2:T18
+T21	Nutrient 809 815	oxygen
+T22	Environment 1199 1203	soil
+T23	Property 1184 1193	pollutant
+T24	Property 1222 1229	residue
+T25	Substrate 1457 1464	phenols
+T26	Property 1500 1508	aromatic
+T27	Property 1365 1374	Pollutant
+T28	Property 1365 1375	Pollutants
+T29	Substrate 1517 1523	Phenol
+T30	Substrate 1517 1524	Phenols
+T31	Property 1764 1772	alkaline
+T32	Property 2021 2045	aerobic biodegradability
+T33	ReactionOrProcess 2249 2262	anaerobically
+T34	ReactionOrProcess 2225 2233	degraded
+T35	ReactionOrProcess 2239 2248	incubated
+T36	ReactionOrProcess 2029 2045	biodegradability
+T37	Environment 2356 2376	anaerobic conditions
+T38	Environment 2519 2543	aerobic activated sludge
+T39	Microbes 2749 2762	actinomycetes
+T40	Substrate 2655 2661	phenol
+T41	Property 2601 2610	Pollutant
+T42	Property 2601 2611	Pollutants
+T43	ReactionOrProcess 2662 2671	oxidizing
+R5	CarriedOn Arg1:T43 Arg2:T39
+T44	Environment 2828 2832	soil
+T45	Substrate 3072 3078	phenol
+T46	ReactionOrProcess 3079 3088	oxidizing

@@ -1,0 +1,82 @@
+T1	Substrate 64 72	gasoline
+T2	Substrate 123 131	gasoline
+T3	Substrate 103 109	sulfur
+T4	ReactionOrProcess 103 119	sulfur reduction
+T5	ReactionOrProcess 28 52	fluid catalytic cracking
+T6	ReactionOrProcess 110 119	reduction
+T7	Microbes 206 215	M. goodii
+T8	Microbes 216 219	X7B
+T9	Microbes 206 219	M. goodii X7B
+T10	Substrate 188 194	sulfur
+T11	Microbes 264 267	X7B
+T12	Substrate 325 334	thiophene
+T13	Substrate 352 361	thiophene
+T14	Substrate 252 255	DBT
+T15	Substrate 319 323	DBTs
+T16	Substrate 244 247	BTH
+T17	Substrate 303 307	BTHs
+T18	Substrate 430 436	sulfur
+T19	Substrate 507 515	gasoline
+T20	Property 636 646	saturation
+T21	ReactionOrProcess 674 698	fluid catalytic cracking
+T22	ReactionOrProcess 537 557	hydrodesulfurization
+T23	ReactionOrProcess 488 503	desulfurization
+T24	ReactionOrProcess 594 603	reduction
+R1	CarriedOn Arg1:T23 Arg2:T19
+T25	Substrate 749 758	thiophene
+T26	Substrate 829 837	gasoline
+T27	Substrate 744 747	BTH
+T28	Substrate 792 797	thiol
+T29	Substrate 809 815	sulfur
+T30	Substrate 881 889	gasoline
+T31	ReactionOrProcess 995 1006	degradation
+T32	Substrate 1132 1140	gasoline
+T33	ReactionOrProcess 1141 1151	combustion
+T34	Substrate 1195 1203	gasoline
+T35	Substrate 1261 1264	oil
+T36	Substrate 1362 1370	gasoline
+T37	Property 1350 1358	toxicity
+T38	Property 1350 1358	toxicity
+T39	Environment 1450 1455	water
+T40	Substrate 1461 1464	oil
+T41	Environment 1519 1524	water
+T42	Substrate 1511 1514	oil
+T43	Substrate 1545 1548	oil
+T44	Substrate 1703 1711	gasoline
+T45	Substrate 1636 1639	oil
+T46	Property 1691 1699	toxicity
+T47	Property 1691 1699	toxicity
+T48	Microbes 1786 1797	Nocardia sp
+T49	Substrate 1849 1862	light gas oil
+T50	Substrate 1859 1862	oil
+T51	ReactionOrProcess 1830 1845	desulfurization
+R2	CarriedOn Arg1:T51 Arg2:T49
+R3	CarriedOn Arg1:T51 Arg2:T50
+T52	Substrate 1979 1982	oil
+T53	ReactionOrProcess 1999 2014	desulfurization
+T54	Microbes 2021 2048	Pseudomonas delafieldii R-8
+T55	Substrate 2108 2118	diesel oil
+T56	Substrate 2115 2118	oil
+T57	Substrate 2108 2114	diesel
+T58	ReactionOrProcess 2119 2134	desulfurization
+T59	ReactionOrProcess 2165 2180	desulfurization
+T60	Substrate 2391 2399	gasoline
+T61	Substrate 2391 2412	gasoline hydrocarbons
+T62	Substrate 2400 2412	hydrocarbons
+T63	Substrate 2391 2412	gasoline hydrocarbons
+T64	Substrate 2400 2412	hydrocarbons
+T65	Property 2440 2453	concentration
+T66	ReactionOrProcess 2266 2279	Encapsulation
+T67	ReactionOrProcess 2414 2422	reducing
+R4	CarriedOn Arg1:T66 Arg2:T60
+R5	CarriedOn Arg1:T66 Arg2:T61
+R6	CarriedOn Arg1:T66 Arg2:T62
+R7	CarriedOn Arg1:T66 Arg2:T63
+R8	CarriedOn Arg1:T66 Arg2:T64
+T68	Substrate 2608 2616	gasoline
+T69	ReactionOrProcess 2617 2635	biodesulfurization
+T70	Microbes 2765 2768	X7B
+T71	Substrate 2844 2852	gasoline
+T72	Substrate 2824 2830	sulfur
+T73	Property 2816 2840	organic sulfur compounds
+T74	Property 2946 2968	thermophilic bacterium

@@ -1,0 +1,52 @@
+T1	Microbes 25 78	heterotrophic and PAH-degrading microbial populations
+T2	Property 25 38	heterotrophic
+T3	ReactionOrProcess 256 270	biostimulation
+T4	ReactionOrProcess 408 418	incubation
+T5	Microbes 743 767	heterotrophic population
+T6	Environment 702 710	dry soil
+T7	Environment 706 710	soil
+T8	Property 743 756	heterotrophic
+T9	Environment 1134 1138	soil
+T10	Property 1079 1092	Heterotrophic
+T11	ReactionOrProcess 1181 1191	incubation
+T12	Environment 1204 1208	soil
+T13	Environment 1193 1208	Autoclaved soil
+T14	ReactionOrProcess 1280 1290	incubation
+T15	Environment 1569 1583	untreated soil
+T16	Environment 1579 1583	soil
+T17	Property 1818 1831	biosurfactant
+T18	ReactionOrProcess 1894 1909	bioaugmentation
+T19	Environment 2135 2149	untreated soil
+T20	Environment 2156 2168	treated soil
+T21	Environment 2206 2218	treated soil
+T22	Environment 2164 2168	soil
+T23	Environment 2214 2218	soil
+T24	Environment 2145 2149	soil
+T25	Property 2000 2019	denaturing gradient
+T26	ReactionOrProcess 2000 2039	denaturing gradient gel electrophoresis
+T27	ReactionOrProcess 2024 2039	electrophoresis
+T28	ReactionOrProcess 2000 2010	denaturing
+T29	ReactionOrProcess 2044 2058	biodegradation
+T30	Environment 2445 2449	soil
+T31	Environment 2426 2430	soil
+T32	Property 2457 2479	water-holding capacity
+T33	ReactionOrProcess 2374 2378	DGGE
+T34	ReactionOrProcess 2274 2288	biostimulation
+T35	ReactionOrProcess 2626 2641	bioaugmentation
+T36	ReactionOrProcess 2674 2678	DGGE
+T37	Environment 2766 2780	untreated soil
+T38	Environment 2776 2780	soil
+T39	ReactionOrProcess 2818 2822	DGGE
+T40	ReactionOrProcess 2910 2924	biostimulation
+T41	ReactionOrProcess 3200 3204	DGGE
+T42	Environment 3493 3501	dry soil
+T43	Environment 3497 3501	soil
+T44	Property 3330 3349	Denaturing gradient
+T45	ReactionOrProcess 3571 3581	incubation
+T46	ReactionOrProcess 3330 3369	Denaturing gradient gel electrophoresis
+T47	ReactionOrProcess 3354 3369	electrophoresis
+T48	ReactionOrProcess 3330 3340	Denaturing
+T49	Environment 3606 3617	soil sample
+T50	Environment 3606 3610	soil
+T51	Environment 3732 3746	untreated soil
+T52	Environment 3742 3746	soil

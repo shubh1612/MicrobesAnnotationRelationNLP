@@ -1,0 +1,56 @@
+T1	Microbes 828 841	Acinetobacter
+T2	Microbes 873 885	Marinobacter
+T3	Environment 618 623	beach
+T4	Environment 618 629	beach sands
+T5	Environment 624 629	sands
+T6	Substrate 948 951	oil
+T7	Substrate 1067 1070	oil
+T8	Substrate 990 993	Oil
+T9	Property 1058 1066	residual
+T10	ReactionOrProcess 994 1005	degradation
+T11	ReactionOrProcess 990 1005	Oil degradation
+R1	CarriedOn Arg1:T10 Arg2:T7
+R2	CarriedOn Arg1:T11 Arg2:T7
+T12	Substrate 1176 1179	oil
+T13	Substrate 1379 1382	oil
+T14	Property 1346 1366	rapid aerobic growth
+T15	Nutrient 1395 1401	carbon
+T16	Microbes 1513 1526	Acinetobacter
+T17	Substrate 1642 1651	crude oil
+T18	Substrate 1550 1553	oil
+T19	Substrate 1648 1651	oil
+T20	ReactionOrProcess 1652 1660	degraded
+T21	ReactionOrProcess 1554 1565	degradation
+T22	ReactionOrProcess 1550 1565	oil degradation
+R3	CarriedOn Arg1:T21 Arg2:T17
+R4	CarriedOn Arg1:T22 Arg2:T17
+T23	Substrate 1913 1939	chloroform-extractable oil
+T24	Substrate 1873 1876	oil
+T25	Substrate 1936 1939	oil
+T26	ReactionOrProcess 1877 1888	degradation
+T27	ReactionOrProcess 1873 1888	oil degradation
+R5	CarriedOn Arg1:T26 Arg2:T23
+R6	CarriedOn Arg1:T27 Arg2:T23
+T28	Substrate 2018 2021	oil
+T29	Microbes 2323 2336	Acinetobacter
+T30	Nutrient 2496 2502	carbon
+T31	Environment 2744 2750	marine
+T32	Property 2808 2822	concentrations
+T33	Nutrient 2803 2807	NaCl
+T34	Environment 3059 3065	marine
+T35	Substrate 3093 3105	hydrocarbons
+T36	Substrate 3093 3105	hydrocarbons
+T37	ReactionOrProcess 2971 2982	Utilization
+T38	Nutrient 3121 3127	carbon
+R7	CarriedOn Arg1:T37 Arg2:T35
+R8	CarriedOn Arg1:T37 Arg2:T36
+T39	Nutrient 3259 3265	carbon
+T40	Microbes 3349 3362	Acinetobacter
+T41	Microbes 3368 3380	Marinobacter
+T42	Nutrient 3426 3432	carbon
+T43	Nutrient 3505 3511	carbon
+T44	Environment 3609 3614	beach
+T45	Environment 3609 3620	beach sands
+T46	Environment 3615 3620	sands
+T47	Substrate 4210 4213	oil
+T48	Substrate 4356 4359	oil

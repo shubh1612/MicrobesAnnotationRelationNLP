@@ -1,0 +1,50 @@
+T1	Environment 319 330	ambient sea
+T2	Environment 327 330	sea
+T3	Environment 331 336	water
+T4	Environment 426 429	sea
+T5	Property 474 485	temperature
+T6	Environment 651 660	sediments
+T7	Environment 950 958	Sediment
+T8	Environment 1039 1047	sediment
+T9	Environment 1143 1151	sediment
+T10	Substrate 1357 1369	hydrocarbons
+T11	Substrate 1314 1321	methane
+T12	Substrate 1357 1369	hydrocarbons
+T13	Environment 1397 1405	sediment
+T14	Property 1485 1499	concentrations
+T15	Environment 1731 1736	water
+T16	Substrate 1767 1778	hydrocarbon
+T17	Property 1898 1909	temperature
+T18	Substrate 1970 1991	authentic hydrocarbon
+T19	Substrate 1980 1991	hydrocarbon
+T20	Environment 2113 2121	sediment
+T21	Substrate 2171 2183	hydrocarbons
+T22	Substrate 2078 2089	hydrocarbon
+T23	Substrate 2171 2183	hydrocarbons
+T24	Property 2055 2068	Concentration
+T25	Property 2055 2069	Concentrations
+T26	Substrate 2211 2222	hydrocarbon
+T27	Property 2472 2483	temperature
+T28	ReactionOrProcess 2390 2405	chromatographic
+T29	ReactionOrProcess 2386 2405	Gas chromatographic
+T30	Substrate 2538 2545	methane
+T31	ReactionOrProcess 2666 2681	chromatographic
+T32	ReactionOrProcess 2662 2681	Gas chromatographic
+T33	Environment 2844 2853	sediments
+T34	Environment 2836 2853	shallow sediments
+T35	Environment 2799 2809	subsurface
+T36	Environment 2882 2887	water
+T37	Environment 2836 2853	shallow sediments
+T38	Substrate 2799 2821	subsurface hydrocarbon
+T39	Substrate 2764 2775	hydrocarbon
+T40	Substrate 2810 2821	hydrocarbon
+T41	Substrate 2752 2775	thermogenic hydrocarbon
+T42	Property 3006 3017	temperature
+T43	Substrate 3198 3209	hydrocarbon
+T44	Environment 3363 3373	subsurface
+T45	Substrate 3332 3353	unaltered hydrocarbon
+T46	Substrate 3342 3353	hydrocarbon
+T47	Substrate 3548 3560	hydrocarbons
+T48	Substrate 3443 3450	Methane
+T49	Substrate 3548 3560	hydrocarbons
+T50	Nutrient 3608 3614	carbon

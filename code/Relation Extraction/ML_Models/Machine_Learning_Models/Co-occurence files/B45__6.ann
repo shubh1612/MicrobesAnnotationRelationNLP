@@ -1,0 +1,105 @@
+T1	Environment 63 83	unpolluted sediments
+T2	Environment 95 100	water
+T3	Property 134 143	aromatics
+T4	ReactionOrProcess 20 39	toluene degradation
+T5	Environment 431 449	polluted sediments
+T6	Substrate 179 186	toluene
+T7	Property 516 528	methanogenic
+T8	Property 502 514	sulfidogenic
+T9	ReactionOrProcess 197 205	reducing
+T10	ReactionOrProcess 451 470	toluene degradation
+T11	ReactionOrProcess 488 500	denitrifying
+T12	ReactionOrProcess 164 175	utilization
+T13	Environment 608 628	unpolluted sediments
+T14	Environment 646 664	polluted sediments
+T15	ReactionOrProcess 879 890	enrichments
+T16	ReactionOrProcess 793 804	utilization
+T17	Nutrient 826 843	electron acceptor
+T18	Substrate 1102 1110	o-xylene
+T19	Substrate 1137 1145	p-xylene
+T20	Substrate 943 950	nitrate
+T21	ReactionOrProcess 1117 1125	degraded
+T22	ReactionOrProcess 1066 1078	denitrifying
+T23	Nutrient 977 994	electron acceptor
+T24	Substrate 1299 1306	benzene
+T25	Substrate 1261 1265	BTEX
+T26	Property 1350 1362	sulfidogenic
+T27	ReactionOrProcess 1313 1321	degraded
+T28	ReactionOrProcess 1333 1345	denitrifying
+T29	Substrate 1466 1473	benzene
+T30	Substrate 1394 1401	toluene
+T31	Substrate 1477 1485	o-xylene
+T32	Substrate 1403 1415	ethylbenzene
+T33	Substrate 1440 1448	p-xylene
+T34	Substrate 1417 1425	m-xylene
+T35	ReactionOrProcess 1503 1514	enrichments
+T36	ReactionOrProcess 1490 1502	denitrifying
+T37	ReactionOrProcess 1379 1390	degradation
+T38	Substrate 1645 1652	toluene
+T39	Substrate 1704 1711	
+T40	Substrate 1728 1740	ethylbenzene
+T41	Substrate 1745 1753	m-xylene
+T42	Substrate 1790 1798	m-xylene
+T43	Property 1802 1814	sulfidogenic
+T44	ReactionOrProcess 1757 1769	denitrifying
+T45	Substrate 1830 1837	
+T46	Substrate 1903 1910	toluene
+T47	Substrate 1960 1964	BTEX
+T48	Substrate 1915 1923	m-xylene
+T49	Property 1978 1994	sulfate-reducing
+T50	ReactionOrProcess 1995 2005	enrichment
+T51	Substrate 2060 2068	o-xylene
+T52	Substrate 2088 2096	p-xylene
+T53	Substrate 2171 2179	o-xylene
+T54	Property 2189 2202	cometabolized
+T55	ReactionOrProcess 2210 2229	toluene degradation
+T56	ReactionOrProcess 2101 2113	denitrifying
+T57	Substrate 2252 2260	o-xylene
+T58	Property 2235 2248	concentration
+T59	ReactionOrProcess 2354 2364	incubation
+T60	ReactionOrProcess 2371 2390	toluene degradation
+T61	Substrate 2497 2504	toluene
+T62	Substrate 2539 2547	o-xylene
+T63	Property 2548 2562	concentrations
+T64	ReactionOrProcess 2464 2474	enrichment
+T65	Microbes 2646 2665	enrichment cultures
+T66	Substrate 2854 2861	toluene
+T67	Substrate 2753 2761	o-xylene
+T68	Environment 3068 3092	contaminated groundwater
+T69	ReactionOrProcess 2960 2972	denitrifying
+T70	Nutrient 3125 3142	electron acceptor
+T71	Substrate 3274 3281	toluene
+T72	Substrate 3237 3245	o-xylene
+T73	ReactionOrProcess 3350 3361	degradation
+T74	Substrate 3386 3393	benzene
+T75	Property 3472 3484	sulfidogenic
+T76	ReactionOrProcess 3395 3406	degradation
+T77	Environment 3666 3674	sediment
+T78	Substrate 3497 3504	
+T79	ReactionOrProcess 3505 3516	degradation
+T80	Nutrient 3581 3598	electron acceptor
+R3	CarriedOn Arg1:T9 Arg2:T6
+R6	CarriedOn Arg1:T12 Arg2:T6
+R11	CarriedOn Arg1:T21 Arg2:T18
+R12	CarriedOn Arg1:T21 Arg2:T19
+R14	CarriedOn Arg1:T22 Arg2:T18
+R17	CarriedOn Arg1:T27 Arg2:T24
+R18	CarriedOn Arg1:T27 Arg2:T25
+R21	CarriedOn Arg1:T35 Arg2:T29
+R22	CarriedOn Arg1:T35 Arg2:T30
+R24	CarriedOn Arg1:T35 Arg2:T32
+R25	CarriedOn Arg1:T35 Arg2:T33
+R26	CarriedOn Arg1:T35 Arg2:T34
+R28	CarriedOn Arg1:T36 Arg2:T30
+R33	CarriedOn Arg1:T37 Arg2:T29
+R34	CarriedOn Arg1:T37 Arg2:T30
+R35	CarriedOn Arg1:T37 Arg2:T31
+R36	CarriedOn Arg1:T37 Arg2:T32
+R37	CarriedOn Arg1:T37 Arg2:T33
+R38	CarriedOn Arg1:T37 Arg2:T34
+R40	CarriedOn Arg1:T44 Arg2:T40
+R41	CarriedOn Arg1:T44 Arg2:T41
+R44	CarriedOn Arg1:T50 Arg2:T47
+R46	CarriedOn Arg1:T55 Arg2:T53
+R55	CarriedOn Arg1:T76 Arg2:T74
+R56	CarriedOn Arg1:T79 Arg2:T78

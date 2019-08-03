@@ -1,0 +1,75 @@
+T1	Substrate 42 57	hydroxybenzoate
+T2	Substrate 7 13	Phenol
+T3	Property 259 267	aromatic
+T4	Property 468 480	methanogenic
+T5	Property 468 480	methanogenic
+T6	ReactionOrProcess 418 429	degradation
+T7	Enzyme 537 547	oxygenases
+T8	Microbes 708 718	consortium
+T9	Property 681 693	methanogenic
+T10	Property 681 693	methanogenic
+T11	Microbes 837 886	3-chlorobenzoate-degrading methanogenic consortia
+T12	Property 864 876	methanogenic
+T13	Property 864 876	methanogenic
+T14	Microbes 1096 1106	consortium
+T15	ReactionOrProcess 961 969	reducing
+T16	ReactionOrProcess 998 1007	reduction
+T17	ReactionOrProcess 1113 1121	oxidizes
+T18	Substrate 1339 1350	methanogens
+T19	ReactionOrProcess 1272 1280	reducing
+T20	ReactionOrProcess 1239 1249	catabolize
+T21	Substrate 1454 1473	aromatic pollutants
+T22	Property 1528 1537	resistant
+T23	Property 1454 1462	aromatic
+T24	Property 1463 1473	pollutants
+T25	ReactionOrProcess 1438 1450	accumulation
+T26	ReactionOrProcess 1417 1433	biodegradability
+R1	CarriedOn Arg1:T25 Arg2:T21
+R2	CarriedOn Arg1:T26 Arg2:T21
+T27	ReactionOrProcess 1759 1773	biodegradation
+T28	Substrate 1887 1906	aromatic pollutants
+T29	Property 1887 1895	aromatic
+T30	Property 1896 1906	pollutants
+T31	Property 1942 1949	residue
+T32	Property 2088 2098	pollutants
+T33	Property 2178 2188	pollutants
+T34	ReactionOrProcess 2213 2227	biodegradation
+T35	Substrate 2266 2287	aromatic hydrocarbons
+T36	Substrate 2266 2287	aromatic hydrocarbons
+T37	Substrate 2275 2287	hydrocarbons
+T38	Substrate 2275 2287	hydrocarbons
+T39	Property 2266 2274	aromatic
+T40	ReactionOrProcess 2499 2513	biodegradation
+T41	Property 2568 2576	aromatic
+T42	ReactionOrProcess 2621 2628	degrade
+T43	Environment 2700 2711	wastewaters
+T44	Environment 2805 2815	wastewater
+T45	Microbes 2890 2903	actinomycetes
+T46	Microbes 2840 2855	white rot fungi
+T47	Property 2997 3005	aromatic
+T48	ReactionOrProcess 3085 3099	biodegradation
+T49	ReactionOrProcess 3159 3166	degrade
+T50	Environment 3280 3300	anaerobic conditions
+T51	Environment 3625 3633	sediment
+T52	Environment 3616 3620	soil
+T53	Environment 3545 3550	water
+T54	Substrate 3385 3404	aromatic pollutants
+T55	Substrate 3455 3487	polycyclic aromatic hydrocarbons
+T56	Substrate 3429 3450	aromatic hydrocarbons
+T57	Substrate 3466 3487	aromatic hydrocarbons
+T58	Substrate 3370 3404	compounds Many aromatic pollutants
+T59	Substrate 3429 3450	aromatic hydrocarbons
+T60	Substrate 3466 3487	aromatic hydrocarbons
+T61	Substrate 3438 3450	hydrocarbons
+T62	Substrate 3475 3487	hydrocarbons
+T63	Substrate 3438 3450	hydrocarbons
+T64	Substrate 3475 3487	hydrocarbons
+T65	Substrate 3455 3487	polycyclic aromatic hydrocarbons
+T66	Property 3531 3541	solubility
+T67	Property 3455 3465	polycyclic
+T68	Property 3385 3393	aromatic
+T69	Property 3429 3437	aromatic
+T70	Property 3466 3474	aromatic
+T71	Property 3394 3404	pollutants
+T72	Environment 3728 3733	water
+T73	ReactionOrProcess 3797 3811	biodegradation

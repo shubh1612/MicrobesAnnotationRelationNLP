@@ -1,0 +1,51 @@
+T1	Substrate 22 25	oil
+T2	Substrate 111 114	oil
+T3	ReactionOrProcess 0 11	Degradation
+T4	Nutrient 53 59	carbon
+T5	ReactionOrProcess 266 305	denaturing gradient gel electrophoresis
+T6	ReactionOrProcess 514 528	bioremediation
+T7	ReactionOrProcess 391 395	DGGE
+T8	Environment 737 746	fine sand
+T9	Environment 898 906	sediment
+T10	Environment 959 968	fine sand
+T11	Environment 1093 1111	previous oil spill
+T12	Substrate 1064 1067	oil
+T13	Environment 1140 1145	beach
+T14	Property 1194 1199	sandy
+T15	Substrate 1777 1780	oil
+T16	Substrate 1910 1913	oil
+T17	Substrate 1969 1972	oil
+T18	Substrate 1785 1788	oil
+T19	Substrate 1858 1861	oil
+T20	ReactionOrProcess 1793 1807	bioremediation
+T21	ReactionOrProcess 1866 1880	bioremediation
+T22	Nutrient 1989 2009	inorganic fertilizer
+T23	Environment 2329 2334	beach
+T24	Environment 2646 2651	beach
+T25	Environment 2805 2813	sediment
+T26	Environment 2799 2804	beach
+T27	Substrate 2785 2788	oil
+T28	Substrate 2734 2751	Forties crude oil
+T29	Substrate 2953 2956	oil
+T30	Property 3001 3012	temperature
+T31	Substrate 3083 3086	oil
+T32	Environment 3131 3150	artificial seawater
+T33	Substrate 3102 3105	oil
+T34	Environment 3344 3347	sea
+T35	Substrate 3329 3332	oil
+T36	ReactionOrProcess 3277 3287	weathering
+T37	ReactionOrProcess 3352 3358	washed
+T38	ReactionOrProcess 3292 3306	emulsification
+T39	Environment 3486 3494	sediment
+T40	Environment 3526 3534	sediment
+T41	Substrate 3429 3432	oil
+T42	Substrate 3749 3752	oil
+T43	Nutrient 3675 3683	nitrogen
+T44	Nutrient 3690 3700	phosphorus
+T45	Environment 4159 4167	sediment
+T46	Environment 4153 4158	beach
+T47	Environment 4206 4226	oil-treated sediment
+T48	Nutrient 4265 4271	carbon
+T49	Nutrient 4339 4345	Carbon
+T50	Environment 4656 4661	beach
+T51	Environment 4744 4749	beach

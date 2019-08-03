@@ -1,0 +1,85 @@
+T1	Environment 39 53	submerged sand
+T2	Environment 22 27	water
+T3	Environment 314 319	water
+T4	Environment 49 53	sand
+T5	Property 104 113	dissolved
+T6	Property 169 178	dissolved
+T7	Property 282 296	concentrations
+T8	Nutrient 124 132	nitrogen
+T9	Environment 569 577	sediment
+T10	ReactionOrProcess 731 742	homogenized
+T11	Environment 1053 1058	beach
+T12	Substrate 1094 1105	visible oil
+T13	Substrate 1102 1105	oil
+T14	Substrate 1174 1177	oil
+T15	ReactionOrProcess 1329 1339	extraction
+T16	Substrate 1554 1557	oil
+T17	Substrate 1810 1813	oil
+T18	Substrate 1900 1903	oil
+T19	Substrate 1993 2004	hydrocarbon
+T20	Substrate 1989 1992	oil
+T21	Substrate 2211 2214	oil
+T22	ReactionOrProcess 2274 2283	extracted
+T23	Substrate 2550 2568	residual petroleum
+T24	Substrate 2493 2502	petroleum
+T25	Substrate 2559 2568	petroleum
+T26	Substrate 2487 2515	Total petroleum hydrocarbons
+T27	Substrate 2503 2515	hydrocarbons
+T28	Substrate 2487 2514	Total petroleum hydrocarbon
+T29	Substrate 2487 2515	Total petroleum hydrocarbons
+T30	Substrate 2542 2568	Florida residual petroleum
+T31	Substrate 2503 2515	hydrocarbons
+T32	Substrate 2631 2634	oil
+T33	Substrate 2493 2515	petroleum hydrocarbons
+T34	Property 2550 2558	residual
+T35	Environment 2767 2772	beach
+T36	Environment 2767 2778	beach sands
+T37	Environment 2773 2778	sands
+T38	Substrate 2700 2711	hydrocarbon
+T39	Substrate 2696 2699	oil
+T40	Substrate 2753 2756	oil
+T41	Substrate 2844 2847	oil
+T42	Substrate 2906 2927	aromatic hydrocarbons
+T43	Substrate 2906 2927	aromatic hydrocarbons
+T44	Substrate 2940 2950	aliphatics
+T45	Substrate 2915 2927	hydrocarbons
+T46	Substrate 2929 2938	aromatics
+T47	Substrate 2915 2927	hydrocarbons
+T48	Property 2906 2914	aromatic
+T49	Property 2929 2938	aromatics
+T50	Environment 3202 3207	beach
+T51	Environment 3202 3212	beach sand
+T52	Environment 3208 3212	sand
+T53	ReactionOrProcess 3013 3023	enrichment
+T54	ReactionOrProcess 3000 3011	Enumeration
+T55	ReactionOrProcess 3029 3038	isolation
+T56	Environment 3253 3261	seawater
+T57	Environment 3242 3261	artificial seawater
+T58	Substrate 3351 3354	oil
+T59	Property 3475 3488	concentration
+T60	Nutrient 3450 3456	carbon
+T61	Environment 3513 3533	anaerobic conditions
+T62	Substrate 3626 3633	nitrate
+T63	Nutrient 3659 3676	electron acceptor
+T64	ReactionOrProcess 3752 3763	aerobically
+T65	ReactionOrProcess 3690 3701	enumeration
+T66	Substrate 4018 4021	oil
+T67	Property 3914 3925	temperature
+T68	ReactionOrProcess 3999 4008	depletion
+T69	ReactionOrProcess 3896 3905	incubated
+R1	CarriedOn Arg1:T68 Arg2:T66
+R2	CarriedOn Arg1:T69 Arg2:T66
+T70	Environment 4377 4385	seawater
+T71	Environment 4419 4427	seawater
+T72	Environment 4401 4427	filter-sterilized seawater
+T73	Environment 4366 4385	artificial seawater
+T74	ReactionOrProcess 4435 4445	enrichment
+T75	ReactionOrProcess 4319 4330	enrichments
+T76	ReactionOrProcess 4281 4292	enrichments
+T77	Environment 4468 4476	seawater
+T78	Environment 4599 4612	oxic seawater
+T79	Environment 4604 4612	seawater
+T80	ReactionOrProcess 4613 4624	enrichments
+T81	Environment 4771 4789	Anaerobic seawater
+T82	Environment 4781 4789	seawater
+T83	ReactionOrProcess 4790 4801	enrichments

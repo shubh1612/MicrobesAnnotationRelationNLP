@@ -1,0 +1,1288 @@
+A67
+Appl Microbiol Biotechnol (2005) 68: 580–587
+DOI 10.1007/s00253-005-0030-x
+
+MINI-REVIEW
+
+Ralf Rabus
+
+Functional genomics of an anaerobic aromatic-degrading
+denitrifying bacterium, strain EbN1
+Received: 23 February 2005 / Revised: 25 May 2005 / Accepted: 25 May 2005 / Published online: 23 July 2005
+# Springer-Verlag 2005
+
+Abstract Nitrate-reducing bacteria of the recently recognized Azoarcus/Thauera group within the Betaproteobacteria contribute significantly to the biodegradation of
+aromatic and other refractory compounds in anoxic waters
+and soils. Strain EbN1 belongs to a distinct cluster (new
+genus) and is the first member of this phylogenetic group,
+the genome of which has been determined (4.7 Mb; one
+chromosome, two plasmids) [Rabus R, Kube M, Heider J,
+Beck A, Heitmann K, Widdel F, Reinhardt R (2005) The
+genome sequence of an anaerobic aromatic-degrading denitrifying bacterium, strain EbN1. Arch Microbiol 183:
+27–36]. Ten anaerobic and four aerobic aromatic-degradation pathways were recognized on the chromosome, with
+the coding genes mostly forming clusters. Presence of paralogous gene clusters (e.g. for anaerobic ethylbenzene
+degradation) suggests an even broader degradation spectrum than previously known. Metabolic versatility is also
+reflected by the presence of multiple respiratory complexes
+and is apparently controlled by an extensive regulatory
+network. Strain EbN1 is unique for its capacity to degrade
+toluene and ethylbenzene anaerobically via completely different pathways. Bioinformatical analysis of their genetic
+blueprints and global expression analysis (DNA-microarray and proteomics) of substrate-adapted cells [Kühner
+S, Wöhlbrand L, Fritz I, Wruck W, Hultschig C,
+Hufnagel P, Kube M, Reinhardt R, Rabus R (2005)
+Substrate-dependent regulation of anaerobic degradation
+pathways for toluene and ethylbenzene in a denitrifying
+bacterium, strain EbN1. J Bacteriol 187:1493–1503] indicated coordinated vs sequential modes of regulation for the
+toluene and ethylbenzene pathways, respectively.
+
+R. Rabus (*)
+Max Planck Institut für Marine Mikrobiologie,
+Celsiusstrasse 1,
+28359 Bremen, Germany
+e-mail: rrabus@mpi-bremen.de
+Tel.: +49-421-2028736
+Fax: +49-421-2028580
+
+Introduction
+Aromatic compounds belong to the most abundant organic
+molecules in nature, e.g. alkylbenzenes (main constituents
+of crude oil), phenolic compounds (important building
+blocks of lignin) or aromatic amino acids (components of
+proteins). Fuel-derived alkylbenzenes and phenolic compounds are also extensively used in chemical synthesis as
+starting compounds or solvents. Anthropogenic release of
+these toxic compounds during production, transport or
+storage accidents is of major environmental concern and
+therefore determines interest in their biodegradation
+(Dejonghe et al. 2001). In addition, multiple compoundspecific enzymatic reactions could serve as biocatalysts in
+industrial applications (Schmid et al. 2001; Wackett and
+Hershberger 2001).
+Due to the delocalized π-electron system, aromatic compounds display low chemical reactivity. In the case of alkylbenzenes, the absence of polar groups, i.e. the exclusive
+presence of apolar C–C and C–H bonds, further increases
+the chemical stability. Conversely, the biodegradation of
+aromatic compounds requires special biochemical reactions. Under oxic conditions, reactive oxygen species (from
+O2) are used in oxygenase-catalyzed reactions for initial
+hydroxylation steps and hydrolytic cleavage of the aromatic
+ring (Harayama et al. 1992; Gibson and Parales 2000).
+Although these reactions have already been known for several decades, anaerobic degradation of aromatic compounds
+is a more recently discovered microbial capacity. Due to the
+absence of molecular oxygen, many novel reactions are
+involved, which have been discovered only during the past
+decade studying newly isolated bacteria with the respective
+anaerobic-degradation capacities (Heider and Fuchs 1997;
+Widdel and Rabus 2001; Gibson and Harwood 2002). In
+many cases, the aromatic compounds (polar or hydrocarbons) are channeled via specific reaction sequences to the
+common intermediate benzoyl-CoA (Heider et al. 1998).
+Subsequent degradation of the latter involves reductive dearomatization and hydrolytic ring cleavage (Boll et al.
+2002; Harwood et al. 1999).
+Stimulated by the observation of anaerobic degradation
+of aromatic compounds in the natural environment or sam-
+
+581
+
+ples thereof (e.g. Kuhn et al. 1985; Smolenski and Suflita
+1987), numerous pure cultures of novel bacteria were isolated, which could grow with aromatic compounds as the
+only source of organic carbon in the absence of molecular
+oxygen. Most of these isolates were denitrifying bacteria
+belonging to the Azoarcus/Thauera group within the Betaproteobacteria (e.g. Anders et al. 1995; Widdel and Rabus
+2001). This phylogenetic group consists of three distinct
+clusters: (1) the denitrifying aromatic- and monoterpenedegrading Thauera spp., (2) the N2-fixing plant-associated
+Azoarcus spp., which lack the capacity to anaerobically
+degrade aromatic compounds (Rabus, unpublished data)
+O
+
+NH2
+
+COO
+
+ANAEROBIC
+
+-
+
+CYTOPLASM
+
+AEROBIC
+COSCoA
+
+COSCoA
+
+COO-
+
+7
+
+6
+
+OH
+3
+
+2
+
+O2 (low)
+
+22
+
+CioABC
+
+CH2OH
+
+CHO
+
+COO-
+
+4
+
+5
+
+6
+
+CH3
+
+COO-
+
+COSCoA
+
+COSCoA
+
+COSCoA
+
+7
+
+8
+
+COSCoA
+
+HO
+
+10
+
+11
+
+12
+
+OH
+
+OH
+
+OH
+
+9
+
+COSCoA
+O
+
+COO-
+
+23
+
+COOCOSCoA
+OH
+
+13
+
+β-Oxidation
+
+Gluconeogenesis
+
+OH
+
+24
+
+25
+
+2
+
+COSCoA
+
+COSCoA
+
+COO
+
+H2O
+
+O2 (low)
+CcoNOP
+
+H+
+
+O2 (high)
+CoxABC
+H+
+
+NH2
+
+26
+
+27
+
+28
+
+COOO
+COO
+
+COO-
+
+COO-
+
+O
+COO-
+
+43 CH3
+
+-
+
+15
+
+HO
+HO
+
+CH3
+16
+
+17
+
+C
+
+COO
+
+-
+
+38 CH3
+
+FeS
+
+31
+
+HO
+
+42 O
+
+O
+
+PetA
+
+Cyt bc1
+
+OH
+
+OH
+30
+
+29
+
+PetBC
+
+Q-pool
+
+COO
+
+H+
+
+Cyt aa3
+
+H2O
+
+H+
+
+14
+
+H+
+
+Cyt cbb3
+
+H2O
+
+-
+
+NH2
+
+NH2
+
+COO-
+
+OH
+
+COO-
+
+COSCoA
+
+Cyt bd
+
+OXYGEN RESPIRATION
+
+OH
+
+Q-pool
+
+1
+
+PERIPLASM
+
+Cyt c
+pool
+
+COO-
+
+H+
+
+Cyt c
+pool
+
+COO-
+
+and (3) a cluster of aromatic-, n-alkane- and monoterpenedegrading denitrifiers (including strain EbN1) which will
+be proposed as an own genus (Rabus, unpublished data).
+The significance of this phylogenetic group becomes evident from their wide geographical distribution (Zhou et al.
+1995; Song et al. 1999; for overview, see Rabus 2005),
+detection in oil-contaminated aquifers (Hess et al. 1997;
+Pelz et al. 2001) and dominance in nitrate-reducing enrichment cultures utilizing alkylbenzenes and n-alkanes
+from crude oil (Rabus et al. 1999). In fact, bioremediation
+efforts at contaminated anoxic sites might be enhanced by
+
+NADH
+
+COSCoA
+
+Ndh
+
+18
+
+-
+
+NADH
+
+COSCoA
+
+COSCoA
+
+Citrate
+
+Oxalacetate
+19
+
+20
+
+NAD
+O
+
+OH
+
+OH
+
+Malate
+
+OH
+32 CH3
+
+CH2
+
+34 CH3
+
+CH2
+
+CH
+
+33 CH
+3
+
+O
+C
+
+CH
+
+35 CH
+3
+
+C
+
+COSCoA 38
+
+Fumarate
+
+COO
+
+Isocitrate
+
+2 Fdred + NAD
+
+2-Oxoglutarate
+
+2 Fdox + NADH
+
+H+
+
+-
+
+CH3
+
+Succinate
+
+O
+CH3
+
+CH3
+
+44 OHC
+
+OH
+CH3
+
+H+
+
+21
+
+Succinyl-CoA
+
+NO3
+
+NO2
+
+CH3
+
+DENITRIFICATION
+
+NarG
+MGD
+
+O
+36 CH3
+
+CH2
+
+C
+
+O
+CH2 COO 37 CH3
+
+C
+
+NarH
+CH2 COO-
+
+FeS
+
+NorB
+38 CH3
+
+CH2
+
+COSCoA
+
+ATP
+
+NuoH-N
+
+H+
+
+RnfA-E
+
+H+
+
+ADP + Pi
+
+At
+pA
+BC
+
+H+
+
+Cyt b
+
+NorC
+
+COSCoA
+
+Cyt c
+
+CH3
+39 CH3
+
+NarI
+
+Q-pool
+
+Cyt b
+
+H+
+
+A
+αβ TP
+δγ
+ε
+
+COO
+
+NuoEFG
+NuoA-D
+
+NAD
+
+-
+
+41 OOC
+
+C
+
+COSCoA
+
+N2O
+
+N2
+
+N2O
+
+NO2
+
+NO NO
+
+H
+40 CH3
+
+CH2
+
+COO-
+
+Fig. 1 Main catabolic pathways and modes of respiratory energy
+conservation. The diversity of anaerobic and aerobic degradation
+pathways for aromatic compounds is shown in the boxed areas.
+Growth substrates are shown in black, and intermediates or hitherto
+unknown growth substrates are marked in grey. Compound names:
+1 phenylalanine, 2 phenylacetate, 3 phenylglyoxylate, 4 benzyl alcohol, 5 benzaldehyde, 6 benzoate, 7 benzoyl-CoA, 8 cyclohex-1,
+5-diene-1-carbonyl-CoA, 9 3-hydroxypimelyl-CoA, 10 p-cresol, 11
+4-hydroxybenzoate, 12 4-hydroxybenzoyl-CoA, 13 phenol, 14 toluene, 15 benzylsuccinate, 16 ethylbenzene, 17 1-phenylethanol, 18
+acetophenone, 19 3-hydroxybenzoate, 20 3-hydroxybenzoyl-CoA,
+21 3-oxo-5-ene-cyclohexylcarbonyl-CoA, 22 2,3-dihydroxy-4,6diene-cyclohexylcarbonyl-CoA, 23 β-ketoadipyl-CoA, 24 cis-dihydrodiol derivative of phenylacetyl-CoA, 25 phenylacetyl-CoA, 26
+2-amino-5-oxo-cyclohex-1-ene-carbonyl-CoA, 27 2-aminobenzoyl-
+
+NosZ
+Cu
+
+Cyt c
+pool
+
+NirS
+Cyt cd1
+
+CoA, 28 2-aminobenzoate, 29 maleylpyruvate, 30 gentisate, 31 salicylate, 32 2-butanol, 33 i-propanol, 34 2-butanone, 35 acetone, 36
+3-oxo-valerate, 37 3-oxo-butyrate, 38 acetyl-CoA, 39 propionyl-CoA,
+40 propionate, 41 methylmalonyl-CoA, 42 pyruvate, 43 acetate, 44
+glyoxylate. Components of respiratory apparatus: (a) Denitrification: NarGHI, nitrate(NO3−) reductase; NirS, nitrite(NO2−) reductase; NorBC, nitric oxide(NO) reductase; NosZ, nitrous oxide(N2O)
+reductase. (b) Ferredoxin:NAD+ oxidoreductase: RnfA-E. (c) NADH:
+ubiquinol oxidoreductase: NuoA-N. (d) NADH-dehydrogenase: Ndh.
+(e) Complex III: PetBC, cyt bc1; PetA, FeS. (f) Terminal oxidases:
+CoxABC, cyt c oxidase (high oxygen); CcoNOP, cyt c oxidase (low
+oxygen); CioABC, quinol oxidase (low oxygen). (g) ATP-synthase:
+AtpABC, F0-subunit; Atpαβδγɛ, F1-subunit. Modified from
+Rabus et al. (2005)
+
+582
+
+the addition of nitrate (Gersberg et al. 1993; Cunningham
+et al. 2001).
+Strain EbN1 was isolated from freshwater sediments
+under nitrate-reducing conditions with ethylbenzene as the
+sole source of organic carbon (Rabus and Widdel 1995). A
+unique capacity of strain EbN1 is the anaerobic degradation of toluene in addition to ethylbenzene, also occurring
+directly from crude oil (Rabus and Widdel 1996). The
+different anaerobic degradation pathways for ethylbenzene
+and toluene involve several novel biochemical reactions
+[e.g. toluene is initially transformed to (R)-benzylsuccinate
+and ethylbenzene to (S)-1-phenylethanol (Rabus and Heider
+1998; Kniemeyer and Heider 2001a,b)] and converge at the
+level of benzoyl-CoA. Both pathways are encoded in two
+distinct gene clusters (Rabus et al. 2002; Kube et al. 2004)
+and regulated by their respective substrates (Rabus and
+Heider 1998; Champion et al. 1999; Kühner et al. 2005).
+Strain EbN1 also degrades several polar aromatic compounds (e.g. phenylacetate and 4-hydroxybenzoate) and
+aliphatic acids and ketones (e.g. acetone) anaerobically,
+demonstrating its nutritional versatility (Rabus and Widdel
+1995). The genome of strain EbN1 (Rabus et al. 2005) is the
+first of a member of the Azoarcus/Thauera group and of an
+anaerobic hydrocarbon degrader, and therefore forms an
+important basis for future investigations into metabolic
+diversity and evolution within this interesting phylogenetic
+group.
+
+Insights from the genome
+Details about general genome features, cellular, metabolic
+and other functions of strain EbN1 have been compiled in
+an extensive documentation, which is publicly available at
+
+the Web page http://www.micro-genomes.mpg.de/ebn1.
+An integrated view of catabolic pathways and respiratory
+energy conservation in strain EbN1 is presented in Fig. 1.
+Comparative genomics
+Although the genome of strain EbN1 is the first of an
+anaerobic aromatic-degrading member of the Azoarcus/
+Thauera group within the Betaproteobacteria (Rabus et al.
+2005), genomes of aromatic-degraders (mainly aerobic)
+from other proteobacterial subclasses are also known:
+Pseudomonas putida (Gammaproteobacteria; Nelson et al.
+2002) and Rhodopseudomonas palustris (Alphaproteobacteria; Larimer et al. 2004). A comparison of the general
+genome features of these three Proteobacteria is presented
+in Table 1.
+P. putida is capable of aerobic degradation of 17
+different aromatic compounds (e.g. phenylalanine and pcoumarate), which are channeled through four different
+central oxygenase-dependent pathways via catechol, protocatechuate, phenylacetate and homogentisate. The gene
+clusters for the peripheral and central pathways are spread
+across most of the genome sequence (Jiménez et al. 2002).
+The genome does not contain genes for the aerobic
+degradation of toluene. However, in related P. putida mt2 (Williams and Murray 1974), the genes (xyl) for aerobic
+degradation of toluene and xylenes are located on the wellstudied TOL-plasmid pWW0 (Greated et al. 2002). This is
+contrasted by the chromosomal location of the genes for
+anaerobic toluene and ethylbenzene degradation in strain
+EbN1.
+Anaerobic degradation of benzoate and 4-hydroxybenzoate has been intensively studied in R. palustris (Egland
+
+Table 1 Comparison of general genome features of strain EbN1, R. palustris and P. putida
+Genome feature
+
+Strain EbN1a
+
+R. palustris CGA009a
+
+P. putida KT2440a
+
+Size (Mb)
+Plasmid(s)
+G+C-content (mol%)
+Prophages/Bacteriophages
+Transposase-related genes
+Stable RNAs
+rRNA operons
+tRNAs
+Coding regions
+Coding (%)
+Average size (bp)
+Assigned function
+Conserved hypothetical
+Predicted novel
+
+4,727,255
+2b
+65.1
+2
+237
+
+5,459,213
+1b
+65.1
+NR
+15c
+
+6,181,863
+0
+61.6
+4
+96c
+
+4
+58
+4,133d
+90.9d
+945d
+2,560d
+628d
+945d
+
+2
+49
+4,836
+88.1
+987
+3,430
+>545e
+>429e
+
+7
+74c
+5,420
+88.0
+1,003
+3,571
+1,037
+600
+
+NR Not reported
+a
+Data were taken from Rabus et al. (2005), Larimer et al. (2004), Nelson et al. (2002) and Weinel et al. (2002), respectively
+b
+Sizes (Mb): Strain EbN1, 207,355 and 223,670; R. palustris, 8,427
+c
+Data provided by Michael Kube (MPI for Molecular Genetics, Berlin, Germany)
+d
+Referring to chromosome (4,296,230 bp) only
+e
+Four hundred and thirty-two conserved hypothetical and predicted novel proteins were differently categorized, e.g. when their formation
+was demonstrated by proteomics
+
+583
+
+et al. 1997). However, the general importance of aerobic
+biodegradation for this organism is evident from the
+presence of four distinct oxygenase-dependent ring-cleavage systems and a total of 19 mono- and dioxygenases. The
+genes for these degradation enzymes are distributed across the genome. Reflecting the different metabolic types
+(chemo-, photo-, hetero- and autotrophic), R. palustris contains a vast array (>500) of predicted regulatory proteins
+(Larimer et al. 2004).
+Strain EbN1 contains an unusually high number of
+unique genes (23% of the chromosomal genes) as compared to R. palustris (>9%) and P. putida (11%). The exceptional position of strain EbN1 with respect to the share
+of unique genes is also reflected by the rather low percentage (60%) of genes that could be assigned to a COG
+category, considering that 61–99% values are usually observed among Proteobacteria (Tatusov et al. 2003). Genes
+for special pathways for anaerobic degradation of aromatic
+compounds characterizing strain EbN1 and its close relatives, such as Azoarcus evansii (e.g. Harwood et al. 1999)
+and Thauera aromatica (Leuthner et al. 1998; Breinig et al.
+2000), are not present in the genomes of the aerobic
+degraders.
+Catabolic versatility
+More than a dozen gene clusters for anaerobic aromatic
+degradation were identified across the chromosome of
+strain EbN1 (Fig. 1; Rabus et al. 2005), which is in accordance with the range of aromatic compounds previously demonstrated to support anaerobic growth (Rabus and
+Widdel 1995). Surprisingly, the chromosome also contained gene clusters for anaerobic degradation of 2aminobenzoate p-cresol and phenol. In the latter case, a
+novel phosphotransferase is involved as recently demonstrated for related T. aromatica (Schmeling et al. 2004).
+Subsequent experiments confirmed that strain EbN1 could
+indeed grow with these 3 aromatic compounds under
+anaerobic conditions. In addition, paralogous gene clusters
+were discovered for the anaerobic degradation of ethylbenzene (Fig. 2), p-cresol and benzoate. The products of
+the second gene copies display the following markedly
+reduced sequence identities: 47.2–83.5% in the case of
+ethylbenzene dehydrogenase subunits and (S)-1-phenylethanol dehydrogenase (Fig. 2), 33 and 43% in the case of
+p-cresol methylhydroxylase subunits (PchCF) and 77.9
+and 90.0% in the case of the catalytic subunits of benzoylCoA reductase (BcrBC). These deviations in sequence
+identity suggest that the enzymes encoded by the second
+gene copies probably have a different, yet-to-be-defined
+substrate specificity. Nine of the ten recognized anaerobic
+peripheral pathways of aromatic compounds are channeled
+to benzoyl-CoA (Fig. 1), the well-known central intermediate in anaerobic aromatic degradation (Boll et al. 2002).
+The only exception is anaerobic 3-hydroxybenzoate degradation, with strain EbN1 apparently recruiting a paralogous benzoyl-CoA reductase in contrast to T. aromatica
+(Laempe et al. 2001).
+
+Five gene clusters for aerobic degradation of aromatic
+compounds are present in the genome, which encode the
+enzymes for four different aerobic routes (Fig. 1). The
+capacity to degrade 2-aminobenzoate and gentisate was
+first recognized by genome analysis and subsequently
+confirmed with growth experiments. The aerobic aromatic
+catabolism also involves unusual pathways and novel oxygenases. As recently elucidated in related A. evansii (Zaar
+et al. 2004), aerobic degradation of benzoate requires activation to the CoA-ester, followed by formation of a cisdihydrodiol intermediate by means of a novel NADH- and
+O2-dependent benzoyl-CoA dioxygenase. Paralogous genes
+for aerobic degradation of salicylate and phenylacetate are
+present on the chromosome. Thus, in the case of anaerobic
+and aerobic degradation, mining of the genome sequence
+revealed that the spectrum of aromatic compounds
+supporting growth is considerably broader than previously
+thought. Overall, more than 150 genes are apparently
+devoted to the catabolism of aromatic compounds, corroborating their importance for the nutrition of strain EbN1.
+In addition, strain EbN1 utilizes several non-aromatic
+compounds. Ketones (acetone and 2-butanone; Rabus and
+Widdel 1995) are metabolized using a carboxylase which is
+similar to the well-studied enzyme of Xanthobacter autotrophicus (Sluis et al. 2002) and different from the acetophenone carboxylase. The presence of more than 140
+genes for enzymes of β-oxidation and alcohol dehydrogenases (e.g. 32 predicted short-chain alcohol dehydrogenases) emphasizes the potential of strain EbN1 to utilize
+
+A
+
+H 2O
+
+2 [H]
+
+HO
+
+NAD+ NADH+H+
+
+EbdABC
+Ethylbenzene
+
+Ped
+
+(S)-1-Phenylethanol
+
+c1A56 c1A57 ped ebdD ebdC ebdB
+
+Identity (%)
+
+47,2
+
+51,8
+
+A5788 ped
+
+ebdA
+
+3440800
+
+Acetophenone
+
+1394800
+
+1390400
+
+B
+
+O
+
+60,7
+
+ebdA
+
+83,5
+
+c1A68
+
+77,8
+
+ebdB ebdC ebdD A5797 A5802
+A5799
+3445200
+
+Fig. 2 Paralogous genes for anaerobic ethylbenzene degradation. a
+Ethylbenzene dehydrogenase (EbdABC) oxidizes ethylbenzene stereospecifically to (S)-1-phenylethanol. The catalytic subunit EbdA
+carries a molybdenum cofactor, and EbdD probably functions as
+“private” chaperon for EbdABC maturation. The secondary alcohol
+is then oxidized by (S)-1-phenylethanol dehydrogenase (Ped) to
+acetophenone. b The initially identified genes of these enzymes are
+shown in the top panel (Rabus et al. 2002, 2005), the paralogous
+genes below (Rabus et al. 2005). The chromosomal location of the
+genes is indicated by the nucleotide positions. Identity values refer
+to protein sequences
+
+584
+
+organic acids and alcohols. Most organic substrates of
+strain EbN1 are degraded directly via their respective anaerobic or aerobic pathways to acetyl-CoA. In the case of
+propionate (substrate or intermediate in the degradation of
+2-butanone and odd-chained fatty acids, respectively), this
+is achieved via the methylmalonyl-CoA pathway. The
+TCA-cycle is then used for complete oxidation of acetylCoA to CO2. Intermediates of the TCA-cycle used for
+gluconeogenesis or amino acid biosynthesis are replenished by channeling acetyl-CoA units into the glyoxylate
+shunt. An integrated view of the different catabolic routes in
+strain EbN1 is presented in Fig. 1.
+Respiratory flexibility
+Strain EbN1 conserves energy by respiration of oxygen
+or nitrate (denitrification). Although the denitrification system is highly similar to that of other denitrifiers (Zumft
+1997), NADH-regenerating complexes and terminal oxidases (oxygen-reducing) show an unexpected variety. A
+proton-translocating NADH-dehydrogenase (Nuo) and a
+non-proton-translocating isoenzyme (Ndh) provide flexibility with respect to rate and efficiency of energy conservation (Unden et al. 2002). In addition, proton-translocating
+NADH:ferredoxin oxidoreductases (Rnf, two copies) may
+enable reverse electron transfer (Kumagai et al. 1997). The
+presence of terminal oxidases with different affinities towards oxygen suggests that strain EbN1 is capable of
+efficient oxygen respiration at varying external oxygen
+concentrations. Due to its low oxygen affinity, the protontranslocating cytochrome aa3-type cytochrome c oxidase
+(four copies) probably operates at high oxygen concentrations. The high oxygen affinities of the cytochrome cbb3type cytochrome c oxidase (two copies) and the cytochrome
+bd-type quinol oxidase qualify them for micro-oxygen
+conditions (Pitcher et al. 2002).
+Regulatory potential
+The broad catabolic and respiratory versatility of strain
+EbN1 is also reflected in a multi-component regulatory
+network (120 genes for DNA-binding regulatory proteins
+and genes for at least 30 two-component regulatory systems), acting at different hierarchical levels. Control of
+individual catabolic gene clusters in response to substrate
+availability can be mediated by specific regulators for the
+respective substrates. For example, two-component regulatory systems are responsive towards substrates like nitrate (NarXL) or alkylbenzenes (TdiSR, see below) and act
+as transcriptional activators. In related Azoarcus sp. strain
+CIB, expression of the bzd operon for anaerobic benzoate
+degradation is controlled by the repressor BzdR and the
+inductor benzoyl-CoA (Barragán et al. 2005). Superimposed regulatory circuits could coordinate the obligatory
+anaerobic degradation pathways (e.g. toluene) and the various respiratory modes with the actual redox conditions in
+the environment (e.g. fumarate nitrate reductase regulator)
+
+or direct metabolism in favour of preferential substrates
+(e.g. cAMP receptor protein) (Körner et al. 2003). Overall, this regulatory network could enable strain EbN1 to
+efficiently adapt its metabolism to changing substrate
+concentrations.
+Metabolic evolution
+Enzymes of individual degradative pathways in strain
+EbN1 show similar degrees of conservation to orthologs
+from bacteria with different degrees of phylogenetic relatedness to strain EbN1, e.g. closely related A. evansii in
+the case of anaerobic benzoate degradation and more distantly related T. aromatica in the case of anaerobic toluene
+or phenol degradation. This observation suggested that
+lateral gene transfer (LGT) played an essential role in the
+metabolic evolution of strain EbN1. Such a scenario is
+supported by the exceptionally high number (237) of transposon-related genes in the 4.7 Mb genome of strain EbN1
+(50/Mb). For comparison, the 6.2-Mb genome of the aerobic aromatic-degrader P. putida, which is also assumed to
+have acquired catabolic genes via LGT, contains 96 transposon-related genes (15/Mb) (Nelson et al. 2002). Further
+support for LGT in strain EbN1 comes from the observation that one plasmid contains several catabolic genes and
+the assumption that mobile genetic elements are maintained by toxin/antitoxin proteins of the various “addiction” systems (Hayes 2003) detected at several places in the
+genome. One may even speculate that LGT also contributed to shaping the catabolically unique properties of the
+many other “degraders” in the Azoarcus/Thauera group.
+Ecophysiological distinction
+Strain EbN1 belongs to a cluster of more than a dozen
+denitrifying “degradation-specialists”, including A. evansii
+(aromatic-degrading), strain pCyN1 (aromatic- and monoterpene-degrading) and strain HxN1 (n-alkane-degrading),
+which have all been isolated from soil and freshwater
+sediments. This cluster is closely related to the Azoarcus
+spp. (sensu stricto), which are characterized by a N2-fixing,
+plant-endosymbiotic lifestyle (Reinhold-Hurek and Hurek
+2000). Association of the bacteria with the rhizosphere of
+rice plants is mediated by adhesins on the cell surface of the
+Azoarcus spp. (Dörr et al. 1998). Such genes for nitrogenase and adhesins are absent in the genome of strain EbN1.
+Thus, strain EbN1 can be regarded as a free-living soil
+bacterium specializing on the anaerobic degradation of recalcitrant compounds, which ecophysiologically separates
+this bacterium from the plant-associated Azoarcus spp.
+
+Regulation of anaerobic alkylbenzene degradation
+Strain EbN1 is to date the only known organism that can
+degrade toluene and ethylbenzene under anoxic conditions.
+Despite their structural similarity, the two alkylbenzenes
+
+585
+
+are degraded via two fundamentally different anaerobic
+pathways that converge at the level of benzoyl-CoA.
+Toluene is initially added in a radical reaction to fumarate
+forming (R)-benzylsuccinate as the first intermediate. (R)Benzylsuccinate is subsequently activated to the CoA-ester
+and converted to benzoyl-CoA via a modified β-oxidation
+reaction sequence. In contrast, ethylbenzene is directly
+oxidized at the methylene carbon via (S)-1-phenylethanol
+to acetophenone. The latter is carboxylated to benzoylacetate, and thiolytic removal of an acetyl-CoA moiety yields
+benzoyl-CoA.
+Earlier enzymatic and physiological studies already
+pointed to a substrate-dependent regulation of the two
+pathways (Rabus and Heider 1998; Champion et al. 1999).
+The recent elucidation of the complete genetic blueprints
+for both pathways (Rabus et al. 2002; Kube et al. 2004)
+allowed the study of this regulatory process on a global
+level using a pathway-specific DNA microarray and proteomics (Kühner et al. 2005). Integration of computational and experimental data led to the following regulatory
+model (Fig. 3): (1) Recognition of toluene, ethylbenzene
+and acetophenone is mediated by three different two-component regulatory systems (TdiSR, Tcs2/Tcr2 and Tcs1/
+Tcr1, respectively). Whereas TdiSR appears to be strictly
+specific for toluene, the other two have a relaxed substrate
+specificity being also responsive to toluene. (2) The bss
+(benzylsuccinate synthase encoding) and bbs (β-oxidation
+enzymes encoding) operons of anaerobic toluene degradation are coordinately controlled by the TdiSR system. A
+role of benzylsuccinate as inductor for the expression of the
+toluene genes (Coschigano and Bishop 2004) appears unlikely in strain EbN1. (3) In contrast, the upper (from
+ethylbenzene to acetophenone; ebd/ped operon) and lower
+(from acetophenone to benzoyl-CoA; apc/bal operon) parts
+of the ethylbenzene pathway are sequentially regulated
+according to the presence of the respective substrates.
+Similarly, in P. putida the expression of the upper and lower
+operons for the aerobic degradation of toluene/xylenes via
+(methyl)benzoates to acetyl-CoA is regulated in response
+to the presence of the respective substrates (Ramos et al.
+1997). (4) Simultaneous utilization of toluene and ethylbenzene is paralleled by the simultaneous expression of the
+corresponding genes, demonstrating that neither of the two
+alkylbenzenes is regarded as a preferred substrate.
+In addition, the global expression analysis revealed the
+co-regulation of several thus-far-unknown genes (located
+in separate transcriptional units) during the degradation of
+both alkylbenzenes, indicating that more proteins than
+currently known could be involved (Kühner et al. 2005).
+
+Biochemistry
+To date, investigations on the biochemistry of individual
+enzymes in strain EbN1 have been focused on those involved in anaerobic ethylbenzene degradation and were
+performed by the group of Johann Heider. Ethylbenzene
+dehydrogenase, which catalyzes the initial oxidation of ethylbenzene to (S)-1-phenylethanol, is a heterotrimeric mo-
+
+A
+bss
+
+bbs
+⊕
+
+⊕
+TdiR
+
+TdiS
+
+COOCOO-
+
+BssABC
+14
+
+BbsA-H
+
+15
+
+COSCoA
+7
+
+O
+EbdABC Ped
+16
+
+Apc1-5
+
+Tcs2
+
+Tcr2
+
+Tcs1
+
+⊕
+ebd/ped
+
+B
+
+Bal
+
+18
+
+Toluene
+adapted
+
+Tcr1
+
+⊕
+apc/bal
+
+Ethylbenzene
+adapted
+
+Fig. 3 Regulation of the anaerobic degradation pathways for
+toluene and ethylbenzene in strain EbN1. a Regulatory model. b
+Differential protein formation in cells adapted to anaerobic growth
+with toluene (left image) and ethylbenzene (right image), as determined by two-dimensional difference gel electrophoresis (2D
+DIGE); substrate-specific, up-regulated proteins appear in green
+color (Kühner et al. 2005). Compound names are as explained in
+legend to Fig. 1. Protein abbreviations: BssABC benzylsuccinate
+synthase, BssD putative activase of benzylsuccinate synthase, BbsAH enzymes of the β-oxidation reaction sequence from benzylsuccinate to benzoyl-CoA, EbdABC ethylbenzene dehydrogenase, Apc1-5
+acetophenone carboxylase, Bal benzoylacetate-CoA ligase. Abbreviations of two-component regulatory systems: TdiSR toluene-specific system, Tcs2/Tcr2 ethylbenzene-specific system, Tcs1/Tcr1
+acetophenone-specific system
+
+lybdenum/iron-sulfur/heme-containing enzyme (Kniemeyer
+and Heider 2001a). A highly similar enzyme was also
+studied in the closely related denitrifier strain EB1 (Johnson
+et al. 2001). It represents the first enzyme demonstrated
+to oxidize a hydrocarbon under anoxic conditions. The
+periplasmic location of the enzyme was confirmed by the
+twin-arginine-containing leader peptide directing export
+of the mature protein via the TAT-system. Maturation of
+the enzyme is apparently assisted by a private chaperon
+(Rabus et al. 2002). The second reaction from (S)-1phenylethanol to acetophenone is catalyzed by a NAD+dependent, stereospecific dehydrogenase (Kniemeyer and
+Heider 2001b). Genetic evidence (Rabus et al. 2002) sug-
+
+586
+
+gests that the subsequent acetophenone carboxylase is distinct from the known acetone carboxylase (Sluis et al.
+2002).
+
+Perspectives
+Application of the established functional genomic approach (Kühner et al. 2005) to the entire range of aromatic
+substrates (anaerobic and aerobic) of strain EbN1 will aim
+at defining the individual elements of the regulatory network and to decipher the mechanisms of adaptation to
+fluctuating availability of organic substrates and electron
+acceptors in the environment on the “true” organism level.
+In addition, identification of new protein components of the
+individual degradation pathways can be expected. Overall,
+strain EbN1 could be used as a model system and starting
+point to expand our understanding of the intriguing
+catabolic diversity and its evolution in the phylogenetic
+cluster of strain EbN1. Besides their genetic/biochemical
+novelty, some of these reactions may be used as novel
+resources for biocatalysis in industrial synthetic chemistry.
+A comparison of the genomes of strain EbN1 and Azoarcus
+sp. strain BH72, a model for diazotrophic grass endophytes
+(Hurek and Reinhold-Hurek 2003), promises to provide
+new insights into the mechanisms involved in the transition
+of a free-living soil bacterium to an endophyte. Habitatorientated research may assess the global distribution of the
+novel degradation pathways. A recent metagenomic investigation of a microbial mat from the anoxic seafloor of
+the Black Sea revealed a DNA fragment (79 kb) that contained the complete genetic blueprints of anaerobic benzoate and hydroxybenzoate degradation as known from
+strain EbN1 and its relatives (Kube et al. 2005).
+Acknowledgements R. Reinhardt, A. Beck and M. Kube (Berlin)
+are greatly acknowledged for genome sequencing and fruitful
+collaboration. J. Heider (Darmstadt) is thanked for expert participation in annotation.
+
+References
+Anders HJ, Kaetzke A, Kämpfer P, Ludwig W, Fuchs G (1995)
+Taxonomic position of aromatic-degrading denitrifying pseudomonad strains K 172 and KB 740 and description as new
+members of the genera Thauera, as Thauera aromatica sp.
+nov., and Azoarcus, as Azoarcus evansii sp. nov., respectively,
+members of the beta subclass of the Proteobacteria. Int J Syst
+Bacteriol 45:327–333
+Barragán MJL, Blázquez B, Zamarro MT, Mancheño JM, García JL,
+Díaz E, Carmona M (2005) BzdR, a repressor that controls the
+anaerobic catabolism of benzoate in Azoarcus sp. CIB, is the
+first member of a new subfamily of transcriptional regulators. J
+Biol Chem 280:10683–10694
+Boll M, Fuchs G, Heider J (2002) Anaerobic oxidation of aromatic
+compounds and hydrocarbons. Curr Opin Chem Biol 6:604–
+611
+Breinig S, Schiltz E, Fuchs G (2000) Genes involved in anaerobic
+metabolism of phenol in the bacterium Thauera aromatica. J
+Bacteriol 182:5849–5863
+
+Champion KM, Zengler K, Rabus R (1999) Anaerobic degradation
+of ethylbenzene and toluene in denitrifying strain EbN1 proceeds via independent substrate-induced pathways. J Mol Microbiol Biotechnol 1:157–164
+Coschigano PW, Bishop BJ (2004) Role of benzylsuccinate in the
+induction of the tutE tutFDGH gene complex of T. aromatica
+strain T1. FEMS Microbiol Lett 231:261–266
+Cunningham JA, Rahme H, Hopkins GD, Lebron C, Reinhard M
+(2001) Enhanced in situ bioremediation of BTEX-contaminated
+groundwater by combined injection of nitrate and sulfate.
+Environ Sci Technol 35:1663–1670
+Dejonghe W, Boon N, Seghers D, Top EM, Verstraete W (2001)
+Bioaugmentation of soils by increasing microbial richness:
+missing links. Environ Microbiol 3:649–657
+Dörr J, Hurek T, Reinhold-Hurek B (1998) Type IV pili are involved
+in plant-microbe and fungus-microbe interactions. Mol Microbiol 30:7–17
+Egland PG, Pelletier DA, Dispensa M, Gibson J, Harwood CS
+(1997) A cluster of bacterial genes for anaerobic benzene ring
+biodegradation. Proc Natl Acad Sci U S A 94:6484–6489
+Gersberg RM, Dawsey WJ, Bradley MD (1993) Nitrate enhancement of in situ bioremediation of monoaromatic compounds in
+groundwater. Remediation 3:233–245
+Gibson J, Harwood CS (2002) Metabolic diversity in aromatic compound utilization by anaerobic microbes. Annu Rev Microbiol
+56:345–369
+Gibson DT, Parales RE (2000) Aromatic hydrocarbon dioxygenases
+in environmental biotechnology. Curr Opin Biotechnol 11:236–
+243
+Greated A, Lambertsen L, Williams PA, Thomas CM (2002)
+Complete sequence of the IncP-9 TOL plasmid pWW0 from
+Pseudomonas putida. Environ Microbiol 4:856–871
+Harayama S, Kok M, Neidle EL (1992) Functional and evolutionary
+relationships among diverse oxygenases. Annu Rev Microbiol
+46:565–601
+Harwood CS, Burchhardt G, Hermann H, Fuchs G (1999) Anaerobic metabolism of aromatic compounds via the benzoyl-CoA
+pathway. FEMS Microbiol Rev 22:439–458
+Hayes F (2003) Toxins-antitoxins: plasmid maintenance, programmed cell death, and cell cycle arrest. Science 301:1496–
+1499
+Heider J, Fuchs G (1997) Anaerobic metabolism of aromatic
+compounds. Eur J Biochem 243:577–596
+Heider J, Boll M, Breese K, Breinig S, Ebenau-Jehle C, Feil U,
+Gadón N, Laempe D, Leuthner B, Mohamed ME, Schneider S,
+Burchhardt G, Fuchs G (1998) Differential induction of enzymes involved in anaerobic metabolism of aromatic compounds in the denitrifying bacterium Thauera aromatica. Arch
+Microbiol 170:120–131
+Hess A, Zarda B, Hahn D, Häner A, Stax D, Höhener P, Zeyer J
+(1997) In situ analysis of denitrifying toluene- and m-xylenedegrading bacteria in a diesel fuel-contaminated laboratory
+aquifer column. Appl Environ Microbiol 63:2136–2141
+Hurek T, Reinhold-Hurek B (2003) Azoarcus sp. strain BH72 as a
+model for nitrogen-fixing grass endophytes. J Biotechnol 106:
+169–178
+Jiménez JI, Miñambres B, García JL, Díaz E (2002) Genomic
+analysis of the aromatic catabolic pathways from Pseudomonas
+putida KT2440. Environ Microbiol 4:824–841
+Johnson HA, Pelletier DA, Spormann AM (2001) Isolation and
+characterization of anaerobic ethylbenzene dehydrogenase, a
+novel Mo-Fe-S enzyme. J Bacteriol 183:4536–4542
+Kniemeyer O, Heider J (2001a) Ethylbenzene dehydrogenase, a
+novel hydrocarbon-oxidizing molybdenum/iron-sulfur/heme enzyme. J Biol Chem 276:21381–21386
+Kniemeyer O, Heider J (2001b) (S)-1-Phenylethanol dehydrogenase
+of Azoarcus sp. strain EbN1, an enzyme of anaerobic ethylbenzene catabolism. Arch Microbiol 176:129–135
+Körner H, Sofia HJ, Zumft WG (2003) Phylogeny of the bacterial
+superfamily of Crp-Fnr transcription regulators: exploiting the
+metabolic spectrum by controlling alternative gene programs.
+FEMS Microbiol Rev 27:559–592
+
+587
+Kube M, Heider J, Amann J, Hufnagel P, Kühner S, Beck A,
+Reinhardt R, Rabus R (2004) Genes involved in the anaerobic
+degradation of toluene in a denitrifying bacterium, strain EbN1.
+Arch Microbiol 181:182–194
+Kube M, Beck A, Meyerdierks A, Amann R, Reinhardt R, Rabus R
+(2005) A catabolic gene cluster for anaerobic benzoate degradation in methanotrophic microbial Black Sea mats. Syst Appl
+Microbiol 28:287–294
+Kuhn EP, Zeyer J, Eicher P, Schwarzenbach RP (1985) Anaerobic
+degradation of alkylated benzenes in denitrifying laboratory
+aquifer columns. Appl Environ Microbiol 54:490–496
+Kühner S, Wöhlbrand L, Fritz I, Wruck W, Hultschig C, Hufnagel P,
+Kube M, Reinhardt R, Rabus R (2005) Substrate-dependent
+regulation of anaerobic degradation pathways for toluene and
+ethylbenzene in a denitrifying bacterium, strain EbN1. J
+Bacteriol 187:1493–1503
+Kumagai H, Fujiwara T, Matsubara H, Saeki K (1997) Membrane
+localization, topology, and mutual stabilization of the rnfABC
+gene products in Rhodobacter capsulatus and implications for a
+new family of energy-coupling NADH oxidoreductases. Biochemistry 36:5509–5521
+Laempe D, Jahn M, Breese K, Schägger H, Fuchs G (2001)
+Anaerobic metabolism of 3-hydroxybenzoate by the denitrifying bacterium Thauera aromatica. J Bacteriol 183:968–979
+Larimer FW, Chain P, Hauser L, Lamerdin J, Malfatti S, Do L, Land
+ML, Pelletier DA, Beatty JT, Lang AS, Tabita FR, Gibson JL,
+Hanson TE, Bobst C, Torres y Torres JL, Peres C, Harrison FH,
+Gibson J, Harwood CS (2004) Complete genome sequence of
+the metabolically versatile photosynthetic bacterium Rhodopseudomonas palustris. Nat Biotechnol 22:55–61
+Leuthner B, Leutwein C, Schulz H, Hörth P, Haehnel W, Schiltz E,
+Schägger H, Heider J (1998) Biochemical and genetic
+characterization of benzylsuccinate synthase from Thauera
+aromatica: a new glycyl radical enzyme catalysing the first step
+in anaerobic toluene metabolism. Mol Microbiol 28:615–628
+Nelson KE, Weinel C, Paulsen IT, Dodson RJ, Hilbert H, Martins
+dos Santos VAP, Fouts DE, Gill SR, Pop M, Holmes M,
+Brinkac L, Beanan M, DeBoy RT, Daugherty S, Kolonay J,
+Madupu R, Nelson W, White O, Peterson J, Khouri H, Hance I,
+Chris Lee P, Holtzapple E, Scanlan D, Tran K, Moazzez A,
+Utterback T, Rizzo M, Lee K, Kosack D, Moestl D, Wedler H,
+Lauber J, Stjepandic D, Hoheisel J, Straetz M, Heim S, Kiewitz
+C, Eisen J, Timmis KN, Düsterhöft A, Tümmler B, Fraser CM
+(2002) Complete genome sequence and comparative analysis of
+the metabolically versatile Pseudomonas putida KT2440.
+Environ Microbiol 4:799–808
+Pelz O, Chatzinotas A, Andersen N, Bernasconi SM, Hesse C,
+Abraham W-R, Zeyer J (2001) Use of isotopic and molecular
+techniques to link toluene degradation in denitrifying aquifer
+microcosms to specific microbial populations. Arch Microbiol
+175:270–281
+Pitcher RS, Cheesman MR, Watmough NJ (2002) Molecular and
+spectroscopic analysis of the cytochrome cbb3 oxidase from
+Pseudomonas stutzeri. J Biol Chem 277:31474–31483
+Rabus R (2005) Biodegradation of hydrocarbons under anoxic
+conditions. In: Ollivier B, Magot M (eds) Petroleum microbiology. ASM, Washington DC, pp. 277–299
+Rabus R, Heider J (1998) Initial reactions of anaerobic metabolism
+of alkylbenzenes in denitrifying and sulfate-reducing bacteria.
+Arch Microbiol 170:377–384
+Rabus R, Widdel F (1995) Anaerobic degradation of ethylbenzene
+and other aromatic hydrocarbons by new denitrifying bacteria.
+Arch Microbiol 163:96–103
+Rabus R, Widdel F (1996) Utilization of alkylbenzenes during
+anaerobic growth of pure cultures of denitrifying bacteria on
+crude oil. Appl Environ Microbiol 62:1238–1241
+Rabus R, Wilkes H, Schramm A, Harms G, Behrends A, Amann R,
+Widdel F (1999) Anaerobic utilization of alkylbenzenes and nalkanes from crude oil in an enrichment culture of denitrifying
+bacteria affiliating with the β-subclass of Proteobacteria.
+Environ Microbiol 1:145–157
+
+Rabus R, Kube M, Beck A, Widdel F, Reinhardt R (2002) Genes
+involved in the anaerobic degradation of ethylbenzene in a
+denitrifying bacterium, strain EbN1. Arch Microbiol 178:506–
+516
+Rabus R, Kube M, Heider J, Beck A, Heitmann K, Widdel F,
+Reinhardt R (2005) The genome sequence of an anaerobic
+aromatic-degrading denitrifying bacterium, strain EbN1. Arch
+Microbiol 183:27–36
+Ramos JL, Marqués S, Timmis KN (1997) Transcriptional control of
+the Pseudomonas TOL plasmid catabolic operons is achieved
+through an interplay of host factors and plasmid-encoded
+regulators. Ann Rev Microbiol 51:341–372
+Reinhold-Hurek B, Hurek T (2000) Reassessment of the taxonomic
+structure of the diazotrophic genus Azoarcus sensu lato and
+description of three new genera and new species, Azovibrio
+restrictus gen. nov., sp. nov., Azospira oryzae gen. nov., sp.
+nov. and Azonexus fungiphilus gen. nov., sp. nov. Int J Syst
+Evol Microbiol 50:649–659
+Schmeling S, Narmandakh A, Schmitt O, Gad’on N, Schuhle K,
+Fuchs G (2004) Phenylphosphate synthase: a new phosphotransferase catalyzing the first step in anaerobic phenol metabolism in Thauera aromatica. J Bacteriol 186:8044–8057
+Schmid A, Dordick JS, Hauer B, Kiener A, Wubbolts M, Witholt B
+(2001) Industrial biocatalysis today and tomorrow. Nature
+409:258–268
+Sluis MK, Larsen RA, Krum JG, Anderson R, Metcalf WW, Ensign
+SA (2002) Biochemical, molecular, and genetic analyses of the
+acetone carboxylase from Xanthobacter autotrophicus strain
+Py2 and Rhodobacter capsulatus strain B10. J Bacteriol 184:
+2969–2977
+Smolenski WJ, Suflita JM (1987) Biodegradation of cresol isomers
+in anoxic aquifers. Appl Environ Microbiol 53:710–716
+Song B, Häggblom MM, Zhou J, Tiedje JM, Palleroni NJ (1999)
+Taxonomic characterization of denitrifying bacteria that degrade aromatic compounds and description of Azoarcus toluvorans sp. nov. and Azoarcus toluclasticus sp. nov. Int J Syst
+Bacteriol 49:1129–1140
+Tatusov RL, Fedorova ND, Jackson JD, Jacobs AR, Kiryutin B,
+Koonin EV, Krylov DM, Mazumder R, Mekhedov SL,
+Nikolskaya AN, Rao BS, Smirnov S, Sverdlov AV, Vasudevan
+S, Wolf YI, Yin JJ, Natale DA (2003) The COG database: an
+updated version includes eukaryotes. BMC Bioinformatics 4:41
+Unden G, Achebach S, Holighaus G, Tran HG, Wackwitz B, Zeuner
+Y (2002) Control of FNR function of Escherichia coli by O2
+and reducing conditions. J Mol Microbiol Biotechnol 4:263–
+268
+Wackett LP, Hershberger CD (2001) Biocatalysis and biodegradation: microbial transformation of organic compounds. ASM,
+Washington DC
+Weinel C, Nelson KE, Tümmler B (2002) Global features of the
+Pseudomonas putida KT2440 genome sequence. Environ
+Microbiol 4:809–818
+Widdel F, Rabus R (2001) Anaerobic biodegradation of saturated
+and aromatic hydrocarbons. Curr Opin Biotechnol 12:259–276
+Williams PA, Murray K (1974) Metabolism of benzoate and the
+methylbenzoates by Pseudomonas putida (arvilla) mt-2: evidence for the existence of a TOL plasmid. J Bacteriol 120:416–
+423
+Zaar A, Gescher J, Eisenreich W, Bacher A, Fuchs G (2004) New
+enzymes involved in aerobic benzoate metabolism in Azoarcus
+evansii. Mol Microbiol 54:223–238
+Zhou J, Fries MR, Chee-Sanford JC, Tiedje JM (1995) Phylogenetic
+analyses of a new group of denitrifiers capable of anaerobic
+growth on toluene and description of Azoarcus tolulyticus sp.
+nov. Int J Syst Bacteriol 45:500–506
+Zumft WG (1997) Cell biology and molecular basis of denitrification. Microbiol Mol Biol Rev 61:533–616

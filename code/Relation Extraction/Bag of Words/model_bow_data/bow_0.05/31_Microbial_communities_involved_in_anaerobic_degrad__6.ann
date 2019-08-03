@@ -1,0 +1,61 @@
+T1	Substrate 143 150	alkanes
+T2	Microbes 193 206	Archaeoglobus
+T3	Environment 270 273	sea
+T4	Environment 263 273	heated sea
+T5	Environment 370 373	Sea
+T6	Environment 350 356	waters
+T7	Substrate 336 343	hot oil
+T8	Substrate 340 343	oil
+T9	Substrate 465 474	n-alkenes
+T10	ReactionOrProcess 452 461	oxidation
+T11	ReactionOrProcess 442 461	anaerobic oxidation
+R1	CarriedOn Arg1:T10 Arg2:T9
+R2	CarriedOn Arg1:T11 Arg2:T9
+T12	Property 550 566	sulfate-reducing
+T13	Microbes 748 761	Archaeoglobus
+T14	Substrate 787 794	alkanes
+T15	ReactionOrProcess 779 786	oxidize
+T16	ReactionOrProcess 831 841	metabolize
+T17	Nutrient 903 920	electron acceptor
+T18	Microbes 1302 1313	Paleococcus
+T19	Microbes 1315 1325	Pyrococcus
+T20	Microbes 1245 1259	Thermococcales
+T21	Microbes 1330 1342	Thermococcus
+T22	Microbes 1453 1467	Thermococcales
+T23	Substrate 1566 1574	peptides
+T24	ReactionOrProcess 1516 1528	fermentation
+R3	CarriedOn Arg1:T24 Arg2:T23
+T25	Substrate 1694 1700	sulfur
+T26	ReactionOrProcess 1675 1683	reducing
+T27	Microbes 1976 1987	Paleococcus
+T28	Microbes 1992 2002	Pyrococcus
+T29	Microbes 1793 1805	Thermococcus
+T30	Environment 1938 1959	hydrothermal habitats
+T31	Environment 1867 1885	hot oil reservoirs
+T32	Substrate 1867 1874	hot oil
+T33	Substrate 1871 1874	oil
+T34	Microbes 2147 2166	microbial consortia
+T35	Microbes 2045 2057	Thermococcus
+T36	Property 2202 2213	temperature
+T37	Microbes 2365 2374	sibiricus
+T38	Microbes 2352 2374	Thermococcus sibiricus
+T39	Microbes 2270 2282	Thermococcus
+T40	Microbes 2352 2364	Thermococcus
+T41	Substrate 2305 2312	alkanes
+T42	Substrate 2414 2424	hexadecane
+T43	Microbes 2492 2501	sibiricus
+T44	Microbes 2489 2501	T. sibiricus
+T45	Substrate 2525 2535	hexadecane
+T46	Nutrient 2558 2564	carbon
+T47	Substrate 2611 2617	sulfur
+T48	ReactionOrProcess 2673 2683	stimulates
+T49	Nutrient 2624 2641	electron acceptor
+T50	Environment 2748 2765	hot oil reservoir
+T51	Substrate 2748 2755	hot oil
+T52	Substrate 2752 2755	oil
+T53	Substrate 2855 2876	aromatic hydrocarbons
+T54	Substrate 2855 2876	aromatic hydrocarbons
+T55	Substrate 2864 2876	hydrocarbons
+T56	Substrate 2864 2876	hydrocarbons
+T57	Property 2855 2863	aromatic
+T58	Nutrient 2934 2952	electron acceptors

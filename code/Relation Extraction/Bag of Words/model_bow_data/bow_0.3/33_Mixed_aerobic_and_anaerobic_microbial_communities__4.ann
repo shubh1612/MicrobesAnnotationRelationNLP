@@ -1,0 +1,113 @@
+T1	Substrate 129 136	benzene
+T2	Substrate 188 195	toluene
+T3	Substrate 42 49	toluene
+T4	Substrate 51 63	ethylbenzene
+T5	Substrate 68 74	xylene
+T6	Property 75 89	concentrations
+T7	Property 209 220	contaminant
+T8	Substrate 304 311	benzene
+T9	Substrate 244 253	n-alkanes
+T10	Substrate 258 262	PAHs
+T11	Property 226 240	concentrations
+T12	Environment 433 445	groundwaters
+T13	Environment 570 582	groundwaters
+T14	Substrate 365 372	Benzene
+T15	Nutrient 386 392	carbon
+T16	Environment 728 739	groundwater
+T17	Environment 747 757	microcosms
+T18	Substrate 652 659	benzene
+T19	Substrate 623 630	Benzene
+T20	ReactionOrProcess 758 767	incubated
+T21	ReactionOrProcess 768 779	aerobically
+T22	ReactionOrProcess 631 645	biodegradation
+T23	Substrate 949 956	benzene
+T24	Property 888 902	concentrations
+T25	ReactionOrProcess 790 807	Rapid degradation
+T26	ReactionOrProcess 796 807	degradation
+T27	Nutrient 881 887	oxygen
+R1	CarriedOn Arg1:T25 Arg2:T23
+R2	CarriedOn Arg1:T26 Arg2:T23
+T28	ReactionOrProcess 1027 1043	slow degradation
+T29	ReactionOrProcess 1032 1043	degradation
+T30	Environment 1150 1161	groundwater
+T31	Environment 1280 1291	groundwater
+T32	Property 1271 1279	alkaline
+T33	ReactionOrProcess 1185 1195	incubation
+T34	ReactionOrProcess 1126 1137	degradation
+T35	ReactionOrProcess 1230 1241	degradation
+T36	ReactionOrProcess 1118 1137	Partial degradation
+T37	Environment 1339 1350	groundwater
+T38	Environment 1351 1361	microcosms
+T39	Environment 1378 1398	anaerobic conditions
+T40	Property 1468 1481	concentration
+T41	Property 1515 1528	concentration
+T42	ReactionOrProcess 1362 1371	incubated
+T43	ReactionOrProcess 1311 1322	degradation
+T44	Nutrient 1603 1607	iron
+T45	Nutrient 1545 1563	electron acceptors
+T46	Substrate 1655 1666	methanogens
+T47	Environment 1803 1814	groundwater
+T48	Environment 1916 1927	groundwater
+T49	Environment 1815 1825	microcosms
+T50	Environment 1905 1927	historical groundwater
+T51	Substrate 1835 1842	benzene
+T52	ReactionOrProcess 1878 1891	anaerobically
+T53	ReactionOrProcess 1826 1834	degraded
+T54	ReactionOrProcess 1866 1874	degraded
+T55	ReactionOrProcess 1843 1854	aerobically
+T56	Nutrient 1962 1980	electron acceptors
+T57	Environment 2057 2068	groundwater
+T58	Environment 2149 2160	Groundwater
+T59	Environment 2330 2350	anaerobic conditions
+T60	Property 2255 2269	concentrations
+T61	ReactionOrProcess 2295 2306	degradation
+T62	Nutrient 2248 2254	oxygen
+T63	Environment 2380 2391	groundwater
+T64	Environment 2439 2450	groundwater
+T65	Environment 2418 2450	benzene-contaminated groundwater
+T66	Substrate 2516 2523	benzene
+T67	ReactionOrProcess 2508 2515	degrade
+T68	ReactionOrProcess 2524 2535	aerobically
+T69	Nutrient 2476 2482	oxygen
+T70	Environment 2537 2548	Groundwater
+T71	Environment 2654 2658	sand
+T72	Environment 2590 2597	aquifer
+T73	Environment 2639 2658	unconsolidated sand
+T74	Property 2580 2589	sandstone
+T75	Substrate 2822 2829	benzene
+T76	Substrate 2867 2874	methane
+T77	Property 2724 2737	concentration
+T78	Property 2850 2863	concentration
+T79	ReactionOrProcess 2793 2812	aerobic degradation
+T80	ReactionOrProcess 2784 2812	complete aerobic degradation
+T81	ReactionOrProcess 2801 2812	degradation
+T82	ReactionOrProcess 2774 2812	rapid and complete aerobic degradation
+T83	Nutrient 2717 2723	oxygen
+R3	CarriedOn Arg1:T79 Arg2:T75
+R4	CarriedOn Arg1:T79 Arg2:T76
+R5	CarriedOn Arg1:T80 Arg2:T75
+R6	CarriedOn Arg1:T80 Arg2:T76
+R7	CarriedOn Arg1:T81 Arg2:T75
+R8	CarriedOn Arg1:T81 Arg2:T76
+R9	CarriedOn Arg1:T82 Arg2:T75
+R10	CarriedOn Arg1:T82 Arg2:T76
+T84	Environment 2946 2957	groundwater
+T85	Substrate 3008 3015	benzene
+T86	Substrate 3029 3035	phenol
+T87	Substrate 2926 2933	methane
+T88	Substrate 2998 3015	anaerobic benzene
+T89	ReactionOrProcess 2998 3027	anaerobic benzene degradation
+T90	ReactionOrProcess 3016 3027	degradation
+T91	ReactionOrProcess 3080 3083	PCR
+T92	Microbes 3214 3221	Archaea
+T93	Environment 3375 3387	groundwaters
+T94	Substrate 3323 3334	methanogens
+T95	Substrate 3397 3404	methane
+T96	Property 3405 3419	concentrations
+T97	Environment 3434 3445	groundwater
+T98	Microbes 3658 3670	Methanosaeta
+T99	ReactionOrProcess 3574 3580	cloned
+T100	Microbes 3787 3797	consortium
+T101	Environment 3765 3776	groundwater
+T102	Environment 3748 3776	oil-contaminated groundwater
+T103	ReactionOrProcess 3826 3837	degradation

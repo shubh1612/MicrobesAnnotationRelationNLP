@@ -1,0 +1,90 @@
+T1 Environment 137 217 oil contaminated sediments from 20 m water depth in a Mediterranean coastal area
+T2 Property 320 340 alkane-degrading SRB
+T3 Property 64 90 sulfate-reducing community
+T4 ReactionOrProcess 91 100 incubated
+T5 Environment 381 414 lower and anoxic sediments layers
+T6 Substrate 416 423 alkanes
+T7 Microbes 569 580 Desulfonema
+T8 Microbes 554 567 Desulfococcus
+T9 Microbes 614 632 Desulfobacteraceae
+T10 Microbes 585 599 Desulfosarcina
+T11 Microbes 759 779 Syntrophobacteraceae
+T12 Microbes 677 695 Desulfobacteraceae
+T13 Environment 874 885 oily sludge
+T14 Environment 856 861 water
+T15 Environment 836 844 oilfield
+T16 Property 707 723 sulfate-reducing
+T17 Microbes 904 936 Desulfoglaeba alkanexedens ALDCT
+T18 Environment 941 945 Lake
+T19 ReactionOrProcess 1012 1030 complete oxidation
+T20 Property 1075 1121 Thermophilic alkane-degrading sulfate-reducers
+T21 Environment 1197 1206 sediments
+T22 Environment 1212 1225 Guaymas basin
+T23 Substrate 1391 1400 crude oil
+T24 Property 1346 1371 sulfate reducing activity
+T25 ReactionOrProcess 1323 1340 anoxic enrichment
+T26 Microbes 1455 1483 Desulfothermus naphthae TD3T
+T27 Substrate 1549 1558 n-alkanes
+T28 ReactionOrProcess 1507 1517 enrichment
+T29 ReactionOrProcess 1539 1548 oxidizing
+T30 Microbes 1627 1638 strain TD3T
+T31 Microbes 1682 1700 Desulfohalobiaceae
+T32 Property 1598 1626 thermophilic sulfate-reducer
+T33 Microbes 1773 1807 Desulfothermus okinawensis TFISO9T
+T34 Property 1743 1771 thermophilic sulfate-reducer
+T35 Microbes 2105 2119 Desulfothermus
+T36 Microbes 2021 2055 Desulfothermus okinawensis TFISO9T
+T37 Microbes 1988 2016 Desulfothermus naphthae TD3T
+T38 Microbes 2215 2230 Desulfonauticus
+T39 Microbes 2190 2210 Desulfonatronovibrio
+T40 Microbes 2150 2168 Desulfohalobiaceae
+T41 Microbes 2173 2188 Desulfohalobium
+T42 Substrate 2255 2262 alkanes
+T43 ReactionOrProcess 2232 2251 Anaerobic oxidation
+T44 Microbes 2446 2462 Desulfotomaculum
+T45 Microbes 2474 2488 Peptococcaceae
+T46 Environment 2411 2419 sediment
+T47 Environment 2397 2410 Guaymas Basin
+T48 Property 2331 2360 thermophilic propane-oxidizer
+T49 Environment 2616 2643 sulfate-reducing conditions
+T50 Substrate 2566 2580 cyclic alkanes
+T51 ReactionOrProcess 2528 2549 Anaerobic degradation
+T52 Environment 2739 2775 aquifer contaminated by hydrocarbons
+T53 Substrate 2667 2684 ethylcyclopentane
+T54 Property 2696 2722 sulfate-reducing community
+T55 ReactionOrProcess 2649 2663 biodegradation
+T56 Microbes 3010 3020 Firmicutes
+T57 Microbes 2976 2992 Desulfotomaculum
+T58 Microbes 3048 3087 Cytophaga-Flexibacter-Bacteroides group
+T59 Microbes 2937 2952 Syntrophobacter
+T60 Microbes 3180 3196 Desulfotomaculum
+T61 Property 3121 3136 sulfate-reducer
+T62 ReactionOrProcess 3233 3244 degradation
+T63 Environment 3496 3523 sulfate-reducing conditions
+T64 Substrate 3453 3461 gasoline
+T65 Substrate 3409 3435 volatile alicyclic alkanes
+T66 ReactionOrProcess 3399 3408 degrading
+T67 Microbes 3681 3695 Thermococcales
+T68 Microbes 3653 3666 Archaeoglobus
+T69 Environment 3754 3779 hydrothermal environments
+T70 Environment 3787 3832 subsurface thermophillic petroleum reservoirs
+T71 Property 3703 3721 strictly anaerobic
+R1 OccursIn Arg1:T4 Arg2:T1
+R11 CarriedOn Arg1:T19 Arg2:T17
+R12 OccursIn Arg1:T19 Arg2:T18
+R13 CarriedOn Arg1:T25 Arg2:T23
+R14 ActOn Arg1:T26 Arg2:T27
+R15 CarriedOn Arg1:T28 Arg2:T26
+R16 CarriedOn Arg1:T29 Arg2:T26
+R17 CarriedOn Arg1:T28 Arg2:T27
+R18 CarriedOn Arg1:T29 Arg2:T27
+R19 Of Arg1:T30 Arg2:T32
+R22 CarriedOn Arg1:T43 Arg2:T42
+R29 CarriedOn Arg1:T51 Arg2:T50
+R30 OccursIn Arg1:T51 Arg2:T49
+R31 CarriedOn Arg1:T55 Arg2:T53
+R32 OccursIn Arg1:T55 Arg2:T52
+R34 CarriedOn Arg1:T62 Arg2:T60
+R35 CarriedOn Arg1:T66 Arg2:T64
+R36 CarriedOn Arg1:T66 Arg2:T65
+R37 OccursIn Arg1:T66 Arg2:T63

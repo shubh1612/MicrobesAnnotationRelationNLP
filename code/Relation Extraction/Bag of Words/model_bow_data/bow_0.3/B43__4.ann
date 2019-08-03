@@ -1,0 +1,73 @@
+T1	ReactionOrProcess 176 189	prehybridized
+T2	ReactionOrProcess 360 369	denatured
+T3	Nutrient 272 276	NaCl
+T4	Property 466 477	temperature
+T5	ReactionOrProcess 408 421	Hybridization
+T6	ReactionOrProcess 488 497	denatured
+T7	ReactionOrProcess 481 515	adding denatured 32P-labeled probe
+T8	ReactionOrProcess 534 540	washed
+T9	ReactionOrProcess 649 655	washed
+T10	Environment 1059 1070	soil sample
+T11	Environment 1059 1063	soil
+T12	ReactionOrProcess 1205 1219	hybridizations
+T13	ReactionOrProcess 1261 1274	Hybridization
+T14	ReactionOrProcess 1483 1496	hybridization
+T15	ReactionOrProcess 1560 1573	hybridization
+T16	ReactionOrProcess 1690 1703	hybridization
+T17	Environment 1979 1983	soil
+T18	ReactionOrProcess 1896 1909	Hybridization
+T19	Environment 2108 2112	soil
+T20	Environment 2198 2202	soil
+T21	Property 2137 2150	concentration
+T22	ReactionOrProcess 2288 2298	enrichment
+T23	ReactionOrProcess 2364 2377	Hybridization
+T24	Environment 2491 2495	soil
+T25	Environment 2744 2748	soil
+T26	Environment 3011 3015	soil
+T27	Environment 3066 3070	soil
+T28	Microbes 3443 3447	xylE
+T29	Substrate 3133 3148	Catabolic Genes
+T30	Substrate 3386 3407	aromatic hydrocarbons
+T31	Substrate 3386 3407	aromatic hydrocarbons
+T32	Substrate 3220 3232	hydrocarbons
+T33	Substrate 3395 3407	hydrocarbons
+T34	Substrate 3133 3148	Catabolic Genes
+T35	Substrate 3220 3232	hydrocarbons
+T36	Substrate 3395 3407	hydrocarbons
+T37	Property 3120 3128	Residues
+T38	Property 3196 3210	concentrations
+T39	Property 3355 3369	concentrations
+T40	Property 3111 3119	Aromatic
+T41	Property 3386 3394	aromatic
+T42	ReactionOrProcess 3426 3439	hybridization
+R1	CarriedOn Arg1:T42 Arg2:T28
+T43	Microbes 3475 3479	xylE
+T44	Environment 3568 3572	soil
+T45	Substrate 3556 3565	aromatics
+T46	Property 3515 3528	concentration
+T47	Property 3506 3514	aromatic
+T48	Property 3556 3565	aromatics
+T49	ReactionOrProcess 3458 3471	Hybridization
+R2	CarriedOn Arg1:T49 Arg2:T43
+T50	Microbes 3621 3625	xylE
+T51	Property 3585 3598	concentration
+T52	ReactionOrProcess 3604 3617	hybridization
+R3	CarriedOn Arg1:T52 Arg2:T50
+T53	Microbes 3676 3685	nahA gene
+T54	Environment 3760 3770	microcosms
+T55	Substrate 3744 3752	gasoline
+T56	Property 3726 3740	concentrations
+T57	ReactionOrProcess 3647 3668	Sequences hybridizing
+R4	CarriedOn Arg1:T57 Arg2:T55
+T58	Substrate 3884 3892	gasoline
+T59	Property 3810 3824	concentrations
+T60	Environment 4011 4015	soil
+T61	Environment 4074 4078	soil
+T62	Substrate 3978 3986	gasoline
+T63	Substrate 4038 4046	gasoline
+T64	Substrate 4025 4046	intermediate gasoline
+T65	Property 3987 4000	concentration
+T66	ReactionOrProcess 3952 3962	incubation
+T67	ReactionOrProcess 3913 3926	hybridization
+R5	CarriedOn Arg1:T66 Arg2:T64
+R6	CarriedOn Arg1:T67 Arg2:T64

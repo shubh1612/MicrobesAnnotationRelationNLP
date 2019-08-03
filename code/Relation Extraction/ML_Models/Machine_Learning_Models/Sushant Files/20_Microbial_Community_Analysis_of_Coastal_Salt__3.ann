@@ -1,0 +1,75 @@
+T1	Environment 180 188	sediment
+T2	Substrate 125 153	Total petroleum hydrocarbons
+T3	Substrate 104 115	Hydrocarbon
+T4	ReactionOrProcess 165 174	extracted
+T5	Environment 376 384	sediment
+T6	Substrate 337 340	
+T7	Environment 417 425	sediment
+T8	Substrate 463 472	n-alkanes
+T9	Substrate 478 496	methylene chloride
+T10	ReactionOrProcess 449 458	extracted
+T11	Substrate 562 571	crude oil
+T12	Substrate 630 633	oil
+T13	Substrate 713 724	hydrocarbon
+T14	Environment 820 825	Water
+T15	Environment 837 842	Water
+T16	Environment 957 962	
+T17	Property 963 974	temperature
+T18	Property 1128 1137	
+T19	Property 1145 1155	saturation
+T20	Nutrient 1138 1144	oxygen
+T21	Environment 1395 1410	marsh sediments
+T22	Substrate 1347 1359	Hydrocarbons
+T23	Substrate 1334 1346	
+T24	Environment 1514 1519	water
+T25	Substrate 1455 1458	oil
+T26	Environment 1687 1692	water
+T27	Substrate 1654 1657	oil
+T28	Environment 1789 1798	sediments
+T29	Substrate 1730 1733	
+T30	Substrate 1857 1860	
+T31	ReactionOrProcess 1975 1984	replicate
+T32	Substrate 2146 2149	TPH
+T33	Substrate 1992 1995	
+T34	Substrate 2196 2199	oil
+T35	Property 1996 2010	concentrations
+T36	Property 2213 2222	dispersed
+T37	ReactionOrProcess 2025 2034	replicate
+T38	Environment 2376 2386	subsurface
+T39	Substrate 2302 2305	TPH
+T40	Environment 2417 2442	surficial Inlet sediments
+T41	Substrate 2397 2400	
+T42	Environment 2680 2690	subsurface
+T43	Environment 2516 2529	Marsh samples
+T44	Substrate 2591 2594	TPH
+T45	Substrate 2500 2503	
+T46	Property 2595 2609	concentrations
+T47	ReactionOrProcess 2633 2642	replicate
+T48	Substrate 2692 2695	
+T49	ReactionOrProcess 2727 2737	replicates
+T50	Environment 2900 2910	subsurface
+T51	Substrate 2843 2846	TPH
+T52	Substrate 2883 2886	TPH
+T53	Environment 2987 3000	Marsh samples
+T54	Substrate 2969 2972	TPH
+T55	Substrate 3025 3028	TPH
+T56	Property 3029 3043	concentrations
+T57	Environment 3238 3251	Marsh samples
+T58	Substrate 3231 3234	TPH
+T59	Substrate 3340 3343	TPH
+T60	Substrate 3397 3400	TPH
+T61	Property 3401 3414	concentration
+T62	Substrate 3496 3499	oil
+T63	Substrate 3746 3769	long-chain hydrocarbons
+T64	Substrate 3599 3608	n-alkanes
+T65	Substrate 3676 3700	short-chain hydrocarbons
+T66	Property 3654 3668	concentrations
+T67	Property 3728 3742	concentrations
+R1	CarriedOn Arg1:T4 Arg2:T2
+R2	CarriedOn Arg1:T4 Arg2:T3
+R3	OccursIn Arg1:T4 Arg2:T1
+R4	CarriedOn Arg1:T10 Arg2:T8
+R5	CarriedOn Arg1:T10 Arg2:T9
+R6	OccursIn Arg1:T10 Arg2:T7
+R9	CarriedOn Arg1:T37 Arg2:T33
+R15	CarriedOn Arg1:T49 Arg2:T48

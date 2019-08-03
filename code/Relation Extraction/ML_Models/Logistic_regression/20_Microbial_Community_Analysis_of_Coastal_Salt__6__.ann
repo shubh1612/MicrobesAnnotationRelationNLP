@@ -1,0 +1,95 @@
+T1	Substrate 151 172	chlorinated aromatics
+T2	Substrate 92 99	alkanes
+T3	Substrate 110 122	cycloalkanes
+T4	Substrate 174 194	polycyclic aromatics
+T5	Substrate 56 59	TPH
+T6	Substrate 124 149	aromatic carboxylic acids
+T7	Substrate 295 298	oil
+T8	Property 206 215	aromatics
+T9	ReactionOrProcess 82 91	degrading
+T10	ReactionOrProcess 281 290	degrading
+T11	Environment 448 457	oil plume
+T12	Substrate 374 385	hydrocarbon
+T13	ReactionOrProcess 386 395	degrading
+T14	Substrate 529 532	oil
+T15	Environment 637 652	Marsh sediments
+T16	Substrate 548 551	Oil
+T17	Property 597 611	concentrations
+T18	Environment 875 884	sediments
+T19	Environment 737 752	Marsh sediments
+T20	Substrate 858 861	oil
+T21	Substrate 726 729	Oil
+T22	Environment 1003 1012	sediments
+T23	Environment 965 980	Marsh sediments
+T24	Substrate 958 961	oil
+T25	ReactionOrProcess 1039 1060	microbial degradation
+T26	Environment 1242 1251	sediments
+T27	Substrate 1220 1223	oil
+T28	Property 1224 1238	concentrations
+T29	ReactionOrProcess 1371 1389	oil mineralization
+T30	ReactionOrProcess 1394 1427	microbial hydrocarbon degradation
+T31	Substrate 1523 1527	P450
+T32	Property 1630 1640	pollutants
+T33	ReactionOrProcess 1604 1618	detoxification
+T34	Environment 2033 2042	sediments
+T35	Environment 1857 1872	Marsh sediments
+T36	Substrate 1759 1763	pbnA
+T37	Substrate 1755 1757	rd
+T38	Substrate 1776 1779	lip
+T39	Substrate 1786 1790	P450
+T40	Substrate 1781 1784	mnp
+T41	Substrate 1792 1795	BpH
+T42	Substrate 1770 1774	nitA
+T43	Substrate 1765 1768	ALN
+T44	ReactionOrProcess 2000 2023	hydrocarbon degradation
+T45	ReactionOrProcess 1746 1753	oxidase
+T46	Environment 2144 2159	marsh sediments
+T47	Substrate 2069 2081	hydrocarbons
+T48	Substrate 2126 2129	oil
+T49	ReactionOrProcess 2044 2065	Anaerobic degradation
+T50	Environment 2202 2208	waters
+T51	Substrate 2428 2440	hydrocarbons
+T52	Property 2210 2219	dissolved
+T53	ReactionOrProcess 2356 2364	reducing
+T54	ReactionOrProcess 2480 2495	denitrification
+T55	ReactionOrProcess 2403 2424	anaerobic degradation
+T56	ReactionOrProcess 2501 2515	methanogenesis
+T57	ReactionOrProcess 2461 2478	sulfate reduction
+T58	Nutrient 2220 2226	oxygen
+T59	Microbes 2815 2829	Rhodocyclaceae
+T60	Microbes 2831 2845	Geobacteraceae
+T61	Microbes 2851 2869	Desulfobacteraceae
+T62	Environment 2973 2982	sediments
+T63	Substrate 2929 2941	hydrocarbons
+T64	Substrate 2793 2805	hydrocarbons
+T65	ReactionOrProcess 2771 2792	anaerobically degrade
+T66	ReactionOrProcess 2901 2925	anaerobic biodegradation
+T67	ReactionOrProcess 2647 2662	denitrification
+T68	ReactionOrProcess 2620 2634	methanogenesis
+T69	ReactionOrProcess 2592 2609	sulfate reduction
+T70	Environment 3064 3082	coastal salt marsh
+T71	Substrate 3116 3119	oil
+T72	Substrate 3158 3161	oil
+T73	Environment 3239 3248	sediments
+T74	Substrate 3183 3195	incoming oil
+T75	Substrate 3372 3375	oil
+T76	Property 3280 3292	temperatures
+T77	Substrate 3485 3488	oil
+T78	Substrate 3735 3738	oil
+T79	ReactionOrProcess 3614 3637	hydrocarbon degradation
+T80	ReactionOrProcess 3686 3700	bioremediation
+T81	ReactionOrProcess 3720 3731	degradation
+T82	Environment 3822 3848	salt marshes and estuaries
+T83	Property 3936 3947	attenuation
+T84	ReactionOrProcess 3977 3988	remediation
+T85	Substrate 4175 4178	oil
+T86	Substrate 4292 4295	oil
+R1	FoundIn Arg1:T59 Arg2:T62
+R2	FoundIn Arg1:T60 Arg2:T62
+R3	FoundIn Arg1:T61 Arg2:T62
+R4	ActOn Arg1:T59 Arg2:T63
+R5	ActOn Arg1:T59 Arg2:T64
+R6	ActOn Arg1:T60 Arg2:T63
+R7	ActOn Arg1:T60 Arg2:T64
+R8	ActOn Arg1:T61 Arg2:T63
+R9	ActOn Arg1:T61 Arg2:T64

@@ -1,0 +1,44 @@
+T1	Property 103 115	temperatures
+T2	Environment 611 616	water
+T3	ReactionOrProcess 1134 1144	enrichment
+T4	ReactionOrProcess 1341 1351	enrichment
+T5	ReactionOrProcess 1531 1542	enrichments
+T6	ReactionOrProcess 1659 1669	morphology
+T7	ReactionOrProcess 1645 1652	oxidase
+T8	Microbes 1976 1989	Acinetobacter
+T9	Microbes 2007 2016	Ralstonia
+T10	Microbes 2018 2031	Achromobacter
+T11	Microbes 2033 2044	Micrococcus
+T12	Microbes 2214 2227	Acinetobacter
+T13	Microbes 2165 2178	Achromobacter
+T14	Microbes 2347 2365	Pseudomonas putida
+T15	Microbes 2299 2320	Ochrobactrum anthropi
+T16	Microbes 2546 2565	enrichment cultures
+T17	Property 2674 2686	contaminants
+T18	ReactionOrProcess 2546 2556	enrichment
+T19	Environment 2769 2780	groundwater
+T20	Substrate 2747 2750	TPH
+T21	Substrate 2851 2862	hydrocarbon
+T22	Property 2863 2877	concentrations
+T23	Environment 2973 2984	groundwater
+T24	Substrate 2985 2988	TPH
+T25	Property 3160 3171	attenuation
+T26	Property 3016 3027	contaminant
+T27	ReactionOrProcess 3200 3211	remediation
+T28	ReactionOrProcess 3093 3107	biostimulation
+T29	ReactionOrProcess 3295 3306	degradation
+T30	Environment 3432 3443	groundwater
+T31	Environment 3401 3427	Hydrocarbon-polluted soils
+T32	Environment 3401 3426	Hydrocarbon-polluted soil
+T33	Environment 3401 3427	Hydrocarbon-polluted soils
+T34	Environment 3422 3443	soils and groundwater
+T35	Environment 3422 3427	soils
+T36	Substrate 3401 3412	Hydrocarbon
+T37	ReactionOrProcess 3507 3521	bioremediation
+T38	Substrate 3578 3587	petroleum
+T39	Property 3692 3701	degraders
+T40	Property 3763 3775	contaminants
+T41	ReactionOrProcess 3616 3638	natural biodegradation
+T42	ReactionOrProcess 3624 3638	biodegradation
+T43	Nutrient 3703 3709	oxygen
+T44	Substrate 3894 3905	hydrocarbon

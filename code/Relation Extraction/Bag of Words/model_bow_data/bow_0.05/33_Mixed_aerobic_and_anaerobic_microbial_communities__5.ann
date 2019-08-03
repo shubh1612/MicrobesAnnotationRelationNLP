@@ -1,0 +1,83 @@
+T1	Microbes 136 177	toluene-degrading methanogenic consortium
+T2	Microbes 167 177	consortium
+T3	Substrate 80 91	methanogens
+T4	Property 154 166	methanogenic
+T5	Property 154 166	methanogenic
+T6	Microbes 248 255	Archaea
+T7	Microbes 282 300	Betaproteobacteria
+T8	Microbes 397 408	Polaromonas
+T9	Microbes 562 575	Bacteroidetes
+T10	Microbes 508 518	Rhodoferax
+T11	Microbes 610 620	consortium
+T12	Environment 648 675	sulfate-reducing conditions
+T13	Substrate 634 641	benzene
+T14	Property 648 664	sulfate-reducing
+T15	ReactionOrProcess 621 633	mineralizing
+T16	Microbes 707 714	Archaea
+T17	Environment 739 750	groundwater
+T18	Environment 778 789	groundwater
+T19	Property 694 706	methanogenic
+T20	Property 729 738	sandstone
+T21	Property 694 706	methanogenic
+T22	Property 766 777	sand–gravel
+T23	Microbes 932 951	Gammaproteobacteria
+T24	Microbes 1053 1071	Betaproteobacteria
+T25	Environment 897 908	groundwater
+T26	Property 887 896	sandstone
+T27	ReactionOrProcess 1009 1015	cloned
+T28	Microbes 1174 1192	Betaproteobacteria
+T29	Environment 1147 1158	groundwater
+T30	Environment 1134 1158	contaminated groundwater
+T31	Microbes 1468 1478	Acidovorax
+T32	Environment 1418 1429	groundwater
+T33	Environment 1395 1429	petroleum-contaminated groundwater
+T34	Substrate 1520 1528	benzenes
+T35	ReactionOrProcess 1500 1507	degrade
+T36	Microbes 1556 1569	Bacteroidetes
+T37	Microbes 1791 1801	Rhodoferax
+T38	Microbes 1639 1649	consortium
+T39	Environment 1742 1753	groundwater
+T40	Environment 1721 1753	benzene-contaminated groundwater
+T41	Microbes 1918 1936	Betaproteobacteria
+T42	Microbes 2019 2033	Hydrogenophaga
+T43	Environment 1850 1861	groundwater
+T44	Property 1841 1849	alkaline
+T45	Environment 2132 2143	groundwater
+T46	Substrate 2179 2191	hydrocarbons
+T47	Substrate 2179 2191	hydrocarbons
+T48	Property 2123 2131	alkaline
+T49	Substrate 2324 2331	benzene
+T50	ReactionOrProcess 2316 2323	degrade
+T51	Substrate 2539 2546	benzene
+T52	Property 2473 2487	concentrations
+T53	ReactionOrProcess 2547 2561	biodegradation
+T54	Nutrient 2466 2472	oxygen
+T55	Property 2653 2665	denitrifying
+T56	ReactionOrProcess 2653 2665	denitrifying
+T57	Substrate 2827 2834	benzene
+T58	Nutrient 2934 2951	electron acceptor
+T59	Nutrient 2980 2998	electron acceptors
+T60	Nutrient 2911 2917	oxygen
+T61	Nutrient 2761 2767	Oxygen
+T62	Substrate 3019 3026	benzene
+T63	ReactionOrProcess 3011 3038	aerobic benzene degradation
+T64	ReactionOrProcess 3027 3038	degradation
+T65	Environment 3120 3140	anaerobic conditions
+T66	Substrate 3090 3097	benzene
+T67	Substrate 3256 3263	nitrate
+T68	ReactionOrProcess 3105 3113	degraded
+T69	Nutrient 3228 3246	electron acceptors
+R1	CarriedOn Arg1:T68 Arg2:T67
+T70	Nutrient 3324 3328	iron
+T71	Property 3432 3444	methanogenic
+T72	Property 3432 3444	methanogenic
+T73	Substrate 3572 3579	benzene
+T74	Substrate 3562 3579	anaerobic benzene
+T75	ReactionOrProcess 3562 3591	anaerobic benzene degradation
+T76	ReactionOrProcess 3580 3591	degradation
+T77	Substrate 3840 3847	benzene
+T78	Substrate 4032 4038	phenol
+T79	Substrate 4051 4058	methane
+T80	ReactionOrProcess 3848 3859	degradation
+R2	CarriedOn Arg1:T80 Arg2:T78
+R3	CarriedOn Arg1:T80 Arg2:T79

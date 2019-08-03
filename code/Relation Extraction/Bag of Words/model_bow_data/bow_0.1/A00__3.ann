@@ -1,0 +1,13 @@
+T1	ReactionOrProcess 76 86	processing
+T2	Environment 127 132	plume
+T3	ReactionOrProcess 532 540	purified
+T4	ReactionOrProcess 558 561	PCR
+T5	ReactionOrProcess 648 656	purified
+T6	ReactionOrProcess 707 715	purified
+T7	ReactionOrProcess 730 733	PCR
+T8	ReactionOrProcess 770 773	PCR
+T9	ReactionOrProcess 858 861	PCR
+T10	ReactionOrProcess 1321 1324	PCR
+T11	ReactionOrProcess 1335 1338	PCR
+T12	ReactionOrProcess 1536 1543	excised
+T13	ReactionOrProcess 1466 1469	PCR

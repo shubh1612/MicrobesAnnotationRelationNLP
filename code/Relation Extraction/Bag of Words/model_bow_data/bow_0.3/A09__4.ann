@@ -1,0 +1,73 @@
+T1	Substrate 396 399	oil
+T2	Substrate 595 598	oil
+T3	Property 953 967	concentrations
+T4	ReactionOrProcess 985 988	PCR
+T5	ReactionOrProcess 1281 1284	PCR
+T6	ReactionOrProcess 1614 1647	basic local alignment search tool
+T7	ReactionOrProcess 1755 1758	PCR
+T8	ReactionOrProcess 1789 1792	PCR
+T9	ReactionOrProcess 2100 2103	PCR
+T10	Environment 2946 2951	beach
+T11	Environment 2946 2957	beach sands
+T12	Environment 2952 2957	sands
+T13	Substrate 2930 2942	hydrocarbons
+T14	Substrate 2698 2709	hydrocarbon
+T15	Substrate 2763 2774	hydrocarbon
+T16	Substrate 2930 2942	hydrocarbons
+T17	Substrate 2871 2874	oil
+T18	Substrate 2926 2929	oil
+T19	Substrate 3000 3003	oil
+T20	Environment 3159 3164	Beach
+T21	Environment 3159 3170	Beach sands
+T22	Environment 3165 3170	sands
+T23	Substrate 3063 3072	petroleum
+T24	Substrate 3073 3084	hydrocarbon
+T25	Property 3097 3111	concentrations
+T26	Environment 3176 3181	beach
+T27	Environment 3176 3186	beach sand
+T28	Environment 3182 3186	sand
+T29	Substrate 3214 3240	detectable oil hydrocarbon
+T30	Substrate 3214 3228	detectable oil
+T31	Substrate 3229 3240	hydrocarbon
+T32	Substrate 3225 3228	oil
+T33	Property 3241 3255	concentrations
+T34	Substrate 3338 3341	oil
+T35	Environment 3621 3626	Beach
+T36	Environment 3685 3690	beach
+T37	Environment 3685 3695	beach sand
+T38	Environment 3621 3632	Beach sands
+T39	Environment 3691 3695	sand
+T40	Environment 3627 3632	sands
+T41	Substrate 3489 3498	petroleum
+T42	Substrate 3483 3511	total petroleum hydrocarbons
+T43	Substrate 3499 3511	hydrocarbons
+T44	Substrate 3483 3511	total petroleum hydrocarbons
+T45	Substrate 3499 3511	hydrocarbons
+T46	Substrate 3542 3545	oil
+T47	Substrate 3489 3511	petroleum hydrocarbons
+T48	Environment 3769 3773	sand
+T49	Substrate 3864 3873	petroleum
+T50	Substrate 3858 3885	total petroleum hydrocarbon
+T51	Substrate 3874 3885	hydrocarbon
+T52	Property 3886 3900	concentrations
+T53	Substrate 4114 4147	higher-molecular-weight aliphatic
+T54	Substrate 4063 4074	hydrocarbon
+T55	Substrate 3970 3973	oil
+T56	Property 4159 4167	aromatic
+T57	ReactionOrProcess 4017 4027	weathering
+R1	CarriedOn Arg1:T57 Arg2:T53
+R2	CarriedOn Arg1:T57 Arg2:T54
+T58	Substrate 4313 4345	polycyclic aromatic hydrocarbons
+T59	Substrate 4324 4345	aromatic hydrocarbons
+T60	Substrate 4324 4345	aromatic hydrocarbons
+T61	Substrate 4358 4368	aliphatics
+T62	Substrate 4333 4345	hydrocarbons
+T63	Substrate 4385 4394	aromatics
+T64	Substrate 4333 4345	hydrocarbons
+T65	Substrate 4313 4345	polycyclic aromatic hydrocarbons
+T66	Property 4313 4323	polycyclic
+T67	Property 4324 4332	aromatic
+T68	Property 4385 4394	aromatics
+T69	Substrate 4482 4489	alkanes
+T70	Substrate 4567 4574	alkanes
+T71	ReactionOrProcess 4519 4527	degraded

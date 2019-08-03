@@ -1,0 +1,56 @@
+T1	Substrate 124 131	methane
+T2	Substrate 225 232	methane
+T3	Substrate 410 417	methane
+T4	ReactionOrProcess 450 459	oxidation
+T5	ReactionOrProcess 369 379	Enrichment
+R1	CarriedOn Arg1:T5 Arg2:T3
+T6	Substrate 563 570	methane
+T7	Substrate 639 646	methane
+T8	Property 630 638	residual
+T9	ReactionOrProcess 508 517	oxidation
+T10	ReactionOrProcess 599 609	enrichment
+R2	CarriedOn Arg1:T9 Arg2:T6
+R3	CarriedOn Arg1:T9 Arg2:T7
+T11	Microbes 683 696	methanotrophs
+T12	Substrate 742 749	methane
+T13	Substrate 862 874	hydrocarbons
+T14	Substrate 862 874	hydrocarbons
+T15	Substrate 1028 1040	hydrocarbons
+T16	Substrate 1028 1040	hydrocarbons
+T17	ReactionOrProcess 987 996	oxidation
+R4	CarriedOn Arg1:T17 Arg2:T15
+R5	CarriedOn Arg1:T17 Arg2:T16
+T18	Environment 1282 1291	sediments
+T19	Substrate 1226 1252	hydrate-bound hydrocarbons
+T20	Substrate 1240 1252	hydrocarbons
+T21	Substrate 1261 1272	hydrocarbon
+T22	Substrate 1240 1252	hydrocarbons
+T23	Substrate 1226 1252	hydrate-bound hydrocarbons
+T24	Environment 1449 1457	sediment
+T25	Substrate 1376 1388	hydrocarbons
+T26	Substrate 1428 1439	hydrocarbon
+T27	Substrate 1376 1388	hydrocarbons
+T28	ReactionOrProcess 1491 1500	oxidation
+T29	Environment 1581 1589	sediment
+T30	Substrate 2567 2574	methane
+T31	ReactionOrProcess 2487 2496	depletion
+T32	ReactionOrProcess 2540 2549	oxidation
+R6	CarriedOn Arg1:T31 Arg2:T30
+R7	CarriedOn Arg1:T32 Arg2:T30
+T33	Environment 3029 3032	sea
+T34	Environment 3263 3271	sediment
+T35	Environment 3194 3203	sediments
+T36	Environment 3180 3203	hydrate-mound sediments
+T37	Environment 3249 3271	hydrate-mound sediment
+T38	Environment 3180 3203	hydrate-mound sediments
+T39	Substrate 3228 3240	hydrocarbons
+T40	Substrate 3154 3165	Hydrocarbon
+T41	Substrate 3228 3240	hydrocarbons
+T42	Property 3204 3218	Concentrations
+T43	Substrate 3418 3446	hydrate-forming hydrocarbons
+T44	Substrate 3434 3446	hydrocarbons
+T45	Substrate 3418 3446	hydrate-forming hydrocarbons
+T46	Substrate 3434 3446	hydrocarbons
+T47	Property 3488 3502	concentrations
+T48	Environment 3534 3542	sediment
+T49	Substrate 3657 3664	Methane

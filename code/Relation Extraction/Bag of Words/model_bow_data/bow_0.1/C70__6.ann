@@ -1,0 +1,98 @@
+T1	Substrate 89 98	crude oil
+T2	Substrate 95 98	oil
+T3	ReactionOrProcess 73 83	inoculated
+T4	ReactionOrProcess 17 27	enrichment
+R1	CarriedOn Arg1:T4 Arg2:T1
+R2	CarriedOn Arg1:T4 Arg2:T2
+T5	ReactionOrProcess 315 325	enrichment
+T6	Environment 465 474	Antarctic
+T7	Environment 465 479	Antarctic soil
+T8	Environment 475 479	soil
+T9	Substrate 510 531	aromatic hydrocarbons
+T10	Substrate 362 371	petroleum
+T11	Substrate 510 531	aromatic hydrocarbons
+T12	Substrate 465 531	Antarctic soil contaminated with polynuclear aromatic hydrocarbons
+T13	Substrate 498 531	polynuclear aromatic hydrocarbons
+T14	Substrate 519 531	hydrocarbons
+T15	Substrate 435 446	hydrocarbon
+T16	Substrate 519 531	hydrocarbons
+T17	Substrate 498 531	polynuclear aromatic hydrocarbons
+T18	Property 510 518	aromatic
+T19	ReactionOrProcess 435 461	hydrocarbon biodegradation
+T20	ReactionOrProcess 447 461	biodegradation
+T21	Substrate 835 844	petroleum
+T22	Substrate 823 844	biodegraded petroleum
+T23	ReactionOrProcess 823 834	biodegraded
+T24	ReactionOrProcess 737 748	enrichments
+T25	ReactionOrProcess 1184 1195	enrichments
+T26	Substrate 1329 1339	hexadecane
+T27	Property 1343 1361	sole carbon source
+T28	Nutrient 1348 1354	carbon
+T29	ReactionOrProcess 1605 1614	oxidation
+T30	Substrate 1683 1693	hexadecane
+T31	Property 1699 1717	sole carbon source
+T32	ReactionOrProcess 1759 1770	degradation
+T33	Nutrient 1704 1710	carbon
+T34	Substrate 1817 1827	hexadecane
+T35	ReactionOrProcess 1817 1842	hexadecane biodegradation
+T36	ReactionOrProcess 1828 1842	biodegradation
+T37	ReactionOrProcess 1847 1861	biodegradation
+T38	Substrate 2032 2042	hexadecane
+T39	Substrate 2124 2133	crude oil
+T40	Substrate 2130 2133	oil
+T41	Substrate 2172 2178	diesel
+T42	Substrate 2209 2217	n-alkane
+T43	Substrate 2265 2286	aliphatic hydrocarbon
+T44	Substrate 2275 2286	hydrocarbon
+T45	ReactionOrProcess 2275 2301	hydrocarbon biodegradation
+T46	ReactionOrProcess 2265 2301	aliphatic hydrocarbon biodegradation
+T47	ReactionOrProcess 2287 2301	biodegradation
+T48	ReactionOrProcess 2473 2487	biodegradation
+T49	Substrate 2595 2605	hexadecane
+T50	ReactionOrProcess 2595 2620	hexadecane biodegradation
+T51	ReactionOrProcess 2536 2550	biodegradation
+T52	ReactionOrProcess 2606 2620	biodegradation
+R3	CarriedOn Arg1:T50 Arg2:T49
+R4	CarriedOn Arg1:T51 Arg2:T49
+R5	CarriedOn Arg1:T52 Arg2:T49
+T53	ReactionOrProcess 2669 2683	biodegradation
+T54	Substrate 2811 2821	hexadecane
+T55	ReactionOrProcess 2803 2810	degrade
+T56	Microbes 2985 2992	E. coli
+T57	ReactionOrProcess 3029 3043	biodegradation
+T58	ReactionOrProcess 3128 3142	biodegradation
+T59	Substrate 3239 3249	hexadecane
+T60	ReactionOrProcess 3294 3304	incubation
+T61	ReactionOrProcess 3239 3264	hexadecane biodegradation
+T62	ReactionOrProcess 3250 3264	biodegradation
+T63	Microbes 3405 3418	Acinetobacter
+T64	Substrate 3438 3448	hexadecane
+T65	ReactionOrProcess 3438 3463	hexadecane biodegradation
+T66	ReactionOrProcess 3449 3463	biodegradation
+T67	Microbes 3573 3595	Pseudomonas aeruginosa
+T68	Microbes 3585 3595	aeruginosa
+T69	Substrate 3513 3523	hexadecane
+T70	ReactionOrProcess 3513 3538	hexadecane biodegradation
+T71	ReactionOrProcess 3543 3557	emulsification
+T72	ReactionOrProcess 3524 3538	biodegradation
+T73	ReactionOrProcess 3654 3668	biodegradation
+R6	CarriedOn Arg1:T70 Arg2:T67
+R7	CarriedOn Arg1:T70 Arg2:T68
+R8	CarriedOn Arg1:T71 Arg2:T67
+R9	CarriedOn Arg1:T71 Arg2:T68
+R10	CarriedOn Arg1:T72 Arg2:T67
+R11	CarriedOn Arg1:T72 Arg2:T68
+R12	CarriedOn Arg1:T73 Arg2:T67
+R13	CarriedOn Arg1:T73 Arg2:T68
+T74	Substrate 3833 3842	petroleum
+T75	Substrate 3964 3976	hydrocarbons
+T76	Substrate 3964 3976	hydrocarbons
+T77	ReactionOrProcess 3794 3808	biodegradation
+T78	ReactionOrProcess 3927 3941	biodegradation
+T79	Nutrient 3993 3999	carbon
+R14	CarriedOn Arg1:T77 Arg2:T74
+R15	CarriedOn Arg1:T77 Arg2:T75
+R16	CarriedOn Arg1:T77 Arg2:T76
+R17	CarriedOn Arg1:T78 Arg2:T74
+R18	CarriedOn Arg1:T78 Arg2:T75
+R19	CarriedOn Arg1:T78 Arg2:T76

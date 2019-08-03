@@ -1,0 +1,34 @@
+T1	Environment 97 106	sediments
+T2	Substrate 116 123	methane
+T3	ReactionOrProcess 248 257	oxidation
+T4	Substrate 331 338	methane
+T5	Substrate 304 307	TBA
+T6	Nutrient 343 349	carbon
+T7	Substrate 431 435	MTBE
+T8	ReactionOrProcess 436 447	Remediation
+T9	Environment 563 573	subsurface
+T10	Substrate 526 535	petroleum
+T11	Property 536 548	contaminants
+T12	ReactionOrProcess 481 500	natural degradation
+T13	ReactionOrProcess 489 500	degradation
+T14	Substrate 710 714	MTBE
+T15	Substrate 832 836	MTBE
+T16	ReactionOrProcess 702 709	degrade
+T17	Environment 888 897	sediments
+T18	Substrate 868 872	MTBE
+T19	ReactionOrProcess 873 884	degradation
+T20	Substrate 1009 1013	MTBE
+T21	ReactionOrProcess 999 1025	anaerobic MTBE degradation
+T22	ReactionOrProcess 1014 1025	degradation
+T23	ReactionOrProcess 977 986	stimulate
+R1	CarriedOn Arg1:T23 Arg2:T20
+T24	Substrate 1096 1100	MTBE
+T25	Substrate 1217 1221	MTBE
+T26	ReactionOrProcess 1186 1200	bioremediation
+T27	ReactionOrProcess 1086 1112	anaerobic MTBE degradation
+T28	ReactionOrProcess 1176 1200	anaerobic bioremediation
+T29	ReactionOrProcess 1101 1112	degradation
+T30	Environment 1292 1300	sediment
+T31	ReactionOrProcess 1301 1312	incubations
+T32	Environment 1431 1439	sediment
+T33	Substrate 1525 1534	Petroleum

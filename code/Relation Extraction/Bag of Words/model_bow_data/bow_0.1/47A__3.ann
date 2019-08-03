@@ -1,0 +1,58 @@
+T1	Substrate 102 111	crude oil
+T2	Substrate 108 111	oil
+T3	Nutrient 115 121	carbon
+T4	Microbes 253 264	Micrococcus
+T5	Microbes 357 371	Pseudomonas sp
+T6	Microbes 419 432	actinomycetes
+T7	Substrate 519 522	oil
+T8	Microbes 586 599	actinomycetes
+T9	Substrate 874 886	hydrocarbons
+T10	Substrate 740 751	hydrocarbon
+T11	Substrate 874 886	hydrocarbons
+T12	Substrate 913 924	hydrocarbon
+T13	Substrate 1005 1008	oil
+T14	Substrate 1192 1203	hydrocarbon
+T15	Environment 1296 1308	soil samples
+T16	Environment 1296 1300	soil
+T17	Environment 1281 1300	diesel station soil
+T18	Substrate 1268 1276	gasoline
+T19	Substrate 1281 1287	diesel
+T20	Substrate 1480 1483	oil
+T21	Substrate 1574 1577	oil
+T22	ReactionOrProcess 1578 1588	enrichment
+T23	Environment 1638 1642	soil
+T24	Environment 1646 1653	aquatic
+T25	Microbes 1918 1942	heterotrophic population
+T26	Substrate 1912 1931	total heterotrophic
+T27	Substrate 1788 1818	inherent petroleum hydrocarbon
+T28	Substrate 1797 1806	petroleum
+T29	Substrate 1788 1806	inherent petroleum
+T30	Substrate 1807 1818	hydrocarbon
+T31	Substrate 1749 1752	oil
+T32	Property 1918 1931	heterotrophic
+T33	Substrate 2162 2171	petroleum
+T34	Property 2162 2181	petroleum degraders
+T35	Property 2172 2181	degraders
+T36	Environment 2286 2302	oil-spilled soil
+T37	Environment 2298 2302	soil
+T38	Property 2304 2313	lipolytic
+T39	Substrate 2571 2574	oil
+T40	Property 2518 2527	lipolytic
+T41	Property 2571 2587	oil contaminated
+T42	Substrate 2683 2692	crude oil
+T43	Substrate 2733 2742	aromatics
+T44	Substrate 2689 2692	oil
+T45	Property 2722 2731	saturates
+T46	Property 2733 2742	aromatics
+T47	Substrate 2822 2831	crude oil
+T48	Substrate 2828 2831	oil
+T49	Property 2968 2979	temperature
+T50	ReactionOrProcess 2797 2818	effective degradation
+T51	ReactionOrProcess 2807 2818	degradation
+R1	CarriedOn Arg1:T50 Arg2:T47
+R2	CarriedOn Arg1:T50 Arg2:T48
+R3	CarriedOn Arg1:T51 Arg2:T47
+R4	CarriedOn Arg1:T51 Arg2:T48
+T52	Substrate 3127 3145	active hydrocarbon
+T53	Substrate 3134 3145	hydrocarbon
+T54	Substrate 3048 3051	oil

@@ -1,0 +1,36 @@
+T1	Property 34 45	temperature
+T2	ReactionOrProcess 16 25	incubated
+T3	Environment 240 252	soil samples
+T4	Environment 240 244	soil
+T5	ReactionOrProcess 187 197	incubation
+T6	Microbes 357 365	inoculum
+T7	Environment 546 550	soil
+T8	Property 597 608	temperature
+T9	ReactionOrProcess 579 588	incubated
+T10	ReactionOrProcess 661 671	incubation
+T11	ReactionOrProcess 910 915	redox
+T12	ReactionOrProcess 1019 1030	inoculation
+T13	ReactionOrProcess 1058 1067	incubated
+T14	Nutrient 1397 1414	electron acceptor
+T15	Environment 1563 1567	soil
+T16	Substrate 1530 1542	Hydrocarbons
+T17	Substrate 1530 1541	Hydrocarbon
+T18	Substrate 1530 1542	Hydrocarbons
+T19	ReactionOrProcess 1548 1557	extracted
+T20	Property 1987 1998	temperature
+T21	Property 2060 2071	temperature
+T22	ReactionOrProcess 1803 1828	flame ionization detector
+T23	ReactionOrProcess 1820 1828	detector
+T24	ReactionOrProcess 1866 1874	Detector
+T25	ReactionOrProcess 1803 1819	flame ionization
+T26	Substrate 2162 2172	Diesel oil
+T27	Substrate 2169 2172	oil
+T28	Substrate 2162 2168	Diesel
+T29	Property 2223 2232	retention
+T30	ReactionOrProcess 2223 2232	retention
+T31	Nutrient 2326 2332	carbon
+T32	Environment 2538 2550	soil samples
+T33	Environment 2538 2542	soil
+T34	ReactionOrProcess 2757 2767	incubation
+T35	ReactionOrProcess 2992 3002	replicates
+T36	ReactionOrProcess 3473 3483	incubation

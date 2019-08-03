@@ -1,0 +1,101 @@
+T1	Environment 3 21	contaminated soils
+T2	Environment 16 21	soils
+T3	Environment 3 21	contaminated soils
+T4	Substrate 215 222	ethanol
+T5	Substrate 178 186	gasoline
+T6	Property 39 51	contaminants
+T7	ReactionOrProcess 102 114	biodegrading
+R1	CarriedOn Arg1:T7 Arg2:T4
+R2	CarriedOn Arg1:T7 Arg2:T5
+T8	Environment 251 256	soils
+T9	Environment 233 256	BTEX-contaminated soils
+T10	Environment 233 255	BTEX-contaminated soil
+T11	Environment 233 256	BTEX-contaminated soils
+T12	Substrate 233 237	BTEX
+T13	Environment 442 466	Ethanol-containing soils
+T14	Environment 442 465	Ethanol-containing soil
+T15	Environment 442 466	Ethanol-containing soils
+T16	Environment 461 466	soils
+T17	Substrate 442 449	Ethanol
+T18	Environment 810 837	gasoline-contaminated soils
+T19	Environment 810 837	gasoline-contaminated soils
+T20	Environment 832 837	soils
+T21	Substrate 645 652	ethanol
+T22	Substrate 697 701	BTEX
+T23	ReactionOrProcess 620 641	immediate degradation
+T24	ReactionOrProcess 630 641	degradation
+T25	ReactionOrProcess 682 693	degradation
+R3	CarriedOn Arg1:T23 Arg2:T21
+R4	CarriedOn Arg1:T23 Arg2:T22
+R5	CarriedOn Arg1:T24 Arg2:T21
+R6	CarriedOn Arg1:T24 Arg2:T22
+R7	CarriedOn Arg1:T25 Arg2:T21
+R8	CarriedOn Arg1:T25 Arg2:T22
+T26	Environment 1055 1059	soil
+T27	Environment 1146 1151	soils
+T28	Substrate 1170 1177	ethanol
+T29	Substrate 1092 1100	gasoline
+T30	Property 1074 1081	residue
+T31	Environment 1242 1246	soil
+T32	Property 1498 1506	residues
+T33	ReactionOrProcess 1422 1431	degrading
+T34	Environment 1779 1796	non-sterile soils
+T35	Environment 1552 1565	sterile soils
+T36	Environment 1552 1565	sterile soils
+T37	Environment 1779 1796	non-sterile soils
+T38	Environment 1560 1565	soils
+T39	Environment 1733 1738	soils
+T40	Environment 1791 1796	soils
+T41	Substrate 1702 1718	gasoline–ethanol
+T42	Substrate 1656 1660	BTEX
+T43	Property 1661 1669	residues
+T44	Property 1613 1624	autoclaving
+T45	Environment 1836 1840	soil
+T46	Property 1824 1832	residues
+T47	Property 1812 1823	Contaminant
+T48	Environment 1941 1945	soil
+T49	Property 1929 1937	residues
+T50	Property 1917 1928	Contaminant
+T51	Environment 2094 2107	sterile soils
+T52	Environment 2094 2107	sterile soils
+T53	Environment 2028 2032	soil
+T54	Environment 2137 2141	soil
+T55	Environment 2102 2107	soils
+T56	Property 2016 2024	residues
+T57	Property 2082 2090	residues
+T58	Property 2004 2015	Contaminant
+T59	Environment 2255 2273	contaminated soils
+T60	Environment 2412 2416	soil
+T61	Environment 2268 2273	soils
+T62	Environment 2197 2202	water
+T63	Environment 2291 2296	water
+T64	Environment 2255 2273	contaminated soils
+T65	Substrate 2207 2215	gasoline
+T66	Property 2216 2230	volatilisation
+T67	Property 2313 2327	volatilisation
+T68	Property 2149 2163	Volatilisation
+T69	Property 2301 2312	contaminant
+T70	Property 2394 2406	contaminants
+T71	Environment 2505 2510	soils
+T72	Substrate 2474 2490	gasoline–ethanol
+T73	Environment 2546 2555	dry soils
+T74	Environment 2534 2555	sterile and dry soils
+T75	Environment 2546 2555	dry soils
+T76	Environment 2550 2555	soils
+T77	Substrate 2724 2731	ethanol
+T78	Substrate 2835 2842	ethanol
+T79	Substrate 2809 2817	gasoline
+T80	Property 2753 2767	volatilisation
+T81	Property 2741 2751	volatility
+T82	Property 2771 2783	contaminants
+T83	Environment 2864 2877	natural soils
+T84	Environment 2864 2877	natural soils
+T85	Environment 2844 2848	Soil
+T86	Environment 2872 2877	soils
+T87	Environment 2975 2988	natural soils
+T88	Environment 2975 2988	natural soils
+T89	Environment 2955 2959	Soil
+T90	Environment 2983 2988	soils
+T91	Substrate 3023 3031	gasoline
+T92	Substrate 3007 3031	ethanol-blended gasoline
+T93	Substrate 2994 3031	standard and ethanol-blended gasoline

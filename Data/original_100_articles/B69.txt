@@ -1,0 +1,818 @@
+B69
+Microbial gene functions enriched in the Deepwater
+Horizon deep-sea oil plume
+Zhenmei Lu1,2, Ye Deng2
+, Joy D Van Nostrand2
+, Zhili He2
+, James Voordeckers2
+,
+Aifen Zhou2
+, Yong-Jin Lee2
+, Olivia U Mason3
+, Eric A Dubinsky3
+, Krystle L Chavarria3
+,
+Lauren M Tom3
+, Julian L Fortney3
+, Regina Lamendella3
+, Janet K Jansson3
+,
+Patrik D’haeseleer3
+, Terry C Hazen3 and Jizhong Zhou2,3,4
+1
+College of Life Sciences, Zhejiang University, Hangzhou, China; 2
+Department of Botany and Microbiology,
+Institute for Environmental Genomics, University of Oklahoma, Norman, OK, USA; 3
+Earth Sciences Division,
+Lawrence Berkeley National Laboratory, Berkeley, CA, USA and 4
+Department of Environmental Science and
+Engineering, Tsinghua University, Beijing, China
+The Deepwater Horizon oil spill in the Gulf of Mexico is the deepest and largest offshore spill in the
+United State history and its impacts on marine ecosystems are largely unknown. Here, we showed
+that the microbial community functional composition and structure were dramatically altered in a
+deep-sea oil plume resulting from the spill. A variety of metabolic genes involved in both aerobic and
+anaerobic hydrocarbon degradation were highly enriched in the plume compared with outside the
+plume, indicating a great potential for intrinsic bioremediation or natural attenuation in the deep sea.
+Various other microbial functional genes that are relevant to carbon, nitrogen, phosphorus, sulfur
+and iron cycling, metal resistance and bacteriophage replication were also enriched in the plume.
+Together, these results suggest that the indigenous marine microbial communities could have a
+significant role in biodegradation of oil spills in deep-sea environments.
+The ISME Journal (2012) 6, 451–460; doi:10.1038/ismej.2011.91; published online 4 August 2011
+Subject Category: microbial ecology and functional diversity of natural habitats
+Keywords: oil spill; deep-sea plume; microbial community; metagenomics; functional gene arrays;
+GeoChip
+Introduction
+On 20 April 2010, a massive oil leak occurred in the
+Gulf of Mexico’s Mississippi Canyon area at a depth
+of 1544 m, releasing B4.9 million barrels of crude
+oil into the deep ocean before the wellhead was
+finally capped on 15 July 2010 (The Federal
+Interagency Solutions Group, Oil Budget Calculator
+Science and Engineering Team, November 2010).
+Chemical dispersants, including COREXIT
+EC9500A and COREXIT EC9527A, were used on
+site at one of the highest rates in history to accelerate
+oil dispersal. A deep-water oil plume was initially
+detected at a depth of 1000–1200 m below the
+surface (Camilli et al., 2010; Hazen et al., 2010;
+Mascarelli, 2010a), but at last account (Mascarelli,
+2010b) could no longer be detected, presumably as a
+result of dispersion and microbial degradation
+(OSAT, 2010). Significant environmental differences
+in the deep sea of Gulf of Mexico from other historic
+offshore oil spills present an urgent need to better
+understand the fate and impacts of the oil on this
+specific habitat (Kerr et al., 2010a,b).
+In marine ecosystems, microorganisms are known
+to have predominant roles in degradation of oil
+contaminants (Head et al., 2003; Larter et al., 2003).
+Therefore, it was expected that the indigenous
+microbial communities would have a significant role
+in degradation of the deep oil plume. This hypothesis
+was supported by two recent studies that explored
+the microbial and chemical properties of samples
+collected from the deep oil plume (Camilli et al.,
+2010; Hazen et al., 2010). Hazen et al. (2010) used a
+combination of molecular, chemical and physiological
+approaches to investigate the microbial and
+chemical composition in the deep-sea plume compared
+with uncontaminated water from the same
+depth outside the plume. They demonstrated that the
+oil depletion was due to a combination of mixing,
+dispersion and biodegradation by microbes residing
+in the deep sea (Hazen et al., 2010).
+In this study, samples from the deep-sea plume,
+oil-contaminated seawater (hereafter referred to as
+‘oil plume’ in the following text) and non-plume
+controls (seawater samples at same depth that were
+not contaminated with oil) were analyzed with
+a functional gene microarray, the GeoChip 4.0 Received 3 March 2011; revised 6 June 2011; accepted 6 June
+2011; published online 4 August 2011
+Correspondence: J Zhou, Department of Botany and Microbiology,
+Institute for Environmental Genomics, University of Oklahoma,
+Norman, OK 73019, USA.
+E-mail: jzhou@ou.edu
+The ISME Journal (2012) 6, 451–460
+& 2012 International Society for Microbial Ecology All rights reserved 1751-7362/12
+www.nature.com/ismej
+(Hazen et al., 2010), to address the following
+questions: (i) How did the oil contamination affect
+the marine microbial community functional composition
+and structure? (ii) How did different microbial
+functional genes involved in key microbial processes
+shift in response to the oil spill? (iii) Were
+functional genes specific to hydrocarbon (HC)
+degradation processes enriched in the oil plume?
+Our results indicated that the oil spill dramatically
+altered microbial community functional structure,
+the marine microbial communities present were
+metabolically diverse, and that these communities
+were able to respond to the oil spill.
+Materials and methods
+The following is the summary of methods used in
+this study. More detailed information is provided in
+Supplementary Data A.
+Sample description
+Between 27 May and 2 June 2010, seawater samples
+were collected from the Gulf of Mexico during two
+monitoring cruises on the R/V Ocean Veritas and R/
+V Brooks McCall (Supplementary Table S1) as
+previously described (Hazen et al., 2010). Briefly,
+two colored dissolved organic matter WETstar
+fluorometers (WET Labs, Philomath, OR, USA) were
+attached to a CTD sampling rosette (Sea-Bird
+Electronics Inc., Bellevue, WA, USA) and used to
+detect the presence of oil. The fluorometer results
+were subsequently confirmed by laboratory HC
+analysis. Niskin bottles attached to the CTD rosette
+were used to capture water samples at various
+depths with detected HCs. Eight samples (BM053,
+BM054, BM057, BM058, BM064, OV201, OV401 and
+OV501) from the MC252 dispersed oil plume, and
+five samples (OV003, OV004, OV009, OV013 and
+OV014) from non-plume at a depth of 1099–1219 m
+were analyzed in this study.
+To better define the geochemical properties of the
+plume and non-plume samples, two sets of variables
+were measured: (i) seawater variables (dissolved
+oxygen, temperature, small particle counts, total
+ammonia nitrogen, nitrite (NO2-N), total iron), orthophosphate
+(PO4-P) and acridine orange direct count)
+and (ii) oil composition variables (fluorometer
+detection of oil, benzene, toluene, ethylbenzene,
+isopropylbenzene, n-propylbenzene, 1,3,5-trimethylbenzene,
+tert-butylbenzene, 1,2,4-trimethylbenzene,
+sec-butylbenzene, p-isopropyltoluene, n-butylbenzene,
+naphthalene and o-xylene, m- and p-xylenes)
+(Hazen et al., 2010).
+DNA amplification and labeling
+Approximately 100 ng of DNA that was previously
+extracted from the samples (Hazen et al., 2010) was
+amplified using a modification of the Templiphi
+kit (GE Healthcare, Piscataway, NJ, USA). The
+amplified DNA (2 mg) was then labeled with Cy3
+using random primers and the Klenow fragment of
+DNA polymerase I (Wu et al., 2006) and then
+purified and dried in a SpeedVac (45 1C, 45 min;
+ThermoSavant, Milford, MA, USA) before hybridization.
+GeoChip 4.0 hybridization and data pre-processing
+The GeoChip 4.0, containing 83 992 50-mer oligonucleotide
+probes targeting 152 414 genes in 410
+gene categories for different microbial functional
+and biogeochemical processes, was synthesized by
+NimbleGen (Madison, WI, USA). All hybridizations
+were carried out at 42 1C with 40% formamide for
+16 h on a MAUI hybridization station (BioMicro,
+Salt Lake City, UT, USA). After hybridization, the
+arrays were scanned (NimbleGen MS200, Madison,
+WI, USA) at a laser power of 100%. Signal
+intensities were measured based on scanned images,
+and spots with signal-to-noise ratios lower than 2
+were removed before statistical analysis as described
+previously (He et al., 2010).
+Statistical analysis
+Pre-processed GeoChip data were further analyzed
+with different statistical methods: (i) microbial
+diversity index, the two-tailed t-test and response
+ratio (Luo et al., 2006); (ii) hierarchical clustering for
+microbial community structure and composition
+(de Hoon et al., 2004); (iii) analysis of similarity,
+permutational multivariate analysis of variance
+using distance matrices and multiresponse permutation
+procedure analysis of differences of microbial
+communities (Anderson, 2001); (iv) canonical correspondence
+analysis (CCA) for linking microbial
+communities to environmental variables (Ramette
+and Tiedje, 2007; Zhou et al., 2008); and (v) partial
+CCA for co-variation analysis of wellhead distance
+and environmental variables (variation partitioning
+analysis). Details for all methods are provided in the
+Supplementary Information.
+Results
+Functional gene changes in response to oil spill
+To assess the dynamic changes of microbial communities
+in response to oil spill, microbial community
+functional composition and structure were
+analyzed using functional gene arrays (GeoChip
+4.0). Significantly more functional genes (Po0.01)
+were detected in the oil plume samples than in nonplume
+control (Supplementary Table S2). The
+overall microbial functional diversity was also
+significantly (Po0.01) higher in the plume samples
+based on Shannon–Weiner (H0
+) and Simpson’s (1/D)
+indices. Consistent with geochemical ordination
+patterns, hierarchical clustering analysis showed
+that all plume samples were clustered together and
+well separated from non-plume samples (Figure 1
+Marine microbial communities for potential bioremediation of oil spills
+Z Lu et al
+452
+The ISME Journal
+and Supplementary Figure S1), as also shown for the
+microbial communities at a phylogenetic level
+(Hazen et al., 2010). However, considerable variability
+in functional gene distribution was observed
+among different samples and some functional genes
+were common to all samples, although others were
+unique to oil plume samples (Figure 1). For
+example, Group 6, with 1439 or 20.14% of all genes
+detected, largely involved in organic remediation,
+carbon degradation, denitrification, sulfate
+reduction, metal resistance and stress response, was
+generally detected in all samples. Groups 1, 2, 10
+and 17, with 2.2%, 3.9%, 20.5% and 10.8% of all
+genes detected, were mainly detected in the plume
+samples (Figure 1). In addition, the microbial
+community functional structure was significantly
+(Po0.05) different between the plume and nonplume
+samples as revealed by the three complementary
+non-parametric multivariate statistical
+tests (analysis of similarity, permutational
+Oil plume
+BM053
+BM054
+BM058
+OV201
+OV501
+BM057
+BM064
+OV401
+OV003
+OV009
+OV014
+OV004
+OV013
+300
+Group 1
+Group 2
+Group 3
+Group 4
+Group 6
+Group 8
+Group 9
+Group 10
+Group 5
+Group 7
+Group 11
+Group 12
+Group 13
+Group 14
+Group 15
+Group 16
+Group 17
+250
+200
+150
+100
+50
+0
+2000
+1800
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+1000
+800
+600
+400
+200
+0
+BM053
+BM054
+BM057
+BM058
+BM064
+OV201
+OV401
+OV501
+OV003
+OV004
+OV009
+OV013
+OV014
+Group 1
+Group 2
+Group 3
+Group 4
+Group 5
+Group 6
+Group 7
+Group 8
+Group 9
+Group 10
+Group 13
+Group 15
+Group 14
+Group 12
+Group 11
+Group 17
+Group 16
+Non-plume
+Figure 1 Hierarchical cluster analysis of all genes present in at least two out of the five samples. Results were generated in CLUSTER
+and visualized using TREEVIEW. Red indicates signal intensities above background, whereas black indicates signal intensities below
+background. Brighter red coloring indicates higher signal intensities. All oil plume samples clustered together and were well separated
+from non-plume samples.
+Marine microbial communities for potential bioremediation of oil spills
+Z Lu et al
+453
+The ISME Journal
+multivariate analysis of variance using distance
+matrices and multiresponse permutation procedure)
+(Table 1).
+Oil as a predominant factor shaping microbial
+community functional structure
+CCA was performed to determine the most significant
+environmental variables shaping microbial
+community structure. On the basis of variance in
+inflation factors, seven variables were selected:
+dissolved oxygen, temperature, total volatile HC,
+total extractable petroleum HC, fluorometer detection
+of oil, phosphate and iron. The specified CCA
+model was significant (P ¼ 0.026). Of these, the total
+volatile HC, extractable petroleum HC, fluorometer
+detection of oil and dissolved oxygen were the most
+significantly correlated with plume samples
+(Figure 2). To separate the effects of seawater
+geochemical variables, geographic distance and oil
+composition on microbial community structure, a
+CCA-based variation partitioning analysis (Ramette
+and Tiedje, 2007; Zhou et al., 2008) was performed.
+Seawater geochemical variables, oil composition
+and wellhead distance showed a significant correlation
+(P ¼ 0.041) with the functional gene structure of
+the community. Oil composition explained substantially
+more variations (48.34%, P ¼ 0.03) than seawater
+variables (21.76%, P ¼ 0.017), whereas
+distance independently explained 9.1% (P ¼ 0.43)
+of the observed variation (Figure 3). About 28% of
+the community functional variation based on GeoChip
+data remained unexplained by the above
+selected variables, which is significantly lower than
+those observed in other systems such as soils
+(Ramette and Tiedje, 2007; Zhou et al., 2008). These
+results indicate that oil contaminants could be a
+dominant factor shaping microbial community
+functional structure and potentially regulating
+associated microbial functional processes.
+Oil spill stimulated increase in functional genes for
+HC degradation
+A substantial number of genes involved in HC
+degradation were detected in the oil plume samples
+(Hazen et al., 2010), especially those involved in
+degrading alkanes, alkynes and cycloalkanes, BTEX
+and related aromatics, chlorinated aromatics,
+heterocyclic aromatics, nitroaromatics, polycyclic
+aromatics and aromatic carboxylic acids. For
+Table 1 Significance of the effects of the oil spill on the overall
+microbial community structure and geochemical pattern using
+three statistical analyses
+Method Geochemical parametersa Microbial community
+Statistic P-value Statistic P-value
+MRPPb 233.112 0.037 53.617 0.003
+ANOSIMc 0.057 0.046 0.501 0.002
+Adonisd 0.258 0.043 0.192 o0.001
+Abbreviations: ANOSIM, analysis of similarity; MRPP, multi response
+permutation procedure.
+a
+Geochemical parameters included temperature, DO concentration,
+fluorometer detection of oil, small particle concentrations, Fe, nitrate,
+phosphate, benzene, toluene, naphthalene, ethylbenzene, isopropylbenzene,
+n-propylbenzene, 1,3,5-trimethylbenzene, tert-butylbenzene,
+1,2,4-trimethylbenzene, sec-butylbenzene, p-isopropyltoluene,
+n-butylbenzene, total xylenes, total volatile HC and total petroleum
+hydrocarbons—extractable (DRO).
+b
+Multiple response permutation procedure, a nonparametric procedure
+that does not depend on assumptions such as normally
+distributed data or homogeneous variances, but rather depends on
+the internal variability of the data.
+c
+Analysis of similarities.
+d
+Non-parametric multivariate analysis of variance (MANOVA) with
+the adonis function.
+All three tests are non-parametric multivariate analyses based on
+dissimilarities among samples.
+Figure 2 CCA compares the GeoChip hybridization signal
+intensities (symbols) and environmental variables (arrows).
+Environmental variables were chosen based on significance
+calculated from individual CCA results and variance inflation
+factors (VIFs) calculated during CCA. The percentage of variation
+explained by each axis is shown, and the relationship is
+significant (P ¼ 0.026).
+Figure 3 Variation partitioning based on CCA for all functional
+gene signal intensities. (a) General outline, (b) all functional
+genes. A CCA-based VIF was performed to identify common sets
+of oil composition and seawater variables important to the
+microbial community structure. Oil composition variables included
+fluorometer detection of oil, the concentration of total
+volatile HCs, xylenes and petroleum HCs—extractable (DRO).
+Seawater geochemical variables included temperature, dissolved
+oxygen (DO), Fe and phosphate.
+Marine microbial communities for potential bioremediation of oil spills
+Z Lu et al
+454
+The ISME Journal
+example, gene alkB encoding alkane 1-monooxygenase,
+a key enzyme responsible for the initial
+oxidation of inactivated alkanes, showed a significantly
+(Po0.05) higher abundance, with 19–26
+genes detected in the oil contaminated samples and
+11–15 detected in the non-oil contaminated samples.
+The alkB genes derived from Rhodospirillum
+centenum SW, Bdellovibrio bacteriovorus HD100,
+Prauserella rugosa, Roseobacter sp. CCS2, Mycobacterium
+bovis AF2122/97, Bacillus sp. BTRH40,
+Gordonia sp. Cg and Rhodococcus sp. RHA1
+appeared to be dominant in all oil plume samples
+(Supplementary Figure S2).
+GeoChip analysis also detected many aerobic PAH
+degradation genes from a variety of microorganisms
+(Figure 4 and Supplementary Figure S3). PAH
+degradation genes were more abundant in the plume
+samples, while some were unique to the plume
+samples. Although oxygen was still present in the
+plume samples (Camilli et al., 2010; Hazen et al.,
+2010), the gene bbs (beta-oxidation of benzylsuccinate)
+for anaerobic toluene degradation was also
+enriched in plume samples. These bbs genes were
+derived from putative E-phenylitaconyl-CoA
+hydratase of Azoarcus sp. EbN1 and Thauera
+aromatic, and benzylsuccinyl-CoA dehydrogenase
+of Azoarcus sp. EbN1 (Figure 5).
+Shifts of the genes involved in key biogeochemical
+cycling processes
+Carbon. Among the carbon cycling genes detected,
+798 genes involved in the degradation of complex
+carbon compounds, such as starch, hemicellulose,
+cellulose, chitin, lignin and aromatics, showed
+positive hybridization signals. Most of these genes
+(for example, pulA, xylA, xynA, lip, limEH and
+vanA) showed significantly (Po0.05) higher
+abundance in plume than in non-plume samples
+(Supplementary Figure S4). These types of genes
+could also be important in degradation of various oil
+components and their intermediates.
+In this study, 9–14 mcrA genes encoding the
+a subunit of methyl coenzyme M reductase and 5–8
+Figure 4 The normalized signal intensity of the nahA genes (naphthalene 1,2-dioxygenase) for the initial oxidation of naphthalene. The
+signal intensity for each sequence was the average of the total signal intensity from all the replicates. Gene number is the protein ID
+number for each gene as listed in the GenBank database. All data are presented as mean±s.e. ***Po0.01, **Po0.05, *Po0.1.
+Figure 5 The normalized signal intensity of bbs (b-oxidation of
+benzylsuccinate) genes for anaerobic toluene degradation. The
+signal intensity for each sequence was the average of the total
+signal intensity from all the replicates. Gene number is the protein
+ID number for each gene as listed in the GenBank database. All
+data are presented as mean±s.e. ***Po0.01, **Po0.05, *Po0.1.
+In total, seven probes were designed for bbs genes in GeoChip 4.0
+and three probes were detected in the samples.
+Marine microbial communities for potential bioremediation of oil spills
+Z Lu et al
+455
+The ISME Journal
+pmoA genes for methane monooxygenase were
+detected in the plume samples. Specifically, mcrA
+genes from Methanococcus aeolicus Nankai-3,
+Methanoculleus marisnigri JR1 and Methanocorpusculum
+labreanum Z were detected in all of the oil
+plume samples, but most of them were from
+uncultured microorganisms. Significantly (Po0.05)
+higher signal intensities were observed for mcrA in
+the plume than in the non-plume samples (Supplementary
+Figure S5). However, no significant differences
+were found for pmoA and mmoX (particulate
+methane monooxygenase) between plume and nonplume
+samples.
+Nitrogen. Petroleum generally contains about
+0.1–2% nitrogen, and given the large quantities of
+oil involved, it may act as an N pool in this
+ecosystem. Interestingly, nasA (nitrate reductase)
+and nir (nitrite reductase) for assimilatory N reduction,
+and gdh (glutamate dehydrogenase) for ammonia
+assimilation exhibited significantly (Po0.05 or
+0.01) higher signal intensities in plume samples
+(Figure 6). The observed stimulation of N assimilation
+processes could be due to an increase of
+microbial biomass (Hazen et al., 2010). However,
+no significant differences were observed for other
+N-cycling genes, for example, nitrification, denitrification
+and N fixation (Figure 6).
+Sulfur. Sulfite reduction genes were highly abundant
+in the deep-sea plume: 81–102 dsrA/B genes for
+dissimilatory sulfite reductase, and 8–12 AprA
+genes for dissimilatory adenosine-50
+-phosphosulfate
+reductase were detected with significantly (Po0.05)
+higher abundance in the plume than in non-plume
+samples (Supplementary Figure S6). Microbial
+populations similar to Alkalilimnicola ehrlichei
+MLHE-1, Chlorobium ferrooxidans DSM 13031,
+Clostridium leptum DSM 753, Desulfomicrobium
+thermophilum, Pyrobaculum calidifontis JCM
+11548, Thermodesulforhabdus norvegica, Magnetococcus
+sp. MC-1, Pyrobaculum aerophilum str. IM2,
+Alkalilimnicola ehrlichei MLHE-1, Desulfohalobium
+retbaense DSM 5692, sulfate-reducing bacterium
+QLNR1 and Syntrophobacter fumaroxidans MPOB
+were frequently detected in each sample, while most
+of the genes detected were from uncultured microorganisms
+(for example, sulfate-reducing bacteria)
+from various environments. The results suggest that
+sulfate reduction could be enhanced when coupled
+with HC degradation.
+Phosphorus and iron reduction. As phosphorus is
+often a limiting factor for oil bioremediation, it is
+essential to understand phosphorus cycling in
+marine ecosystems. Genes encoding exopolyphosphatase
+(ppx) for inorganic polyphosphate degradation
+and phytase for phytate degradation were
+detected with significantly (Po0.01 and Po0.05,
+respectively) increased abundance in plume samples
+(Supplementary Figure S7). These results
+suggested that organic phosphorus release could be
+stimulated by oil contamination. In addition, higher
+(Po0.1) signal intensities for 61 detected cytochrome
+c genes were observed in plume samples
+(Supplementary Figure S8), suggesting that HC
+degradation coupled with metal reduction could
+occur in the deep water.
+Metal resistance. A substantial number (917) of the
+genes involved in resistance to various metals were
+detected, many of which showed significantly
+(Po0.05) increased abundance in plume samples
+(Supplementary Figure S9). Genes encoding reductases
+for As (arsC) and Hg (mer), efflux transporters
+for Cd (cadA), Cu, Co and Zn (czcA and czcD), Cr
+(ChrA), Cu (copA), Hg (merT), Ag (silC) and Zn
+(zntA), and the proteins involved in Te resistance
+N2
+Org N
+gdh**(2.9%)
+NH4 N + 2O
+ureC (23.3%)
+NO NH2OH
+A
+NO2
+- nirK-N
+napA
+(4.0%)
+NO
+NO3
+-
+NO2
+-
+NO2
+-
+NO2
+-
+(3.2%)
+N2O N2
+norB-N
+nosZ-N ?
+Figure 6 The relative changes of the detected genes involved in
+the N cycle in oil plume. The signal intensity for each gene
+detected was normalized by all detected gene sequences using the
+mean. The percentage of a functional gene in a bracket was the
+sum of signal intensity of all detected sequences of this gene
+divided by the grand sum of signal intensity of the detected N
+cycle genes, and weighted by the fold change of the signal
+intensity of this gene in plume to that in non-plume. For each
+functional gene, red indicates that this gene had a higher signal
+intensity in plume than in non-plume and their significance was
+indicated with two stars (**) at Po0.01, whereas blue indicates
+that this gene had a lower signal intensity in oil-plume than in
+non-plume. Grey-colored genes were not targeted by this
+GeoChip, or not detected in those samples. It remains unknown
+if nosZ homologs exist in nitrifiers. Description of the genes:
+(a) gdh, encoding glutamate dehydrogenase, ureC, encoding
+urease responsible for ammonification; (b) nasA, encoding nitrate
+reductase, NiR, encoding nitrite reductase, responsible for
+assimilatory N reduction; (c) nifH, encoding nitrogenase responsible
+for N2 fixation; (d) narG encoding nitrate reductase, nirS and
+nirK-D (with denitrification activity), encoding nitrite reductase;
+nosZ, encoding nitrous oxide reductase, norB, encoding nitric
+oxide reducatse, responsible for denitrification (e) napA, encoding periplasmic nitrate reductase, nrfA, encoding c-type cytochrome nitrite reducatse, responsible for dissimilatory N reduction to ammonium; (f) hao, encoding hydroxylamine oxidoreductase, and nirK-N encoding nitrite reductase for nitrifiers (an indication of nitrification activity), responsible for nitrification.
+Marine microbial communities for potential bioremediation of oil spills Z Lu et al 456
+The ISME Journal
+(terC, terD and terZ) were more (Po0.05 or 0.01) abundant in the plume samples.
+Bacteriophages were also significantly stimulated In total, 52 bacterial phage genes associated with host recognition, lysis, replication and structure were observed in all samples. The signal intensities for many of the genes involved in replication were significantly (Po0.05) higher in the plume than in the non-plume samples (Figure 7), supporting the
+suggestion by Head et al. (2006) that bacteriophages could be an important factor for intrinsic bioremediation of HCs.
+Discussion
+The Deepwater Horizon oil spill in the Gulf of Mexico was one of the worst environmental disasters in the United State history. The impact of an oil spill of such an unprecedented magnitude and depth on marine ecosystems is largely unknown.
+Using the GeoChip-based high-throughput microarray technology, we showed that diverse microbial
+functional groups (a group of genes involved in
+certain functional processes), including those
+important to HC degradation, carbon metabolism,
+methanogenesis, nitrogen assimilation, sulfate reduction,
+phosphorus release, metal resistance and
+bacteriophage replication, were more highly represented
+in the oil plume samples than in non-plume
+samples from the same depth. Also, the changes
+in community functional structure were highly
+correlated to the changes in geochemistry, with
+oil being the predominant factor shaping the functional
+composition and structure of the microbial
+communities. Our results support the phylogenybased
+study by Hazen et al. (2010) that the deepsea
+marine microbial communities underwent a
+dynamic change in response to the oil spill and
+associated geochemical changes. Our results are also
+consistent with previous studies of oil spill and
+petroleum contamination (Harayama et al., 2004;
+Head et al., 2006; Bordenave et al., 2007), which
+showed that microorganisms able to utilize HCs
+became dominant in oil-contaminated sites. Such
+functional gene information is useful for assessing
+the impacts of oil spills and should facilitate the
+design of appropriate strategies and approaches to
+deal with petroleum contamination.
+The clean-up of the deep-sea oil plume will
+primarily depend on the indigenous microbes
+present in this environment, as current technology
+does not allow removing the dispersed oil and gas at
+such great depths. One of the critical environmental
+questions is whether microorganisms for degrading
+various HCs exist in the community and whether
+they respond to oil spill. Our GeoChip results
+indicated that many functional genes/populations
+involved in both aerobic and anaerobic degradation
+of various oil components are detected and/or
+enriched in the oil plume, indicating that the
+indigenous HC-degrading populations are capable
+of responding to the oil spill. For example, alkB for
+alkanes, Xamo for alkene, genes bco, ohbAB,
+GCoADH and pimF for benzoate, genes mdlA, mdlB
+and mdlC for mandelate, and genes Apc and catB for
+BTEX metabolic pathway exhibited a significantly
+(Po0.05) higher abundance in the oil plume than in the non-oil plume. The changes in relative abundance of these genes/populations were significantly correlated with the concentrations of various oil contaminants in the samples (Hazen et al., 2010).
+Figure 7 The normalized signal intensity of the replication genes for bacteriophage. The signal intensity for each sequence was the
+average of the total signal intensity from all the replicates. Gene number is the protein ID number for each gene as listed in the GenBank
+database. All data are presented as mean±s.e. ***Po0.01, **Po0.05, *Po0.1.
+Marine microbial communities for potential bioremediation of oil spills
+Z Lu et al
+457
+The ISME Journal
+Especially, several genes for PAH degradation were
+enriched in the oil plume samples, which could be
+important in determining the long-term effects of the
+oil spill on the marine ecosystems. Also, consistent
+with phylogenetic gene distribution obtained using
+a phylogenetic microarray ‘PhyloChip’ (Hazen et al.,
+2010), functional genes representative of the order
+Oceanospirillales appeared to have significantly
+higher (Po0.01) abundance in the plume samples
+than in non-plume samples, although the dominance
+of the Oceanospirillum population consuming
+the oil in the plume was based on clone library
+and sequence analysis of 16S rRNA genes (Hazen
+et al., 2010). GeoChip was not originally designed to
+link the detection of functional genes to the
+existence of related microbial population and it
+contains 567 functional genes derived from the
+order Oceanospirillales, with 25 genes detected in
+this study. In addition, a large number of metal
+resistance genes were enriched in plume samples,
+which are usually linked to organic degradation
+genes, for example, on plasmids (Parales and
+Haddock, 2004; Kunapuli et al., 2007). Our GeoChip
+results demonstrated that there is a great potential
+for intrinsic bioremediation of oil contamination in
+the deep-sea environment.
+Anaerobic HC degradation associated with sulfate
+reduction, denitrification and methanogenesis has
+long been considered the prevailing mechanism for
+petroleum biodegradation in the deep subsurface
+(Head et al., 2003; Aitken et al., 2004; Kniemeyer
+et al., 2007; Jones et al., 2008). Recent investigations
+have demonstrated that several classes of petroleum
+HCs, including alkanes (So et al., 2003), mono- and
+polycyclic aromatic compounds (Meckenstock et al.,
+2000; Widdel and Rabus, 2001), and short-chain HCs
+(Kniemeyer et al., 2007), can be degraded anaerobically
+under nitrate-, iron- or sulfate-reducing conditions,
+or under methanogenic conditions (Harayama
+et al., 2004; Jones et al., 2008). Indeed, a substantial
+number of dsrA/B genes for sulfate reduction, mcrA
+genes for methanogenesis, narG, nirS, nirK and nosZ
+responsible for denitrification and populations for
+metal reduction were detected in this study. Also,
+dsrA/B and mcrA genes showed significantly
+(Po0.05 or 0.01) higher abundance in the plume
+than in the non-plume samples. In addition, bbs
+genes for the strict anaerobic toluene degradation
+were detected and enriched in the plume samples. It
+is possible that anaerobic HC degradation could
+have most likely occured through microaggregate
+formation as reported in Hazen et al. (2010).
+Hydrocarbon degradation is generally limited by
+nutrient availability, which can be improved by
+nutrient recycling through phage-mediated biomass
+turnover (Jiang et al., 1998; Head et al., 2006; Paul,
+2008). As significant biomass increase was observed
+(Hazen et al., 2010) in the plume samples, bacteriophages
+could have critical roles in HC degradation.
+Approximately 43% of marine bacterial
+isolates have been found to contain prophages (Jiang
+et al., 1998; Paul, 2008), which are induced by
+various environmental contaminants, such as fuel
+oil (Cochran et al., 1998). The oil spill may stimulate
+the growth of pathogenic bacteria in marine environments
+and many pathogens are capable of
+efficiently degrading HCs (Rojo and Martı´nez,
+2010). The research on phages has been heavily
+slanted to those that affect human-related activities,
+health/medical and industry. As no target genes for
+Oceanospirillum phages were designed on GeoChip
+4.0, the Oceanospirillum phages were not detected.
+Genes for both iron uptake (iro) and adherence (pap
+and pilin) were significantly (Po0.01 or 0.05)
+enriched in the plume samples. The increase in
+the abundance of microorganisms capable of producing
+siderophores, highly specific iron-chelating
+compounds, may facilitate microbial acquisition of
+iron, a limiting nutrient in marine systems (Barbeau
+et al., 2001a, b), thereby potentially increasing HC
+degradation.
+A substantial quantity of methane gas was
+released together with the oil (The Federal Interagency
+Solutions Group, Oil Budget Calculator
+Science and Engineering Team, November 2010;
+Kessler et al., 2011), which may result in more
+methane in the oil plume ecosystem and have the
+potential to greatly impact methane metabolism.
+GeoChip targets three key genes/enzymes involved
+in methane metabolism, with mcrA encoding
+methyl coenzyme M reductase for methanogenesis
+and two enzymes/genes (methane monooxygenase/
+mmoX and particulate methane monooxygenase/
+pmoA) for methanotrophy (He et al., 2010). In this
+study, pmoA and mmoX genes for aerobic methane
+oxidation did not show a statistically significant
+change though their abundance was higher in plume
+samples than in non-plume samples. There are two
+possible explanations for this: one is that the aerobic
+methane oxidation was inhibited owing to the
+presence of easier to degrade alkanes in the deep
+sea, and the other is that the methane gas was moved
+up to the surface more directly and did not
+accumulate in the deep oil plume. Also, unlike
+propane, methane may form gas hydrates at the deep
+plume temperature and pressure, making it unavailable
+to microorganisms (Valentine et al., 2010).
+However, significantly (Po0.05) higher signal intensities
+were observed for mcrA in the plume than
+non-plume samples, indicating that those enriched
+mcrA genes derived from methanogens likely link to
+HC degradation rather than plume methane release
+(Harayama et al., 2004; Jones et al., 2008). Enzymes
+or genes involved in anaerobic methane oxidation,
+however, remain unclear; thus, we could not detect
+this functional process.
+In this study, many functional genes were
+detected in the uncontaminated samples that were
+not detected in the contaminated samples (Supplementary
+Table S3 and Supplementary Figure S10).
+These results suggest that oil spills can select
+against those populations containing these genes,
+Marine microbial communities for potential bioremediation of oil spills
+Z Lu et al
+458
+The ISME Journal
+or that specific members of the community have a
+selective advantage if they are capable of HC
+degradation and these grow to represent a greater
+proportion of the functional gene repertoire.
+In conclusion, our results indicate that a variety of
+HC-degrading functional genes were enriched in
+response to oil contamination and associated environmental
+changes. Our results also imply that there
+is a great potential for in situ bioremediation of oil
+contaminants in the deep-seawater ecosystem, and
+such oil-degrading populations and associated
+microbial communities may have a significant role
+in determining the ultimate fates and consequences
+of the spilled oil. However, to further understand
+and evaluate the potential impacts of this unprecedented
+oil spill on the marine ecosystem structure
+and function, it is essential to launch an integrated
+and comprehensive monitoring program to track the
+dynamics and adaptive responses of microbial
+communities together with other physical and
+chemical analysis of tracing oil contaminants and their products.

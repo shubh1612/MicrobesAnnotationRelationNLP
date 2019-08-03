@@ -1,0 +1,170 @@
+T1 ReactionOrProcess 104 113 oxidation
+T2 Nutrient 11 27 quinone moieties
+T3 Nutrient 77 95 electron acceptors
+T4 Nutrient 0 2 HS
+T5 Nutrient 332 349 electron acceptor
+T6 Nutrient 217 219 HS
+T7 Nutrient 302 304 HS
+T8 Environment 560 569 sediments
+T9 Environment 475 483 quinones
+T10 Environment 552 559 aquifer
+T11 Property 429 447 low concentrations
+T12 ReactionOrProcess 539 548 reduction
+T13 ReactionOrProcess 579 597 electron shuttling
+T14 Nutrient 449 451 HS
+T15 ReactionOrProcess 683 709 anaerobic MTBE degradation
+T16 Substrate 774 778 MTBE
+T17 ReactionOrProcess 859 880 anaerobic respiration
+T18 ReactionOrProcess 751 770 anaerobic oxidation
+T19 Nutrient 823 841 electron acceptors
+T20 Environment 979 990 groundwater
+T21 Substrate 954 958 MTBE
+T22 Property 997 1009 methanogenic
+T23 Environment 1085 1116 controlled anaerobic conditions
+T24 Substrate 1130 1134 MTBE
+T25 ReactionOrProcess 1150 1158 degraded
+T26 Nutrient 1189 1195 oxygen
+T27 Environment 1223 1258 MTBE-contaminated aquifer sediments
+T28 Environment 1357 1374 aquatic sediments
+T29 ReactionOrProcess 1384 1403 anaerobic oxidation
+T30 Environment 1601 1609 sediment
+T31 Environment 1544 1553 sediments
+T32 Environment 1428 1448 freshwater sediments
+T33 Environment 1492 1512 anaerobic conditions
+T34 Substrate 1680 1698 tert-butyl alcohol
+T35 Substrate 1467 1471 MTBE
+T36 Substrate 1514 1518 MTBE
+T37 Substrate 1672 1676 MTBE
+T38 ReactionOrProcess 1728 1736 degraded
+T39 ReactionOrProcess 1476 1485 incubated
+T40 Environment 1842 1846 soil
+T41 Environment 2041 2046 soils
+T42 Environment 1788 1809 water-saturated soils
+T43 Substrate 1765 1769 MTBE
+T44 Substrate 1963 1967 MTBE
+T45 Property 1906 1918 methanogenic
+T46 ReactionOrProcess 1826 1834 degraded
+T47 ReactionOrProcess 2056 2065 incubated
+T48 Environment 2262 2269 aquifer
+T49 Environment 2361 2378 aquatic sediments
+T50 Environment 2217 2236 anaerobic sediments
+T51 Substrate 2503 2510 benzene
+T52 Substrate 2457 2481 recalcitrant hydrocarbon
+T53 Substrate 2180 2184 MTBE
+T54 Substrate 2288 2292 MTBE
+T55 Substrate 2174 2178 MTBE
+T56 ReactionOrProcess 2424 2445 anaerobically degrade
+T57 ReactionOrProcess 2185 2196 degradation
+T58 ReactionOrProcess 2293 2304 degradation
+T59 ReactionOrProcess 2149 2170 anaerobic degradation
+T60 Environment 2543 2551 Sediment
+T61 ReactionOrProcess 2552 2563 Incubations
+T62 Environment 2573 2582 sediments
+T63 Environment 2631 2661 petroleum-contaminated aquifer
+T64 Environment 2565 2572 Aquifer
+T65 Environment 2787 2811 underground storage tank
+T66 Substrate 2831 2839 gasoline
+T67 Property 2961 2966 Toxic
+T68 Substrate 3047 3068 aromatic hydrocarbons
+T69 Substrate 3073 3077 MTBE
+T70 Environment 3096 3105 Sediments
+T71 Environment 3171 3199 Freshwater aquatic sediments
+T72 Environment 3313 3322 sediments
+T73 Environment 3468 3477 sediments
+T74 Substrate 3447 3454 benzene
+T75 Substrate 3411 3422 hydrocarbon
+T76 Property 3423 3435 contaminants
+T77 Environment 3565 3574 sediments
+T78 ReactionOrProcess 3580 3591 homogenized
+T79 Nutrient 3952 3958 oxygen
+T80 Environment 3964 3973 sediments
+T81 ReactionOrProcess 3979 3988 incubated
+T82 Environment 4065 4073 sediment
+T83 Environment 4206 4214 sediment
+T84 Environment 4297 4305 sediment
+T85 ReactionOrProcess 4306 4317 incubations
+T86 ReactionOrProcess 4370 4387 sulfate reduction
+T87 Environment 4433 4442 sediments
+T88 Substrate 4419 4423 MTBE
+T89 Substrate 4428 4431 TBA
+T90 ReactionOrProcess 4455 4464 incubated
+T91 ReactionOrProcess 4404 4415 degradation
+R1 OccursIn Arg1:T12 Arg2:T8
+R2 OccursIn Arg1:T12 Arg2:T9
+R3 OccursIn Arg1:T12 Arg2:T10
+R4 OccursIn Arg1:T13 Arg2:T8
+R5 OccursIn Arg1:T13 Arg2:T9
+R6 OccursIn Arg1:T13 Arg2:T10
+R7 CarriedOn Arg1:T17 Arg2:T16
+R8 CarriedOn Arg1:T18 Arg2:T16
+R9 CarriedOn Arg1:T25 Arg2:T24
+R10 OccursIn Arg1:T25 Arg2:T23
+R11 OccursIn Arg1:T29 Arg2:T28
+R12 CarriedOn Arg1:T38 Arg2:T34
+R13 CarriedOn Arg1:T38 Arg2:T35
+R14 CarriedOn Arg1:T38 Arg2:T36
+R15 CarriedOn Arg1:T38 Arg2:T37
+R16 CarriedOn Arg1:T39 Arg2:T34
+R17 CarriedOn Arg1:T39 Arg2:T35
+R18 CarriedOn Arg1:T39 Arg2:T36
+R19 CarriedOn Arg1:T39 Arg2:T37
+R20 OccursIn Arg1:T38 Arg2:T30
+R21 OccursIn Arg1:T38 Arg2:T31
+R22 OccursIn Arg1:T38 Arg2:T32
+R23 OccursIn Arg1:T38 Arg2:T33
+R24 OccursIn Arg1:T39 Arg2:T30
+R25 OccursIn Arg1:T39 Arg2:T31
+R26 OccursIn Arg1:T39 Arg2:T32
+R27 OccursIn Arg1:T39 Arg2:T33
+R28 CarriedOn Arg1:T46 Arg2:T43
+R29 CarriedOn Arg1:T46 Arg2:T44
+R30 CarriedOn Arg1:T47 Arg2:T43
+R31 CarriedOn Arg1:T47 Arg2:T44
+R32 OccursIn Arg1:T46 Arg2:T40
+R33 OccursIn Arg1:T46 Arg2:T41
+R34 OccursIn Arg1:T46 Arg2:T42
+R35 OccursIn Arg1:T47 Arg2:T40
+R36 OccursIn Arg1:T47 Arg2:T41
+R37 OccursIn Arg1:T47 Arg2:T42
+R38 CarriedOn Arg1:T56 Arg2:T51
+R39 CarriedOn Arg1:T56 Arg2:T52
+R40 CarriedOn Arg1:T56 Arg2:T53
+R41 CarriedOn Arg1:T56 Arg2:T54
+R42 CarriedOn Arg1:T56 Arg2:T55
+R43 CarriedOn Arg1:T57 Arg2:T51
+R44 CarriedOn Arg1:T57 Arg2:T52
+R45 CarriedOn Arg1:T57 Arg2:T53
+R46 CarriedOn Arg1:T57 Arg2:T54
+R47 CarriedOn Arg1:T57 Arg2:T55
+R48 CarriedOn Arg1:T58 Arg2:T51
+R49 CarriedOn Arg1:T58 Arg2:T52
+R50 CarriedOn Arg1:T58 Arg2:T53
+R51 CarriedOn Arg1:T58 Arg2:T54
+R52 CarriedOn Arg1:T58 Arg2:T55
+R53 CarriedOn Arg1:T59 Arg2:T51
+R54 CarriedOn Arg1:T59 Arg2:T52
+R55 CarriedOn Arg1:T59 Arg2:T53
+R56 CarriedOn Arg1:T59 Arg2:T54
+R57 CarriedOn Arg1:T59 Arg2:T55
+R58 OccursIn Arg1:T56 Arg2:T48
+R59 OccursIn Arg1:T56 Arg2:T49
+R60 OccursIn Arg1:T56 Arg2:T50
+R61 OccursIn Arg1:T57 Arg2:T48
+R62 OccursIn Arg1:T57 Arg2:T49
+R63 OccursIn Arg1:T57 Arg2:T50
+R64 OccursIn Arg1:T58 Arg2:T48
+R65 OccursIn Arg1:T58 Arg2:T49
+R66 OccursIn Arg1:T58 Arg2:T50
+R67 OccursIn Arg1:T59 Arg2:T48
+R68 OccursIn Arg1:T59 Arg2:T49
+R69 OccursIn Arg1:T59 Arg2:T50
+R70 OccursIn Arg1:T61 Arg2:T60
+R71 OccursIn Arg1:T78 Arg2:T77
+R72 OccursIn Arg1:T81 Arg2:T80
+R73 OccursIn Arg1:T85 Arg2:T84
+R74 OccursIn Arg1:T86 Arg2:T84
+R75 CarriedOn Arg1:T90 Arg2:T88
+R76 CarriedOn Arg1:T90 Arg2:T89
+R77 CarriedOn Arg1:T91 Arg2:T88
+R78 CarriedOn Arg1:T91 Arg2:T89
+R80 OccursIn Arg1:T91 Arg2:T87

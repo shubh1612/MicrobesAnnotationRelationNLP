@@ -1,0 +1,28 @@
+T1	Environment 502 520	coastal salt marsh
+T2	Environment 939 944	
+T3	Environment 1327 1346	Triplicate sediment
+T4	ReactionOrProcess 1316 1326	Processing
+T5	Environment 1560 1568	
+T6	ReactionOrProcess 1714 1724	processing
+T7	Environment 1927 1935	
+T8	Environment 2047 2052	water
+T9	Property 2060 2071	temperature
+T10	Property 2083 2092	dissolved
+T11	Property 2107 2116	dissolved
+T12	Nutrient 2093 2099	oxygen
+T13	Environment 2297 2305	sediment
+T14	Environment 2350 2355	soils
+T15	ReactionOrProcess 2264 2273	extracted
+T16	ReactionOrProcess 2233 2247	
+T17	Property 2430 2444	concentrations
+T18	ReactionOrProcess 2543 2546	
+T19	ReactionOrProcess 2757 2760	PCR
+T20	Environment 3037 3046	sediments
+T21	ReactionOrProcess 3288 3297	replicate
+T22	ReactionOrProcess 3361 3374	hybridization
+T23	Environment 3527 3535	sediment
+T24	ReactionOrProcess 3675 3688	hybridization
+T25	Environment 3859 3865	Marine
+R1	OccursIn Arg1:T4 Arg2:T3
+R2	OccursIn Arg1:T15 Arg2:T13
+R3	OccursIn Arg1:T15 Arg2:T14

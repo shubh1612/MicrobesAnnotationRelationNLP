@@ -1,0 +1,39 @@
+T1	Environment 124 128	soil
+T2	Environment 111 128	contaminated soil
+T3	Substrate 75 95	aromatic hydrocarbon
+T4	Substrate 61 95	aliphatic and aromatic hydrocarbon
+T5	Substrate 84 95	hydrocarbon
+T6	Property 75 83	aromatic
+T7	ReactionOrProcess 84 107	hydrocarbon degradation
+T8	ReactionOrProcess 75 107	aromatic hydrocarbon degradation
+T9	ReactionOrProcess 96 107	degradation
+T10	Environment 185 196	gas station
+T11	Environment 148 158	Subsurface
+T12	Environment 159 163	soil
+T13	Environment 148 163	Subsurface soil
+T14	Environment 361 365	soil
+T15	Substrate 270 279	petroleum
+T16	Substrate 264 291	total petroleum hydrocarbon
+T17	Substrate 280 291	hydrocarbon
+T18	Microbes 406 424	Enrichment culture
+T19	Microbes 406 425	Enrichment cultures
+T20	Substrate 488 499	naphthalene
+T21	Substrate 470 480	hexadecane
+T22	Property 509 522	concentration
+T23	ReactionOrProcess 406 416	Enrichment
+T24	ReactionOrProcess 576 579	PCR
+T25	Microbes 875 894	enrichment cultures
+T26	Property 911 930	denaturing gradient
+T27	ReactionOrProcess 875 885	enrichment
+T28	ReactionOrProcess 911 950	denaturing gradient gel electrophoresis
+T29	ReactionOrProcess 935 950	electrophoresis
+T30	ReactionOrProcess 911 921	denaturing
+T31	Microbes 1084 1103	Gammaproteobacteria
+T32	Environment 1036 1047	gas station
+T33	Environment 1048 1052	soil
+T34	Substrate 1018 1030	hydrocarbons
+T35	Substrate 1018 1030	hydrocarbons
+T36	Microbes 1278 1296	Betaproteobacteria
+T37	Substrate 1437 1448	hydrocarbon
+T38	ReactionOrProcess 1417 1428	degradation
+R1	CarriedOn Arg1:T38 Arg2:T37

@@ -1,0 +1,64 @@
+T1	Property 398 405	residue
+T2	ReactionOrProcess 280 289	reduction
+T3	Substrate 652 659	toluene
+T4	Substrate 916 923	toluene
+T5	Substrate 1202 1209	toluene
+T6	Substrate 1512 1519	Benzoyl
+T7	ReactionOrProcess 1534 1559	reductive dearomatization
+T8	Microbes 1791 1799	Azoarcus
+T9	Substrate 1830 1837	xylenes
+T10	ReactionOrProcess 1752 1760	purified
+R1	CarriedOn Arg1:T10 Arg2:T9
+T11	Microbes 1898 1902	Xyle
+T12	Substrate 1898 1904	Xylene
+T13	Substrate 1980 1987	xylenes
+T14	Substrate 1898 1905	Xylenes
+T15	Substrate 2043 2046	oil
+T16	Substrate 1929 1942	alkylbenzenes
+T17	Substrate 2098 2105	toluene
+T18	Substrate 2125 2133	m-xylene
+T19	ReactionOrProcess 2090 2097	degrade
+T20	Substrate 2250 2268	p-isopropyltoluene
+T21	Substrate 2274 2303	wide-spread plant hydrocarbon
+T22	Substrate 2292 2303	hydrocarbon
+T23	ReactionOrProcess 2181 2192	degradation
+R2	CarriedOn Arg1:T23 Arg2:T20
+R3	CarriedOn Arg1:T23 Arg2:T21
+R4	CarriedOn Arg1:T23 Arg2:T22
+T24	Substrate 2399 2406	toluene
+T25	Substrate 2358 2366	m-xylene
+T26	ReactionOrProcess 2343 2354	degradation
+T27	ReactionOrProcess 2333 2354	anaerobic degradation
+R5	CarriedOn Arg1:T26 Arg2:T24
+R6	CarriedOn Arg1:T26 Arg2:T25
+R7	CarriedOn Arg1:T27 Arg2:T24
+R8	CarriedOn Arg1:T27 Arg2:T25
+T28	ReactionOrProcess 2488 2499	degradation
+T29	Microbes 2765 2783	anaerobic bacteria
+T30	Substrate 2693 2701	o-xylene
+T31	Substrate 2706 2714	p-xylene
+T32	ReactionOrProcess 2678 2689	Degradation
+R9	CarriedOn Arg1:T32 Arg2:T29
+R10	CarriedOn Arg1:T32 Arg2:T30
+R11	CarriedOn Arg1:T32 Arg2:T31
+T33	ReactionOrProcess 3087 3096	oxidation
+T34	Substrate 3113 3131	p-isopropyltoluene
+T35	Property 3155 3167	denitrifying
+T36	ReactionOrProcess 3155 3167	denitrifying
+T37	Substrate 3354 3361	toluene
+T38	ReactionOrProcess 3354 3373	toluene degradation
+T39	ReactionOrProcess 3362 3373	degradation
+T40	Microbes 3483 3491	Azoarcus
+T41	Substrate 3439 3451	Ethylbenzene
+T42	Property 3470 3482	Denitrifying
+T43	ReactionOrProcess 3470 3482	Denitrifying
+T44	ReactionOrProcess 3668 3681	anaerobically
+T45	ReactionOrProcess 3648 3655	degrade
+T46	Substrate 3700 3712	Ethylbenzene
+T47	ReactionOrProcess 3713 3722	oxidation
+T48	Microbes 4039 4047	Azoarcus
+T49	Enzyme 3973 3999	Ethylbenzene dehydrogenase
+T50	Substrate 3973 3985	Ethylbenzene
+T51	Nutrient 4207 4224	electron acceptor
+T52	Substrate 4254 4266	ethylbenzene
+T53	ReactionOrProcess 4267 4278	degradation

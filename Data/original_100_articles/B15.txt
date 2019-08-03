@@ -1,0 +1,321 @@
+B15
+Characterization of a diesel-degrading bacterium, Pseudomonas aeruginosa IU5,
+isolated from oil-contaminated soil in Korea
+Ji Hye Hong1
+, Jaisoo Kim1
+, Ok Kyoung Choi1
+, Kyung-Suk Cho1,* and Hee Wook Ryu2
+1
+Department of Environmental Science and Engineering, Ewha Womans University, 11-1 Daehyun-dong, Seodaemun-gu,
+Seoul 120-750, Korea
+2
+Department of Environmental and Chemical Engineering, Soongsil University, 1-1 Sangdo-5-dong, Dongjak-gu, Seoul
+156-743, Korea
+*Author for correspondence: Tel.: +82-2-3277-2393, Fax: +82-2-3277-3275, E-mail: kscho@ewha.ac.kr
+Received 24 February 2004; accepted 13 July 2004
+Keywords: Biodegradation, bioremediation, diesel, petroleum hydrocarbons, Pseudomonas aeruginosa
+Summary
+A diesel-degrading bacterium (strain IU5) isolated from oil-contaminated soil was characterized in this study. Fatty
+acid and 16s rDNA sequence analysis identified IU5 as a strain of Pseudomonas aeruginosa, and growth curve
+experiments identified the bacterium’s optimum conditions as pH 7 and 30 C. P. aeruginosa IU5 degraded up to
+60% of applied diesel (8500 mg/kg) over 13 days in a soil-slurry phase. In addition, this strain was able to grow on
+many other petroleum hydrocarbons as sole carbon sources, including crude oil, gasoline, benzene, toluene, xylene,
+and even PAHs such as naphthalene, phenanthrene and pyrene. Therefore, P. aeruginosa IU5 may be useful for
+bioremediation of soils and groundwater contaminated with a variety of hydrocarbons.
+Introduction
+Diesel contains many highly concentrated toxic materials
+(Dillard et al. 1997; Gold-Bouchot et al. 1997), and
+diesel contamination can negatively influence soil
+microbes and plants, as well as contaminate groundwater,
+which may be used for drinking or agriculture.
+Because of this, a variety of methods have been
+developed to treat diesel contamination. While many
+of the established physical and chemical methods are
+efficient, they are also expensive and can cause recontamination
+by secondary contaminants.
+Bioremediation is the microbial degradation of
+organic pollutants such as petroleum in soil and
+groundwater. This technique has the benefits of high
+treatment efficiency, low cost, relatively quick action,
+in site and ex site application, and compatibility with
+other techniques. Nevertheless, the application of
+hydrocarbon-degrading bacteria in oil-contaminated
+sites does not guarantee to remove all components of
+crude oil because some components still remain difficult
+to degrade, such as alkanes of shorter and longer chains
+(<C10 and C20–C40) and polycyclic aromatic hydrocarbons
+(PAHs) (Yuste et al. 2000). So it is meaningful to
+find a new bacterial strain that can metabolize a broad
+range of the hydrocarbons contained in crude oil,
+especially the highly persistent components.
+Thus, since the discovery of new strain(s) and the
+finding of optimum conditions of diesel-degrading
+bacteria for the enhancement of microbial activity are
+vital to economically and effectively amelionating contaminated
+soils and groundwater, here we sought to
+isolate a diesel-degrading bacterium and examine its
+characteristics and abilities to degrade diesel and other
+petroleum hydrocarbons.
+Materials and methods
+Isolation of diesel-degrading bacteria
+This study used crude oil-contaminated soils as inocula
+for isolating diesel-degrading bacteria. Contaminated
+soil samples were collected from sites near a gas station
+in Incheon, Korea, and a gas station in Ulsan, Korea.
+For culture enrichment, we added 10 g contaminated
+soil and 2 ml diesel (v/v, 1%) in 200 ml Bushnell Haas
+(BH) medium. Samples were cultivated at 30 C and
+180 rev/min for 7 days, and the inoculum culture (5%,
+v/v) was transferred into 1% (v/v) diesel-added BH
+medium. Nine microbial strains (IU1, IU2, IU3, IU4,
+IU5, IU6, U1, U2 and U3) were distinguished based on
+morphological differences among the colonies on LB
+plates. IU5 was finally selected as the most active strain
+World Journal of Microbiology & Biotechnology (2005) 21: 381–384  Springer 2005
+DOI 10.1007/s11274-004-3630-1
+for diesel-degradation based on the relative activity
+(Figure 1).
+Identification of the most effective diesel-degrading
+bacterium
+Fatty acid and 16s rDNA analyses were performed to
+identify the isolated strain IU5. First, IU5 was phenotypically
+characterized by fatty acid methyl ester content
+(FAME) analysis using gas chromatography (Thompson
+et al. 1993), with the results analysed using a MIDI
+system (Kim et al. 2003). For the 16s rDNA analysis,
+genomic DNA was extracted with the alkaline lysis
+method, and 16s rDNA was amplified in PCR using the
+genomic DNA as template and bacterial universal
+primers, 341f (5¢-CCT ACG GGA GGC AGC AG-3¢)
+and 907r (5¢-CCC CGT CAA TTC ATT TGA GTT-3¢).
+The PCR reactions contained 1 ll template, 2.5 ll
+10·Buffer, 0.5 lg/ll BAS, 200 lM dNTP mixture,
+20 pmol primers (each), and 0.5 U/ll Taq polymerase
+(total volume: 25 ll). The reactions were preheated at
+95 C for 5 min, followed by 16 cycles of 95 C for
+1 min, annealing for 1 min (starting at 63 C and
+decreasing 1 C every second cycle), and 72 C for
+1 min. This was followed by 14 cycles of 95 C for
+1 min, 55 C for 1 min and 72 C for 1 min, with an
+additional 5 min at 72 C as a final extension step. The
+amplification products were purified using the PCR
+purification kit (QIAGEN GmbH, Hilden, Germany)
+and checked for expected product size (550 bp) by
+agarose gel electrophoresis (100 V, 25 min). The nucleotide
+sequence was established directly from the PCR
+product using primer T7. Species identification was
+made by comparison with GenBank database using
+Basic Local Alignment Search Tool (BLAST) analysis.
+Liquid culture on diesel and various petroleum
+hydrocarbons
+For measurement of diesel-degrading ability, 50 ll (1%,
+v/v) of inoculum and 50 ll (1%, v/v) of diesel (as a
+carbon source) were incubated with shaking (30 C and
+180 rev/min) in 4.90 ml BH media. To determine the
+maximum specific growth rates and maximum dieseldegrading
+rates, 12.5 ll of diesel was applied and all
+other conditions were maintained. To obtain the optimal
+growth conditions of IU5, 100 ll (2%) of IU5
+culture and 50 ll (1%) of diesel were added to 4.85 ml
+BH media and cultivated with mixing at 10, 20, and
+30 C, respectively. At each temperature, the sample pH
+was adjusted at 5, 6, 7 and 8 using phosphate buffer, and
+the diesel-degrading capacity was investigated by GC
+analysis of the total petroleum hydrocarbon (TPH)
+concentrations.
+To test potential degradation of other petroleum
+hydrocarbons by IU5, we examined the microbe’s
+growth characteristics on benzene, toluene, ethylbenzene
+and xylene (BTEX) (0.1% (v/v) of each), PAHs (naphthalene,
+phenanthrene and pyrene) (0.025% (w/w) of
+each), gasoline, diesel and crude oil (1.0% (v/v) of each).
+IU5 culture [1% (v/v)] was inoculated into each hydrocarbon
+medium, samples were cultivated at 30 C and
+180 rev/min for 72 or 144 h, and growth was measured
+by OD600 nm.
+Soil-slurry culture on diesel
+For diesel-degradation tests, soil was obtained from
+the campus at Ewha Woman’s University, Seoul,
+Korea. To equalize soil particles, the soil was airdried,
+passed through 850 and 600 lm sieves and
+oven-dried at 80 C for 24 h. Five grams of soil, 4 ml
+of IU5 culture and 50 ll of diesel were mixed, sealed
+and cultivated in incubator at 30 C. To extract the
+total petroleum hydrocarbons, 5 ml hexane was
+added to the culture solutions, three of which were
+used every 6 or 12 h for GC analysis and biomass
+measurement.
+Analysis of diesel and biomass
+TPH extracted into the hexane (upper) layer was mixed
+well, filtered and then analysed by GC (Hewlett Packard
+Series II 5890, FL, USA) with a flame ionization
+detector, using an HP-5 capillary column (30 m length,
+0.23 mm internal diameter and 2.5 lm film thickness).
+The GC program was set up as described in our previous
+study (Kim et al. 2003). External diesel in hexane was
+used for calibration, and the TPH standard was used as
+the internal standard (ASTM D5442 C12-C60 quantitative
+linearity standard, Supelco) (Bellefonte, PA, USA).
+Biomass was measured in the aqueous phase (lower
+layer) by monitoring attendance (OD) at 600 nm using a
+spectrophotometer (Milton-Roy Spectronic 20, USA).
+Time (h)
+0 20 40 60 80
+Relative activity (C/Co)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0 IU1
+ IU2
+ IU3
+ IU4
+ IU5
+ IU6
+U1
+U2
+U3
+Figure 1. Relative activity obtained from the calculations [(actual
+diesel conc.)/(initial diesel conc.)] used to compare the diesel-degrading
+efficiencies of all nine isolates.
+382 J.H. Hong et al.
+Results and discussion
+The diesel-degrading capabilities of all nine isolates were
+tested using the hexadecane (C16) reduction ratio as
+representing degradation of diesel compounds. Of the
+nine tested isolates, IU5 was best able to degrade diesel
+(Figure 1); when diesel was supplemented as a sole
+carbon source, the growth rate of IU5 was estimated as
+0.11 h)1
+, the diesel-degradation rate as 0.2 g g-cell)1 d)1
+(0.4 g l)1 d)1
+), and the growth yield as 0.25 g-cell
+g-diesel)1
+. This strain was classified as Pseudomonas
+aeruginosa based on MIDI results showing 97% homology
+(main cellular fatty acids: C 16:00, C 18:1) and 16s
+rDNA sequencing showing 98% homology. Also, five
+other isolated strains (IU1, IU2, IU4, IU6, and U2)
+were identified as Pseudomonas aeruginosa based on
+MIDI results. Our finding was consistent with a
+previous report which found that Pseudomonas sp. was
+the most degradative bacterium in a mixed bacterial
+consortium isolated from oil-contaminated soil samples
+(Rahman et al. 2002).
+We next examined the growth properties of this
+isolate on various petroleum hydrocarbons other than
+diesel (data not shown). We found that strain IU5 grew
+on crude oil equally as well as it grew on diesel, while it
+showed a slightly lower affinity for gasoline. In addition,
+this strain seemed to degrade many other hydrocarbons
+such as benzene, toluene, xylene, naphthalene, phenanthrene
+and pyrene, but not ethylbenzene. This result
+implied that a mixture of hydrocarbons stimulated the
+growth more than a single kind of hydrocarbon, due to
+the presence of more carbon sources. Especially in this
+study, we found a strain of P. aeruginosa capable of
+using pyrene, which has the most complex ring structure
+among the PAHs of crude oil, as a unique carbon source
+in pure culture.
+Time (d)
+0 2 4 6 8 10 12 14
+Diesel concentration (mg/g soil)
+0
+2
+4
+6
+8
+10
+Without inoculation
+Inoculated with IU5
+Figure 2. Diesel degradation by strain IU5 in diesel-contaminated soil.
+c15
+Counts
+0
+5 10 15 20 25 30 35 40
+c9 c10 c11 c12
+c13
+c14 c16
+c17
+c18
+c19
+c20
+c21
+c22
+c23
+c24
+c25
+c26
+120000
+100000
+80000
+60000
+40000
+20000
+(a)
+c10 c11
+c12
+c13
+c14
+c15 c17
+c16 c18
+120000
+100000
+80000
+40000
+60000
+20000
+Counts
+c21
+5 10 15 20 25 30 35 40
+0
+(b)
+c19
+c23
+c24
+ c25
+c22
+c26
+c20
+Retention time (min)
+Retention time (min)
+Abundance Abundance
+Figure 3. Gas chromatograph of diesel extracted from the soil inoculated with strain IU5; (a) day 0, (b) day 13.
+Diesel-degrading bacterium IU5 383
+Although a previous report mentioned that P. aeruginosa
+can use a large variety of carbon sources (Holloway
+1996), not all strains can grow on such a broad range
+of hydrocarbons. For example, P. aeruginosa RR1
+isolated from an oil-contaminated site could not utilize
+benzene, toluene and PAHs (naphthalene, phenanthrene,
+and pyrene) as a sole carbon source (Yuste et al. 2000),
+and P. aeruginosa CM323 obtained from a hydrocarbonpolluted
+subsoil could not grow on benzene and xylene,
+but on toluene and ethylbenzene (not tested with PAHs)
+(Cavalca et al. 2000). Thus, the ability to use a broad
+range of hydrocarbons would differentiate this strain as
+specific, even within the same species.
+Because microbial activity is of paramount importance
+to effective bioremediation, we examined the
+relative activities of IU5 under different temperature
+and pH conditions (data not shown). We found that the
+optimum condition for IU5 diesel-degradation was
+30 C and pH 7, which is similar to the optimum
+conditions of a previously reported crude oil-degrading
+consortium (30 C and pH 7.5) (Rahman et al. 2002). P.
+aeruginosa IU5 showed 97% activity at 20 C and 74%
+activity at pH 5, suggesting that IU5 maintains a
+relatively high activity even under acidic conditions and
+different temperatures. Otherwise, this strain was restrained
+with 10% activity at 10 C and with 19%
+activity at pH 8.
+The IU5-based degradation of diesel in diesel-contaminated
+soil was examined in a soil-slurry system for
+13 days (Figure 2). During this time period, IU5 could
+degrade a variety of aliphatic hydrocarbons in the soilslurry
+phase, with about 60% removal of applied diesel.
+Comparison between the gas chromatograms from
+day 0 and day 13 (Figure 3a, b) indicated that many
+aliphatic hydrocarbons (C10–C24) were removed, regardless
+of their chain lengths.

@@ -1,0 +1,39 @@
+T2	ReactionOrProcess 453 486	anaerobic hydrocarbon degradation
+T3	Environment 518 535	Deep-sea sediment	
+T4	Substrate 599 602	oil
+T5	Environment 808 825	deep-sea sediment
+T6	Environment 847 852	water
+T7	Environment 909 924	capped sediment
+T9	ReactionOrProcess 1699 1713	DNA extraction
+T10	ReactionOrProcess 2088 2102	DNA EXTRACTION
+T11	Environment 2307 2311	Soil
+T12	ReactionOrProcess 2264 2273	extracted
+T13	ReactionOrProcess 2316 2325	Isolation
+T17	Nutrient 2606 2610	agar
+T19	Microbes 4874 4910	Desulfatibacillum alkenivorans AK-01
+T20	Microbes 5127 5146	Deltaproteobacteria
+T21	Environment 4773 4779	marine
+T22	Substrate 5086 5106	aromatic hydrocarbon
+T23	Substrate 4932 4940	n-alkane
+T24	Substrate 4658 4670	hydrocarbons
+T25	Substrate 4654 4657	oil
+T26	Substrate 4945 4953	n-alkene
+T27	Property 4914 4930	sulfate-reducing
+T28	Nutrient 4698 4704	carbon
+T29	Environment 5191 5216	FUNCTIONAL GENES Sediment
+T30	ReactionOrProcess 5170 5173	PCR	
+R1	OccursIn_No Arg1:T12 Arg2:T11
+R2	OccursIn_No Arg1:T13 Arg2:T11
+R8	Of Arg1:T19 Arg2:T27
+R20	ActOn Arg1:T20 Arg2:T22
+T31	Substrate 138 145	DWH oil
+T1	ReactionOrProcess 1718 1738	metagenomic analysis
+T8	ReactionOrProcess 1833 1853	metabolomic analysis
+T14	ReactionOrProcess 2578 2597	gel electrophoresis
+T15	ReactionOrProcess 2638 2664	spectrophotometer analysis
+T16	ReactionOrProcess 2822 2848	high-throughput sequencing
+T18	Microbes 4507 4534	Alcanivorax borkumensis SK2
+T32	Microbes 4611 4639	aerobic gammaproteobacterium
+T33	Nutrient 4709 4715	energy
+T34	Microbes 4964 4984	Deltaproteobacterium
+T35	Microbes 5035 5066	Geobacter metallireducens GS-15

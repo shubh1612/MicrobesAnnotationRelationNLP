@@ -1,0 +1,140 @@
+T1	Microbes 132 143	strain HxN1
+T2	Substrate 65 79	cyclic alkanes
+T3	Microbes 652 656	PbN1
+T4	Microbes 661 665	EbN1
+T5	Microbes 557 568	strain HxN1
+T6	Substrate 603 616	alkylbenzenes
+T7	ReactionOrProcess 617 626	degrading
+T8	Microbes 728 736	Azoarcus
+T9	Microbes 932 943	Strain OcN1
+T10	Microbes 1058 1071	Dechloromonas
+T11	ReactionOrProcess 1021 1050	anaerobic benzene degradation
+T12	Microbes 1240 1256	γ-Proteobacteria
+T13	Substrate 1189 1196	nitrate
+T14	ReactionOrProcess 1176 1185	reduction
+T15	ReactionOrProcess 1110 1153	Anaerobic oxidation of long-chain n-alkanes
+T16	Microbes 1282 1293	strain HdN1
+T17	Microbes 1343 1355	Marinobacter
+T18	ReactionOrProcess 1455 1467	denitrifying
+T19	Microbes 1589 1605	γ-Proteobacteria
+T20	Substrate 1626 1635	n-alkanes
+T21	ReactionOrProcess 1618 1625	oxidize
+T22	Microbes 1729 1740	strain HdN1
+T23	Microbes 1811 1827	γ-Proteobacteria
+T24	Microbes 2040 2054	Proteobacteria
+T25	Environment 1889 1905	nitrate-reducing
+T26	ReactionOrProcess 1906 1916	enrichment
+T27	Nutrient 1965 1971	carbon
+T28	Microbes 2165 2176	strain HdN1
+T29	ReactionOrProcess 2086 2090	DGGE
+T30	ReactionOrProcess 2122 2164	anaerobic alkane-degrading nitrate reducer
+T31	Environment 2296 2312	nitrate-reducing
+T32	Substrate 2239 2253	cyclic alkanes
+T33	ReactionOrProcess 2203 2222	Anaerobic oxidation
+T34	Microbes 2510 2529	enrichment cultures
+T35	Environment 2479 2495	nitrate-reducing
+T36	Environment 2546 2580	diesel fuel-contaminated sediments
+T37	Environment 2418 2438	anaerobic conditions
+T38	ReactionOrProcess 2461 2472	biodegraded
+T39	Substrate 2616 2628	cycloalkanes
+T40	ReactionOrProcess 2689 2703	biodegradation
+T41	Microbes 2972 2983	strain HxN1
+T42	Environment 2955 2971	nitrate-reducing
+T43	Environment 3125 3141	nitrate-reducing
+T44	Substrate 3009 3018	n-alkanes
+T45	Substrate 3024 3033	crude oil
+T46	Substrate 3106 3118	cycloalkanes
+T47	Substrate 2905 2917	cycloalkanes
+T48	Substrate 2925 2937	cyclopentane
+T49	ReactionOrProcess 2984 3003	grown anaerobically
+T50	ReactionOrProcess 2882 2901	anaerobic oxidation
+T51	ReactionOrProcess 3081 3102	anaerobic degradation
+T52	Microbes 3329 3345	Planctomycetales
+T53	Environment 3232 3248	nitrate-reducing
+T54	ReactionOrProcess 3189 3210	anaerobic degradation
+T55	Microbes 3352 3368	enriched culture
+T56	Microbes 3383 3404	denitrifying bacteria
+T57	Microbes 3530 3543	Geobacter spp
+T58	ReactionOrProcess 3405 3424	grown anaerobically
+T59	Nutrient 3454 3460	carbon
+T60	ReactionOrProcess 3628 3641	hybridization
+T61	Microbes 3752 3762	consortium
+T62	Substrate 3714 3721	nitrite
+T63	Nutrient 3793 3801	ammonium
+T64	Microbes 3865 3881	Planctomycetales
+T65	Substrate 3961 3968	nitrite
+T66	ReactionOrProcess 3973 4001	anaerobic ammonium oxidation
+R1	ActOn Arg1:T1 Arg2:T2
+R2	ActOn Arg1:T3 Arg2:T6
+R3	ActOn Arg1:T4 Arg2:T6
+R4	ActOn Arg1:T5 Arg2:T6
+R5	CarriedOn Arg1:T7 Arg2:T3
+R6	CarriedOn Arg1:T7 Arg2:T4
+R7	CarriedOn Arg1:T7 Arg2:T5
+R8	CarriedOn Arg1:T7 Arg2:T6
+R9	CarriedOn Arg1:T11 Arg2:T9
+R10	CarriedOn Arg1:T11 Arg2:T10
+R11	ActOn Arg1:T12 Arg2:T13
+R12	CarriedOn Arg1:T14 Arg2:T12
+R13	CarriedOn Arg1:T15 Arg2:T12
+R14	CarriedOn Arg1:T14 Arg2:T13
+R15	CarriedOn Arg1:T15 Arg2:T13
+R16	ActOn Arg1:T19 Arg2:T20
+R17	CarriedOn Arg1:T21 Arg2:T19
+R18	CarriedOn Arg1:T21 Arg2:T20
+R19	FoundIn Arg1:T24 Arg2:T25
+R20	CarriedOn Arg1:T26 Arg2:T24
+R21	OccursIn Arg1:T26 Arg2:T25
+R22	CarriedOn Arg1:T29 Arg2:T28
+R23	CarriedOn Arg1:T30 Arg2:T28
+R24	CarriedOn Arg1:T33 Arg2:T32
+R25	OccursIn Arg1:T33 Arg2:T31
+R26	FoundIn Arg1:T34 Arg2:T35
+R27	FoundIn Arg1:T34 Arg2:T36
+R28	FoundIn Arg1:T34 Arg2:T37
+R29	CarriedOn Arg1:T38 Arg2:T34
+R30	OccursIn Arg1:T38 Arg2:T35
+R31	OccursIn Arg1:T38 Arg2:T36
+R32	OccursIn Arg1:T38 Arg2:T37
+R33	CarriedOn Arg1:T40 Arg2:T39
+R34	FoundIn Arg1:T41 Arg2:T42
+R35	FoundIn Arg1:T41 Arg2:T43
+R36	ActOn Arg1:T41 Arg2:T44
+R37	ActOn Arg1:T41 Arg2:T45
+R38	ActOn Arg1:T41 Arg2:T46
+R39	ActOn Arg1:T41 Arg2:T47
+R40	ActOn Arg1:T41 Arg2:T48
+R41	CarriedOn Arg1:T49 Arg2:T41
+R42	CarriedOn Arg1:T50 Arg2:T41
+R43	CarriedOn Arg1:T51 Arg2:T41
+R44	CarriedOn Arg1:T49 Arg2:T44
+R45	CarriedOn Arg1:T49 Arg2:T45
+R46	CarriedOn Arg1:T49 Arg2:T46
+R47	CarriedOn Arg1:T49 Arg2:T47
+R48	CarriedOn Arg1:T49 Arg2:T48
+R49	CarriedOn Arg1:T50 Arg2:T44
+R50	CarriedOn Arg1:T50 Arg2:T45
+R51	CarriedOn Arg1:T50 Arg2:T46
+R52	CarriedOn Arg1:T50 Arg2:T47
+R53	CarriedOn Arg1:T50 Arg2:T48
+R54	CarriedOn Arg1:T51 Arg2:T44
+R55	CarriedOn Arg1:T51 Arg2:T45
+R56	CarriedOn Arg1:T51 Arg2:T46
+R57	CarriedOn Arg1:T51 Arg2:T47
+R58	CarriedOn Arg1:T51 Arg2:T48
+R59	OccursIn Arg1:T49 Arg2:T42
+R60	OccursIn Arg1:T49 Arg2:T43
+R61	OccursIn Arg1:T50 Arg2:T42
+R62	OccursIn Arg1:T50 Arg2:T43
+R63	OccursIn Arg1:T51 Arg2:T42
+R64	OccursIn Arg1:T51 Arg2:T43
+R65	FoundIn Arg1:T52 Arg2:T53
+R66	CarriedOn Arg1:T54 Arg2:T52
+R67	OccursIn Arg1:T54 Arg2:T53
+R68	CarriedOn Arg1:T58 Arg2:T55
+R69	CarriedOn Arg1:T58 Arg2:T56
+R70	CarriedOn Arg1:T58 Arg2:T57
+R71	ActOn Arg1:T61 Arg2:T62
+R72	ActOn Arg1:T64 Arg2:T65
+R73	CarriedOn Arg1:T66 Arg2:T64
+R74	CarriedOn Arg1:T66 Arg2:T65

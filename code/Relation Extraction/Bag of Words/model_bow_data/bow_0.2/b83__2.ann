@@ -1,0 +1,45 @@
+T1	ReactionOrProcess 296 299	PCR
+T2	Environment 583 587	soil
+T3	Environment 710 722	soil samples
+T4	Environment 676 680	soil
+T5	Environment 710 714	soil
+T6	ReactionOrProcess 689 698	extracted
+T7	Substrate 915 920	MgCl2
+T8	Substrate 878 886	Tris-HCl
+T9	Substrate 903 906	KCl
+T10	ReactionOrProcess 835 838	PCR
+T11	Environment 1403 1407	soil
+T12	ReactionOrProcess 1376 1379	PCR
+T13	ReactionOrProcess 1858 1868	extraction
+T14	Nutrient 1942 1948	carbon
+T15	Substrate 2078 2087	carbazole
+T16	Substrate 1978 1987	carbazole
+T17	ReactionOrProcess 2116 2124	Purified
+T18	Microbes 2412 2424	Sphingomonas
+T19	Nutrient 2470 2476	carbon
+T20	ReactionOrProcess 2946 2956	incubation
+T21	ReactionOrProcess 2899 2902	PCR
+T22	Substrate 2974 2979	MgCl2
+T23	Property 2980 2993	concentration
+T24	Microbes 3205 3217	Sphingomonas
+T25	Substrate 3050 3065	Catabolic Genes
+T26	Substrate 3246 3255	carbazole
+T27	Substrate 3050 3065	Catabolic Genes
+T28	ReactionOrProcess 3029 3038	Isolation
+R1	CarriedOn Arg1:T28 Arg2:T24
+R2	CarriedOn Arg1:T28 Arg2:T25
+R3	CarriedOn Arg1:T28 Arg2:T26
+R4	CarriedOn Arg1:T28 Arg2:T27
+T29	Substrate 3423 3432	carbazole
+T30	Microbes 3909 3925	Escherichia coli
+T31	ReactionOrProcess 3967 3977	replicates
+T32	ReactionOrProcess 4878 4884	Cloned
+T33	ReactionOrProcess 4920 4926	cloned
+T34	Microbes 5169 5181	Sphingomonas
+T35	Property 5207 5215	aromatic
+T36	Substrate 5650 5668	aromatic compounds
+T37	Substrate 5650 5668	aromatic compounds
+T38	Property 5650 5658	aromatic
+T39	ReactionOrProcess 5635 5646	degradation
+R5	CarriedOn Arg1:T39 Arg2:T36
+R6	CarriedOn Arg1:T39 Arg2:T37

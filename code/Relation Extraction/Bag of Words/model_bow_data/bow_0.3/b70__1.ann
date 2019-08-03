@@ -1,0 +1,66 @@
+T1	Substrate 93 102	petroleum
+T2	Substrate 14 25	hydrocarbon
+T3	Substrate 83 102	Brazilian petroleum
+T4	Substrate 425 436	hydrocarbon
+T5	Substrate 415 436	potential hydrocarbon
+T6	Microbes 624 632	inoculum
+T7	Substrate 559 568	petroleum
+T8	Substrate 547 568	biodegraded petroleum
+T9	ReactionOrProcess 547 558	biodegraded
+T10	ReactionOrProcess 517 528	enrichments
+T11	Substrate 713 723	hexadecane
+T12	ReactionOrProcess 713 738	hexadecane biodegradation
+T13	ReactionOrProcess 724 738	biodegradation
+T14	Substrate 861 871	hexadecane
+T15	ReactionOrProcess 861 886	hexadecane biodegradation
+T16	ReactionOrProcess 872 886	biodegradation
+T17	Substrate 1366 1385	degrading petroleum
+T18	Substrate 1376 1385	petroleum
+T19	Substrate 1386 1398	hydrocarbons
+T20	Substrate 1366 1398	degrading petroleum hydrocarbons
+T21	Substrate 1386 1398	hydrocarbons
+T22	Substrate 1376 1398	petroleum hydrocarbons
+T23	ReactionOrProcess 1366 1375	degrading
+T24	Property 1735 1745	pollutants
+T25	ReactionOrProcess 1707 1716	degrading
+T26	ReactionOrProcess 1615 1629	biodegradation
+T27	Property 2015 2020	toxic
+T28	Property 2270 2289	pollutant-degrading
+T29	Property 2119 2129	pollutants
+T30	ReactionOrProcess 2090 2101	degradation
+T31	ReactionOrProcess 2545 2552	cloning
+T32	Substrate 3171 3180	petroleum
+T33	Substrate 3329 3354	microbial enhancement oil
+T34	Substrate 3351 3354	oil
+T35	ReactionOrProcess 3310 3324	bioremediation
+R1	CarriedOn Arg1:T35 Arg2:T33
+R2	CarriedOn Arg1:T35 Arg2:T34
+T36	Substrate 3529 3549	efﬁcient hydrocarbon
+T37	Substrate 3485 3494	petroleum
+T38	Substrate 3538 3549	hydrocarbon
+T39	ReactionOrProcess 3505 3516	enrichments
+T40	Substrate 3607 3630	geological settings Oil
+T41	Substrate 3627 3630	Oil
+T42	Microbes 3826 3834	inoculum
+T43	ReactionOrProcess 3894 3905	biodegraded
+T44	ReactionOrProcess 3853 3864	enrichments
+T45	ReactionOrProcess 3914 3928	biodegradation
+T46	Substrate 4118 4130	hydrocarbons
+T47	Substrate 4320 4332	hydrocarbons
+T48	Substrate 4314 4332	light hydrocarbons
+T49	Substrate 4314 4332	light hydrocarbons
+T50	Substrate 4118 4130	hydrocarbons
+T51	Substrate 4320 4332	hydrocarbons
+T52	Substrate 4272 4275	oil
+T53	Property 4051 4062	temperature
+T54	ReactionOrProcess 4168 4182	biodegradation
+R3	CarriedOn Arg1:T54 Arg2:T48
+R4	CarriedOn Arg1:T54 Arg2:T49
+T55	Environment 4537 4542	water
+T56	Substrate 4614 4623	petroleum
+T57	Substrate 4676 4685	petroleum
+T58	Substrate 4666 4685	Brazilian petroleum
+T59	ReactionOrProcess 4755 4766	enrichments
+T60	ReactionOrProcess 4776 4786	extraction
+T61	ReactionOrProcess 4855 4866	enrichments
+T62	ReactionOrProcess 4772 4786	DNA extraction

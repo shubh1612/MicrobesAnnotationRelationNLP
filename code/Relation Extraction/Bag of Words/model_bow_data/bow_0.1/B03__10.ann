@@ -1,0 +1,24 @@
+T1	Substrate 83 90	benzene
+T2	ReactionOrProcess 91 102	degradation
+T3	Environment 190 199	sediments
+T4	Environment 169 189	contaminated aquifer
+T5	Environment 182 189	aquifer
+T6	Substrate 394 401	benzene
+T7	Substrate 384 401	anaerobic benzene
+T8	Property 259 270	contaminant
+T9	ReactionOrProcess 314 335	phylogenetic analyses
+T10	ReactionOrProcess 259 282	contaminant degradation
+T11	ReactionOrProcess 145 165	phylogenetic studies
+T12	ReactionOrProcess 384 413	anaerobic benzene degradation
+T13	ReactionOrProcess 271 282	degradation
+T14	ReactionOrProcess 402 413	degradation
+R1	CarriedOn Arg1:T10 Arg2:T6
+R2	CarriedOn Arg1:T10 Arg2:T7
+R3	CarriedOn Arg1:T11 Arg2:T6
+R4	CarriedOn Arg1:T11 Arg2:T7
+R5	CarriedOn Arg1:T12 Arg2:T6
+R6	CarriedOn Arg1:T12 Arg2:T7
+R7	CarriedOn Arg1:T13 Arg2:T6
+R8	CarriedOn Arg1:T13 Arg2:T7
+R9	CarriedOn Arg1:T14 Arg2:T6
+R10	CarriedOn Arg1:T14 Arg2:T7

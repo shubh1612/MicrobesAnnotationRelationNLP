@@ -1,0 +1,44 @@
+T1	Environment 25 36	quartz sand
+T2	Environment 113 117	soil
+T3	Environment 80 85	water
+T4	Environment 118 129	vadose zone
+T5	Property 86 96	saturation
+T6	Property 71 79	residual
+T7	Environment 211 220	microcosm
+T8	Environment 163 169	porous
+T9	Environment 319 324	Water	
+T10	Property 374 381	drained
+T11	Environment 451 457	porous
+T12	Property 445 450	inert
+T13	Environment 565 571	porous
+T14	Substrate 599 607	gasoline
+T15	Property 559 564	inert
+T16	Environment 689 700	Quartz sand
+T17	Environment 676 682	Porous	
+T18	Environment 871 880	fine sand
+T19	Environment 1034 1040	porous
+T20	Substrate 953 977	ethanol-amended gasoline
+T21	Property 1119 1130	Contaminant
+T22	Property 1287 1299	Contaminants
+T23	ReactionOrProcess 1373 1387	Biodegradation	
+T24	Substrate 1623 1631	gasoline
+T25	Substrate 1646 1670	ethanol-blended gasoline
+T26	Property 1717 1728	contaminant
+T27	Environment 1882 1887	soils
+T28	Substrate 1851 1867	gasoline–ethanol
+T29	Environment 2066 2070	soil
+T30	Environment 1986 1991	soils
+T31	Substrate 2119 2126	ethanol
+T32	Substrate 2094 2102	gasoline
+T33	Substrate 2003 2027	ethanol-amended gasoline
+T34	Property 2039 2062	longer-lasting toxicity
+T35	Environment 2167 2171	soil
+T36	Substrate 2191 2199	gasoline
+T37	Environment 2277 2281	soil
+T38	Environment 2376 2380	soil
+T39	Environment 2347 2366	uncontaminated soil
+T40	Substrate 2301 2309	gasoline
+T41	Substrate 2314 2338	ethanol-amended gasoline
+T42	Environment 2432 2452	uncontaminated soils
+T43	Environment 2592 2596	soil
+T44	Environment 2542 2562	uncontaminated soils

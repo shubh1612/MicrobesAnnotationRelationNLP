@@ -1,0 +1,72 @@
+T1	Substrate 232 239	methane
+T2	Microbes 554 561	archaea
+T3	Microbes 671 685	Desulfosarcina
+T4	Environment 471 486	anoxic sediment
+T5	Environment 502 508	marine
+T6	ReactionOrProcess 405 418	hybridization
+T7	Environment 903 912	sediments
+T8	Substrate 731 763	volume-related anaerobic methane
+T9	Substrate 865 872	methane
+T10	ReactionOrProcess 764 773	oxidation
+T11	ReactionOrProcess 873 882	oxidation
+T12	Environment 1029 1037	sediment
+T13	Substrate 1276 1283	methane
+T14	ReactionOrProcess 1284 1293	oxidation
+T15	Property 1648 1659	temperature
+T16	Property 1563 1572	dissolved
+T17	Property 1573 1586	concentration
+T18	Property 1672 1685	concentration
+T19	Substrate 1896 1903	methane
+T20	Property 1833 1847	concentrations
+T21	ReactionOrProcess 1904 1913	oxidation
+T22	ReactionOrProcess 1789 1800	utilization
+T23	Substrate 1972 1979	methane
+T24	Substrate 2150 2158	methanol
+T25	Substrate 2232 2239	methane
+T26	ReactionOrProcess 2240 2249	oxidation
+T27	ReactionOrProcess 2116 2130	methanogenesis
+T28	Property 2332 2346	concentrations
+T29	Property 2606 2615	dissolved
+T30	Property 2616 2630	concentrations
+T31	Property 2678 2687	dissolved
+T32	Property 2884 2893	dissolved
+T33	Property 2839 2852	concentration
+T34	Property 2768 2782	concentrations
+T35	Property 2903 2917	concentrations
+T36	ReactionOrProcess 3000 3008	reducing
+T37	ReactionOrProcess 3336 3344	reducing
+T38	ReactionOrProcess 3492 3500	reducing
+T39	Substrate 3736 3743	methane
+T40	ReactionOrProcess 3675 3683	reducing
+T41	ReactionOrProcess 3815 3820	redox
+T42	ReactionOrProcess 4117 4122	redox
+T43	Property 4419 4433	concentrations
+T44	ReactionOrProcess 4230 4246	electron shuttle
+T45	Substrate 5260 5267	methane
+T46	ReactionOrProcess 5212 5228	electron shuttle
+T47	ReactionOrProcess 5325 5344	anaerobic oxidation
+R1	FoundIn Arg1:T2 Arg2:T4
+R2	FoundIn Arg1:T2 Arg2:T5
+R3	FoundIn Arg1:T3 Arg2:T4
+R4	FoundIn Arg1:T3 Arg2:T5
+R5	CarriedOn Arg1:T6 Arg2:T2
+R6	CarriedOn Arg1:T6 Arg2:T3
+R7	OccursIn Arg1:T6 Arg2:T4
+R8	OccursIn Arg1:T6 Arg2:T5
+R9	CarriedOn Arg1:T10 Arg2:T8
+R10	CarriedOn Arg1:T10 Arg2:T9
+R11	CarriedOn Arg1:T11 Arg2:T8
+R12	CarriedOn Arg1:T11 Arg2:T9
+R13	OccursIn Arg1:T10 Arg2:T7
+R14	OccursIn Arg1:T11 Arg2:T7
+R15	CarriedOn Arg1:T14 Arg2:T13
+R16	CarriedOn Arg1:T21 Arg2:T19
+R17	CarriedOn Arg1:T22 Arg2:T19
+R18	CarriedOn Arg1:T26 Arg2:T24
+R19	CarriedOn Arg1:T26 Arg2:T25
+R20	CarriedOn Arg1:T27 Arg2:T24
+R21	CarriedOn Arg1:T27 Arg2:T25
+R22	CarriedOn Arg1:T40 Arg2:T39
+R23	CarriedOn Arg1:T41 Arg2:T39
+R24	CarriedOn Arg1:T46 Arg2:T45
+R25	CarriedOn Arg1:T47 Arg2:T45

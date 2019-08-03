@@ -1,0 +1,28 @@
+T1	Environment 86 106	anaerobic conditions
+T2	ReactionOrProcess 187 201	biodegradation
+T3	Environment 462 486	aerobic activated sludge
+T4	Property 427 443	strict anaerobes
+T5	ReactionOrProcess 566 575	reduction
+T6	ReactionOrProcess 514 524	reductions
+T7	Microbes 702 718	aerobic bacteria
+T8	ReactionOrProcess 817 830	Anaerobically
+T9	ReactionOrProcess 831 840	incubated
+T10	Substrate 958 978	aromatic hydrocarbon
+T11	Substrate 967 978	hydrocarbon
+T12	Property 958 966	aromatic
+T13	ReactionOrProcess 887 898	aerobically
+T14	ReactionOrProcess 1188 1199	incubations
+T15	ReactionOrProcess 1083 1094	aerobically
+T16	ReactionOrProcess 1309 1322	Anaerobically
+T17	ReactionOrProcess 1323 1332	incubated
+T18	Microbes 1466 1479	Acinetobacter
+T19	ReactionOrProcess 1439 1450	Aerobically
+R1	CarriedOn Arg1:T19 Arg2:T18
+T20	Nutrient 1632 1638	oxygen
+T21	Substrate 1711 1718	nitrate
+T22	Microbes 1862 1875	Acinetobacter
+T23	ReactionOrProcess 2014 2020	Washed
+T24	ReactionOrProcess 2056 2067	aerobically
+T25	Environment 2178 2198	anaerobic conditions
+T26	Microbes 2776 2794	anaerobic bacteria
+T27	Nutrient 2648 2654	oxygen

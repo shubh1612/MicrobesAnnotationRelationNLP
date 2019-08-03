@@ -1,0 +1,30 @@
+T1	Substrate 244 251	benzene
+T2	Nutrient 286 303	electron acceptor
+T3	Microbes 883 893	consortium
+T4	Microbes 1043 1053	Nitrospira
+T5	Microbes 1162 1178	Desulfotomaculum
+T6	Microbes 1244 1261	Cryptanaerobacter
+T7	Microbes 1266 1279	Pelotomaculum
+T8	Microbes 1196 1210	Peptococcaceae
+T9	Microbes 1133 1144	clostridium
+T10	Microbes 1344 1360	Desulfotomaculum
+T11	Microbes 1543 1553	Syntrophus
+T12	Microbes 1397 1416	Deltaproteobacteria
+T13	Microbes 1624 1643	Deltaproteobacteria
+T14	ReactionOrProcess 1681 1702	phylogenetic analyses
+T15	Microbes 1984 2003	enrichment cultures
+T16	Microbes 2120 2128	inoculum
+T17	Environment 2043 2070	sulfate-reducing conditions
+T18	Environment 1937 1947	microcosms
+T19	Environment 2085 2095	microcosms
+T20	Environment 1932 1936	sand
+T21	Environment 2102 2106	sand
+T22	Property 1937 1983	microcosms Several anaerobic benzene-degrading
+T23	Property 2043 2059	sulfate-reducing
+T24	ReactionOrProcess 1984 1994	enrichment
+T25	Substrate 2245 2252	benzene
+T26	Environment 2427 2431	sand
+T27	Substrate 2594 2601	benzene
+T28	ReactionOrProcess 2585 2593	degraded
+T29	Microbes 2688 2698	consortium
+T30	Microbes 2993 3003	consortium

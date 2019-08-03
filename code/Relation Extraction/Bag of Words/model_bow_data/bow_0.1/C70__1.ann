@@ -1,0 +1,69 @@
+T1	Substrate 324 335	hydrocarbon
+T2	Substrate 314 335	potential hydrocarbon
+T3	Microbes 523 531	inoculum
+T4	Substrate 458 467	petroleum
+T5	Substrate 446 467	biodegraded petroleum
+T6	ReactionOrProcess 446 457	biodegraded
+T7	ReactionOrProcess 416 427	enrichments
+T8	Substrate 612 622	hexadecane
+T9	ReactionOrProcess 612 637	hexadecane biodegradation
+T10	ReactionOrProcess 623 637	biodegradation
+T11	Substrate 760 770	hexadecane
+T12	ReactionOrProcess 760 785	hexadecane biodegradation
+T13	ReactionOrProcess 771 785	biodegradation
+T14	Substrate 1266 1285	degrading petroleum
+T15	Substrate 1276 1285	petroleum
+T16	Substrate 1286 1298	hydrocarbons
+T17	Substrate 1266 1298	degrading petroleum hydrocarbons
+T18	Substrate 1286 1298	hydrocarbons
+T19	Substrate 1276 1298	petroleum hydrocarbons
+T20	ReactionOrProcess 1266 1275	degrading
+T21	Property 1636 1646	pollutants
+T22	ReactionOrProcess 1608 1617	degrading
+T23	ReactionOrProcess 1515 1529	biodegradation
+T24	Property 1916 1921	toxic
+T25	Property 2171 2190	pollutant-degrading
+T26	Property 2020 2030	pollutants
+T27	ReactionOrProcess 1991 2002	degradation
+T28	ReactionOrProcess 2446 2453	cloning
+T29	Substrate 3072 3081	petroleum
+T30	Substrate 3230 3255	microbial enhancement oil
+T31	Substrate 3252 3255	oil
+T32	ReactionOrProcess 3211 3225	bioremediation
+R1	CarriedOn Arg1:T32 Arg2:T30
+R2	CarriedOn Arg1:T32 Arg2:T31
+T33	Substrate 3386 3395	petroleum
+T34	Substrate 3430 3451	efficient hydrocarbon
+T35	Substrate 3440 3451	hydrocarbon
+T36	ReactionOrProcess 3406 3417	enrichments
+T37	Substrate 3509 3532	geological settings Oil
+T38	Substrate 3529 3532	Oil
+T39	Microbes 3728 3736	inoculum
+T40	ReactionOrProcess 3797 3808	biodegraded
+T41	ReactionOrProcess 3755 3766	enrichments
+T42	ReactionOrProcess 3817 3831	biodegradation
+T43	Substrate 4022 4034	hydrocarbons
+T44	Substrate 4224 4236	hydrocarbons
+T45	Substrate 4218 4236	light hydrocarbons
+T46	Substrate 4218 4236	light hydrocarbons
+T47	Substrate 4022 4034	hydrocarbons
+T48	Substrate 4224 4236	hydrocarbons
+T49	Substrate 4176 4179	oil
+T50	Property 3954 3965	temperature
+T51	ReactionOrProcess 4072 4086	biodegradation
+R3	CarriedOn Arg1:T51 Arg2:T45
+R4	CarriedOn Arg1:T51 Arg2:T46
+T52	Environment 4442 4447	water
+T53	Substrate 4519 4528	petroleum
+T54	Substrate 4581 4590	petroleum
+T55	Substrate 4571 4590	Brazilian petroleum
+T56	Substrate 4674 4677	oil
+T57	Substrate 4747 4750	oil
+T58	Enzyme 4759 4763	Noti
+T59	Substrate 4818 4829	isoprenoids
+T60	Substrate 4781 4790	n-alkanes
+T61	ReactionOrProcess 4844 4867	moderate biodegradation
+T62	ReactionOrProcess 4853 4867	biodegradation
+T63	Environment 4984 4989	water
+T64	ReactionOrProcess 4932 4943	enrichments
+T65	ReactionOrProcess 4967 4978	homogenized

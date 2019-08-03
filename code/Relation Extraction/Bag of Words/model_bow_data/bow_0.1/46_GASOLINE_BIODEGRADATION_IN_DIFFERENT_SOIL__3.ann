@@ -1,0 +1,94 @@
+T1	Substrate 56 64	n-nonane
+T2	Substrate 33 40	toluene
+T3	Substrate 96 107	n-tridecane
+T4	Substrate 73 83	n-undecane
+T5	Substrate 42 54	ethylbenzene
+T6	Property 132 141	retention
+T7	ReactionOrProcess 132 141	retention
+T8	Microbes 414 425	alcaligenes
+T9	Microbes 376 397	Klebsiella pneumoniae
+T10	Microbes 354 374	Burkholderia cepacia
+T11	Microbes 402 425	Pseudomonas alcaligenes
+T12	Environment 305 309	soil
+T13	Property 242 255	Gram-negative
+T14	Property 257 267	rod-shaped
+T15	Environment 471 508	hydrocarbon-contamination free region
+T16	Environment 448 452	soil
+T17	Substrate 534 542	gasoline
+T18	ReactionOrProcess 628 637	isolation
+T19	Microbes 857 868	alcaligenes
+T20	Microbes 845 868	Pseudomonas alcaligenes
+T21	Microbes 817 835	Pseudomonas putida
+T22	Microbes 882 901	Pseudomonas cepacia
+T23	Environment 740 751	groundwater
+T24	Substrate 765 773	gasoline
+T25	Nutrient 777 783	carbon
+T26	Property 974 992	vapor-phase growth
+T27	Property 1018 1023	speed
+T28	Substrate 1036 1044	gasoline
+T29	Property 1083 1095	non-volatile
+T30	ReactionOrProcess 1192 1199	degrade
+T31	ReactionOrProcess 1156 1165	isolation
+T32	Property 1454 1462	aromatic
+T33	Property 1435 1443	volatile
+T34	ReactionOrProcess 1412 1419	degrade
+T35	ReactionOrProcess 1349 1358	isolation
+T36	Environment 1568 1583	soil microcosms
+T37	Environment 1573 1583	microcosms
+T38	Environment 1568 1572	soil
+T39	Substrate 1624 1632	gasoline
+T40	ReactionOrProcess 1633 1647	biodegradation
+T41	ReactionOrProcess 1551 1560	isolation
+R1	CarriedOn Arg1:T41 Arg2:T39
+T42	Environment 1682 1686	soil
+T43	Environment 1762 1766	soil
+T44	Environment 1888 1892	soil
+T45	Environment 1877 1892	indigenous soil
+T46	Substrate 1995 2003	gasoline
+T47	Property 1816 1836	chemical composition
+T48	Property 1840 1860	catalytic properties
+T49	ReactionOrProcess 2004 2018	biodegradation
+T50	ReactionOrProcess 2068 2079	degradation
+T51	Environment 2158 2184	indigenous soil microflora
+T52	Environment 2169 2173	soil
+T53	Environment 2158 2173	indigenous soil
+T54	Substrate 2327 2335	gasoline
+T55	ReactionOrProcess 2310 2319	reduction
+T56	Nutrient 2247 2253	oxygen
+R2	CarriedOn Arg1:T55 Arg2:T54
+T57	Substrate 2400 2407	ethanol
+T58	Substrate 2375 2383	gasoline
+T59	Substrate 2365 2383	Brazilian gasoline
+T60	Environment 2578 2583	water
+T61	Substrate 2529 2536	ethanol
+T62	ReactionOrProcess 2560 2574	solubilization
+T63	ReactionOrProcess 2599 2610	degradation
+T64	Microbes 2754 2762	inoculum
+T65	Substrate 2789 2797	gasoline
+T66	ReactionOrProcess 2798 2809	degradation
+T67	Microbes 2860 2868	inoculum
+T68	Substrate 2964 2972	gasoline
+T69	ReactionOrProcess 2931 2945	biodegradation
+R3	CarriedOn Arg1:T69 Arg2:T68
+T70	Microbes 3217 3228	alcaligenes
+T71	Microbes 3166 3174	inoculum
+T72	Microbes 3202 3212	B. cepacia
+T73	Microbes 3233 3242	P. putida
+T74	Microbes 3214 3228	P. alcaligenes
+T75	Substrate 3302 3310	gasoline
+T76	Substrate 3341 3352	n-tridecane
+T77	Substrate 3327 3337	n-undecane
+T78	Property 3375 3387	cell density
+T79	ReactionOrProcess 3268 3279	degradation
+R4	CarriedOn Arg1:T79 Arg2:T75
+R5	CarriedOn Arg1:T79 Arg2:T76
+R6	CarriedOn Arg1:T79 Arg2:T77
+T80	Property 3473 3495	syntrophicaly utilized
+T81	Property 3456 3469	cometabolized
+T82	Environment 3674 3679	water
+T83	ReactionOrProcess 3681 3689	reducing
+T84	ReactionOrProcess 3776 3790	biodegradation
+T85	Microbes 3841 3849	inoculum
+T86	Microbes 3875 3883	inoculum
+T87	ReactionOrProcess 3945 3955	inoculated
+T88	Microbes 4005 4013	inoculum

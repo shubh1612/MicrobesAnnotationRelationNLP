@@ -1,0 +1,55 @@
+T1	Environment 19 36	methanogenic site
+T2	Substrate 63 72	petroleum
+T3	Substrate 57 72	heavy petroleum
+T4	Property 19 31	methanogenic
+T5	Property 19 31	methanogenic
+T6	ReactionOrProcess 137 141	PLFA
+T7	ReactionOrProcess 0 4	PLFA
+T8	Environment 187 195	sediment
+T9	ReactionOrProcess 196 200	PLFA
+T10	Environment 273 292	uncontaminated site
+T11	ReactionOrProcess 339 348	reduction
+T12	Environment 498 517	uncontaminated site
+T13	ReactionOrProcess 467 471	PLFA
+T14	ReactionOrProcess 372 376	PLFA
+T15	ReactionOrProcess 590 599	extracted
+T16	ReactionOrProcess 619 627	reducing
+T17	ReactionOrProcess 576 580	PLFA
+T18	Environment 679 688	sediments
+T19	Property 826 835	saturated
+T20	ReactionOrProcess 726 731	PLFAs
+T21	ReactionOrProcess 836 841	PLFAs
+T22	Environment 1008 1027	uncontaminated site
+T23	Property 890 903	concentration
+T24	ReactionOrProcess 928 933	PLFAs
+T25	Microbes 1147 1160	Geobacter spp
+T26	ReactionOrProcess 1101 1106	PLFAs
+T27	Property 1192 1205	gram-negative
+T28	Environment 1247 1255	sediment
+T29	Environment 1309 1317	sediment
+T30	Environment 1298 1317	triplicate sediment
+T31	ReactionOrProcess 1341 1345	DGGE
+T32	ReactionOrProcess 1277 1280	PCR
+T33	ReactionOrProcess 1417 1421	DGGE
+T34	ReactionOrProcess 1576 1580	DGGE
+T35	ReactionOrProcess 1576 1589	DGGE analysis
+T36	Environment 1833 1852	uncontaminated site
+T37	Substrate 1800 1807	benzene
+T38	Substrate 1790 1807	anaerobic benzene
+T39	ReactionOrProcess 1790 1819	anaerobic benzene degradation
+T40	ReactionOrProcess 1808 1819	degradation
+T41	ReactionOrProcess 1891 1895	DGGE
+T42	Environment 2173 2192	uncontaminated site
+T43	ReactionOrProcess 2132 2136	DGGE
+T44	Environment 2515 2534	uncontaminated site
+T45	Microbes 2642 2654	G. chapellei
+T46	Microbes 2814 2828	Geobacteraceae
+T47	Environment 2747 2766	uncontaminated site
+T48	ReactionOrProcess 2702 2706	DGGE
+R1	CarriedOn Arg1:T48 Arg2:T46
+T49	Microbes 2915 2929	proteobacteria
+T50	Microbes 2881 2900	Geothrix fermentans
+T51	Microbes 2989 3005	Azoarcus evansii
+T52	Microbes 2989 2997	Azoarcus
+T53	Substrate 3061 3068	toluene
+T54	Property 3069 3077	degrader

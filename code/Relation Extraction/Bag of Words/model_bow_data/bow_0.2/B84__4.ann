@@ -1,0 +1,82 @@
+T1	Substrate 90 106	alkyl carbazoles
+T2	Substrate 16 23	benzene
+T3	Substrate 96 106	carbazoles
+T4	Substrate 96 106	carbazoles
+T5	Nutrient 171 179	nitrogen
+T6	ReactionOrProcess 293 301	detector
+T7	Substrate 366 382	alkyl carbazoles
+T8	Substrate 372 382	carbazoles
+T9	Substrate 372 382	carbazoles
+T10	ReactionOrProcess 480 487	elution
+T11	Substrate 592 613	nitrogen heterocycles
+T12	ReactionOrProcess 545 565	GC-mass spectrometry
+T13	ReactionOrProcess 654 680	nitrogen-specific detector
+T14	ReactionOrProcess 672 680	detector
+T15	ReactionOrProcess 631 642	GC analyses
+T16	Nutrient 592 600	nitrogen
+R1	CarriedOn Arg1:T12 Arg2:T11
+T17	Property 818 830	contaminants
+T18	Substrate 1091 1106	alkyl carbazole
+T19	Substrate 1097 1106	carbazole
+T20	ReactionOrProcess 1229 1254	flame ionization detector
+T21	ReactionOrProcess 1323 1349	nitrogen-specific detector
+T22	ReactionOrProcess 1208 1219	GC analysis
+T23	ReactionOrProcess 1246 1254	detector
+T24	ReactionOrProcess 1341 1349	detector
+T25	ReactionOrProcess 1229 1245	flame ionization
+T26	Nutrient 1183 1191	nitrogen
+T27	Substrate 1449 1459	crude oils
+T28	Substrate 1449 1459	crude oils
+T29	Substrate 1455 1459	oils
+T30	ReactionOrProcess 1505 1531	nitrogen-specific detector
+T31	ReactionOrProcess 1523 1531	detector
+T32	ReactionOrProcess 1484 1500	flame ionization
+T33	Substrate 1753 1775	Norman Wells crude oil
+T34	Substrate 1760 1775	Wells crude oil
+T35	Substrate 1766 1775	crude oil
+T36	Substrate 1772 1775	oil
+T37	ReactionOrProcess 1793 1803	incubation
+T38	Substrate 1940 1949	crude oil
+T39	Substrate 1946 1949	oil
+T40	Property 1996 2004	volatile
+T41	ReactionOrProcess 2015 2025	incubation
+T42	Substrate 2152 2174	Norman Wells crude oil
+T43	Substrate 2159 2174	Wells crude oil
+T44	Substrate 2165 2174	crude oil
+T45	Substrate 2171 2174	oil
+T46	Substrate 2220 2223	oil
+T47	Substrate 2290 2306	alkyl carbazoles
+T48	Substrate 2296 2306	carbazoles
+T49	Substrate 2296 2306	carbazoles
+T50	ReactionOrProcess 2324 2344	GC-mass spectrometry
+T51	Property 2511 2520	retention
+T52	ReactionOrProcess 2511 2520	retention
+T53	Substrate 2548 2551	oil
+T54	Microbes 2739 2765	carbazole-enriched culture
+T55	Microbes 2712 2730	enrichment culture
+T56	Environment 2698 2730	oil-degrading enrichment culture
+T57	Property 2739 2757	carbazole-enriched
+T58	Property 2653 2691	alkyl carbazole-degrading capabilities
+T59	ReactionOrProcess 2712 2722	enrichment
+T60	ReactionOrProcess 2783 2793	incubation
+R2	CarriedOn Arg1:T59 Arg2:T54
+T61	Substrate 2832 2835	oil
+T62	ReactionOrProcess 2856 2882	nitrogen-specific detector
+T63	ReactionOrProcess 2874 2882	detector
+T64	Substrate 2903 2919	alkyl carbazoles
+T65	Substrate 2909 2919	carbazoles
+T66	Substrate 2909 2919	carbazoles
+T67	Microbes 3019 3027	inoculum
+T68	Substrate 2988 2997	carbazole
+T69	Substrate 3058 3067	carbazole
+T70	Nutrient 3042 3048	carbon
+T71	ReactionOrProcess 3107 3133	nitrogen-specific detector
+T72	ReactionOrProcess 3125 3133	detector
+T73	Substrate 3353 3375	Norman Wells crude oil
+T74	Substrate 3301 3317	alkyl carbazoles
+T75	Substrate 3360 3375	Wells crude oil
+T76	Substrate 3307 3317	carbazoles
+T77	Substrate 3366 3375	crude oil
+T78	Substrate 3307 3317	carbazoles
+T79	Substrate 3372 3375	oil
+T80	Substrate 3411 3414	oil

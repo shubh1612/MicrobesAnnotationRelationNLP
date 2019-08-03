@@ -1,0 +1,45 @@
+T1	Environment 102 114	soil samples
+T2	Environment 102 106	soil
+T3	Environment 0 4	Soil
+T4	Environment 52 57	water
+T5	Nutrient 206 214	nitrogen
+T6	Nutrient 226 236	phosphorus
+T7	Environment 300 304	soil
+T8	Nutrient 305 311	carbon
+T9	Environment 435 439	soil
+T10	Nutrient 519 525	carbon
+T11	Nutrient 556 562	carbon
+T12	Nutrient 621 627	carbon
+T13	Nutrient 652 658	carbon
+T14	Environment 700 704	soil
+T15	Property 672 683	temperature
+T16	Environment 836 841	Water
+T17	ReactionOrProcess 885 896	evaporation
+T18	Environment 997 1008	soil sample
+T19	Environment 997 1001	soil
+T20	ReactionOrProcess 1047 1053	washed
+T21	ReactionOrProcess 964 970	sieved
+T22	ReactionOrProcess 923 934	enumeration
+T23	Nutrient 1093 1097	NaCl
+T24	Property 1250 1262	cell density
+T25	Substrate 1557 1564	ethanol
+T26	Property 1409 1418	dispersed
+T27	Environment 2054 2073	orange-stained soil
+T28	Environment 2069 2073	soil
+T29	Substrate 2532 2539	ethanol
+T30	Property 2513 2522	dissolved
+T31	Environment 2773 2785	soil samples
+T32	Environment 2773 2777	soil
+T33	Environment 2839 2843	soil
+T34	Environment 2914 2918	soil
+T35	Environment 2960 2964	soil
+T36	ReactionOrProcess 3004 3018	centrifugation
+T37	ReactionOrProcess 3185 3195	incubation
+T38	Property 3243 3252	dissolved
+T39	Environment 3395 3399	soil
+T40	Property 3413 3422	dissolved
+T41	Environment 3653 3657	soil
+T42	Environment 3696 3701	water
+T43	ReactionOrProcess 3627 3636	extracted
+T44	Environment 3743 3748	water
+T45	Property 3867 3880	concentration

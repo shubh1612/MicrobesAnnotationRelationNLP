@@ -1,0 +1,26 @@
+T1	Microbes 29 38	alkB gene
+T2	ReactionOrProcess 168 171	PCR
+T3	ReactionOrProcess 501 504	PCR
+T4	ReactionOrProcess 535 538	PCR
+T5	ReactionOrProcess 578 586	purified
+T6	ReactionOrProcess 562 565	PCR
+T7	ReactionOrProcess 611 614	PCR
+T8	Environment 881 893	Soil Samples
+T9	Environment 881 885	Soil
+T10	ReactionOrProcess 905 908	PCR
+T11	ReactionOrProcess 994 997	PCR
+T12	Property 1024 1038	concentrations
+T13	ReactionOrProcess 1302 1312	denaturing
+T14	ReactionOrProcess 1359 1368	extension
+T15	ReactionOrProcess 1553 1556	PCR
+T16	ReactionOrProcess 1842 1852	denaturing
+T17	ReactionOrProcess 1896 1905	extension
+T18	Environment 2285 2297	Initial soil
+T19	Environment 2293 2297	soil
+T20	Property 2400 2411	temperature
+T21	Microbes 2597 2606	alkB gene
+T22	Environment 2629 2633	soil
+T23	ReactionOrProcess 3140 3149	degrading
+T24	ReactionOrProcess 3342 3345	PCR
+T25	Microbes 3493 3502	alkB gene
+T26	Environment 3507 3511	soil

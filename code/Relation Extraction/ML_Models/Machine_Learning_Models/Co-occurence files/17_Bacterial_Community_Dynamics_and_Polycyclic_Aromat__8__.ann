@@ -1,0 +1,188 @@
+T1	Substrate 128 132	PAHs
+T2	Substrate 137 141	TPHs
+T3	ReactionOrProcess 89 114	late-stage biodegradation
+T4	Substrate 225 251	high-molecular-weight PAHs
+T5	ReactionOrProcess 207 221	biodegradation
+T6	Substrate 327 336	motor oil
+T7	ReactionOrProcess 307 321	bioremediation
+T8	ReactionOrProcess 294 303	reduction
+T9	Nutrient 384 388	NaCl
+T10	Environment 470 506	Arctic hydrocarbon-contaminated soil
+T11	ReactionOrProcess 428 437	reduction
+T12	ReactionOrProcess 684 710	hydrocarbon biodegradation
+T13	ReactionOrProcess 957 971	biostimulation
+T14	ReactionOrProcess 916 930	biodegradation
+T15	Microbes 1239 1292	heterotrophic and PAH-degrading microbial populations
+T16	Environment 1300 1304	soil
+T17	Substrate 1463 1466	PAH
+T18	Substrate 1077 1109	polycyclic aromatic hydrocarbons
+T19	Property 1467 1476	degraders
+T20	ReactionOrProcess 1059 1073	bioremediation
+T21	ReactionOrProcess 1148 1162	bioremediation
+T22	Substrate 1550 1553	TPH
+T23	ReactionOrProcess 1554 1563	depletion
+T24	ReactionOrProcess 1637 1652	TPH degradation
+T25	Microbes 1803 1827	heterotrophic population
+T26	Substrate 2188 2191	PAH
+T27	Substrate 2320 2324	PAHs
+T28	Property 2192 2201	degraders
+T29	ReactionOrProcess 2254 2269	TPH degradation
+T30	Substrate 2342 2345	PAH
+T31	Substrate 2398 2402	PAHs
+T32	ReactionOrProcess 2366 2376	enrichment
+T33	Microbes 2648 2658	Roseomonas
+T34	Microbes 2702 2713	Alcaligenes
+T35	Microbes 2743 2756	Sinorhizobium
+T36	Microbes 2758 2770	Erytrobacter
+T37	Microbes 2772 2781	Cytophaga
+T38	Microbes 2728 2741	Achromobacter
+T39	Microbes 2634 2646	Azospirillum
+T40	Microbes 2687 2700	Agrobacterium
+T41	Microbes 2620 2632	Sphingomonas
+T42	Microbes 2675 2685	Trojanella
+T43	Microbes 2715 2726	Xanthomonas
+T44	Microbes 2660 2673	Brevundimonas
+T45	Environment 2597 2618	PAH-contaminated soil
+T46	ReactionOrProcess 2548 2555	excised
+T47	ReactionOrProcess 2543 2547	DGGE
+T48	ReactionOrProcess 2569 2583	biostimulation
+T49	Microbes 2904 2916	Azospirillum
+T50	Microbes 2887 2899	Sphingomonas
+T51	ReactionOrProcess 2826 2840	biodegradation
+T52	ReactionOrProcess 3019 3023	DGGE
+T53	Substrate 3339 3347	fluorene
+T54	Substrate 3363 3373	anthracene
+T55	Substrate 3349 3361	phenanthrene
+T56	Substrate 3396 3408	fluoranthene
+T57	Substrate 3187 3190	TPH
+T58	Substrate 3375 3394	alkyl-phenanthrenes
+T59	Substrate 3414 3420	pyrene
+T60	Substrate 3325 3337	acenaphthene
+T61	ReactionOrProcess 3292 3311	fast biodegradation
+T62	ReactionOrProcess 3195 3213	PAH biodegradation
+T63	Microbes 3548 3564	α-Proteobacteria
+T64	Environment 3650 3670	intertidal sediments
+T65	Substrate 3608 3619	spilled oil
+T66	Property 3741 3754	gram-negative
+T67	ReactionOrProcess 3809 3819	extraction
+T68	Microbes 3963 3976	Mycobacterium
+T69	Environment 4064 4090	creosote-contaminated soil
+T70	Property 4027 4040	gram-negative
+T71	ReactionOrProcess 3839 3849	extraction
+T72	ReactionOrProcess 4102 4116	bioremediation
+T73	Substrate 4255 4259	PAHs
+T74	Substrate 4247 4250	TPH
+T75	ReactionOrProcess 4156 4171	bioaugmentation
+T76	ReactionOrProcess 4126 4141	Bioaugmentation
+T77	ReactionOrProcess 4229 4243	biodegradation
+T78	Microbes 4442 4450	inoculum
+T79	Microbes 4415 4425	consortium
+T80	Microbes 4647 4658	Alcaligenes
+T81	Microbes 4588 4600	Sphingomonas
+T82	Microbes 4529 4539	consortium
+R1	CarriedOn Arg1:T3 Arg2:T1
+R2	CarriedOn Arg1:T3 Arg2:T2
+R3	CarriedOn Arg1:T5 Arg2:T4
+R4	CarriedOn Arg1:T7 Arg2:T6
+R5	CarriedOn Arg1:T8 Arg2:T6
+R6	OccursIn Arg1:T11 Arg2:T10
+R7	FoundIn Arg1:T15 Arg2:T16
+R8	Of Arg1:T15 Arg2:T19
+R9	ActOn Arg1:T15 Arg2:T17
+R10	ActOn Arg1:T15 Arg2:T18
+R11	CarriedOn Arg1:T20 Arg2:T15
+R12	CarriedOn Arg1:T21 Arg2:T15
+R13	CarriedOn Arg1:T20 Arg2:T17
+R14	CarriedOn Arg1:T20 Arg2:T18
+R15	CarriedOn Arg1:T21 Arg2:T17
+R16	CarriedOn Arg1:T21 Arg2:T18
+R17	OccursIn Arg1:T20 Arg2:T16
+R18	OccursIn Arg1:T21 Arg2:T16
+R19	CarriedOn Arg1:T23 Arg2:T22
+R20	CarriedOn Arg1:T29 Arg2:T26
+R21	CarriedOn Arg1:T29 Arg2:T27
+R22	CarriedOn Arg1:T32 Arg2:T30
+R23	CarriedOn Arg1:T32 Arg2:T31
+R24	FoundIn Arg1:T33 Arg2:T45
+R25	FoundIn Arg1:T34 Arg2:T45
+R26	FoundIn Arg1:T35 Arg2:T45
+R27	FoundIn Arg1:T36 Arg2:T45
+R28	FoundIn Arg1:T37 Arg2:T45
+R29	FoundIn Arg1:T38 Arg2:T45
+R30	FoundIn Arg1:T39 Arg2:T45
+R31	FoundIn Arg1:T40 Arg2:T45
+R32	FoundIn Arg1:T41 Arg2:T45
+R33	FoundIn Arg1:T42 Arg2:T45
+R34	FoundIn Arg1:T43 Arg2:T45
+R35	FoundIn Arg1:T44 Arg2:T45
+R36	CarriedOn Arg1:T46 Arg2:T33
+R37	CarriedOn Arg1:T46 Arg2:T34
+R38	CarriedOn Arg1:T46 Arg2:T35
+R39	CarriedOn Arg1:T46 Arg2:T36
+R40	CarriedOn Arg1:T46 Arg2:T37
+R41	CarriedOn Arg1:T46 Arg2:T38
+R42	CarriedOn Arg1:T46 Arg2:T39
+R43	CarriedOn Arg1:T46 Arg2:T40
+R44	CarriedOn Arg1:T46 Arg2:T41
+R45	CarriedOn Arg1:T46 Arg2:T42
+R46	CarriedOn Arg1:T46 Arg2:T43
+R47	CarriedOn Arg1:T46 Arg2:T44
+R48	CarriedOn Arg1:T47 Arg2:T33
+R49	CarriedOn Arg1:T47 Arg2:T34
+R50	CarriedOn Arg1:T47 Arg2:T35
+R51	CarriedOn Arg1:T47 Arg2:T36
+R52	CarriedOn Arg1:T47 Arg2:T37
+R53	CarriedOn Arg1:T47 Arg2:T38
+R54	CarriedOn Arg1:T47 Arg2:T39
+R55	CarriedOn Arg1:T47 Arg2:T40
+R56	CarriedOn Arg1:T47 Arg2:T41
+R57	CarriedOn Arg1:T47 Arg2:T42
+R58	CarriedOn Arg1:T47 Arg2:T43
+R59	CarriedOn Arg1:T47 Arg2:T44
+R60	CarriedOn Arg1:T48 Arg2:T33
+R61	CarriedOn Arg1:T48 Arg2:T34
+R62	CarriedOn Arg1:T48 Arg2:T35
+R63	CarriedOn Arg1:T48 Arg2:T36
+R64	CarriedOn Arg1:T48 Arg2:T37
+R65	CarriedOn Arg1:T48 Arg2:T38
+R66	CarriedOn Arg1:T48 Arg2:T39
+R67	CarriedOn Arg1:T48 Arg2:T40
+R68	CarriedOn Arg1:T48 Arg2:T41
+R69	CarriedOn Arg1:T48 Arg2:T42
+R70	CarriedOn Arg1:T48 Arg2:T43
+R71	CarriedOn Arg1:T48 Arg2:T44
+R72	OccursIn Arg1:T46 Arg2:T45
+R73	OccursIn Arg1:T47 Arg2:T45
+R74	OccursIn Arg1:T48 Arg2:T45
+R75	CarriedOn Arg1:T51 Arg2:T49
+R76	CarriedOn Arg1:T51 Arg2:T50
+R77	CarriedOn Arg1:T61 Arg2:T53
+R78	CarriedOn Arg1:T61 Arg2:T54
+R79	CarriedOn Arg1:T61 Arg2:T55
+R80	CarriedOn Arg1:T61 Arg2:T56
+R81	CarriedOn Arg1:T61 Arg2:T57
+R82	CarriedOn Arg1:T61 Arg2:T58
+R83	CarriedOn Arg1:T61 Arg2:T59
+R84	CarriedOn Arg1:T61 Arg2:T60
+R85	CarriedOn Arg1:T62 Arg2:T53
+R86	CarriedOn Arg1:T62 Arg2:T54
+R87	CarriedOn Arg1:T62 Arg2:T55
+R88	CarriedOn Arg1:T62 Arg2:T56
+R89	CarriedOn Arg1:T62 Arg2:T57
+R90	CarriedOn Arg1:T62 Arg2:T58
+R91	CarriedOn Arg1:T62 Arg2:T59
+R92	CarriedOn Arg1:T62 Arg2:T60
+R93	FoundIn Arg1:T63 Arg2:T64
+R94	ActOn Arg1:T63 Arg2:T65
+R95	FoundIn Arg1:T68 Arg2:T69
+R96	Of Arg1:T68 Arg2:T70
+R97	CarriedOn Arg1:T71 Arg2:T68
+R98	CarriedOn Arg1:T72 Arg2:T68
+R99	OccursIn Arg1:T71 Arg2:T69
+R100	OccursIn Arg1:T72 Arg2:T69
+R101	CarriedOn Arg1:T75 Arg2:T73
+R102	CarriedOn Arg1:T75 Arg2:T74
+R103	CarriedOn Arg1:T76 Arg2:T73
+R104	CarriedOn Arg1:T76 Arg2:T74
+R105	CarriedOn Arg1:T77 Arg2:T73
+R106	CarriedOn Arg1:T77 Arg2:T74

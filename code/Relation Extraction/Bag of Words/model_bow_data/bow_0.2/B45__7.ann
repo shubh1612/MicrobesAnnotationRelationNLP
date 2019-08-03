@@ -1,0 +1,59 @@
+T1	Substrate 167 179	hydrocarbons
+T2	Substrate 167 179	hydrocarbons
+T3	Environment 293 302	sediments
+T4	ReactionOrProcess 270 281	degradation
+T5	Substrate 651 658	benzene
+T6	ReactionOrProcess 687 695	degraded
+T7	ReactionOrProcess 448 459	degradation
+T8	ReactionOrProcess 502 513	utilization
+T9	Nutrient 523 529	carbon
+R1	CarriedOn Arg1:T7 Arg2:T5
+R2	CarriedOn Arg1:T8 Arg2:T5
+T10	Substrate 755 762	benzene
+T11	ReactionOrProcess 806 817	enrichments
+T12	ReactionOrProcess 741 751	inhibition
+T13	ReactionOrProcess 763 774	utilization
+R3	CarriedOn Arg1:T12 Arg2:T10
+T14	Substrate 904 911	benzene
+T15	ReactionOrProcess 882 895	anaerobically
+T16	ReactionOrProcess 882 903	anaerobically degrade
+T17	ReactionOrProcess 896 903	degrade
+T18	Substrate 1084 1091	benzene
+T19	ReactionOrProcess 1066 1080	mineralization
+R4	CarriedOn Arg1:T19 Arg2:T18
+T20	Property 1177 1189	methanogenic
+T21	Property 1177 1189	methanogenic
+T22	Substrate 1351 1358	benzene
+T23	Property 1468 1480	methanogenic
+T24	Property 1468 1480	methanogenic
+T25	Property 1333 1347	concentrations
+T26	ReactionOrProcess 1371 1382	enrichments
+T27	Environment 1821 1826	water
+T28	Substrate 1663 1667	BTEX
+T29	Substrate 1758 1776	aromatic compounds
+T30	Substrate 1758 1776	aromatic compounds
+T31	Property 1758 1766	aromatic
+T32	ReactionOrProcess 1668 1676	degraded
+T33	Nutrient 1802 1808	carbon
+T34	Nutrient 1622 1639	electron acceptor
+R5	CarriedOn Arg1:T32 Arg2:T29
+R6	CarriedOn Arg1:T32 Arg2:T30
+T35	Environment 1904 1909	water
+T36	Substrate 1957 1961	BTEX
+T37	ReactionOrProcess 1910 1920	enrichment
+R7	CarriedOn Arg1:T37 Arg2:T36
+T38	Environment 2190 2200	microcosms
+T39	Substrate 2176 2180	BTEX
+T40	Nutrient 2100 2117	electron acceptor
+T41	Substrate 2278 2285	nitrate
+T42	Property 2509 2521	denitrifying
+T43	ReactionOrProcess 2509 2521	denitrifying
+T44	ReactionOrProcess 2470 2481	utilization
+T45	Substrate 2689 2697	gasoline
+T46	Substrate 2628 2632	BTEX
+T47	Substrate 2708 2712	BTEX
+T48	ReactionOrProcess 2613 2624	Degradation
+R8	CarriedOn Arg1:T48 Arg2:T45
+R9	CarriedOn Arg1:T48 Arg2:T46
+R10	CarriedOn Arg1:T48 Arg2:T47
+T49	Substrate 2790 2798	gasoline

@@ -1,0 +1,49 @@
+T1	Substrate 65 71	diesel
+T2	ReactionOrProcess 72 86	bioremediation
+T3	ReactionOrProcess 19 24	PLFAs
+T4	ReactionOrProcess 121 126	PLFAs
+R1	CarriedOn Arg1:T3 Arg2:T1
+R2	CarriedOn Arg1:T4 Arg2:T1
+T5	ReactionOrProcess 258 263	PLFAs
+T6	ReactionOrProcess 242 247	PLFAs
+T7	Substrate 363 375	hydrocarbons
+T8	Substrate 363 375	hydrocarbons
+T9	Environment 691 695	soil
+T10	Substrate 832 838	diesel
+T11	ReactionOrProcess 645 649	PLFA
+R3	CarriedOn Arg1:T11 Arg2:T10
+T12	ReactionOrProcess 881 885	PLFA
+T13	Environment 1023 1027	soil
+T14	Substrate 1155 1158	oil
+T15	ReactionOrProcess 1177 1191	bioremediation
+T16	ReactionOrProcess 1269 1279	incubation
+T17	ReactionOrProcess 1294 1298	PLFA
+T18	ReactionOrProcess 1366 1370	PLFA
+T19	Substrate 1605 1611	diesel
+T20	ReactionOrProcess 1625 1639	bioremediation
+T21	ReactionOrProcess 1488 1498	incubation
+R4	CarriedOn Arg1:T21 Arg2:T19
+T22	Substrate 1656 1662	diesel
+T23	ReactionOrProcess 1710 1714	PLFA
+T24	ReactionOrProcess 2105 2119	bioremediation
+T25	ReactionOrProcess 1982 1996	bioremediation
+T26	ReactionOrProcess 2388 2392	PLFA
+T27	Environment 2532 2545	control soils
+T28	Environment 2406 2430	diesel-contaminated soil
+T29	Environment 2465 2485	uncontaminated soils
+T30	Environment 2426 2430	soil
+T31	Environment 2480 2485	soils
+T32	Environment 2540 2545	soils
+T33	Environment 2465 2485	uncontaminated soils
+T34	Environment 2607 2632	diesel-contaminated soils
+T35	Environment 2627 2632	soils
+T36	Environment 2607 2632	diesel-contaminated soils
+T37	Substrate 2817 2823	diesel
+T38	Environment 2948 2952	soil
+T39	Substrate 2914 2920	diesel
+T40	Environment 3144 3148	soil
+T41	Substrate 3050 3056	diesel
+T42	ReactionOrProcess 3065 3069	PLFA
+T43	Environment 3172 3176	soil
+T44	Substrate 3322 3333	hydrocarbon
+T45	ReactionOrProcess 3368 3379	degradation

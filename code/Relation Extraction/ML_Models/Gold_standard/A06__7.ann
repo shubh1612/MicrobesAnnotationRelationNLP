@@ -1,0 +1,13 @@
+T1	Substrate 132 139	toluene
+T2	Enzyme 418 441	naphthalene dioxygenase
+T3	Substrate 336 343	toluene
+T5	Enzyme 1212 1235	naphthalene dioxygenase
+T7	Nutrient 1093 1097	iron
+T8	Substrate 2224 2231	toluene
+T9	Substrate 2331 2338	toluene
+T10	Substrate 2349 2360	naphthalene
+T13	ReactionOrProcess 3975 3978	PCR
+T4	Substrate 2232 2240	biphenyl
+T6	Substrate 2362 2370	benzoate
+T14	Substrate 2375 2384	phthalate
+T15	Substrate 2339 2347	biphenyl

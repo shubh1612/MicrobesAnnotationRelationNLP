@@ -1,0 +1,63 @@
+T1	Substrate 84 91	benzene
+T2	Microbes 143 161	Desulfobacteraceae
+T3	Substrate 209 216	toluene
+T4	Substrate 198 204	phenol
+T5	Substrate 426 433	benzene
+T6	Substrate 372 379	toluene
+T7	Substrate 383 389	phenol
+T8	Microbes 466 483	Cryptanaerobacter
+T9	Microbes 631 648	Cryptanaerobacter
+T10	Substrate 581 588	benzene
+T11	Substrate 725 732	benzene
+T12	Property 598 606	aromatic
+T13	Environment 836 863	sulfate-reducing conditions
+T14	Environment 1087 1091	sand
+T15	Environment 920 927	aquifer
+T16	Substrate 964 971	benzene
+T17	ReactionOrProcess 956 963	degrade
+T18	ReactionOrProcess 799 829	syntrophic benzene degradation
+T19	Nutrient 991 1008	electron acceptor
+T20	Microbes 1258 1275	Cryptanaerobacter
+T21	Microbes 1431 1447	Desulfotomaculum
+T22	Microbes 1358 1368	consortium
+T23	Environment 1353 1357	sand
+T24	Microbes 1523 1540	Cryptanaerobacter
+T25	Microbes 1505 1518	Pelotomaculum
+T26	Microbes 1557 1579	heterotrophic bacteria
+T27	Substrate 1748 1754	phenol
+T28	Substrate 1714 1732	aromatic compounds
+T29	ReactionOrProcess 1706 1713	degrade
+T30	Microbes 1859 1875	Desulfotomaculum
+T31	Microbes 1895 1912	Cryptanaerobacter
+T32	Microbes 1877 1890	Pelotomaculum
+T33	Nutrient 1946 1963	electron acceptor
+T34	Microbes 2021 2037	Desulfotomaculum
+T35	Property 2162 2174	methanogenic
+T36	Microbes 2229 2246	Cryptanaerobacter
+T37	Substrate 2398 2405	benzene
+T38	ReactionOrProcess 2390 2397	oxidize
+T39	Microbes 2585 2598	Pelotomaculum
+T40	ReactionOrProcess 2712 2741	anaerobic benzene degradation
+T41	Microbes 2840 2850	Nitrospira
+T42	Environment 3309 3336	PCB-contaminated salt marsh
+T43	Environment 3240 3248	forested
+T44	Environment 3331 3345	marsh sediment
+T45	Substrate 3399 3405	sulfur
+T46	Property 3406 3414	reducers
+T47	Environment 3755 3776	methanogenic sediment
+T48	Property 3625 3631	stable
+T49	ReactionOrProcess 3731 3741	metabolize
+T50	Environment 3891 3901	microcosms
+T51	Property 4221 4233	methanogenic
+R1	ActOn Arg1:T2 Arg2:T3
+R2	ActOn Arg1:T2 Arg2:T4
+R3	Of Arg1:T8 Arg2:T12
+R4	Of Arg1:T9 Arg2:T12
+R5	ActOn Arg1:T8 Arg2:T10
+R6	ActOn Arg1:T8 Arg2:T11
+R7	ActOn Arg1:T9 Arg2:T10
+R8	ActOn Arg1:T9 Arg2:T11
+R9	FoundIn Arg1:T21 Arg2:T23
+R10	FoundIn Arg1:T22 Arg2:T23
+R11	Of Arg1:T34 Arg2:T35
+R12	ActOn Arg1:T36 Arg2:T37

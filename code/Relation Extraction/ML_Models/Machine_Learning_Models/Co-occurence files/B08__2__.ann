@@ -1,0 +1,112 @@
+T1	Environment 55 66	groundwater
+T2	Environment 32 49	contaminated site
+T3	Substrate 23 31	gasoline
+T4	Environment 274 281	aquifer
+T5	Substrate 243 252	Petroleum
+T6	Substrate 297 318	underground petroleum
+T7	Environment 567 572	plume
+T8	Environment 444 449	water
+T9	Environment 783 794	groundwater
+T10	Environment 663 668	plume
+T11	Substrate 705 712	benzene
+T12	Substrate 728 735	toluene
+T13	Property 736 749	concentration
+T14	Property 762 775	concentration
+T15	Property 713 726	concentration
+T16	Environment 916 921	plume
+T17	Substrate 990 997	benzene
+T18	Substrate 903 910	benzene
+T19	Substrate 891 898	toluene
+T20	Substrate 964 972	o-xylene
+T21	Substrate 1002 1013	naphthalene
+T22	Substrate 932 944	ethylbenzene
+T23	Substrate 956 962	xylene
+T24	Property 1029 1043	concentrations
+T25	Environment 1072 1077	plume
+T26	Environment 1169 1174	plume
+T27	Substrate 1064 1071	benzene
+T28	Substrate 1161 1168	toluene
+T29	Environment 1312 1317	plume
+T30	Substrate 1326 1334	o-xylene
+T31	Substrate 1363 1374	naphthalene
+T32	Substrate 1263 1275	ethylbenzene
+T33	Substrate 1250 1258	p-xylene
+T34	Environment 1453 1460	aquifer
+T35	Substrate 1430 1437	benzene
+T36	Substrate 1442 1449	toluene
+T37	Environment 1694 1699	sands
+T38	Nutrient 1670 1676	carbon
+T39	Environment 1764 1769	plume
+T40	Environment 1798 1803	plume
+T41	Substrate 1790 1797	benzene
+T42	Substrate 1911 1918	benzene
+T43	Substrate 1756 1763	toluene
+T44	Substrate 1896 1903	toluene
+T45	Environment 1970 1975	plume
+T46	Substrate 2032 2039	toluene
+T47	Property 1950 1962	contaminants
+T48	ReactionOrProcess 2001 2028	preferential biodegradation
+T49	Environment 2304 2315	groundwater
+T50	Environment 2108 2113	plume
+T51	Environment 2332 2337	plume
+T52	Substrate 2100 2107	toluene
+T53	Substrate 2159 2166	toluene
+T54	Substrate 2234 2241	toluene
+T55	Substrate 2272 2279	methane
+T56	ReactionOrProcess 2167 2181	mineralisation
+T57	ReactionOrProcess 2242 2256	mineralisation
+T58	ReactionOrProcess 2192 2209	sulfate reduction
+T59	Environment 2359 2371	Groundwaters
+T60	Environment 2507 2518	groundwater
+T61	Property 2424 2438	concentrations
+T62	ReactionOrProcess 2481 2490	reduction
+T63	Nutrient 2452 2470	electron acceptors
+T64	Environment 2576 2581	plume
+T65	Property 2673 2687	concentrations
+T66	Property 2870 2881	crystalline
+T67	Environment 3031 3036	plume
+T68	Substrate 3005 3016	hydrocarbon
+T69	Property 2899 2913	concentrations
+T70	ReactionOrProcess 2958 2967	reduction
+T71	Environment 3086 3123	uncontaminated background groundwater
+T72	Substrate 3066 3073	nitrate
+T73	Property 3246 3258	contaminants
+T74	ReactionOrProcess 3217 3238	anaerobic respiration
+T75	Nutrient 3195 3212	electron acceptor
+T76	Environment 3277 3303	uncontaminated groundwater
+T77	Substrate 3305 3312	nitrate
+T78	Property 3313 3327	concentrations
+T79	Property 3377 3391	concentrations
+T80	Substrate 3475 3482	toluene
+T81	Substrate 3489 3496	nitrate
+T82	ReactionOrProcess 3462 3471	oxidation
+R1	CarriedOn Arg1:T48 Arg2:T46
+R2	OccursIn Arg1:T48 Arg2:T45
+R3	CarriedOn Arg1:T56 Arg2:T52
+R4	CarriedOn Arg1:T56 Arg2:T53
+R5	CarriedOn Arg1:T56 Arg2:T54
+R6	CarriedOn Arg1:T56 Arg2:T55
+R7	CarriedOn Arg1:T57 Arg2:T52
+R8	CarriedOn Arg1:T57 Arg2:T53
+R9	CarriedOn Arg1:T57 Arg2:T54
+R10	CarriedOn Arg1:T57 Arg2:T55
+R11	CarriedOn Arg1:T58 Arg2:T52
+R12	CarriedOn Arg1:T58 Arg2:T53
+R13	CarriedOn Arg1:T58 Arg2:T54
+R14	CarriedOn Arg1:T58 Arg2:T55
+R15	OccursIn Arg1:T56 Arg2:T49
+R16	OccursIn Arg1:T56 Arg2:T50
+R17	OccursIn Arg1:T56 Arg2:T51
+R18	OccursIn Arg1:T57 Arg2:T49
+R19	OccursIn Arg1:T57 Arg2:T50
+R20	OccursIn Arg1:T57 Arg2:T51
+R21	OccursIn Arg1:T58 Arg2:T49
+R22	OccursIn Arg1:T58 Arg2:T50
+R23	OccursIn Arg1:T58 Arg2:T51
+R24	OccursIn Arg1:T62 Arg2:T60
+R25	CarriedOn Arg1:T70 Arg2:T68
+R26	OccursIn Arg1:T70 Arg2:T67
+R27	CarriedOn Arg1:T74 Arg2:T72
+R28	OccursIn Arg1:T74 Arg2:T71
+R29	CarriedOn Arg1:T82 Arg2:T80
+R30	CarriedOn Arg1:T82 Arg2:T81

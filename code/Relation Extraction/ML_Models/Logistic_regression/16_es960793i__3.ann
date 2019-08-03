@@ -1,0 +1,71 @@
+T1	Nutrient 187 193	carbon
+T4	Nutrient 344 350	carbon
+T5	Environment 437 441	soil
+T6	Property 418 423	sandy
+T7	Nutrient 536 542	carbon
+T8	Environment 573 577	Soil	
+T9	Environment 841 845	soil
+T10	Nutrient 694 702	nitrogen
+T11	Nutrient 730 738	nitrogen
+T12	Nutrient 707 717	phosphorus
+T13	Environment 909 914	soils
+T14	Environment 956 966	oily soils
+T15	Microbes 1048 1076	Total heterotrophic bacteria	
+T16	Substrate 1081 1092	hydrocarbon
+T17	Property 1093 1102	degraders
+T18	Environment 1179 1191	soil samples
+T19	Environment 1308 1312	soil
+T20	Substrate 1281 1292	hydrocarbon
+T21	Property 1293 1302	degraders
+T22	ReactionOrProcess 1164 1175	enumeration
+T23	Substrate 1501 1511	hexadecane
+T24	Substrate 1516 1527	hydrocarbon
+T25	Property 1528 1537	degraders
+T26	Environment 1539 1548	Oily Soil	
+T27	Environment 1682 1687	soils
+T28	Substrate 1611 1626	light crude oil
+T29	Environment 1693 1704	sieved soil
+T30	Substrate 1761 1772	hydrocarbon
+T31	Environment 1791 1800	oily soil
+T32	Substrate 1930 1933	oil
+T33	Substrate 1965 1986	volatile hydrocarbons
+T34	Environment 2100 2104	soil
+T35	Substrate 2131 2135	BTEX
+T36	Substrate 2061 2084	total BTEX hydrocarbons
+T37	Substrate 2109 2112	oil
+T38	ReactionOrProcess 2162 2176	bioremediation
+T39	Environment 2309 2318	oily soil
+T40	Substrate 2433 2443	crude oils
+T41	Nutrient 2407 2413	carbon
+T42	Nutrient 2357 2363	K2HPO4
+T43	Nutrient 2334 2340	NH4NO3
+T44	Environment 2475 2480	soils
+T45	Environment 2456 2461	water
+T46	Environment 2549 2578	fertilizer-amended oily soils
+T47	Environment 2599 2603	soil	
+T48	Environment 2758 2762	soil
+T49	Environment 2861 2865	soil
+T50	Environment 2921 2925	soil
+T51	Substrate 2908 2911	TPH
+T52	Property 2899 2907	residual
+T53	Substrate 3070 3074	BTEX
+T54	Substrate 3061 3064	TPH
+T55	Property 3079 3087	toxicity
+T56	Substrate 3107 3118	Hydrocarbon
+T57	Substrate 3133 3161	Total Petroleum Hydrocarbons
+T58	Environment 3198 3208	oily soils
+T59	Substrate 3278 3281	TPH
+T60	ReactionOrProcess 3387 3397	extraction
+T61	ReactionOrProcess 3330 3341	evaporation
+T62	Substrate 3748 3751	TPH
+T63	Property 3704 3711	residue
+R1	Of Arg1:T15 Arg2:T17
+R2	ActOn Arg1:T15 Arg2:T16
+R4	OccursIn Arg1:T22 Arg2:T18
+T2	Environment 217 249	Norwood/Baccto test soil mixture
+T3	Environment 271 283	Norwood soil
+T64	Environment 292 306	Baccto topsoil
+T65	Property 884 900	moisture content
+T66	Environment 1549 1558	Mesocosms
+T67	Substrate 3270 3273	O&G
+T68	Substrate 3283 3286	O&G

@@ -1,0 +1,62 @@
+T1	Environment 164 174	microcosms
+T2	Environment 36 46	microcosms
+T3	Nutrient 62 68	carbon
+T4	Substrate 262 269	alkanes
+T5	Substrate 275 278	PAH
+T6	Substrate 239 242	TPH
+T7	ReactionOrProcess 221 235	biodegradation
+R1	CarriedOn Arg1:T7 Arg2:T4
+R2	CarriedOn Arg1:T7 Arg2:T5
+R3	CarriedOn Arg1:T7 Arg2:T6
+T8	ReactionOrProcess 372 386	bioremediation
+T9	ReactionOrProcess 302 316	biodegradation
+T10	Substrate 473 494	aromatic hydrocarbons
+T11	Substrate 473 494	aromatic hydrocarbons
+T12	Substrate 460 467	alkanes
+T13	Substrate 482 494	hydrocarbons
+T14	Substrate 482 494	hydrocarbons
+T15	Property 473 481	aromatic
+T16	Substrate 624 644	aromatic hydrocarbon
+T17	Substrate 610 618	n-alkane
+T18	Substrate 633 644	hydrocarbon
+T19	Property 624 632	aromatic
+T20	ReactionOrProcess 633 659	hydrocarbon biodegradation
+T21	ReactionOrProcess 645 659	biodegradation
+T22	Environment 789 798	microcosm
+T23	Environment 836 846	microcosms
+T24	Substrate 735 738	TPH
+T25	ReactionOrProcess 735 750	TPH degradation
+T26	ReactionOrProcess 739 750	degradation
+T27	Environment 971 981	microcosms
+T28	Nutrient 859 865	Carbon
+T29	Substrate 1104 1111	alkanes
+T30	Substrate 1090 1093	TPH
+T31	ReactionOrProcess 1072 1086	biodegradation
+R4	CarriedOn Arg1:T31 Arg2:T29
+R5	CarriedOn Arg1:T31 Arg2:T30
+T32	ReactionOrProcess 1208 1222	bioremediation
+T33	Environment 1812 1821	microcosm
+T34	Environment 1962 1972	microcosms
+T35	Environment 2221 2230	microcosm
+T36	Substrate 2262 2265	oil
+T37	Environment 2519 2528	sediments
+T38	Environment 2508 2518	same beach
+T39	Environment 2308 2318	microcosms
+T40	Environment 2513 2518	beach
+T41	Environment 2508 2528	same beach sediments
+T42	ReactionOrProcess 2298 2307	replicate
+T43	ReactionOrProcess 2622 2631	replicate
+T44	ReactionOrProcess 2281 2285	DGGE
+T45	ReactionOrProcess 2485 2489	DGGE
+T46	ReactionOrProcess 2281 2294	DGGE analysis
+T47	Environment 2693 2703	microcosms
+T48	Environment 2820 2830	microcosms
+T49	Environment 2879 2889	microcosms
+T50	Substrate 2994 2997	oil
+T51	Property 3291 3297	stable
+T52	Environment 3408 3417	microcosm
+T53	Environment 3327 3337	microcosms
+T54	Substrate 3444 3447	oil
+T55	Environment 3545 3555	microcosms
+T56	ReactionOrProcess 3526 3530	DGGE
+T57	ReactionOrProcess 3776 3780	DGGE

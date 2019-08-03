@@ -1,0 +1,83 @@
+T1	ReactionOrProcess 197 207	metabolize
+T2	ReactionOrProcess 596 606	incubation
+T3	Environment 676 680	Soil
+T4	Substrate 686 698	Hydrocarbons
+T5	Substrate 790 802	hydrocarbons
+T6	Substrate 686 698	Hydrocarbons
+T7	Substrate 790 802	hydrocarbons
+T8	ReactionOrProcess 662 672	Incubation
+T9	ReactionOrProcess 772 786	mineralization
+R1	CarriedOn Arg1:T8 Arg2:T4
+R2	CarriedOn Arg1:T8 Arg2:T5
+R3	CarriedOn Arg1:T8 Arg2:T6
+R4	CarriedOn Arg1:T8 Arg2:T7
+R5	CarriedOn Arg1:T9 Arg2:T5
+R6	CarriedOn Arg1:T9 Arg2:T7
+T10	ReactionOrProcess 920 931	remediation
+T11	ReactionOrProcess 912 931	in situ remediation
+T12	Environment 964 968	Soil
+T13	Substrate 987 997	diesel oil
+T14	Substrate 1001 1013	phenanthrene
+T15	Substrate 994 997	oil
+T16	Substrate 987 993	diesel
+T17	ReactionOrProcess 1089 1100	utilization
+T18	Nutrient 1075 1081	Carbon
+T19	ReactionOrProcess 1182 1193	utilization
+T20	Nutrient 1168 1174	carbon
+T21	Substrate 1468 1480	hydrocarbons
+T22	Substrate 1468 1480	hydrocarbons
+T23	ReactionOrProcess 1508 1518	incubation
+T24	Substrate 1524 1536	phenanthrene
+T25	ReactionOrProcess 1672 1683	degradation
+T26	ReactionOrProcess 1658 1667	stimulate
+T27	Nutrient 1743 1749	oxygen
+T28	Substrate 1856 1868	phenanthrene
+T29	ReactionOrProcess 1869 1880	degradation
+T30	ReactionOrProcess 1842 1852	inhibition
+R7	CarriedOn Arg1:T30 Arg2:T28
+T31	Environment 1892 1913	oil-contaminated soil
+T32	Environment 1885 1913	diesel oil-contaminated soil
+T33	Environment 1909 1913	soil
+T34	Substrate 1929 1947	total hydrocarbons
+T35	Substrate 1935 1947	hydrocarbons
+T36	Substrate 2051 2062	hydrocarbon
+T37	Substrate 1935 1947	hydrocarbons
+T38	Substrate 1885 1891	diesel
+T39	ReactionOrProcess 2051 2074	hydrocarbon degradation
+T40	ReactionOrProcess 2063 2074	degradation
+T41	ReactionOrProcess 2176 2187	utilization
+T42	ReactionOrProcess 2261 2270	oxidation
+T43	Substrate 2429 2435	diesel
+T44	ReactionOrProcess 2408 2419	degradation
+T45	Environment 2578 2582	soil
+T46	Substrate 2632 2638	diesel
+T47	ReactionOrProcess 2639 2650	degradation
+T48	ReactionOrProcess 2688 2699	utilization
+T49	ReactionOrProcess 2895 2902	degrade
+T50	ReactionOrProcess 2976 2983	degrade
+T51	Substrate 3326 3338	phenanthrene
+T52	Substrate 3316 3322	diesel
+T53	Nutrient 3427 3433	carbon
+T54	Substrate 3552 3562	diesel oil
+T55	Substrate 3592 3604	hydrocarbons
+T56	Substrate 3592 3604	hydrocarbons
+T57	Substrate 3559 3562	oil
+T58	Substrate 3552 3558	diesel
+T59	Environment 3741 3753	Aerated Soil
+T60	Environment 3883 3901	sophisticated soil
+T61	Environment 3703 3707	Soil
+T62	Environment 3749 3753	Soil
+T63	Environment 3831 3835	soil
+T64	Environment 3897 3901	soil
+T65	Environment 3932 3936	soil
+T66	Substrate 3713 3725	Hydrocarbons
+T67	Substrate 3713 3725	Hydrocarbons
+T68	ReactionOrProcess 3958 3972	bioremediation
+T69	ReactionOrProcess 3689 3699	Incubation
+T70	ReactionOrProcess 3946 3972	large-scale bioremediation
+R8	CarriedOn Arg1:T69 Arg2:T66
+R9	CarriedOn Arg1:T69 Arg2:T67
+T71	Property 4068 4079	temperature
+T72	Environment 4269 4273	soil
+T73	Substrate 4205 4215	anthracene
+T74	Substrate 4178 4189	naphthalene

@@ -1,0 +1,61 @@
+T1	Microbes 375 382	E. coli
+T2	Environment 1159 1167	sediment
+T3	Environment 1066 1076	microcosms
+T4	Environment 1173 1178	water
+T5	Substrate 1042 1045	oil
+T6	Property 1113 1127	concentrations
+T7	ReactionOrProcess 1092 1102	incubation
+T8	ReactionOrProcess 1027 1038	degradation
+T9	Nutrient 1104 1112	nitrogen
+R1	CarriedOn Arg1:T8 Arg2:T5
+T10	Nutrient 1355 1363	nitrogen
+T11	Substrate 1445 1448	oil
+T12	Substrate 1532 1535	oil
+T13	ReactionOrProcess 1449 1460	degradation
+T14	ReactionOrProcess 1445 1460	oil degradation
+T15	Nutrient 1488 1494	carbon
+T16	Environment 1611 1621	microcosms
+T17	Substrate 1758 1761	oil
+T18	Nutrient 1668 1674	carbon
+T19	Environment 1892 1902	microcosms
+T20	Environment 1960 1970	microcosms
+T21	Property 1881 1891	fertilized
+T22	Nutrient 1850 1856	carbon
+T23	Nutrient 1990 1996	carbon
+T24	Nutrient 2092 2098	carbon
+T25	Nutrient 2180 2186	carbon
+T26	Environment 2574 2583	microcosm
+T27	Environment 2508 2517	microcosm
+T28	Nutrient 2429 2435	carbon
+T29	Nutrient 2718 2724	carbon
+T30	Environment 2927 2937	microcosms
+T31	Environment 2799 2809	microcosms
+T32	Nutrient 2825 2831	carbon
+T33	Substrate 3025 3032	alkanes
+T34	Substrate 3038 3041	PAH
+T35	Substrate 3002 3005	TPH
+T36	ReactionOrProcess 2984 2998	biodegradation
+R2	CarriedOn Arg1:T36 Arg2:T33
+R3	CarriedOn Arg1:T36 Arg2:T34
+R4	CarriedOn Arg1:T36 Arg2:T35
+T37	ReactionOrProcess 3135 3149	bioremediation
+T38	ReactionOrProcess 3065 3079	biodegradation
+T39	Substrate 3236 3257	aromatic hydrocarbons
+T40	Substrate 3236 3257	aromatic hydrocarbons
+T41	Substrate 3223 3230	alkanes
+T42	Substrate 3245 3257	hydrocarbons
+T43	Substrate 3245 3257	hydrocarbons
+T44	Property 3236 3244	aromatic
+T45	Substrate 3387 3407	aromatic hydrocarbon
+T46	Substrate 3373 3381	n-alkane
+T47	Substrate 3396 3407	hydrocarbon
+T48	Property 3387 3395	aromatic
+T49	ReactionOrProcess 3396 3422	hydrocarbon biodegradation
+T50	ReactionOrProcess 3408 3422	biodegradation
+T51	Environment 3552 3561	microcosm
+T52	Environment 3599 3609	microcosms
+T53	Substrate 3498 3501	TPH
+T54	ReactionOrProcess 3498 3513	TPH degradation
+T55	ReactionOrProcess 3502 3513	degradation
+T56	Environment 3734 3744	microcosms
+T57	Nutrient 3622 3628	Carbon

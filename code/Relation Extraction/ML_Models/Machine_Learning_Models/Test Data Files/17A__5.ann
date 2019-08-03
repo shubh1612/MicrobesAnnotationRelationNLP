@@ -1,0 +1,44 @@
+T1 Microbes 25 78 heterotrophic and PAH-degrading microbial populations
+T2 ReactionOrProcess 256 270 biostimulation
+T3 ReactionOrProcess 408 418 incubation
+T4 Microbes 743 767 heterotrophic population
+T5 Environment 702 710 dry soil
+T6 Environment 1134 1138 soil
+T7 Property 1079 1092 Heterotrophic
+T8 ReactionOrProcess 1181 1191 incubation
+T9 Environment 1193 1208 Autoclaved soil
+T10 ReactionOrProcess 1280 1290 incubation
+T11 Environment 1569 1583 untreated soil
+T12 Property 1818 1831 biosurfactant
+T13 ReactionOrProcess 1894 1909 bioaugmentation
+T14 Environment 2135 2149 untreated soil
+T15 Environment 2156 2168 treated soil
+T16 Environment 2206 2218 treated soil
+T17 ReactionOrProcess 2000 2039 denaturing gradient gel electrophoresis
+T18 ReactionOrProcess 2044 2058 biodegradation
+T19 Environment 2445 2449 soil
+T20 Environment 2426 2430 soil
+T21 Property 2457 2479 water-holding capacity
+T22 ReactionOrProcess 2374 2378 DGGE
+T23 ReactionOrProcess 2274 2288 biostimulation
+T24 ReactionOrProcess 2626 2641 bioaugmentation
+T25 ReactionOrProcess 2674 2678 DGGE
+T26 Environment 2766 2780 untreated soil
+T27 ReactionOrProcess 2818 2822 DGGE
+T28 ReactionOrProcess 2910 2924 biostimulation
+T29 ReactionOrProcess 3200 3204 DGGE
+T30 Environment 3493 3501 dry soil
+T31 ReactionOrProcess 3571 3581 incubation
+T32 ReactionOrProcess 3330 3369 Denaturing gradient gel electrophoresis
+T33 Environment 3606 3617 soil sample
+T34 Environment 3732 3746 untreated soil
+R1 CarriedOn Arg1:T2 Arg2:T1
+R3 OccursIn Arg1:T8 Arg2:T6
+R5 OccursIn Arg1:T17 Arg2:T14
+R6 OccursIn Arg1:T17 Arg2:T15
+R7 OccursIn Arg1:T17 Arg2:T16
+R8 OccursIn Arg1:T18 Arg2:T14
+R9 OccursIn Arg1:T18 Arg2:T15
+R10 OccursIn Arg1:T18 Arg2:T16
+R12 OccursIn Arg1:T22 Arg2:T20
+R14 OccursIn Arg1:T23 Arg2:T20

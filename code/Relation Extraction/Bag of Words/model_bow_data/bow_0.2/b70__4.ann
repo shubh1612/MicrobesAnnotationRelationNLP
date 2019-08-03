@@ -1,0 +1,68 @@
+T1	Substrate 170 179	petroleum
+T2	Substrate 243 252	petroleum
+T3	ReactionOrProcess 41 52	enrichments
+T4	ReactionOrProcess 96 107	enrichments
+R1	CarriedOn Arg1:T3 Arg2:T1
+R2	CarriedOn Arg1:T3 Arg2:T2
+R3	CarriedOn Arg1:T4 Arg2:T1
+R4	CarriedOn Arg1:T4 Arg2:T2
+T5	Substrate 586 595	petroleum
+T6	Substrate 570 595	non-biodegraded petroleum
+T7	Substrate 554 564	hexadecane
+T8	Substrate 695 706	hydrocarbon
+T9	ReactionOrProcess 521 532	enrichments
+T10	ReactionOrProcess 695 721	hydrocarbon biodegradation
+T11	ReactionOrProcess 707 721	biodegradation
+T12	Nutrient 611 617	carbon
+R5	CarriedOn Arg1:T9 Arg2:T8
+T13	ReactionOrProcess 824 834	enrichment
+T14	Property 1207 1223	sulfate-reducing
+T15	ReactionOrProcess 1132 1143	enrichments
+T16	ReactionOrProcess 1241 1252	enrichments
+T17	ReactionOrProcess 1169 1178	reduction
+T18	ReactionOrProcess 1161 1178	sulfate reduction
+T19	ReactionOrProcess 1263 1273	extraction
+T20	ReactionOrProcess 1284 1294	extraction
+T21	ReactionOrProcess 1433 1443	enrichment
+T22	ReactionOrProcess 1477 1487	enrichment
+T23	ReactionOrProcess 1341 1352	enrichments
+T24	ReactionOrProcess 1280 1294	DNA extraction
+T25	ReactionOrProcess 1259 1273	DNA extraction
+T26	Substrate 1509 1519	hexadecane
+T27	Substrate 1664 1667	oil
+T28	ReactionOrProcess 1552 1562	enrichment
+T29	ReactionOrProcess 1644 1654	enrichment
+R6	CarriedOn Arg1:T28 Arg2:T27
+R7	CarriedOn Arg1:T29 Arg2:T27
+T30	Substrate 1812 1822	hexadecane
+T31	Substrate 1829 1832	oil
+T32	ReactionOrProcess 1795 1805	enrichment
+T33	Nutrient 1866 1872	carbon
+T34	ReactionOrProcess 2023 2034	enrichments
+T35	Substrate 2122 2131	petroleum
+T36	ReactionOrProcess 2097 2107	extraction
+T37	ReactionOrProcess 2142 2153	enrichments
+T38	ReactionOrProcess 2093 2107	DNA extraction
+T39	Substrate 2315 2325	hexadecane
+T40	Substrate 2391 2394	oil
+T41	ReactionOrProcess 2298 2308	enrichment
+T42	ReactionOrProcess 2371 2381	enrichment
+T43	ReactionOrProcess 2263 2273	enrichment
+T44	Nutrient 2329 2335	carbon
+T45	Nutrient 2398 2404	carbon
+R8	CarriedOn Arg1:T41 Arg2:T40
+R9	CarriedOn Arg1:T42 Arg2:T40
+R10	CarriedOn Arg1:T43 Arg2:T40
+T46	ReactionOrProcess 2502 2513	enrichments
+T47	Microbes 2947 2961	Proteobacteria
+T48	Microbes 3037 3051	Actinobacteria
+T49	Microbes 2969 2987	Betaproteobacteria
+T50	ReactionOrProcess 2879 2889	enrichment
+R11	CarriedOn Arg1:T50 Arg2:T48
+T51	Microbes 3448 3462	Proteobacteria
+T52	Microbes 3470 3489	Gammaproteobacteria
+T53	Substrate 3154 3163	petroleum
+T54	Substrate 3142 3163	biodegraded petroleum
+T55	ReactionOrProcess 3142 3153	biodegraded
+R12	CarriedOn Arg1:T55 Arg2:T51
+R13	CarriedOn Arg1:T55 Arg2:T52

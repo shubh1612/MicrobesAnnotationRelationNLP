@@ -1,0 +1,123 @@
+T1	Substrate 51 60	n-alkanes
+T2	Substrate 196 203	alkanes
+T3	Substrate 67 74	methane
+T4	Substrate 172 179	methane
+T5	ReactionOrProcess 38 47	oxidation
+T6	ReactionOrProcess 28 47	anaerobic oxidation
+R1	CarriedOn Arg1:T5 Arg2:T1
+R2	CarriedOn Arg1:T5 Arg2:T2
+R3	CarriedOn Arg1:T5 Arg2:T3
+R4	CarriedOn Arg1:T5 Arg2:T4
+R5	CarriedOn Arg1:T6 Arg2:T1
+R6	CarriedOn Arg1:T6 Arg2:T2
+R7	CarriedOn Arg1:T6 Arg2:T3
+R8	CarriedOn Arg1:T6 Arg2:T4
+T7	Substrate 281 288	methane
+T8	ReactionOrProcess 289 298	oxidation
+T9	Substrate 371 378	methane
+T10	Substrate 352 378	archaeal anaerobic methane
+T11	Property 393 409	sulfate-reducing
+T12	Substrate 565 572	methane
+T13	Substrate 635 642	methane
+T14	Substrate 691 697	sulfur
+T15	ReactionOrProcess 643 652	oxidation
+T16	ReactionOrProcess 665 674	reduction
+T17	ReactionOrProcess 657 674	sulfate reduction
+R9	CarriedOn Arg1:T15 Arg2:T14
+R10	CarriedOn Arg1:T16 Arg2:T14
+R11	CarriedOn Arg1:T17 Arg2:T14
+T18	Substrate 928 935	nitrite
+T19	Property 811 823	denitrifying
+T20	ReactionOrProcess 811 823	denitrifying
+T21	ReactionOrProcess 915 924	reduction
+T22	Nutrient 1038 1044	oxygen
+R12	CarriedOn Arg1:T20 Arg2:T18
+R13	CarriedOn Arg1:T21 Arg2:T18
+T23	Enzyme 1124 1137	monooxygenase
+T24	Enzyme 1116 1137	methane monooxygenase
+T25	Substrate 1090 1097	methane
+T26	Substrate 1116 1123	methane
+T27	Substrate 1167 1174	alkanes
+T28	Enzyme 1415 1438	alkylsuccinate synthase
+T29	Substrate 1415 1429	alkylsuccinate
+T30	Substrate 1295 1302	alkanes
+T31	Substrate 1548 1560	ethylbenzene
+T32	ReactionOrProcess 1611 1626	denitrification
+T33	ReactionOrProcess 1530 1543	hydroxylation
+T34	ReactionOrProcess 1520 1543	anaerobic hydroxylation
+T35	Substrate 1717 1739	saturated hydrocarbons
+T36	Substrate 1705 1712	Alkanes
+T37	Substrate 1727 1739	hydrocarbons
+T38	Substrate 1727 1739	hydrocarbons
+T39	Substrate 1717 1739	saturated hydrocarbons
+T40	Property 1717 1726	saturated
+T41	Substrate 1834 1841	alkanes
+T42	Substrate 1957 1964	alkanes
+T43	Enzyme 2051 2064	monooxygenase
+T44	Nutrient 2147 2164	electron acceptor
+T45	Nutrient 2098 2104	oxygen
+T46	Substrate 2298 2305	alkanes
+T47	Nutrient 2263 2269	oxygen
+T48	Substrate 2583 2590	alkanes
+T49	Microbes 2751 2758	archaea
+T50	Environment 2801 2817	marine sediments
+T51	Environment 2808 2817	sediments
+T52	Environment 2801 2807	marine
+T53	Environment 2852 2874	anaerobic environments
+T54	Environment 2790 2799	landfills
+T55	Environment 2801 2817	marine sediments
+T56	Substrate 2615 2622	Methane
+T57	Substrate 2644 2651	methane
+T58	Substrate 2690 2701	hydrocarbon
+T59	Property 2738 2750	methanogenic
+T60	Property 2738 2750	methanogenic
+T61	ReactionOrProcess 2602 2611	Oxidation
+T62	ReactionOrProcess 2592 2611	Anaerobic Oxidation
+R14	CarriedOn Arg1:T61 Arg2:T49
+R15	CarriedOn Arg1:T62 Arg2:T49
+R16	CarriedOn Arg1:T61 Arg2:T56
+R17	CarriedOn Arg1:T61 Arg2:T57
+R18	CarriedOn Arg1:T61 Arg2:T58
+R19	CarriedOn Arg1:T62 Arg2:T56
+R20	CarriedOn Arg1:T62 Arg2:T57
+R21	CarriedOn Arg1:T62 Arg2:T58
+T63	Substrate 2942 2949	methane
+T64	Substrate 3022 3029	methane
+T65	ReactionOrProcess 2950 2959	oxidation
+T66	Substrate 3262 3269	nitrite
+T67	Substrate 3250 3257	nitrate
+T68	ReactionOrProcess 3228 3237	reduction
+T69	Nutrient 3369 3373	iron
+R22	CarriedOn Arg1:T68 Arg2:T66
+R23	CarriedOn Arg1:T68 Arg2:T67
+T70	Substrate 3507 3514	methane
+T71	ReactionOrProcess 3515 3524	oxidation
+T72	Substrate 3765 3772	methane
+T73	Substrate 3746 3772	archaeal anaerobic methane
+T74	Property 3816 3832	sulfate-reducing
+T75	ReactionOrProcess 3708 3717	reduction
+T76	ReactionOrProcess 3626 3640	Methanogenesis
+T77	ReactionOrProcess 3700 3717	sulfate reduction
+R24	CarriedOn Arg1:T75 Arg2:T72
+R25	CarriedOn Arg1:T75 Arg2:T73
+R26	CarriedOn Arg1:T76 Arg2:T72
+R27	CarriedOn Arg1:T76 Arg2:T73
+R28	CarriedOn Arg1:T77 Arg2:T72
+R29	CarriedOn Arg1:T77 Arg2:T73
+T78	ReactionOrProcess 4171 4185	methanogenesis
+T79	Nutrient 3910 3927	electron acceptor
+T80	Microbes 4316 4323	archaea
+T81	Property 4283 4297	concentrations
+T82	Environment 4511 4520	Black Sea
+T83	Environment 4517 4520	Sea
+T84	Property 4611 4623	methanogenic
+T85	Property 4611 4623	methanogenic
+T86	Property 4753 4765	methanogenic
+T87	Property 4753 4765	methanogenic
+T88	ReactionOrProcess 5188 5197	oxidation
+T89	ReactionOrProcess 5335 5345	adaptation
+T90	ReactionOrProcess 5122 5131	reduction
+T91	ReactionOrProcess 5623 5631	purified
+T92	Substrate 5789 5796	methane
+T93	Substrate 5811 5818	methane
+T94	ReactionOrProcess 5819 5828	oxidation

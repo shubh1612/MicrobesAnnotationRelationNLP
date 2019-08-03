@@ -1,0 +1,76 @@
+T1	Environment 96 107	vadose zone
+T2	Substrate 41 50	petroleum
+T3	Substrate 51 63	hydrocarbons
+T4	Substrate 51 63	hydrocarbons
+T5	Substrate 41 63	petroleum hydrocarbons
+T6	Environment 323 328	water
+T7	Environment 329 333	sand
+T8	Environment 281 292	vadose zone
+T9	Substrate 146 157	hydrocarbon
+T10	Substrate 135 157	artificial hydrocarbon
+T11	Property 180 188	volatile
+T12	Environment 480 485	plume
+T13	Environment 420 424	soil
+T14	Substrate 516 525	petroleum
+T15	Substrate 462 473	hydrocarbon
+T16	Property 402 416	concentrations
+T17	Environment 562 566	soil
+T18	Environment 571 582	vadose zone
+T19	Substrate 710 719	petroleum
+T20	Property 753 767	concentrations
+T21	Environment 893 897	soil
+T22	Property 839 851	fluorescence
+T23	Nutrient 906 912	carbon
+T24	Nutrient 917 925	nitrogen
+T25	Environment 1189 1193	soil
+T26	Environment 1458 1462	soil
+T27	Substrate 1540 1552	hydrocarbons
+T28	Substrate 1540 1552	hydrocarbons
+T29	Substrate 1723 1732	petroleum
+T30	Substrate 1733 1744	hydrocarbon
+T31	Environment 1804 1814	subsurface
+T32	Environment 1779 1784	soils
+T33	Substrate 1818 1827	petroleum
+T34	Substrate 2064 2073	petroleum
+T35	Property 1977 1988	attenuation
+T36	ReactionOrProcess 1882 1896	bioremediation
+R1	CarriedOn Arg1:T36 Arg2:T34
+T37	Substrate 2166 2175	petroleum
+T38	Substrate 2176 2188	hydrocarbons
+T39	Substrate 2176 2188	hydrocarbons
+T40	Substrate 2166 2188	petroleum hydrocarbons
+T41	Substrate 2332 2343	hydrocarbon
+T42	Property 2357 2379	stimulating the growth
+T43	ReactionOrProcess 2426 2437	inoculation
+T44	Environment 2702 2712	subsurface
+T45	Substrate 2594 2603	petroleum
+T46	Property 2555 2566	attenuation
+T47	ReactionOrProcess 2529 2543	bioremediation
+R2	CarriedOn Arg1:T47 Arg2:T45
+T48	ReactionOrProcess 2756 2770	bioremediation
+T49	Microbes 2994 3013	enrichment cultures
+T50	Environment 2905 2916	terrestrial
+T51	Environment 3019 3028	microcosm
+T52	Environment 3049 3053	soil
+T53	Substrate 2882 2891	petroleum
+T54	ReactionOrProcess 2994 3004	enrichment
+T55	Substrate 3208 3231	phospholipid fatty acid
+T56	Environment 3591 3609	agricultural soils
+T57	Environment 3591 3609	agricultural soils
+T58	Environment 3604 3609	soils
+T59	ReactionOrProcess 3456 3460	PLFA
+T60	Environment 3656 3661	soils
+T61	Environment 3717 3721	soil
+T62	Environment 3708 3721	pristine soil
+T63	Substrate 3727 3736	petroleum
+T64	Environment 3878 3892	polluted soils
+T65	Environment 3878 3892	polluted soils
+T66	Environment 3887 3892	soils
+T67	ReactionOrProcess 4085 4095	incubation
+T68	ReactionOrProcess 4266 4276	incubation
+T69	Environment 4372 4376	soil
+T70	Environment 4321 4332	vadose zone
+T71	Environment 4464 4474	subsurface
+T72	Environment 4595 4606	groundwater
+T73	Environment 4654 4659	water
+T74	Environment 4562 4574	vadose zones

@@ -1,0 +1,56 @@
+T1	Substrate 143 150	alkanes
+T2	Microbes 193 206	Archaeoglobus
+T3	Environment 263 273	heated sea
+T4	Environment 370 373	Sea
+T5	Environment 350 356	waters
+T6	Substrate 336 343	hot oil
+T7	Substrate 465 474	n-alkenes
+T8	ReactionOrProcess 442 461	anaerobic oxidation
+T9	Property 550 566	sulfate-reducing
+T10	Microbes 748 761	Archaeoglobus
+T11	Substrate 787 794	alkanes
+T12	ReactionOrProcess 779 786	oxidize
+T13	ReactionOrProcess 831 841	metabolize
+T14	Nutrient 903 920	electron acceptor
+T15	Microbes 1302 1313	Paleococcus
+T16	Microbes 1315 1325	Pyrococcus
+T17	Microbes 1245 1259	Thermococcales
+T18	Microbes 1330 1342	Thermococcus
+T19	Microbes 1453 1467	Thermococcales
+T20	Substrate 1566 1574	peptides
+T21	ReactionOrProcess 1516 1528	fermentation
+T22	Substrate 1694 1700	sulfur
+T23	ReactionOrProcess 1675 1683	reducing
+T24	Microbes 1976 1987	Paleococcus
+T25	Microbes 1992 2002	Pyrococcus
+T26	Microbes 1793 1805	Thermococcus
+T27	Environment 1938 1959	hydrothermal habitats
+T28	Environment 1867 1885	hot oil reservoirs
+T29	Microbes 2147 2166	microbial consortia
+T30	Microbes 2045 2057	Thermococcus
+T31	Property 2202 2213	temperature
+T32	Microbes 2352 2374	Thermococcus sibiricus
+T33	Microbes 2270 2282	Thermococcus
+T34	Substrate 2305 2312	alkanes
+T35	Substrate 2414 2424	hexadecane
+T36	Microbes 2489 2501	T. sibiricus
+T37	Substrate 2426 2428	Re	
+T38	Substrate 2525 2535	hexadecane
+T39	Nutrient 2558 2564	carbon
+T40	Substrate 2611 2617	sulfur
+T41	ReactionOrProcess 2673 2683	stimulates
+T42	Nutrient 2624 2641	electron acceptor
+T43	Environment 2748 2765	hot oil reservoir
+T44	Substrate 2855 2876	aromatic hydrocarbons
+T45	Nutrient 2934 2952	electron acceptors
+R2	CarriedOn Arg1:T8 Arg2:T7
+R4	CarriedOn Arg1:T12 Arg2:T10
+R5	CarriedOn Arg1:T12 Arg2:T11
+R8	CarriedOn Arg1:T21 Arg2:T20
+R9	CarriedOn Arg1:T23 Arg2:T22
+R10	FoundIn Arg1:T24 Arg2:T27
+R12	FoundIn Arg1:T25 Arg2:T27
+R16	Of Arg1:T29 Arg2:T31
+R24	CarriedOn_No Arg1:T41 Arg2:T40
+T46	Property 568 584	alkane-degrading
+T47	Property 1472 1484	organotrophs

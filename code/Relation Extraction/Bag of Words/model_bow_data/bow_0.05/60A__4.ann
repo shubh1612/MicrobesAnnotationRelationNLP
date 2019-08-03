@@ -1,0 +1,98 @@
+T1	ReactionOrProcess 44 58	biodegradation
+T2	Environment 309 314	soils
+T3	Nutrient 344 352	nitrogen
+T4	Substrate 474 486	hydrocarbons
+T5	Substrate 474 486	hydrocarbons
+T6	ReactionOrProcess 456 470	biodegradation
+R1	CarriedOn Arg1:T6 Arg2:T4
+R2	CarriedOn Arg1:T6 Arg2:T5
+T7	Environment 766 774	sediment
+T8	Environment 757 774	deep-sea sediment
+T9	Substrate 689 699	hexadecane
+T10	Substrate 713 724	hydrocarbon
+T11	ReactionOrProcess 661 672	degradation
+R3	CarriedOn Arg1:T11 Arg2:T9
+R4	CarriedOn Arg1:T11 Arg2:T10
+T12	Substrate 887 897	hexadecane
+T13	ReactionOrProcess 932 942	incubation
+T14	Substrate 1060 1063	oil
+T15	Substrate 1221 1224	oil
+T16	ReactionOrProcess 1113 1121	degraded
+T17	Environment 1308 1313	soils
+T18	Environment 1265 1270	water
+T19	Environment 1283 1288	water
+T20	Environment 1388 1393	water
+T21	Environment 1357 1364	aquatic
+T22	Property 1406 1412	stable
+T23	Environment 1470 1481	terrestrial
+T24	Environment 1535 1540	water
+T25	Environment 1470 1492	terrestrial ecosystems
+T26	Substrate 1440 1451	Hydrocarbon
+T27	ReactionOrProcess 1440 1466	Hydrocarbon biodegradation
+T28	ReactionOrProcess 1452 1466	biodegradation
+T29	Environment 1642 1646	soil
+T30	Environment 1702 1707	water
+T31	Substrate 1616 1619	oil
+T32	Property 1708 1718	saturation
+T33	ReactionOrProcess 1627 1638	degradation
+T34	ReactionOrProcess 1674 1688	biodegradation
+T35	Environment 1874 1878	soil
+T36	ReactionOrProcess 1828 1837	reduction
+T37	ReactionOrProcess 1757 1768	degradation
+T38	ReactionOrProcess 1743 1753	inhibition
+T39	Environment 1920 1924	soil
+T40	Environment 1900 1907	aquatic
+T41	Property 1995 2003	alkaline
+T42	Microbes 2023 2045	heterotrophic bacteria
+T43	Property 2023 2036	heterotrophic
+T44	Environment 2184 2189	soils
+T45	Substrate 2299 2311	hydrocarbons
+T46	Substrate 2299 2311	hydrocarbons
+T47	ReactionOrProcess 2291 2298	degrade
+T48	Environment 2423 2427	soil
+T49	Substrate 2392 2400	gasoline
+T50	ReactionOrProcess 2374 2388	biodegradation
+R5	CarriedOn Arg1:T50 Arg2:T49
+T51	Environment 2649 2660	oily sludge
+T52	Environment 2664 2668	soil
+T53	ReactionOrProcess 2631 2645	mineralization
+T54	Environment 2680 2689	sediments
+T55	ReactionOrProcess 2817 2841	microbial mineralization
+T56	ReactionOrProcess 2827 2841	mineralization
+T57	Substrate 3018 3029	naphthalene
+T58	ReactionOrProcess 2931 2945	mineralization
+T59	ReactionOrProcess 3030 3044	mineralization
+T60	Substrate 3060 3072	Hydrocarbons
+T61	Substrate 3060 3071	Hydrocarbon
+T62	Substrate 3060 3072	Hydrocarbons
+T63	ReactionOrProcess 3096 3107	biodegraded
+T64	Microbes 3248 3277	total heterotrophic community
+T65	Environment 3169 3180	terrestrial
+T66	Environment 3510 3516	marine
+T67	Environment 3422 3426	soil
+T68	Environment 3462 3466	soil
+T69	Environment 3194 3201	aquatic
+T70	Substrate 3248 3267	total heterotrophic
+T71	Property 3254 3267	heterotrophic
+T72	Environment 3807 3813	marine
+T73	Environment 3775 3779	soil
+T74	Substrate 3762 3771	crude oil
+T75	Substrate 3741 3753	hydrocarbons
+T76	Substrate 3587 3598	hydrocarbon
+T77	Substrate 3741 3753	hydrocarbons
+T78	Substrate 3768 3771	oil
+T79	ReactionOrProcess 3713 3720	degrade
+T80	ReactionOrProcess 3552 3562	metabolize
+R6	CarriedOn Arg1:T79 Arg2:T74
+R7	CarriedOn Arg1:T79 Arg2:T75
+R8	CarriedOn Arg1:T79 Arg2:T77
+R9	CarriedOn Arg1:T79 Arg2:T78
+R10	CarriedOn Arg1:T80 Arg2:T74
+R11	CarriedOn Arg1:T80 Arg2:T75
+R12	CarriedOn Arg1:T80 Arg2:T76
+R13	CarriedOn Arg1:T80 Arg2:T77
+R14	CarriedOn Arg1:T80 Arg2:T78
+T81	Substrate 3874 3885	hydrocarbon
+T82	ReactionOrProcess 3851 3858	degrade
+T83	Environment 4104 4110	marine
+T84	Environment 4177 4181	soil

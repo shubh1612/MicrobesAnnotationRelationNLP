@@ -1,0 +1,82 @@
+T1	Property 175 185	pollutants
+T2	ReactionOrProcess 157 171	biodegradation
+T3	Substrate 374 383	petroleum
+T4	ReactionOrProcess 289 298	degrading
+R1	CarriedOn Arg1:T4 Arg2:T3
+T5	Substrate 508 517	petroleum
+T6	ReactionOrProcess 495 502	degrade
+T7	Substrate 1032 1044	hydrocarbons
+T8	Substrate 1032 1044	hydrocarbons
+T9	ReactionOrProcess 992 999	degrade
+R2	CarriedOn Arg1:T9 Arg2:T7
+R3	CarriedOn Arg1:T9 Arg2:T8
+T10	Substrate 1232 1244	hydrocarbons
+T11	Substrate 1219 1244	polyaromatic hydrocarbons
+T12	Substrate 1219 1244	polyaromatic hydrocarbons
+T13	Substrate 1232 1244	hydrocarbons
+T14	Property 1195 1203	aromatic
+T15	ReactionOrProcess 1174 1183	oxidizing
+R4	CarriedOn Arg1:T15 Arg2:T10
+R5	CarriedOn Arg1:T15 Arg2:T11
+R6	CarriedOn Arg1:T15 Arg2:T12
+R7	CarriedOn Arg1:T15 Arg2:T13
+T16	Microbes 1277 1285	inoculum
+T17	Environment 1703 1746	petroleum-contaminated aquatic environments
+T18	Environment 1703 1733	petroleum-contaminated aquatic
+T19	Environment 1726 1733	aquatic
+T20	Environment 1856 1864	seawater
+T21	Substrate 1831 1840	petroleum
+T22	ReactionOrProcess 1865 1875	inoculated
+T23	ReactionOrProcess 1841 1852	degradation
+T24	Microbes 2057 2071	Pseudomonas sp
+T25	Substrate 1989 1992	oil
+T26	ReactionOrProcess 2023 2034	inoculation
+T27	ReactionOrProcess 1974 1985	degradation
+R8	CarriedOn Arg1:T27 Arg2:T24
+R9	CarriedOn Arg1:T27 Arg2:T25
+T28	Environment 2175 2183	seawater
+T29	Substrate 2168 2171	oil
+T30	Environment 2464 2472	sediment
+T31	Environment 2453 2472	freshwater sediment
+T32	Substrate 2439 2447	gasoline
+T33	Substrate 2567 2570	oil
+T34	Substrate 2597 2600	oil
+T35	Property 2558 2566	residual
+T36	ReactionOrProcess 2712 2726	biodegradation
+T37	Environment 2728 2739	Terrestrial
+T38	Environment 2790 2795	soils
+T39	Environment 2763 2770	aquatic
+T40	Environment 2728 2749	Terrestrial ecosystem
+T41	Environment 2728 2750	Terrestrial ecosystems
+T42	Property 2811 2825	concentrations
+T43	Environment 3007 3012	soils
+T44	Substrate 3116 3127	hydrocarbon
+T45	Environment 3240 3255	particular soil
+T46	Environment 3251 3255	soil
+T47	Environment 3399 3404	soils
+T48	Environment 3251 3267	soil environment
+T49	ReactionOrProcess 3474 3488	biodegradation
+T50	Environment 3579 3584	soils
+T51	ReactionOrProcess 3564 3575	inoculation
+T52	Environment 3872 3876	soil
+T53	Property 3662 3676	concentrations
+T54	Environment 3928 3932	soil
+T55	ReactionOrProcess 3972 3983	degradation
+T56	Environment 4289 4294	soils
+T57	Substrate 4273 4285	hydrocarbons
+T58	Substrate 4273 4285	hydrocarbons
+T59	ReactionOrProcess 4255 4269	biodegradation
+R10	CarriedOn Arg1:T59 Arg2:T57
+R11	CarriedOn Arg1:T59 Arg2:T58
+T60	ReactionOrProcess 4666 4680	biodegradation
+T61	Substrate 4866 4869	oil
+T62	Environment 5087 5098	groundwater
+T63	Environment 5003 5011	seawater
+T64	Environment 5054 5082	hydrocarboncontaminated soil
+T65	Environment 5078 5082	soil
+T66	Substrate 4990 4999	crude oil
+T67	Substrate 4996 4999	oil
+T68	ReactionOrProcess 5036 5050	bioremediation
+T69	ReactionOrProcess 4972 4986	biodegradation
+R12	CarriedOn Arg1:T69 Arg2:T66
+R13	CarriedOn Arg1:T69 Arg2:T67

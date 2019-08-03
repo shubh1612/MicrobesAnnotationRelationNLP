@@ -1,0 +1,42 @@
+T1	ReactionOrProcess 222 236	Lipid analysis
+T2	ReactionOrProcess 384 393	extracted
+T3	ReactionOrProcess 519 531	fractionated
+T4	Substrate 678 684	hexane
+T5	ReactionOrProcess 653 657	PLFA
+T6	ReactionOrProcess 781 801	GC-mass spectrometry
+T7	ReactionOrProcess 694 699	PLFAs
+T8	ReactionOrProcess 878 904	flame ionization detection
+T9	ReactionOrProcess 1058 1066	detector
+T10	Property 1128 1139	temperature
+T11	ReactionOrProcess 1315 1324	retention
+T12	Property 1591 1602	temperature
+T13	ReactionOrProcess 1553 1561	detector
+T14	ReactionOrProcess 1755 1760	PLFAs
+T15	Nutrient 1919 1926	carbons
+T16	ReactionOrProcess 2483 2493	replicates
+T17	ReactionOrProcess 2518 2528	replicates
+T18	ReactionOrProcess 2590 2600	replicates
+T19	ReactionOrProcess 2661 2671	replicates
+T20	ReactionOrProcess 2790 2805	chromatographic
+T21	Environment 3355 3366	oiled plots
+T22	ReactionOrProcess 3268 3282	Bioremediation
+T23	ReactionOrProcess 3324 3338	biodegradation
+T24	Environment 3485 3490	Beach
+T25	Environment 3469 3474	water
+T26	Substrate 3636 3643	alkanes
+T27	Substrate 3714 3718	PAHs
+T28	Property 3407 3421	concentrations
+T29	Property 3577 3588	attenuation
+T30	ReactionOrProcess 3919 3937	PAH biodegradation
+T31	ReactionOrProcess 3790 3814	intrinsic biodegradation
+T32	Substrate 4179 4186	alkanes
+T33	Substrate 4202 4206	PAHs
+T34	Property 4339 4350	attenuation
+T35	Substrate 4419 4422	PAH
+T36	Property 4423 4432	degraders
+T37	Environment 4505 4516	oiled plots
+T38	Substrate 4652 4655	oil
+T39	Property 4488 4497	degraders
+R1	CarriedOn Arg1:T5 Arg2:T4
+R2	OccursIn Arg1:T22 Arg2:T21
+R3	OccursIn Arg1:T23 Arg2:T21

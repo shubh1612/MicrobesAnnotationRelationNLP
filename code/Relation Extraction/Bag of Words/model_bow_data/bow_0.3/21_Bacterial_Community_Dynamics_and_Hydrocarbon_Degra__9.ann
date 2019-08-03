@@ -1,0 +1,69 @@
+T1	Substrate 27 38	hydrocarbon
+T2	Environment 123 131	sediment
+T3	Environment 301 309	sediment
+T4	Environment 117 122	beach
+T5	Environment 295 300	beach
+T6	Substrate 271 274	oil
+T7	ReactionOrProcess 275 286	degradation
+T8	ReactionOrProcess 271 286	oil degradation
+T9	Substrate 364 367	oil
+T10	ReactionOrProcess 368 379	degradation
+T11	ReactionOrProcess 364 379	oil degradation
+T12	Substrate 518 527	n-alkanes
+T13	ReactionOrProcess 447 458	Degradation
+R1	CarriedOn Arg1:T13 Arg2:T12
+T14	Substrate 578 581	oil
+T15	ReactionOrProcess 582 593	degradation
+T16	ReactionOrProcess 578 593	oil degradation
+T17	Environment 651 661	microcosms
+T18	Substrate 681 698	dibenzothiophenes
+T19	Substrate 663 676	phenanthrenes
+T20	ReactionOrProcess 704 712	degraded
+T21	Property 1161 1172	temperature
+T22	Environment 1361 1369	sediment
+T23	Environment 1297 1306	microcosm
+T24	Environment 1330 1339	microcosm
+T25	Environment 1545 1555	microcosms
+T26	Environment 1278 1283	water
+T27	Property 1489 1503	concentrations
+T28	Property 1480 1488	residual
+T29	Property 1576 1589	water-soluble
+T30	Property 1639 1653	concentrations
+T31	Nutrient 1630 1638	nitrogen
+T32	Environment 2496 2501	water
+T33	Property 2453 2467	concentrations
+T34	Property 2532 2546	concentrations
+T35	Substrate 2876 2883	alkanes
+T36	Substrate 2992 3006	degradable oil
+T37	Substrate 2958 2965	Alkanes
+T38	Substrate 3003 3006	oil
+T39	Substrate 3187 3198	hydrocarbon
+T40	ReactionOrProcess 3187 3210	hydrocarbon degradation
+T41	ReactionOrProcess 3199 3210	degradation
+T42	Environment 3285 3293	seawater
+T43	Environment 3326 3329	Sea
+T44	Environment 3265 3270	beach
+T45	Substrate 3271 3274	oil
+T46	Substrate 3303 3306	oil
+T47	Substrate 3598 3609	naphthalene
+T48	Property 3616 3628	denitrifying
+T49	Property 3441 3451	pollutants
+T50	ReactionOrProcess 3590 3597	degrade
+T51	ReactionOrProcess 3413 3432	aerobic degradation
+T52	ReactionOrProcess 3616 3628	denitrifying
+T53	ReactionOrProcess 3421 3432	degradation
+R2	CarriedOn Arg1:T51 Arg2:T47
+R3	CarriedOn Arg1:T53 Arg2:T47
+T54	Environment 3761 3770	sediments
+T55	Environment 3780 3790	same beach
+T56	Environment 3785 3790	beach
+T57	Substrate 3881 3892	hydrocarbon
+T58	ReactionOrProcess 3881 3904	hydrocarbon degradation
+T59	ReactionOrProcess 3893 3904	degradation
+T60	ReactionOrProcess 4133 4156	significant degradation
+T61	ReactionOrProcess 4145 4156	degradation
+T62	Environment 4646 4657	groundwater
+T63	Substrate 4725 4737	hydrocarbons
+T64	Substrate 4854 4866	hydrocarbons
+T65	Substrate 4725 4737	hydrocarbons
+T66	Substrate 4854 4866	hydrocarbons

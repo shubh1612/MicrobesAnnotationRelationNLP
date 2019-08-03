@@ -1,0 +1,60 @@
+T1	Substrate 4 11	benzene
+T2	ReactionOrProcess 12 23	degradation
+T3	Microbes 537 545	inoculum
+T4	Environment 561 571	microcosms
+T5	Environment 488 492	sand
+T6	ReactionOrProcess 601 608	cloning
+T7	Environment 662 672	microcosms
+T8	Substrate 888 895	benzene
+T9	Substrate 878 895	anaerobic benzene
+T10	ReactionOrProcess 878 907	anaerobic benzene degradation
+T11	ReactionOrProcess 896 907	degradation
+T12	Environment 1012 1032	contaminated aquifer
+T13	Environment 1025 1032	aquifer
+T14	Substrate 1100 1107	benzene
+T15	Environment 1213 1220	aquifer
+T16	Substrate 1186 1193	benzene
+T17	Property 1171 1182	contaminant
+T18	Substrate 1312 1319	Benzene
+T19	Property 1320 1334	concentrations
+T20	Environment 1410 1417	aquifer
+T21	Environment 1468 1476	aquifers
+T22	Environment 1633 1642	sediments
+T23	Environment 1628 1632	sand
+T24	Environment 1581 1588	aquifer
+T25	Environment 1685 1693	aquifers
+T26	Nutrient 1730 1747	electron acceptor
+T27	Environment 1829 1836	aquifer
+T28	Property 1778 1789	attenuation
+T29	Environment 2161 2168	aquifer
+T30	Substrate 2091 2098	toluene
+T31	Nutrient 2130 2147	electron acceptor
+T32	Environment 2493 2504	groundwater
+T33	Environment 2484 2504	sulfidic groundwater
+T34	Environment 2284 2291	aquifer
+T35	Environment 2520 2527	aquifer
+T36	Substrate 2238 2245	benzene
+T37	Substrate 2228 2245	anaerobic benzene
+T38	ReactionOrProcess 2246 2260	bioremediation
+T39	Environment 2569 2573	sand
+T40	Environment 2645 2657	aerobic sand
+T41	Environment 2616 2620	sand
+T42	Environment 2653 2657	sand
+T43	ReactionOrProcess 2666 2672	sieved
+T44	Environment 2829 2840	groundwater
+T45	Substrate 2868 2875	benzene
+T46	Substrate 2877 2884	Toluene
+T47	Substrate 2886 2898	ethylbenzene
+T48	Substrate 2903 2910	xylenes
+T49	Nutrient 2999 3007	ammonium
+T50	Nutrient 3037 3046	potassium
+T51	Microbes 3244 3254	consortium
+T52	Environment 3263 3273	Microcosms
+T53	Nutrient 3437 3445	nitrogen
+T54	Environment 3501 3505	sand
+T55	Environment 3856 3861	water
+T56	Substrate 3689 3696	Benzene
+T57	Substrate 3724 3731	toluene
+T58	Substrate 3707 3713	phenol
+T59	Nutrient 3784 3790	carbon
+T60	ReactionOrProcess 3886 3896	replicates

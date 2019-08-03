@@ -1,0 +1,115 @@
+T1	Environment 33 42	sediments
+T2	Environment 25 32	aquifer
+T3	Substrate 114 118	MTBE
+T4	ReactionOrProcess 106 113	degrade
+T5	Environment 166 175	sediments
+T6	Environment 158 165	aquifer
+T7	Substrate 120 124	MTBE
+T8	Property 212 226	concentrations
+T9	ReactionOrProcess 142 150	degraded
+T10	Nutrient 181 183	HS
+T11	Substrate 414 418	MTBE
+T12	Substrate 527 531	MTBE
+T13	ReactionOrProcess 292 301	oxidation
+T14	ReactionOrProcess 517 526	oxidizing
+T15	ReactionOrProcess 345 354	reduction
+T16	ReactionOrProcess 399 410	degradation
+T17	Nutrient 374 376	HS
+T18	Nutrient 444 446	HS
+T19	Nutrient 566 568	HS
+R1	CarriedOn Arg1:T13 Arg2:T11
+R2	CarriedOn Arg1:T13 Arg2:T12
+R3	CarriedOn Arg1:T15 Arg2:T11
+R4	CarriedOn Arg1:T15 Arg2:T12
+R5	CarriedOn Arg1:T16 Arg2:T11
+R6	CarriedOn Arg1:T16 Arg2:T12
+T20	Nutrient 588 590	HS
+T21	Nutrient 663 665	HS
+T22	ReactionOrProcess 854 863	oxidation
+T23	ReactionOrProcess 813 822	reduction
+T24	ReactionOrProcess 840 849	reduction
+T25	ReactionOrProcess 705 723	electron shuttling
+T26	Nutrient 694 696	HS
+T27	Nutrient 778 780	HS
+T28	ReactionOrProcess 959 975	electron shuttle
+T29	Nutrient 941 943	HS
+T30	Environment 1154 1163	sediments
+T31	ReactionOrProcess 1130 1139	reduction
+T32	ReactionOrProcess 1116 1125	stimulate
+T33	Nutrient 1085 1087	HS
+T34	Nutrient 1095 1097	HS
+T35	ReactionOrProcess 1280 1291	degradation
+T36	Environment 1359 1376	aquatic sediments
+T37	Environment 1367 1376	sediments
+T38	Environment 1359 1366	aquatic
+T39	Environment 1359 1376	aquatic sediments
+T40	Substrate 1422 1426	MTBE
+T41	ReactionOrProcess 1412 1438	anaerobic MTBE degradation
+T42	ReactionOrProcess 1454 1463	reduction
+T43	ReactionOrProcess 1427 1438	degradation
+T44	Nutrient 1480 1498	electron acceptors
+T45	Microbes 1754 1781	methanogenic microorganisms
+T46	Property 1754 1766	methanogenic
+T47	Property 1754 1766	methanogenic
+T48	Nutrient 1637 1639	HS
+T49	Environment 1882 1890	sediment
+T50	Substrate 1838 1842	MTBE
+T51	Substrate 1960 1964	MTBE
+T52	Substrate 2091 2095	MTBE
+T53	ReactionOrProcess 1843 1852	oxidation
+T54	ReactionOrProcess 1965 1974	oxidation
+T55	ReactionOrProcess 2096 2105	oxidation
+T56	Nutrient 1912 1914	HS
+T57	Nutrient 2063 2065	HS
+T58	Substrate 2251 2255	MTBE
+T59	ReactionOrProcess 2256 2267	degradation
+T60	Environment 2342 2351	sediments
+T61	Substrate 2301 2305	MTBE
+T62	ReactionOrProcess 2321 2330	replicate
+T63	ReactionOrProcess 2306 2317	degradation
+T64	Environment 2517 2526	sediments
+T65	Environment 2509 2516	aquifer
+T66	Substrate 2471 2478	benzene
+T67	ReactionOrProcess 2479 2490	degradation
+T68	Property 2717 2729	contaminants
+T69	ReactionOrProcess 2698 2709	degradation
+T70	Environment 2793 2802	sediments
+T71	Environment 3035 3044	sediments
+T72	Property 3141 3152	contaminant
+T73	Property 3005 3017	contaminants
+T74	ReactionOrProcess 2993 3000	degrade
+T75	ReactionOrProcess 3111 3133	detectable degradation
+T76	ReactionOrProcess 3122 3133	degradation
+T77	Substrate 3179 3182	TBA
+T78	ReactionOrProcess 3164 3175	Degradation
+T79	ReactionOrProcess 3154 3175	Anaerobic Degradation
+R7	CarriedOn Arg1:T78 Arg2:T77
+R8	CarriedOn Arg1:T79 Arg2:T77
+T80	Environment 3238 3249	groundwater
+T81	Substrate 3255 3263	gasoline
+T82	Substrate 3299 3302	TBA
+T83	ReactionOrProcess 3277 3287	oxygenates
+T84	ReactionOrProcess 3311 3319	degraded
+T85	Substrate 3407 3415	gasoline
+T86	Substrate 3345 3349	MTBE
+T87	Substrate 3321 3324	TBA
+T88	ReactionOrProcess 3350 3361	degradation
+R9	CarriedOn Arg1:T88 Arg2:T85
+T89	Environment 3504 3524	anaerobic conditions
+T90	Substrate 3458 3461	TBA
+T91	ReactionOrProcess 3477 3485	degraded
+T92	Substrate 3620 3623	TBA
+T93	ReactionOrProcess 3639 3647	degraded
+T94	Environment 3837 3846	sediments
+T95	Environment 3825 3846	TBA-adapted sediments
+T96	Environment 3825 3846	TBA-adapted sediments
+T97	Environment 3733 3753	anaerobic conditions
+T98	Substrate 3697 3700	TBA
+T99	ReactionOrProcess 3802 3821	aerobic degradation
+T100	ReactionOrProcess 3701 3712	degradation
+T101	ReactionOrProcess 3810 3821	degradation
+T102	Substrate 3937 3944	methane
+T103	Substrate 3916 3919	TBA
+T104	Nutrient 3949 3955	carbon
+T105	Environment 4228 4237	sediments
+T106	ReactionOrProcess 4138 4152	methanogenesis

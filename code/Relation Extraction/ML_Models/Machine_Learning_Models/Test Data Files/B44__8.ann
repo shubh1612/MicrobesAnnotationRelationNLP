@@ -1,0 +1,42 @@
+T1 Microbes 121 130 P. putida
+T2 Substrate 218 230 hydrocarbons
+T3 Substrate 457 468 hydrocarbon
+T4 Substrate 655 666 hydrocarbon
+T5 ReactionOrProcess 326 337 utilization
+T6 Property 731 739 toxicity
+T7 Substrate 1100 1111 hydrocarbon
+T8 Substrate 1170 1182 hydrocarbons
+T9 Substrate 1333 1344 hydrocarbon
+T10 ReactionOrProcess 1436 1447 biotoxicity
+T11 Substrate 1672 1683 hydrocarbon
+T12 Property 1636 1654 vapor-phase growth
+T13 Substrate 1781 1801 gasoline hydrocarbon
+T14 Property 2094 2105 degradative
+T15 Property 1950 1974 hydrocarbon-contaminated
+T16 Environment 2374 2379 Beach
+T17 Microbes 3098 3111 P. aeruginosa
+T18 Microbes 3115 3124 P. putida
+T19 Substrate 4335 4356 aromatic hydrocarbons
+T20 Environment 4455 4460 water
+T21 Substrate 4411 4419 gasoline
+T22 Substrate 4358 4379 Aromatic hydrocarbons
+T23 Property 4461 4468 soluble
+T24 Property 4478 4486 volatile
+T25 Environment 4592 4603 groundwater
+T26 Environment 4670 4681 groundwater
+T27 Environment 4704 4709 Beach
+T28 Substrate 4620 4628 gasoline
+T29 Substrate 4567 4588 aromatic hydrocarbons
+T30 ReactionOrProcess 4655 4666 GC analyses
+T31 Environment 4791 4796 plume
+T32 Substrate 5034 5045 hydrocarbon
+T33 Property 4941 4949 aromatic
+T34 ReactionOrProcess 4923 4933 adaptation
+T35 Substrate 5110 5137 different test hydrocarbons
+R1 ActOn Arg1:T1 Arg2:T2
+R4 CarriedOn Arg1:T30 Arg2:T28
+R5 CarriedOn Arg1:T30 Arg2:T29
+R6 OccursIn Arg1:T30 Arg2:T25
+R7 OccursIn Arg1:T30 Arg2:T26
+R8 OccursIn Arg1:T30 Arg2:T27
+R9 CarriedOn Arg1:T34 Arg2:T32

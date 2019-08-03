@@ -1,0 +1,74 @@
+T1	Environment 236 242	porous
+T2	Substrate 61 68	ethanol
+T3	Substrate 280 287	ethanol
+T4	Substrate 84 92	gasoline
+T5	Substrate 255 263	gasoline
+T6	Substrate 216 220	BTEX
+T7	Property 177 186	retention
+T8	ReactionOrProcess 177 186	retention
+T9	ReactionOrProcess 201 212	degradation
+R1	CarriedOn Arg1:T8 Arg2:T6
+R2	CarriedOn Arg1:T9 Arg2:T6
+T10	Environment 571 595	ethanol-containing soils
+T11	Environment 371 381	inert soil
+T12	Environment 428 444	undisturbed soil
+T13	Environment 571 595	ethanol-containing soils
+T14	Environment 440 444	soil
+T15	Environment 377 381	soil
+T16	Environment 590 595	soils
+T17	Substrate 323 330	ethanol
+T18	Substrate 294 302	gasoline
+T19	Substrate 406 414	gasoline
+T20	Substrate 337 341	BTEX
+T21	Property 491 499	residues
+T22	Property 371 376	inert
+T23	Property 391 402	attenuation
+T24	Property 669 681	contaminants
+T25	ReactionOrProcess 511 520	degrading
+T26	Environment 875 879	soil
+T27	Environment 821 826	water
+T28	Substrate 778 785	ethanol
+T29	Substrate 789 793	BTEX
+T30	Substrate 863 867	BTEX
+T31	Property 807 817	solubility
+T32	Property 850 859	retention
+T33	ReactionOrProcess 850 859	retention
+T34	Environment 946 950	soil
+T35	Substrate 917 933	gasoline–ethanol
+T36	Substrate 904 912	gasoline
+T37	Environment 1163 1167	soil
+T38	Property 1168 1176	toxicity
+T39	Property 1168 1176	toxicity
+T40	ReactionOrProcess 1150 1159	reduction
+T41	Environment 1260 1264	soil
+T42	Environment 1338 1342	soil
+T43	Substrate 1307 1323	gasoline–ethanol
+T44	Substrate 1443 1450	ethanol
+T45	ReactionOrProcess 1415 1439	preferential degradation
+T46	ReactionOrProcess 1428 1439	degradation
+R3	CarriedOn Arg1:T45 Arg2:T44
+R4	CarriedOn Arg1:T46 Arg2:T44
+T47	Environment 1492 1497	soils
+T48	Substrate 1516 1528	BTEX–ethanol
+T49	ReactionOrProcess 1462 1471	degrading
+T50	ReactionOrProcess 1571 1585	biodegradation
+T51	Environment 1775 1779	soil
+T52	Property 1780 1788	toxicity
+T53	Property 1780 1788	toxicity
+T54	Environment 1844 1860	unsaturated soil
+T55	Environment 1856 1860	soil
+T56	Substrate 1885 1892	ethanol
+T57	Environment 2004 2008	soil
+T58	Property 1993 2000	residue
+T59	Property 1981 1992	contaminant
+T60	Substrate 2142 2149	ethanol
+T61	Substrate 2224 2232	gasoline
+T62	Substrate 2160 2164	BTEX
+T63	ReactionOrProcess 2233 2243	oxygenated
+T64	ReactionOrProcess 2278 2299	atmospheric pollution
+T65	ReactionOrProcess 2165 2176	degradation
+T66	Substrate 2493 2509	gasoline–ethanol
+T67	Substrate 2566 2573	ethanol
+T68	ReactionOrProcess 2397 2408	degradation
+R5	CarriedOn Arg1:T68 Arg2:T66
+R6	CarriedOn Arg1:T68 Arg2:T67

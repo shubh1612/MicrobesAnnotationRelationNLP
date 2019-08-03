@@ -1,0 +1,90 @@
+T1 Microbes 69 83 Geobacteraceae
+T2 Substrate 205 212 benzene
+T3 Property 104 121 benzene-oxidizing
+T4 ReactionOrProcess 213 224 degradation
+T5 Environment 480 487 aquifer
+T6 Substrate 447 454 benzene
+T7 ReactionOrProcess 455 464 oxidation
+T8 ReactionOrProcess 357 371 lipid analysis
+T9 ReactionOrProcess 377 394 culturing studies
+T10 ReactionOrProcess 298 312 biodegradation
+T11 Microbes 562 574 theGeobacter
+T12 Property 618 635 benzene-oxidizing
+T13 Environment 744 755 Groundwater
+T14 Property 756 762 Toxics
+T15 Environment 819 827 forested
+T16 Substrate 891 900 crude oil
+T17 Environment 938 943 plume
+T18 Environment 1003 1019 crude oil source
+T19 Substrate 955 959 BTEX
+T20 Property 926 937 contaminant
+T21 Environment 1164 1175 groundwater
+T22 Environment 1105 1129 coarse-grained sediments
+T23 Environment 1053 1060 aquifer
+T24 Property 1096 1101 sandy
+T25 Property 1176 1187 contaminant
+T26 Property 1259 1270 contaminant
+T27 Environment 1492 1511 uncontaminated site
+T28 Property 1459 1470 contaminant
+T29 Environment 1545 1554 sediments
+T30 Property 1670 1681 contaminant
+T31 ReactionOrProcess 1572 1581 reduction
+T32 Environment 1861 1870 sediments
+T33 Environment 1825 1834 Sediments
+T34 Environment 2056 2061 plume
+T35 Environment 1968 1992 uncontaminated sediments
+T36 Environment 1890 1912 Methanogenic sediments
+T37 Property 2044 2055 contaminant
+T38 Environment 2077 2086 sediments
+T39 Environment 2159 2173 drilling cores
+T40 Environment 2257 2265 Sediment
+T41 Environment 2352 2371 N2-filled glove bag
+T42 ReactionOrProcess 2279 2290 homogenized
+T43 Microbes 2377 2396 enrichment cultures
+T44 Environment 2410 2418 sediment
+T45 Environment 2554 2562 sediment
+T46 Substrate 2490 2513 phospholipid fatty acid
+T47 Environment 2745 2754 Sediments
+T48 Substrate 2792 2799 benzene
+T49 Substrate 2853 2860 benzene
+T50 ReactionOrProcess 2830 2849 Anaerobic oxidation
+T51 Microbes 2921 2940 Enrichment cultures
+T52 Property 2964 2981 benzene-oxidizing
+T53 Property 2990 2998 reducers
+T54 Environment 3078 3086 sediment
+T55 Substrate 3186 3193 benzene
+T56 Property 3120 3127 reducer
+T57 Property 3263 3274 crystalline
+T58 Nutrient 3303 3320 electron acceptor
+T59 Environment 3508 3516 sediment
+T60 ReactionOrProcess 3570 3579 incubated
+T61 ReactionOrProcess 3610 3621 enumeration
+T62 Substrate 3638 3645 benzene
+T63 Substrate 3675 3682 benzene
+T64 ReactionOrProcess 3711 3721 inoculated
+T65 ReactionOrProcess 3623 3634 Utilization
+T66 Substrate 3763 3770 Benzene
+T67 Property 3771 3785 concentrations
+T68 Substrate 3825 3832 Benzene
+T69 ReactionOrProcess 3833 3847 mineralization
+T70 Microbes 3963 3982 enrichment cultures
+R2 ActOn Arg1:T1 Arg2:T2
+R3 CarriedOn Arg1:T4 Arg2:T1
+R4 CarriedOn Arg1:T4 Arg2:T2
+R5 CarriedOn Arg1:T7 Arg2:T6
+R6 CarriedOn Arg1:T8 Arg2:T6
+R7 CarriedOn Arg1:T9 Arg2:T6
+R9 OccursIn Arg1:T7 Arg2:T5
+R10 OccursIn Arg1:T8 Arg2:T5
+R11 OccursIn Arg1:T9 Arg2:T5
+R12 OccursIn Arg1:T10 Arg2:T5
+R14 OccursIn Arg1:T31 Arg2:T29
+R15 OccursIn Arg1:T42 Arg2:T40
+R16 OccursIn Arg1:T42 Arg2:T41
+R18 CarriedOn Arg1:T50 Arg2:T49
+R20 Of Arg1:T51 Arg2:T53
+R21 CarriedOn Arg1:T64 Arg2:T62
+R22 CarriedOn Arg1:T64 Arg2:T63
+R23 CarriedOn Arg1:T65 Arg2:T62
+R24 CarriedOn Arg1:T65 Arg2:T63
+R25 CarriedOn Arg1:T69 Arg2:T68

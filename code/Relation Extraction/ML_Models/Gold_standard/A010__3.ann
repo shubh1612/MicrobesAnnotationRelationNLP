@@ -1,0 +1,93 @@
+T1	Environment 181 197	undisturbed soil
+T2	Substrate 124 136	BTEX–ethanol
+T3	Substrate 115 119	BTEX
+T4	Substrate 21 58	Standard and ethanol-blended gasoline
+T5	Substrate 261 273	BTEX–ethanol
+T6	Substrate 252 256	BTEX	
+T7	Substrate 345 363	Brazilian gasoline
+T8	Environment 457 469	soil samples
+T9	Environment 447 461	composite soil
+T10	Substrate 492 500	methanol
+T11	Property 414 426	Contaminants
+T12	ReactionOrProcess 432 441	extracted
+T13	Environment 542 546	soil
+T14	Substrate 502 510	Gasoline	
+T15	Substrate 525 529	BTEX
+T16	Property 707 718	temperature
+T17	ReactionOrProcess 649 657	detector
+T18	Environment 1063 1075	soil samples
+T19	Environment 1053 1067	composite soil
+T20	ReactionOrProcess 1081 1090	incubated
+T21	ReactionOrProcess 894 903	degrading
+T22	Microbes 1400 1446	culturable heterotrophic bacterial populations
+T23	Microbes 1265 1301	culturable heterotrophic populations
+T24	Environment 1331 1343	soil samples
+T25	Environment 1321 1335	composite soil
+T26	Environment 1387 1392	water
+T27	Property 1478 1484	colony
+T28	Nutrient 1521 1525	agar
+T29	Environment 1597 1601	Soil
+T30	Environment 1672 1677	water
+T31	Environment 1681 1701	uncontaminated soils
+T32	Environment 1777 1788	dried soils
+T33	Property 1738 1752	volatilisation
+T34	Property 1722 1734	contaminants
+T35	Environment 2145 2161	undisturbed soil
+T36	Environment 2020 2032	natural soil
+T37	Environment 2196 2200	soil
+T38	Environment 2068 2073	water
+T39	Environment 2201 2206	water
+T40	Substrate 2235 2243	gasoline
+T41	Substrate 2081 2089	gasoline
+T42	Property 2000 2014	volatilisation
+T43	Property 2124 2138	volatilisation
+T44	ReactionOrProcess 2222 2231	retention
+T45	Environment 2255 2271	Undisturbed soil	
+T46	Environment 2365 2370	water
+T47	Environment 2401 2406	water
+T48	Property 2525 2547	water holding capacity
+T49	Environment 2549 2553	Soil	
+T50	Environment 2761 2766	water
+T51	Substrate 2567 2609	contaminated with ethanol-blended gasoline
+T52	Property 2634 2645	temperature
+T53	Property 2726 2740	volatilisation
+T54	Property 2744 2756	contaminants
+T55	Environment 2774 2790	undisturbed soil
+T56	Environment 2838 2843	water
+T57	Substrate 2876 2913	standard and ethanol-blended gasoline
+T58	Substrate 3002 3018	gasoline–ethanol
+T59	Substrate 2989 2997	gasoline
+T60	Property 3035 3049	volatilisation
+T61	Environment 3299 3314	artificial soil
+T62	Environment 3231 3242	vadose zone
+T63	Substrate 3215 3223	gasoline
+T64	Substrate 3358 3366	gasoline
+T65	Substrate 3371 3395	ethanol-amended gasoline
+T66	Property 3078 3089	contaminant
+T67	ReactionOrProcess 3271 3283	infiltration
+T68	ReactionOrProcess 3107 3116	retention
+T69	Property 3397 3409	Contaminants	
+T70	Environment 3666 3670	soil
+T71	Environment 3549 3555	porous
+T72	Substrate 3703 3710	ethanol
+T73	Substrate 3629 3636	benzene
+T74	Substrate 3641 3648	toluene
+T75	ReactionOrProcess 3649 3658	retention
+T76	Environment 3775 3784	microcosm
+R1	CarriedOn Arg1:T12 Arg2:T10
+R2	OccursIn Arg1:T12 Arg2:T8
+R3	OccursIn Arg1:T12 Arg2:T9
+R7	OccursIn Arg1:T20 Arg2:T18
+R8	OccursIn Arg1:T20 Arg2:T19
+R11	FoundIn Arg1:T22 Arg2:T24
+R14	FoundIn Arg1:T23 Arg2:T24
+R15	FoundIn Arg1:T23 Arg2:T25
+R16	FoundIn Arg1:T23 Arg2:T26
+R19	CarriedOn Arg1:T44 Arg2:T40
+R23	OccursIn Arg1:T44 Arg2:T37
+R25	OccursIn Arg1:T44 Arg2:T39
+R32	OccursIn Arg1:T67 Arg2:T61
+R36	CarriedOn Arg1:T75 Arg2:T72
+R37	CarriedOn Arg1:T75 Arg2:T73
+R38	CarriedOn Arg1:T75 Arg2:T74
+R39	OccursIn Arg1:T75 Arg2:T70

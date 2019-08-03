@@ -1,0 +1,75 @@
+T1	Environment 46 55	sediments
+T2	Substrate 21 28	methane
+T3	Substrate 206 213	methane
+T4	ReactionOrProcess 193 202	oxidation
+T5	ReactionOrProcess 136 146	enrichment
+R1	CarriedOn Arg1:T4 Arg2:T3
+R2	CarriedOn Arg1:T5 Arg2:T3
+T6	Substrate 230 242	hydrocarbons
+T7	Substrate 215 242	Straight-chain hydrocarbons
+T8	Substrate 230 242	hydrocarbons
+T9	Substrate 215 241	Straight-chain hydrocarbon
+T10	Substrate 215 242	Straight-chain hydrocarbons
+T11	ReactionOrProcess 345 354	oxidation
+T12	Environment 410 418	sediment
+T13	Environment 817 820	sea
+T14	Substrate 911 918	methane
+T15	ReactionOrProcess 980 989	oxidation
+T16	Nutrient 867 873	Carbon
+T17	Substrate 1023 1030	methane
+T18	Substrate 1181 1188	methane
+T19	ReactionOrProcess 1154 1163	oxidation
+T20	Environment 1232 1241	sediments
+T21	Environment 1301 1310	sediments
+T22	Environment 1226 1241	mound sediments
+T23	Substrate 1207 1214	methane
+T24	Environment 1414 1422	sediment
+T25	Environment 1520 1528	sediment
+T26	Environment 1562 1570	sediment
+T27	Environment 1514 1528	mound sediment
+T28	Substrate 1469 1476	methane
+T29	Substrate 1596 1603	methane
+T30	Substrate 1665 1672	methane
+T31	Environment 1768 1777	sediments
+T32	Substrate 1751 1758	methane
+T33	Substrate 1806 1813	methane
+T34	Environment 1945 1954	sediments
+T35	Substrate 1841 1848	methane
+T36	ReactionOrProcess 1884 1893	oxidation
+T37	Environment 2151 2160	sediments
+T38	Environment 2201 2210	sediments
+T39	Environment 2145 2160	mound sediments
+T40	Substrate 2303 2310	methane
+T41	Property 2239 2262	kinetic isotope effects
+T42	ReactionOrProcess 2290 2299	oxidation
+R3	CarriedOn Arg1:T42 Arg2:T40
+T43	Environment 2390 2399	sediments
+T44	Substrate 2423 2430	methane
+T45	ReactionOrProcess 2557 2566	oxidation
+T46	Environment 2758 2767	sediments
+T47	Environment 2808 2817	sediments
+T48	Environment 2752 2767	mound sediments
+T49	ReactionOrProcess 2857 2866	depletion
+T50	ReactionOrProcess 2917 2926	oxidation
+T51	Property 2964 2975	temperature
+T52	Environment 3242 3245	sea
+T53	Environment 3525 3534	sediments
+T54	Substrate 3457 3464	methane
+T55	ReactionOrProcess 3430 3439	depletion
+T56	ReactionOrProcess 3487 3496	depletion
+R4	CarriedOn Arg1:T55 Arg2:T54
+R5	CarriedOn Arg1:T56 Arg2:T54
+T57	Environment 3602 3610	sediment
+T58	Substrate 3649 3656	methane
+T59	Substrate 3909 3921	hydrocarbons
+T60	Substrate 3831 3838	methane
+T61	Substrate 3909 3921	hydrocarbons
+T62	Substrate 3897 3921	thermogenic hydrocarbons
+T63	Substrate 3897 3921	thermogenic hydrocarbons
+T64	Substrate 4005 4017	hydrocarbons
+T65	Substrate 3987 3994	methane
+T66	Substrate 4005 4017	hydrocarbons
+T67	Property 4154 4166	temperatures
+T68	Property 4043 4055	methanogenic
+T69	Property 4043 4055	methanogenic
+T70	Nutrient 3970 3976	carbon

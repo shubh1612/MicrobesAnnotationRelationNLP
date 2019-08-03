@@ -1,0 +1,50 @@
+T1	Microbes 312 326	proteobacteria
+T2	Environment 353 364	oiled plots
+T3	Property 280 293	gram-negative
+T4	Microbes 443 459	α-proteobacteria
+T5	Microbes 825 839	proteobacteria
+T6	ReactionOrProcess 985 995	replicates
+T7	Substrate 1376 1388	hydrocarbons
+T8	Property 1147 1160	gram-negative
+T9	Property 1285 1296	attenuation
+T10	ReactionOrProcess 1358 1372	bioremediation
+T11	Microbes 1459 1472	actinomycetes
+T12	Property 1477 1493	sulfate-reducing
+T13	ReactionOrProcess 1419 1423	PLFA
+T14	Microbes 1708 1726	enrichment culture
+T15	Microbes 1803 1811	inoculum
+T16	Microbes 1727 1735	inoculum
+T17	ReactionOrProcess 1792 1802	enrichment
+T18	ReactionOrProcess 1683 1686	PCR	
+T19	Microbes 2001 2009	inoculum
+T20	ReactionOrProcess 2018 2028	inoculated
+T21	Microbes 2141 2149	inoculum
+T22	ReactionOrProcess 2340 2344	PLFA
+T23	ReactionOrProcess 2396 2409	DGGE analysis	
+T24	Microbes 2711 2725	proteobacteria
+T25	Environment 2608 2619	oiled plots
+T26	Environment 2914 2924	oiled plot
+T27	Environment 3008 3019	oiled plots
+T28	Property 2974 2987	gram-negative
+T29	ReactionOrProcess 3023 3027	PLFA
+T30	Substrate 3241 3244	PAH
+T31	Substrate 3310 3313	oil
+T32	Property 3245 3254	degraders
+T33	Property 3647 3660	gram-negative
+T34	Microbes 3775 3787	Sphingomonas
+T35	Property 3837 3848	attenuation
+T36	Property 4221 4232	attenuation
+T37	Property 4431 4442	attenuation
+T38	ReactionOrProcess 4694 4708	biodegradation
+T39	ReactionOrProcess 4740 4744	PLFA
+R2	Of Arg1:T1 Arg2:T3
+R3	CarriedOn Arg1:T10 Arg2:T7
+R4	Of Arg1:T11 Arg2:T12
+R7	CarriedOn Arg1:T17 Arg2:T15
+R9	CarriedOn Arg1:T18 Arg2:T14
+R11	CarriedOn Arg1:T18 Arg2:T16
+R12	CarriedOn Arg1:T20 Arg2:T19
+R14	OccursIn Arg1:T29 Arg2:T27
+T40	Microbes 795 809	Sphingomonasin
+T41	Microbes 1161 1194	Flexibacter-Cytophaga-Bacteroides
+T42	Microbes 3997 4030	Flexibacter-Cytophaga-Bacteroides

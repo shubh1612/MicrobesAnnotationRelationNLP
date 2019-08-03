@@ -1,0 +1,61 @@
+T1	Environment 31 40	sediments
+T2	Environment 21 26	soils
+T3	Environment 225 230	plume
+T4	Environment 301 306	plume
+T5	Substrate 124 148	and MP8 ; see Figure 2 ) a
+T6	Environment 522 527	plume
+T7	Environment 447 452	water
+T8	Environment 467 472	water
+T9	ReactionOrProcess 371 380	extracted
+T10	ReactionOrProcess 361 365	PLFA
+T11	Environment 597 608	groundwater
+T12	Environment 634 639	plume
+T13	Environment 778 789	groundwater
+T14	Environment 868 873	plume
+T15	Substrate 951 972	aromatic hydrocarbons
+T16	Environment 1042 1053	groundwater
+T17	Environment 1080 1085	water
+T18	Substrate 1113 1134	aromatic hydrocarbons
+T19	Environment 1227 1237	subsurface
+T20	Property 1272 1285	concentration
+T21	Environment 1320 1331	groundwater
+T22	Environment 1493 1504	groundwater
+T23	Substrate 1348 1370	petroleum hydrocarbons
+T24	Property 1476 1485	dissolved
+T25	Property 1463 1475	contaminants
+T26	Substrate 1672 1680	gasoline
+T27	Substrate 1584 1591	benzene
+T28	Substrate 1596 1603	toluene
+T29	Property 1566 1580	concentrations
+T30	Property 1637 1651	concentrations
+T31	Environment 1769 1780	groundwater
+T32	Environment 1729 1736	aquifer
+T33	Property 2090 2103	concentration
+T34	Property 2078 2089	contaminant
+T35	Property 2186 2200	concentrations
+T36	Property 2210 2222	contaminants
+T37	Property 2204 2209	toxic
+T38	Property 2388 2404	sulfate-reducing
+T39	Microbes 2487 2504	Desulfovibrio spp
+T40	Environment 2627 2638	groundwater
+T41	ReactionOrProcess 2668 2677	depletion
+T42	ReactionOrProcess 2579 2584	PLFAs
+T43	Environment 2786 2791	plume
+T44	Environment 2746 2750	soil
+T45	Environment 2824 2829	water
+T46	Environment 2816 2823	aquifer
+T47	Property 2774 2785	contaminant
+T48	Microbes 2895 2908	actinomycetes
+T49	Environment 2923 2936	aerobic soils
+T50	Environment 3112 3129	contaminated site
+T51	Substrate 3066 3090	phospholipid fatty acids
+T52	Property 2987 3003	sulfate-reducing
+T53	Property 3167 3183	sulfate-reducing
+T54	ReactionOrProcess 2959 2969	Enrichment	
+T55	ReactionOrProcess 2974 2983	isolation
+R1	OccursIn Arg1:T9 Arg2:T6
+R3	OccursIn Arg1:T9 Arg2:T8
+R4	OccursIn Arg1:T10 Arg2:T6
+R6	OccursIn Arg1:T10 Arg2:T8
+R7	OccursIn Arg1:T41 Arg2:T40
+R9	FoundIn Arg1:T48 Arg2:T49

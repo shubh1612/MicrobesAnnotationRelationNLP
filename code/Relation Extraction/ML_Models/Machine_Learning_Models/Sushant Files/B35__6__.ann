@@ -1,0 +1,71 @@
+T1	Substrate 64 72	gasoline
+T2	Substrate 123 131	gasoline
+T3	ReactionOrProcess 103 119	sulfur reduction
+T4	ReactionOrProcess 28 52	fluid catalytic cracking
+T5	Microbes 206 219	M. goodii X7B
+T6	Substrate 188 194	sulfur
+T7	Microbes 264 267	X7B
+T8	Substrate 325 334	thiophene
+T9	Substrate 352 361	thiophene
+T10	Substrate 252 255	DBT
+T11	Substrate 319 323	DBTs
+T12	Substrate 244 247	BTH
+T13	Substrate 303 307	BTHs
+T14	Substrate 430 436	sulfur
+T15	Substrate 507 515	gasoline
+T16	Property 636 646	saturation
+T17	ReactionOrProcess 674 698	fluid catalytic cracking
+T18	ReactionOrProcess 537 557	hydrodesulfurization
+T19	ReactionOrProcess 488 503	desulfurization
+T20	ReactionOrProcess 594 603	reduction
+T21	Substrate 749 758	thiophene
+T22	Substrate 829 837	gasoline
+T23	Substrate 744 747	BTH
+T24	Substrate 792 797	thiol
+T25	Substrate 809 815	sulfur
+T26	Substrate 881 889	gasoline
+T27	ReactionOrProcess 995 1006	degradation
+T28	Substrate 1132 1140	gasoline
+T29	ReactionOrProcess 1141 1151	combustion
+T30	Substrate 1195 1203	gasoline
+T31	Substrate 1261 1264	oil
+T32	Substrate 1362 1370	gasoline
+T33	Property 1350 1358	toxicity
+T34	Environment 1450 1455	water
+T35	Substrate 1461 1464	oil
+T36	Environment 1519 1524	water
+T37	Substrate 1511 1514	oil
+T38	Substrate 1545 1548	oil
+T39	Substrate 1703 1711	gasoline
+T40	Substrate 1636 1639	oil
+T41	Property 1691 1699	toxicity
+T42	Microbes 1786 1797	Nocardia sp
+T43	Substrate 1849 1862	light gas oil
+T44	ReactionOrProcess 1830 1845	desulfurization
+T45	Substrate 1979 1982	oil
+T46	ReactionOrProcess 1999 2014	desulfurization
+T47	Microbes 2021 2048	Pseudomonas delafieldii R-8
+T48	Substrate 2108 2118	diesel oil
+T49	ReactionOrProcess 2119 2134	desulfurization
+T50	ReactionOrProcess 2165 2180	desulfurization
+T51	Substrate 2391 2412	gasoline hydrocarbons
+T52	Property 2440 2453	concentration
+T53	ReactionOrProcess 2266 2279	Encapsulation
+T54	ReactionOrProcess 2414 2422	reducing
+T55	Substrate 2608 2616	gasoline
+T56	ReactionOrProcess 2617 2635	biodesulfurization
+T57	Microbes 2765 2768	X7B
+T58	Substrate 2844 2852	gasoline
+T59	Property 2816 2840	organic sulfur compounds
+T60	Property 2946 2968	thermophilic bacterium
+R1	ActOn Arg1:T5 Arg2:T6
+R2	ActOn Arg1:T7 Arg2:T8
+R3	ActOn Arg1:T7 Arg2:T9
+R4	ActOn Arg1:T7 Arg2:T10
+R5	ActOn Arg1:T7 Arg2:T11
+R6	ActOn Arg1:T7 Arg2:T12
+R7	ActOn Arg1:T7 Arg2:T13
+R8	ActOn Arg1:T7 Arg2:T14
+R9	ActOn Arg1:T47 Arg2:T48
+R10	Of Arg1:T57 Arg2:T59
+R11	ActOn Arg1:T57 Arg2:T58

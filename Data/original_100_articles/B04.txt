@@ -1,0 +1,13 @@
+B04
+Microbial community structure in hexadecane- and naphthalene-enriched gas station soil.
+(PMID:19652511)
+Abstract
+Citations Hover help
+BioEntities Hover help
+Related Articles Hover help
+External Links Hover help
+Baek K ,  Kim HS  
+Journal of Microbiology and Biotechnology [01 Jul 2009, 19(7):651-657]
+Type: Research Support, Non-U.S. Gov't, Journal Article
+Abstract
+Shifts in the activity and diversity of microbes involved in aliphatic and aromatic hydrocarbon degradation in contaminated soil were investigated. Subsurface soil was collected from a gas station that had been abandoned since 1995 owing to ground subsidence. The total petroleum hydrocarbon content of the sample was approximately 2,100 mg/kg, and that of the soil below a gas pump was over 23,000 mg/kg. Enrichment cultures were grown in mineral medium that contained hexadecane (H) or naphthalene (N) at a concentration of 200 mg/l. In the Henrichment culture, a real-time PCR assay revealed that the 16S rRNA gene copy number increased from 1.2x105 to 8.6x106 with no lag phase, representing an approximately 70-fold increase. In the N-enrichment culture, the 16S rRNA copy number increased about 13-fold after 48 h, from 6.3x104 to 8.3x105. Microbial communities in the enrichment cultures were studied by denaturing gradient gel electrophoresis and by analysis of 16S rRNA gene libraries. Before the addition of hydrocarbons, the gas station soil contained primarily Alpha- and Gammaproteobacteria. During growth in the H-enrichment culture, the contribution of Bacteriodetes to the microbial community increased significantly. On the other hand, during N-enrichment, the Betaproteobacteria population increased conspicuously. These results suggest that specific phylotypes of bacteria were associated with the degradation of each hydrocarbon.

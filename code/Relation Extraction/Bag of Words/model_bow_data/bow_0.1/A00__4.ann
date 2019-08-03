@@ -1,0 +1,17 @@
+T1	Environment 1007 1012	plume
+T2	ReactionOrProcess 1831 1837	blastn
+T3	ReactionOrProcess 1666 1672	blastn
+T4	Substrate 2111 2122	hydrocarbon
+T5	ReactionOrProcess 2111 2134	hydrocarbon degradation
+T6	ReactionOrProcess 2123 2134	degradation
+T7	Substrate 2304 2315	hydrocarbon
+T8	ReactionOrProcess 2304 2327	hydrocarbon degradation
+T9	ReactionOrProcess 2316 2327	degradation
+T10	Environment 3368 3373	plume
+T11	Environment 3460 3465	Lakes
+T12	Environment 3374 3379	water
+T13	Property 3750 3762	fluorescence
+T14	Property 3826 3837	temperature
+T15	Property 3844 3852	alkaline
+T16	Property 4128 4141	concentration
+T17	Nutrient 4270 4274	DMSO

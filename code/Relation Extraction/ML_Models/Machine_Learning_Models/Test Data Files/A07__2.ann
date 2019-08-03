@@ -1,0 +1,38 @@
+T1 ReactionOrProcess 395 408 fractionation
+T2 Property 1212 1226 concentrations
+T3 ReactionOrProcess 1231 1241 incubation
+T4 ReactionOrProcess 1304 1311 cloning
+T5 ReactionOrProcess 1494 1504 incubation
+T6 ReactionOrProcess 1599 1609 incubation
+T7 ReactionOrProcess 1807 1818 incubations
+T8 ReactionOrProcess 1958 1965 cloning
+T9 ReactionOrProcess 2064 2071 cloning
+T10 ReactionOrProcess 2436 2449 incorporation
+T11 ReactionOrProcess 2476 2489 incorporation
+T12 Nutrient 2567 2573 carbon
+T13 Nutrient 2554 2562 nitrogen
+T14 ReactionOrProcess 2718 2728 enrichment
+T15 Microbes 3160 3174 Actinobacteria
+T16 Microbes 3137 3155 Betaproteobacteria
+T17 Microbes 3102 3121 Alphaproteobacteria
+T18 Property 3216 3222 stable
+T19 Property 3333 3339 stable
+T20 Nutrient 3340 3346 oxygen
+T21 Property 3566 3572 stable
+T22 Nutrient 3435 3441 oxygen
+T23 Nutrient 3573 3579 oxygen
+T24 Microbes 3592 3608 Escherichia coli
+T25 Environment 3621 3633 soil samples
+T26 Environment 3954 3958 soil
+T27 ReactionOrProcess 4099 4120 metabolic degradation
+T28 ReactionOrProcess 4183 4193 incubation
+T29 Environment 4356 4360 soil
+T30 Substrate 4361 4369 methanol
+T31 ReactionOrProcess 4370 4380 incubation
+T32 Nutrient 4581 4587 carbon
+T33 ReactionOrProcess 4620 4635 SIP experiments
+T34 Microbes 5013 5020 E. coli
+T35 Environment 4944 4959 indigenous soil
+T36 Environment 5068 5072 soil
+R2 CarriedOn Arg1:T31 Arg2:T30
+R3 OccursIn Arg1:T31 Arg2:T29

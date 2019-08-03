@@ -1,0 +1,61 @@
+T1	ReactionOrProcess 1312 1323	inoculation
+T2	ReactionOrProcess 1439 1448	incubated
+T3	ReactionOrProcess 1458 1481	
+T4	Substrate 1614 1625	hydrocarbon
+T5	Substrate 1754 1765	hydrocarbon
+T6	ReactionOrProcess 1735 1744	degrading
+T7	Environment 2133 2144	groundwater
+T8	Substrate 1911 1923	hydrocarbons
+T9	Substrate 2101 2119	aromatic compounds
+T10	ReactionOrProcess 2087 2097	adaptation
+T11	Substrate 2246 2261	branched alkane
+T12	Substrate 2322 2335	cyclic alkane
+T13	ReactionOrProcess 2300 2308	degraded
+T14	ReactionOrProcess 2218 2229	degradation
+T15	Substrate 2499 2520	gasoline hydrocarbons
+T16	Substrate 2433 2445	hydrocarbons
+T17	Substrate 2690 2698	gasoline
+T18	Substrate 2656 2675	primary hydrocarbon
+T19	Substrate 2570 2582	hydrocarbons
+T20	ReactionOrProcess 2587 2598	biodegraded
+T21	ReactionOrProcess 2720 2731	biodegraded
+T22	ReactionOrProcess 2708 2719	aerobically
+T23	Substrate 2876 2887	hydrocarbon
+T24	ReactionOrProcess 2847 2858	degradation
+T25	Substrate 3156 3168	hydrocarbons
+T26	ReactionOrProcess 3123 3134	degradation
+T27	Substrate 3317 3344	different test hydrocarbons
+T28	ReactionOrProcess 3362 3371	retention
+T29	Substrate 3537 3563	specific test hydrocarbons
+T30	Environment 3663 3668	Beach
+T31	ReactionOrProcess 3610 3642	specific hydrocarbon degradation
+T32	Substrate 3744 3751	toluene
+T33	Substrate 3713 3734	aromatic hydrocarbons
+T34	Substrate 3781 3803	1,2,4-trimethylbenzene
+T35	Substrate 3763 3775	ethylbenzene
+T36	Substrate 3753 3761	p-xylene
+T37	Substrate 3891 3898	toluene
+T38	Nutrient 3916 3922	carbon
+T39	Substrate 3942 3949	
+T40	Substrate 4050 4058	o-xylene
+T41	Substrate 3954 3965	naphthalene
+T42	Substrate 4150 4158	p-xylene
+T43	Property 4018 4027	aromatics
+T44	ReactionOrProcess 3987 3995	degraded
+T45	ReactionOrProcess 4070 4078	degraded
+R1	CarriedOn Arg1:T6 Arg2:T5
+R3	CarriedOn Arg1:T10 Arg2:T9
+R4	OccursIn Arg1:T10 Arg2:T7
+R6	CarriedOn Arg1:T13 Arg2:T12
+R7	CarriedOn Arg1:T14 Arg2:T11
+R11	CarriedOn Arg1:T20 Arg2:T19
+R12	CarriedOn Arg1:T21 Arg2:T17
+R13	CarriedOn Arg1:T21 Arg2:T18
+R15	CarriedOn Arg1:T22 Arg2:T17
+R16	CarriedOn Arg1:T22 Arg2:T18
+R18	CarriedOn Arg1:T24 Arg2:T23
+R19	CarriedOn Arg1:T26 Arg2:T25
+R22	CarriedOn Arg1:T44 Arg2:T39
+R23	CarriedOn Arg1:T44 Arg2:T40
+R24	CarriedOn Arg1:T44 Arg2:T41
+R27	CarriedOn Arg1:T45 Arg2:T40

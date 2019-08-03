@@ -1,0 +1,130 @@
+T1	Environment 84 99	Qatar crude oil
+T2	Substrate 26 42	alkyl carbazoles
+T3	Substrate 32 42	carbazoles
+T4	Substrate 90 99	crude oil
+T5	Substrate 32 42	carbazoles
+T6	Substrate 96 99	oil
+T7	Substrate 157 173	alkyl carbazoles
+T8	Substrate 163 173	carbazoles
+T9	Substrate 163 173	carbazoles
+T10	ReactionOrProcess 203 212	extracted
+T11	ReactionOrProcess 189 198	acidified
+T12	ReactionOrProcess 138 149	degradation
+R1	CarriedOn Arg1:T12 Arg2:T7
+R2	CarriedOn Arg1:T12 Arg2:T8
+R3	CarriedOn Arg1:T12 Arg2:T9
+T13	Substrate 612 628	alkyl carbazoles
+T14	Substrate 618 628	carbazoles
+T15	Substrate 618 628	carbazoles
+T16	Property 636 654	carbazole-enriched
+T17	Substrate 747 768	nitrogen heterocycles
+T18	ReactionOrProcess 708 718	incubation
+T19	ReactionOrProcess 720 731	degradation
+T20	Nutrient 747 755	nitrogen
+R4	CarriedOn Arg1:T18 Arg2:T17
+R5	CarriedOn Arg1:T19 Arg2:T17
+T21	Nutrient 799 807	nitrogen
+T22	Substrate 990 1000	carbazoles
+T23	Substrate 990 1000	carbazoles
+T24	Substrate 1023 1026	oil
+T25	Substrate 1143 1153	carbazoles
+T26	Substrate 1199 1209	carbazoles
+T27	Substrate 1143 1153	carbazoles
+T28	Substrate 1199 1209	carbazoles
+T29	Substrate 1176 1179	oil
+T30	ReactionOrProcess 1219 1227	degraded
+T31	ReactionOrProcess 1288 1299	degradation
+T32	Substrate 1363 1379	alkyl carbazoles
+T33	Substrate 1369 1379	carbazoles
+T34	Substrate 1369 1379	carbazoles
+T35	ReactionOrProcess 1470 1480	incubation
+T36	ReactionOrProcess 1422 1433	degradation
+T37	ReactionOrProcess 1548 1558	incubation
+T38	Substrate 1746 1768	Norman Wells crude oil
+T39	Substrate 1726 1742	alkyl carbazoles
+T40	Substrate 1753 1768	Wells crude oil
+T41	Substrate 1732 1742	carbazoles
+T42	Substrate 1759 1768	crude oil
+T43	Substrate 1653 1662	carbazole
+T44	Substrate 1732 1742	carbazoles
+T45	Substrate 1765 1768	oil
+T46	Property 1670 1688	sole carbon source
+T47	ReactionOrProcess 1704 1713	degrading
+T48	Nutrient 1675 1681	carbon
+R6	CarriedOn Arg1:T47 Arg2:T38
+R7	CarriedOn Arg1:T47 Arg2:T39
+R8	CarriedOn Arg1:T47 Arg2:T40
+R9	CarriedOn Arg1:T47 Arg2:T41
+R10	CarriedOn Arg1:T47 Arg2:T42
+R11	CarriedOn Arg1:T47 Arg2:T44
+R12	CarriedOn Arg1:T47 Arg2:T45
+T49	Substrate 1827 1836	carbazole
+T50	ReactionOrProcess 1884 1898	biodegradation
+T51	Nutrient 1812 1819	carbons
+T52	ReactionOrProcess 1931 1939	degraded
+T53	ReactionOrProcess 1976 1984	degraded
+T54	Substrate 2076 2097	aromatic hydrocarbons
+T55	Substrate 2128 2147	sulfur heterocycles
+T56	Substrate 2076 2097	aromatic hydrocarbons
+T57	Substrate 2085 2097	hydrocarbons
+T58	Substrate 2059 2097	alkylsubstituted aromatic hydrocarbons
+T59	Substrate 2085 2097	hydrocarbons
+T60	Substrate 2059 2097	alkylsubstituted aromatic hydrocarbons
+T61	Substrate 2128 2134	sulfur
+T62	Property 2076 2084	aromatic
+T63	Microbes 2240 2258	enrichment culture
+T64	Microbes 2230 2258	carbazole enrichment culture
+T65	Substrate 2230 2239	carbazole
+T66	Property 2184 2222	alkyl carbazole-degrading capabilities
+T67	ReactionOrProcess 2240 2250	enrichment
+T68	Substrate 2444 2454	carbazoles
+T69	Substrate 2444 2454	carbazoles
+T70	Substrate 2464 2467	oil
+T71	ReactionOrProcess 2367 2377	incubation
+R13	CarriedOn Arg1:T71 Arg2:T68
+R14	CarriedOn Arg1:T71 Arg2:T69
+R15	CarriedOn Arg1:T71 Arg2:T70
+T72	Microbes 2641 2659	enrichment culture
+T73	Microbes 2631 2659	carbazole enrichment culture
+T74	Substrate 2631 2640	carbazole
+T75	ReactionOrProcess 2641 2651	enrichment
+T76	ReactionOrProcess 2613 2623	diminished
+T77	Substrate 2774 2790	alkyl carbazoles
+T78	Substrate 2780 2790	carbazoles
+T79	Substrate 2689 2698	carbazole
+T80	Substrate 2780 2790	carbazoles
+T81	Microbes 2960 2978	enrichment culture
+T82	ReactionOrProcess 2960 2970	enrichment
+T83	Microbes 3047 3073	carbazole-enriched culture
+T84	Substrate 3145 3167	Norman Wells crude oil
+T85	Substrate 3152 3167	Wells crude oil
+T86	Substrate 3158 3167	crude oil
+T87	Substrate 3164 3167	oil
+T88	Property 3047 3065	carbazole-enriched
+T89	ReactionOrProcess 3091 3098	degrade
+R16	CarriedOn Arg1:T89 Arg2:T84
+R17	CarriedOn Arg1:T89 Arg2:T85
+R18	CarriedOn Arg1:T89 Arg2:T86
+R19	CarriedOn Arg1:T89 Arg2:T87
+T90	Substrate 3202 3213	isoprenoids
+T91	Substrate 3188 3197	n-alkanes
+T92	Substrate 3322 3333	naphthalene
+T93	Substrate 3366 3378	phenanthrene
+T94	Substrate 3388 3401	phenanthrenes
+T95	Property 3252 3260	saturate
+T96	Property 3296 3304	aromatic
+T97	Substrate 3527 3543	alkyl carbazoles
+T98	Substrate 3408 3427	sulfur heterocycles
+T99	Substrate 3533 3543	carbazoles
+T100	Substrate 3449 3458	crude oil
+T101	Substrate 3533 3543	carbazoles
+T102	Substrate 3455 3458	oil
+T103	Substrate 3408 3414	sulfur
+T104	ReactionOrProcess 3487 3509	sequential degradation
+T105	ReactionOrProcess 3498 3509	degradation
+R20	CarriedOn Arg1:T104 Arg2:T97
+R21	CarriedOn Arg1:T104 Arg2:T99
+R22	CarriedOn Arg1:T104 Arg2:T101
+R23	CarriedOn Arg1:T105 Arg2:T97
+R24	CarriedOn Arg1:T105 Arg2:T99
+R25	CarriedOn Arg1:T105 Arg2:T101

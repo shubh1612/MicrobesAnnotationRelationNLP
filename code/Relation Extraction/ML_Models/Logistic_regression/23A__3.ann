@@ -1,0 +1,48 @@
+T1	Environment 482 490	seawater
+T2	Environment 429 439	microcosms
+T3	Environment 416 421	water
+T4	Property 393 407	concentrations
+T5	Property 460 474	concentrations
+T6	Nutrient 451 459	nitrogen
+T7	Environment 627 642	oiled sediments
+T8	Substrate 597 600	Oil	
+T9	ReactionOrProcess 740 749	extracted
+T10	ReactionOrProcess 713 723	extraction
+T11	ReactionOrProcess 787 813	flame ionization detection
+T12	ReactionOrProcess 965 974	Replicate	
+T13	Substrate 1169 1176	alkanes
+T14	Substrate 1316 1325	crude oil
+T15	Substrate 1128 1154	GC resolvable hydrocarbons
+T16	Substrate 1117 1120	TPH
+T17	Substrate 1182 1214	polycyclic aromatic hydrocarbons
+T18	ReactionOrProcess 1101 1115	biodegradation
+T19	Property 1392 1405	concentration
+T20	Property 1509 1523	concentrations
+T21	ReactionOrProcess 1346 1360	biodegradation
+T22	Substrate 1631 1634	oil
+T23	Nutrient 1671 1677	carbon
+T24	ReactionOrProcess 1874 1883	extracted
+T25	ReactionOrProcess 1843 1846	PCR
+T26	ReactionOrProcess 1852 1865	DGGE analysis
+T27	ReactionOrProcess 1827 1841	DNA extraction	
+T28	Microbes 2247 2254	E. coli
+T29	Microbes 2151 2167	Escherichia coli
+T30	Substrate 2278 2307	deoxynucleoside triphosphates
+T31	ReactionOrProcess 2029 2032	PCR	
+T32	ReactionOrProcess 2650 2654	DGGE	
+T33	Property 2833 2859	linear denaturing gradient
+T34	ReactionOrProcess 2704 2707	PCR
+T35	ReactionOrProcess 3200 3204	DGGE
+T36	ReactionOrProcess 4063 4070	Cloning	
+T37	ReactionOrProcess 4242 4245	PCR
+T38	ReactionOrProcess 4314 4320	cloned
+T39	ReactionOrProcess 4296 4299	PCR	
+T40	Microbes 4551 4558	E. coli	
+T41	Environment 4962 4971	microcosm
+T42	Environment 5108 5117	microcosm
+R1	CarriedOn Arg1:T9 Arg2:T8
+R4	OccursIn Arg1:T9 Arg2:T7
+R7	CarriedOn Arg1:T18 Arg2:T13
+R9	CarriedOn Arg1:T18 Arg2:T15
+R10	CarriedOn Arg1:T18 Arg2:T16
+R11	CarriedOn Arg1:T18 Arg2:T17

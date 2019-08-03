@@ -1,0 +1,147 @@
+T1	Environment 0 26	Soil contaminated with C5+
+T2	Environment 0 4	Soil
+T3	Substrate 44 51	benzene
+T4	Substrate 128 135	toluene
+T5	Substrate 170 181	naphthalene
+T6	Substrate 156 163	xylenes
+T7	Substrate 142 149	styrene
+T8	Substrate 96 111	cyclopentadiene
+T9	Substrate 66 83	dicyclopentadiene
+T10	ReactionOrProcess 256 265	isolation
+T11	Substrate 322 329	benzene
+T12	Substrate 424 431	toluene
+T13	Substrate 488 499	naphthalene
+T14	Substrate 444 451	xylenes
+T15	Substrate 464 471	styrene
+T16	Microbes 636 655	enrichment cultures
+T17	ReactionOrProcess 636 646	enrichment
+T18	ReactionOrProcess 659 688	reverse sample genome probing
+T19	ReactionOrProcess 538 547	denatured
+R1	CarriedOn Arg1:T19 Arg2:T16
+T20	Environment 733 751	contaminated soils
+T21	Environment 794 814	uncontaminated soils
+T22	Environment 746 751	soils
+T23	Environment 809 814	soils
+T24	Environment 733 751	contaminated soils
+T25	Environment 794 814	uncontaminated soils
+T26	Microbes 1001 1012	Alcaligenes
+T27	Microbes 1001 1016	Alcaligenes spp
+T28	Substrate 1082 1089	benzene
+T29	ReactionOrProcess 1061 1065	RSGP
+T30	ReactionOrProcess 1090 1101	degradation
+R2	CarriedOn Arg1:T29 Arg2:T28
+T31	Substrate 1194 1198	DCPD
+T32	ReactionOrProcess 1159 1167	degraded
+T33	ReactionOrProcess 1135 1146	enrichments
+T34	Substrate 1321 1328	benzene
+T35	Substrate 1239 1251	hydrocarbons
+T36	Substrate 1239 1251	hydrocarbons
+T37	ReactionOrProcess 1209 1220	degradation
+R3	CarriedOn Arg1:T37 Arg2:T34
+R4	CarriedOn Arg1:T37 Arg2:T35
+R5	CarriedOn Arg1:T37 Arg2:T36
+T38	Substrate 1354 1379	single aromatic compounds
+T39	Substrate 1361 1379	aromatic compounds
+T40	Substrate 1361 1379	aromatic compounds
+T41	Property 1361 1369	aromatic
+T42	ReactionOrProcess 1460 1474	bioremediation
+T43	ReactionOrProcess 1339 1350	degradation
+T44	ReactionOrProcess 1520 1531	degradation
+R6	CarriedOn Arg1:T43 Arg2:T38
+R7	CarriedOn Arg1:T43 Arg2:T39
+R8	CarriedOn Arg1:T43 Arg2:T40
+R9	CarriedOn Arg1:T44 Arg2:T38
+R10	CarriedOn Arg1:T44 Arg2:T39
+R11	CarriedOn Arg1:T44 Arg2:T40
+T45	Microbes 1683 1701	enrichment culture
+T46	Environment 1707 1733	gasoline-contaminated soil
+T47	Environment 1729 1733	soil
+T48	Substrate 1623 1658	benzene-toluene-ethylbenzene-xylene
+T49	ReactionOrProcess 1683 1693	enrichment
+T50	ReactionOrProcess 1595 1609	biodegradation
+T51	Substrate 1888 1896	gasoline
+T52	Substrate 1794 1801	benzene
+T53	Substrate 1806 1813	toluene
+T54	ReactionOrProcess 1876 1884	degraded
+T55	ReactionOrProcess 1942 1950	degraded
+T56	ReactionOrProcess 1776 1790	biodegradation
+R12	CarriedOn Arg1:T56 Arg2:T51
+R13	CarriedOn Arg1:T56 Arg2:T52
+R14	CarriedOn Arg1:T56 Arg2:T53
+T57	ReactionOrProcess 2031 2041	enrichment
+T58	Substrate 2115 2119	BTEX
+T59	Substrate 2178 2182	BTEX
+T60	ReactionOrProcess 2089 2100	degradation
+T61	ReactionOrProcess 2159 2170	degradation
+R15	CarriedOn Arg1:T60 Arg2:T58
+R16	CarriedOn Arg1:T60 Arg2:T59
+R17	CarriedOn Arg1:T61 Arg2:T58
+R18	CarriedOn Arg1:T61 Arg2:T59
+T62	Microbes 2306 2317	rhodochrous
+T63	Microbes 2225 2235	consortium
+T64	Environment 2241 2267	gasoline-contaminated soil
+T65	Environment 2263 2267	soil
+T66	Substrate 2515 2522	benzene
+T67	Substrate 2506 2513	toluene
+T68	Substrate 2344 2348	BTEX
+T69	Substrate 2436 2440	BTEX
+T70	Substrate 2454 2466	ethylbenzene
+T71	Substrate 2532 2539	xylenes
+T72	ReactionOrProcess 2365 2373	degraded
+T73	ReactionOrProcess 2471 2479	degraded
+R19	CarriedOn Arg1:T72 Arg2:T71
+R20	CarriedOn Arg1:T73 Arg2:T71
+T74	Substrate 2657 2663	ethane
+T75	Substrate 2613 2634	aromatic hydrocarbons
+T76	Substrate 2613 2634	aromatic hydrocarbons
+T77	Substrate 2622 2634	hydrocarbons
+T78	Substrate 2677 2685	ethylene
+T79	Substrate 2622 2634	hydrocarbons
+T80	Property 2613 2621	aromatic
+T81	ReactionOrProcess 2664 2673	pyrolysis
+T82	ReactionOrProcess 2572 2583	degradation
+R21	CarriedOn Arg1:T82 Arg2:T74
+R22	CarriedOn Arg1:T82 Arg2:T75
+R23	CarriedOn Arg1:T82 Arg2:T76
+R24	CarriedOn Arg1:T82 Arg2:T77
+R25	CarriedOn Arg1:T82 Arg2:T78
+R26	CarriedOn Arg1:T82 Arg2:T79
+T83	ReactionOrProcess 2738 2767	reverse sample genome probing
+T84	ReactionOrProcess 2850 2854	RSGP
+T85	ReactionOrProcess 2864 2877	hybridization
+T86	ReactionOrProcess 2945 2954	denatured
+T87	Substrate 3214 3221	toluene
+T88	Nutrient 3234 3240	carbon
+T89	Substrate 3311 3318	benzene
+T90	Substrate 3342 3353	naphthalene
+T91	Substrate 3329 3336	xylenes
+T92	Substrate 3397 3408	hydrocarbon
+T93	Substrate 3320 3327	styrene
+T94	Property 3409 3418	degraders
+T95	Substrate 3522 3534	hydrocarbons
+T96	Substrate 3522 3534	hydrocarbons
+T97	Environment 3557 3568	Soil sample
+T98	Environment 3557 3569	Soil samples
+T99	Environment 3557 3561	Soil
+T100	Environment 3844 3848	soil
+T101	Substrate 3741 3748	Benzene
+T102	Substrate 3750 3757	toluene
+T103	Substrate 3806 3817	naphthalene
+T104	Substrate 3759 3765	xylene
+T105	Substrate 3767 3774	styrene
+T106	Substrate 3776 3793	dicyclopentadiene
+T107	Environment 3916 3924	sediment
+T108	Environment 3901 3924	uncontaminated sediment
+T109	Environment 4020 4025	sandy
+T110	Environment 4096 4101	sandy
+T111	Environment 4220 4225	sandy
+T112	Property 4020 4025	sandy
+T113	Property 4096 4101	sandy
+T114	Property 4220 4225	sandy
+T115	Environment 4303 4311	sediment
+T116	Environment 4409 4414	plume
+T117	Environment 4288 4311	Uncontaminated sediment
+T118	Property 4397 4408	contaminant
+T119	Environment 4431 4439	sediment
+T120	Environment 4416 4439	Uncontaminated sediment
+T121	Substrate 4488 4496	ethylene

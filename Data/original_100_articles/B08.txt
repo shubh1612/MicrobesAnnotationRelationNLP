@@ -1,0 +1,802 @@
+B08
+The role of microbial populations in the containment of aromatic
+hydrocarbons in the subsurface
+P.D. Franzmann∗, W.J. Robertson, L.R. Zappia & G.B. Davis
+CSIRO Land and Water, Underwood Ave, Floreat Park, WA 6014, Australia (∗ author for correspondence: E-mail:
+peter.franzmann@csiro.au.
+Key words: aromatic hydrocarbons, intrinsic remediation, microbial communities, groundwater
+Abstract
+A survey of soil gases associated with gasoline stations on the Swan Coastal Plain of Western Australia has shown
+that 20% leak detectable amounts of petroleum. The fates of volatile hydrocarbons in the vadose zone at one
+contaminated site, and dissolved hydrocarbons in groundwater at another site were followed in a number of studies
+which are herein reviewed. Geochemical evidence from a plume of hydrocarbon-contaminated groundwater has
+shown that sulfate reduction rapidly developed as the terminal electron accepting process. Toluene degradation
+but not benzene degradation was linked to sulfate reduction. The sulfate-reducing bacteria isolated from the plume
+represented a new species, Desulfosporosinus meridiei. Strains of the species do not mineralise 14C-toluene in pure
+culture. The addition of large numbers of cells and sulfate to microcosms did stimulate toluene mineralisation but
+not benzene mineralisation. Attempts to follow populations of sulfate-reducing bacteria by phospholipid signatures,
+or Desulfosporosinus meridiei by FISH in the plume were unsuccessful, but fluorescently-labeled polyclonal
+antibodies were successfully used. In the vadose zone at a different site, volatile hydrocarbons were consumed in
+the top 0.5 m of the soil profile. The fastest measured rate of mineralisation of 14C-benzene in soils collected from
+the most active zone (6.5 mg kg−1 day−1) could account for the majority of the flux of hydrocarbon vapour towards
+the surface. The studies concluded that intrinsic remediation by subsurface microbial populations in groundwater
+on the Swan Coastal Plain can control transport of aromatic hydrocarbon contamination, except for the transport of
+benzene in groundwater. In the vadose zone, intrinsic remediation by the microbial populations in the soil profile
+can contain the transport of aromatic hydrocarbons, provided the physical transport of gases, in particular oxygen
+from the atmosphere, is not impeded by structures.
+Introduction
+Of all the components of gasoline, some of the
+most mobile in the environment (i.e., most soluble
+and volatile), and thus more likely to be transported
+“off-site” (Figure 1) are among the most hazardous.
+For example, benzene is relatively soluble in water
+(1780 mg l−1) and volatile (Henry’s Law constant =
+550 Pa m3 mol−1) and is a known carcinogen (Cohen
+1996). One guideline “trigger value” for benzene in
+Australia, the concentration at which some action is
+required, is 600 µg l−1, although the trigger value
+may change depending on the nature of the environment
+or when benzene is in the presence of “other
+contaminants” (Chapman & Warne 2000).
+The Swan Coastal Plain of Western Australia, on
+which the city of Perth is located, has a major refinery
+and many small gasoline distribution sites. Significant
+hydrocarbon contamination occurs at the refinery
+and in a survey of gasoline station sites, 20% showed
+signs of aromatic hydrocarbon leakage to groundwater
+(Barber et al. 1991). The fate of dissolved and
+volatile hydrocarbons in groundwaters and soils in the
+vicinity of Perth, on the Swan Coastal Plain, have
+been studied because of the potential environmental
+and health risks associated with gasoline contamination.
+Because of the extent of contamination, intrinsic
+66
+Figure 1. Typical distribution of aromatic hydrocarbons in the subsurface after spillage of gasoline.
+remediation will, perhaps by default, play a significant
+role in contaminant removal and protection of the
+environment.
+Spillage of gasoline in the environment usually results
+in transport of the majority of the contamination
+to the surface of the groundwater where it floats as a
+“light non-aqueous phase liquid” (LNAPL). The most
+toxic components of the gasoline, the aromatic hydrocarbons,
+follow one of two routes. They either slowly
+dissolve in the groundwater, and move in solution in
+the direction of groundwater flow, or they volatilise
+from the LNAPL and the groundwater into the gas
+phase in the vadose zone (Figure 1). As the contamination
+essentially moves in two planes, horizontally with
+the groundwater flow, and vertically through the soil
+profile, intrinsic remediation can be studied by following
+(1) the changes in the mass of contaminants along
+the flow paths, (2) the geochemical changes brought
+about by microbial metabolism along the flow paths
+and (3) the microbial activity and populations along
+the flow paths. A service station site with a discrete
+point source of contamination has been the focus of a
+number of studies on intrinsic remediation in groundwater.
+A site with extensive contamination over a wide
+area, a refinery site, has been the focus of studies
+on fate and transport of aromatic hydrocarbons in the
+vadose zone. These studies are reviewed here.
+Intrinsic remediation of aromatic hydrocarbons in
+groundwater
+Groundwater contamination and site characterisation
+The Swan Coastal Plain is essentially a sand plain
+with a shallow unconfined aquifer with groundwater
+flow from the hills to the east and to the Indian
+Ocean to the west. Depths to groundwater vary by
+up to 1.8 m depending on the season. In the zone
+of groundwater table fluctuation, there is generally a
+cemented layer of iron oxyhydroxide-coated organic
+enriched sand. In the vicinity of the gasoline contaminated
+site, the groundwater velocity was between 100
+and 170 m year−1, effective porosity was between 0.26
+to 0.3 m3 m−3, and the hydraulic conductivity ranged
+67
+from 8.6 to 29 m day−1 (Davis et al. 1999). Petroleum
+contamination of the aquifer from a leaking underground
+petroleum storage tank (UST) was discovered
+in 1990. Sample collection multiports (MP) (Davis et
+al. 1992) were installed that allowed water collection
+from 0.2 or 0.5 m depths at specific sites along the
+flow path of the contamination and the contamination
+plume was monitored over a five year period. There
+were minor variations in the position of the plume over
+the years, and typical maps of benzene concentration,
+toluene concentration and sulfate concentration in the
+groundwater are given in Figure 2, along with the
+positioning of the multiport sample sites.
+In addition to toluene and benzene, the plume
+contained ethylbenzene, m- and p- xylene, o-xylene,
+1,3,5-trimethyl benzene and naphthalene in significant
+concentrations. In April 1991, the benzene plume
+extended over 420 m from the site of initial contamination
+(past MP8), whereas the toluene plume was less
+than 250 m long (it had disappeared before MP7, Figure
+2). M- and p-xylene and ethylbenzene were also
+detectable 420 m down the plume whereas o-xylene,
+1,3,5-trimethylbenzene and naphthalene were not. Retardation
+coefficients due to sorption for benzene and
+toluene in aquifer material from this site are very similar,
+1.02 and 1.05, respectively, (Thierrin et al. 1993).
+The limited retardation with respect to a conservative
+bromide tracer probably resulted from the very low
+organic carbon content in these sands (0.008–0.02%,
+Patterson et al. 1993). Truncation of the toluene plume
+with respect to the benzene plume (Figure 2) could not
+be explained in terms of the differences in the physical
+attributes of toluene versus benzene. The distribution
+of these two contaminants in the plume would be
+consistent with preferential biodegradation of toluene.
+The concomitant loss of sulfate with the truncation
+of the toluene plume (Figure 2) provides geochemical
+evidence for toluene mineralisation linked to
+sulfate reduction as the terminal step in toluene mineralisation,
+especially as methane was not detected
+in the groundwater from within the plume (Davis et
+al. 1999). Groundwaters on the Swan Coastal Plain
+are generally anoxic. The concentrations of potential
+electron acceptors and their reduction products in the
+groundwater are given in Table 1. Analyses of cores
+from outside the plume showed that, at the depths at
+which the contamination occurred, extractible Fe(III)
+was at concentrations generally <200 µg g−1, and was
+not extractable in 0.5 M HCl, but was extractable in
+5.0 M HCl (Prommer et al. 1999). This would suggest
+that most of the Fe(III) occurred in a highly crystalline
+Table 1. Average concentrations of some potential electron
+donors and their reduction products both within and
+outside the hydrocarbon contamination plume (Davis et
+al. 1999).
+Parameter Within plume Outside plume
+NO−
+3 (mg-N l−1) 0.05 0.18
+NH+
+4 (mg-N l−1) 0.3 0.25
+Fe2+ (mg l−1) 1.4 1.6
+HCO−
+3 (mg l−1) 74 14.3
+SO2−
+4 (mg S l−1) 10.8 27.5
+H2S (mg S l−1) 1.1 0.1
+form and was not available for microbial reduction
+(Prommer et al. 1999). The absence of appreciable
+bioavailable reducible iron is evidenced by the minimal
+amount of Fe2+ in the groundwater, either inside
+or outside the plume.
+Minimal nitrate occurred in uncontaminated background
+groundwater near the site but appreciably
+more sulfate was available as a terminal electron acceptor
+for anaerobic respiration of the contaminants
+(Table 1). In the uncontaminated groundwater, nitrate
+concentrations averaged 0.18 mg N l−1 (ca. 0.01 mM)
+and sulfate concentrations averaged 27.5 mg S −1 (ca.
+0.86 mM). Stoichiometric equations for the oxidation
+of toluene using nitrate and sulfate are given in Equations
+(1) and (2) (see Borden et al. 1995; Edwards
+et al. 1992). Considerably more nitrate than sulfate
+is required to oxidise one mole of toluene. Given the
+average amount of each electron acceptor available in
+the groundwater, sulfate reduction will be the more
+important electron accepting process in this aquifer,
+despite the preferential use of nitrate as an electron acceptor
+by microbial populations conducting anaerobic
+respiration.
+C6H5—CH3 + 7.2 H+ + 7.2 NO−
+3
+→ 7 CO2 + 7.6 H2O + 3.6N2 (1)
+C6H5—CH3 + 4.5 SO2−
+4 + 3H2O
+→ 2.25 H2S + 2.25 HS−+ 7 HCO−
+3 + 0.25 H+. (2)
+In the plume, the concomitant depletion of sulfate
+with toluene, and the lack of detectable methane suggests
+sulfate reduction is the most significant terminal
+electron accepting process for the dissolved components
+of gasoline in Perth’s groundwaters. The increase
+68
+Figure 2. The position of multiport sample collection sites, and contours for concentrations of (a) benzene, (b) toluene, and (c) sulfate in
+groundwater after leakage of gasoline from an underground storage tank. (Reproduced from Davis et al. (1999) with the permission of the
+authors and Elsevier Science B.V.)
+69
+in the concentration of carbonate ions in the plume relative
+to the concentration in the background groundwater
+(Table 1) is also consistent with sulfate reduction
+(Equation (2)). What is disturbing, from a human
+and environmental health point of view, is that there
+was no evidence in this plume of benzene degradation
+linked to sulfate reduction (Figure 2).
+Degradation in columns, and field tracer tests
+Given the geochemical characteristics of the plume,
+and the inference that toluene but not benzene was
+undergoing anaerobic mineralisation, work was conducted
+in saturated columns of aquifer material in
+order to confirm or negate the field observations. In
+these studies, benzene was degraded under aerobic
+conditions, but not under nitrate-reducing or sulfatereducing
+conditions over 133 days, even in the absence
+of other hydrocarbons (Patterson et al. 1993). Toluene
+rapidly degraded under nitrate-reducing conditions,
+within 31 days, and also showed concomitant degradation
+with sulfate depletion in groundwater that was not
+amended with nitrate (Patterson et al. 1993).
+Thierrin et al. (1993) conducted in-plume tracer
+tests using the deuterated compounds, benzene-d6,
+toluene-d6, p-xylene-d10 and naphthalene-d8, and
+bromide as a conservative tracer. After dissolving the
+compounds in anoxic groundwater that had been collected
+from the site, they injected the water into the
+plume (near multiport 3, Figure 2) and monitored the
+breakthrough of the compounds 17 m down gradient
+from the injection bore. Degradation of benzene was
+not significant, as the breakthrough time and relative
+mass of benzene-d6 recovery was essentially the
+same as for the conservative tracer. The other compounds
+showed loss of mass relative to benzene and
+the tracer. Thierrin et al. (1993) used the analytical
+transport model SOLUTE to derive first order degradation
+rates for the plume from the hydrocarbon
+distribution data and the tracer test and the rates are
+compared in Table 2.
+Microbial biomass and community structure – initial
+investigations
+An initial brief examination of the microbial populations
+using fluorescent in situ hybridization probes,
+specific for Bacteria (EUB338) and species of the
+genus Desulfovibrio (SRB385) (Amann et al. 1990)
+was conducted on water drawn from a number of the
+Table 2. Half-lives (days) for first order degradation
+rates of gasoline compounds derived from application
+of the analytical transport model SOLUTE to plume
+concentration data and data from an in field tracer test
+(Thierrin et al. 1993).
+Compound Tracer test Plume data
+Benzene >800 >800
+Toluene 100 ± 40 120 ± 25
+Ethylbenzene ND1 230 ± 30
+p-xylene 225 ± 74 ND
+m & p-xylene ND 170 ± 10
+o-xylene ND 125 ± 10
+1,3,5-trimethylbenzene ND 180
+Naphthalene 33 ± 6 160 ± 20
+1 ND = not determined by Thierrin et al. (1993).
+multiports, both from within and outside the plume (S.
+Toze, pers. comm.). Few cells in the groundwater reacted
+with either stain, and considerable background
+autofluorescence prevented any definitive assessment
+of the microbial community structure.
+The analysis of the fatty acids from membrane
+phospholipids has been extensively used in culture
+independent assessment of microbial communities
+(White et al. 1983), especially in soils and sediments,
+which are difficult environments to analyse definitively
+by molecular techniques. Phospholipid fatty
+acids (PLFA) were analysed in three cores from within
+and along the contamination plume (near MP11, MP3,
+and MP8; see Figure 2) and one core from outside
+the plume (near MP9; see Figure 2) (Franzmann et al.
+1996). The PLFA were extracted from core material
+collected from depths of about 30 cm above the water
+table, at the water table, and from a depth within
+the contamination plume. Particulates were collected
+on large in-line filters (0.22 µm) from groundwater
+within the contamination plume from similar depth
+multiports adjacent to the sites of core collection.
+A summary of outcomes of the analyses is given in
+Table 3.
+Of the groundwater samples taken, the sample
+that contained the lowest viable biomass was in the
+plume at MP11. This sample was from the site that
+contained the greatest amount of aromatic hydrocarbons
+(136 mg l−1; Davis et al. 1999), whereas the
+greatest biomass in the groundwater occurred at MP3
+where the water contains considerably less aromatic
+hydrocarbons (48 mg l−1; Davis et al. 1999). Long
+et al. (1995) noted a drop-off in microbial biomass
+in subsurface samples that were exposed to high con-
+70
+Table 3. Phospholipid-derived fatty acid content extracted from different sediment cores
+or groundwater particulates inside and outside the contaminant plume. The positions of
+sample collections are shown in Figure 2.
+Site Depth PLFA content Biomass1 Water content
+(m) pmol (g dry wt.)−1 cell (g dry wt.)−1 (%)
+Core material
+Near MP92 3.00 209 5.4 × 106 11.9
+3.453 66.3 1.7 × 106 11.1
+4.31 67.2 1.7 × 106 13.3
+Near MP11 2.87 115 3.0 × 106 8.2
+3.353 67.3 1.7 × 106 11.9
+4.17 47.3 1.2 × 106 15.4
+Near MP3 3.80 77.4 2.0 × 106 15.5
+4.113 157 4.1 × 106 16.5
+4.46 40.4 1.1 × 106 15.4
+Near MP8 1.31 298 7.8 × 106 13.6
+1.503 178 4.6 × 106 13.2
+5.39 32.8 0.9 × 106 15.3
+Groundwater pmol ml−1 Cells ml−1
+particulates
+MP92 3.5 13.7 3.6 × 105
+MP11 4.0 3.0 0.7 × 105
+MP3 4.0 36.8 9.6 × 105
+MB8 5.0 6.1 1.2 × 105
+1 Cell numbers are expressed in “stationary phase E. coli equivalent cells” (Franzmann et
+al. (1996).
+2 Data from a control site outside the plume and up-gradient from the contamination
+source.
+3 Sample taken at the depth of the groundwater.
+centrations of petroleum hydrocarbons, which they
+defined as samples that contained “free product or
+non-aqueous phase liquid and contaminants dissolved
+in the groundwater in parts per million”. According
+to Davis et al. (1999), the concentrations of benzene
+and toluene at MP11 were often comparable to
+concentrations in equilibrium with gasoline NAPL.
+The percentage of biomass attached to the aquifer
+substrate, as opposed to in the groundwater, can be
+calculated from the data in Table 4. In the vicinity of
+multiports MP9, MP11, MP3 and MP8, the percentage
+of biomass that was attached to the substrate was 98%,
+99%, 96% and 98%, respectively. The percentage attached
+was always high, but greatest in cores taken
+from the region of highest contaminant concentration,
+MP11. It is generally considered that microorganisms
+in biofilms tolerate higher concentrations of toxic contaminants
+than “free living” microbial cells (Foley &
+Gilbert 1996).
+Two phospholipid-derived fatty acids have been
+commonly used as signature fatty acids for the presence
+of sulfate-reducing bacteria. The fatty acids
+i17:1c9 and 10-methyl-16:0 are supposedly indicative
+of Desulfovibrio spp. and Desulfobacter spp., respectively.
+Neither signature was found in the PLFAs in
+core material collected from below the groundwater
+table in the zone of sulfate depletion (Franzmann et
+al. 1996). The fatty acid 10-methyl-16:0 was found
+in soil cores from outside the contaminant plume,
+either above or at the aquifer water table. A range
+of monomethylated fatty acids may be derived from
+actinomycetes that occur in aerobic soils (Zelles et al.
+1995).
+Enrichment and isolation of sulfate-reducing bacteria
+Neither the initial FISH probing nor the analysis of
+phospholipid fatty acids of material from the contaminated
+site, provided evidence of populations of
+sulfate-reducing bacteria. Enrichments for sulfate-
+71
+Table 4. Average zeroth order mineralisation rates for 14C-toluene and 14C-benzene in groundwater collected
+from inside and outside the contamination plume (data from Robertson et al. 2000).
+Treatment Mineralisation rate in groundwater (mmol Ml−1 day−1) from:
+Inside plume Outside plume
+Toluene Benzene Toluene Benzene
+Sterile control 7.7 × 10−7 1.9 × 10−9 4.4 × 10−7 2.2 × 10−9
+Non-amended groundwater 9.6 × 10−6 2.7 × 10−8 7.1 × 10−5 5.2 × 10−8
++ sulfate (5 mM) 1.7 × 10−5 3.2 × 10−8 1.2 × 10−4 5.0 × 10−8
++ sulfate (5 mM) + molybdate (2 mM) 2.3 × 10−6 2.0 × 10−8 1.6 × 10−6 2.2 × 10−8
++ sulfate (5 mM) + strain T21 1.2 × 10−4 3.1 × 10−8 5.6 × 10−4 4.7 × 10−8
+1T2 = a strain of Desulfosporosinus meridiei added as a 10% inoculum from a fresh culture.
+reducing bacteria that contained toluene-in-paraffin oil
+or benzoate were prepared from anaerobic groundwater
+taken from the plume; from multiports MP11 and
+MP2 (Figure 2) (Robertson et al. 2000). Pure cultures
+of sulfate-reducing bacteria were isolated using roll
+tubes. Phylogenetic analysis showed that all of the
+cultures (n = 8) could be accommodated within the
+genus Desulfosporosinus in the Gram positive, low
+G + C, line of descent (see Figure 3). The strains
+were described as a new species, Desulfosporosinus
+meridiei (Robertson et al. 2001). The extraction of
+DNA for PCR amplification of the 16S rDNA from
+the strains generally required beating with zirconium
+beads and generally could not be obtained by chemical
+lyses (Robertson et al. 2000).
+All of the major fatty acids that occurred in Desulfosporosinus
+meridiei (Robertson et al. 2000) also
+occurred in the phospholipid extracts of core material
+from the contaminated site (Franzmann et al. 1996).
+The cells lacked the fatty acid signatures often used as
+markers for sulfate reducing bacteria in environmental
+samples; i17:1c9 and 10-methyl-16:0. Members of
+the species also lacked the 16S rRNA hybridization
+sites for FISH probes that are commonly used for the
+detection of sulfate-reducing bacteria.
+Microcosm tests
+Microcosm tests with ring-labeled 14C-benzene and
+14C-toluene showed that Desulfosporosinus strains
+were incapable of mineralizing either compound to
+14CO2 (Robertson et al. 2000). To test the role that
+Desulfosporosinus meridiei may have in benzene or
+toluene degradation, the rate of mineralisation of 14Cbenzene
+and 14C-toluene was determined in a series
+of microcosms of collected groundwater, with different
+additions of sulfate, cells of Desulfosporosinus
+meridiei or molybdate as an inhibitor of sulfate reduction.
+The rate of toluene mineralisation was minimal
+in non-amended groundwater, but was enhanced by
+the addition of sulfate, and further enhanced by the
+addition of both sulfate and cells of Desulfosporosinus
+meridiei (Table 4). The rate of toluene mineralisation
+in the microcosm that received sulfate with
+molybdate was slower than the mineralisation rate
+in non-amended groundwater. The rate of benzene
+mineralisation in non-amended groundwater was minimal,
+and was not enhanced by the addition of sulfate
+or sulfate with cells of Desulfosporosinus meridiei
+(Table 4). Interestingly, groundwater collected from
+outside the contamination plume showed a greater
+capacity for toluene mineralisation than groundwater
+collected from within the contamination plume
+(Table 4). Although the sulfate addition, and further
+addition of an inoculum of sulfate-reducing bacteria
+greatly stimulated toluene mineralisation in the microcosms,
+the pure culture of sulfate-reducing bacterium
+that was added did not mineralise toluene. It is thus
+probable that Desulfosporosinus meridiei plays a similar
+role in this plume to the role methanogens play
+in toluene-degrading consortia. That is, they consume
+the hydrogen and organic acids produced by
+fermentative organisms from the toluene, thus preventing
+the accumulation of fermentation products
+that would otherwise make the further degradation of
+toluene thermodynamically impossible (Zwolinski et
+al. 2000). The mineralisation rates for toluene in the
+groundwater microcosms were considerably slower
+than degradation rates measured in the field (Davis
+et al. 1999). Microcosms experiments always contain
+artifacts, and should be used only to indicate the
+potential microbial processes. As the PLFA analysis
+showed that at least 98% of the microbial biomass was
+substrate bound, it is not surprising that the use of
+72
+Figure 3. Phylogenetic tree of the 16S rRNA genes of sulfate-reducing strains from a BTEX contamination plume in Western Australia,
+and their near relatives. The tree was constructed using PHYLIP and the Jukes-Cantor measure of distance. Bootstrap values are indicated.
+Reproduced from Robertson et al. (2000), under copyright permission from Blackwell Science.
+groundwater alone in microcosms would greatly underestimate
+the potential for microbial degradation of
+the contaminants.
+Tracking Desulfosporosinus meridiei in the plume
+The only sulfate-reducing species that was isolated
+from the plume was Desulfosporosinus meridiei,
+which would have evaded detection by the FISH
+technique used in the initial studies, and which did
+not contain the PLFA signatures usually indicative
+of sulfate-reducing bacteria. To examine the plume
+for the presence of Desulfosporosinus meridiei, both
+species-specific polyclonal fluorescent antibodies and
+FISH probes, as well as eubacterial FISH probes were
+prepared (Robertson 2000). The reaction of cultured
+cells to the polyclonal antibodies and the speciesspecific
+FISH probes are shown in Figure 4. The
+outcomes of the FISH and antibody probing are given
+in Table 5. Robertson’s study was limited to the examination
+of groundwater due to the cost and other
+constraints on re-drilling for core material.
+Although cultured cells of Desulfosporosinus meridiei
+produced a signal when probed with the oligonucleotide
+probe, the cells fluoresced faintly when
+compared with the signal produced by cells subjected
+to antibody probing (Figure 4). Cells of Desulfosporosinus
+meridiei were not detected in any
+73
+Table 5. Numbers of cells (cells ml−1) in groundwater collected from four separate multiports from a hydrocarbon
+contaminated aquifer on the Swan Coastal Plain. Cell were detected after staining with DAPI,
+fluorescence in situ hybridisation probe EUB338, and fluorescent polyclonal antibodies raised against Desulfosporosinus
+meridiei strain T2. The percentage of the DAPI staining cells that stained with the probe
+EUB338 is also reported. Data from Robertson (2000).
+Sample DAPI EUB338 %EUB Polyclonal
+site Mean S.E.1 Mean S.E. of total Mean S.E.
+MP91 2.6 × 107 9.2 × 106 2.2 × 106 1.1 × 106 8 4.0 × 103 2.2 × 103
+MP11 2.4 × 107 4.6 × 106 5.4 × 106 4.3 × 106 23 4.6 × 103 2.3 × 103
+MP163 1.4 × 107 3.0 × 106 4.0 × 106 3.5 × 106 29 2.2 × 103 1.4 × 103
+MP8 1.5 × 107 2.5 × 106 3.2 × 106 1.8 × 106 21 1.3 × 102 5.2 × 101
+1 S.E. = standard error.
+2 Multiport MP9 was external to the plume. Other sites were within the plume.
+3 MP16 was located 100 m down gradient from the source of contamination.
+Figure 4. The reaction of fluorescent polyclonal antibodies (A)
+and fluorescence in situ hybridization probes (B) with cells from
+a culture of Desulfosporosinus meridiei.
+groundwater sample by the FISH probe designed for
+Desulfosporosinus meridiei. Desulfosporosinus meridiei
+was detected by antibody probing, but numbers
+were less than 0.2% of the total population of cells
+(the numbers detected by DAPI staining). What is also
+of note, was that numbers of Desulfosporosinus meridiei
+were as great in water from outside the plume
+(MP9) as in groundwater drawn from inside the plume
+(MP11, MP16, MP8; Table 5). This is consistent
+with the observation that groundwater from outside the
+plume showed the same potential to mineralise toluene,
+under sulfate-reducing conditions, as water drawn
+from inside the plume.
+At best, 29% of the DAPI-stained cells in the
+groundwater samples stained with the bacterial probe
+EUB338 (Table 5). The outcomes of the use of FISH
+probing of aquifer material have rarely been reported.
+Zarda et al. (1998) reported that between 3 to 42%
+of the cells that stained with DAPI in aquifer material
+contaminated with aromatic hydrocarbons, could
+be detected by FISH with probe EUB338. As pointed
+out by Zarda et al. (1998), detection rates after
+hybridization with probe EUB338 are used as an indication
+for the presence of metabolically active cells
+which contain sufficient amounts of rRNA coupled
+with sufficient cell permeability or permeabilisation to
+permit their detection. Watanabe et al. (2000) found
+that FISH was much poorer than PCR and denaturing
+gradient gel electrophoresis (DGGE) at detection of
+microorganisms in groundwater associated with crude
+oil storage facilities. In their study, labeled cells exhibited
+weak signals, which was attributed to low rRNA
+contents resulting from a groundwater residence time
+of 7 days in the cavities, and limited availability of
+electron acceptors.
+The intensity of the signal obtained with FISH rapidly
+decreases with cell age, to less than 20% of the
+initial intensity by day 25 for some sulfate-reducing
+bacteria (Bade et al. 2000). In slow moving groundwater,
+in which the transport of nutrients to and products
+away from cells would be extremely slow, the average
+cell age must be much greater than in dynamic environments
+such as activated sludge, in which sludge age
+is usually less than 10 days, and in which the use of
+FISH probing is considerably more successful (Daims
+et al. 1999). However, Fredrickson et al. (1995) were
+able to successfully probe for delta proteobacteria in
+some deep subsurface samples from an aquifer with
+low hydraulic conductivity.
+Desulfosporosinus meridiei could be detected in
+groundwater from the site by antibody probing and
+culture, but not by FISH probing. Given that Zarda
+et al. (1998) also showed a poor response by groundwater
+bacteria to FISH probing, its use for tracking
+74
+cells in contaminated aquifers would appear to be
+problematic.
+Aromatic hydrocarbon attenuation in groundwater on
+the Swan coastal plain: Conclusions
+Sulfate-reduction is the major terminal electron accepting
+process for the intrinsic remediation of plumes
+of aromatic hydrocarbons on the Swan Coastal Plain.
+Although toluene degradation can occur under methanogenic
+conditions, methanogenesis does not play
+a significant role on the Swan Coastal Plain even
+after considerable sulfate depletion in the groundwater.
+Benzene can be degraded under sulfate-reducing
+conditions (Lovley et al. 1995) but this does not occur
+significantly in the Swan Coastal Plain aquifer.
+The reason for this is unknown. However, benzene is
+rapidly degraded in Swan Coastal Plain aquifer material
+under aerobic or nitrate-reducing conditions. As
+benzene does not show natural attenuation by microbial
+populations in the Swan Coastal Plain aquifer,
+high concentrations persist in groundwater for large
+distances down-gradient from a source of contamination.
+These findings have serious implications for
+the management of gasoline-contaminated sites on
+the Swan Coastal Plain, especially as groundwater
+supplies about 70% of water used in the area.
+It has proved difficult to define the microbial community
+structure responsible for the attenuation of
+plumes of aromatic hydrocarbons on the Swan Coastal
+Plain. FISH probing, which has yielded so much information
+on microbial communities in many environments,
+seems of little value in anaerobic groundwater
+environments.
+“In closing, it seems prudent to recognize that
+understanding the identity and activity of microorganisms
+in the subsurface, and in all other habitats, is a
+major scientific challenge” (Madsen 2000).
+Intrinsic remediation of aromatic hydrocarbons in
+the vadose zone
+A second major exposure pathway for carcinogenic
+aromatic hydrocarbons from a contaminated subsurface
+is through vapour transport through the soil to the
+surface. It is not optimal to study this phenomenon
+in thin plumes that result from small point-source
+contamination from damaged or leaking underground
+storage tanks such as those that occur on the Swan
+Coastal Plain (Figure 2). Therefore the fate of hydrocarbon
+vapours has been studied on the Swan Coastal
+Plain at a refinery site where widespread LNAPL contamination
+over a large surface area of the shallow
+aquifer has occurred. The widespread contamination
+allows study of the transport and biodegradation of
+volatile hydrocarbons in the vertical plane without appreciable
+“edge effects” on the vapour transport from
+the groundwater table towards the surface.
+Soil gases at the field site
+The field site was a lightly grassed expanse that had
+experienced hydrocarbon groundwater contamination
+for probably more than 20 years. Residual LNAPL
+occurred at the groundwater-vadose interface, and
+free phase hydrocarbon accumulated in wells drilled
+in the study area. To enable the collection of gases
+from the soil profile, a number of multiport installations
+that consisted of bundles of 2-mm i.d. nylon
+tubes were installed at 0.25 m intervals to below the
+groundwater-soil interface in early 1999. Profiles of
+volatile hydrocarbons, mostly aromatic hydrocarbons
+[namely benzene, toluene, isomers of xylene, and
+1,3,5-trimethylbenzene] and the soil gases oxygen and
+carbon dioxide, have been measured at the site over an
+annual cycle (Davis et al. 2000). The results from two
+of those profiles are shown in Figure 5.
+The profiles changed greatly on a seasonal basis,
+and the depth penetration of oxygen into the soil was
+highly dependent upon the water content in the soil
+profile (Davis et al. 2000). The Swan Coastal Plain receives
+little rain over the Australian summer, 162 mm
+from October to April, however, considerable precipitation
+occurs during the Australian winter months
+(609 mm from May to September). The increase in the
+water content in the soil, reduces the air filled porosity,
+especially in a moisture retaining layer at about 0.1 to
+0.3 m below the ground surface, which restricts vapour
+and oxygen transport. Thus in wet periods, aromatic
+hydrocarbons penetrate much higher in the soil profile,
+and oxygen penetration is shallower (Figure 5, Davis
+et al. 2000).
+Biodegradation in the vadose zone
+Despite seasonal variability in the profiles of aromatic
+hydrocarbons and oxygen in the soil profile, the presence
+of oxygen coincided with an absence of aromatic
+hydrocarbons (Figure 5; Davis et al. 2000). Field analyses
+of groundwater samples have indicated that the
+amount of BTX in groundwater is directly related to
+the availability of dissolved oxygen. Aromatic hydrocarbons
+are absent from groundwater in the vicinity of
+75
+Figure 5. Profiles of soil gases over depth in the vadose zone above gasoline contaminated water, at the end of the wet season (A) and dry
+season (B) (Davis et al. 2000). Oxygen = , carbon dioxide = . Total Petroleum Hydrocarbon (TPH) = .
+contaminated sites if the dissolved oxygen content is
+greater than 0.9 mg l−1 (Chiang et al. 1989).
+Zeroth order oxygen consumption rates can be
+determined from steady state oxygen versus depth pro-
+files, provided the effective diffusion coefficient for
+oxygen in the soil is known. In some cases this may
+be problematic as, diffusion may be markedly affected
+by factors such as moisture content (Davis et
+al. 2000). The stoichiometric conversion of oxygen
+depletion data to hydrocarbon degradation may also be
+problematic as other oxidisable organic matter or oxidisable
+inorganic reduced species (sulfur gases, Fe(II),
+NH3) may account for some of the oxygen consumption
+(Davis et al. 1998). From oxygen consumption
+profiles, Davis et al. (1998) determined a hydrocarbon
+degradation rate of between 110 to 170 mg-hexane
+l
+−1 day−1. With an average air-filled porosity of
+0.49 m3 m−3 and a bulk density of 1340 kg m−3, this
+equates to degradation rates of between 41 to 64 mg
+(kg day)−1. These rates are high when compared with
+rates determined in other studies that have measured
+biodegradation of vapours from petroleum products
+during active bioventing as reported by Hoeppel et al.
+(1991) [up to 10 mg (kg day)−1 for JP-4 at Hill AFB;
+2–20 mg (kg day)−1 for JP-4 at Tyndall AFB; 8 mg (kg
+day)−1 for diesel in The Netherlands; 3 mg (kg day)−1
+for JP-5 at Patuxent River, Maryland; 5 mg (kg day)−1
+for JP-5 at Fallon, Nevada; 1 to 10 mg (kg day)−1
+for JP-5 at Eilson AFB, Alaska]. To determine an unambiguous
+mineralisation rate for volatile aromatics,
+Franzmann et al. (1999) used 14C-ring-benzene in microcosms
+with core material from a range of depths
+in the soil profile to measure the potential for the soil
+microbial community for benzene mineralisation. The
+concentrations of aromatic hydrocarbons, oxygen and
+carbon dioxide in the soil profile at the time of sample
+collection are given in Table 6, as are the mineralisation
+rates, and estimates of the microbial biomass at
+different depths within the soil profile.
+Soil from a depth of 0.25 m showed the greatest
+potential for mineralisation of 14C-benzene 83 ±
+13 µmol (kg day)−1 [which is equivalent to 6.5 ±
+1 mg (kg day)−1] (Table 6). Soil from this depth was
+exposed to a plentiful supply of hydrocarbon vapour
+and oxygen, 11.3 mg l−1 and 13%, respectively. At
+a depth of 0.5 m, the oxygen content dropped to 3%
+and approached the range that may be limiting for total
+petroleum hydrocarbon (TPH) mineralisation (2–5%;
+Hickey 1995). The microbial population at this depth
+showed a slightly less propensity for hydrocarbon
+mineralisation. At the surface, the microbial population
+was not exposed to measurable concentrations
+of TPH (i.e., <1 mg l−1 ) but showed considerable
+propensity to mineralise aromatic hydrocarbons. In
+fact, the surface microbial population mineralised hydrocarbons
+at about the same rate as measured in
+surface soils from the Swan Coastal Plain that were
+not associated with hydrocarbon contamination (23 to
+42 µmol (kg day)−1; Franzmann et al. 1998). Further
+evidence for the lack of hydrocarbon exposure to
+the microbial population in the surface soil was the
+relative lack of trans isomer monounsaturated fatty
+acids in the phospholipid fraction extracted from this
+soil (Table 6). Monounsaturated trans isomer fatty
+acids are enriched in the phospholipids of aerobic
+microbial populations when exposed to aromatic hydrocarbons
+(Heipieper et al. 1994). There was little
+propensity for anaerobic mineralisation of benzene in
+76
+Table 6. Concentrations, in the gas phase, of volatile total petroleum hydrocarbons (TPH), oxygen and carbon
+dioxide; first and zeroth order 14C-hydrocarbon mineralisation rates; biomass; and the percentage of PLFA monounsaturated
+fatty acids with trans isomerisation, in soil from different depths in the vadose zone above hydrocarbon
+contaminated groundwater on the Swan Coastal Plain. Data from Franzmann et al. (1999).
+BGS1 TPH CO2 O2 t1/2 Min. rate Cell No. % trans
+(m) (µg l−1) (%) (%) (days) (µmol (kg day)−1) (cells g−1)
+0 0 0 20 26 ± 7 52 ± 13 2.0 ± 0.7 × 108 0.6
+0.05 662 0 20
+0.25 11384 3.2 13.8 11 ± 1 83 ± 13 1.4 ± 0.4 × 108 55
+0.5 14387 11 3 72 ± 16 27 ± 6 1.1 ± 0.3 × 108 29
+0.75 12357 1.2
+2.75 9933 12.6 1.2 (6.3 ± 1.1 × 104)
+2 0.04 ± 0.01 2.7 ± 1.3 × 107 0
+1 BGS = below ground surface.
+2 Unlike the other samples, this sample was incubated anaerobically.
+soil deep within the profile (t1/2 = 173 years, Table
+6). Simple modeling showed that, provided the zeroth
+order mineralisation rates were used, the total flux
+of hydrocarbon between depth 0.5 m and the surface
+could be accounted for by the rate of aerobic hydrocarbon
+mineralisation in that zone (Franzmann et al.
+1999).
+At the end of the wet season, when the vadose soils
+contained considerably more water, TPH was much
+higher in the profile (Figure 5). This occurred because
+greater water saturation in the soil profile limited the
+penetration of oxygen from the surface (Davis et al.
+2000). Intrinsic remediation of aromatic vapours in
+the vadose zone above gasoline-contaminated water
+seems to generally occur, provided there are no impediments
+to the transport of gases. With greater saturation
+of the soil, TPH was higher in the profile (Figure
+5). Moseley and Meyer (1992) showed that above
+hydrocarbon-contaminated groundwater, greater accumulation
+of soil gas aromatic hydrocarbons occurred
+under paved areas and building structures than under
+non-built-up areas. This resulted in substantial leakage
+of benzene into the building structures and the
+crawl space beneath the floors. For intrinsic remediation
+of hydrocarbon vapours in the soil profile above
+contaminated groundwater, natural ventilation of the
+soil profile must not be impeded, since this will slow
+biodegradation and the containment of vapours within
+the vadose zone.
+Conclusions
+Except for the transport of benzene in groundwater, intrinsic
+remediation by microbial populations prevents
+the extensive transport of aromatic hydrocarbons in the
+aquifer or the vadose zone on the Swan Coastal Plain.
+This is consistent with the findings of many studies
+conducted in many different aquifers.
+The transport of benzene in the groundwater on
+the Swan Coastal Plain is of concern, however addition
+of oxygen or nitrate in the benzene plume could
+be undertaken as a final remediation measure. It remains
+unclear why benzene mineralisation can occur
+under sulfate-reducing conditions in some aquifers
+but not others. Although the fate of the aromatic
+hydrocarbons, and the microbial processes involved
+in their mineralisation can be inferred through geochemical
+analysis and transport modeling, measurement
+of microbial activities using radio-labeled compounds
+increased our understanding of the processes
+and potential rates of mineralisation of the pollutants.
+The analysis of microbial populations through
+phospholipid-derived signatures and biomass estimates
+provided insight into the microbial populations
+in the soil profile above hydrocarbon-contaminated
+groundwater (Table 6), however signature analysis in
+the contaminated groundwater plume provided little
+useful information (Franzmann et al. 1996).
+The use of fluorescently labelled polyclonal antibodies
+for tracing specific bacterial strains of
+Desulfosporosinus meridiei in the groundwater was
+greatly superior to the use of rRNA-directed FISH
+probes. The methodology for the application of FISH
+is rapidly improving through the use of new dyes,
+probes and image analysis techniques (Daims et al.
+1999), however the successful use of FISH to describe
+microbial communities in slow moving groundwaters
+has not been demonstrated and will perhaps remain a
+practical challenge for some time.

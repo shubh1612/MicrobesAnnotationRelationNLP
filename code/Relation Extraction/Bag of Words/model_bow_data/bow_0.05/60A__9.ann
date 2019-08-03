@@ -1,0 +1,141 @@
+T1	Environment 151 161	wastewater
+T2	Substrate 217 229	hydrocarbons
+T3	Substrate 217 229	hydrocarbons
+T4	Substrate 348 360	hydrocarbons
+T5	Substrate 348 360	hydrocarbons
+T6	Substrate 434 443	petroleum
+T7	Substrate 454 466	hydrocarbons
+T8	Substrate 597 609	hydrocarbons
+T9	Substrate 454 466	hydrocarbons
+T10	Substrate 597 609	hydrocarbons
+T11	Substrate 590 593	oil
+T12	ReactionOrProcess 416 430	biodegradation
+R1	CarriedOn Arg1:T12 Arg2:T6
+R2	CarriedOn Arg1:T12 Arg2:T7
+R3	CarriedOn Arg1:T12 Arg2:T8
+R4	CarriedOn Arg1:T12 Arg2:T9
+R5	CarriedOn Arg1:T12 Arg2:T10
+R6	CarriedOn Arg1:T12 Arg2:T11
+T13	Substrate 811 835	light aromatic fractions
+T14	Substrate 886 892	resins
+T15	Substrate 875 884	aromatics
+T16	Substrate 798 835	aliphatic or light aromatic fractions
+T17	Substrate 757 760	oil
+T18	Substrate 843 846	oil
+T19	Substrate 898 909	asphaltenes
+T20	Property 817 825	aromatic
+T21	Property 875 884	aromatics
+T22	ReactionOrProcess 742 753	degradation
+T23	ReactionOrProcess 977 991	biodegradation
+T24	ReactionOrProcess 732 753	Microbial degradation
+R7	CarriedOn Arg1:T22 Arg2:T13
+R8	CarriedOn Arg1:T22 Arg2:T14
+R9	CarriedOn Arg1:T22 Arg2:T15
+R10	CarriedOn Arg1:T22 Arg2:T16
+R11	CarriedOn Arg1:T22 Arg2:T17
+R12	CarriedOn Arg1:T22 Arg2:T18
+R13	CarriedOn Arg1:T22 Arg2:T19
+R14	CarriedOn Arg1:T24 Arg2:T13
+R15	CarriedOn Arg1:T24 Arg2:T14
+R16	CarriedOn Arg1:T24 Arg2:T15
+R17	CarriedOn Arg1:T24 Arg2:T16
+R18	CarriedOn Arg1:T24 Arg2:T17
+R19	CarriedOn Arg1:T24 Arg2:T18
+R20	CarriedOn Arg1:T24 Arg2:T19
+T25	Environment 1086 1093	aquatic
+T26	Substrate 1139 1142	oil
+T27	Substrate 1146 1149	oil
+T28	Substrate 1270 1273	oil
+T29	Property 1252 1266	concentrations
+T30	ReactionOrProcess 1121 1135	emulsification
+T31	ReactionOrProcess 1194 1208	biodegradation
+R21	CarriedOn Arg1:T30 Arg2:T26
+R22	CarriedOn Arg1:T30 Arg2:T27
+R23	CarriedOn Arg1:T30 Arg2:T28
+T32	Environment 1414 1418	soil
+T33	Substrate 1379 1388	Petroleum
+T34	Property 1477 1485	toxicity
+T35	Property 1477 1485	toxicity
+T36	Substrate 1663 1675	hydrocarbons
+T37	Substrate 1663 1675	hydrocarbons
+T38	Property 1593 1604	temperature
+T39	Property 1642 1654	temperatures
+T40	ReactionOrProcess 1655 1662	degrade
+T41	ReactionOrProcess 1537 1551	Biodegradation
+T42	Environment 1731 1738	aquatic
+T43	Substrate 1718 1727	petroleum
+T44	ReactionOrProcess 1703 1714	degradation
+T45	ReactionOrProcess 1693 1714	microbial degradation
+T46	Nutrient 1794 1802	nitrogen
+T47	Nutrient 1807 1817	phosphorus
+R24	CarriedOn Arg1:T44 Arg2:T43
+R25	CarriedOn Arg1:T45 Arg2:T43
+T48	Environment 2020 2024	soil
+T49	Property 1924 1938	concentrations
+T50	ReactionOrProcess 1996 2010	biodegradation
+T51	Nutrient 1907 1913	Oxygen
+T52	Substrate 2164 2176	hydrocarbons
+T53	Substrate 2026 2037	Hydrocarbon
+T54	Substrate 2164 2176	hydrocarbons
+T55	ReactionOrProcess 2026 2049	Hydrocarbon degradation
+T56	ReactionOrProcess 2038 2049	degradation
+R26	CarriedOn Arg1:T55 Arg2:T52
+R27	CarriedOn Arg1:T55 Arg2:T54
+R28	CarriedOn Arg1:T56 Arg2:T52
+R29	CarriedOn Arg1:T56 Arg2:T54
+T57	Environment 2346 2357	terrestrial
+T58	Environment 2276 2282	marine
+T59	ReactionOrProcess 2219 2230	degradation
+T60	Substrate 2443 2455	hydrocarbons
+T61	Substrate 2529 2540	hydrocarbon
+T62	Substrate 2443 2455	hydrocarbons
+T63	ReactionOrProcess 2472 2486	biodegradation
+R30	CarriedOn Arg1:T63 Arg2:T61
+T64	ReactionOrProcess 2608 2618	enrichment
+T65	ReactionOrProcess 2574 2584	adaptation
+T66	Environment 2953 2958	soils
+T67	Environment 2944 2949	water
+T68	Substrate 3311 3332	aromatic hydrocarbons
+T69	Substrate 3443 3464	aromatic hydrocarbons
+T70	Substrate 3311 3332	aromatic hydrocarbons
+T71	Substrate 3443 3464	aromatic hydrocarbons
+T72	Substrate 3320 3332	hydrocarbons
+T73	Substrate 3452 3464	hydrocarbons
+T74	Substrate 3223 3234	hydrocarbon
+T75	Substrate 3320 3332	hydrocarbons
+T76	Substrate 3452 3464	hydrocarbons
+T77	Property 3311 3319	aromatic
+T78	Property 3443 3451	aromatic
+T79	ReactionOrProcess 3390 3400	adaptation
+T80	ReactionOrProcess 3223 3249	hydrocarbon biodegradation
+T81	ReactionOrProcess 3235 3249	biodegradation
+R31	CarriedOn Arg1:T80 Arg2:T68
+R32	CarriedOn Arg1:T80 Arg2:T69
+R33	CarriedOn Arg1:T80 Arg2:T70
+R34	CarriedOn Arg1:T80 Arg2:T71
+R35	CarriedOn Arg1:T80 Arg2:T72
+R36	CarriedOn Arg1:T80 Arg2:T73
+R37	CarriedOn Arg1:T80 Arg2:T75
+R38	CarriedOn Arg1:T80 Arg2:T76
+R39	CarriedOn Arg1:T81 Arg2:T68
+R40	CarriedOn Arg1:T81 Arg2:T69
+R41	CarriedOn Arg1:T81 Arg2:T70
+R42	CarriedOn Arg1:T81 Arg2:T71
+R43	CarriedOn Arg1:T81 Arg2:T72
+R44	CarriedOn Arg1:T81 Arg2:T73
+R45	CarriedOn Arg1:T81 Arg2:T75
+R46	CarriedOn Arg1:T81 Arg2:T76
+T82	Substrate 3697 3709	hydrocarbons
+T83	Substrate 3574 3586	hydrocarbons
+T84	Substrate 3697 3709	hydrocarbons
+T85	Substrate 3574 3586	hydrocarbons
+T86	ReactionOrProcess 3543 3553	catabolism
+T87	ReactionOrProcess 3682 3693	degradation
+T88	ReactionOrProcess 3672 3693	microbial degradation
+R47	CarriedOn Arg1:T86 Arg2:T82
+R48	CarriedOn Arg1:T86 Arg2:T83
+R49	CarriedOn Arg1:T86 Arg2:T84
+R50	CarriedOn Arg1:T86 Arg2:T85
+T89	Substrate 3945 3956	hydrocarbon
+T90	Substrate 4025 4036	hydrocarbon
+T91	Property 4037 4047	pollutants

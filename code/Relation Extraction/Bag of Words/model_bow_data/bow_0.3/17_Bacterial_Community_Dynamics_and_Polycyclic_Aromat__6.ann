@@ -1,0 +1,54 @@
+T1	ReactionOrProcess 171 175	DGGE
+T2	ReactionOrProcess 604 624	early biodegradation
+T3	ReactionOrProcess 610 624	biodegradation
+T4	Substrate 827 831	PAHs
+T5	ReactionOrProcess 887 896	depletion
+T6	ReactionOrProcess 798 812	biodegradation
+R1	CarriedOn Arg1:T6 Arg2:T4
+T7	ReactionOrProcess 935 942	excised
+T8	ReactionOrProcess 988 992	DGGE
+T9	ReactionOrProcess 1019 1033	biostimulation
+T10	Environment 1067 1081	untreated soil
+T11	Environment 1077 1081	soil
+T12	ReactionOrProcess 1106 1113	excised
+T13	ReactionOrProcess 1311 1318	excised
+T14	ReactionOrProcess 1300 1304	DGGE
+T15	ReactionOrProcess 1323 1337	biostimulation
+T16	ReactionOrProcess 1395 1399	DGGE
+T17	Microbes 1577 1600	Rhizobium-Agrobacterium
+T18	Microbes 1606 1618	Azospirillum
+T19	Microbes 1545 1561	α-Proteobacteria
+T20	Microbes 1637 1653	γ-Proteobacteria
+T21	Environment 1525 1529	soil
+T22	Microbes 1764 1780	α-Proteobacteria
+T23	Microbes 1847 1863	γ-Proteobacteria
+T24	Environment 1713 1731	Biostimulated soil
+T25	Environment 1727 1731	soil
+T26	ReactionOrProcess 1787 1791	DGGE
+T27	ReactionOrProcess 1826 1830	DGGE
+T28	ReactionOrProcess 1870 1874	DGGE
+R2	CarriedOn Arg1:T26 Arg2:T23
+R3	CarriedOn Arg1:T27 Arg2:T23
+R4	CarriedOn Arg1:T28 Arg2:T23
+T29	ReactionOrProcess 2046 2050	DGGE
+T30	Microbes 2134 2150	α-Proteobacteria
+T31	Microbes 2215 2231	γ-Proteobacteria
+T32	Environment 2085 2089	Soil
+T33	ReactionOrProcess 2158 2162	DGGE
+T34	ReactionOrProcess 2198 2202	DGGE
+T35	ReactionOrProcess 2238 2242	DGGE
+T36	ReactionOrProcess 2304 2308	DGGE
+T37	Environment 2394 2398	soil
+T38	Environment 2449 2453	soil
+T39	Microbes 2633 2649	α-Proteobacteria
+T40	Microbes 2773 2789	γ-Proteobacteria
+T41	ReactionOrProcess 2905 2919	biodegradation
+T42	Environment 2971 2975	soil
+T43	Microbes 3159 3175	γ-Proteobacteria
+T44	Microbes 3236 3252	α-Proteobacteria
+T45	Environment 3458 3462	soil
+T46	Microbes 3686 3702	α-Proteobacteria
+T47	Microbes 3868 3884	γ-Proteobacteria
+T48	Environment 4032 4036	soil
+T49	Microbes 4401 4417	α-Proteobacteria
+T50	Microbes 4234 4250	γ-Proteobacteria

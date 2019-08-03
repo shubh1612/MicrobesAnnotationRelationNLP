@@ -1,0 +1,82 @@
+T1	ReactionOrProcess 205 225	early biodegradation
+T2	Substrate 428 432	PAHs
+T3	ReactionOrProcess 488 497	depletion
+T4	ReactionOrProcess 399 413	biodegradation
+T5	ReactionOrProcess 536 543	excised
+T6	ReactionOrProcess 589 593	DGGE
+T7	ReactionOrProcess 620 634	biostimulation
+T8	Environment 668 682	untreated soil
+T9	ReactionOrProcess 707 714	excised
+T10	ReactionOrProcess 912 919	excised
+T11	ReactionOrProcess 901 905	DGGE
+T12	ReactionOrProcess 924 938	biostimulation
+T13	ReactionOrProcess 996 1000	DGGE
+T14	Microbes 1178 1201	Rhizobium-Agrobacterium
+T15	Microbes 1207 1219	Azospirillum
+T16	Microbes 1146 1162	α-Proteobacteria
+T17	Microbes 1238 1254	γ-Proteobacteria
+T18	Environment 1126 1130	soil
+T19	Microbes 1365 1381	α-Proteobacteria
+T20	Microbes 1448 1464	γ-Proteobacteria
+T21	Environment 1314 1332	
+T22	ReactionOrProcess 1388 1392	DGGE
+T23	ReactionOrProcess 1427 1431	DGGE
+T24	ReactionOrProcess 1471 1475	DGGE
+T25	ReactionOrProcess 1647 1651	DGGE
+T26	Microbes 1735 1751	α-Proteobacteria
+T27	Microbes 1816 1832	γ-Proteobacteria
+T28	Environment 1686 1690	
+T29	ReactionOrProcess 1759 1763	DGGE
+T30	ReactionOrProcess 1799 1803	DGGE
+T31	ReactionOrProcess 1839 1843	DGGE
+T32	ReactionOrProcess 1905 1909	DGGE
+T33	Environment 1995 1999	soil
+T34	Environment 2050 2054	soil
+T35	Microbes 2234 2250	α-Proteobacteria
+T36	Microbes 2374 2390	γ-Proteobacteria
+T37	ReactionOrProcess 2506 2520	biodegradation
+T38	Environment 2572 2576	soil
+T39	Microbes 2760 2776	γ-Proteobacteria
+T40	Microbes 2837 2853	α-Proteobacteria
+T41	Environment 3059 3063	soil
+T42	Microbes 3287 3303	α-Proteobacteria
+T43	Microbes 3469 3485	γ-Proteobacteria
+T44	Environment 3633 3637	soil
+T45	Microbes 4002 4018	α-Proteobacteria
+T46	Microbes 3835 3851	γ-Proteobacteria
+T47	Microbes 4269 4286	Sphingomonadaceae
+T48	Microbes 4232 4248	α-Proteobacteria
+T49	Microbes 4339 4355	γ-Proteobacteria
+T50	Environment 4308 4325	contaminated soil
+T51	ReactionOrProcess 4181 4195	bioremediation
+T52	Microbes 4606 4622	α-Proteobacteria
+T53	Microbes 4682 4698	α-Proteobacteria
+T54	Microbes 4556 4572	γ-Proteobacteria
+T55	Microbes 4703 4719	γ-Proteobacteria
+T56	ReactionOrProcess 4524 4534	incubation
+T57	ReactionOrProcess 4439 4453	biodegradation
+R2	CarriedOn Arg1:T4 Arg2:T2
+R3	OccursIn Arg1:T9 Arg2:T8
+R6	FoundIn Arg1:T16 Arg2:T18
+R7	FoundIn Arg1:T17 Arg2:T18
+R8	FoundIn Arg1:T19 Arg2:T21
+R9	FoundIn Arg1:T20 Arg2:T21
+R10	CarriedOn Arg1:T22 Arg2:T19
+R11	CarriedOn Arg1:T22 Arg2:T20
+R12	CarriedOn Arg1:T23 Arg2:T19
+R14	CarriedOn Arg1:T24 Arg2:T19
+R15	CarriedOn Arg1:T24 Arg2:T20
+R19	FoundIn Arg1:T26 Arg2:T28
+R20	FoundIn Arg1:T27 Arg2:T28
+R21	CarriedOn Arg1:T29 Arg2:T26
+R22	CarriedOn Arg1:T29 Arg2:T27
+R23	CarriedOn Arg1:T30 Arg2:T26
+R25	CarriedOn Arg1:T31 Arg2:T26
+R26	CarriedOn Arg1:T31 Arg2:T27
+R27	CarriedOn Arg1:T32 Arg2:T26
+R35	FoundIn Arg1:T49 Arg2:T50
+R39	OccursIn Arg1:T51 Arg2:T50
+R42	CarriedOn Arg1:T56 Arg2:T54
+R44	CarriedOn Arg1:T57 Arg2:T52
+R45	CarriedOn Arg1:T57 Arg2:T53
+R46	CarriedOn Arg1:T57 Arg2:T54

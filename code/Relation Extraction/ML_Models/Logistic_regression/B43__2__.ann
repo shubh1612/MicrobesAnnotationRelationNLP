@@ -1,0 +1,85 @@
+T1	Environment 61 71	microcosms
+T2	Substrate 104 112	gasoline
+T3	Property 113 127	concentrations
+T4	Substrate 148 182	site was contaminated by petroleum
+T5	Environment 256 260	soil
+T6	Property 273 278	sandy
+T7	Property 360 365	sandy
+T8	Property 280 312	gravely fill with coal fragments
+T9	Property 367 381	angular gravel
+T10	Property 383 402	over basalt bedrock
+T11	Property 314 337	over soft to stiff silt
+T12	Property 339 358	over loose to dense
+T13	Environment 555 579	underground storage tank
+T14	Substrate 406 415	petroleum
+T15	Environment 619 623	soil
+T16	Substrate 685 707	petroleum hydrocarbons
+T17	Property 667 681	concentrations
+T18	Environment 754 766	Soil samples
+T19	Environment 970 974	soil
+T20	Environment 1024 1036	soil samples
+T21	Property 1137 1151	concentrations
+T22	Property 1125 1136	contaminant
+T23	Environment 1206 1218	Soil samples
+T24	Environment 1369 1373	soil
+T25	ReactionOrProcess 1374 1388	DNA extraction
+T26	ReactionOrProcess 1328 1337	isolation
+T27	Environment 1398 1403	soils
+T28	Environment 1642 1646	soil
+T29	Environment 1547 1552	soils
+T30	Environment 1619 1624	water
+T31	Property 1692 1714	water-holding capacity
+T32	ReactionOrProcess 1558 1564	sieved
+T33	ReactionOrProcess 1535 1545	air drying
+T34	Environment 1738 1742	soil
+T35	Environment 1845 1849	soil
+T36	Substrate 1758 1775	unleaded gasoline
+T37	Property 1794 1808	concentrations
+T38	Substrate 1880 1897	unleaded gasoline
+T39	Substrate 1916 1923	toluene
+T40	Substrate 1969 1977	o-xylene
+T41	Substrate 2003 2014	naphthalene
+T42	Substrate 1931 1943	ethylbenzene
+T43	Substrate 1982 1990	p-xylene
+T44	Substrate 1953 1961	m-xylene
+T45	Environment 2067 2079	treated soil
+T46	Environment 2149 2154	Soils
+T47	Property 2342 2353	temperature
+T48	ReactionOrProcess 2286 2297	evaporation
+T49	ReactionOrProcess 2354 2364	incubation
+T50	Environment 2379 2383	soil
+T51	ReactionOrProcess 2459 2470	inoculation
+T52	ReactionOrProcess 2512 2521	extracted
+T53	Environment 2627 2639	soil samples
+T54	Substrate 2574 2602	total petroleum hydrocarbons
+T55	Substrate 2551 2569	Aromatic Compounds
+T56	ReactionOrProcess 2608 2617	extracted
+T57	ReactionOrProcess 2648 2677	supercritical fluid extractor
+T58	Environment 2930 2934	soil
+T59	Substrate 2922 2928	hexane
+T60	Property 2835 2846	temperature
+T61	Property 2865 2876	temperature
+T62	ReactionOrProcess 2728 2738	extraction
+T63	Environment 3060 3064	soil
+T64	Substrate 3032 3043	naphthalene
+T65	ReactionOrProcess 2958 2968	extraction
+T66	ReactionOrProcess 3074 3084	extraction
+T67	Substrate 3288 3295	benzene
+T68	Substrate 3297 3304	toluene
+T69	Substrate 3306 3318	ethylbenzene
+T70	Substrate 3324 3331	xylenes
+T71	Substrate 3255 3273	Aromatic compounds
+T72	ReactionOrProcess 3350 3392	gas chromatography using an Auto System GC
+T73	ReactionOrProcess 3578 3603	flame ionization detector
+T74	Environment 3750 3754	Soil
+T75	Environment 3808 3812	soil
+T76	ReactionOrProcess 3844 3861	direct cell lysis
+T77	ReactionOrProcess 3713 3723	Extraction
+T78	Environment 3910 3914	soil
+T79	Environment 3943 3947	soil
+T80	Property 4105 4116	temperature
+T81	Property 3915 3924	dispersed
+T82	ReactionOrProcess 4052 4060	vortexed
+T83	ReactionOrProcess 4076 4085	incubated
+T84	Environment 4226 4230	soil
+T85	Environment 4118 4122	Soil

@@ -1,0 +1,81 @@
+T1	ReactionOrProcess 25 36	inoculation
+T2	ReactionOrProcess 174 185	inoculation
+T3	Environment 413 417	soil
+T4	Substrate 432 444	hydrocarbons
+T5	Substrate 432 444	hydrocarbons
+T6	ReactionOrProcess 233 244	utilization
+R1	CarriedOn Arg1:T6 Arg2:T4
+R2	CarriedOn Arg1:T6 Arg2:T5
+T7	Environment 570 588	contaminated soils
+T8	Environment 583 588	soils
+T9	Environment 570 588	contaminated soils
+T10	ReactionOrProcess 513 524	utilization
+T11	Substrate 711 722	hydrocarbon
+T12	Environment 881 885	soil
+T13	Property 802 815	Gram-negative
+T14	Environment 887 891	Soil
+T15	Environment 887 892	Soils
+T16	Substrate 911 923	hydrocarbons
+T17	Substrate 911 923	hydrocarbons
+T18	ReactionOrProcess 1005 1026	heavy metal pollution
+T19	Environment 1179 1184	soils
+T20	Substrate 1195 1206	hydrocarbon
+T21	Environment 1244 1248	Soil
+T22	ReactionOrProcess 1500 1514	mineralization
+T23	Environment 1617 1621	soil
+T24	Property 1595 1607	contaminants
+T25	ReactionOrProcess 1626 1634	degraded
+T26	Environment 1767 1778	terrestrial
+T27	Environment 1868 1872	soil
+T28	ReactionOrProcess 2158 2169	utilization
+T29	ReactionOrProcess 2555 2564	reduction
+T30	ReactionOrProcess 2653 2660	oxidize
+T31	Nutrient 2674 2680	carbon
+T32	Microbes 2779 2801	heterotrophic bacteria
+T33	Property 2779 2792	heterotrophic
+T34	Environment 3162 3173	groundwater
+T35	Environment 3156 3160	soil
+T36	Environment 3179 3186	aquatic
+T37	Substrate 3222 3234	hydrocarbons
+T38	Substrate 3222 3234	hydrocarbons
+T39	Property 3206 3215	pollutant
+T40	Substrate 3254 3266	hydrocarbons
+T41	Substrate 3254 3266	hydrocarbons
+T42	ReactionOrProcess 3236 3250	Biodegradation
+R3	CarriedOn Arg1:T42 Arg2:T40
+R4	CarriedOn Arg1:T42 Arg2:T41
+T43	Nutrient 3405 3411	carbon
+T44	Environment 3599 3617	contaminated soils
+T45	Environment 3612 3617	soils
+T46	Environment 3599 3617	contaminated soils
+T47	Substrate 3527 3539	hydrocarbons
+T48	Substrate 3527 3539	hydrocarbons
+T49	ReactionOrProcess 3664 3675	remediation
+T50	ReactionOrProcess 3487 3504	massive pollution
+R5	CarriedOn Arg1:T50 Arg2:T47
+R6	CarriedOn Arg1:T50 Arg2:T48
+T51	Property 3766 3778	contaminants
+T52	ReactionOrProcess 3879 3893	bioremediation
+T53	ReactionOrProcess 3719 3733	Bioremediation
+T54	ReactionOrProcess 3871 3893	on-site bioremediation
+T55	Environment 4085 4089	soil
+T56	Substrate 4003 4015	hydrocarbons
+T57	Substrate 4003 4015	hydrocarbons
+T58	ReactionOrProcess 3985 3999	mineralization
+R7	CarriedOn Arg1:T58 Arg2:T56
+R8	CarriedOn Arg1:T58 Arg2:T57
+T59	Environment 4186 4200	microbial soil
+T60	Environment 4196 4200	soil
+T61	ReactionOrProcess 4220 4234	bioremediation
+T62	ReactionOrProcess 4121 4132	utilization
+T63	Environment 4486 4490	soil
+T64	Substrate 4408 4420	hydrocarbons
+T65	Substrate 4408 4420	hydrocarbons
+T66	ReactionOrProcess 4393 4404	remediation
+T67	ReactionOrProcess 4343 4354	utilization
+R9	CarriedOn Arg1:T66 Arg2:T64
+R10	CarriedOn Arg1:T66 Arg2:T65
+R11	CarriedOn Arg1:T67 Arg2:T64
+R12	CarriedOn Arg1:T67 Arg2:T65
+T68	Environment 4512 4516	soil
+T69	Environment 4503 4516	pristine soil

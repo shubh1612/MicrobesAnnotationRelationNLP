@@ -1,0 +1,44 @@
+T1	Property 502 511	dissolved
+T2	Property 519 532	concentration
+T3	Nutrient 512 518	oxygen
+T4	Substrate 680 691	methanogens
+T5	Microbes 1020 1042	Comamonas testosteroni
+T6	Microbes 892 908	aerobic bacteria
+T7	Microbes 1240 1256	aerobic bacteria
+T8	Property 1223 1235	methanogenic
+T9	Property 1223 1235	methanogenic
+T10	Property 1359 1365	stable
+T11	Substrate 1516 1527	methanogens
+T12	Property 1479 1488	dissolved
+T13	Nutrient 1489 1495	oxygen
+T14	Substrate 1604 1611	methane
+T15	Property 1643 1652	dissolved
+T16	Nutrient 1653 1659	oxygen
+T17	Property 1794 1803	dissolved
+T18	Property 1811 1824	concentration
+T19	Nutrient 1804 1810	oxygen
+T20	Property 1918 1927	dissolved
+T21	Property 1935 1949	concentrations
+T22	Property 2059 2073	concentrations
+T23	ReactionOrProcess 1993 2003	reductions
+T24	Nutrient 1928 1934	oxygen
+T25	Microbes 2287 2327	formate degrading methanogenic consortia
+T26	Microbes 2295 2327	degrading methanogenic consortia
+T27	Environment 2197 2217	anaerobic conditions
+T28	Property 2305 2317	methanogenic
+T29	Property 2305 2317	methanogenic
+T30	ReactionOrProcess 2295 2304	degrading
+T31	Substrate 2419 2426	methane
+T32	Substrate 2664 2675	methanogens
+T33	Property 2723 2731	volatile
+T34	ReactionOrProcess 2745 2757	fermentation
+T35	ReactionOrProcess 2785 2797	fermentation
+T36	ReactionOrProcess 2732 2757	organic acid fermentation
+T37	Substrate 2949 2960	methanogens
+T38	ReactionOrProcess 2999 3011	fermentation
+T39	ReactionOrProcess 2965 2977	accumulation
+T40	Microbes 3159 3177	anaerobic bacteria
+T41	Microbes 3150 3177	obligate anaerobic bacteria
+T42	Microbes 3269 3285	aerobic bacteria
+T43	ReactionOrProcess 3187 3196	reduction
+T44	ReactionOrProcess 3179 3196	Sulfate reduction

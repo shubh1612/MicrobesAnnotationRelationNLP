@@ -1,0 +1,69 @@
+T1	Environment 130 137	aquifer
+T2	Substrate 156 168	hydrocarbons
+T3	ReactionOrProcess 223 247	intrinsic bioremediation
+T4	Property 295 307	methanogenic
+T5	ReactionOrProcess 330 338	reducing
+T6	ReactionOrProcess 360 368	reducing
+T7	ReactionOrProcess 282 287	redox
+T8	Nutrient 344 348	iron
+T9	Environment 424 431	aquifer
+T10	ReactionOrProcess 528 534	cloned
+T11	ReactionOrProcess 448 451	PCR
+T12	Property 1334 1346	methanogenic
+T13	Microbes 1522 1532	Syntrophus
+T14	Substrate 1534 1548	Syntrophus spp
+T15	ReactionOrProcess 1574 1593	anaerobic oxidation
+T16	ReactionOrProcess 1826 1840	methanogenesis
+T17	Environment 1951 1958	aquifer
+T18	Property 1926 1938	methanogenic
+T19	ReactionOrProcess 1895 1918	hydrocarbon degradation
+T20	ReactionOrProcess 2067 2089	syntrophic association
+T21	ReactionOrProcess 1975 1989	methanogenesis
+T22	Environment 2214 2225	groundwater
+T23	Environment 2146 2170	underground storage tank
+T24	Environment 2182 2209	petroleum-contaminated soil
+T25	Property 2110 2121	attenuation
+T26	Environment 2349 2373	contaminated groundwater
+T27	Environment 2415 2432	contaminated soil
+T28	Property 2298 2309	attenuation
+T29	Environment 2462 2486	contaminated groundwater
+T30	Environment 2526 2543	contaminated soil
+T31	Property 2609 2620	attenuation
+T32	Environment 2688 2705	contaminated site
+T33	Property 2757 2768	attenuation
+T34	Property 2718 2729	attenuation
+T35	Environment 2879 2883	soil
+T36	Environment 2849 2871	historical groundwater
+T37	Property 2951 2964	concentration
+T38	Property 2927 2938	contaminant
+T39	Property 3037 3048	contaminant
+T40	ReactionOrProcess 3069 3083	volatilization
+T41	Environment 3291 3296	water
+T42	Substrate 3302 3309	methane
+T43	Substrate 3187 3199	hydrocarbons
+T44	Substrate 3259 3271	hydrocarbons
+T45	Substrate 3349 3361	hydrocarbons
+T46	ReactionOrProcess 3158 3182	intrinsic bioremediation
+T47	Nutrient 3275 3281	carbon
+T48	Environment 3538 3547	microcosm
+T49	Substrate 3457 3479	biological hydrocarbon
+T50	Property 3697 3709	contaminants
+T51	ReactionOrProcess 3527 3536	depletion
+T52	Nutrient 3509 3526	electron acceptor
+T53	ReactionOrProcess 4087 4096	extracted
+T54	ReactionOrProcess 4142 4145	PCR
+T55	ReactionOrProcess 4161 4168	cloning
+T56	Environment 4350 4370	contaminated aquifer
+T57	Environment 4247 4251	soil
+T58	ReactionOrProcess 4382 4406	intrinsic bioremediation
+T59	Environment 4490 4510	contaminated aquifer
+T60	Environment 4773 4778	plume
+T61	Substrate 4722 4729	benzene
+T62	Substrate 4731 4738	toluene
+T63	Substrate 4740 4752	ethylbenzene
+T64	Substrate 4758 4765	xylenes
+T65	Property 4812 4826	concentrations
+T66	Property 4704 4718	Concentrations
+T67	Environment 4964 4971	aquifer
+T68	Substrate 4980 5007	total petroleum hydrocarbon
+R1	ActOn Arg1:T13 Arg2:T14

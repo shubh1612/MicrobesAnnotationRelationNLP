@@ -1,0 +1,132 @@
+T1	Environment 215 220	plume
+T2	Substrate 194 214	deep-sea hydrocarbon
+T3	Substrate 203 214	hydrocarbon
+T4	Substrate 107 110	oil
+T5	Substrate 148 151	oil
+T6	Microbes 417 434	Oceanospirillales
+T7	Substrate 478 481	oil
+T8	Microbes 564 581	Oceanospirillales
+T9	Environment 924 929	plume
+T10	Environment 991 996	plume
+T11	Environment 967 975	seawater
+T12	Environment 952 975	uncontaminated seawater
+T13	Substrate 829 850	aliphatic hydrocarbon
+T14	Substrate 839 850	hydrocarbon
+T15	Substrate 912 923	hydrocarbon
+T16	ReactionOrProcess 839 862	hydrocarbon degradation
+T17	ReactionOrProcess 829 862	aliphatic hydrocarbon degradation
+T18	ReactionOrProcess 804 812	motility
+T19	ReactionOrProcess 851 862	degradation
+R1	CarriedOn Arg1:T18 Arg2:T13
+R2	CarriedOn Arg1:T18 Arg2:T14
+R3	CarriedOn Arg1:T18 Arg2:T15
+T20	Substrate 1145 1177	polycyclic aromatic hydrocarbons
+T21	Substrate 1156 1177	aromatic hydrocarbons
+T22	Substrate 1095 1102	benzene
+T23	Substrate 1104 1111	toluene
+T24	Substrate 1156 1177	aromatic hydrocarbons
+T25	Substrate 1165 1177	hydrocarbons
+T26	Substrate 1113 1125	ethylbenzene
+T27	Substrate 1133 1140	xylenes
+T28	Substrate 1165 1177	hydrocarbons
+T29	Substrate 1145 1177	polycyclic aromatic hydrocarbons
+T30	Property 1145 1155	polycyclic
+T31	Property 1156 1164	aromatic
+T32	ReactionOrProcess 1043 1054	degradation
+R4	CarriedOn Arg1:T32 Arg2:T20
+R5	CarriedOn Arg1:T32 Arg2:T21
+R6	CarriedOn Arg1:T32 Arg2:T22
+R7	CarriedOn Arg1:T32 Arg2:T23
+R8	CarriedOn Arg1:T32 Arg2:T24
+R9	CarriedOn Arg1:T32 Arg2:T25
+R10	CarriedOn Arg1:T32 Arg2:T26
+R11	CarriedOn Arg1:T32 Arg2:T27
+R12	CarriedOn Arg1:T32 Arg2:T28
+R13	CarriedOn Arg1:T32 Arg2:T29
+T33	Microbes 1341 1358	Oceanospirillales
+T34	Substrate 1424 1432	n-alkane
+T35	ReactionOrProcess 1449 1460	degradation
+T36	ReactionOrProcess 1309 1318	Isolation
+R14	CarriedOn Arg1:T36 Arg2:T33
+R15	CarriedOn Arg1:T36 Arg2:T34
+T37	Microbes 1535 1552	Oceanospirillales
+T38	ReactionOrProcess 1518 1527	oxidation
+T39	ReactionOrProcess 1695 1703	motility
+T40	Microbes 1869 1886	Oceanospirillales
+T41	Environment 1925 1928	sea
+T42	Environment 1920 1928	deep sea
+T43	Substrate 1890 1912	aliphatic hydrocarbons
+T44	Substrate 1900 1912	hydrocarbons
+T45	Substrate 1890 1912	aliphatic hydrocarbons
+T46	Substrate 1900 1912	hydrocarbons
+T47	Microbes 1975 1992	Oceanospirillales
+T48	Substrate 1945 1948	oil
+T49	Substrate 2115 2118	oil
+T50	Substrate 2178 2181	oil
+T51	Substrate 2504 2527	polycyclic hydrocarbons
+T52	Substrate 2471 2492	aromatic hydrocarbons
+T53	Substrate 2504 2527	polycyclic hydrocarbons
+T54	Substrate 2441 2463	saturated hydrocarbons
+T55	Substrate 2471 2492	aromatic hydrocarbons
+T56	Substrate 2418 2430	hydrocarbons
+T57	Substrate 2451 2463	hydrocarbons
+T58	Substrate 2480 2492	hydrocarbons
+T59	Substrate 2515 2527	hydrocarbons
+T60	Substrate 2418 2430	hydrocarbons
+T61	Substrate 2451 2463	hydrocarbons
+T62	Substrate 2480 2492	hydrocarbons
+T63	Substrate 2515 2527	hydrocarbons
+T64	Substrate 2367 2370	oil
+T65	Substrate 2441 2463	saturated hydrocarbons
+T66	Property 2504 2514	polycyclic
+T67	Property 2441 2450	saturated
+T68	Property 2558 2572	concentrations
+T69	Property 2471 2479	aromatic
+T70	Environment 2704 2709	plume
+T71	Environment 2700 2709	oil plume
+T72	Substrate 2700 2703	oil
+T73	Environment 2823 2828	plume
+T74	Environment 2819 2828	oil plume
+T75	Substrate 2980 2987	benzene
+T76	Substrate 2989 2996	toluene
+T77	Substrate 2810 2822	deep-sea oil
+T78	Substrate 2998 3010	ethylbenzene
+T79	Substrate 3021 3028	xylenes
+T80	Substrate 2819 2822	oil
+T81	Property 2810 2828	deep-sea oil plume
+T82	Property 3039 3053	concentrations
+T83	Microbes 3370 3387	Oceanospirillales
+T84	Substrate 3135 3147	hydrocarbons
+T85	Substrate 3135 3147	hydrocarbons
+T86	ReactionOrProcess 3328 3338	enrichment
+R16	CarriedOn Arg1:T86 Arg2:T83
+T87	Microbes 3506 3523	Oceanospirillales
+T88	Environment 3533 3538	plume
+T89	Substrate 3634 3646	hydrocarbons
+T90	Substrate 3634 3646	hydrocarbons
+T91	Environment 3777 3782	plume
+T92	Substrate 3786 3798	hydrocarbons
+T93	Substrate 3786 3798	hydrocarbons
+T94	ReactionOrProcess 3844 3851	cloning
+T95	Microbes 4265 4279	Cycloclasticus
+T96	Microbes 4180 4197	Oceanospirillales
+T97	Microbes 4251 4260	Colwellia
+T98	Environment 4144 4149	plume
+T99	Substrate 4123 4143	deep-sea hydrocarbon
+T100	Substrate 4132 4143	hydrocarbon
+T101	ReactionOrProcess 4044 4051	Cloning
+R17	CarriedOn Arg1:T101 Arg2:T95
+R18	CarriedOn Arg1:T101 Arg2:T96
+R19	CarriedOn Arg1:T101 Arg2:T97
+R20	CarriedOn Arg1:T101 Arg2:T99
+R21	CarriedOn Arg1:T101 Arg2:T100
+T102	Substrate 4708 4711	oil
+T103	Microbes 4772 4789	Oceanospirillales
+T104	Environment 4816 4821	plume
+T105	Environment 4952 4957	plume
+T106	ReactionOrProcess 5047 5056	extracted
+T107	ReactionOrProcess 5091 5100	extracted
+T108	Microbes 5325 5342	Oceanospirillales
+T109	Environment 5890 5895	plume
+T110	Environment 6030 6035	plume
+T111	Substrate 5777 5780	oil

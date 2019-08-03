@@ -1,0 +1,72 @@
+T1	Environment 67 75	aquifers
+T2	Nutrient 24 30	carbon
+T3	Substrate 593 599	phenol
+T4	Property 677 686	saturated
+T5	ReactionOrProcess 557 571	biodegradation
+T6	Nutrient 581 588	glucose
+R1	CarriedOn Arg1:T5 Arg2:T3
+T7	Environment 766 778	vadose zones
+T8	Substrate 782 791	petroleum
+T9	Environment 854 865	groundwater
+T10	Substrate 825 834	petroleum
+T11	Property 925 934	saturated
+T12	Environment 1063 1081	contaminated sites
+T13	Environment 965 976	vadose zone
+T14	Substrate 981 990	petroleum
+T15	ReactionOrProcess 991 1005	biodegradation
+T16	Environment 1176 1187	groundwater
+T17	Environment 1209 1222	alluvial sand
+T18	Environment 1218 1222	sand
+T19	Environment 1228 1234	porous
+T20	Environment 1272 1276	soil
+T21	Substrate 1313 1322	petroleum
+T22	Substrate 1323 1335	hydrocarbons
+T23	Substrate 1380 1392	hydrocarbons
+T24	Substrate 1323 1335	hydrocarbons
+T25	Substrate 1380 1392	hydrocarbons
+T26	Substrate 1313 1335	petroleum hydrocarbons
+T27	Property 1251 1264	concentration
+T28	ReactionOrProcess 1354 1376	aerobic biodegradation
+T29	ReactionOrProcess 1362 1376	biodegradation
+T30	Environment 1464 1468	sand
+T31	Substrate 1500 1509	petroleum
+T32	ReactionOrProcess 1514 1528	biodegradation
+T33	Environment 1571 1584	alluvial sand
+T34	Environment 1580 1584	sand
+T35	Environment 1853 1869	unsaturated soil
+T36	Environment 1847 1852	sandy
+T37	Environment 1865 1869	soil
+T38	Substrate 1917 1926	petroleum
+T39	Substrate 1927 1939	hydrocarbons
+T40	Substrate 1927 1939	hydrocarbons
+T41	Substrate 1917 1939	petroleum hydrocarbons
+T42	Property 1847 1852	sandy
+T43	Substrate 2166 2177	hydrocarbon
+T44	Substrate 2465 2474	petroleum
+T45	Environment 2501 2506	sandy
+T46	Environment 2588 2611	glacial melt-water sand
+T47	Environment 2607 2611	sand
+T48	Environment 2657 2661	sand
+T49	Property 2501 2506	sandy
+T50	Environment 2767 2772	water
+T51	Environment 2711 2718	aquifer
+T52	Property 2888 2898	fertilized
+T53	Substrate 2951 2960	petroleum
+T54	Substrate 2940 2960	artificial petroleum
+T55	Substrate 2940 2972	artificial petroleum hydrocarbon
+T56	Substrate 3004 3016	hydrocarbons
+T57	Substrate 2987 3016	typical kerosene hydrocarbons
+T58	Substrate 2961 2972	hydrocarbon
+T59	Substrate 3004 3016	hydrocarbons
+T60	Property 3168 3176	volatile
+T61	Environment 3282 3286	sand
+T62	Substrate 3205 3217	hydrocarbons
+T63	Substrate 3205 3217	hydrocarbons
+T64	Environment 3446 3450	soil
+T65	ReactionOrProcess 3556 3568	infiltration
+T66	Environment 3656 3660	soil
+T67	Substrate 3610 3621	hydrocarbon
+T68	ReactionOrProcess 4049 4065	flame ionization
+T69	Environment 4133 4144	groundwater
+T70	Environment 4120 4124	Soil
+T71	Environment 4225 4236	groundwater

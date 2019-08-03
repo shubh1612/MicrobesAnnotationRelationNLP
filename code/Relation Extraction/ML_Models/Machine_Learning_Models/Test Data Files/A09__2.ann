@@ -1,0 +1,71 @@
+T1 Environment 39 53 submerged sand
+T2 Environment 22 27 water
+T3 Environment 314 319 water
+T4 Property 104 113 dissolved
+T5 Property 169 178 dissolved
+T6 Property 282 296 concentrations
+T7 Nutrient 124 132 nitrogen
+T8 Environment 569 577 sediment
+T9 ReactionOrProcess 731 742 homogenized
+T10 Environment 1053 1058 beach
+T11 Substrate 1094 1105 visible oil
+T12 Substrate 1174 1177 oil
+T13 ReactionOrProcess 1329 1339 extraction
+T14 Substrate 1554 1557 oil
+T15 Substrate 1810 1813 oil
+T16 Substrate 1900 1903 oil
+T17 Substrate 1993 2004 hydrocarbon
+T18 Substrate 1989 1992 oil
+T19 Substrate 2211 2214 oil
+T20 ReactionOrProcess 2274 2283 extracted
+T21 Substrate 2487 2515 Total petroleum hydrocarbons
+T22 Substrate 2542 2568 Florida residual petroleum
+T23 Substrate 2631 2634 oil
+T24 Environment 2767 2778 beach sands
+T25 Substrate 2700 2711 hydrocarbon
+T26 Substrate 2696 2699 oil
+T27 Substrate 2753 2756 oil
+T28 Substrate 2844 2847 oil
+T29 Substrate 2906 2927 aromatic hydrocarbons
+T30 Substrate 2940 2950 aliphatics
+T31 Property 2929 2938 aromatics
+T32 Environment 3202 3212 beach sand
+T33 ReactionOrProcess 3013 3023 enrichment
+T34 ReactionOrProcess 3000 3011 Enumeration
+T35 ReactionOrProcess 3029 3038 isolation
+T36 Environment 3242 3261 artificial seawater
+T37 Substrate 3351 3354 oil
+T38 Property 3475 3488 concentration
+T39 Nutrient 3450 3456 carbon
+T40 Environment 3513 3533 anaerobic conditions
+T41 Substrate 3626 3633 nitrate
+T42 Nutrient 3659 3676 electron acceptor
+T43 ReactionOrProcess 3752 3763 aerobically
+T44 ReactionOrProcess 3690 3701 enumeration
+T45 Substrate 4018 4021 oil
+T46 Property 3914 3925 temperature
+T47 ReactionOrProcess 3999 4008 depletion
+T48 ReactionOrProcess 3896 3905 incubated
+T49 Environment 4401 4427 filter-sterilized seawater
+T50 Environment 4366 4385 artificial seawater
+T51 ReactionOrProcess 4435 4445 enrichment
+T52 ReactionOrProcess 4319 4330 enrichments
+T53 ReactionOrProcess 4281 4292 enrichments
+T54 Environment 4468 4476 seawater
+T55 Environment 4599 4612 oxic seawater
+T56 ReactionOrProcess 4613 4624 enrichments
+T57 Environment 4771 4789 Anaerobic seawater
+T58 ReactionOrProcess 4790 4801 enrichments
+R1 OccursIn Arg1:T33 Arg2:T32
+R2 OccursIn Arg1:T34 Arg2:T32
+R3 OccursIn Arg1:T35 Arg2:T32
+R4 CarriedOn Arg1:T47 Arg2:T45
+R5 CarriedOn Arg1:T48 Arg2:T45
+R6 OccursIn Arg1:T51 Arg2:T49
+R7 OccursIn Arg1:T51 Arg2:T50
+R8 OccursIn Arg1:T52 Arg2:T49
+R9 OccursIn Arg1:T52 Arg2:T50
+R10 OccursIn Arg1:T53 Arg2:T49
+R11 OccursIn Arg1:T53 Arg2:T50
+R12 OccursIn Arg1:T56 Arg2:T55
+R13 OccursIn Arg1:T58 Arg2:T57

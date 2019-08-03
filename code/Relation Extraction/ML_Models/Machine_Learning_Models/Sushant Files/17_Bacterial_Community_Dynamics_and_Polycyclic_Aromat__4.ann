@@ -1,0 +1,89 @@
+T1	Environment 64 100	biodegradation.The contaminated soil
+T2	Substrate 32 63	polycyclic aromatic hydrocarbon
+T3	Substrate 0 27	Total petroleum hydrocarbon
+T4	Substrate 120 123	TPH
+T5	Property 124 137	concentration
+T6	ReactionOrProcess 52 78	hydrocarbon biodegradation
+T7	Substrate 292 303	naphthalene
+T8	Substrate 255 266	naphthalene
+T9	Substrate 235 241	phenol
+T10	Substrate 198 216	aromatic compounds
+T11	Environment 506 510	soil
+T12	Substrate 438 442	PAHs
+T13	Substrate 447 450	TPH
+T14	ReactionOrProcess 463 474	evaporation
+T15	ReactionOrProcess 482 496	biodegradation
+T16	Substrate 521 525	
+T17	Property 596 610	concentrations
+T18	Substrate 696 699	TPH
+T19	Substrate 763 766	TPH
+T20	Environment 886 900	untreated soil
+T21	Environment 998 1013	autoclaved soil
+T22	Substrate 819 822	TPH
+T23	Property 823 836	concentration
+T24	Substrate 1076 1080	PAHs
+T25	Environment 1099 1107	dry soil
+T26	ReactionOrProcess 1169 1195	hydrocarbon biodegradation
+T27	Substrate 1325 1328	TPH
+T28	ReactionOrProcess 1329 1343	biodegradation
+T29	Substrate 1501 1504	TPH
+T30	ReactionOrProcess 1505 1514	depletion
+T31	ReactionOrProcess 1416 1430	
+T32	Substrate 1654 1658	PAHs
+T33	Substrate 1639 1642	TPH
+T34	Substrate 1832 1835	TPH
+T35	Property 1836 1849	concentration
+T36	ReactionOrProcess 1660 1684	biphasic TPH degradation
+T37	ReactionOrProcess 1621 1635	biodegradation
+T38	ReactionOrProcess 2081 2091	incubation
+T39	ReactionOrProcess 2159 2169	incubation
+T40	ReactionOrProcess 1906 1917	degradation
+T41	ReactionOrProcess 2356 2383	first-order TPH degradation
+T42	Environment 2688 2718	hydrocarbon-contaminated soils
+T43	ReactionOrProcess 2670 2684	bioremediation
+T44	Substrate 2749 2753	PAHs
+T45	ReactionOrProcess 2766 2774	degraded
+T46	ReactionOrProcess 2822 2836	biodegradation
+T47	ReactionOrProcess 2959 2973	biodegradation
+T48	Substrate 3075 3085	anthracene
+T49	Substrate 3058 3070	phenanthrene
+T50	ReactionOrProcess 3106 3114	degraded
+T51	Property 3200 3208	residual
+T52	Substrate 3297 3309	fluoranthene
+T53	Substrate 3416 3422	pyrene
+T54	ReactionOrProcess 3372 3398	early-stage biodegradation
+T55	ReactionOrProcess 3270 3284	biodegradation
+T56	Substrate 3520 3528	chrysene
+T57	ReactionOrProcess 3574 3588	biostimulation
+T58	ReactionOrProcess 3529 3540	degradation
+T59	ReactionOrProcess 3736 3744	degraded
+T60	ReactionOrProcess 3767 3781	biostimulation
+T61	Substrate 4063 4071	chrysene
+T62	ReactionOrProcess 3889 3914	late-stage biodegradation
+T63	ReactionOrProcess 4023 4037	biodegradation
+T64	ReactionOrProcess 4072 4086	biodegradation
+T65	ReactionOrProcess 4164 4172	degraded
+T66	ReactionOrProcess 4204 4222	PAH biodegradation
+T67	Microbes 4314 4398	heterotrophic and polycyclic aromatic hydrocarbon-degrading microbial populations.As
+T68	Microbes 4438 4491	heterotrophic and PAH-degrading microbial populations
+T69	ReactionOrProcess 4669 4683	biostimulation
+T70	ReactionOrProcess 4821 4831	incubation
+R1	CarriedOn Arg1:T6 Arg2:T2
+R2	CarriedOn Arg1:T6 Arg2:T3
+R4	OccursIn Arg1:T6 Arg2:T1
+R5	CarriedOn Arg1:T14 Arg2:T12
+R12	CarriedOn Arg1:T28 Arg2:T27
+R13	CarriedOn Arg1:T30 Arg2:T29
+R14	CarriedOn Arg1:T31 Arg2:T29
+R16	CarriedOn Arg1:T36 Arg2:T33
+R18	CarriedOn Arg1:T37 Arg2:T32
+R19	CarriedOn Arg1:T37 Arg2:T33
+R21	OccursIn Arg1:T43 Arg2:T42
+R22	CarriedOn Arg1:T45 Arg2:T44
+R24	CarriedOn Arg1:T50 Arg2:T48
+R25	CarriedOn Arg1:T50 Arg2:T49
+R27	CarriedOn Arg1:T54 Arg2:T53
+R28	CarriedOn Arg1:T55 Arg2:T52
+R31	CarriedOn Arg1:T58 Arg2:T56
+R33	CarriedOn Arg1:T63 Arg2:T61
+R34	CarriedOn Arg1:T64 Arg2:T61

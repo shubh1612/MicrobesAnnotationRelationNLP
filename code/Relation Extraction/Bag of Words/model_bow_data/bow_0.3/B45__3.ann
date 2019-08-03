@@ -1,0 +1,69 @@
+T1	Environment 0 5	Water
+T2	Environment 73 82	sediments
+T3	Environment 92 97	water
+T4	Environment 274 283	sediments
+T5	Environment 295 303	Sediment
+T6	Environment 342 346	Soil
+T7	Environment 426 430	soil
+T8	Environment 417 430	standard soil
+T9	Environment 504 509	water
+T10	Property 452 465	concentration
+T11	Microbes 554 573	enrichment cultures
+T12	ReactionOrProcess 554 564	enrichment
+T13	Environment 607 615	sediment
+T14	Environment 655 660	water
+T15	Substrate 825 830	MgCl2
+T16	Substrate 755 758	KCl
+T17	ReactionOrProcess 926 931	redox
+T18	Nutrient 780 784	NaCl
+T19	Environment 1526 1529	sea
+T20	Environment 1530 1535	water
+T21	Substrate 1472 1477	MgCl2
+T22	ReactionOrProcess 1430 1441	enrichments
+T23	Nutrient 1457 1461	NaCl
+R1	CarriedOn Arg1:T22 Arg2:T21
+T24	Property 1553 1565	methanogenic
+T25	Property 1553 1565	methanogenic
+T26	ReactionOrProcess 1644 1652	reducing
+T27	Property 1784 1796	Denitrifying
+T28	Property 1898 1910	sulfidogenic
+T29	ReactionOrProcess 1784 1796	Denitrifying
+T30	Nutrient 1836 1840	KNO3
+T31	Environment 1961 1969	sediment
+T32	Environment 2154 2159	water
+T33	Property 2093 2105	sulfidogenic
+T34	ReactionOrProcess 2272 2283	enrichments
+T35	Microbes 2712 2720	inoculum
+T36	Environment 2703 2711	sediment
+T37	Nutrient 2689 2695	carbon
+T38	Nutrient 2634 2651	electron acceptor
+T39	ReactionOrProcess 2740 2749	incubated
+T40	Substrate 2924 2931	benzene
+T41	Substrate 2933 2940	toluene
+T42	Substrate 2942 2954	ethylbenzene
+T43	Substrate 2967 2975	p-xylene
+T44	Property 3031 3044	concentration
+T45	Substrate 3057 3061	BTEX
+T46	Substrate 3109 3113	BTEX
+T47	ReactionOrProcess 3176 3187	enrichments
+T48	Nutrient 3138 3144	carbon
+T49	Microbes 3344 3352	inoculum
+T50	Environment 3328 3336	sediment
+T51	Environment 3292 3297	water
+T52	Environment 3316 3336	Arthur Kill sediment
+T53	Substrate 3244 3252	gasoline
+T54	Substrate 3236 3240	BTEX
+T55	ReactionOrProcess 3189 3199	Enrichment
+T56	ReactionOrProcess 3189 3200	Enrichments
+T57	ReactionOrProcess 3221 3232	degradation
+R2	CarriedOn Arg1:T56 Arg2:T49
+R3	CarriedOn Arg1:T57 Arg2:T49
+R4	CarriedOn Arg1:T56 Arg2:T53
+R5	CarriedOn Arg1:T56 Arg2:T54
+R6	CarriedOn Arg1:T57 Arg2:T53
+R7	CarriedOn Arg1:T57 Arg2:T54
+T58	Substrate 3468 3476	gasoline
+T59	Substrate 3515 3523	gasoline
+T60	Substrate 3411 3415	BTEX
+T61	Substrate 3504 3523	commercial gasoline
+T62	Substrate 3525 3529	BTEX

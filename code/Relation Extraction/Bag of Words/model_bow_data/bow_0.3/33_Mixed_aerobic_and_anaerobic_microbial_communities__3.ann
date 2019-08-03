@@ -1,0 +1,37 @@
+T1	Substrate 147 154	alkanes
+T2	Substrate 159 163	PAHs
+T3	Substrate 343 346	PAH
+T4	Substrate 263 269	diesel
+T5	ReactionOrProcess 451 461	extraction
+T6	ReactionOrProcess 522 533	extractions
+T7	Environment 682 693	groundwater
+T8	ReactionOrProcess 654 663	extracted
+T9	ReactionOrProcess 607 617	extraction
+T10	ReactionOrProcess 622 625	PCR
+T11	ReactionOrProcess 603 617	DNA extraction
+T12	Microbes 1031 1038	Archaea
+T13	ReactionOrProcess 828 831	PCR
+R1	CarriedOn Arg1:T13 Arg2:T12
+T14	ReactionOrProcess 1206 1218	denaturation
+T15	ReactionOrProcess 1268 1280	denaturation
+T16	ReactionOrProcess 1333 1342	extension
+T17	Microbes 1605 1612	E. coli
+T18	ReactionOrProcess 1467 1473	cloned
+T19	ReactionOrProcess 1449 1452	PCR
+T20	ReactionOrProcess 1489 1496	cloning
+T21	ReactionOrProcess 1426 1433	Cloning
+R2	CarriedOn Arg1:T21 Arg2:T17
+T22	Nutrient 1657 1661	agar
+T23	ReactionOrProcess 1796 1799	PCR
+T24	Environment 2318 2329	groundwater
+T25	Environment 2561 2566	water
+T26	ReactionOrProcess 2527 2535	purified
+T27	ReactionOrProcess 2536 2539	PCR
+T28	Substrate 2676 2683	ethanol
+T29	ReactionOrProcess 2783 2798	electrophoresis
+T30	ReactionOrProcess 2908 2929	Phylogenetic analyses
+T31	Property 3382 3401	secondary structure
+T32	ReactionOrProcess 3403 3424	Phylogenetic analyses
+T33	Environment 3706 3717	groundwater
+T34	Substrate 3665 3672	Benzene
+T35	Property 3686 3695	pollutant

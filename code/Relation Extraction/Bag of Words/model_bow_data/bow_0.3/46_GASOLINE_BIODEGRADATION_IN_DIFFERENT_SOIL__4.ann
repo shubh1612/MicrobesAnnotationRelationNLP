@@ -1,0 +1,17 @@
+T1	ReactionOrProcess 46 61	bioaugmentation
+T2	Microbes 243 254	alcaligenes
+T3	Microbes 269 277	inoculum
+T4	Microbes 228 238	B. cepacia
+T5	Microbes 259 268	P. putida
+T6	Microbes 240 254	P. alcaligenes
+T7	Environment 154 165	native soil
+T8	Environment 154 176	native soil microflora
+T9	Environment 161 165	soil
+T10	Environment 353 357	soil
+T11	Environment 456 461	soils
+T12	Substrate 414 422	gasoline
+T13	Property 323 336	concentration
+T14	ReactionOrProcess 406 413	degrade
+T15	Nutrient 372 376	H2O2
+T16	Nutrient 309 315	NH4NO3
+T17	ReactionOrProcess 688 699	remediation

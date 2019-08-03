@@ -1,0 +1,78 @@
+T1	Environment 140 145	beach
+T2	Environment 140 151	beach sands
+T3	Environment 146 151	sands
+T4	Substrate 390 393	oil
+T5	Environment 473 478	beach
+T6	Environment 473 484	beach sands
+T7	Environment 479 484	sands
+T8	Substrate 644 654	visual oil
+T9	Substrate 651 654	oil
+T10	Microbes 835 854	Gammaproteobacteria
+T11	Microbes 859 878	Alphaproteobacteria
+T12	Environment 902 907	beach
+T13	Environment 902 912	beach sand
+T14	Environment 908 912	sand
+T15	Substrate 940 943	oil
+T16	Microbes 996 1010	Actinobacteria
+T17	Microbes 972 991	Alphaproteobacteria
+T18	Microbes 1265 1281	Rhodobacteraceae
+T19	Microbes 1198 1217	Alphaproteobacteria
+T20	Substrate 1387 1398	hydrocarbon
+T21	Substrate 1490 1493	oil
+T22	ReactionOrProcess 1387 1413	hydrocarbon biodegradation
+T23	ReactionOrProcess 1399 1413	biodegradation
+T24	Environment 1580 1596	marine sediments
+T25	Environment 1587 1596	sediments
+T26	Environment 1580 1586	marine
+T27	Environment 1580 1596	marine sediments
+T28	Substrate 1527 1530	oil
+T29	Property 1749 1763	biosurfactants
+T30	ReactionOrProcess 1531 1542	degradation
+T31	ReactionOrProcess 1527 1542	oil degradation
+T32	Substrate 2014 2025	hydrocarbon
+T33	ReactionOrProcess 2014 2037	hydrocarbon degradation
+T34	ReactionOrProcess 2026 2037	degradation
+T35	Environment 2108 2120	marine sands
+T36	Environment 2108 2120	marine sands
+T37	Environment 2108 2114	marine
+T38	Environment 2115 2120	sands
+T39	Substrate 2165 2177	hydrocarbons
+T40	Substrate 2165 2177	hydrocarbons
+T41	Substrate 2087 2090	oil
+T42	ReactionOrProcess 2157 2164	degrade
+T43	Substrate 2390 2401	hydrocarbon
+T44	ReactionOrProcess 2390 2413	hydrocarbon degradation
+T45	ReactionOrProcess 2402 2413	degradation
+T46	Environment 2578 2584	marine
+T47	Substrate 2557 2560	oil
+T48	Substrate 2610 2613	oil
+T49	Substrate 2830 2833	oil
+T50	Environment 3045 3055	microcosms
+T51	Environment 2965 2971	marine
+T52	ReactionOrProcess 3009 3019	enrichment
+T53	Substrate 3236 3239	oil
+T54	ReactionOrProcess 3240 3254	bioremediation
+T55	ReactionOrProcess 3236 3254	oil bioremediation
+T56	ReactionOrProcess 3167 3181	biostimulation
+R1	CarriedOn Arg1:T56 Arg2:T53
+T57	Substrate 3366 3369	oil
+T58	Property 3409 3420	attenuation
+T59	Substrate 3452 3455	oil
+T60	Environment 3867 3872	beach
+T61	Environment 3867 3878	beach sands
+T62	Environment 3873 3878	sands
+T63	Substrate 3769 3772	oil
+T64	Substrate 3845 3848	oil
+T65	Property 3849 3858	degraders
+T66	ReactionOrProcess 3704 3715	enumeration
+R2	CarriedOn Arg1:T66 Arg2:T63
+R3	CarriedOn Arg1:T66 Arg2:T64
+T67	Environment 4016 4022	marine
+T68	Substrate 3931 3934	oil
+T69	Nutrient 3962 3968	carbon
+T70	Environment 4140 4145	Beach
+T71	Environment 4140 4151	Beach sands
+T72	Environment 4146 4151	sands
+T73	Substrate 4228 4231	oil
+T74	Environment 4374 4385	oiled sands
+T75	Environment 4380 4385	sands

@@ -1,0 +1,26 @@
+T1	ReactionOrProcess 507 510	PCR
+T2	Property 598 610	methanogenic
+T3	Property 679 691	methanogenic
+T4	Property 701 717	sulfate-reducing
+T5	Property 767 783	sulfate-reducing
+T6	ReactionOrProcess 571 581	extraction
+T7	ReactionOrProcess 878 881	PCR
+T8	ReactionOrProcess 886 893	cloning
+T9	Environment 1210 1222	soil samples
+T10	ReactionOrProcess 1374 1379	redox
+T11	Property 1637 1649	methanogenic
+T12	Nutrient 1562 1579	electron acceptor
+T13	Property 1969 1980	contaminant
+T14	ReactionOrProcess 1918 1928	extraction
+T15	ReactionOrProcess 2092 2101	extracted
+T16	Environment 2254 2259	plume
+T17	Substrate 2216 2227	hydrocarbon
+T18	Nutrient 2275 2281	carbon
+T19	Property 2358 2370	contaminants
+T20	ReactionOrProcess 2525 2536	extractions
+T21	Property 2689 2701	methanogenic
+T22	Environment 2854 2871	archaeal sequence
+T23	Environment 2915 2922	aquifer
+T24	Environment 2790 2822	universal methanogenic libraries
+T25	Property 2890 2902	methanogenic
+T26	Microbes 3856 3863	E. coli
